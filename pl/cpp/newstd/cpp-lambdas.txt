@@ -10,9 +10,11 @@ http://youtu.be/rcgRY7sOA58
 http://nwcpp.org/talks/2011/lambda.pdf
 
 Generic Lambdas:
-http://yapb-soc.blogspot.com/2012/12/clang-and-generic-polymorphic-lambdas.html
 http://en.wikipedia.org/wiki/C%2B%2B14#Generic_lambdas
 http://stackoverflow.com/questions/17233547/how-does-generic-lambda-work-in-c14
+
+For Geeks Only - Generic Polymorphic Lambdas:
+http://yapb-soc.blogspot.com/2012/12/clang-and-generic-polymorphic-lambdas.html
 
 Russian Only:
 

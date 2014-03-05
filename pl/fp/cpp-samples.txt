@@ -1,3 +1,7 @@
+Blogs:
+http://yapb-soc.blogspot.com/
+http://functionalcpp.wordpress.com/
+
 TypeClasses in Cpp:
 http://habrahabr.ru/post/205482/
 
@@ -21,3 +25,7 @@ DosReis - What is Generic Programming (mostly for cpp)
 
 Sankel
  Sankel - Modern Functional Programming for Cpp
+
+
+Fun with Tuples:
+http://yapb-soc.blogspot.com/2012/12/fun-with-tuples.html
