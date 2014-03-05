@@ -1,0 +1,5 @@
+http://hackage.haskell.org/package/zippo
+http://brandon.si/code/zippo/
+
+http://hackage.haskell.org/package/zippers-0.2
+https://github.com/ekmett/zippers/
