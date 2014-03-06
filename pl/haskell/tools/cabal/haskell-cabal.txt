@@ -1,6 +1,6 @@
 CABAL - Common Architecture for Building Applications and Libraries
 
-
+http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/
 http://habrahabr.ru/post/165559/
 http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
 http://www.reddit.com/r/haskell/comments/16qpi7/best_practice_of_using_haskellcabal_on_windows/
@@ -15,11 +15,13 @@ http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
 Documentation:
 http://eax.me/mini-notes-issue-17/
 
+
 Get a pre-built cabal.exe from:
 
 http://www.haskell.org/cabal/download.html
 
 You must put the cabal.exe in a directory that is on your %PATH%, for example C:\Program Files\Haskell\bin. 
+
 
 To install cabal-packages globally:
 
@@ -56,13 +58,15 @@ cabal install <package>
 
 cabal unpack <package>
 
-* haddock *
-
-cabal haddock <package>
-
 * init *
 
 generate package.cabal file
+
+* repl *
+
+run a ghci repl
+
+* run *
 
 ****************************************************************************************************
 documentation
@@ -77,6 +81,10 @@ http://eax.me/mini-notes-issue-17/
 documentation: True
 
 cabal install haskell-docs
+
+* haddock *
+
+cabal haddock <package> --hyperlink-source
 
 ****************************************************************************************************
 cabal files

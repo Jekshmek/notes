@@ -4,3 +4,5 @@ https://www.fpcomplete.com/user/snoyberg/library-documentation/resourcet
 
 https://www.fpcomplete.com/user/jwiegley/conduit-tour
 
+Samples:
+http://www.yesodweb.com/blog/2014/03/network-conduit-async
