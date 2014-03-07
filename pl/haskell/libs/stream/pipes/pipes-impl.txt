@@ -1,9 +1,40 @@
-http://hackage.haskell.org/package/pipes-4.1.0/docs/Pipes-Tutorial.html
+http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html
   Introduction
-http://hackage.haskell.org/packages/archive/pipes/latest/doc/html/Pipes-Core.html
+http://hackage.haskell.org/package/pipes/docs/Pipes-Core.html
 
-http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
 http://www.haskellforall.com/2014/03/how-to-model-handles-with-pipes.html
+http://www.haskellforall.com/2013/09/pipes-40-simpler-types-and-api.html
+http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
+
+To enforce loose coupling, components can only communicate using two commands:
+
+    yield: Send output data
+    await: Receive input data 
+
+pipes has four types of components built around these two commands:
+
+    Producers can only yield values and they model streaming sources
+    Consumers can only await values and they model streaming sinks
+    Pipes can both yield and await values and they model stream transformations
+    Effects can neither yield nor await and they model non-streaming components 
+
+You can connect these components together in four separate ways which parallel the four above types:
+
+    for   handles yields
+    (>~)  handles awaits
+    (>->) handles both yields and awaits
+    (>>=) handles return values 
+
+As you connect components their types will change to reflect inputs and outputs that you've fused away.
+You know that you're done connecting things when you get an Effect, meaning that you have handled all inputs and outputs.
+You run this final Effect to begin streaming.
+
+
+(>->) is the unidirectional pull-based composition, instead of bidirectional composition
+now we use (uni) await, yield
+
+
+
 
 Internal.hs
 
@@ -23,10 +54,257 @@ Internal.hs
     * @r @ - The return value
 -}
 data Proxy a' a b' b m r
-    = Request a' (a  -> Proxy a' a b' b m r )
-    | Respond b  (b' -> Proxy a' a b' b m r )
+    = Request a' (a  -> Proxy a' a b' b m r )     -- Request a' fa
+    | Respond b  (b' -> Proxy a' a b' b m r )     -- Respond b  fb'
     | M          (m    (Proxy a' a b' b m r))
     | Pure    r
+
+--- Core.hs ---
+
+{-|
+Proxy Monad Transformer
+
+Diagrammatically, you can think of a Proxy as having the following shape:
+
+ Upstream | Downstream
+     +---------+
+     |         |
+ a' <==       <== b'
+     |         |
+ a  ==>       ==> b
+     |    |    |
+     +----|----+
+          v
+          r
+
+You can connect proxies together in five different ways:
+
+    (>+>): connect pull-based streams
+    (>~>): connect push-based streams
+    (\>\): chain folds
+    (/>/): chain unfolds
+    (>=>): sequence proxies 
+-}
+
+{-| An effect in the base monad
+
+    'Effect's neither 'Pipes.await' nor 'Pipes.yield'
+-}
+type Effect = Proxy X () () X
+
+{-| The empty type, used to close output ends
+
+    When @Data.Void@ is merged into @base@, this will change to:
+
+> type X = Void
+-}
+newtype X = X X
+
+-- | Use 'closed' to \"handle\" impossible outputs
+closed :: X -> a
+closed (X x) = closed x
+{-# INLINABLE closed #-}
+
+-- | Run a self-contained 'Effect', converting it back to the base monad
+runEffect :: Monad m => Effect m r -> m r
+runEffect = go
+  where
+    go p = case p of
+        Request v _ -> closed v
+        Respond v _ -> closed v
+        M       m   -> m >>= go
+        Pure    r   -> return r
+{-# INLINABLE runEffect #-}    
+
+{-|
+Categories
+
+A Category is a set of components that you can connect with a composition operator, (.), that has an identity, id. The (.) and id must satisfy the following three Category laws:
+
+-- Left identity
+id . f = f
+
+-- Right identity
+f . id = f
+
+-- Associativity
+(f . g) . h = f . (g . h)
+
+The Proxy type sits at the intersection of five separate categories, four of which are named after their identity:
+
+                     Identity   | Composition |  Point-ful
+                  +-------------+-------------+-------------+
+ respond category |   respond   |     />/     |     //>     |
+ request category |   request   |     \>\     |     >\\     |
+    push category |   push      |     >~>     |     >>~     |
+    pull category |   pull      |     >+>     |     +>>     |
+ Kleisli category |   return    |     >=>     |     >>=     |
+                  +-------------+-------------+-------------+
+
+Each composition operator has a "point-ful" version, analogous to how (>>=) is the point-ful version of (>=>).
+For example, (//>) is the point-ful version of (/>/).
+The convention is that the odd character out faces the argument that is a function.
+
+
+++++
++ My note: >-> and +>> are for the pull category, but let's start from
+++++
+
+Push
+
+The push category closely corresponds to push-based Unix pipes.
+
+The push category obeys the category laws, where push is the identity and (>~>) is composition:
+
+-- Left identity
+push >~> f = f
+
+-- Right identity
+f >~> push = f
+
+-- Associativity
+(f >~> g) >~> h = f >~> (g >~> h)
+
+The following diagram shows the flow of information:
+
+push  :: Monad m
+      =>  a -> Proxy a' a a' a m r
+
+          a
+          |
+     +----|----+
+     |    v    |
+ a' <============ a'
+     |         |
+ a  ============> a
+     |    |    |
+     +----|----+
+          v
+          r
+
+(>~>) :: Monad m
+      => (a -> Proxy a' a b' b m r)
+      -> (b -> Proxy b' b c' c m r)
+      -> (a -> Proxy a' a c' c m r)
+
+          a                b                      a
+          |                |                      |
+     +----|----+      +----|----+            +----|----+
+     |    v    |      |    v    |            |    v    |
+ a' <==       <== b' <==       <== c'    a' <==       <== c'
+     |    f    |      |    g    |     =      | f >~> g |
+ a  ==>       ==> b  ==>       ==> c     a  ==>       ==> c
+     |    |    |      |    |    |            |    |    |
+     +----|----+      +----|----+            +----|----+
+          v                v                      v
+          r                r                      r
+
+...
+
+{-|
+Forward responses followed by requests
+
+push = respond >=> request >=> push
+
+push is the identity of the push category.
+-}
+push :: Monad m => a -> Proxy a' a a' a m r
+push = go
+  where
+    go a = Respond a (\a' -> Request a' go)
+{-# INLINABLE push #-}
+
+
+Pull
+
+The pull category closely corresponds to pull-based Unix pipes.
+
+The pull category obeys the category laws, where pull is the identity and (>+>) is composition:
+
+-- Left identity
+pull >+> f = f
+
+-- Right identity
+f >+> pull = f
+
+-- Associativity
+(f >+> g) >+> h = f >+> (g >+> h)
+
+The following diagrams show the flow of information:
+
+pull  :: Monad m
+      =>  a' -> Proxy a' a a' a m r
+
+          a'
+          |
+     +----|----+
+     |    v    |
+ a' <============ a'
+     |         |
+ a  ============> a
+     |    |    |
+     +----|----+
+          v
+          r
+
+(>+>) :: Monad m
+      -> (b' -> Proxy a' a b' b m r)
+      -> (c' -> Proxy b' b c' c m r)
+      -> (c' -> Proxy a' a c' c m r)
+
+          b'               c'                     c'
+          |                |                      |
+     +----|----+      +----|----+            +----|----+
+     |    v    |      |    v    |            |    v    |
+ a' <==       <== b' <==       <== c'    a' <==       <== c'
+     |    f    |      |    g    |     =      | f >+> g |
+ a  ==>       ==> b  ==>       ==> c     a  ==>       ==> c
+     |    |    |      |    |    |            |    |    |
+     +----|----+      +----|----+            +----|----+
+          v                v                      v
+          r                r                      r
+
+{-| @(f +>> p)@ pairs each 'request' in @p@ with a 'respond' in @f@.
+
+    Point-ful version of ('>+>')
+-}
+(+>>)
+    :: Monad m
+    => (b' -> Proxy a' a b' b m r)
+    -- ^
+    ->        Proxy b' b c' c m r
+    -- ^
+    ->        Proxy a' a c' c m r
+    -- ^
+fb' +>> p = case p of
+    Request b' fb  -> fb' b' >>~ fb
+    Respond c  fc' -> Respond c (\c' -> fb' +>> fc' c')
+    M          m   -> M (m >>= \p' -> return (fb' +>> p'))
+    Pure       r   -> Pure r
+{-# INLINABLE (+>>) #-}
+
+...
+
+{-| @(p >>~ f)@ pairs each 'respond' in @p@ with an 'request' in @f@.
+
+    Point-ful version of ('>~>')
+-}
+(>>~)
+    :: Monad m
+    =>       Proxy a' a b' b m r
+    -- ^
+    -> (b -> Proxy b' b c' c m r)
+    -- ^
+    ->       Proxy a' a c' c m r
+    -- ^
+p >>~ fb = case p of
+    Request a' fa  -> Request a' (\a -> fa a >>~ fb)
+    Respond b  fb' -> fb' +>> fb b
+    M          m   -> M (m >>= \p' -> return (p' >>~ fb))
+    Pure       r   -> Pure r
+{-# INLINABLE (>>~) #-}
+
+--- ---
 
 instance Monad m => Functor (Proxy a' a b' b m) where
     fmap f p0 = go p0 where
@@ -236,70 +514,29 @@ p1 >-> p2 = (\() -> p1) +>> p2
 {-# INLINABLE (>->) #-}
 
 
-Core.hs
+yield :: Monad m => a -> Producer' a m ()
+yield = respond
+{-# INLINABLE yield #-}
 
-    -- ** Pull
-    -- $pull
-    , pull
-    , (>+>)
-    , (+>>)
+await :: Monad m => Consumer' a m a
+await = request ()
+{-# INLINABLE await #-}
 
-{- $categories
-    A 'Control.Category.Category' is a set of components that you can connect
-    with a composition operator, ('Control.Category..'), that has an identity,
-    'Control.Category.id'.  The ('Control.Category..') and 'Control.Category.id'
-    must satisfy the following three 'Control.Category.Category' laws:
 
-@
-\-\- Left identity
-'Control.Category.id' 'Control.Category..' f = f
+{-| Send a value of type @a@ downstream and block waiting for a reply of type
+    @a'@
 
-\-\- Right identity
-f 'Control.Category..' 'Control.Category.id' = f
-
-\-\- Associativity
-(f 'Control.Category..' g) 'Control.Category..' h = f 'Control.Category..' (g 'Control.Category..' h)
-@
-
-    The 'Proxy' type sits at the intersection of five separate categories, four
-    of which are named after their identity:
-
-@
-                     Identity   | Composition |  Point-ful
-                  +-------------+-------------+-------------+
- respond category |   'respond'   |     '/>/'     |     '//>'     |
- request category |   'request'   |     '\>\'     |     '>\\'     |
-    push category |   'push'      |     '>~>'     |     '>>~'     |
-    pull category |   'pull'      |     '>+>'     |     '+>>'     |
- Kleisli category |   'return'    |     'Control.Monad.>=>'     |     '>>='     |
-                  +-------------+-------------+-------------+
-@
-
-    Each composition operator has a \"point-ful\" version, analogous to how
-    ('>>=') is the point-ful version of ('Control.Monad.>=>').  For example,
-    ('//>') is the point-ful version of ('/>/').  The convention is that the
-    odd character out faces the argument that is a function.
+    'respond' is the identity of the respond category.
 -}
+respond :: Monad m => a -> Proxy x' x a' a m a'
+respond a = Respond a Pure
+{-# INLINABLE respond #-}
 
 
+{-| Send a value of type @a'@ upstream and block waiting for a reply of type @a@
 
-
-{-| @(f +>> p)@ pairs each 'request' in @p@ with a 'respond' in @f@.
-
-    Point-ful version of ('>+>')
+    'request' is the identity of the request category.
 -}
-(+>>)
-    :: Monad m
-    => (b' -> Proxy a' a b' b m r)
-    -- ^
-    ->        Proxy b' b c' c m r
-    -- ^
-    ->        Proxy a' a c' c m r
-    -- ^
-fb' +>> p = case p of
-    Request b' fb  -> fb' b' >>~ fb
-    Respond c  fc' -> Respond c (\c' -> fb' +>> fc' c')
-    M          m   -> M (m >>= \p' -> return (fb' +>> p'))
-    Pure       r   -> Pure r
-{-# INLINABLE (+>>) #-}
-
+request :: Monad m => a' -> Proxy a' a y' y m a
+request a' = Request a' Pure
+{-# INLINABLE request #-}

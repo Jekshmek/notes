@@ -1,8 +1,6 @@
 http://www.haskellforall.com/2013/06/the-resource-applicative.html
 
 Tutorials:
-http://hackage.haskell.org/packages/archive/pipes/latest/doc/html/Control-Proxy-Tutorial.html
-http://hackage.haskell.org/packages/archive/pipes/latest/doc/html/Control-Proxy-Synonym.html
 
 Consumer ... Client (generalizes Consumer)
 Producer ... Server (generalizes Producer)

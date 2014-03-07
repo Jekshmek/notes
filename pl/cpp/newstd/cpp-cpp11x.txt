@@ -8,6 +8,8 @@ Presentations:
 Sinyakov - Cpp11
   http://www.slideshare.net/adankevich/c11-15621074
   slide 71
+DeLong - Cpp The Good Parts ???
+  http://www.infoq.com/presentations/c-plus-plus-pros
 
 Articles:
 
