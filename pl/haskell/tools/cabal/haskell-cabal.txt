@@ -41,6 +41,10 @@ http://www.haskell.org/cabal/users-guide/installing-packages.html#path-variables
 "Paths in the simple build system"
 https://github.com/haskell/cabal/blob/master/Cabal/Distribution/Simple/InstallDirs.hs
 
+* configure *
+
+cabal configure -v
+
 * update *
 
 cabal update --verbose=3

@@ -27,3 +27,7 @@ http://scalamacros.org/paperstalks/2013-06-13-AppliedMaterialization.pdf
 Let our Powers Combine:
 http://scalamacros.org/paperstalks/2013-07-02-LetOurPowersCombine.pdf
 http://scalamacros.org/paperstalks/2013-04-22-LetOurPowersCombine.pdf
+
+Quasiquotation Guide:
+http://den.sh/quasiquotes.html
+http://www.reddit.com/r/scala/comments/1zwlb5/quasiquote_guide_for_scala_211_work_in_progress/
