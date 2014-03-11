@@ -18,11 +18,10 @@ Jones - Call-pattern Specialization       - 6..8..9..10 (4.2)
 Kniberg - Scrum and XP from the Trenches  - 20..94
 
 Video:
-Miller - Scalas Type System Dependent     -  16:00
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Gritz 2,1-12                              -1:09:00
+Gritz 2,13-16                             -  00:00
 Sedakova                                  -  34:00
 
 Tracking:
