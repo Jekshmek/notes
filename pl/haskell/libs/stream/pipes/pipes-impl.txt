@@ -540,3 +540,24 @@ respond a = Respond a Pure
 request :: Monad m => a' -> Proxy a' a y' y m a
 request a' = Request a' Pure
 {-# INLINABLE request #-}
+
+
+
+*** TYPE ALIASES ***
+
+{-| An effect in the base monad
+
+    'Effect's neither 'Pipes.await' nor 'Pipes.yield'
+-}
+type Effect = Proxy X () () X
+
+-- | 'Producer's can only 'Pipes.yield'
+type Producer b = Proxy X () () b
+
+-- | 'Pipe's can both 'Pipes.await' and 'Pipes.yield'
+type Pipe a b = Proxy () a () b
+
+-- | 'Consumer's can only 'Pipes.await'
+type Consumer a = Proxy () a () X
+
+
