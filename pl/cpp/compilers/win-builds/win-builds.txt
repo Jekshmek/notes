@@ -1,0 +1,3 @@
+http://win-builds.org/stable/msys-cygwin.html
+
+\msys\1.0\opt\windows_64\var\cache\packages\

@@ -20,3 +20,6 @@ def foo[T <: Seq[A]](s: T): T = ?
 Case classes
 
 Scala automatically adds a companion objects for case-classes (with apply methods which encapsulate new ...).
+
+Recursive types:
+http://blog.originate.com/blog/2014/02/27/types-inside-types-in-scala/

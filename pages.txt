@@ -3,21 +3,19 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-https://github.com/Shougo/vimfiler.vim/blob/master/doc/vimfiler.txt
-  SOURCES VARIABLES
 http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/
   Benchmarks
 http://amnesia.pavelbers.com/Klassika%20v%20muzike.htm
   History
 
 Books:
-Lavie - GLR*                              - 85..91..107..133..145..149 (Ch 4 of 8)
-Ibsen - Camel in Action                   - 465..470..477..483..487..500 (App A of E)
-Mironova - Unusual Adventure to Ancient   - 193..204..215
+Lavie - GLR*                              - 87..91..107..133..145..149 (Ch 4 of 8)
+Ibsen - Camel in Action                   - 471..477..483..487..500 (App B of E)
+Mironova - Unusual Adventure to Ancient   - 195..204..215
 
 Articles:
-Jones - Call-pattern Specialization       - 7-10 (4.4)
-Kniberg - Scrum and XP from the Trenches  - 22..94
+Jones - Call-pattern Specialization       - 9-10 (6)
+Kniberg - Scrum and XP from the Trenches  - 24..94
 Stolarek - Understanding Basic Haskell E  - 0
 
 Video:

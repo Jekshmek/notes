@@ -88,7 +88,14 @@ cabal install haskell-docs
 
 * haddock *
 
-cabal haddock <package> --hyperlink-source
+cabal haddock <package> --hyperlink-source --executable -v
+
+http://www.haskell.org/haddock/doc/html/ch03s02.html
+http://www.haskell.org/haddock/doc/html/ch03s04.html
+http://www.haskell.org/haddock/doc/html/ch03s05.html
+http://www.haskell.org/haddock/doc/html/ch03s08.html
+http://stackoverflow.com/questions/13153747/errors-on-building-haddock-documentation-with-cabal
+http://stackoverflow.com/questions/18238975/haddock-cant-find-the-documentation-for-installed-packages
 
 ****************************************************************************************************
 cabal files

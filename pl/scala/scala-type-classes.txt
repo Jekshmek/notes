@@ -1,5 +1,6 @@
 http://www.cakesolutions.net/teamblogs/2013/12/16/typeclases-in-scala-haskell/
 https://www.bionicspirit.com/blog/2012/11/02/scala-functional-programming-type-classes.html
+https://github.com/tpolecat/tut/blob/master/out/Typeclass.md
 
 Miller - Scalas Type System Dependent Types and What It Means To You
 http://youtu.be/ptCvn4-lyXM
