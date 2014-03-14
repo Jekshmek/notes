@@ -4,19 +4,20 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/
-  Benchmarks
+  Code Quality
 http://amnesia.pavelbers.com/Klassika%20v%20muzike.htm
   History
+:h unite-commands
+haskell/libs/native.txt
 
 Books:
-Lavie - GLR*                              - 87..91..107..133..145..149 (Ch 4 of 8)
-Ibsen - Camel in Action                   - 471..477..483..487..500 (App B of E)
-Mironova - Unusual Adventure to Ancient   - 195..204..215
+Lavie - GLR*                              - 89..91..107..133..145..149 (Ch 4 of 8)
+Ibsen - Camel in Action                   - 477..483..487..499 (App C of E)
+Mironova - Unusual Adventure to Ancient   - 196..204..215
 
 Articles:
-Jones - Call-pattern Specialization       - 9-10 (6)
-Kniberg - Scrum and XP from the Trenches  - 24..94
-Stolarek - Understanding Basic Haskell E  - 0
+Stolarek - Understanding Basic Haskell E  - 7..20
+Kniberg - Scrum and XP from the Trenches  - 25..94
 
 Video:
 Linux in a Real World 11                  -  01:00
@@ -27,7 +28,7 @@ Sedakova                                  -  34:00
 
 Tracking:
 ACCU                                      - 119
-https://www.fpcomplete.com/recent-content - 10 Mar
+https://www.fpcomplete.com/recent-content - 13 Mar
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

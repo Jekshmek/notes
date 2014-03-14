@@ -138,6 +138,9 @@ Coutts - Stream Fusion - Practical Shortcut Fusion for Coinductive Sequence Type
 
 Harper - Stream Fusion on Haskell Unicode Strings
 
+SpecConstr:
+Jones - Call-pattern Specialization for Haskell Programs
+
 +++++++++++++++++
 + FP In Haskell +
 +++++++++++++++++

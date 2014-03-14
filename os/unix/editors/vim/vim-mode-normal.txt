@@ -1,8 +1,10 @@
 Command Line Options -N
 	Use newer Vim mode (not compatible with the original vi)
 
+:viu
+    Help on normal mode commands
 :h c_
-	Help on command-mode keys
+    Help on command-mode keys
 
 *****************
 * Text Objects: *

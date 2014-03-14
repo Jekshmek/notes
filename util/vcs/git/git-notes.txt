@@ -1,5 +1,8 @@
 Git manages tags/refs, pointing to the commit-objects, organized in a DAG-graph of trees, consisting of the smaller-trees and file-blobs objects (sometimes moved to a packs)
 
+Articles
+http://jaxenter.com/git-is-simple-on-the-inside-49426.html
+
 Presentations
 https://speakerdeck.com/matthewmccullough/git-graphs-hashes-and-compression-oh-my-1 (http://youtu.be/ig5E8CcdM9g)
 http://www.slideshare.net/chacon/git-101-presentation

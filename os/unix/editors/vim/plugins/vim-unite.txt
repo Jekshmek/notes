@@ -1,0 +1,47 @@
+Keys:
+
+Tab
+C-i
+    Different Unite action (see |unite-action| to read on about different actions).
+
+TODO:
+Modes:
+    fuzzy
+
+Sources:
+:h unites-sources
+    file
+    file_rec
+    buffer
+    yank
+
+
+Candidate list masks:
+
+*hisa
+    This example matches hisa, ujihisa, or ujihisahisa.
+
+**/foo
+    This example would matche bar/foo or buzz/bar/foo.
+    Two consecutive wild cards recursively match directories.
+
+Note: The unite action |file_rec| (read: file recursive) does a recursive
+file search by default without the need to set wildcards.
+
+foo bar
+foo|bar
+    This example matches "foobar" and "foobazbar", but not "foobaz"
+    Multiple keywords can be be use to narrow down the candidates. They are separated by either a space " " or a pipe "|", and act like a logical AND.
+
+foo !bar
+    This example matches candidates that contain "foo" but not "bar".
+    Specify negative conditions with a bang "!".
+
+" Jump to line 3.
+foo :3
+" Search to "bar".
+foo :/bar
+" Executes :diffthis command.
+foo :diffthis
+    Specify command execution after the action with a ":".
+    See |unite_default_key_mappings| for other actions.
