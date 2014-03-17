@@ -1,0 +1,6 @@
+1. Install mingw-get-setup with CLI interface only
+2. Install a (meta) package:
+  mingw-get install msys-base msys-man msys-zip msys-unzip
+3. (optionally) install mingw-get-info (http://blog.fourthwoods.com/2013/01/04/managing-mingw-packages-with-mingw-get/)
+4. Note: msys-vim is still 7.3.2
+

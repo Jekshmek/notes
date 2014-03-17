@@ -1,5 +1,7 @@
 https://github.com/scalaz/scalaz-stream
 
+http://pchiusano.github.io/talks/scalaz-stream-nescala-2014/scalaz-stream-nescala-2014.html
+
 http://mandubian.com/2013/08/21/playztream/
 http://pchiusano.blogspot.com/2013/07/runtime-specialization-unboxing-and.html
 

@@ -1,5 +1,11 @@
+http://scalamacros.org/
+
 Nadav Wiener - Implementing Mixfix Operators in Scala Using Macros
 http://parleys.com/play/530e2217e4b06b7f61f3fc06
+
+Burmako - Macros vs Types:
+http://scalamacros.org/paperstalks/2014-03-01-MacrosVsTypes.pdf
+https://speakerdeck.com/larsrh/macros-vs-types
 
 Burmako - Philosophy of Scala Macros slides
 http://scalamacros.org/paperstalks/2013-09-19-PhilosophyOfScalaMacros.pdf
