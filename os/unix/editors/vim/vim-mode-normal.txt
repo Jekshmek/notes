@@ -181,15 +181,21 @@ C-e/C-y
 	Down/up one line
 
 
+value	meaning		equivalent command
+--------------------------------------
+0	Window top	normal! |z<CR>|
+50	Window centre	normal! |z.|
+100	Window bottom	normal! |z-|
+
+
 z
-	t/<RET>
+	<RET>/t
 		Move current line to the top
-	b/-
+	-/b
 		Move current line to the bottom
-	m/z/.
+	./m/z
 		Move current line to the center
 
-	
 	
 
 ****************

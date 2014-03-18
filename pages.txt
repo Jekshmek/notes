@@ -3,27 +3,26 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/
-  Documentation Coverage
+https://github.com/kazu-yamamoto/unit-test-example/blob/master/Codec/Base64.hs
 http://amnesia.pavelbers.com/Klassika%20v%20muzike.htm
   History
-:h unite-kind-variables
-haskell/libs/native.txt
+:h unite-key-mappings
+kmett-parsers
 
 Books:
-Lavie - GLR*                              - 91..107..133..145..149 (Ch 5 of 8)
-Ibsen - Camel in Action                   - 487..499 (App E)
-Mironova - Unusual Adventure to Ancient   - 197..204..215
+Lavie - GLR*                              - 93..107..133..145..149 (Ch 5 of 8)
+Ibsen - Camel in Action                   - 491..499 (App E)
+Mironova - Unusual Adventure to Ancient   - 198..204..215
 
 Articles:
-Stolarek - Understanding Basic Haskell E  - 14..20
-Kniberg - Scrum and XP from the Trenches  - 26..94
+Kniberg - Scrum and XP from the Trenches  - 27..94
 
 Video:
+Spiewak - May Your Data Ever Be Coherent  -  28:00
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Gritz 2,13-16                             -1:05:00
+Gritz 2,18                                -  00:00
 Sedakova                                  -  34:00
 
 Tracking:

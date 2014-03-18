@@ -1,5 +1,7 @@
 Continuation monad:
 
+https://github.com/quchen/articles/blob/master/cont_monad.md
+
 http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html
 http://igstan.ro/posts/2010-12-01-deriving-the-y-combinator-in-7-easy-steps.html
 

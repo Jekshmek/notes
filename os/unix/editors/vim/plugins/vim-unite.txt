@@ -1,3 +1,5 @@
+:h unite-key-mappings
+
 Keys:
 
 Tab
@@ -14,6 +16,11 @@ Sources:
     file_rec
     buffer
     yank
+
+:h unite-kinds
+    ???
+:h unide-default-actions
+    ???
 
 Options:
 :h unite-options
