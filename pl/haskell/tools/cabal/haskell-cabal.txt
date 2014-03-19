@@ -72,6 +72,10 @@ run a ghci repl
 
 * run *
 
+* bench *
+
+benchmarking with criterion
+
 ****************************************************************************************************
 documentation
 ****************************************************************************************************
@@ -128,3 +132,18 @@ ghc-prof-options: -auto-all
 
 Sample cabal configs:
 https://github.com/snapframework/snap-server/blob/master/snap-server.cabal
+
+****************************************************************************************************
+flags
+****************************************************************************************************
+
+http://stackoverflow.com/questions/12393750/how-can-i-configure-cabal-to-use-different-folders-for-32-bit-and-64-bit-package
+  cabal configure -fflagname or cabal install -fflagname
+
+http://www.haskell.org/cabal/users-guide/installing-packages.html#controlling-flag-assignments
+  -f flagname or -f -flagname
+  --flags=flagspecs
+  --flags="debug -feature1 feature2" is equivalent to -fdebug -f-feature1 -ffeature2.
+
+https://github.com/haskell/cabal/blob/master/Cabal/Distribution/Simple/InstallDirs.hs
+  instance Read PathTemplateVariable where

@@ -2,6 +2,8 @@ Typeclassopedia Super Slides (Scala/Haskell)
 https://bitbucket.org/typeclassopedia/typeclassopedia.bitbucket.org/src
 https://bitbucket.org/hseeberger/typeclassopedia.bitbucket.org/src
 
+AMP (Applicative => Monad) proposal:
+https://github.com/quchen/articles/blob/master/applicative_monad.md
 
 1. Functor
 

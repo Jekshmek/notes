@@ -10,15 +10,14 @@ http://amnesia.pavelbers.com/Klassika%20v%20muzike.htm
 kmett-parsers
 
 Books:
-Lavie - GLR*                              - 93..107..133..145..149 (Ch 5 of 8)
-Ibsen - Camel in Action                   - 491..499 (App E)
-Mironova - Unusual Adventure to Ancient   - 198..204..215
+Lavie - GLR*                              - 94..107..133..145..149 (Ch 5 of 8)
+Ibsen - Camel in Action                   - 494..499 (App E)
+Mironova - Unusual Adventure to Ancient   - 199..204..215
 
 Articles:
 Kniberg - Scrum and XP from the Trenches  - 27..94
 
 Video:
-Spiewak - May Your Data Ever Be Coherent  -  28:00
 Linux in a Real World 11                  -  01:00
 
 Audio:
