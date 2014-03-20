@@ -7,7 +7,6 @@ Josuttis - Cpp Standard Library 2nd ed
 Presentations:
 Sinyakov - C++11
   http://www.slideshare.net/adankevich/c11-15621074
-  slide 71
 Stroustrup - C++11 The Future is Here
   http://www.infoq.com/presentations/Cplusplus-11-Bjarne-Stroustrup
 Stroustrup - C++14 Early Thoughts
@@ -18,18 +17,14 @@ DeLong - Cpp The Good Parts ???
 
 
 Articles:
-
 Filipek - What you should know about C++11
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-II
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-III
-
 ... TODO ...
-Articles
-FAQ
 
-Johansen - STL:
-  http://sven-johannsen.de/slides/stl11_201311/stl11.html
+FAQ
+... TODO ...
 
 Wiki:
   http://en.wikipedia.org/wiki/C++0x
@@ -42,6 +37,11 @@ Sutter about VS 2013
   http://events.visualstudio.com/eng/sessions/details/?SessionProfile=1876
 Lavavej - Core Cpp
   http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Core-Cpp-10
-Conferences
-  GoingNative 2013, Going Native 2012, Cpp and Beyond 2012
-
+Qian - Modern C++
+  https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH
+GoingNative 2013
+  https://www.youtube.com/playlist?list=PL09Ke5-ligfmlkBZRHA3HbEQSU2LanWti
+Going Native 2012
+  https://www.youtube.com/playlist?list=PL09Ke5-ligfm6f6br95tC6Zsoxfxc1Q0c
+Cpp and Beyond 2012
+  http://cppandbeyond.com/video-gallery/

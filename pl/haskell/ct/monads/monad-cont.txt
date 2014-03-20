@@ -1,6 +1,8 @@
 Continuation monad:
 
 https://github.com/quchen/articles/blob/master/cont_monad.md
+  The purpose of the Cont monad is getting rid of all the explicit \k -> k ... you would have to introduce manually,
+  much like State takes care of dragging along the \s -> ... explicitly.
 
 http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html
 http://igstan.ro/posts/2010-12-01-deriving-the-y-combinator-in-7-easy-steps.html

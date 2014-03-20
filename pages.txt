@@ -3,7 +3,8 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-https://github.com/kazu-yamamoto/unit-test-example/blob/master/Codec/Base64.hs
+https://github.com/quchen/articles/blob/master/cont_monad.md
+  What the Cont monad does
 http://amnesia.pavelbers.com/Klassika%20v%20muzike.htm
   History
 :h unite-key-mappings
@@ -11,11 +12,11 @@ kmett-parsers
 
 Books:
 Lavie - GLR*                              - 94..107..133..145..149 (Ch 5 of 8)
-Ibsen - Camel in Action                   - 494..499 (App E)
-Mironova - Unusual Adventure to Ancient   - 199..204..215
+Ibsen - Camel in Action                   - 496..499 (App E)
+Mironova - Unusual Adventure to Ancient   - 200..204..215
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 27..94
+Kniberg - Scrum and XP from the Trenches  - 29..94
 
 Video:
 Linux in a Real World 11                  -  01:00
