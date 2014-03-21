@@ -3,6 +3,8 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
+  intuitions about req/resp categories
 http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
   Editing a function
 :h
@@ -10,6 +12,8 @@ http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.h
 https://github.com/quchen/articles/blob/master/cont_monad.md
   callCC 1
 http://www.pravoslavie.ru/jurnal/60628.htm
+http://hackage.haskell.org/package/hermit
+  to sort
 
 Books:
 Lavie - GLR*                              - 94..107..133..145..149 (Ch 5 of 8)
