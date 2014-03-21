@@ -98,6 +98,9 @@ class Applicative f => Alternative f where
 	empty :: f a
 	(<|>) :: f a -> f a -> f a
 
+Blog:
+  http://javran.github.io/posts/2014-03-08-exploring-alternatives.html
+
 
 6. Foldable (Data.Foldable.Foldable) :
 

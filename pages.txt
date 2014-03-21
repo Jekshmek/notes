@@ -3,6 +3,8 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
+  Editing a function
 :h
   unite-key-mappings
 https://github.com/quchen/articles/blob/master/cont_monad.md
