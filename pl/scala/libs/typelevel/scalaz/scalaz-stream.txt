@@ -15,4 +15,10 @@ http://stackoverflow.com/questions/18112224/scalaz-streams-and-iteratees/
 http://stackoverflow.com/questions/20127912/processing-multiple-files-in-parallel-with-scalaz-streams/
 http://stackoverflow.com/questions/18853079/performance-of-line-counting-with-scalaz-stream/
 
+Presentations:
+
 http://youtu.be/8fC2V9HX_m8
+
+Bjarnasson - scala.io - Purely functional io in scala:
+http://blog.higher-order.com/assets/scalaio.pdf
+http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/

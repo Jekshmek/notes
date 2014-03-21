@@ -2,3 +2,6 @@ USCS 2013
 http://www.cs.uu.nl/wiki/USCS/CourseSchedule
 
 http://www.cs.uu.nl/foswiki/pub/USCS/CourseSchedule2013/C13-Streaming-final.pdf
+
+Morriss
+https://github.com/NICTA/course

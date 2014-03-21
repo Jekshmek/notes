@@ -22,8 +22,10 @@ http://en.wikibooks.org/wiki/Haskell/Laziness
 Lazyness fighter:
 ghc-heap-view (https://www.joachim-breitner.de/blog/archives/590-Evaluation-State-Assertions-in-Haskell.html)
 
+Pacakges:
 Data.Strict
 http://hackage.haskell.org/package/strict
+http://hackage.haskell.org/package/strict-base-types
 
 Examples:
 https://github.com/mezzohaskell/mezzohaskell/blob/master/chapters/examples/filehash.md
