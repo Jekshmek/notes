@@ -11,6 +11,9 @@ http://newartisans.com/2012/08/meta-programming-with-the-free-monad/
 
 (?) Bjarnason - Stackless Scala With Free Monads (Scala)
 
+!!! Good examples using Free over the [] functor
+http://javran.github.io/posts/2014-03-03-play-with-free-monad.html
+
 http://stackoverflow.com/questions/14641864/what-monads-can-be-expressed-as-free-over-some-functor
 http://stackoverflow.com/questions/13352205/what-are-free-monads
 

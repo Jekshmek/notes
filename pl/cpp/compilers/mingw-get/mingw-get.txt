@@ -4,3 +4,6 @@
 3. (optionally) install mingw-get-info (http://blog.fourthwoods.com/2013/01/04/managing-mingw-packages-with-mingw-get/)
 4. Note: msys-vim is still 7.3.2
 
+
+Sources:
+  git://git.code.sourceforge.net/p/mingw/mingw-get

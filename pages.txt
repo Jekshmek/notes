@@ -16,9 +16,8 @@ http://hackage.haskell.org/package/hermit
   to sort
 
 Books:
-Lavie - GLR*                              - 94..107..133..145..149 (Ch 5 of 8)
-Ibsen - Camel in Action                   - 497..499 (App E)
-Mironova - Unusual Adventure to Ancient   - 204..215
+Lavie - GLR*                              - 99..107..133..145..149 (Ch 5 of 8)
+Mironova - Unusual Adventure to Ancient   - 205..215
 
 Articles:
 Kniberg - Scrum and XP from the Trenches  - 30..94
@@ -27,7 +26,7 @@ Video:
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Gritz 2,18                                -  00:00
+Gritz 2,23-28                             -1:08:00
 Sedakova                                  -  34:00
 
 Tracking:

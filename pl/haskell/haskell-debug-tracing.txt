@@ -5,6 +5,9 @@ http://eax.me/haskell-debug-trace/
 http://hackage.haskell.org/packages/archive/base/latest/doc/html/src/Debug-Trace.html
 traceShow
 
+tracer:
+http://hackage.haskell.org/package/tracer
+https://github.com/knz/hs-tracer
 
 HAT:
 http://hackage.haskell.org/package/hat (http://olafchitil.github.com/hat)

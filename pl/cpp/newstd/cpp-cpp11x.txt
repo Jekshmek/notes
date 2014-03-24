@@ -32,11 +32,9 @@ Filipek - What you should know about C++11
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-III
 
 FAQ:
+  http://isocpp.org/faq
   http://isocpp.org/wiki/faq/cpp11
-  http://isocpp.org/wiki/faq/cpp11-language
-  http://isocpp.org/wiki/faq/cpp11-language-classes
-  http://isocpp.org/wiki/faq/cpp11-language-types
-  http://isocpp.org/wiki/faq/cpp11-language-templates
+  http://isocpp.org/wiki/faq/cpp14
 
 Wiki:
   http://en.wikipedia.org/wiki/C++0x

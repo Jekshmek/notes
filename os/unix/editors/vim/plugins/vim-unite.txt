@@ -1,3 +1,7 @@
+Articles:
+http://habrahabr.ru/post/201564/
+  https://github.com/joedicastro/dotfiles/blob/master/vim/vimrc
+
 :h unite-key-mappings
 
 Keys:
