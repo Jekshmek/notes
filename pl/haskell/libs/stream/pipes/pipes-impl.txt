@@ -2,6 +2,9 @@ http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html
   Introduction
 http://hackage.haskell.org/package/pipes/docs/Pipes-Core.html
 
+http://hackage.haskell.org/package/pipes/docs/src/Pipes-Core.html
+http://hackage.haskell.org/package/pipes/docs/src/Pipes-Internal.html
+
 http://www.haskellforall.com/2014/03/how-to-model-handles-with-pipes.html
 http://www.haskellforall.com/2013/09/pipes-40-simpler-types-and-api.html
 http://www.haskellforall.com/2013/04/pipes-and-io-streams.html

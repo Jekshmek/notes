@@ -3,21 +3,19 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
-  intuitions about req/resp categories
+https://github.com/quchen/articles/blob/master/cont_monad.md
+  The inner workings
 http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
   Editing a function
 :h
   unite-key-mappings
-https://github.com/quchen/articles/blob/master/cont_monad.md
-  callCC 1
 http://www.pravoslavie.ru/jurnal/60628.htm
 http://hackage.haskell.org/package/hermit
   to sort
 
 Books:
-Lavie - GLR*                              - 99..107..133..145..149 (Ch 5 of 8)
-Mironova - Unusual Adventure to Ancient   - 205..215
+Lavie - GLR*                              - 101..107..133..145..149 (Ch 5 of 8)
+Mironova - Unusual Adventure to Ancient   - 206..215
 
 Articles:
 Kniberg - Scrum and XP from the Trenches  - 30..94

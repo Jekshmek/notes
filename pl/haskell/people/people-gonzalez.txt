@@ -7,6 +7,7 @@ Producer ... Server (generalizes Producer)
 
 Proxys generalize Pipes because they allow information to flow upstream
 
+http://www.haskellforall.com/2014/03/introductions-to-advanced-haskell-topics.html
 
 http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 http://www.haskellforall.com/2012/09/the-functor-design-pattern.html (note: see mmorph also)

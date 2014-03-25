@@ -7,3 +7,25 @@
 
 Sources:
   git://git.code.sourceforge.net/p/mingw/mingw-get
+
+
+1. Download and unpack mingw-get bin archive from:
+http://sourceforge.net/projects/mingw/files/Installer/mingw-get/
+http://sourceforge.net/projects/mingw/files/Installer/mingw-get/mingw-get-0.6.2-beta-20131004-1/
+http://sourceforge.net/projects/mingw/files/Installer/mingw-get/mingw-get-0.6.2-beta-20131004-1/mingw-get-0.6.2-mingw32-beta-20131004-1-bin.zip/download
+
+2. Run cmd-line mingw-get.exe
+
+mingw-get update
+mingw-get install mingw-get
+
+
+Files at
+..\var\lib\mingw-get\data\
+1. manifest-*.xml
+   installed packages (one by one)
+2. sysroot-*.xml
+   installed packages (grouped by run/transaction)
+   Note: one file per <sysroot.../> element of profile.xml
+
+   
