@@ -1,38 +1,36 @@
-Books:
+##Books:
 
-Lippman - CPP Primer 5th ed
+* Lippman - CPP Primer 5th ed
 
   Ch 13, 16.2.6, 16.2.7
 
-Josuttis - Cpp Standard Library 2nd ed
+* Josuttis - Cpp Standard Library 2nd ed
 
   Ch 3
 
-Stroustrup - C++ Programming Language
+* Stroustrup - C++ Programming Language
 
-  (check our Minsk library)
+  check our Minsk library
 
-Please, share the following Books if you have:
+###Please, share the following Books if you have:
 
-Meyers - Presentation Materials: Overview of the New C++ (C++11/14) [http://www.artima.com/shop/overview_of_the_new_cpp]
-Karban - C++ Rocks [http://cpprocks.com/]
+* [Meyers - Presentation Materials: Overview of the New C++ 11/14] (http://www.artima.com/shop/overview_of_the_new_cpp)
 
-Presentations:
+* [Karban - C++ Rocks] (http://cpprocks.com)
 
-Sinyakov - C++11 [http://www.slideshare.net/adankevich/c11-15621074]
+##Presentations:
 
-Synyakov - C++11 CheatSheet [http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov]
+* [Sinyakov - C++11 Slides] (http://www.slideshare.net/adankevich/c11-15621074)
 
-Stroustrup - C++11 The Future is Here
-  http://www.infoq.com/presentations/Cplusplus-11-Bjarne-Stroustrup
-Stroustrup - C++14 Early Thoughts
-  http://www.infoq.com/presentations/c-plus-plus-14
-DeLong - Cpp The Good Parts
-  http://isocpp.org/blog/2014/03/c-the-good-parts-jordan-delong
-  http://www.infoq.com/presentations/c-plus-plus-pros
+* [Synyakov - C++11 CheatSheet] (http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
 
+* [Stroustrup - C++11 The Future is Here] (http://www.infoq.com/presentations/Cplusplus-11-Bjarne-Stroustrup)
+* [Stroustrup - C++14 Early Thoughts] (http://www.infoq.com/presentations/c-plus-plus-14)
+* [DeLong - Cpp The Good Parts] (http://isocpp.org/blog/2014/03/c-the-good-parts-jordan-delong)
+* [DeLong - Cpp The Good Parts at InfoQ] (http://www.infoq.com/presentations/c-plus-plus-pros)
 
-Articles:
+##Articles:
+
 Filipek - What you should know about C++11
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11
   http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-II
@@ -49,7 +47,8 @@ Wiki:
     http://ru.wikipedia.org/wiki/C++11
   http://en.wikipedia.org/wiki/C++14
 
-Video
+##Video
+
 Sutter about VS 2013
   http://events.visualstudio.com/eng/sessions/details/?SessionProfile=1876
 Lavavej - Core Cpp
@@ -68,7 +67,8 @@ Cpp and Beyond 2012
   http://channel9.msdn.com/Tags/cppbeyond+2012
   http://cppandbeyond.com/video-gallery/
 
-Compilers Support:
+##Compilers Support:
+
   http://cpprocks.com/c1114-compiler-and-library-shootout/
   http://gcc.gnu.org/projects/cxx0x.html
   http://clang.llvm.org/cxx_status.html
