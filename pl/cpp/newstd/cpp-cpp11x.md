@@ -1,21 +1,28 @@
 Books:
+
 Lippman - CPP Primer 5th ed
+
   Ch 13, 16.2.6, 16.2.7
+
 Josuttis - Cpp Standard Library 2nd ed
+
   Ch 3
+
 Stroustrup - C++ Programming Language
+
   (check our Minsk library)
 
 Please, share the following Books if you have:
-Meyers - Presentation Materials: Overview of the New C++ (C++11/14)
-  http://www.artima.com/shop/overview_of_the_new_cpp
-Karban - C++ Rocks
-  http://cpprocks.com/
+
+Meyers - Presentation Materials: Overview of the New C++ (C++11/14) [http://www.artima.com/shop/overview_of_the_new_cpp]
+Karban - C++ Rocks [http://cpprocks.com/]
 
 Presentations:
-Sinyakov - C++11
-  http://www.slideshare.net/adankevich/c11-15621074
-  http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
+
+Sinyakov - C++11 [http://www.slideshare.net/adankevich/c11-15621074]
+
+Synyakov - C++11 CheatSheet [http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov]
+
 Stroustrup - C++11 The Future is Here
   http://www.infoq.com/presentations/Cplusplus-11-Bjarne-Stroustrup
 Stroustrup - C++14 Early Thoughts
