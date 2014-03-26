@@ -4,21 +4,19 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 https://github.com/quchen/articles/blob/master/cont_monad.md
-  The inner workings
+  The inner workings - callCC
 http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
   Editing a function
 :h
   unite-key-mappings
 http://www.pravoslavie.ru/jurnal/60628.htm
-http://hackage.haskell.org/package/hermit
-  to sort
 
 Books:
-Lavie - GLR*                              - 101..107..133..145..149 (Ch 5 of 8)
-Mironova - Unusual Adventure to Ancient   - 206..215
+Lavie - GLR*                              - 103..107..133..145..149 (Ch 5 of 8)
+Mironova - Unusual Adventure to Ancient   - 207..215
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 30..94
+Kniberg - Scrum and XP from the Trenches  - 32..94
 
 Video:
 Linux in a Real World 11                  -  01:00

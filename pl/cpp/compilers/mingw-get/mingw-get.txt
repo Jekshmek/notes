@@ -28,4 +28,34 @@ Files at
    installed packages (grouped by run/transaction)
    Note: one file per <sysroot.../> element of profile.xml
 
-   
+
+3. MSYS notes (probably move to the separate file)
+
+...\msys\1.0\etc\profile
+
+...
+# Set up USER's home directory
+if [ -z "$HOME" ]; then
+  HOME="/home/$LOGNAME"
+fi
+
+if [ ! -d "$HOME" ]; then
+  mkdir -p "$HOME"
+  cp /etc/inputrc.default "$HOME"/.inputrc
+fi
+
+if [ "x$HISTFILE" == "x/.bash_history" ]; then
+  HISTFILE=$HOME/.bash_history
+fi
+
+export HOME LOGNAME MSYSTEM HISTFILE
+
+for i in /etc/profile.d/*.sh ; do
+  if [ -f $i ]; then
+    . $i
+  fi
+done
+...
+
+MSYS + Extra VCSes:
+http://sourceforge.net/projects/mingwbuilds/files/external-binary-packages/

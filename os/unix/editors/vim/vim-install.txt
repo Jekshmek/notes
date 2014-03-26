@@ -1,11 +1,10 @@
-http://www.fullybaked.co.uk/articles/installing-latest-vim-on-centos-from-source
-
-
-http://gyaresu.org/vim/2013/11/28/vim-74-on-centos-64/
-
 cat /etc/redhat-release
 
 CentOS release 6.4 (Final)
+
+http://www.fullybaked.co.uk/articles/installing-latest-vim-on-centos-from-source
+http://gyaresu.org/vim/2013/11/28/vim-74-on-centos-64/
+
 
 yum groupinstall -y 'Development Tools'
 yum install -y mercurial
@@ -31,6 +30,14 @@ source ~/.zshrc
 vim --version
 
 VIM - Vi IMproved 7.4 (2013 Aug 10, compiled Nov 27 2013 10:42:25)
+
+
+MinGW 64 for x64:
+mingw32-make -f Make_ming.mak GUI=yes ARCH=x86-64 XPM=E:\HG\xpm\x64
+
+Microsoft Visual C++ on x64 (tested with versions 2008 and 2010):
+nmake -f Make_mvc.mak GUI=yes CSCOPE=yes XPM=E:\HG\xpm\x64
+
 
 
 http://webby.hazasite.com/r/vim/comments/1k36hy/vim_74_released/
