@@ -15,6 +15,12 @@ http://hackage.haskell.org/trac/hackage/wiki/CabalInstall
 Documentation:
 http://eax.me/mini-notes-issue-17/
 
+sdist:
+http://eax.me/hackage-upload/
+
+PVP Check:
+cabal check
+
 
 Get a pre-built cabal.exe from:
 
@@ -143,3 +149,15 @@ http://www.haskell.org/cabal/users-guide/installing-packages.html#controlling-fl
 
 https://github.com/haskell/cabal/blob/master/Cabal/Distribution/Simple/InstallDirs.hs
   instance Read PathTemplateVariable where
+
+****************************************************************************************************
+cabal options
+****************************************************************************************************
+
+  Ghc-Options: -Wall
+  Ghc-Prof-Options: -auto-all -caf-all
+  Cpp-options:
+    -DSOME_DEFINE
+
+  --For modules that do not form part of your package’s public interface,
+  Other-Modules:

@@ -14,8 +14,10 @@ The toolchain will then be setup and can be used standalone or from an IDE. The 
         set PKG_CONFIG_LIBDIR to C:\win-builds-32\lib\pkgconfig 
 
     for 64 bits:
-        prepend C:\win-builds-64\bin to PATH
-        set PKG_CONFIG_LIBDIR to C:\win-builds-64\lib64\pkgconfig 
+	call D:\dev\bin\cmd\vars-path-prepend.bat D:\win-builds-64\bin
+	set PKG_CONFIG_LIBDIR=D:\win-builds-64\lib64\pkgconfig
+
+    start %ComSpec% %* 
 
 Note
 
