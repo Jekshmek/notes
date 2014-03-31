@@ -1,0 +1,19 @@
+http://garant-tv.by/index.php?option=com_kunena&func=view&catid=44&id=59475&limit=10&limitstart=30&Itemid=200016#59643
+
+sudo /etc/init.d/networking restart
+
+sudo /etc/init.d/xl2tpd start
+
+sudo su
+
+echo "? garant" > /var/run/xl2tpd/l2tp-control
+
+
+ifconfig -- what about connection: ppp0 ?
+
+
+routes:
+http://garant-tv.by/index.php?option=com_kunena&func=view&catid=46&id=59364&Itemid=200016#59515
+
+sudo gedit /etc/network/interfaces
+

@@ -4,23 +4,24 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
-  Walking into data
+  Walking into user defined data
 :h
   unite-key-mappings
+  various.txt
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 107..133..145..149 (Ch 6 of 8)
-Mironova - Unusual Adventure to Ancient   - 209..215
+Lavie - GLR*                              - 110..133..145..149 (Ch 6 of 8)
+Mironova - Unusual Adventure to Ancient   - 210..215
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 34..94
+Kniberg - Scrum and XP from the Trenches  - 37..94
 
 Video:
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Gritz 3,1-10                              -  00:00
+Gritz 3,1-10                              -  55:00
 Sedakova                                  -  34:00
 
 Tracking:
