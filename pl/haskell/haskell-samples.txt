@@ -22,3 +22,6 @@ http://hackage.haskell.org/package/karver
 MapReduce:
 Fokkinga - MapReduce - a two-page explanation for laymen
 
+api-tools:
+http://hackage.haskell.org/package/api-tools
+https://github.com/iconnect/api-tools
