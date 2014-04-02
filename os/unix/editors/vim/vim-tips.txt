@@ -1,3 +1,6 @@
+:h
+    various.txt
+
 ea
 	insert new line after the end of the word
 df{x}

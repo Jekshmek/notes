@@ -58,3 +58,15 @@ foo :/bar
 foo :diffthis
     Specify command execution after the action with a ":".
     See |unite_default_key_mappings| for other actions.
+
+Keys:
+<C-n>		|<Plug>(unite_rotate_next_source)|
+<C-p>		|<Plug>(unite_rotate_previous_source)|
+
+<C-a>		|<Plug>(unite_print_message_log)|
+<C-k>		|<Plug>(unite_print_candidate)|
+
+J		|<Plug>(unite_skip_cursor_down)|
+K		|<Plug>(unite_skip_cursor_up)|
+
+

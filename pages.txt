@@ -3,19 +3,17 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://javran.github.io/posts/2014-03-21-implement-semantic-editor-combinators.html
-  Walking into user defined data
 :h
   unite-key-mappings
-  various.txt
+  <Plug>(unite_input_directory)
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 112..133..145..149 (Ch 6 of 8)
-Mironova - Unusual Adventure to Ancient   - 211..215
+Lavie - GLR*                              - 115..133..145..149 (Ch 6 of 8)
+Mironova - Unusual Adventure to Ancient   - 212..215
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 38..94
+Kniberg - Scrum and XP from the Trenches  - 40..94
 
 Video:
 Linux in a Real World 11                  -  01:00
