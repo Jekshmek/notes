@@ -5,6 +5,7 @@
 * Lippman - CPP Primer 5th ed (Ch 13, 16.2.6, 16.2.7)
 * Josuttis - Cpp Standard Library 2nd ed (Ch 3)
 * Stroustrup - C++ Programming Language (check our Minsk library)
+* Deitel - C++11 for Programmers 2nd ed 
 
 ### Please, share the following Books if you have:
 
@@ -31,12 +32,22 @@
 * [C++ FAQ] (http://isocpp.org/faq)
 * [C++ 11 FAQ] (http://isocpp.org/wiki/faq/cpp11)
 * [C++ 14 FAQ] (http://isocpp.org/wiki/faq/cpp14)
+* [Parashift Marshall Cline FAQ] (http://www.parashift.com/c++-faq-lite)
 
 Wiki:
 * [C++0x Wiki] (http://en.wikipedia.org/wiki/C++0x)
 * [C++11 Wiki] (http://en.wikipedia.org/wiki/C++11)
 * [C++11 Wiki Ru] (http://ru.wikipedia.org/wiki/C++11)
 * [C++14 Wiki] (http://en.wikipedia.org/wiki/C++14)
+
+Standard:
+* [C++ Standards Committee Papers] (http://www.open-std.org/JTC1/SC22/WG21/docs/papers)
+* [Latest publicly available draft of C++ standard] (http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2013/n3797.pdf)
+* [C standard documents] (http://www.open-std.org/JTC1/SC22/WG14/www/documents)
+* [Latest publicly available draft of C99 standard] (http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1539.pdf)
+* [Tenouk page about standards] (http://www.tenouk.com/cplusstandard.html)
+* [Technical announcements and discussion of ISO C++ standardization process and C++ standard] (http://groups.google.com/group/comp.std.c++)
+
 
 ## Video
 
@@ -56,10 +67,17 @@ Wiki:
 
 ### Cpp and Beyond 2012
 * [Cpp and Beyond 2012 Ch9] (http://channel9.msdn.com/Tags/cppbeyond+2012)
-* [Cpp and Beyond 2012 Galery] (http://cppandbeyond.com/video-gallery/)
+* [Cpp and Beyond 2012 Galery] (http://cppandbeyond.com/video-gallery)
 
 ##Compilers Support:
 * [Compilers Support by CppRocks] (http://cpprocks.com/c1114-compiler-and-library-shootout)
 * [Compilers Support by GCC] (http://gcc.gnu.org/projects/cxx0x.html)
 * [Compilers Support by Clang] (http://clang.llvm.org/cxx_status.html)
 * [Compilers Support by Filipek] (http://www.bfilipek.com/2013/12/c-status-at-end-of-2013.html)
+
+People blogs:
+* [Herb Sutter] (http://herbsutter.com)
+
+Groups:
+* [comp.lang.c++.moderated] (http://groups.google.com/group/comp.lang.c++.moderated)
+

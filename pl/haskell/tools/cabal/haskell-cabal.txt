@@ -103,6 +103,11 @@ cabal haddock <package> --hyperlink-source --executable -v
 http://stackoverflow.com/questions/13153747/errors-on-building-haddock-documentation-with-cabal
 http://stackoverflow.com/questions/18238975/haddock-cant-find-the-documentation-for-installed-packages
 
+* hoogle *
+
+http://neilmitchell.blogspot.com/2008/08/hoogle-database-generation.html
+http://chromaticleaves.com/posts/how-to-hoogle.html
+
 ****************************************************************************************************
 cabal files
 ****************************************************************************************************
@@ -123,6 +128,7 @@ for a more ordinary Haskell project, all you need to do is add
 or invoke Cabal with
   --enable-executable-profiling --enable-library-profiling --ghc-option=-auto-all.
 
+
 !!!
 You may need to install profiling versions of your libraries, so a useful line to have in your .cabal/config file is
 
@@ -134,6 +140,9 @@ ghc-prof-options: -auto-all
 
 Sample cabal configs:
 https://github.com/snapframework/snap-server/blob/master/snap-server.cabal
+
+Coverage:
+    --enable-library-coverage
 
 ****************************************************************************************************
 flags

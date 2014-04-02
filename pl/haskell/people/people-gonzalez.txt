@@ -135,3 +135,6 @@ Equational Reasoning:
 http://www.haskellforall.com/2014/02/reasoning-about-stream-programming.html
 http://www.haskellforall.com/2013/12/equational-reasoning.html
 
+Misc:
+http://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html
+
