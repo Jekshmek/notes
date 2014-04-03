@@ -9,17 +9,17 @@ URLs:
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 115..133..145..149 (Ch 6 of 8)
-Mironova - Unusual Adventure to Ancient   - 212..215
+Lavie - GLR*                              - 117..133..145..149 (Ch 6 of 8)
+Mironova - Unusual Adventure to Ancient   - 213..215
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 40..94
+Kniberg - Scrum and XP from the Trenches  - 41..94
 
 Video:
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Gritz 3,4-6                               -  00:00
+Gritz 3,4-6                               -1:01:00
 Sedakova                                  -  34:00
 
 Tracking:

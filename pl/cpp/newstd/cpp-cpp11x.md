@@ -1,18 +1,18 @@
 # C++ 11/14 General Info
 
-## Books:
+## Books
 
 * Lippman - CPP Primer 5th ed (Ch 13, 16.2.6, 16.2.7)
 * Josuttis - Cpp Standard Library 2nd ed (Ch 3)
 * Stroustrup - C++ Programming Language (check our Minsk library)
 * Deitel - C++11 for Programmers 2nd ed 
 
-### Please, share the following Books if you have:
+### Please, share the following Books if you have
 
 * [Meyers - Presentation Materials: Overview of the New C++ 11/14] (http://www.artima.com/shop/overview_of_the_new_cpp)
 * [Karban - C++ Rocks] (http://cpprocks.com)
 
-## Presentations:
+## Presentations
 
 * [Sinyakov - C++11 Slides] (http://www.slideshare.net/adankevich/c11-15621074)
 * [Synyakov - C++11 CheatSheet] (http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov)
@@ -21,26 +21,26 @@
 * [DeLong - Cpp The Good Parts] (http://isocpp.org/blog/2014/03/c-the-good-parts-jordan-delong)
 * [DeLong - Cpp The Good Parts at InfoQ] (http://www.infoq.com/presentations/c-plus-plus-pros)
 
-## Articles:
+## Articles
 
 * [Filipek - What you should know about C++11 Part 1] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11)
 * [Filipek - What you should know about C++11 Part 2] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-II)
 * [Filipek - What you should know about C++11 Part 3] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-III)
 
-## FAQ:
+## FAQ
 
 * [C++ FAQ] (http://isocpp.org/faq)
 * [C++ 11 FAQ] (http://isocpp.org/wiki/faq/cpp11)
 * [C++ 14 FAQ] (http://isocpp.org/wiki/faq/cpp14)
 * [Parashift Marshall Cline FAQ] (http://www.parashift.com/c++-faq-lite)
 
-Wiki:
+## Wiki
 * [C++0x Wiki] (http://en.wikipedia.org/wiki/C++0x)
 * [C++11 Wiki] (http://en.wikipedia.org/wiki/C++11)
 * [C++11 Wiki Ru] (http://ru.wikipedia.org/wiki/C++11)
 * [C++14 Wiki] (http://en.wikipedia.org/wiki/C++14)
 
-Standard:
+## Standard
 * [C++ Standards Committee Papers] (http://www.open-std.org/JTC1/SC22/WG21/docs/papers)
 * [Latest publicly available draft of C++ standard] (http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2013/n3797.pdf)
 * [C standard documents] (http://www.open-std.org/JTC1/SC22/WG14/www/documents)
@@ -69,15 +69,15 @@ Standard:
 * [Cpp and Beyond 2012 Ch9] (http://channel9.msdn.com/Tags/cppbeyond+2012)
 * [Cpp and Beyond 2012 Galery] (http://cppandbeyond.com/video-gallery)
 
-##Compilers Support:
+## Compilers Support
 * [Compilers Support by CppRocks] (http://cpprocks.com/c1114-compiler-and-library-shootout)
 * [Compilers Support by GCC] (http://gcc.gnu.org/projects/cxx0x.html)
 * [Compilers Support by Clang] (http://clang.llvm.org/cxx_status.html)
 * [Compilers Support by Filipek] (http://www.bfilipek.com/2013/12/c-status-at-end-of-2013.html)
 
-People blogs:
+## People blogs
 * [Herb Sutter] (http://herbsutter.com)
 
-Groups:
+## Groups
 * [comp.lang.c++.moderated] (http://groups.google.com/group/comp.lang.c++.moderated)
 
