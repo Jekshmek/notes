@@ -26,6 +26,6 @@
 
 * [Codeproject - Ryazanov - The Impossibly Fast C++ Delegates] (http://www.codeproject.com/Articles/11015/The-Impossibly-Fast-C-Delegates)
 * [Codeproject - O&apos;Neil - Delegates: C++11 vs. Impossibly Fast - A Quick and Dirty Comparison] (http://www.codeproject.com/Articles/616090/Delegates-Cplusplus11-vs-Impossibly-Fast-A-Quick-a)
-* [Delegates on Steroids] (http://blog.coldflake.com/posts/2014-01-12-C%2B%2B-delegates-on-steroids.html)
+* [Mueller - Delegates on Steroids] (http://blog.coldflake.com/posts/2014-01-12-C%2B%2B-delegates-on-steroids.html)
 * [Habr - Simple Deletage (in RU)] (http://habrahabr.ru/post/78299)
 
