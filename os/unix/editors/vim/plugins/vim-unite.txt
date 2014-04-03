@@ -59,14 +59,101 @@ foo :diffthis
     Specify command execution after the action with a ":".
     See |unite_default_key_mappings| for other actions.
 
-Keys:
+:h
+    unite-key-mappings
+
+Normal mode mappings.
+{lhs}		{rhs}
+--------	-----------------------------
+
+i		|<Plug>(unite_insert_enter)|
+I		|<Plug>(unite_insert_head)|
+a		In case when you selected a candidate,
+		|<Plug>(unite_choose_action)|
+		else |<Plug>(unite_append_enter)|
+A		|<Plug>(unite_append_end)|
+q		|<Plug>(unite_exit)|
+Q		|<Plug>(unite_all_exit)|
+g<C-g>		|<Plug>(unite_exit)|
+
+
+
+<C-h>		|<Plug>(unite_delete_backward_path)|
+
 <C-n>		|<Plug>(unite_rotate_next_source)|
 <C-p>		|<Plug>(unite_rotate_previous_source)|
 
 <C-a>		|<Plug>(unite_print_message_log)|
 <C-k>		|<Plug>(unite_print_candidate)|
 
+
+<C-r>		|<Plug>(unite_restart)|
+
+gg		|<Plug>(unite_cursor_top)|
+G		|<Plug>(unite_cursor_bottom)|
+j		|<Plug>(unite_loop_cursor_down)|
+<Down>		|<Plug>(unite_loop_cursor_down)|
+k		|<Plug>(unite_loop_cursor_up)|
+<Up>		|<Plug>(unite_loop_cursor_up)|
 J		|<Plug>(unite_skip_cursor_down)|
 K		|<Plug>(unite_skip_cursor_up)|
+
+M		|<Plug>(unite_disable_max_candidates)|
+N		|<Plug>(unite_new_candidate)|
+
+<CR>		In case when you selected a candidate, runs default action
+b		In case when you selected a candidate, runs bookmark action
+d		In case when you selected a candidate, runs delete action
+e		In case when you selected a candidate, runs narrow action
+t		In case when you selected a candidate, runs tabopen action
+yy		In case when you selected a candidate, runs yank action
+o		In case when you selected a candidate, runs open action
+p		runs preview action
+x		In case when you selected a candidate, runs
+		|<Plug>(unite_quick_match_default_action)|
+
+<Plug>(unite_input_directory)
+		Narrows with inputting directory name.
+<Plug>(unite_narrowing_path)
+		Narrowing candidates by candidate path (or word).
+
+.		<Plug>(unite_narrowing_dot)
+
+
+Insert mode mappings.
+{lhs}		{rhs}
+--------	-----------------------------
+<ESC>		|i_<Plug>(unite_insert_leave)|
+<C-n>		|i_<Plug>(unite_select_next_line)|
+<Down>		|i_<Plug>(unite_select_next_line)|
+<C-p>		|i_<Plug>(unite_select_previous_line)|
+<Up>		|i_<Plug>(unite_select_previous_line)|
+<C-f>		|i_<Plug>(unite_select_next_page)|
+<C-b>		|i_<Plug>(unite_select_previous_page)|
+<CR>		|i_<Plug>(unite_do_default_action)|
+<C-h>		|i_<Plug>(unite_delete_backward_char)|
+<BS>		|i_<Plug>(unite_delete_backward_char)|
+<C-u>		|i_<Plug>(unite_delete_backward_line)|
+<C-w>		|i_<Plug>(unite_delete_backward_word)|
+<C-a>		|i_<Plug>(unite_move_head)|
+<Home>		|i_<Plug>(unite_move_head)|
+
+<C-d>		runs delete action
+<C-e>		runs edit action
+<C-t>		runs tabopen action
+<C-y>		runs yank action
+<C-o>		runs open action
+
+
+Both (Insert and Normal) mode mappings.
+{lhs}		{rhs}
+--------	-----------------------------
+<Tab>		|<Plug>(unite_choose_action)|
+<C-g>		|<Plug>(unite_exit)|
+<C-l>		|<Plug>(unite_redraw)|
+
+??? Narrow action (n)
+
+:h unite-functions
 
 

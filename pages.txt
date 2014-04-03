@@ -4,8 +4,7 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-key-mappings
-  <Plug>(unite_input_directory)
+  unite-functions
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
