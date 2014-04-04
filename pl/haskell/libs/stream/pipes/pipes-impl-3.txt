@@ -1,0 +1,146 @@
+1. Internal type
+
+{-| A 'Proxy' is a monad transformer that receives and sends information on both
+    an upstream and downstream interface.
+
+    The type variables signify:
+
+    * @a'@ and @a@ - The upstream interface, where @(a')@s go out and @(a)@s
+      come in
+
+    * @b'@ and @b@ - The downstream interface, where @(b)@s go out and @(b')@s
+      come in
+
+    * @m @ - The base monad
+
+    * @r @ - The return value
+-}
+data Proxy a' a b' b m r
+    = Request a' (a  -> Proxy a' a b' b m r )     -- Request a' fa
+    | Respond b  (b' -> Proxy a' a b' b m r )     -- Respond b  fb'
+    | M          (m    (Proxy a' a b' b m r))
+    | Pure    r
+
+--- Core.hs ---
+
+{-|
+Proxy Monad Transformer
+
+Diagrammatically, you can think of a Proxy as having the following shape:
+
+ Upstream | Downstream
+     +---------+
+     |         |
+ a' <==       <== b'
+     |         |
+ a  ==>       ==> b
+     |    |    |
+     +----|----+
+          v
+          r
+-}
+
+
+2. Producing end
+
+yield :: Monad m => a -> Producer' a m ()
+yield = respond
+{-# INLINABLE yield #-}
+
+-- | Like 'Producer', but with a polymorphic type
+type Producer' b m r = forall x' x . Proxy x' x () b m r
+
+-- | 'Producer's can only 'Pipes.yield'
+type Producer b = Proxy X () () b
+
+{-| Send a value of type @a@ downstream and block waiting for a reply of type
+    @a'@
+
+    'respond' is the identity of the respond category.
+-}
+respond :: Monad m => a -> Proxy x' x a' a m a'
+respond a = Respond a Pure
+{-# INLINABLE respond #-}
+
+
+So, let's investigate
+
+yield "Hello Str" :: Monad m => String Producer' String m ()
+  = Respond "Hello Str" Pure
+
+  { Pure :: r -> Proxy a' a b' b m r }
+
+  = Respond "Hello Str" fnConstPure
+
+
+
+
+
+
+2. Consuming end
+
+await :: Monad m => Consumer' a m a
+await = request ()
+{-# INLINABLE await #-}
+
+
+{-| Send a value of type @a'@ upstream and block waiting for a reply of type @a@
+
+    'request' is the identity of the request category.
+-}
+request :: Monad m => a' -> Proxy a' a y' y m a
+request a' = Request a' Pure
+{-# INLINABLE request #-}
+
+
+So, let's investigate
+
+
+
+
+3. Appendices
+
+{-| An effect in the base monad
+
+    'Effect's neither 'Pipes.await' nor 'Pipes.yield'
+-}
+type Effect = Proxy X () () X
+
+-- | 'Producer's can only 'Pipes.yield'
+type Producer b = Proxy X () () b
+
+-- | 'Pipe's can both 'Pipes.await' and 'Pipes.yield'
+type Pipe a b = Proxy () a () b
+
+-- | 'Consumer's can only 'Pipes.await'
+type Consumer a = Proxy () a () X
+
+{-| @Client a' a@ sends requests of type @a'@ and receives responses of
+    type @a@.
+
+    'Client's only 'request' and never 'respond'.
+-}
+type Client a' a = Proxy a' a () X
+
+{-| @Server b' b@ receives requests of type @b'@ and sends responses of type
+    @b@.
+
+    'Server's only 'respond' and never 'request'.
+-}
+type Server b' b = Proxy X () b' b
+
+-- | Like 'Effect', but with a polymorphic type
+type Effect' m r = forall x' x y' y . Proxy x' x y' y m r
+
+-- | Like 'Producer', but with a polymorphic type
+type Producer' b m r = forall x' x . Proxy x' x () b m r
+
+-- | Like 'Consumer', but with a polymorphic type
+type Consumer' a m r = forall y' y . Proxy () a y' y m r
+
+-- | Like 'Server', but with a polymorphic type
+type Server' b' b m r = forall x' x . Proxy x' x b' b m r
+
+-- | Like 'Client', but with a polymorphic type
+type Client' a' a m r = forall y' y . Proxy a' a y' y m r
+

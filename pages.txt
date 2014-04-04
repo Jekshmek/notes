@@ -4,15 +4,14 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-functions
+    unite#set_profile()
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 117..133..145..149 (Ch 6 of 8)
-Mironova - Unusual Adventure to Ancient   - 213..215
+Lavie - GLR*                              - 119..133..145..149 (Ch 6 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 41..94
+Kniberg - Scrum and XP from the Trenches  - 43..94
 
 Video:
 Linux in a Real World 11                  -  01:00

@@ -6,6 +6,7 @@
 * Josuttis - Cpp Standard Library 2nd ed (Ch 3)
 * Stroustrup - C++ Programming Language (check our Minsk library)
 * Deitel - C++11 for Programmers 2nd ed 
+* Prata - C++ Primer Plus 6th ed (Ch 18)
 
 ### Please, share the following Books if you have
 

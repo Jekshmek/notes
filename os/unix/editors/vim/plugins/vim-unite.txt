@@ -154,6 +154,5 @@ Both (Insert and Normal) mode mappings.
 
 ??? Narrow action (n)
 
-:h unite-functions
-
-
+:h
+    unite#set_profile()
