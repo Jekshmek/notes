@@ -1,3 +1,12 @@
+Seems to be obsolete:
+
+Abrahams - Want Speed - Pass by Value:
+  http://cpp-next.com/archive/2009/08/want-speed-pass-by-value/
+  http://cpp-next.com/archive/2009/09/making-your-next-move/
+  http://cpp-next.com/archive/2009/09/your-next-assignment/
+  http://cpp-next.com/archive/2009/10/exceptionally-moving/
+  http://cpp-next.com/archive/2009/12/onward-forward/
+
 ***********
 * Threads *
 ***********
