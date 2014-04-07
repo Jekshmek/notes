@@ -2,7 +2,9 @@ Articles:
 http://habrahabr.ru/post/201564/
   https://github.com/joedicastro/dotfiles/blob/master/vim/vimrc
 
-:h unite-key-mappings
+:h
+    unite-key-mappings
+    unite-options
 
 Keys:
 
@@ -155,4 +157,4 @@ Both (Insert and Normal) mode mappings.
 ??? Narrow action (n)
 
 :h
-    unite#set_profile()
+    unite-options
