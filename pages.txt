@@ -4,23 +4,24 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-    unite-options
+    unite-sources
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 119..133..145..149 (Ch 6 of 8)
+Lavie - GLR*                              - 128..133..145..149 (Ch 6 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 44..94
+Kniberg - Scrum and XP from the Trenches  - 45..94
 
 Video:
+Loh - Datatype-Generic Programming in Has -  42:00 (Slide 67)
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Sedakova                                  -  34:00
+Sedakova                                  -1:00:00
 
 Tracking:
-ACCU                                      - 119
+ACCU                                      - 120
 https://www.fpcomplete.com/recent-content - 31 Mar
 
 Old Video:

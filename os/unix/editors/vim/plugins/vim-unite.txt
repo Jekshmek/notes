@@ -5,6 +5,7 @@ http://habrahabr.ru/post/201564/
 :h
     unite-key-mappings
     unite-options
+    unite-sources
 
 Keys:
 
@@ -157,4 +158,4 @@ Both (Insert and Normal) mode mappings.
 ??? Narrow action (n)
 
 :h
-    unite-options
+    unite-sources
