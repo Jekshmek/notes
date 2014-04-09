@@ -170,3 +170,9 @@ ghci.conf:
 
 ghci -dsuppress-all -ddump-simpl
 
+*****************
+* type families *
+*****************
+
+:kind! Rep (Tree ())
+    show type family instance

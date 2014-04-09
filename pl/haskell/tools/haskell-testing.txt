@@ -18,6 +18,10 @@ aggregators:
 http://hackage.haskell.org/package/hstest
 https://bitbucket.org/dave4420/hstest/wiki/Home
 
+http-test:
+http://hackage.haskell.org/package/http-test
+https://github.com/openbrainsrc/http-test
+
 Examples:
 https://github.com/ekmett/lens/blob/master/lens.cabal
 https://github.com/ekmett/lens/blob/master/tests/doctests.hsc

@@ -1,0 +1,5 @@
+GHCI:
+
+:kind! Rep (Tree ())
+    show type family instance
+
