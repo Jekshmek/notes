@@ -3,3 +3,6 @@ http://yannesposito.com/Scratch/en/blog/Hakyll-setup/index.html (https://github.
 
 Samples:
 https://github.com/Fuuzetsu/hakyllblog/blob/master/site.hs
+
+https://github.com/cabrera/read-review-refactor/blob/master/posts/learning-hakyll.md
+https://blog.cppcabrera.com/posts/learning-hakyll.html
