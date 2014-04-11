@@ -8,13 +8,13 @@ URLs:
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 133..145..149 (Ch 7 of 8)
+Lavie - GLR*                              - 135..145..149 (Ch 7 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 46..94
+Kniberg - Scrum and XP from the Trenches  - 48..94
 
 Video:
-LaGatta - Category Theory                 -  23:00
+LaGatta - Category Theory                 -  34:00
 Linux in a Real World 11                  -  01:00
 
 Audio:

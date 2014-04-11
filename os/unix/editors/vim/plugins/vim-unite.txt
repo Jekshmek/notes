@@ -154,6 +154,7 @@ Both (Insert and Normal) mode mappings.
 <Tab>		|<Plug>(unite_choose_action)|
 <C-g>		|<Plug>(unite_exit)|
 <C-l>		|<Plug>(unite_redraw)|
+        !!! clears unite cache also !!!
 
 ??? Narrow action (n)
 
