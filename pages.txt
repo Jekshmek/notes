@@ -8,7 +8,7 @@ URLs:
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 135..145..149 (Ch 7 of 8)
+Lavie - GLR*                              - 137..145..149 (Ch 7 of 8)
 
 Articles:
 Kniberg - Scrum and XP from the Trenches  - 48..94
