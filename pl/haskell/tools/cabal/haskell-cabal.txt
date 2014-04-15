@@ -83,6 +83,8 @@ cabal list <pack-name-pattern>
 cabal install cabal-install
 cabal install <package>
 
+cabal install --constraint="HTTP >= 4000.2.5" http://johantibell.com/files/Cabal-1.20.0-rc.tar.gz http://johantibell.com/files/cabal-install-1.20.0-rc.tar.gz
+
 * unpack *
 
 cabal unpack <package>
