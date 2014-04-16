@@ -80,18 +80,9 @@
             <outline type="rss" text="Professor Fish" title="Professor Fish" xmlUrl="http://professor-fish.blogspot.com/feeds/posts/default" htmlUrl="http://professor-fish.blogspot.com/"/>
         </outline>
         <outline text="Clojure" title="Clojure">
-            <outline type="rss" text="Russian Clojure Planet" title="Russian Clojure Planet" xmlUrl="http://feeds.feedburner.com/RussianClojurePlanet" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=16a2f0518462dcc95c054226eb1c7a42"/>
             <outline type="rss" text="Clojure" title="Clojure" xmlUrl="http://www.reddit.com/r/clojure/.rss" htmlUrl="http://www.reddit.com/r/Clojure/"/>
             <outline type="rss" text="Planet Clojure" title="Planet Clojure" xmlUrl="http://feeds.feedburner.com/clojure" htmlUrl="http://planet.clojure.in/"/>
-            <outline type="rss" text="Digital Digressions by Stuart Sierra" title="Digital Digressions by Stuart Sierra" xmlUrl="http://feeds2.feedburner.com/StuartSierra" htmlUrl="http://stuartsierra.com"/>
-            <outline type="rss" text="Thoughts on Programming" title="Thoughts on Programming" xmlUrl="http://programming-puzzler.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://programming-puzzler.blogspot.com/"/>
-            <outline type="rss" text="Jay Fields' Thoughts" title="Jay Fields' Thoughts" xmlUrl="http://feeds.feedburner.com/jayfields/mjKQ" htmlUrl="http://blog.jayfields.com/"/>
             <outline type="rss" text="Clojure Pipe" title="Clojure Pipe" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4cc8ebb9ae0b852d6ab7d94956ce2638&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=4cc8ebb9ae0b852d6ab7d94956ce2638"/>
-            <outline type="rss" text="Learning Clojure" title="Learning Clojure" xmlUrl="http://learnclojure.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://www.learningclojure.com/"/>
-            <outline type="rss" text="Alex Ott's Russian blog about IT-related things" title="Alex Ott's Russian blog about IT-related things" xmlUrl="http://feeds.feedburner.com/alexott-ru" htmlUrl="http://alexott-ru.blogspot.com/"/>
-            <outline type="rss" text="Clojure and me" title="Clojure and me" xmlUrl="http://feeds.feedburner.com/ClojureAndMe" htmlUrl="http://clj-me.cgrand.net"/>
-            <outline type="rss" text="On Clojure" title="On Clojure" xmlUrl="http://onclojure.com/feed/" htmlUrl="http://onclojure.com"/>
-            <outline type="rss" text="Clojure" title="Clojure" xmlUrl="http://my-clojure.blogspot.com/feeds/posts/default" htmlUrl="http://my-clojure.blogspot.com/"/>
         </outline>
         <outline text="Children" title="Children">
             <outline type="rss" text="Блог Эльфика" title="Блог Эльфика" xmlUrl="http://feeds.feedburner.com/BlogElfikby" htmlUrl="http://blog.elfik.by"/>
@@ -150,7 +141,6 @@
             <outline type="rss" text="IT Talk &amp;mdash; Функциональные и логические языки" title="IT Talk &amp;mdash; Функциональные и логические языки" xmlUrl="http://it-talk.org/feed-rss-forum49.xml" htmlUrl="http://it-talk.org/"/>
             <outline type="rss" text="  Bartosz Milewski's Prog..." title="  Bartosz Milewski's Prog..." xmlUrl="http://bartoszmilewski.com/feed/" htmlUrl="http://bartoszmilewski.com"/>
             <outline type="rss" text="Russian Lambda Planet" title="Russian Lambda Planet" xmlUrl="http://feeds.feedburner.com/fp-planet-ru" htmlUrl="http://fprog.ru/planet/"/>
-            <outline type="rss" text="dataflowbased subreddits ..." title="dataflowbased subreddits ..." xmlUrl="http://www.reddit.com/user/knife_sharpener/m/dataflowbased/.rss" htmlUrl="http://www.reddit.com/user/knife_sharpener/m/dataflowbased/"/>
             <outline type="rss" text="Записки на манжетах" title="Записки на манжетах" xmlUrl="http://ghost-dog66.blogspot.com/feeds/posts/default" htmlUrl="http://ghost-dog66.blogspot.com/"/>
             <outline type="rss" text="Existential Type" title="Existential Type" xmlUrl="http://existentialtype.wordpress.com/feed/" htmlUrl="http://existentialtype.wordpress.com"/>
             <outline type="rss" text="Yogsototh's last blogs entries" title="Yogsototh's last blogs entries" xmlUrl="http://feeds.feedburner.com/yannespositocomen" htmlUrl="http://yannesposito.com"/>
