@@ -1,3 +1,6 @@
+autocompetion:
+http://www.reddit.com/r/haskell/comments/236qkb/autocomplete_command_line_options_with_ghc_78/
+
 ghc options
 -O2 -funbox-strict-fields
 {-# OPTIONS_GHC -funbox-strict-fields #}

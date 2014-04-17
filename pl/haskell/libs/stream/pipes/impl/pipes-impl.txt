@@ -9,6 +9,86 @@ http://www.haskellforall.com/2014/03/how-to-model-handles-with-pipes.html
 http://www.haskellforall.com/2013/09/pipes-40-simpler-types-and-api.html
 http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
 
+
+http://web.jaguarpaw.co.uk/%7Etom/blog/posts/2013-03-29-how-to-read-pipes.html
+
+The data definitions are
+
+data ProxyCorrect a' a b' b m r =
+     Proxy { unProxy :: m (ProxyF a' a b' b r (ProxyCorrect a' a b' b m r)) }
+
+-- | The base functor for the 'ProxyCorrect' type
+data ProxyF a' a b' b r x
+    = Request a' (a  -> x)
+    | Respond b  (b' -> x)
+    | Pure    r
+
+Then
+
+    a and a' are channels for communication with upstream
+    b and b' are channels for communication with downstream
+    the primed type variables a' and b' are requests (i.e. the data travels upstream)
+        a' our request to upstream
+        b' is downstream’s request to us
+    the unprimed type variables a and b are responses (i.e. the data travels downstream)
+        a is upstream’s response to us
+        b is our response to downstream
+
+thus
+
+    a' and b are what we emit (upstream and downstream respectively)
+    a and b' are what we receive (from upstream and downstream respectively)
+
+m is the monad that a' and b are generated in. r is the type of the final return value of the proxy when it terminates.
+
+A crucial point is that
+
+ProxyCorrect a' a b' b m r
+
+is just about to emit a request or response though we don’t know which.
+
+If you want a proxy that is ready to receive a request you must use
+
+\b' -> ProxyCorrect a' a b' b m r
+
+and if you want a proxy that is ready to receive a response you must use
+
+\a -> ProxyCorrect a' a b' b m r
+
+
+
+http://www.haskellforall.com/2012/07/free-monad-transformers.html
+
+The Pipe type from pipes is:
+
+data PipeF a b next
+  = Await (a -> next)
+  | Yield (b, next)
+
+type Pipe a b m r = FreeT (PipeF a b) m r
+
+
+http://www.reddit.com/r/haskell/comments/2376s0/bargain_priced_coroutines_code_co/
+
+As I mentioned in the comments, I wrote that FreeT code, and I directly stole that code from the same article of the monad reader,
+so it's not a coincidence at all that they are the same.
+
+pipes is also a special case of a free monad transformer:
+
+data ProxyF a' a b' b x =
+    Request a' (a  -> x) |
+    Respond b  (b' -> x)
+
+type Proxy a' a b' b = FreeT (ProxyF a' a b' b)
+
+That's really all there is to it. There are some minor differences (for efficiency reasons), but the above code is the semantic model for pipes.
+
+I also wrote a similar post on the original incarnation of this code, before it was merged into the free package.
+
+
+
+
+
 To enforce loose coupling, components can only communicate using two commands:
 
     yield: Send output data
