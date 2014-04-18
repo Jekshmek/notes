@@ -4,14 +4,15 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-    unite-sources
+    unite-actions
 http://www.pravoslavie.ru/jurnal/60628.htm
 
 Books:
-Lavie - GLR*                              - 143..145..149 (Ch 7 of 8)
+Lavie - GLR*                              - 145..149 (Ch 8 of 8)
+Kuc - Mastering ElasticSearch             - 1..346
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 52..94
+Kniberg - Scrum and XP from the Trenches  - 54..94
 
 Video:
 Linux in a Real World 11                  -  01:00
