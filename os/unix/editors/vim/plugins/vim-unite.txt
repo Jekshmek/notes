@@ -30,7 +30,15 @@ Sources:
     ???
 
 Options:
-:h unite-options
+  unite-options
+
+-default-action=
+-start-insert
+-no-start-insert
+  g:unite_enable_start_insert
+-verbose
+-log  - enable log mode (tail -f like)
+
 
 Candidate list masks:
 
@@ -194,5 +202,19 @@ options:
 
     g:unite_source_file_rec_max_cache_files
 
-:h
-    unite-actions
+unite-actions:
+
+Default actions
+
+kind		action
+{kind}		{action}
+----------	----------
+file		open
+buffer		open
+tab		open
+directory	narrow
+word		insert
+jump_list	open
+source		start
+
+:h unite-source-attributes

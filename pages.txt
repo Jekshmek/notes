@@ -4,15 +4,14 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-    unite-actions
-http://www.pravoslavie.ru/jurnal/60628.htm
+  unite-source-attributes
 
 Books:
-Lavie - GLR*                              - 145..149 (Ch 8 of 8)
-Kuc - Mastering ElasticSearch             - 1..346
+Lavie - GLR*                              - 147..149 (Ch 8 of 8)
+Kuc - Mastering ElasticSearch             - 2..346
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 54..94
+Kniberg - Scrum and XP from the Trenches  - 56..94
 
 Video:
 Linux in a Real World 11                  -  01:00
@@ -22,7 +21,7 @@ Babushk                                   -  15:00
 
 Tracking:
 ACCU                                      - 120
-https://www.fpcomplete.com/recent-content - 31 Mar
+https://www.fpcomplete.com/recent-content - 20 Apr
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
@@ -30,5 +29,3 @@ lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
 Review:
 FP-Features-Folds
 FP-Features-CategoryTheoryBased-Applicative
-FP-People (Appel) - Windows Access Control Demystified
-FP-People (Erwig) - A Generic Recursion Toolbox for Haskell (Or: Scrap Your Boilerplate Systematically)

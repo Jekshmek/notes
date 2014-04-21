@@ -44,6 +44,7 @@ http://www.haskellforall.com/2012/09/the-monadtrans-class-is-missing-method.html
 http://www.haskellforall.com/2012/07/free-monad-transformers.html
 
 Continuation monad:
+http://www.haskellforall.com/2014/04/how-continuation-monad-works.html
 http://www.haskellforall.com/2012/12/the-continuation-monad.html
 
 EitherT-ErrorT:
