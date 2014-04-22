@@ -217,4 +217,18 @@ word		insert
 jump_list	open
 source		start
 
-:h unite-source-attributes
+??
+g:unite_update_time
+...
+
+unite-source-attributes
+
+max_candidates (0 - max is infinity)
+is_volatile (0 - candidates are cached)
+matchers
+sorters
+converters
+
+
+:h unite-notation
+

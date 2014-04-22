@@ -1,1 +1,6 @@
+CPU:
 alias cpuinfo='lscpu'
+
+HDD:
+lsblk
+

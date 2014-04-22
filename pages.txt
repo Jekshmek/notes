@@ -4,20 +4,20 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-source-attributes
+  unite-notation
 
 Books:
-Lavie - GLR*                              - 147..149 (Ch 8 of 8)
 Kuc - Mastering ElasticSearch             - 2..346
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 56..94
+Kniberg - Scrum and XP from the Trenches  - 57..94
 
 Video:
+ArchLinux 2013                            -  19:00
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Babushk                                   -  15:00
+Babushk                                   -  46:00
 
 Tracking:
 ACCU                                      - 120

@@ -1,0 +1,42 @@
+fdisk sda
+  partition sda disk...
+
+  m - help
+  p - print current partitions
+  q - exit without save
+  w - write changes and exit
+  d - delete partition
+  t - change partition type
+  n - new partition
+
+  n subcommands:
+
+    p - create primary partition (1 to 4 like sda1 .. sda4)
+    e - create extended ... (5 to ... like sda5 ...)
+
+    /dev/sda1 (type Id 83) for /boot
+
+          K
+    p +200M
+          G
+
+
+    /dev/sda2 (type Id 82) for /swap
+
+    p +16384M (1:1 or 2:1 of the amount of current memory)
+    t 82
+
+
+    /dev/sda3 (type Id 5) for extended partition containing logical ones
+
+    e +... all the rest
+
+
+    /dev/sda5 (type Id 83) for soft
+
+    l +20G (maybe more)
+
+
+    /dev/sda6 (type Id 83) for /home (and other user stuff)
+
+    l +... all the rest
