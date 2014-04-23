@@ -1,3 +1,8 @@
+blkid
+  to list the available devices
+
+* partitioning *
+
 fdisk sda
   partition sda disk...
 
@@ -32,7 +37,7 @@ fdisk sda
     e +... all the rest
 
 
-    /dev/sda5 (type Id 83) for soft
+    /dev/sda5 (type Id 83) for / (root catalog including software)
 
     l +20G (maybe more)
 
@@ -40,3 +45,37 @@ fdisk sda
     /dev/sda6 (type Id 83) for /home (and other user stuff)
 
     l +... all the rest
+
+* formatting *
+
+mkfs.ext2 -L boot /dev/sda1
+  we don't need a journaled ext4 fs for our /boot,
+  -L boot is just a label here
+
+mkfs.ext4 -L arch /dev/sda5
+  root catalog
+
+mkfs.ext4 -L home /dev/sda6
+  home catalog
+
+mkswap -L swap /dev/sda2
+  swap catalog
+
+
+* mounting *
+
+!!! /mnt/lost+found
+  is a usefull folder
+
+mount /dev/sda5 /mnt
+  mount our root catalog to /mnt
+
+mkdir /mnt/{home,boot}
+
+mount /dev/sda1 /mnt/boot
+
+mount /dev/sda6 /mnt/home
+
+swapon /dev/sda2
+  to mount a swap (on /tmp)
+

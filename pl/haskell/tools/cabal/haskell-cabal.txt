@@ -9,6 +9,12 @@ Sandboxes:
 https://www.fpcomplete.com/school/to-infinity-and-beyond/older-but-still-interesting/an-introduction-to-cabal-sandboxes-copy
 http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html
 
+$ cd /path/to/shared-sandbox
+$ cabal sandbox init --sandbox .
+$ cd /path/to/package-a
+$ cabal sandbox init --sandbox /path/to/shared-sandbox
+
+
 --require-sandbox
 Note: The option can be turned on via the per-user configuration file ('~/.cabal/config') use-sandbox-by-default
 https://github.com/haskell/cabal/issues/1101
@@ -112,6 +118,7 @@ cabal install <name> --enable-documentation
 http://eax.me/mini-notes-issue-17/
 
 ~/.cabal/config:
+or at cabal.config at the current sandbox!!!
 
 documentation: True
 

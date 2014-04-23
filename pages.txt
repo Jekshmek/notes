@@ -7,13 +7,13 @@ URLs:
   unite-notation
 
 Books:
-Kuc - Mastering ElasticSearch             - 2..346
+Kuc - Mastering ElasticSearch             - 7..346 (Ch 1 of 9)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 57..94
+Kniberg - Scrum and XP from the Trenches  - 59..94
 
 Video:
-ArchLinux 2013                            -  19:00
+ArchLinux 2013                            -  30:00
 Linux in a Real World 11                  -  01:00
 
 Audio:

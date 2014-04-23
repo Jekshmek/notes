@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/4959802/how-to-specify-dependency-on-external-c-library-in-cabal
+
 http://haskell.forkio.com/Home/curl-win32:
 
 to build:

@@ -10,7 +10,9 @@ http://www.haskellforall.com/2013/09/pipes-40-simpler-types-and-api.html
 http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
 
 
+http://www.haskellforall.com/2014/04/how-continuation-monad-works.html
 http://web.jaguarpaw.co.uk/%7Etom/blog/posts/2013-03-29-how-to-read-pipes.html
+http://hackage.haskell.org/package/pipes-3.2.0/docs/src/Control-Proxy-Core-Correct.html
 
 The data definitions are
 
