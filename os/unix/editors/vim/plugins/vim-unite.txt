@@ -230,5 +230,5 @@ sorters
 converters
 
 
-:h unite-notation
+:h unite-kind-attributes
 

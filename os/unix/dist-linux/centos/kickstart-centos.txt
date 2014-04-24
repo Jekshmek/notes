@@ -12,3 +12,6 @@ This installs all the packages, updates as needed, partitions the disk, runs a c
 http://www.faultserver.com/q/answers-centos-install-starting-a-kickstart-416608.html
 
 ip=192.168.10.17 netmask=255.255.255.0 dns=192.168.10.22 gateway=192.168.10.1 ksdev=eth0
+
+!!! usefull tips !!!
+http://wiki.centos.org/TipsAndTricks/KickStart

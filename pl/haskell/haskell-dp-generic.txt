@@ -14,3 +14,5 @@ Tarasov - SYB Uniplate ru
 Data.Typeable and Data.Dynamic
 http://www.reddit.com/r/haskell/comments/23luc9/explain_like_im_not_a_phd_datatypeable_and/
 
+Typeable and Data in Haskell
+http://chrisdone.com/posts/data-typeable

@@ -48,6 +48,9 @@ Visser - fclabels (https://vimeo.com/41098956)
 XML:
 http://hackage.haskell.org/package/xml-lens (https://github.com/fumieval/xml-lens)
 
+Pointwise Lenses:
+http://www.well-typed.com/blog/92/
+
 
 
 Samples:

@@ -4,23 +4,26 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-notation
+  unite-kind-attributes
 
 Books:
-Kuc - Mastering ElasticSearch             - 7..346 (Ch 1 of 9)
+Kuc - ElasticSearch Server                - 50..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 59..94
+Kniberg - Scrum and XP from the Trenches  - 60..94
+issue19                                   - 32..48
+
 
 Video:
-ArchLinux 2013                            -  30:00
+ArchLinux 2013                            -  45:00
 Linux in a Real World 11                  -  01:00
 
 Audio:
-Babushk                                   -  46:00
+Surizhsky                                 -  01:00
 
 Tracking:
 ACCU                                      - 120
+TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 20 Apr
 
 Old Video:

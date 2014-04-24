@@ -5,6 +5,9 @@ https://bitbucket.org/hseeberger/typeclassopedia.bitbucket.org/src
 AMP (Applicative => Monad) proposal:
 https://github.com/quchen/articles/blob/master/applicative_monad.md
 
+Articles
+http://eax.me/functor-applicative-and-monoid/
+
 1. Functor
 
 class Functor f where
