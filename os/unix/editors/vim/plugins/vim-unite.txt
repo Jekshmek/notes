@@ -230,5 +230,7 @@ sorters
 converters
 
 
-:h unite-kind-attributes
+unite-kind-attributes
+
+:h unite-faq
 

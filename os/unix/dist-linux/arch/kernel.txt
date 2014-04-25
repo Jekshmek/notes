@@ -1,0 +1,24 @@
+edit /etc/mkinitcpio.conf
+  setting of ram-disk for kernel
+
+#!!! list of modules if they aren't auto-detected
+MODULES=""
+
+run
+$ mkinitcpio -p linux
+
+
+$ grub-install /dev/sda
+  installs to MBR, not to partition
+
+$ grub-mkconfig -o /boot/grub/grub.cfg
+  
+sammple output:
+Generating grub.cfg ...
+Found linux image: /boot/vmlinuz-linux
+Found initrd image: /boot/initramfs-linux.img
+  No volume groups found
+  ...
+done
+
+

@@ -4,10 +4,10 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-kind-attributes
+  unite-faq
 
 Books:
-Kuc - ElasticSearch Server                - 50..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 59..520 (Ch 1 of 8)
 
 Articles:
 Kniberg - Scrum and XP from the Trenches  - 60..94
@@ -15,8 +15,8 @@ issue19                                   - 32..48
 
 
 Video:
-ArchLinux 2013                            -  45:00
 Linux in a Real World 11                  -  01:00
+Linux Terminal HotKeys
 
 Audio:
 Surizhsky                                 -  01:00

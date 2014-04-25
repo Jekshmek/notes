@@ -16,8 +16,5 @@ arch-chroot /mnt
       run the bash for better comfort from there
 
 
-echo 'archlinux-host-name' > etc/hostname
 
-ln -s /user/share/zoneinfo/Europe/Moscow /etc/localtime
-  create a sym-link to existing time-zone
 

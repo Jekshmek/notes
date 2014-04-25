@@ -8,8 +8,11 @@ http://news.softpedia.com/news/A-Beginners-Guide-to-Installing-Arch-Linux-352365
 
 !!! install.txt after booting !!!
 
-part-format-mount.txt
-inet.txt
-mirrors.txt
-bootloader.txt
+1. part-format-mount.txt
+2. inet.txt
+3. mirrors.txt
+4. bootloader.txt
+5. host-specific.txt
+6. kernel.txt
+7. reboot.txt
 
