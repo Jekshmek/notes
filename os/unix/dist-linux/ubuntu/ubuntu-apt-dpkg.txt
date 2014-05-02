@@ -1,0 +1,7 @@
+Listing files of package:
+http://askubuntu.com/questions/32507/how-do-i-get-a-list-of-installed-files-from-a-package
+http://superuser.com/questions/82923/how-to-list-files-of-a-debian-package-without-install
+
+dpkg -L <package-name>
+
+

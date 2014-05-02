@@ -7,19 +7,20 @@ URLs:
   unite-faq
 
 Books:
-Kuc - ElasticSearch Server                - 59..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 65..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 60..94
+Kniberg - Scrum and XP from the Trenches  - 61..94
 issue19                                   - 32..48
 
 
 Video:
+Gundry - Overloaded Record Fields for Has -  30:00
 Linux in a Real World 11                  -  01:00
 Linux Terminal HotKeys
 
 Audio:
-Surizhsky                                 -  01:00
+Surozhsky                                 -  01:00
 
 Tracking:
 ACCU                                      - 120

@@ -1,6 +1,8 @@
 CPU:
 alias cpuinfo='lscpu'
 
+cat /proc/cpuinfo
+
 HDD:
 lsblk
 

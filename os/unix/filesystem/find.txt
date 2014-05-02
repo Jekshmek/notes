@@ -16,4 +16,4 @@ find . -name '*.o' -print0 | xargs -0 rm
 	here 0 is an ASCII 0 separator
 
 
-
+sudo find /etc -type f | sudo xargs grep 'resolv.conf'

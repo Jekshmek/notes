@@ -24,13 +24,13 @@ putting docs:
 
 curl -XPUT http://localhost:9200/blog/article/1 -d '{"title": "New version of Elastic Search released!", "content": "...", "tags": ["announce", "elasticsearch", "release"] }'
 
-respe:
+resp:
 { "ok":true, "_index":"blog", "_type":"article", "_id":"1", "_version":1 }
 
 for auto-generating id:
 ... -XPOST .../article/ -d '{...}'
 resp:
-{ ... "id":"<your-ugly-id" ... }
+{ ... "id":"<your-ugly-id>" ... }
 
 
 retrieving docs:
@@ -40,4 +40,27 @@ resp:
 { "_index":"blog", "_type":"article", "_id":"1", "_version":1, "exists":true, "_source":{ "title":... } }
 resp if not found:
 { "_index":"blog", "_type":"article", "_id":"9999", "exists":false }
+
+
+updating docs:
+
+...is implemented via scripts...
+
+curl -XPOST http://localhost:9200/blog/article/1/_update -d '{ "script": "ctx._source.content = \"new content\"" }'
+resp:
+{"ok":true,"_index":"blog","_type":"article","_id":"1","_version":2}
+
+default values must be in upsert section:
+
+curl -XPOST http://localhost:9200/blog/article/1/_update -d '{ "script": "ctx._source.counter += 1",
+  "upsert": { "counter" : 0 }
+}'
+
+
+Deleting documents:
+
+curl -XDELETE http://localhost:9200/blog/article/1
+resp:
+{"ok":true,"found":true,"_index":"blog","_type":"article","_id":"1","_version":3}
+
 
