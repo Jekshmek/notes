@@ -7,10 +7,10 @@ URLs:
   unite-faq
 
 Books:
-Kuc - ElasticSearch Server                - 65..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 78..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 61..94
+Kniberg - Scrum and XP from the Trenches  - 62..94
 issue19                                   - 32..48
 
 

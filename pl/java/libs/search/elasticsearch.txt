@@ -64,3 +64,89 @@ resp:
 {"ok":true,"found":true,"_index":"blog","_type":"article","_id":"1","_version":3}
 
 
+Index creation:
+
+curl -XPOST 'http://localhost:9200/posts'
+resp:
+{"ok":true,"acknowledged":true}
+
+
+Index deletioin:
+
+curl -XDELETE 'http://localhost:9200/posts'
+resp:
+{"ok":true,"acknowledged":true}
+
+
+Schema mapping (mappings):
+
+posts.json:
+
+{
+  "mappings": {
+    "post": {
+      "properties": {                
+        "id": {"type":"long", "store":"yes", "precision_step":"0" },
+        "name": {"type":"string", "store":"yes", "index":"analyzed" },
+        "published": {"type":"date", "store":"yes", "precision_step":"0" },
+        "contents": {"type":"string", "store":"no", "index":"analyzed" }             
+      }
+    }
+  }
+}
+
+curl -XPOST 'http://localhost:9200/posts' –d @posts.json
+resp:
+{"ok":true,"acknowledged":true}
+
+we can also include one-more type:
+
+{
+  "mappings": {
+    ...
+    "user": {
+      "properties": {                
+        "id": { "type":"long", "store":"yes", "precision_step":"0" },
+        "name": { "type":"string", "store":"yes", "index":"analyzed" }             
+      }
+    }
+    ...
+  }
+}
+
+Common attributes:
+
+index_name:
+  the name of the field in the Lucene index
+index:
+  analyzed (default)
+    the field will be analyzed and thus searchable
+  no
+    you won't be able to search such a field
+  not_analyzed (for the String-type fields only)
+    the field should be indexed but not processed by the analyzer
+store:
+  no (default)
+    the field will not be indexed and can't be returned as a result (although if you use the _source field, ...),
+    but if you have it indexed, you still can search on it
+  yes
+    the field should be written to the index and retrievable
+boost:
+  1 (default)
+    how important the field is inside the document (the higher - the more important)
+null_value:
+  Specifies a value that should be written into the index if that field is not a part of an indexed document.
+  The default behavior will just omit that field
+include_in_all:
+  Specifies if the field should be included in the _all field.
+  By default, if the _all field is used, all the fields will be included in it.
+
+
+Core types:
+- String
+- Number
+- Date
+- Boolean
+- Binary
+
+
