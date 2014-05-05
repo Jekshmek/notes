@@ -38,6 +38,13 @@ http://www.reddit.com/r/haskell/comments/223i80/haskell_application_architecture
 	s1 :: Lens' s S1
 	... with the lenses for S1 precomposed with the s1 lens.
 
+Mlot - Lenses you can make at home:
+http://duplode.github.io/posts/lenses-you-can-make-at-home.html
+
+Hilbert - Lens from the ground up:
+https://speakerdeck.com/markhibberd/lens-from-the-ground-up
+http://mth.io/talks/lens-from-the-ground-up/
+https://github.com/markhibberd/lens-talk
 
 Misc:
 http://hackage.haskell.org/package/Clean
@@ -50,6 +57,17 @@ http://hackage.haskell.org/package/xml-lens (https://github.com/fumieval/xml-len
 
 Pointwise Lenses:
 http://www.well-typed.com/blog/92/
+
+http://www.reddit.com/r/haskell/comments/2413fc/idiomaticlenshs/
+http://www.reddit.com/r/haskell/comments/23uzpg/lens_is_unidiomatic_haskell/ch0v5iw
+
+Getter' s a    -- Gets one a from an s
+Setter' s a    -- Sets any number of a in s
+Fold' s a      -- Gets any number of a in s
+Traversal' s a -- Gets or Sets any number of a in s
+Lens' s a      -- Gets or Sets one a in s
+Review' s a    -- Can construct s from a
+Prism' s a     -- Gets zero or one a in s / Can construct s from a
 
 
 

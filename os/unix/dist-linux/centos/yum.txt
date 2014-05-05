@@ -1,3 +1,6 @@
+http://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/
+
+
 yum install <package>
 yum remove|erase <package>
   search

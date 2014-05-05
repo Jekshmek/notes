@@ -150,3 +150,41 @@ Core types:
 - Binary
 
 
+String
+In addition to the common attributes, the following ones can also be set for string-based fields:
+
+term_vector:
+  This can take the values
+    no
+      (the default one),
+    yes,
+    with_offsets,
+    with_positions, or 
+    with_positions_offsets.
+  It defines whether the Lucene term vectors should be calculated for that field or not.
+  If you are using highlighting, you will need to calculate term vectors.
+omit_norms:
+  This can take the value true or false. The default value is false. When this attribute is set to true, it disables the Lucene norms calculation for that field
+  (and thus you can't use index-time boosting).
+omit_term_freq_and_positions:
+  This can take the value true or false. The default value is false. Set this attribute to true, if you want to omit term frequency and position calculation during indexing.
+  (Deprecated since ElasticSearch 0.20).
+index_options:
+  This allows to set indexing options. The possible values are
+    docs
+      which affects in number of documents for terms to be indexed,
+    freqs
+      which results in indexing number of documents for terms and term frequencies and
+    positions
+      which results in the previously mentioned two and term positions.
+  The default value is freqs. (Available since ElasticSearch 0.20.)
+analyzer:
+  This is the name of the analyzer used for indexing and searching. It defaults to the globally defined analyzer name.
+index_analyzer:
+  This is the name of the analyzer used for indexing.
+search_analyzer:
+  This is the name of the analyzer used for processing the part of the query string that is sent to that field.
+ignore_above:
+  This is the maximum size of the field. The rest of the fields beyond the specified value characters will be ignored.
+  This attribute is useful if we are only interested in the first N characters of the field.
+

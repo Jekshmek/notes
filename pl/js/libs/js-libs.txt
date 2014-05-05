@@ -10,6 +10,12 @@ d3.js (http://d3js.org/, frameworks/io/DOM)
 
 http://www.jstat.org/ (https://github.com/jstat/jstat)
 
+Web/Simple
+
+http://cujojs.com/
+AOP for cujo:
+https://github.com/cujojs/meld
+
 IO/Async
 
 Q:
