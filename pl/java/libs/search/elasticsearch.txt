@@ -188,3 +188,91 @@ ignore_above:
   This is the maximum size of the field. The rest of the fields beyond the specified value characters will be ignored.
   This attribute is useful if we are only interested in the first N characters of the field.
 
+
+Number
+byte:
+  A byte value; for example, 1
+short:
+  A short value; for example, 12
+integer:
+  An integer value; for example, 134
+long:
+  A long value; for example, 12345
+float:
+  A float value; for example, 12.23
+double:
+  A double value, for example, 12.23
+
+A sample definition of a field based on one of the numeric types can be as follows:
+  "price" : { "type" : "float", "store" : "yes", "precision_step" : "4" }
+
+In addition to the common attributes, the following ones can also be set for the numeric fields:
+precision_step:
+  This is the number of terms generated for each value in a field.
+  The lower the value, the higher the number of terms generated, resulting in faster range queries (but a higher index size).
+  The default value is 4.
+ignore_malformed:
+  This can take the value true or false.
+  The default value is false.
+  It should be set to true in order to omit badly formatted values.
+
+
+Date
+This core type is designed to be used for date indexing. It follows a specific format that can be changed and is stored in UTC by default.
+The default date format understood by ElasticSearch is quite universal and allows us to specify the date and optionally the time;
+for example, 2012-12-24T12:10:22.
+
+A sample definition of a field based on the date type can be as follows:
+  "published" : { "type" : "date", "store" : "yes", "format" : "YYYY-mm-dd" }
+
+A sample document that uses the preceding field can be as follows:
+{ 
+  "name" : "Sample document",
+  "published" : "2012-12-22" 
+}
+
+In addition to the common attributes, the following ones can also be set for the date type- based fields:
+format:
+  This specifies the format of the date.
+  The default value is dateOptionalTime. For a full list of formats, please visit
+    http://www.elasticsearch.org/guide/reference/mapping/date-format.html
+precision_step:
+  This specifies the number of terms generated for each value in that field.
+  The lower the value, the higher is the number of terms generated, resulting in faster range queries (but a higher index size).
+  The default value is 4.
+ignore_malformed:
+  This can can take the value true or false. The default value is false.
+  It should be set to true in order to omit badly formatted values.
+  
+
+Boolean
+This is the core type that is designed to be used for indexing. The Boolean values can be true or false.
+A sample definition of a field based on the Boolean type can be as follows:
+  "allowed" : { "type" : "boolean" }
+
+
+Binary
+The binary field is a BASE64 representation of the binary data stored in the index. You can use it to store data that is normally written in binary form, like images.
+Fields based on this type are, by default, stored and not indexed. The binary type only supports the index_name property.
+
+A sample field definition based on the binary field looks like the following:
+  "image" : { "type" : "binary" }
+
+
+Multi fields
+Sometimes you would like to have the same field values in two fields—for example, one for searching and one for faceting.
+There is a special type in ElasticSearch—multi_field—that allows us to map several core types into a single field and have them analyzed differently.
+
+For example, if we would like to calculate faceting and search on our name field, we could define the following multi_field:
+"name": {
+  "type": "multi_field",
+  "fields": {
+    "name": { "type" : "string", "index": "analyzed" },
+    "facet": { "type" : "string", "index": "not_analyzed" }
+  }    
+}
+
+The preceding definition will create two fields, one that we could just refer to as name and the second one that we would use as name.facet.
+Of course, you don't have to specify two separate fields during indexing, a single one named name is enough and ElasticSearch will do the rest.
+
+

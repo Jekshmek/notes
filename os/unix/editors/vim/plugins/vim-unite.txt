@@ -234,3 +234,14 @@ unite-kind-attributes
 
 :h unite-faq
 
+A: It is a feature.  cf: |g:unite_source_rec_max_cache_files|.
+And the default max candidates are limited. You can customize it by
+|unite#custom#source()|. >
+	let g:unite_source_rec_max_cache_files = 0
+	call unite#custom#source('file_rec,file_rec/async',
+	\ 'max_candidates', 0)
+
+Note: |unite-options-sync| may be useful. It blocks Vim until the cache is
+completed.
+
+:h vimproc-functions

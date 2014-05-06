@@ -26,7 +26,7 @@ http://www.youtube.com/watch?v=6Rhd4JqEY2Y
 . . . .
 
 $ ./youtube-dl --list-extractors
-..ustream
+..IPrima
 
 youtube_dl -a list.txt
 

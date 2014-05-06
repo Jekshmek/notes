@@ -4,28 +4,28 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 :h
-  unite-faq
+  vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 79..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 84..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 65..94
+Kniberg - Scrum and XP from the Trenches  - 66..94
 issue19                                   - 32..48
 
 
 Video:
-Gundry - Overloaded Record Fields for Has -  30:00
 Linux in a Real World 11                  -  01:00
 Linux Terminal HotKeys
 
 Audio:
-Surozhsky                                 -  01:00
+Surozhsky                                 -  50:00
 
 Tracking:
 ACCU                                      - 120
 TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 1 May
+http://habrahabr.ru/hub/linux/page38/       (12..38 of 40)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
