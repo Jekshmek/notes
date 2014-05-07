@@ -276,3 +276,72 @@ The preceding definition will create two fields, one that we could just refer to
 Of course, you don't have to specify two separate fields during indexing, a single one named name is enough and ElasticSearch will do the rest.
 
 
+Analyzers
+
+Can be different for index time and search time.
+
+OOB analyzers:
+
+standard:
+  A standard analyzer that is convenient for most European languages
+  (please refer to http://www.elasticsearch.org/guide/reference/index-modules/analysis/standard-analyzer.html for the full list of parameters)
+simple:
+  An analyzer that splits the provided value on non-letter characters and converts letters to lowercase.
+whitespace:
+  An analyzer that splits the provided value on the basis of whitespace characters.
+stop:
+  This is similar to a simple analyzer; but in addition to the simple analyzer functionality, it filters the data on the provided stop words set
+  (please refer to http://www.elasticsearch.org/guide/reference/index-modules/analysis/stop-analyzer.html for the full list of parameters).
+keyword:
+  This is a very simple analyzer that just passes the provided value. You'll achieve the same by specifying that field as not_analyzed.
+pattern:
+  This is an analyzer that allows flexible text separation by the use of regular expressions
+  (please refer to http://www.elasticsearch.org/guide/reference/index-modules/analysis/pattern-analyzer.html for the full list of parameters).
+language:
+  This is an analyzer that is designed to work with a specific language. The full list of languages supported by this analyzer can be found at
+  http://www.elasticsearch.org/guide/reference/index-modules/analysis/lang-analyzer.html.
+snowball:
+  Ths is an analyzer similar to the standard one, but in addition, it provides a stemming algorithm
+  (please refer to http://www.elasticsearch.org/guide/reference/index-modules/analysis/snowball-analyzer.html for the full list of parameters)
+
+
+Our own analyzers
+
+can be defined using the "settings" section of our mapping:
+
+"settings" : {
+  "index" : {
+    "analysis": {
+      "analyzer": {
+        "en": {
+          "tokenizer": "standard",
+          "filter": [
+            "asciifolding",
+            "lowercase",
+            "ourEnglishFilter"
+          ]
+        }
+      },
+      "filter": {
+        "ourEnglishFilter": {
+          "type": "kstem"
+        }
+      }
+    }
+  } 
+}
+
+As you can see, we specified that we want a new analyzer named "en" to be present.
+
+Each analyzer is built from a single tokenizer and multiple filters.
+
+A complete list of default filters and tokenizers can be found at
+  http://www.elasticsearch.org/guide/reference/index-modules/analysis/.
+  
+As you can see, our en analyzer includes the standard tokenizer and three filters:
+  asciifolding and lowercase—which are available by default—and the ourEnglishFilter, which is a filter that we have defined.
+
+To define a filter, we need to provide its name, its type (the type property), and a number of additional parameters required by that filter type.
+The full list of filter types available in ElasticSearch can be found at the mentioned above URL. That list is changing constantly,
+
+

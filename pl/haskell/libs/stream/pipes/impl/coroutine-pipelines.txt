@@ -1,3 +1,8 @@
+Prerequisites:
+Trampolines:
+  http://blog.richdougherty.com/2009/04/tail-calls-tailrec-and-trampolines.html
+  Bjarnason - Stackless Scala With Free Monads
+
 Haskell coroutine libraries (like pipes/conduit/machines) have what appear to be impenetrable implementations ...
 until you read Mario Blazevic's article on coroutines in issue 19 of The Monad Reader (Titled: Coroutine Pipelines").
 
@@ -38,6 +43,8 @@ Alternatively, we can just bounce the computation once, use the pause to perform
 Hello, Wonderful World!
 
 --- Listing 6:
+
+https://gist.github.com/ehamberg/1472628
 
 {-# LANGUAGE FlexibleContexts, Rank2Types, ScopedTypeVariables #-}
 import Control.Monad (liftM)
@@ -103,8 +110,8 @@ The function interleave will wait for all trampolines to complete their first bo
 This is cooperative, rather than preemptive multi-tasking.
 
 Because of their ability of interleaved execution, trampoline computations are
-an effective way to implement coroutines, and that is what we'll call them from
-now on.
+an effective way to implement coroutines, and that is what we'll call them from now on.
+
 Note, however, that the hello coroutines we have run are completely independent.
 
 This is comparable to an operating system running many sandboxed processes completely unaware of each other.

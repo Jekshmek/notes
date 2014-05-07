@@ -1,4 +1,10 @@
+Church encoding:
+http://web.archiveorange.com/archive/v/nDNOvgzSRV6TNq8KhCgZ
+http://stackoverflow.com/questions/9806729/practical-reasons-for-hurch-encoding
+http://stackoverflow.com/questions/10161009/input-checks-in-haskell-data-constructors
+
 Harper - A Library Writers Guide to Shortcut Fusion
+
 
 Leaf Tree sample:
 
