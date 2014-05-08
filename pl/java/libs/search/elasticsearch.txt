@@ -345,3 +345,42 @@ To define a filter, we need to provide its name, its type (the type property), a
 The full list of filter types available in ElasticSearch can be found at the mentioned above URL. That list is changing constantly,
 
 
+The _source field (all the entire document)
+
+To disable the default _source storage, use the:
+
+{
+  "mappings": {
+    "post": {
+      "_source": {
+        "enabled": false 
+      },
+      "properties": {
+
+The _all field
+
+By default, ElasticSearch will include the values from all the text fields into the _all field.
+To disable such behavior, add the following part to our type definition:
+
+{
+  "mappings": {
+    "post": {
+      "_all": {
+        "enabled": false 
+      },
+      "properties": {
+
+
+Dynamic field mapping (type detection):
+
+To turn off automatic field adding, we can set the dynamic property to false, as follows:
+{
+  "objects" : {
+    "obj1" : {
+      "dynamic" : "false",
+      "properties" : {
+      ...
+      }
+    }
+  }
+}

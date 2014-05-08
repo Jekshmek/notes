@@ -1,7 +1,11 @@
 Prerequisites:
 Trampolines:
+  http://en.wikipedia.org/wiki/Trampoline_%28computing%29
+  http://stackoverflow.com/questions/189725/what-is-a-trampoline-function
+
   http://blog.richdougherty.com/2009/04/tail-calls-tailrec-and-trampolines.html
   Bjarnason - Stackless Scala With Free Monads
+  http://apocalisp.wordpress.com/2011/10/26/tail-call-elimination-in-scala-monads/
 
 Haskell coroutine libraries (like pipes/conduit/machines) have what appear to be impenetrable implementations ...
 until you read Mario Blazevic's article on coroutines in issue 19 of The Monad Reader (Titled: Coroutine Pipelines").

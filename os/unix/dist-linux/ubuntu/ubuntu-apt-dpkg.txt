@@ -1,6 +1,9 @@
 http://www.tecmint.com/useful-basic-commands-of-apt-get-and-apt-cache-for-package-management/
 https://help.ubuntu.com/community/SwitchingToUbuntu/FromLinux/RedHatEnterpriseLinuxAndFedora
 
+https://help.ubuntu.com/community/AptGet/Howto
+https://help.ubuntu.com/community/Repositories/CommandLine
+
 updating/upgrading stuff:
 
 apt-get update
@@ -29,6 +32,7 @@ dpkg -L <package-name>
 
 List all the installed packages:
 
+https://help.ubuntu.com/community/ReinstallingSamePackages
 http://askubuntu.com/questions/17823/how-to-list-all-installed-packages
 
 dpkg --get-selections | grep -v deinstall
