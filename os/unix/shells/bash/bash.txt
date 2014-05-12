@@ -18,8 +18,6 @@ http://www.gnu.org/software/bash/manual/html_node/Modifiers.html
 
 $ stty stop 'undef'
 
-Ctrl+S - forward search in history
-Ctrl+R - reverse search in history
 
 
 

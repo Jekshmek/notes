@@ -1,0 +1,53 @@
+http://beerpla.net/2008/12/22/mastering-the-linux-shell-bash-shortcuts-explained/
+https://help.ubuntu.com/community/AdvancedCommandlineHowto
+https://help.ubuntu.com/community/UsingTheTerminal
+
+Tab: command completion.
+
+Up Arrow & Down Arrow: previously used commands in the current session.
+Ctrl+P, Ctrl+N
+
+Ctrl+S - forward search in history
+Ctrl+R - reverse search in history
+
+Ctrl+B or Left  : Move to the previous char.
+Ctrl+F or Right : Move to the next char.
+Alt+B           : Move to the previous word.
+Alt+F           : Move to the next word.
+Ctrl+E or End   : Move to the end of the current line.
+Ctrl+A or Home  : Move to the beginning of the current line.
+Esc+B           : Moves to the beginning of the previous or current word.
+
+Ctrl+H or Backspace : Delete the previous char.
+Ctrl+D or Delete    : Delete the next char.
+Ctrl+W              : Delete the previous word.
+Alt+D               : Delete the next word.
+Ctrl+U              : Delete all the previous text.
+Ctrl+K              : Delete all the next text.
+
+Ctrl+Y              : Past the text
+Ctrl+T              : Swap 2 chars
+Alt+T               : Swap 2 words
+Alt+L               : Convert word to lowercase
+
+Ctrl-D: On a blank line is the same as the exit command. Otherwise, it deletes the character in front of the cursor.
+Ctrl-C: Stop the current running command.
+Ctrl-Shift-C: Copy.
+Ctrl-Shift-V or Shift-Insert: Paste.
+
+Alt+C : Capitalizes letter where cursor is and moves to end of word
+
+~./inputrc:
+
+http://stackoverflow.com/questions/4094828/msysgit-bash-how-to-enable-ctrlleft-right-arrows
+http://stackoverflow.com/questions/5029118/bash-ctrl-to-move-cursor-between-words-strings
+
+Terminal stuff:
+
+Ctrl+X+E - open default editor for editing the command
+export EDITOR="vi"
+
+Shift+PgUp  : Scroll at the terminal
+Shift+PgDown:
+
+Ctrl+L : Clear the terminal

@@ -7,10 +7,10 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 93..120..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 104..120..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 68..94
+Kniberg - Scrum and XP from the Trenches  - 70..94
 issue19                                   - 32..48
 
 
