@@ -1,0 +1,4 @@
+http://www.reddit.com/r/haskell/comments/25d8f2/how_can_i_install_a_second_version_of_ghc/
+http://www.extellisys.com/articles/haskell-on-debian-wheezy
+http://byorgey.wordpress.com/2012/11/01/using-multiple-versions-of-ghc-in-parallel-with-gnu-stow/
+https://github.com/ekalinin/envirius

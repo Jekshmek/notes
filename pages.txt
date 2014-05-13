@@ -7,10 +7,10 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 104..120..520 (Ch 1 of 8)
+Kuc - ElasticSearch Server                - 114..120..520 (Ch 1 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 70..94
+Kniberg - Scrum and XP from the Trenches  - 71..94
 issue19                                   - 32..48
 
 
@@ -20,7 +20,7 @@ Linux Terminal HotKeys
   https://help.ubuntu.com/community/UsingTheTerminal
 
 Audio:
-Surozhsky                                 -  50:00
+Surozhsky                                 -1:55:00
 
 Tracking:
 ACCU                                      - 120
