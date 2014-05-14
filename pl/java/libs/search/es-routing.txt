@@ -3,3 +3,22 @@ Direct routing
 .. routing=12,665 ..
 
 
+Routing fields
+
+We only need to provide the routing parameter during querying. To do that, we need to add the following section to our type definition:
+
+{
+  "mappings" : {
+    "post" : {
+      "_routing" : { 
+        "required" : true,
+        "path" : "userId"
+      },
+      "properties" : {                
+        ...
+	}
+    }
+}
+
+The routing value needs to be provided (the "required": true property); without it, an index request will fail.
+In addition to that we specified the path attribute, which decides which field value of the document will be used as the routing value (userId in our case).
