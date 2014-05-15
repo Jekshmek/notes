@@ -9,6 +9,8 @@ http://www.haskellforall.com/2014/03/how-to-model-handles-with-pipes.html
 http://www.haskellforall.com/2013/09/pipes-40-simpler-types-and-api.html
 http://www.haskellforall.com/2013/04/pipes-and-io-streams.html
 
+!!! (Producer sample is awesome - look at the pipes.md)
+http://www.scs.stanford.edu/14sp-cs240h/slides/pipes.html
 
 http://www.haskellforall.com/2014/04/how-continuation-monad-works.html
 http://web.jaguarpaw.co.uk/%7Etom/blog/posts/2013-03-29-how-to-read-pipes.html

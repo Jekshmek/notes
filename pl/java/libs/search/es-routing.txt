@@ -22,3 +22,11 @@ We only need to provide the routing parameter during querying. To do that, we ne
 
 The routing value needs to be provided (the "required": true property); without it, an index request will fail.
 In addition to that we specified the path attribute, which decides which field value of the document will be used as the routing value (userId in our case).
+
+
+Index alias
+
+It's an additional name for one or more indexes that allow(s) us to query indexes with the use of that name.
+A single alias can have multiple indexes as well as the other way around, a single index can be a part of multiple aliases.
+
+

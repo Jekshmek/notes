@@ -10,3 +10,15 @@ LVDS1 connected primary 1024x600+0+0 (normal left inverted right x axis y axis) 
 xrandr --output VBOX0 --mode 1024x768
 xrandr --output VBOX0 --mode 800x600
 
+
+Drivers:
+
+xserver-xorg-video-ati
+xserver-xorg-video-radeon
+
+http://wiki.x.org/wiki/radeon/
+https://packages.debian.org/search?keywords=xserver-xorg-video-radeon
+http://packages.ubuntu.com/search?keywords=xserver-xorg-video-radeon
+https://packages.debian.org/sid/xserver-xorg-video-radeon
+https://wiki.debian.org/AtiHowTo
+

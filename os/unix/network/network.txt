@@ -8,11 +8,20 @@ ip a s
 ip address
   view ip address[es]
 
+ip neigh show
+    man ip-neighbour
+  ??
+
+
 
 ARP table (cache) matching MAC to IP addresses
 ARP protocol - 
   Who has 192.168.0.1
   reply - MAC addr
+
+arp -n
+  show ARP cache
+
 
 ICMP protocol
   ping (Type 8 Echo)
