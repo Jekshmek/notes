@@ -1,0 +1,15 @@
+KB map:
+
+setxkbmap -query
+
+rules:   evdev
+model:   pc105
+layout:  us,ru
+variant: ,legacy
+options: grp:ctrl_shift_toggle,terminate:ctrl_alt_backspace
+
+
+https://forum.manjaro.org/index.php?topic=6861.0
+
+setxkbmap "us,ru" -option "grp:caps_toggle"
+

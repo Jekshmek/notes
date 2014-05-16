@@ -1,0 +1,25 @@
+SYNC OPTIONS
+
+sudo pacman -S <package
+  install package (docky)
+
+pacman -Syu
+  y --refresh    - download and refresh sync database
+  u --sysupgrade - upgrade all the outdated
+
+
+pacman -Ss <search-str>
+  search all the package by string
+
+
+pacman -Ql <package>
+  list all the files of package
+
+
+pacman -Rns <package>
+  remove with dependencies (thunar)
+
+
+config:
+/etc/packman.conf
+

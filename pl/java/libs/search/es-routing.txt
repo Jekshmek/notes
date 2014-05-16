@@ -29,4 +29,67 @@ Index alias
 It's an additional name for one or more indexes that allow(s) us to query indexes with the use of that name.
 A single alias can have multiple indexes as well as the other way around, a single index can be a part of multiple aliases.
 
+The following request will create a new alias called week12 that will have indexes named day10, day11, and day12:
+
+curl -XPOST 'http://localhost:9200/_aliases' -d '{
+  "actions" : [
+    { "add" : { "index" : "day10", "alias" : "week12" } },
+    { "add" : { "index" : "day11", "alias" : "week12" } },
+    { "add" : { "index" : "day12", "alias" : "week12" } }
+  ]
+}'
+
+Now we can use
+
+curl –XGET 'http://localhost:9200/week12/_search?q=test'
+
+instead of
+
+curl –XGET 'http://localhost:9200/day10,day11,day12/_search?q=test'
+
+
+Modifying aliases:
+
+... -d '{
+ "actions" : [
+    { "remove" : { "index" : "day9", "alias" : "week12" } }
+  ]
+}'
+
+... -d '{
+"actions" : [
+    { "add" : { "index" : "day10", "alias" : "week12" } },
+    { "add" : { "index" : "day11", "alias" : "week12" } },
+    { "add" : { "index" : "day12", "alias" : "week12" } },
+    { "remove" : { "index" : "day9", "alias" : "week12" } }
+  ]
+}'
+
+
+Retrieving aliases:
+
+for specific index:
+
+curl -XGET 'localhost:9200/day10/_aliases'
+
+for all the indices:
+
+curl -XGET 'localhost:9200/_aliases'
+resp:
+"day10" : {
+    "aliases" : {
+      "week12" : { }
+    }
+  },
+  "day11" : {
+    "aliases" : {
+      "week12" : { }
+    }
+  },
+  "day12" : {
+    "aliases" : {
+      "week12" : { }
+    }
+  }
+}
 

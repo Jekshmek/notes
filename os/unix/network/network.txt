@@ -1,3 +1,22 @@
+Courses:
+
+intuit
+https://www.youtube.com/user/Intuitube
+
+http://www.intuit.ru/studies/courses/3688/930/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7IX9zmmGbviuX-ZZaDmhhwU
+http://www.intuit.ru/studies/courses/524/380/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7KKEd9ig8rRUquMm5SJ2lM9
+http://www.intuit.ru/studies/courses/489/345/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7KtPpeB5EFk0XlbhodREKFC
+
+Linux Network means:
+http://www.intuit.ru/studies/courses/681/537/info
+
+  http://www.intuit.ru/studies/courses/37/37/lecture/1106
+http://www.intuit.ru/studies/courses/2/2/info
+
+
 cat /proc/sys/net/ipv4/ip_forward
 0 - not a router
 1 - is a router
