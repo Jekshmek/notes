@@ -1,0 +1,21 @@
+http://www.binarytides.com/linux-commands-hardware-info/
+
+http://superuser.com/questions/303981/what-is-the-linux-command-to-find-out-hardware-info
+sudo lshw
+-short
+-businfo
+
+http://www.linuxforums.org/forum/suse-linux/146152-driver-detection-tool.html
+lspci -k
+
+01:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Turks PRO [Radeon HD 6570/7570/8550]
+    Subsystem: XFX Pine Group Inc. Device 3191
+    Kernel driver in use: radeon
+
+http://askubuntu.com/questions/28033/how-to-check-the-information-of-current-installed-video-drivers
+lspci | grep VGA
+
+
+inxi
+http://www.binarytides.com/inxi-system-information-linux/
+https://code.google.com/p/inxi/wiki/Installation

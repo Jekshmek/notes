@@ -1,0 +1,4 @@
+https://wiki.manjaro.org/index.php?title=Manjaro_Hardware_Detection_Overview
+https://wiki.manjaro.org/index.php?title=Configure_Graphics_Cards
+https://wiki.manjaro.org/index.php?title=Catalyst
+

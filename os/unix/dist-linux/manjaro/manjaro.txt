@@ -5,6 +5,45 @@ https://manjaro.org/index.php?title=Install_Desktop_Environments
 
 sudo pacman -S oblogout obconf obmenu openbox-themes
 
-https://manjaro.org/index.php?title=Getting_File_Managers_to_work_properly_in_Window_Managers
 
 look at PCManFM
+
+http://crunchbang.org/forums/viewtopic.php?id=19901
+https://manjaro.org/index.php?title=Getting_File_Managers_to_work_properly_in_Window_Managers
+
+
+fixing Conky displaying:
+http://crunchbang.org/forums/viewtopic.php?id=1163
+at ~/.conkyrc change
+own_window_type desktop
+by
+own_window_type normal
+
+
+http://manjaro.org/2014/05/18/update-pack-6-online-now/
+If you have issues with Rob McCathies (korrode) signature, try this:
+
+sudo pacman-key -r 5C0102A6
+sudo pacman-key --lsign-key 5C0102A6
+
+If you have issues with Joshuas Strots (dcell) signature, try this:
+
+sudo pacman-key -r CB6CDD17
+sudo pacman-key --lsign-key CB6CDD17
+
+
+Need:
+
+turbulence
+Geany
+LXterminal
+PCManFM
+tint2
+obkey
+obmenu
+firefox
+dmenu
+
+yaourt -Syua
+--no-confirm
+

@@ -93,3 +93,18 @@ resp:
   }
 }
 
+
+Filtering aliases:
+
+curl -XPOST 'http://localhost:9200/_aliases' -d '{
+  "actions" : [
+  {
+    "add" : {
+      "index" : "data",
+      "alias" : "client",
+     "filter" : { "term" : { "clientId" : "12345" } }
+    }
+  } ]
+}'
+
+
