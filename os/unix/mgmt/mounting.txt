@@ -3,3 +3,10 @@ fdisk -l
 ls /dev/disk/by-uuid -alh
 sudo mount -a # re-read /etc/fstab
 
+iso stuff:
+
+cp /dev/sr0 image.iso
+mount -o loop ./image.iso /mnt
+
+
+

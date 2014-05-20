@@ -6,3 +6,12 @@ alias pscpu='ps auxf | sort -nr -k 3'
 
 ps -o pid,cmd
   print pid and cmd-line
+
+
+/proc/
+
+cd /proc/1084
+cat cmdline
+cat environ
+ls -l cwd
+

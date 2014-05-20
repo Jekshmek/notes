@@ -32,18 +32,20 @@ sudo pacman-key -r CB6CDD17
 sudo pacman-key --lsign-key CB6CDD17
 
 
-Need:
-
-turbulence
-Geany
-LXterminal
-PCManFM
-tint2
-obkey
-obmenu
-firefox
-dmenu
-
 yaourt -Syua
 --no-confirm
+
+files:
+
+/etc/xdg/openbox/*
+~/.config/openbox/*
+  menu.xml
+  rc.xml
+  autostart/
+  environment/
+
+
+??? ~/.xinitrc
+  exec openbox-session
+
 
