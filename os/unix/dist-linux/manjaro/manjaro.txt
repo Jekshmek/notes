@@ -6,19 +6,6 @@ https://manjaro.org/index.php?title=Install_Desktop_Environments
 sudo pacman -S oblogout obconf obmenu openbox-themes
 
 
-look at PCManFM
-
-http://crunchbang.org/forums/viewtopic.php?id=19901
-https://manjaro.org/index.php?title=Getting_File_Managers_to_work_properly_in_Window_Managers
-
-
-fixing Conky displaying:
-http://crunchbang.org/forums/viewtopic.php?id=1163
-at ~/.conkyrc change
-own_window_type desktop
-by
-own_window_type normal
-
 
 http://manjaro.org/2014/05/18/update-pack-6-online-now/
 If you have issues with Rob McCathies (korrode) signature, try this:
@@ -36,16 +23,4 @@ yaourt -Syua
 --no-confirm
 
 files:
-
-/etc/xdg/openbox/*
-~/.config/openbox/*
-  menu.xml
-  rc.xml
-  autostart/
-  environment/
-
-
-??? ~/.xinitrc
-  exec openbox-session
-
 

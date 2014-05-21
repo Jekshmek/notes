@@ -1,16 +1,24 @@
 Need:
 
-tint2
+obconf (S - for shade mode)
 obkey
 obmenu
 dmenu (vs gmrun)
+tint2 (bottom panel)
+  tint2-svn
+  tint2conf
+  tintwizard
 
 turbulence
 
 LXDE stuff:
+
 LXterminal
 PCManFM (vs Thunar of XFCE)
 Viewnior ??? (why not gpicview)
+nitrogen (walpaper mgr of LXDE)
+lxappearance (customize look and feel)
+lxpanel (top panel)
 
 Document viewer like PDF
 Evince (of Gnome)
