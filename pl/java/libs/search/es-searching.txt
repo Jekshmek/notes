@@ -1,0 +1,46 @@
+Simple Query:
+
+curl -XGET 'localhost:9200/library/book/_search?pretty=true' -d '{
+ "query" : {
+  "term" : { "title" : "crime" }
+ }
+}'
+
+resp:
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 0.19178301, "_source" : { "title": "Crime and Punishment","otitle": "????????é??? ? ?????á???","author": "Fyodor Dostoevsky","year": 1886,"characters": ["Raskolnikov", "Sofia Semyonovna Marmeladova"],"tags": [],"copies": 0, "available" : true}
+    } ]
+  }
+}
+
+Let's sum up the possible call types and see what the addressing looks like:
+1. Request to index and type:
+    curl -XGET 'localhost:9200/library/book/_search' -d @query.json
+
+2. Request to index and all types in it:
+    curl -XGET 'localhost:9200/library/_search' -d @query.json
+
+3. Request to all indices:
+    curl -XGET 'localhost:9200/_search' -d @query.json
+
+4. Request to few indices:
+    curl -XGET 'localhost:9200/library,bookstore/_search' -d @query.json
+    
+5. Request to multiple indices and multiple types in them:
+    curl -XGET 'localhost:9200/library,bookstore/book,recipes/_search' -d @query.json
+
+

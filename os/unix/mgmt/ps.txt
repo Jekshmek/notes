@@ -15,3 +15,7 @@ cat cmdline
 cat environ
 ls -l cwd
 
+Killing:
+
+killall -9 <ps_name>
+

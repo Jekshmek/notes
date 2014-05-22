@@ -9,6 +9,8 @@ tint2 (bottom panel)
   tint2conf
   tintwizard
 
+!! /usr/share/applications
+
 turbulence
 
 LXDE stuff:
@@ -26,4 +28,19 @@ Evince (of Gnome)
 Geany
 firefox
 
+??
+dconf
+dconf-editor
 
+??
+/usr/share/application-registry/gnome-vfs.applications
+
+Keyboard 
+xxkb
+  ~/.xxkbrc
+
+  ~/.config/openbox/autostart:
+  setxkbmap -layout us,ru -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp
+
+?? packages
+pnmixer

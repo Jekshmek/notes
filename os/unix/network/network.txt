@@ -1,3 +1,6 @@
+Articles
+http://www.objc.io/issue-10/ip-tcp-http.html
+
 Courses:
 
 intuit
@@ -21,6 +24,8 @@ cat /proc/sys/net/ipv4/ip_forward
 0 - not a router
 1 - is a router
 
+ip link
+  show mac addresses
 
 ip a
 ip a s
@@ -59,4 +64,25 @@ net.ipv4.conf.all.forwarding=0
 sysctl net.ipv4.conf.all.forwarding=0
 cat /proc/sys/net/ipv4/ip_forwarding
 1
+
+
+
+DHCP:
+
+ifconfig eth0 0.0.0.0
+  remove the IP address
+
+service isc-dhcp-server start
+  start a DHCP server (dhcpd)
+  (/etc/init.d/...)
+
+dhclient -v eth0
+  send DHCPDISCOVER req
+  get  DHCPOFFER from all the DHCP servers
+  then - DHCPREQUEST
+  and    DHCPACK
+
+ip addres send for some period of time (but remembers at the cache)
+
+
 
