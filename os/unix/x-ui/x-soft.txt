@@ -1,5 +1,6 @@
 Need:
 
+oblogout
 obconf (S - for shade mode)
 obkey
 obmenu
@@ -25,7 +26,11 @@ lxpanel (top panel)
 Document viewer like PDF
 Evince (of Gnome)
 
+Editors:
+gvim (7.4 with lua)
 Geany
+
+I-Net browsers:
 firefox
 
 ??
@@ -35,12 +40,20 @@ dconf-editor
 ??
 /usr/share/application-registry/gnome-vfs.applications
 
-Keyboard 
+Keyboard:
 xxkb
   ~/.xxkbrc
 
   ~/.config/openbox/autostart:
   setxkbmap -layout us,ru -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp
 
-?? packages
+Audio:
 pnmixer
+
+Composit-managers
+
+cairo-compmgr (buggy)
+xcompmgr (but compton is better)
+
+compton
+

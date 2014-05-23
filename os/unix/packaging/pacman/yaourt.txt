@@ -1,0 +1,2 @@
+yaourt -Si <package>
+    display info about installed package

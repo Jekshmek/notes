@@ -1,0 +1,33 @@
+http://www.unixmen.com/install-oh-zsh-ubuntu-arch-linux-fedora/
+
+sudo pacman -S zsh
+chsh -s `which zsh`
+
+The function will not be run in future, but you can run it yourself as follows:
+  autoload -Uz zsh-newuser-install
+  zsh-newuser-install -f
+
+
+oh-my-zsh (git is needed):
+
+curl -L http://install.ohmyz.sh | sh
+
+edit ~/.zshrc
+
+ZSH_THEME="agnoster"
+
+
+LXTerminal settings:
+
+https://gist.github.com/perusio/1154002
+
+edit ~/.config/lxterminal/lxterminal.conf:
+
+bgcolor=#00002b2b3636
+fgcolor=#65657b7b8383
+
+
+LS colors:
+https://github.com/seebi/dircolors-solarized
+
+

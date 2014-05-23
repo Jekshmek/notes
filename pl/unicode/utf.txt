@@ -1,0 +1,26 @@
+http://www.joelonsoftware.com/articles/Unicode.html
+
+UTF-8 videos:
+https://www.youtube.com/channel/UCO-s3NM20lkZNoVTgla_hmw/playlists
+https://www.youtube.com/playlist?list=PLDtJOX2xbq5s98jW1FUKpDDkobOj2jfa8
+
+http://stackoverflow.com/questions/1527856/how-can-i-iterate-through-the-unicode-codepoints-of-a-java-string
+http://stackoverflow.com/questions/1029897/comparing-a-char-to-a-code-point
+
+http://www.ibm.com/developerworks/java/library/j-unicode/index.html
+
+http://docs.oracle.com/javase/7/docs/api/java/lang/Character.html
+http://www.oracle.com/technetwork/articles/javase/supplementary-142654.html
+
+http://docs.oracle.com/javase/tutorial/i18n/text/index.html
+http://docs.oracle.com/javase/tutorial/i18n/text/usage.html
+BreakIterator
+http://docs.oracle.com/javase/tutorial/i18n/text/char.html
+http://docs.oracle.com/javase/tutorial/i18n/text/characterClass.html
+http://docs.oracle.com/javase/tutorial/i18n/text/boundaryintro.html
+
+http://www.oracle.com/technetwork/articles/javase/supplementary-142654.html
+
+Java 8:
+http://docs.oracle.com/javase/8/docs/api/java/lang/CharSequence.html
+http://bugs.java.com/bugdatabase/view%5Fbug.do?bug%5Fid=5003547

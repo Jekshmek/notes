@@ -1,0 +1,14 @@
+http://sourceforge.net/projects/msys2/
+http://sourceforge.net/projects/msys2/files/Base/x86_64/
+
+http://msys2.github.io/
+http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
+https://github.com/iljau/msys2-installer
+
+install
+    bash-completion (already installed)
+    man
+    ssh
+    tig (including git, vim)
+    mingw-w64-x86_64
+

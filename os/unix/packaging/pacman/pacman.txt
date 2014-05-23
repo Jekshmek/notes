@@ -1,0 +1,56 @@
+https://wiki.archlinux.org/index.php/pacman
+https://wiki.archlinux.org/index.php/Pacman_Rosetta
+
+Query a SYNC package DB:
+pacman -S --help
+
+pacman -S <package
+  install package (docky)
+
+pacman -Syu
+  y --refresh    - download and refresh sync database
+  u --sysupgrade - upgrade all the outdated
+
+pacman -Ss <search-str>
+  search all the package by string
+
+
+Query local package DB:
+pacman -Q --help
+
+pacman -Qs <package>
+  search locally installed package for names or descriptions
+  if <package> is absent - list all the installed packages
+
+pacman -Qo /path/to/file_name
+  which package a file belongs to
+
+pacman -Qi <package> <package>
+  extensive info about the installed package
+
+pacman -Ql <package>
+  list all the files of package
+
+pacman -Qdt
+  list all packages no longer required as dependencies (orphans)
+
+
+
+Remove packages:
+pacman -R --help
+
+pacman -Rns <package>
+  remove with dependencies (thunar)
+
+
+Config files:
+/etc/packman.conf
+
+
+pactree <package>
+whoneeds <package>
+makepkg
+
+pacman-mirrors -g -b stable
+pacman-mirrors -g -b testing
+
