@@ -44,3 +44,45 @@ Let's sum up the possible call types and see what the addressing looks like:
     curl -XGET 'localhost:9200/library,bookstore/book,recipes/_search' -d @query.json
 
 
+Paging and result size:
+
+{
+ "from" :  9,
+ "size" : 20,
+ "query" : {
+  "term" : { "title" : "crime" }
+ }
+}
+
+Version:
+...
+ "version" : true,
+...
+resp:
+...
+ "version" : 1
+...
+
+Limiting the score:
+...
+ "min_score" : 0.75,
+...
+
+Choosing the fields we want to return:
+...
+ "fields" : [ "title", "year" ],
+...
+resp:
+...
+ "fields" : {
+   "title" : "..."
+   "year" : 1886
+ }
+...
+Note: ES can return stored fields only or if the "_source" field is used
+  "*" - if we need all the stored fields.
+  "include" : [ "prefix*" ] - if we need partial fields.
+  "exclude" : [ ...]
+
+
+

@@ -39,6 +39,18 @@ ip neigh show
 ip route
   view the routing table
 
+route -n
+  view the "Kernel IP routing table"
+
+MTU
+  maximum transmission unit (2-nd level)
+  1500 bytes (if no Jumbo Frames)
+  1492 bytes (PPPOE)
+  min - 576 (to work with IPv4)
+  min - 1280 (... IPv6)
+  ... MF flag - more fragments
+
+
 
 
 ARP table (cache) matching MAC to IP addresses

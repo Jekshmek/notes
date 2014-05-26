@@ -57,3 +57,16 @@ xcompmgr (but compton is better)
 
 compton
 
+
+slim (login manager)
+  packages: slim-themes, archlinux-themes
+
+  /usr/share/slim/themes/
+
+  slim -p <path_to_slim_theme>
+    look the theme
+
+  /etc/slim.conf
+
+  current_theme
+
