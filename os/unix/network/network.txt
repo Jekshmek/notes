@@ -1,6 +1,9 @@
 Articles
 http://www.objc.io/issue-10/ip-tcp-http.html
 
+Yandex-Savin:
+http://youtu.be/ZNZUeyeS5R0
+
 Courses:
 
 intuit
@@ -25,12 +28,18 @@ cat /proc/sys/net/ipv4/ip_forward
 1 - is a router
 
 ip link
-  show mac addresses
+    show mac addresses
 
 ip a
 ip a s
 ip address
-  view ip address[es]
+    view ip address[es]
+ip -4 a
+    show ipv4 addresses only
+ip -4 a add 192.168.1.12 dev eth0
+    assign address
+ip -4 a show dev eth0
+    show...
 
 ip neigh show
     man ip-neighbour
@@ -38,6 +47,11 @@ ip neigh show
 
 ip route
   view the routing table
+  note: we can change the metric for each row of this table
+ip route del 192.168.2.0/24 dev eth0
+    delete the roote
+ip route add 192.168.2.0/24 dev eth0 metric 10
+    add...
 
 route -n
   view the "Kernel IP routing table"
@@ -82,7 +96,9 @@ cat /proc/sys/net/ipv4/ip_forwarding
 DHCP:
 
 ifconfig eth0 0.0.0.0
-  remove the IP address
+    remove the IP address
+ifconfig eth0:0
+    ???
 
 service isc-dhcp-server start
   start a DHCP server (dhcpd)

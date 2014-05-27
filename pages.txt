@@ -17,8 +17,7 @@ issue19                                   - 32..48
 Video:
 Linux in a Real World 11                  -  01:00
 Selivan 2                                 -  47:00
-Linux& - OpenBox 3                        -  14:30
-Savin                                     -  45:00
+Savin                                     -1:03:00
 Networks for Programmers                  -  17:00
 
 Audio:

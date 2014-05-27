@@ -1,2 +1,7 @@
+yaourt -Su
+    upgrade all the stuff
+
 yaourt -Si <package>
     display info about installed package
+
+

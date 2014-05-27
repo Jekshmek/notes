@@ -24,3 +24,10 @@ yaourt -Syua
 
 files:
 
+
+???
+/etc/locale.gen
+/etc/locale.conf
+/etc/environment
+/etc/keyboard.conf
+

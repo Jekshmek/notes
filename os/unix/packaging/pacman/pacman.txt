@@ -1,5 +1,6 @@
 https://wiki.archlinux.org/index.php/pacman
 https://wiki.archlinux.org/index.php/Pacman_Rosetta
+https://wiki.archlinux.org/index.php/Pacman-key
 
 Query a SYNC package DB:
 pacman -S --help
@@ -45,6 +46,11 @@ pacman -Rns <package>
 
 Config files:
 /etc/packman.conf
+
+# disable signature checking
+SigLevel = Never
+
+for [almost] all the occurences
 
 
 pactree <package>
