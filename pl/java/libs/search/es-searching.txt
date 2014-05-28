@@ -85,4 +85,83 @@ Note: ES can return stored fields only or if the "_source" field is used
   "exclude" : [ ...]
 
 
+Query types - Basic queries:
+
+Term query:
+
+{
+ "query" : {
+  "term" : {
+   "title" : {
+    "value" : "crime",
+    "boost" : 10.0
+   }
+  }
+ }
+}
+
+Note: the term query is not analyzed, so you need to provide the exact term that will match the term in the indexed document.
+However, you can also include the boost attribute in your term query; this will affect the importance of the given term.
+
+The terms query
+
+{
+ "query" : {
+  "terms" : {
+   "tags" : [ "novel", "book" ]
+   "minimum_match" : 1
+  }
+ }
+}
+
+The match query
+
+{
+ "query" : {
+  "match" : {
+   "title" : "crime and punishment"
+  }
+ }
+}
+
+It takes the values given in the query parameter, analyzes them, and constructs the appropriate query out of them.
+When using a match query, ElasticSearch will choose the proper analyzer for a field we've chosen,
+so you can be sure that the terms passed to the match query will be processed by the same analyzer that was used during indexing.
+
+Please remember that the match query (and as further explained, the multi match query) doesn't support Lucene query syntax
+
+
+The Boolean match query
+
+is a query that analyzes the provided text and makes a Boolean query out of it.
+
+There are a few parameters that allow us to control the behavior of Boolean match queries:
+operator:
+    This can take the value of or or and and control what Boolean operator is used to connect the created Boolean clauses.
+    The default value is or.
+analyzer:
+    This specifies the name of the analyzer that will be used to analyze the query text and defaults to the default analyzer.
+fuzziness:
+    Providing the value of this parameter allows one to construct fuzzy queries.
+    It should take values from 0.0 to 1.0 for a string object.
+    While constructing fuzzy queries, this parameter will be used to set the similarity.
+prefix_length:
+    This allows one to control the behavior of the fuzzy query.
+    For more information on the value of this parameter, please see the The fuzzy like this query section below.
+max_expansions:
+    This allows one to control the behavior of the fuzzy query.
+    For more information on the value of this parameter, please see the The fuzzy like this query section in below.
+The parameters should be wrapped in the name of the field we are running the query against.
+So, if we wanted to run a sample Boolean match query against the title field, we could send a query like so:
+
+{
+ "query" : {
+  "match" : {
+   "title" : {
+    "query" : "crime and punishment",
+    "operator" : "and"
+   }
+  }
+ }
+}
 

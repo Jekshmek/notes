@@ -7,7 +7,6 @@ sudo pacman -S oblogout obconf obmenu openbox-themes
 
 
 
-http://manjaro.org/2014/05/18/update-pack-6-online-now/
 If you have issues with Rob McCathies (korrode) signature, try this:
 
 sudo pacman-key -r 5C0102A6
