@@ -7,17 +7,17 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 80..109..236 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 81..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 77..94
+Kniberg - Scrum and XP from the Trenches  - 81..94
 issue19                                   - 32..48
 
 
 Video:
 Linux in a Real World 11                  -  01:00
-Selivan 2                                 -  47:00
-Savin                                     -1:03:00
+Selivan 3                                 -  03:00
+Savin                                     -1:18:00
 Networks for Programmers                  -  17:00
 
 Audio:

@@ -1,0 +1,44 @@
+/boot/grub/grub.cfg
+https://wiki.archlinux.org/index.php/GRUB2#LVM
+
+http://serverfault.com/questions/279571/lvm-dangers-and-caveats
+http://www.tldp.org/HOWTO/LVM-HOWTO/recipesplitvg.html
+
+need to boot from USB and then:
+
+sudo lvdisplay ManjaroVG/ManjaroRoot
+sudo lvreduce -r -L 64G ManjaroVG/ManjaroRoot
+
+
+??? vgreduce
+http://askubuntu.com/questions/196125/how-can-i-resize-an-lvm-partition-i-e-physical-volume
+http://microdevsys.com/wp/linux-lvm-resizing-partitions/
+http://www.ibm.com/developerworks/linux/library/l-resizing-partitions-2/index.html
+
+pvresize --setphysicalvolumesize 128G /dev/sda2
+
+    cannot resize to <NNNNN> extents as later ones are allocated.
+
+http://unix.stackexchange.com/questions/67702/how-to-reduce-volume-group-size-in-lvm
+
+
+!!!
+http://microdevsys.com/wp/linux-lvm-resizing-partitions/
+http://superuser.com/questions/435075/how-to-align-logical-volumes-on-contiguous-physical-extents
+http://unix.stackexchange.com/questions/67702/how-to-reduce-volume-group-size-in-lvm
+https://www.linux.org.ru/forum/desktop/7218930
+
+sudo pvdisplay --maps
+! there is a FREE gap between Root and Swap
+
+
+GParted Live:
+
+http://gparted.sourceforge.net/liveusb.php
+http://gparted.sourceforge.net/download.php
+http://sourceforge.net/projects/gparted/files/gparted-live-stable/
+http://gparted.sourceforge.net/display-doc.php?name=gparted-live-manual
+http://gparted.sourceforge.net/display-doc.php?name=help-manual
+
+dmesg
+sudo dd if=/path-to-gparted-live.x.y.z-w.iso of=/dev/sde bs=4M; sync

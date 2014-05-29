@@ -165,3 +165,63 @@ So, if we wanted to run a sample Boolean match query against the title field, we
  }
 }
 
+
+The phrase match query
+
+Similar to the Boolean query, but instead of constructing the Boolean clauses from the analyzed text, it constructs a phrase query.
+
+The following parameters are available:
+slop:
+    This is an integer value that defines how many unknown words can be put between terms in the text query for a match to be considered a phrase.
+analyzer:
+    This specifies the name of the analyzer that will be used to analyze the query text and defaults to the default analyzer.
+    
+A sample phrase match query against the title field could look like the following code:
+{
+ "query" : {
+  "match_phrase" : {
+   "title" : {
+    "query" : "crime and punishment",
+    "slop" : 1
+   }
+  }
+ }
+}
+
+
+The match phrase prefix query
+
+The last type of the match query is the match phrase prefix query.
+This query is almost the same as the prefix match query, but in addition, it allows prefix matches on the last term in the query text.
+Also, in addition to the parameters exposed by the match phrase query, it exposes an additional one, the max_expansions parameter,
+which controls how many prefixes the last terms will be rewritten to.
+
+Our sample query changed to the match phrase prefix query could look like this:
+{
+ "query" : {
+  "match_phrase_prefix" : {
+   "title" : {
+    "query" : "crime and punishment",
+    "slop" : 1,
+    "max_expansions" : 20
+   }
+  }
+ }
+}
+
+
+The multi match query
+
+This is the same as the match query, but instead of running against a single field, it can be run against multiple fields with the use of the fields parameter.
+Of course, all the parameters you use with the match query can be used with the multi match query.
+So, if we want to modify our match query to be run against the title and otitle fields, we could run the following query:
+{
+ "query" : {
+  "multi_match" : {
+   "query" : "crime punishment",
+   "fields" : [ "title", "otitle" ]
+  }
+ }
+}
+
+

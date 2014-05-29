@@ -1,0 +1,81 @@
+--- Package conflict issue:
+
+pacman -Syuu
+
+y = Only download database files if the remote repo webserver says it's changed since last time
+yy = Download the databases even if the remote repo webserver says the files haven't changed since last time
+u = Update packages to newer versions from the repo, but do not install packages from the repo that are an older version than the currently installed version (i.e. no downgrades)
+uu = Match the versions of packages installed on the system to those present in the remote repo, even if it means downgrading to an apparently earlier package version
+
+
+
+--- Keyring issue
+https://forum.manjaro.org/index.php?topic=12783.msg114907#msg114907
+
+
+If you have issues with Rob McCathies (korrode) signature, try this:
+
+sudo pacman-key -r 5C0102A6
+sudo pacman-key --lsign-key 5C0102A6
+
+If you have issues with Joshuas Strots (dcell) signature, try this:
+
+sudo pacman-key -r CB6CDD17
+sudo pacman-key --lsign-key CB6CDD17
+
+
+--- Regenerate keyring:
+
+https://forum.manjaro.org/index.php?topic=12968.0
+
+mv /etc/pacman.d/gnupg/ /etc/pacman.d/gnupgold
+pacman-key --init
+pacman-key --populate archlinux manjaro
+pacman-key --refresh
+
+
+--- Mirror selection ---
+
+sudo pacman-mirrors -g [-o a.out]
+
+
+--- Kernel upgrade
+
+https://wiki.manjaro.org/index.php/Manjaro_Kernels
+
+sudo mhwd-kernel -h
+sudo mhwd-kernel -li
+sudo mhwd-kernel -i <your-kernel>
+    [rmc: for removing current]
+
+
+--- Audio issues:
+
+https://forum.manjaro.org/index.php?topic=3681.0
+
+sudo pacman -Sy manjaro-printer && sudo systemctl enable cups.service
+sudo pacman -Sy manjaro-pulse
+and that’s it.
+
+
+--- Manjaro Skype
+
+https://wiki.archlinux.org/index.php/skype
+http://archlinux.org.ru/forum/topic/12285/
+https://forum.manjaro.org/index.php?topic=3779.0
+
+!!! start from /usr/share/applications/skype.desktop
+
+If you get distorted sound in skype, try adding PULSE_LATENCY_MSEC=60 to your
+env before starting skype. Something like 'export PULSE_LATENCY_MSEC=60' in .bashrc, for example.
+
+
+-- LX Terminal
+
+~/.config/lxterminal/lxterminal.conf:
+fontname=Liberation Mono 12
+bgcolor=#00002b2b3636
+# 233 from GUI
+bgalpha=63222
+fgcolor=#65657b7b8383
+

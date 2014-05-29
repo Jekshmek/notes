@@ -2,6 +2,7 @@ Git manages tags/refs, pointing to the commit-objects, organized in a DAG-graph 
 
 Articles
 http://jaxenter.com/git-is-simple-on-the-inside-49426.html
+http://wildlyinaccurate.com/a-hackers-guide-to-git
 
 Presentations
 https://speakerdeck.com/matthewmccullough/git-graphs-hashes-and-compression-oh-my-1 (http://youtu.be/ig5E8CcdM9g)

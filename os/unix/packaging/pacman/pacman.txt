@@ -2,6 +2,10 @@ https://wiki.archlinux.org/index.php/pacman
 https://wiki.archlinux.org/index.php/Pacman_Rosetta
 https://wiki.archlinux.org/index.php/Pacman-key
 
+https://wiki.manjaro.org/index.php?title=Pacman_Tips
+https://wiki.manjaro.org/index.php?title=Pacman_troubleshooting
+
+
 Query a SYNC package DB:
 pacman -S --help
 
@@ -59,4 +63,8 @@ makepkg
 
 pacman-mirrors -g -b stable
 pacman-mirrors -g -b testing
+
+
+Package cache:
+https://wiki.manjaro.org/index.php?title=Maintaining_/var/cache/pacman/pkg_for_System_Safety
 
