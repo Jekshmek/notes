@@ -12,16 +12,15 @@ uu = Match the versions of packages installed on the system to those present in 
 --- Keyring issue
 https://forum.manjaro.org/index.php?topic=12783.msg114907#msg114907
 
+If you have issues with Joshuas Strots (dcell) signature, try this:
+
+sudo pacman-key -r CB6CDD17
+sudo pacman-key --lsign-key CB6CDD17
 
 If you have issues with Rob McCathies (korrode) signature, try this:
 
 sudo pacman-key -r 5C0102A6
 sudo pacman-key --lsign-key 5C0102A6
-
-If you have issues with Joshuas Strots (dcell) signature, try this:
-
-sudo pacman-key -r CB6CDD17
-sudo pacman-key --lsign-key CB6CDD17
 
 
 --- Regenerate keyring:
@@ -78,4 +77,77 @@ bgcolor=#00002b2b3636
 # 233 from GUI
 bgalpha=63222
 fgcolor=#65657b7b8383
+
+
+-- XXKB
+
+https://wiki.manjaro.org/index.php?title=Openbox:_Switch_languages_using_the_keyboard_and_xxkb
+sudo vim /etc/locale.gen
+  en_US.UTF-8... done
+  ru_RU.UTF-8... done
+sudo locale-gen
+sudo vim /etc/vconsole.conf
+  KEYMAP=us,ru
+
+
+https://forum.manjaro.org/index.php?topic=6861.0
+http://archlinux.org.ru/forum/topic/1356/
+https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
+
+Keyboard:
+xxkb
+    ~/.xxkbrc
+
+    ~/.config/openbox/autostart:
+    setxkbmap -layout "us,ru(winkeys)" -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp
+
+    setxkbmap -query
+
+-- Locales (RU)
+
+http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
+packages:
+    firefox-i18n-ru
+    libreoffice-ru
+
+https://wiki.archlinux.org/index.php/locale
+/etc/locale.conf
+~/.config/locale.conf
+    LANG=ru_RU.UTF-8
+    LANGUAGE=ru_RU.UTF-8
+    LC_COLLATE=C
+
+
+-- xxdb indicator
+
+http://www.unix-lab.org/posts/openbox/
+http://virus.org.ua/unix/mydotfiles/xxkbrc
+https://www.linux.org.ru/forum/general/9947341
+http://archlinuxer.blogspot.com/2010/03/xxkb.html
+
+    ~/.config/openbox/autostart:
+    (sleep 1s && xxkb) &
+
+~/.xxkbrc:
+XXkb.image.path: /usr/share/xxkb/
+XXkb.mainwindow.type:  tray
+XXkb.group.base: 1
+XXkb.group.alt: 2
+XXkb.mainwindow.enable:  yes
+XXkb.mainwindow.image.1: en15.xpm
+XXkb.mainwindow.image.2: ru15.xpm
+XXkb.mainwindow.image.3:
+XXkb.mainwindow.image.4:
+XXkb.mainwindow.appicon:  yes
+XXkb.mainwindow.geometry:  20x20+2+2
+XXkb.mainwindow.in_tray:  GNOME2
+XXkb.button.enable:  no
+XXkb.app_list.wm_class_name.start_alt: skype
+XXkb.controls.add_when_start: yes
+XXkb.controls.add_when_create: yes
+XXkb.controls.add_when_change: no
+XXkb.controls.focusout: no
+XXkb.mainwindow.xpm.1: en15.xpm
+XXkb.mainwindow.xpm.2: ru15.xpm
+XXkb.mainwindow.label.enable: no
 

@@ -1,0 +1,2 @@
+http://www.jorisvandijk.com/2014/01/18/installing-arch-on-a-uefi-gpt-system/
+

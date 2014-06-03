@@ -1,3 +1,37 @@
+https://wiki.manjaro.org/index.php?title=Openbox:_Switch_languages_using_the_keyboard_and_xxkb
+sudo vim /etc/locale.gen
+  en_US.UTF-8... done
+  ru_RU.UTF-8... done
+sudo locale-gen
+sudo vim /etc/vconsole.conf
+  KEYMAP=us,ru
+
+http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
+packages:
+    firefox-i18n-ru
+    libreoffice-ru
+
+https://wiki.archlinux.org/index.php/locale
+/etc/locale.conf
+~/.config/locale.conf
+    LANG=ru_RU.UTF-8
+    LANGUAGE=ru_RU.UTF-8
+    LC_COLLATE=C
+
+
+other:
+~/.xprofile
+    export LANG="ja_JP.UTF-8"
+https://wiki.gentoo.org/wiki/Localization/HOWTO
+
+    localectl list-locales
+    localectl set-locale LANG=ru_RU.UTF-8
+    localectl list-keymaps
+    localectl set-keymap ru
+    localectl list-x11-keymap-layouts
+    localectl set-x11-keymap ru
+
+
 KB map:
 
 setxkbmap -query
@@ -10,6 +44,45 @@ options: grp:ctrl_shift_toggle,terminate:ctrl_alt_backspace
 
 
 https://forum.manjaro.org/index.php?topic=6861.0
+http://archlinux.org.ru/forum/topic/1356/
+https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
 
-setxkbmap "us,ru" -option "grp:caps_toggle"
+Keyboard:
+xxkb
+    ~/.xxkbrc
 
+    ~/.config/openbox/autostart:
+    (sleep 1s && xxkb) &
+
+
+Indicator:
+http://www.unix-lab.org/posts/openbox/
+http://virus.org.ua/unix/mydotfiles/xxkbrc
+https://www.linux.org.ru/forum/general/9947341
+http://archlinuxer.blogspot.com/2010/03/xxkb.html
+
+    ~/.config/openbox/autostart:
+    (sleep 1s && xxkb) &
+
+~/.xxkbrc:
+XXkb.image.path: /usr/share/xxkb/
+XXkb.mainwindow.type:  tray
+XXkb.group.base: 1
+XXkb.group.alt: 2
+XXkb.mainwindow.enable:  yes
+XXkb.mainwindow.image.1: en15.xpm
+XXkb.mainwindow.image.2: ru15.xpm
+XXkb.mainwindow.image.3:
+XXkb.mainwindow.image.4:
+XXkb.mainwindow.appicon:  yes
+XXkb.mainwindow.geometry:  20x20+2+2
+XXkb.mainwindow.in_tray:  GNOME2
+XXkb.button.enable:  no
+XXkb.app_list.wm_class_name.start_alt: skype
+XXkb.controls.add_when_start: yes
+XXkb.controls.add_when_create: yes
+XXkb.controls.add_when_change: no
+XXkb.controls.focusout: no
+XXkb.mainwindow.xpm.1: en15.xpm
+XXkb.mainwindow.xpm.2: ru15.xpm
+XXkb.mainwindow.label.enable: no

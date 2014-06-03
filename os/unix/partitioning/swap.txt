@@ -1,0 +1,13 @@
+-- swap stuff
+
+https://wiki.archlinux.org/index.php/swap
+
+look the size:
+swapon -s
+free -m
+
+remove:
+swapoff -a
+rm -f /swapfile
+remove swap from /etc/fstab
+

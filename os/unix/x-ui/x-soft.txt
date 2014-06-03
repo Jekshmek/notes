@@ -17,19 +17,6 @@ turbulence
 LXDE stuff:
 
 LXterminal
-~/.config/lxterminal/lxterminal.conf:
-fontname=Liberation Mono 12
-bgcolor=#00002b2b3636
-# 233 from GUI
-bgalpha=63222
-fgcolor=#65657b7b8383
-
-Defaults:
-#0DAF38
-Opacity - 233
-
-
-
 PCManFM (vs Thunar of XFCE)
 Viewnior ??? (why not gpicview)
 nitrogen (walpaper mgr of LXDE)
@@ -46,30 +33,10 @@ Geany
 I-Net browsers:
 firefox
 
-??
-dconf
-dconf-editor
-
-??
-/usr/share/application-registry/gnome-vfs.applications
-
-Keyboard:
-xxkb
-  ~/.xxkbrc
-
-  ~/.config/openbox/autostart:
-  setxkbmap -layout us,ru -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp
-
-Audio:
-pnmixer
-
-Composit-managers
-
 cairo-compmgr (buggy)
 xcompmgr (but compton is better)
 
 compton
-
 
 slim (login manager)
   packages: slim-themes, archlinux-themes

@@ -3,6 +3,7 @@ http://www.objc.io/issue-10/ip-tcp-http.html
 
 Yandex-Savin:
 http://youtu.be/ZNZUeyeS5R0
+http://youtu.be/WJUOnLlLQdM
 
 Courses:
 
@@ -58,6 +59,10 @@ nmap
     by sending TCP packets
 
 tcpdump/tshark
+    tcpdump analyzes headers only
+    tcpdump -n -i lo [port 80]
+        scan the lo i-face
+
 wireshark
 
 
@@ -155,4 +160,7 @@ dhclient -v eth0
 ip addres send for some period of time (but remembers at the cache)
 
 
-
+TCP/IP handshake
+-> SYN <num>
+<- SYN,ACK <num+1>
+-> ACK

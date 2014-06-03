@@ -6,10 +6,20 @@ http://askubuntu.com/questions/233190/what-exactly-does-update-alternatives-do
 
 CentOS:
 http://www.lamolabs.org/blog/5562/5-minute-guide-to-using-the-alternatives-command-on-fedoracentosrhel/
-http://wiki.centos.org/HowTos/JavaDevelopmentKit
 
-Files:
-ls -l /etc/alternatives
+Java stuff:
+http://wiki.centos.org/HowTos/JavaDevelopmentKit
+http://www.unixmen.com/install-oracle-java-jdk-1-8-centos-6-5/
+http://www.unixmen.com/install-apache-ant-maven-tomcat-centos-6-5/
+
+alternatives --install /usr/bin/java java /usr/java/jdk1.8.0_05/jre/bin/java 20000
+alternatives --set java /usr/java/jdk1.8.0_05/jre/bin/java
+
+... and the same for javac,jar,javaws
+
+
+Files (check alternatives):
+ls -lA /etc/alternatives/
 
 Samples gcc:
 http://askubuntu.com/questions/26498/choose-gcc-and-g-version

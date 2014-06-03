@@ -225,3 +225,66 @@ So, if we want to modify our match query to be run against the title and otitle 
 }
 
 
+The query string query
+
+In comparison with the other queries available, the query string query supports full Apache Lucene query syntax,
+so it uses a query parser to construct an actual query using the provided text. A sample query string query can look like this:
+{
+ "query" : {
+  "query_string" : {
+   "query" : "title:crime^10 +title:punishment -otitle:cat +author:(+Fyodor +dostoevsky)",
+   "default_field" : "title"
+  }
+ }
+}
+
+You may wonder what that weird syntax in the query parameter is; we will get to it in the Lucene query syntax part of the query string query description.
+As with most of the queries in ElasticSearch, the query string query provides a few parameters that allow us to control query behavior:
+
+query:
+    This specifies the query text
+default_field:
+    This specifies the default field the query will be executed against.
+    It defaults to the "index.query.default_field property", which is by default set to "_all".
+default_operator:
+    This specifies the default logical operator (or/and) used when no operator is specified.
+    The default value of this parameter is "or".
+analyzer:
+    This specifies the name of the analyzer used to analyze the query provided in the "query" parameter.
+allow_leading_wildcard:
+    This specifies whether a wildcard allowed as the first character of a term;
+    it defaults to true.
+lowercase_expand_terms:
+    This specifies whether terms rewritten by the query are lowercased.
+    It defaults to true.
+enable_position_increments:
+    This specifies whether position increments are turned on in the result query.
+    It defaults to true.
+fuzzy_prefix_length:
+    This is the prefix length for generated fuzzy queries, and it defaults to 0.
+    To learn more about it, please look at the The fuzzy query section.
+fizzy_min_sim:
+    This specifies the minimum similarity for fuzzy queries and defaults to 0.5.
+    To learn more about it, please look at the The fuzzy query section.
+phrase_slop:
+    This specifies the phrase slop and defaults to 0.
+    To learn more about it, please look at the The phrase match query section.
+boost:
+    This is the boost value used and defaults to 1.0.
+analyze_wildcard:
+    This specifies whether the wildcard characters should be analyzed.
+    It defaults to true.
+auto_generate_phrase_queries:
+    This specifies whether phrase queries should be automatically generated.
+    It defaults to false.
+minimum_should_match:
+    This controls how many of the generated Boolean clauses should match to consider a hit for a given document.
+    The value should be provided as a percentage, for example 50%, which would mean that at least 50 percent of the given terms should match.
+lenient:
+    This parameter can take the value of true or false.
+    If it is set to true, format-based failures will be ignored.
+
+Please note that the query string query can be rewritten by ElasticSearch, and because of that, ElasticSearch allows us to pass additional parameters that control the rewrite method.
+However, for more details about that process, see the Query rewrite section later.
+
+

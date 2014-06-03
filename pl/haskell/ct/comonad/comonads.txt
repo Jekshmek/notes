@@ -10,6 +10,8 @@ http://blog.sigfpe.com/2007/07/data-and-codata.html
 http://blog.ezyang.com/2010/07/flipping-arrows-in-coburger-king/
 http://blog.ezyang.com/2012/10/duality-for-haskellers/
 
+https://speakerdeck.com/dmoverton/comonads-in-haskell
+
 Comonadic Trees:
 http://5outh.blogspot.com/2013/01/comonads.html
 http://5outh.blogspot.com/2013/01/introductory-monads.html

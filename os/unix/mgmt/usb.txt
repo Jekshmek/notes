@@ -10,3 +10,4 @@ http://crunchbang.org/forums/viewtopic.php?id=23267
 sudo ls -l /dev/disk/by-id/*usb*
 
 sudo dd if=file.iso of=/dev/sdX bs=4M;sync
+
