@@ -11,7 +11,7 @@ packages:
     firefox-i18n-ru
     libreoffice-ru
 
-https://wiki.archlinux.org/index.php/locale
+https://wiki.archlinux.org/index.php/Locale
 /etc/locale.conf
 ~/.config/locale.conf
     LANG=ru_RU.UTF-8
@@ -22,17 +22,34 @@ https://wiki.archlinux.org/index.php/locale
 other:
 ~/.xprofile
     export LANG="ja_JP.UTF-8"
+
+https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console
 https://wiki.gentoo.org/wiki/Localization/HOWTO
 
     localectl list-locales
     localectl set-locale LANG=ru_RU.UTF-8
-    localectl list-keymaps
-    localectl set-keymap ru
-    localectl list-x11-keymap-layouts
-    localectl set-x11-keymap ru
+        modifies global /etc/locale.conf
 
 
 KB map:
+
+http://www.x.org/releases/current/doc/xorg-docs/input/XKB-Config.html
+https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
+
+convenient util - localectl:
+    localectl list-keymaps
+    localectl set-keymap ru
+    localectl set-keymap ru_win
+    localectl set-keymap ru-cp1281
+        modifies global /etc/vconsole.conf
+
+    localectl list-x11-keymap-models
+    localectl list-x11-keymap-layouts
+    localectl list-x11-keymap-variants <layout>
+    localectl list-x11-keymap-options
+
+    localectl set-x11-keymap ru
+
 
 setxkbmap -query
 
@@ -52,7 +69,7 @@ xxkb
     ~/.xxkbrc
 
     ~/.config/openbox/autostart:
-    (sleep 1s && xxkb) &
+    (sleep 1s && setxkbmap -layout "us,ru(winkeys)" -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp) &
 
 
 Indicator:

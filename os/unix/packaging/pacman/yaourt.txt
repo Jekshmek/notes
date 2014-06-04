@@ -1,3 +1,8 @@
+https://wiki.archlinux.org/index.php/Yaourt
+
+yaourt -Syua
+    upgrade both AUR and pacman-stuff
+
 yaourt -Su
     upgrade all the stuff
 

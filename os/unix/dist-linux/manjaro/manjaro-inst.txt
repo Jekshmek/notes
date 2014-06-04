@@ -1,3 +1,6 @@
+--- Questions
+fakeroot
+
 --- Package conflict issue:
 
 pacman -Syuu
@@ -7,6 +10,19 @@ yy = Download the databases even if the remote repo webserver says the files hav
 u = Update packages to newer versions from the repo, but do not install packages from the repo that are an older version than the currently installed version (i.e. no downgrades)
 uu = Match the versions of packages installed on the system to those present in the remote repo, even if it means downgrading to an apparently earlier package version
 
+
+--- Extra packages:
+
+pacman stuff:
+yaourt
+fakeroot
+binutils
+namcap
+    incl strip binary
+gvim
+
+yaourt stuff:
+adduser
 
 
 --- Keyring issue
@@ -150,4 +166,13 @@ XXkb.controls.focusout: no
 XXkb.mainwindow.xpm.1: en15.xpm
 XXkb.mainwindow.xpm.2: ru15.xpm
 XXkb.mainwindow.label.enable: no
+
+
+-- User mgmt
+
+http://www.unix-lab.org/posts/arch-users/
+https://wiki.manjaro.org/index.php?title=Users_%26_Groups
+
+adduser (need to include she to "users" group only)
+touch $HISTFILE
 

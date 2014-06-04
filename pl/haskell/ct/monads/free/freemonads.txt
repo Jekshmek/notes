@@ -18,7 +18,8 @@ Piponi - Free
 http://www.reddit.com/r/haskell/comments/240j3z/a_neighborhood_of_infinity_the_monad_called_free/
 http://blog.sigfpe.com/2014/04/the-monad-called-free.html
 
-
+StackOverflow - Free
+http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern
 http://stackoverflow.com/questions/14641864/what-monads-can-be-expressed-as-free-over-some-functor
 http://stackoverflow.com/questions/13352205/what-are-free-monads
 
@@ -80,3 +81,12 @@ so
 
 and now we have free monads!
 
+
+Inlined version of Free monad:
+
+
+
+instance Functor f => Monad (Free f) where
+  return         = Return
+  Free a >>= f   = Free (fmap (>>= f) a)
+  Return a >>= f = f a
