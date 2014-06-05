@@ -125,6 +125,7 @@ http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
 packages:
     firefox-i18n-ru
     libreoffice-ru
+    flushplugin
 
 https://wiki.archlinux.org/index.php/locale
 /etc/locale.conf
