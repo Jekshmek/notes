@@ -1,0 +1,3 @@
+https://wiki.archlinux.org/index.php/Permissions
+https://wiki.archlinux.org/index.php/Users_and_groups
+

@@ -288,3 +288,57 @@ Please note that the query string query can be rewritten by ElasticSearch, and b
 However, for more details about that process, see the Query rewrite section later.
 
 
+DisMax:
+
+In order to use the DisMax query, one should add the use_dis_max property set to true:
+
+{
+ "query" : {
+  "query_string" : {
+   "query" : "crime punishment",
+   "fields" : [ "title", "otitle" ],
+   "use_dis_max" : true
+  }
+ }
+}
+
+
+The Field query
+
+Is the simplified version of the query string query:
+
+{
+ "query" : {
+  "field" : {
+   "title" : "+crime nothing -let"
+  }
+ }
+}
+
+{
+ "query" : {
+  "field" : {
+   "title" : {
+    "query" : "+crime nothing -let",
+    "boost" : 20.0
+   }
+  }
+ }
+}
+
+
+The identifiers query
+
+This is a simple query that filters the returned documents to only those with the provided identifiers.
+It works on the internal _uid field, so it doesn't require the _id field to be enabled.
+
+{
+ "query" : {
+  "type" : "books",
+  "ids" : {
+   "values" : [ "10", "11", "12" ]
+  }
+ }
+}
+
+

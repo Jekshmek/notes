@@ -7,17 +7,17 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 83..109..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 84..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and XP from the Trenches  - 84..94
+Kniberg - Scrum and XP from the Trenches  - 85..94
 issue19                                   - 32..48
 
 
 Video:
 Linux in a Real World 11                  -  01:00
 Selivan 3                                 -  12:30
-Savin                                     -  04:00
+Savin                                     -  16:00
 Networks for Programmers                  -  17:00
 
 Audio:
@@ -27,8 +27,8 @@ Alexander 28                              -  23:00
 Tracking:
 ACCU                                      - 121
 TMR                                       - 23
-https://www.fpcomplete.com/recent-content - 19 May
-http://habrahabr.ru/hub/linux/page38/       (12..38 of 40)
+https://www.fpcomplete.com/recent-content - 6 Jun
+http://habrahabr.ru/hub/linux/page20/       (14.. Jun 06)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

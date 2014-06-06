@@ -37,3 +37,12 @@ http://crunchbanglinux.org/wiki/obconf
 
 
 
+Oblogout:
+https://wiki.archlinux.org/index.php/Oblogout
+http://www.linuxandlife.com/2012/05/how-to-change-log-out-icons-in-archbang.html
+
+/etc/oblogout.conf:
+
+[looks]
+...
+buttontheme = oxygen

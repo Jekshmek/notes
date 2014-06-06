@@ -20,10 +20,18 @@ binutils
 namcap
     incl strip binary
 gvim
+evince
+    for pdfs
+epdfview
 
 yaourt stuff:
 adduser
 
+--- Remove packages:
+
+pacman -Rns thunar-archive-plugin
+pacman -Rns thunar-volman
+pacman -Rns thunar
 
 --- Keyring issue
 https://forum.manjaro.org/index.php?topic=12783.msg114907#msg114907
@@ -85,7 +93,7 @@ If you get distorted sound in skype, try adding PULSE_LATENCY_MSEC=60 to your
 env before starting skype. Something like 'export PULSE_LATENCY_MSEC=60' in .bashrc, for example.
 
 
--- LX Terminal
+--- LX Terminal
 
 ~/.config/lxterminal/lxterminal.conf:
 fontname=Liberation Mono 12
@@ -95,7 +103,7 @@ bgalpha=63222
 fgcolor=#65657b7b8383
 
 
--- XXKB
+--- XXKB
 
 https://wiki.manjaro.org/index.php?title=Openbox:_Switch_languages_using_the_keyboard_and_xxkb
 sudo vim /etc/locale.gen
@@ -119,7 +127,7 @@ xxkb
 
     setxkbmap -query
 
--- Locales (RU)
+--- Locales (RU)
 
 http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
 packages:
@@ -135,7 +143,7 @@ https://wiki.archlinux.org/index.php/locale
     LC_COLLATE=C
 
 
--- xxdb indicator
+--- xxdb indicator
 
 http://www.unix-lab.org/posts/openbox/
 http://virus.org.ua/unix/mydotfiles/xxkbrc
@@ -169,7 +177,25 @@ XXkb.mainwindow.xpm.2: ru15.xpm
 XXkb.mainwindow.label.enable: no
 
 
--- User mgmt
+--- Keyboard shortcuts
+
+~/.config/openbox/rc.xml:
+
+replace thunar by pcmanfm
+
+
+--- Oblogout
+
+Oblogout:
+
+/etc/oblogout.conf:
+
+[looks]
+...
+buttontheme = oxygen
+
+
+--- User mgmt
 
 http://www.unix-lab.org/posts/arch-users/
 https://wiki.manjaro.org/index.php?title=Users_%26_Groups
