@@ -341,4 +341,265 @@ It works on the internal _uid field, so it doesn't require the _id field to be e
  }
 }
 
+The prefix query
+
+is similar to the term query in terms of configuration and to the multi term query when looking into its logic.
+The prefix query allows us to match documents that have a value in a certain field that starts with a given prefix.
+
+{
+ "query" : {
+  "prefix" : {
+   "title" : {
+    "value" : "cri",
+    "boost" : 3.0
+   }
+  }
+ }
+}
+
+Note: the prefix query is rewritten by ElasticSearch...
+
+
+The fuzzy like this query
+
+It finds all the documents that are similar to the provided text but works a bit differently from the more like this query because it makes use of
+fuzzy strings and picks the best differencing terms produced.
+For example, if we want to run a fuzzy like this query against the title and otitle fields and find all the documents similar to the crime punishment query,
+we could run the following query:
+
+{
+ "query" : {
+  "fuzzy_like_this" : {
+   "fields" : ["title", "otitle"],
+   "like_text" : "crime punishment"
+  }
+ }
+}
+
+The following query parameters are supported:
+
+fields:
+    This is an array of fields that the query should be run against.
+    It defaults to the _all field.
+like_text:
+    This is a required parameter that holds the text we compare the documents to.
+ignore_tf:
+    This specifies whether term frequencies be ignored;
+    this parameter defaults to false.
+max_query_terms:
+    This specifies the maximum number of query terms that will be included in a generated query.
+    It defaults to 25.
+min_similarity:
+    This specifies the minimum similarity that differencing terms should have.
+    It defaults to 0.5.
+prefix_length:
+    This specifies the length of the common prefix of the differencing terms.
+    It defaults to 0.
+boost:
+    This is the boost value that will be used when boosting queries.
+    It defaults to 1.
+analyzer:
+    This specifies the name of the analyzer that will be used to analyze the text we provided.
+
+
+The fuzzy like this field query
+
+is similar to the fuzzy like this query but works only against a single field, and because of that, it doesn't support the fields property.
+Instead of specifying the fields that should be used for query analysis, we should wrap the query parameters into the field name.
+
+{
+ "query" : {
+  "fuzzy_like_this_field" : {
+   "title" : {
+    "like_text" : "crime and punishment"
+    }
+  }
+ }
+}
+
+The fuzzy query
+
+The third type of fuzzy query matches documents on the basis of the edit distance algorithm that is calculated on the terms we provide against the
+searched documents. This query can be expensive when it comes to CPU resources but can help us when we need fuzzy matching, for example,
+when users make spelling mistakes.
+In our example, let's assume that, instead of crime, our user enters cirme into the search box and we would like to run the simplest form of fuzzy query.
+Such a query could look like this:
+
+{
+ "query" : {
+  "fuzzy" : {
+   "title" : "cirme"
+  }
+ }
+}
+
+And the response for this query would be as follows:
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.625,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 0.625, "_source" : {
+        "title": "Crime and Punishment",
+        "otitle": "????????é??? ? ?????á???",
+        "author": "Fyodor Dostoevsky",
+        "year": 1886,
+        "characters": ["Raskolnikov", "Sofia Semyonovna Marmeladova"],
+        "tags": [],
+        "copies": 0,
+        "available" : true
+      }
+    } ]
+  }
+}
+
+As you can see, even though we made a typo, ElasticSearch managed to find the document we were interested in.
+You can control the fuzzy query behavior by using the following parameters:
+
+
+The fuzzy query
+
+This query can be expensive when it comes to CPU resources but can help us when we need fuzzy matching, for example, when users make spelling mistakes. In our example, let's assume that, instead of crime, our user enters cirme into the search box and we would like to run the simplest form of fuzzy query
+{
+ "query" : {
+  "fuzzy" : {
+  "title" : "cirme"
+  }
+ }
+}
+
+You can control the fuzzy query behavior by using the following parameters:
+value:
+    This specifies the actual query (in case we want to pass more parameters).
+boost:
+    This specifies the boost value for the query. It defaults to 1.0.
+min_similarity:
+    This specifies the minimum similarity for a term to be counted as a match.
+    In the case of string fields, this value should be between 0 and 1, both inclusive.
+    For numeric fields, this value can be greater than one, for example,
+    for a query with value equal to 20 and min_similarity set to 3, we would get values from 17 to 23.
+    For date fields, we can have min_similarity values that include 1d, 2d, and 1m.
+    These values correspond to one day, two days, and one month, and so on.
+prefix_length:
+    This is the length of the common prefix of the differencing terms, which defaults to 0.
+max_expansions:
+    This specifies the number of terms the query will be expanded to. The default value is unbounded.
+
+The parameters should be wrapped in the name of the field we are running the query against. So, if we would like to modify the previous query and add additional parameters,
+the query could look like the following code:
+{
+ "query" : {
+  "fuzzy" : {
+   "title" : {
+    "value" : "cirme",
+    "min_similarity" : 0.2
+   }
+  }
+ }
+}
+
+
+The match all query
+
+{
+ "query" : {
+  "match_all" : {}
+ }
+}
+
+if we want to boost some field (title):
+
+{
+ "query" : {
+  "match_all" : {
+   "norms_field" : "title"
+  }
+ }
+}
+
+
+The wildcard query
+
+Allows us to use the * and ? wildcards in the values we search for. Apart from that, the wildcard query is very similar to the term query in its body.
+
+{
+ "query" : {
+  "wildcard" : {
+   "title" : "cr?me"
+  }
+ }
+}
+
+However, you can also include the boost attribute with your wildcard query, which will affect the importance of each term that matches the given value.
+
+{
+ "query" : {
+  "wildcard" : {
+   "title" :
+   "value" : "cr?me",
+    "boost" : 20.0
+   }
+  }
+ }
+}
+
+Please note that wildcard queries are not very performance oriented and should be avoided if possible; leading wildcards (terms starting with wildcards) should especially be avoided.
+Please note that the wildcard query is rewritten by ElasticSearch, and because of that, ElasticSearch allows us to pass an additional parameter, controlling the rewrite method.
+
+
+The more like this query
+
+Allows us to get documents that are similar to the provided text.
+ElasticSearch support a few parameters to define how more like this queries should work:
+
+fields:
+    This is an array of fields that the query should be run against. It defaults to the _all field.
+like_text:
+    This specifies a required parameter that holds the text to which we compare the documents.
+percent_terms_to_match:
+    This specifies the percentage of terms that must match for a document to be considered similar. It defaults to 0.30, which translates to 30 percent
+min_term_freq:
+    This is the minimum term frequency (for the terms in the documents) below which terms will be ignored. It defaults to 2.
+max_query_terms:
+    This is the maximum number of terms that will be included in a generated query; it defaults to 25.
+stop_words:
+    This specifies an array of words that will be ignored.
+min_doc_freq:
+    This specifies the minimum number of documents in which terms have to be present in order not to be ignored. It defaults to 5.
+max_doc_freq:
+    This specifies the maximum number of documents in which terms may be present in order not to be ignored, but the default is for it to be unbounded.
+min_word_len:
+    This specifies the minimum length of a single word below which it will be ignored. It defaults to 0.
+max_word_len:
+    This specifies the maximum length of a single word above which it will be ignored. It defaults to being unbounded.
+boost_terms:
+    This specifies the boost value that will be used when boosting each term; it defaults to 1.
+boost:
+    This specifies the boost value that will be used when boosting a query. It defaults to 1.
+analyzer:
+    This is the name of the analyzer that will be used to analyze the text we provided.
+    
+
+{
+ "query" : {
+  "more_like_this" : {
+   "fields" : [ "title", "otitle" ],
+   "like_text" : "crime and punishment",
+   "min_term_freq" : 1,
+   "min_doc_freq" : 1
+  }
+ }
+}
+
+
+
 

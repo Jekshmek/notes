@@ -159,7 +159,7 @@
             <outline type="rss" text="What I Learned Today" title="What I Learned Today" xmlUrl="http://feeds2.feedburner.com/wilt-blog" htmlUrl="http://codeaweso.me"/>
             <outline type="rss" text="Java Concurrency (&amp;c)" title="Java Concurrency (&amp;c)" xmlUrl="http://jeremymanson.blogspot.com/feeds/posts/default" htmlUrl="http://jeremymanson.blogspot.com/"/>
             <outline type="rss" text="binkley's BLOG" title="binkley's BLOG" xmlUrl="http://binkley.blogspot.com/feeds/posts/default" htmlUrl="http://binkley.blogspot.com/"/>
-            <outline type="rss" text="Find Time for the Karussell" title="Find Time for the Karussell" xmlUrl="http://karussell.wordpress.com/feed/" htmlUrl="https://karussell.wordpress.com"/>
+            <outline type="rss" text="Find Time for the Karussell" title="Find Time for the Karussell" xmlUrl="http://karussell.wordpress.com/feed/" htmlUrl="http://karussell.wordpress.com"/>
             <outline type="rss" text="Psychosomatic, Lobotomy, Saw" title="Psychosomatic, Lobotomy, Saw" xmlUrl="http://psy-lob-saw.blogspot.com/feeds/posts/default" htmlUrl="http://psy-lob-saw.blogspot.com/"/>
             <outline type="rss" text="SpringSource Team Blog" title="SpringSource Team Blog" xmlUrl="http://feeds.feedburner.com/Interface21TeamBlog" htmlUrl="http://spring.io/blog"/>
             <outline type="rss" text="Javasmith" title="Javasmith" xmlUrl="http://javasmith.blogspot.com/feeds/posts/default" htmlUrl="http://javasmith.blogspot.com/"/>
@@ -228,6 +228,7 @@
         </outline>
         <outline text="UnixShell" title="UnixShell">
             <outline type="rss" text="Всё о Vim" title="Всё о Vim" xmlUrl="http://www.allaboutvim.ru/feeds/posts/default" htmlUrl="http://www.allaboutvim.ru/"/>
+            <outline type="rss" text="Хабрахабр / Linux / Захабренные" title="Хабрахабр / Linux / Захабренные" xmlUrl="http://habrahabr.ru/rss/hub/linux/" htmlUrl="http://habrahabr.ru/hub/linux/posts/"/>
             <outline type="rss" text="Unixmen" title="Unixmen" xmlUrl="http://feeds.feedburner.com/unixmenhowtos" htmlUrl="http://www.unixmen.com"/>
             <outline type="rss" text="Windows Command Line" title="Windows Command Line" xmlUrl="http://feeds.feedburner.com/wincmdline" htmlUrl="http://www.windows-commandline.com"/>
             <outline type="rss" text="Enjoy the simplicity" title="Enjoy the simplicity" xmlUrl="http://www.reddit.com/r/ManjaroLinux/.rss" htmlUrl="http://www.reddit.com/r/ManjaroLinux/"/>

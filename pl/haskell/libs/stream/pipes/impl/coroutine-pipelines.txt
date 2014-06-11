@@ -46,9 +46,17 @@ Alternatively, we can just bounce the computation once, use the pause to perform
 *Main> do { Left continuation <- bounce hello; putStr "Wonderful "; run continuation }
 Hello, Wonderful World!
 
+--- NOTES:
+data Either a b = Left a | Right b
+
+either :: (a -> c) -> (b -> c) -> Either a b -> c
+either f _ (Left  x) = f x
+either _ g (Ritht y) = g y
+
 --- Listing 6:
 
 https://gist.github.com/ehamberg/1472628
+
 
 {-# LANGUAGE FlexibleContexts, Rank2Types, ScopedTypeVariables #-}
 import Control.Monad (liftM)
@@ -58,15 +66,32 @@ newtype Trampoline m r = Trampoline {
     bounce :: m (Either (Trampoline m r ) r )
 }
 
+---
+>:t Trampoline
+Trampoline :: m (Either (Trampoline m r) r)  ->  Trampoline m r
+
+>:t bounce
+bounce :: Trampoline m r  ->  m (Either (Trampoline m r) r)
+---
+
+
 instance Monad m => Monad (Trampoline m) where
   return  = Trampoline . return . Right
   t >>= f = Trampoline (bounce t
                         >>= either
-                          (return . Left . (>>= f))
-                          (bounce . f))
+                          (return . Left . (>>= f))  -- If (bounce t) brought  m (Left  (...))
+                          (bounce . f))              -- If (bounce t) brought  m (Right (...))
+
+--- at the RHC of >>= and return we use >>= and return of the m monad (Monad m)!!!
+
 
 instance MonadTrans Trampoline where
   lift = Trampoline . liftM Right
+
+-- Promote a function to a monad.
+liftM   :: (Monad m) => (a1 -> r) -> m a1 -> m r
+liftM f m1  = do { x1 <- m1; return (f x1) }
+---
 
 pause :: Monad m => Trampoline m ()
 pause = Trampoline (return $ Left $ return ())

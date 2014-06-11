@@ -164,3 +164,26 @@ TCP/IP handshake
 -> SYN <num>
 <- SYN,ACK <num+1>
 -> ACK
+
+
+DNS
+/etc/nsswitch.conf
+    (man nsswitch.conf)
+...
+hosts:      files dns
+networks:   files
+...
+
+
+/etc/hosts
+/etc/resolv.conf
+
+nslookup <host>
+    look-up for the host
+
+
+FIREWALL:
+
+netfilter - system name
+    Stateful(SPI - stateful packet inspection)
+iptables - config utility

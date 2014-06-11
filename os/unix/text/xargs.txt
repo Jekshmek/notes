@@ -1,0 +1,3 @@
+xargs -t kill
+	print the command line on stderr before executing
+

@@ -3,6 +3,7 @@ kmett-free (http://hackage.haskell.org/package/free, https://github.com/ekmett/f
 http://blog.omega-prime.co.uk/?p=34
 
 http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html
+    http://hackage.haskell.org/package/free-4.9/docs/Control-Monad-Free-TH.html
 http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html
 
 http://debasishg.blogspot.com/2013/01/a-language-and-its-interpretation.html
@@ -21,9 +22,23 @@ http://blog.sigfpe.com/2014/04/the-monad-called-free.html
 StackOverflow - Free
 http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern
 http://stackoverflow.com/questions/14641864/what-monads-can-be-expressed-as-free-over-some-functor
+!!!
 http://stackoverflow.com/questions/13352205/what-are-free-monads
 
+I think a simple concrete example will help. Suppose we have a functor with the obvious fmap:
 
+data F a = One a | Two a a | Two' a a | Three Int a a a
+
+Then Free F a is the type of trees whose leaves have type a and whose nodes are tagged with One, Two, Two' and Three.
+One-nodes have one child, Two- and Two'-nodes have two children and Three-nodes have three and are also tagged with an Int.
+
+Free F is a monad.
+    return maps x to the tree that is just a leaf with value x.
+    t >>= f looks at each of the leaves and replaces them with trees.
+            When the leaf has value y it replaces that leaf with the tree f y.
+
+
+Sample:
 http://stackoverflow.com/questions/10364549/monad-friendly-event-based-io
 
 > data Free f r = Pure r | Free (f (Free f r))

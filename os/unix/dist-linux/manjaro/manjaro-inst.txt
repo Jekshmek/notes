@@ -1,7 +1,9 @@
---- Questions
-fakeroot
+--- Check the release info
 
---- Package conflict issue:
+cat /etc/lsb-release
+
+
+--- In case of package conflict issue:
 
 pacman -Syuu
 
@@ -202,4 +204,66 @@ https://wiki.manjaro.org/index.php?title=Users_%26_Groups
 
 adduser (need to include she to "users" group only)
 touch $HISTFILE
+
+--- Themes and keys
+
+gtk-theme-menda
+
+ls -la /usr/share/themes
+
+~/.config/openbox/rc.xml
+
+<theme>
+    <name>Bear-tangerine</name>
+    ...
+</theme>
+<desktops>
+    <number>1</number>
+    ...
+</desktops>
+
+Win-X - logout screen
+
+--- LXDM login manager
+https://wiki.manjaro.org/index.php?title=Install_Display_Managers
+https://wiki.manjaro.org/index.php?title=LXDM_Configuration
+
+lxdm
+lxdm-manjaro-theme-openbox (instead of lxdm-manjaro-theme)
+    /usr/share/lxdm/themes
+
+sudo systemctl enable lxdm.service -f
+...
+    rm '/etc/systemd/system/display-manager.service'
+    ln -s '/usr/lib/systemd/system/lxdm.service' '/etc/systemd/system/display-manager.service'
+
+
+sudo lxdm-config
+    or
+/etc/lxdm/lxdm.conf
+
+
+gtk_theme=Bear-tangerine
+...
+theme=Industrial
+#Manjaro
+#/usr/share/lxdm/themes/
+
+#session=/usr/bin/openbox-session
+
+
+!!! Openbox theme
+ManjaroFlatDark
+
+pacman -Qo /usr/share/backgrounds/manjaro.jpg
+??? no package
+
+
+--- turbulence
+
+check the package:
+    turbulence-artwork
+
+!!!
+sudo pacman -Ss artwork
 
