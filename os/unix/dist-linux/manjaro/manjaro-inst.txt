@@ -344,3 +344,6 @@ drage the following /usr/share/applications:
     Configure Lxdm
         https://forum.manjaro.org/index.php?topic=1537.0
 
+!!! back-up from time to time:
+~/.config/pcmanfm/default/desktop-items-0.conf
+
