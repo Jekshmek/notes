@@ -16,15 +16,20 @@ uu = Match the versions of packages installed on the system to those present in 
 --- Extra packages:
 
 pacman stuff:
+
+base-devel group
+    binutils
+
 yaourt
 fakeroot
-binutils
 namcap
     incl strip binary
 gvim
 evince
     for pdfs
 epdfview
+
+manjaro-pulse, pavucontrol, pulseaudio, pulseaudio-alsa
 
 (/usr/share/...)
 turbulence-artwork (backgrounds, wallpapers)
@@ -323,7 +328,7 @@ check the package:
 sudo pacman -Ss artwork
 
 
--- pcmanfm and desktop
+--- pcmanfm and desktop
 
 
 http://crunchbang.org/forums/viewtopic.php?id=19901
@@ -346,4 +351,34 @@ drage the following /usr/share/applications:
 
 !!! back-up from time to time:
 ~/.config/pcmanfm/default/desktop-items-0.conf
+
+--- tint2 panel
+
+yaourt -S tint2-svn
+http://www.linuxandlife.com/2011/08/how-to-create-launcher-on-tint2.html
+https://wiki.archlinux.org/index.php/Tint2
+http://bbs.archbang.org/viewtopic.php?id=2859
+https://wiki.archlinux.org/index.php/Tint2#Application_Launchers_in_tint2-svn_.28AUR.29
+
+~/.config/tint2/tint2rc:
+# Panel
+panel_items=LTSC
+
+# Launchers
+launcher_padding = 2 2
+launcher_background_id = 1
+launcher_icon_size = 20
+launcher_item_app = /usr/share/applications/lxterminal.desktop
+launcher_item_app = /usr/share/applications/firefox.desktop
+launcher_item_app = /usr/share/applications/remmina.desktop
+launcher_item_app = /usr/share/applications/skype.desktop
+
+tint2-svn E: Dependency startup-notification detected and not included (libraries ['usr/lib/libstartup-notification-1.so.0'] needed in files ['usr/bin/tint2'])
+
+aur/openbox-menu
+http://fabrice.thiroux.free.fr/openbox-menu_en.html
+http://zenway.ru/forum/viewtopic.php?id=70
+http://crunchbang.org/forums/viewtopic.php?id=14259
+http://crunchbang.org/forums/viewtopic.php?id=5769
+
 
