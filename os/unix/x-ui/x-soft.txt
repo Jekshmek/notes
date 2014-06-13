@@ -22,6 +22,8 @@ Viewnior ??? (why not gpicview)
 nitrogen (walpaper mgr of LXDE)
 lxappearance (customize look and feel)
 lxpanel (top panel)
+lxtask
+lxrandr
 
 Document viewer like PDF
 Evince (of Gnome)

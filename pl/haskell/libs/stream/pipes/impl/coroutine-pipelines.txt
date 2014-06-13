@@ -82,7 +82,8 @@ instance Monad m => Monad (Trampoline m) where
                           (return . Left . (>>= f))  -- If (bounce t) brought  m (Left  (...))
                           (bounce . f))              -- If (bounce t) brought  m (Right (...))
 
---- at the RHC of >>= and return we use >>= and return of the m monad (Monad m)!!!
+--- at the RHC of return we use return of the base (Monad m)
+--- at the RHC of >>=    we use 1-st >>= of the base (Monad m) and the 2-nd >>= of the our Trampoline monad
 
 
 instance MonadTrans Trampoline where

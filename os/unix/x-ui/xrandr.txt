@@ -11,4 +11,5 @@ xrandr --output VBOX0 --mode 1600x1200
 xrandr --output VBOX0 --mode 1024x768
 xrandr --output VBOX0 --mode 800x600
 
+!!! lxrandr
 

@@ -26,6 +26,11 @@ evince
     for pdfs
 epdfview
 
+(/usr/share/...)
+turbulence-artwork (backgrounds, wallpapers)
+unified-manjaro-themes-openbox (themes)
+lxdm-manjaro-theme-openbox (lxdm/themes)
+
 yaourt stuff:
 adduser
 
@@ -74,6 +79,37 @@ sudo mhwd-kernel -i <your-kernel>
     [rmc: for removing current]
 
 
+--- Openbox config
+
+https://forum.manjaro.org/index.php?topic=1803.0
+    yaourt -S volumeicon-pulsefix
+
+global:
+/etc/xdg/openbox/
+    autostart
+
+local:
+~/.config/openbox/autostart:
+
+Fix menu:
+~/.config/obmenu-generator/schema.pl
+(/etc/xdg/obmenu-generator/schema.pl)
+...
+{item => ['pcmanfm', 'PCManFM', 'system-file-manager']},
+...
+
+$ obmenu-generator -R
+
+$ lxappearance
+    or
+
+~/.gtkrc-2.0
+~/.config/gtk-3.0/settings.ini
+...
+gtk-theme-name="Menda"
+...
+
+
 --- Audio issues:
 
 https://forum.manjaro.org/index.php?topic=3681.0
@@ -81,6 +117,9 @@ https://forum.manjaro.org/index.php?topic=3681.0
 sudo pacman -Sy manjaro-printer && sudo systemctl enable cups.service
 sudo pacman -Sy manjaro-pulse
 and that’s it.
+
+https://forum.manjaro.org/index.php?topic=4809.0
+    manjaro-pulse, pavucontrol, pulseaudio, pulseaudio-alsa
 
 
 --- Manjaro Skype
@@ -266,4 +305,30 @@ check the package:
 
 !!!
 sudo pacman -Ss artwork
+
+
+-- pcmanfm and desktop
+
+
+http://crunchbang.org/forums/viewtopic.php?id=19901
+https://manjaro.org/index.php?title=Getting_File_Managers_to_work_properly_in_Window_Managers
+
+
+~/.config/openbox/autostart:
+
+#nitrogen ...
+pcmanfm --desktop
+pcmanfm --set-wallpaper=/home/share/backgrounds/manjaro.jpg
+#pcmanfm --desktop-pref
+
+!!! use Shift+Ctrl+drag to create a link
+drage the following /usr/share/applications:
+    File Manager PCManFM
+    Desktop Preferences
+    Configure Lxdm
+        https://forum.manjaro.org/index.php?topic=1537.0
+
+--- systemd
+
+journalctl
 

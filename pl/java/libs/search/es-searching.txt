@@ -601,5 +601,51 @@ analyzer:
 }
 
 
+The more like this field query
 
+Is similar to the more like this query but works only against a single field, and because of that, it doesn't support the fields property.
+Instead of specifying fields that should be used for query analysis, we should wrap query parameters into the field name.
+{
+ "query" : {
+  "more_like_this_field" : {
+   "title" : {
+    "like_text" : "crime and punishment",
+    "min_term_freq" : 1,
+    "min_doc_freq" : 1
+   }
+  }
+ }
+}
+
+All the other parameters from the more like this query work the same for this type of query
+
+
+The range query
+
+Allows us to find documents within a certain range and works for numerical fields as well as for string-based fields (it just maps to a different Apache Lucene query).
+The range query should be run against a single field, and the query parameters should be wrapped in the field name.
+
+The following parameters are supported:
+from:
+    This is the lower bound of the range and defaults to the first value.
+to:
+    This is the upper bound of the range and defaults to unbounded.
+include_lower:
+    This specifies if the left side of the range must be inclusive or not. It defaults to true.
+include_upper:
+    This specifies whether the right side of the range should be inclusive o not. It defaults to true.
+boost:
+    This specifies the boost that will be given for the query.
+    
+So, for example, if we would like to find all the books that have values ranging from 1700 to 1900 in the year field:
+{
+ "query" : {
+  "range" : {
+   "year" : {
+    "from" : 1700,
+    "to" : 1900
+   }
+  }
+ }
+}
 

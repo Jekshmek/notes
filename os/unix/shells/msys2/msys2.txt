@@ -2,6 +2,8 @@ http://sourceforge.net/projects/msys2/
 http://sourceforge.net/projects/msys2/files/Base/x86_64/
 
 http://msys2.github.io/
+https://github.com/Alexpux/MSYS2-packages
+
 http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 https://github.com/iljau/msys2-installer
 

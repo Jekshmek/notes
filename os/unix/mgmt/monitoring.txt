@@ -7,3 +7,5 @@ atop     - http://www.unixmen.com/linux-basics-monitor-system-resources-processe
 iotop    - monitor io (http://www.tecmint.com/install-iotop-monitor-linux-disk-io-in-rhel-centos-and-fedora/)
 vmstat   - memory mon
 inotify-tools - inotify wrappers
+watch    - run the command every n seconds (-n 1)
+
