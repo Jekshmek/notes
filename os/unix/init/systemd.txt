@@ -1,0 +1,37 @@
+systemd-system.conf
+/etc/systemd/sytem.conf
+
+
+loginctl
+systemd-logind.service
+logind.conf
+
+/etc/systemd/logind.conf:
+...
+HandlePowerKey=poweroff
+
+??? /etc/systemd/system/display-manager.service
+
+
+journalctl
+journald.conf
+
+# exclude S
+export SYSTEMD_LESS=FRXMK
+
+
+systemd-bootchart
+bootchart.conf
+
+
+
+inotify:
+http://www.cyberciti.biz/faq/making-changes-to-proc-filesystem-permanently/
+
+/etc/sysctl.conf
+/etc/sysctl.d/99-sysctl.conf:
+# Increase inotify max watchs per user
+fs.inotify.max_user_watches = 100000
+
+cat /proc/sys/fs/inotify/max_user_watches
+

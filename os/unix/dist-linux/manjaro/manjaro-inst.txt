@@ -121,6 +121,22 @@ and that’s it.
 https://forum.manjaro.org/index.php?topic=4809.0
     manjaro-pulse, pavucontrol, pulseaudio, pulseaudio-alsa
 
+PulseAudio
+https://wiki.archlinux.org/index.php/PulseAudio
+
+/etc/pulse/default.pa
+~/.config/pulse/default.pa
+### Automatically load driver modules for Bluetooth hardware
+#.ifexists module-bluetooth-policy.so
+#load-module module-bluetooth-policy
+#.endif
+
+#.ifexists module-bluetooth-discover.so
+#load-module module-bluetooth-discover
+#.endif
+
+VLC:
+
 
 --- Manjaro Skype
 
@@ -327,8 +343,4 @@ drage the following /usr/share/applications:
     Desktop Preferences
     Configure Lxdm
         https://forum.manjaro.org/index.php?topic=1537.0
-
---- systemd
-
-journalctl
 
