@@ -120,6 +120,9 @@ http://www.haskellforall.com/2013/04/defaults.html
 Test QuickCheck:
 http://www.haskellforall.com/2013/11/test-stream-programming-using-haskells.html
 
+MVC
+http://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html
+http://www.haskellforall.com/2014/06/spreadsheet-like-programming-in-haskell.html
 
 Examples:
 http://www.haskellforall.com/2012/10/parsing-chemical-substructures.html

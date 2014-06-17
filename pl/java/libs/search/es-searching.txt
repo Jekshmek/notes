@@ -649,3 +649,144 @@ So, for example, if we would like to find all the books that have values ranging
  }
 }
 
+
+Query rewrite
+
+In order to control query rewriting, we need to add the rewrite property to our query with one of the following values:
+
+scoring_boolean:
+    This rewrite method translates each generated term into a Boolean should clause.
+    This method may be CPU-intensive (because the score for each term is calculated and kept), and for queries that have many terms,
+    it may exceed the Boolean query limit.
+constant_score_boolean:
+    This is similar to scoring_boolean, but less CPU-intensive because scoring is not computed, and instead,
+    each term receives a score equal to the query boost.
+constant_score_filter:
+    This method rewrites the query using a filter for each generated term and marks all the documents for that filter.
+    Matching documents are given a constant score equal to the query boost.
+top_terms_N:
+    This rewrite method translates each generated term into a Boolean should clause, but keeps only the N number of top scoring terms.
+    Scoring is calculated and maintained for each query.
+top_terms_boost_N:
+    This rewrite method translates each generated term into a Boolean should clause, but keeps only the N number of top scoring terms.
+    Scoring is calculated as the boost given for the query.
+    
+When the rewrite property is not set, it defaults to either constant_score_boolean or constant_score_filter depending on the query.
+
+Our example prefix query with the rewrite property could look like the following code:
+{
+ "query" : {
+  "prefix" : {
+   "title" : {
+    "value" : "cri",
+    "boost" : 3.0,
+    "rewrite" : "top_terms_10"
+   }
+  }
+ }
+}
+
+
+Filtering results:
+
+General advice: If a given part of the query does not affect scoring, it is a good candidate to be a filter.
+(filters can easily be cached for increasing performance).
+
+
+Using filters:
+
+To apply the filter for each document after getting result use:
+
+{
+ "query" : {
+  "field" : { "title" : "Catch-22" }
+ },
+ "filter" : {
+  "term" : { "year" : 1961 }
+ }
+}
+
+To filter documents before the query run (which is, of cause, faster):
+
+{
+ "query": {
+  "filtered" : {
+   "query" : {
+    "field" : { "title" : "Catch-22" }
+   },
+    "filter" : {
+    "term" : { "year" : 1961 }
+   }
+  }
+ }
+}
+
+
+Range filters
+
+{
+ "filter" : {
+  "range" : {       
+   "year" : {
+    "from": 1930,
+    "to": 1990,
+    "include_lower" : true,
+    "include_upper" : false
+   }
+  }
+ }
+}
+
+By default, the left and right boundaries of the field are inclusive.
+If you want to exclude one or both the bounds, you can use the include_lower and/or include_upper parameters set to false.
+
+The other option is to use gt (greater than), lt (lower than), gte (greater than or equal to), and lte (lower than or equal to) in place of the to and from parameters.
+
+{
+ "filter" : {
+  "range" : {       
+   "year" : {
+    "gte": 1930,
+    "lt": 1990
+   }
+  }
+ }
+}
+
+There is also a second variant of this filter, numeric_filter. It is a specialized version designed for filtering ranges where field values are numerical.
+This filter is faster but comes at the cost of the additional memory used by field values.
+
+
+Exists
+
+This filter is very simple. It takes only those documents that have the given field defined:
+
+{
+ "filter" : {
+     "exists" : { "field": "year" }
+ }
+}
+
+
+Missing
+
+The missing filter is the opposite of the exists filter. However, it has a few additional features. Besides selecting the documents where the specified fields are missing,
+we have the possibility of defining what ElasticSearch should treat as empty. This helps in situations where input data contains tokens such as null, EMPTY, and not-defined.
+Let's change the preceding example to find all documents without the year field defined (or the ones that have 0 as the value of the year field.
+The modified filter would look like the following code:
+
+{
+ "filter" : {
+  "missing" : {
+   "field": "year",
+   "null_value": 0,
+   "existence": true
+  }
+ }
+}
+
+In the preceding example, you see two parameters in addition to the previous ones: existence,which tells ElasticSearch that it should check the documents with a value
+existing in the specified field, and the null_value key, which defines the additional value to be treated as empty.
+If you don't define null_value, existence is set by default, so you can omit existence in this case.
+
+

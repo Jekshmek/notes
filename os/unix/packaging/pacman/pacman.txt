@@ -45,7 +45,7 @@ Remove packages:
 pacman -R --help
 
 pacman -Rns <package>
-  remove with dependencies (thunar)
+  remove with config files [and dependencies]
 
 
 Config files:
