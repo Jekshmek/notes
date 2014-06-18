@@ -1,3 +1,14 @@
+https://wiki.archlinux.org/index.php/systemd
+http://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/
+http://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
+
+Units:
+man systemd.unit
+systemctl list-units [--all]
+    status|enable|disable|start|stop|restart|... <unit>
+
+
+Configuration:
 systemd-system.conf
 /etc/systemd/sytem.conf
 
@@ -12,6 +23,9 @@ HandlePowerKey=poweroff
 
 ??? /etc/systemd/system/display-manager.service
 
+
+Journal:
+http://0pointer.de/blog/projects/journalctl.html
 
 journalctl -b
     for user journal
@@ -47,4 +61,12 @@ http://unix.stackexchange.com/questions/68603/why-is-systemd-coredump-storing-th
 https://wiki.archlinux.org/index.php/Systemd#Disabling_application_crash_dumps_journaling
 
 http://www.linuxhowtos.org/Tips%20and%20Tricks/coredump.htm
+
+
+analyze:
+systemd-analyze
+
+
+Power Management:
+https://forum.manjaro.org/index.php?topic=8351.0
 

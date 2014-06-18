@@ -3,6 +3,7 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://eax.me/eaxcast-s02e03/
 :h
   vimproc-functions
 
@@ -16,11 +17,10 @@ issue19                                   - 32..37..47..48
 
 Video:
 Linux in a Real World 11                  -  01:00
-The Haskell Cast #7                       -  52:00
-Meijer                                    -  27:00
-Selivan 6                                 -  01:00
-Savin 1.1                                 -  16:00
-Savin 1.7                                 -1:08:00
+Meijer                                    -  41:00
+Selivan 6                                 -  21:00
+Ashik 1.1                                 -  16:00
+Ashik - Popular Linux                     -  47:00 (Kernel)
 Networks for Programmers                  -  17:00
 
 Audio:
