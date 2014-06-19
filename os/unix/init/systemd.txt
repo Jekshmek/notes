@@ -8,6 +8,10 @@ systemctl list-units [--all]
     status|enable|disable|start|stop|restart|... <unit>
 
 
+Targets:
+systemctl list-units --type=target
+
+
 Configuration:
 systemd-system.conf
 /etc/systemd/sytem.conf
@@ -35,6 +39,8 @@ journald.conf
 
 # exclude S
 export SYSTEMD_LESS=FRXMK
+or
+    journalctl --full
 
 
 systemd-bootchart
