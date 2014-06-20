@@ -3,15 +3,14 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://eax.me/eaxcast-s02e03/
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 90..109..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 95..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 14..78
+Kniberg - Scrum and Kanban                - 16..78
 issue19                                   - 32..37..47..48
 
 
@@ -31,7 +30,7 @@ Tracking:
 ACCU                                      - 121
 TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 9 Jun
-http://habrahabr.ru/hub/linux/page40/       (14.. Jun 10)
+http://habrahabr.ru/hub/linux/page20/       (..228 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

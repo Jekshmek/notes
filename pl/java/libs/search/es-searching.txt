@@ -785,8 +785,253 @@ The modified filter would look like the following code:
  }
 }
 
-In the preceding example, you see two parameters in addition to the previous ones: existence,which tells ElasticSearch that it should check the documents with a value
+In the preceding example, you see two parameters in addition to the previous ones: existence, which tells ElasticSearch that it should check the documents with a value
 existing in the specified field, and the null_value key, which defines the additional value to be treated as empty.
 If you don't define null_value, existence is set by default, so you can omit existence in this case.
 
+
+Script
+
+Sometimes, we want to filter our documents by a computed value. A good example for our case can be filtering out all the books that were published more than a century ago.
+
+{
+ "filter" : {
+  "script" : {
+   "script": "now - doc['year'].value > 100",
+   "params": {
+    "now": 2013
+   }
+  }
+ }
+}
+
+
+Type
+
+A type filter is a simple filter that returns all the documents of a given type. This filter is useful when a query is directed to several indices or an index with a large number of types.
+The following is an example of such filters that would limit the type of the documents to the book type:
+{
+ "filter" : {
+  "type": {
+   "value" : "book"
+  }
+ }
+}
+  
+
+Limit
+
+This filter limits the number of documents returned by a shard for a given query. This should not be confused with the size parameter.
+
+{
+ "filter" : {
+  "limit" : {
+   "value" : 1
+  }
+ }
+}
+
+When using the default settings for a number of shards, the preceding filter will return up to five documents.
+Why? This is connected with a number of shards (the index.number_of_shards setting).
+Each shard is queried separately, and each shard may return at most one document.
+
+
+IDs
+
+The IDs filter helps in cases when we have to filter out several, concrete documents. For example, if we need to exclude a document that has 1 as the identifier,
+the filter would look like this:
+{
+ "filter": {
+  "ids" : {
+   "type": ["book"],
+   "values": [1]
+  }
+ }
+}
+
+Note that the type parameter is not required. It is only useful when we search among several indices to specify a type we are interested in.
+
+
+If this is not enough
+
+We have shown several examples for filters. But this is only the tip of the iceberg. You can wrap any query into a filter. For example, check out the following query:
+{
+ "query"
+ "multi_match" : {
+  "query" : "novel erich",
+  "fields" : [ "tags", "author" ]
+ }
+}
+
+This query can be rewritten as a filter, thus:
+{
+ "filter" : {
+  "query" : {
+   "multi_match" : {
+    "query" : "novel erich",
+    "fields" : [ "tags", "author" ]
+   }
+  }
+ }
+}
+
+Of course, the only difference in the result will be in the scoring. Every document returned by a filter will have a score of 1.0.
+
+Note that ElasticSearch has a few dedicated filters that act this way (for example, the term query and the term filter).
+
+So, you don't always have to use a wrapped query syntax. In fact, you should always use a dedicated version wherever possible.
+
+
+bool, and, or, not filters
+
+Now it's time to combine some filters together. The first option is to use the bool filter, which can group filters on the same basis as described previously for the bool query.
+The second option is to use the and, or, and not filters.
+The first two take an array of filters and return every document that matches all of them, in the case of the and filter (or at least one filter in the case of the or filter).
+In the case of the not filter, returned documents are the ones that were not matched by the enclosed filter. Of course, all these filters may be nested:
+
+{
+ "filter": {
+  "not": {
+   "and": [
+    {
+     "term": {
+      "title": "Catch-22"
+     }    
+    },  
+    {
+     "or": [
+      {
+       "range": {
+        "year": {
+         "from": 1930,
+         "to": 1990
+        }       
+       }      
+      },    
+      {
+       "term": {
+        "available": true
+       }      
+      }     
+     ]    
+    }   
+   ]  
+  }
+ }
+}
+
+Named filters
+
+Looking at how complicated setting filters may be, sometimes it would be useful to know which filters were used to determine that a document
+should be returned by a query. Fortunately, it is possible to give every filter a name. This name will be returned with any document matched during the query.
+Let's check how that works. The following query will return every book that is available and tagged as novel or every book from the nineteenth century:
+{
+ "query": {
+  "filtered" : {
+   "query": { "matchAll" : {} },
+   "filter" : {
+    "or" : [
+     { "and" : [
+      { "term": { "available" : true } },
+      { "term": { "tags" : "novel" } } ]
+     },  
+     { "range" : { "year" : { "from": 1800, "to" : 1899 } } }
+    ]   
+   }  
+  }
+ }
+}
+
+We are using the "filtered" version of the query because this is the only version where ElasticSearch can add information about filters that were used.
+Let's rewrite this query and name each filter:
+{
+ "query": {
+  "filtered" : {
+   "query": { "matchAll" : {} },
+   "filter" : {
+    "or" : {
+     "filters" : [
+     {
+      "and" : {
+       "filters" : [
+       {
+        "term": {
+         "available" : true,  
+         "_name" : "avail"
+        }       
+       },     
+       {
+        "term": {
+         "tags" : "novel",
+         "_name" : "tag"
+        }       
+       }      
+      ],    
+      "_name" : "and"
+      }     
+     },   
+     {
+       "range" : {
+        "year" : {
+         "from": 1800,
+         "to" : 1899
+        },      
+        "_name" : "year"
+      }     
+     }    
+    ],  
+    "_name" : "or"
+    }   
+   }  
+  }
+ }
+}
+
+It's much longer, isn't it? We've added the _name element to every filter. In the case of the and and or filters, we needed to change the syntax;
+we wrapped the enclosed filters by an additional object to make the JSON format correct.
+After sending a query to ElasticSearch, we should get a response similar to the following one:
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 2,
+    "successful" : 2,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 2,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "1",
+      "_score" : 1.0, "_source" : { "title": "All Quiet on the Western Front","otitle": "Im Westen nichts Neues","author": "Erich Maria Remarque","year": 1929,"characters": ["Paul Bäumer", "Albert Kropp", "Haie Westhus", "Fredrich Müller", "Stanislaus Katczinsky", "Tjaden"],"tags": ["novel"],"copies": 1, "available": true},
+      "matched_filters" : [ "or", "tag", "avail", "and" ]
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 1.0, "_source" : { "title": "Crime and Punishment","otitle": "????????é??? ? ?????á???","author": "Fyodor Dostoevsky","year": 1886,"characters": ["Raskolnikov", "Sofia Semyonovna Marmeladova"],"tags": [],"copies": 0, "available" : true},
+      "matched_filters" : [ "or", "year", "avail" ]
+    } ]
+  }
+}
+
+You can see that every document in addition to standard information also contains a an array with filter names that were matched for that document.
+
+Caching filters
+
+The last thing about filters that we want to mention in this chapter is caching. Caching increases speed for the queries that use filters,
+but at the cost of memory and query time during the first execution of such a filter. Because of this, the best candidates for caching are filters
+that can be reused, for example, the ones that we will use frequently (which also includes the parameter values).
+
+Caching can be turned on for the and, bool, and or filters (but it is usually a better idea to cache the enclosed filters instead).
+In this case, the required syntax is the same as described for the named filters.
+
+Some filters don't support the _cache parameter because their results are always cached. This is true for the exists, missing, range, term, and terms filters
+that are cached by default, but this behavior can be modified and caching can be turned off.
+Caching also doesn't make sense for the ids, matchAll, and limit filters.
+
+
+Compound queries
 

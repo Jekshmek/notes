@@ -2,6 +2,10 @@ https://wiki.archlinux.org/index.php/systemd
 http://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/
 http://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
 
+???
+systemd.special
+
+
 Units:
 man systemd.unit
 systemctl list-units [--all]
@@ -74,5 +78,6 @@ systemd-analyze
 
 
 Power Management:
+https://wiki.archlinux.org/index.php/Power_Management
 https://forum.manjaro.org/index.php?topic=8351.0
 

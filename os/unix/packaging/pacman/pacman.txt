@@ -56,6 +56,9 @@ SigLevel = Never
 
 for [almost] all the occurences
 
+# Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
+#IgnorePkg = <p1> <p2> ...
+
 
 pactree <package>
 whoneeds <package>
@@ -67,4 +70,16 @@ pacman-mirrors -g -b testing
 
 Package cache:
 https://wiki.manjaro.org/index.php?title=Maintaining_/var/cache/pacman/pkg_for_System_Safety
+
+/var/cache/pacman/pkg
+
+yaourt -S pkgcacheclean
+sudo pkgcacheclean <N>
+
+
+Downgrading:
+https://forum.manjaro.org/index.php?topic=4566.0
+
+ls -l /var/cache/pacman/pkg/ | grep xf86-video-intel
+sudo pacman -U /var/cache/pacman/pkg/xf86-video-intel-2.99.911-2-x86_64.pkg.tar.xz
 

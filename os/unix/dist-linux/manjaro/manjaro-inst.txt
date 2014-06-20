@@ -44,6 +44,7 @@ adduser
 pacman -Rns thunar-archive-plugin
 pacman -Rns thunar-volman
 pacman -Rns thunar
+pacman -Rns parecellite
 
 --- Keyring issue
 https://forum.manjaro.org/index.php?topic=12783.msg114907#msg114907

@@ -65,7 +65,23 @@ http://archlinux.org.ru/forum/topic/1356/
 https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
 
 Keyboard:
-xxkb
+
+http://tldp.org/HOWTO/Keyboard-and-Console-HOWTO.html
+https://wiki.manjaro.org/index.php?title=Keyboard_Layout
+https://wiki.archlinux.org/index.php/Extra_Keyboard_Keys
+http://wiki.linuxquestions.org/wiki/Configuring_keyboards
+
+xev:
+http://crunchbanglinux.org/wiki/xev-determine_custom_keybindings
+http://openbox.org/wiki/Help:Bindings#Keys
+
+xxkb:
+http://www.x.org/wiki/XKB/
+An Unreliable Guide to XKB Configuration
+
+http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html
+http://madduck.net/docs/extending-xkb/
+
     ~/.xxkbrc
 
     ~/.config/openbox/autostart:
