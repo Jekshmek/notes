@@ -19,11 +19,16 @@ pacman stuff:
 
 base-devel group
     binutils
+net-tools (incl netstat)
+strace (for tracing syscalls)
+ltrace (for tracing usercalls)
 
 yaourt
 fakeroot
 namcap
     incl strip binary
+psgrep
+    ps grep
 gvim
 evince
     for pdfs

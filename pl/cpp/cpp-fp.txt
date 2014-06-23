@@ -32,3 +32,8 @@ http://yapb-soc.blogspot.com/2012/12/fun-with-tuples.html
 
 Quick and Easy: Manipulating C++ Containers Functionally:
 http://yapb-soc.blogspot.com/2012/12/quick-and-easy-manipulating-c.html
+
+Streams:
+http://jscheiny.github.io/Streams/
+https://github.com/jscheiny/Streams
+

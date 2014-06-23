@@ -1035,3 +1035,114 @@ Caching also doesn't make sense for the ids, matchAll, and limit filters.
 
 Compound queries
 
+The bool query
+
+A bool query allows us to wrap a virtually unbounded number of queries and connect them with a logical value by using one of the following sections:
+
+should:
+    The query wrapped into this section may or may not have a match
+    (the number of the queries in the should section that need to match is controlled by the minimum_should_match parameter).
+must:
+    The query wrapped into this section must match in order for the document to be returned.
+must_not:
+    The query wrapped into this section must not match in order for the document to be returned.
+    
+Each of these sections can be present multiple times. Also, please remember that the score of the resulting document will be calculated as a sum of all the wrapped queries
+that the document matched. In addition to the preceding sections, we can add the following parameters to the query body:
+
+boost:
+    This specifies the boost used with the query; it defaults to 1.0.
+minimum_should_match:
+    This integer value describes the minimum number of should clauses that have to match in order for the checked document to be counted as a match.
+disable_coord:
+    This parameter defaults to false and allows us to enable or disable the score factor computation that is based on the fraction of all query terms that a document contains.
+    
+Imagine that we would like to find all the documents that have the term crime in the title field.
+In addition, they may or may not have a range of 1900 to 2000 in the year field and must not have the term "nothing" in the otitle field.
+
+{
+ "query" : {
+  "bool" : {
+   "must" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "should" : {
+    "range" : {
+     "year" : {
+      "from" : 1900,
+      "to" : 2000
+     }
+    }
+   },
+   "must_not" : {
+    "term" : {
+     "otitle" : "nothing"
+    }
+   }
+  }
+ }
+}
+
+
+The boosting query
+
+Is designed to wrap around two queries and lower the score of the documents that were returned by one of the queries.
+There are three sections of the boosting query that need to be defined—
+    the positive section, which should hold the query whose document score will be left unchanged,
+    the negative section whose resulting documents will have their score lowered, and
+    the negative_boost section, which holds the boost value that will be used to lower the second section's query score.
+
+The advantage of the boosting query is that the results of both queries will be present in the results although some of them will have their score lowered.
+For example, if we used the bool query with the must_not section, we wouldn't get the results for such a query
+
+Let's see some examples.
+Say that we would like to have the results of a simple term query for the term crime in the title field and that we would like the score of such documents to not be changed.
+But say also that we would like to have the documents that range from 1800 to 1900 in the year field and that we would like the scores of documents returned by such a query
+to have an additional boost of 0.5. Combining these specifications, we arrive at a query that looks like this:
+{
+ "query" : {
+  "boosting" : {
+   "positive" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "negative" : {
+    "range" : {
+     "year" : {
+      "from" : 1800,
+      "to" : 1900
+     }
+    }
+   },
+   "negative_boost" : 0.5
+  }
+ }
+}
+
+
+The constant score query
+
+Is used to wrap another query (or filter) and return a constant score for each document returned by the wrapped query (or filter).
+It allows us to strictly control the score value assigned for a document matched by a query or filter.
+For example, if we want to have a score of 2.0 for all the documents that have the term "crime" in the title field, we can send the following query:
+
+{
+ "query" : {
+  "constant_score" : {
+   "query" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "boost" : 2.0
+  }
+ }
+}
+
+
+The indices query
+
+
