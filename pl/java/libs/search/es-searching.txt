@@ -1145,4 +1145,140 @@ For example, if we want to have a score of 2.0 for all the documents that have t
 
 The indices query
 
+This functionality is useful when executing a query against multiple indices. It allows us to provide an array of indices (the indices property) and two queries—one that will be executed
+if we query the index from the list (the query property) and one that will be executed on all the other indices (the no_match_query property).
+
+For example, let's assume that we have an alias name, books, holding two indices —library and a new one called users— and we want to use that alias but we want to run different queries to those indices.:
+
+{
+ "query" : {
+  "indices" : {
+   "indices" : [ "library" ],
+   "query" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "no_match_query" : {
+    "term" : {
+     "user" : "crime"
+    }
+   }
+  }
+ }
+}
+
+In the preceding query, the query described in the query property would be run against the library index, and no_match_query would be run against all the other indices present in the cluster. 
+
+
+The custom filters score query
+
+Allows us to wrap a query and filters. It works in such a way that if a document from the wrapped query matches a filter, we can influence the score of such a document with either a boost or a defined script.
+For example, if we run the match all query and want to use a boost value of 10 for the documents that have crime in the title field, and in addition to that,
+want to set the score of the documents that have values between 1900 and 1950 in the year field:
+
+{
+ "query" : {
+  "custom_filters_score" : {
+   "query" : {
+    "match_all" : {}
+   },
+   "filters" : [
+    {
+     "filter" : {
+      "term" : {
+       "title" : "crime"
+      }
+     },
+     "boost" : 10.0
+    },
+    {
+    "filter" : {
+      "range" : {
+       "year" : {
+        "from" : 1900,
+        "to" : 1950
+       }
+      }
+     },
+     "script" : "_source.year"
+    }
+   ],
+   "score_mode" : "first"
+  }
+ }
+}
+
+Let's stop for a bit and discuss the query structure. At the main level of the custom_filters_score query, we have three sections,
+    the query section, which holds the actual query we run,
+    the filters section, which is an array of ordered filters that will be used to match the documents from the query and modify their score, and
+    the score_mode section, which we will discuss.
+    
+The filters array is built on one or more filter objects and the boost value or a script used to modify the score of the document that matches the filter.
+In our case, we used the script (the script parameter) to calculate the score for the range filter—the document will have a score equal to the value of its year field.
+
+The score_mode section allows us to control how the defined filters affect the score of the matched documents. By default, it is set to first,
+which means that only the first matching filter will modify the score. The other values are aggregation-based and are as follows:
+
+min:
+    The score of the document will be influenced by the minimum scoring filter
+max:
+    The score of the document will be influenced by the maximum scoring filter
+total:
+    The score of the document will be influenced by the sum of the scores of the matching filters
+avg:
+    The score of the document will be influenced by the average of the score of the matching filters
+multiply:
+    The score of the document will be influenced by the multiplication of the scores of the matching filters
+    
+There is also another parameter in addition to the one mentioned, that is, the max_boost parameter, which allows one to set the maximum boost value a document can have.
+
+
+The custom boost factor query
+
+Allows us to wrap another query into it and multiply the score of the documents returned by that query by a provided factor. The difference between this and the boost given to queries is that the boost given to a custom boost factor query is not normalized, which can be desired sometimes. So, if we would like to multiply the boost of a simple term query by 10, we could run a query like this one:{
+ "query" : {
+  "custom_boost_factor" : {
+   "query" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "boost_factor" : 10.0
+  }
+ }
+}
+
+As you can see, in the query body, we have new sections—the custom_boost_factor section (which has the query property nested and holds the actual query) and the boost_factor section,
+which holds the boost multiplier)
+
+
+The custom score query
+
+Can be used to customize scoring for another query with the use of script. For example, if we want to add the year field to the score calculated by our simple term query
+and multiply it by the value 2 (of course, it doesn't make much sense right?):
+
+{
+ "query" : {
+  "custom_score" : {
+   "query" : {
+    "term" : {
+     "title" : "crime"
+    }
+   },
+   "params" : {
+    "multiply" : 2
+   },
+   "script" : "_score * _source.year * multiply"
+  }
+ }
+}
+
+We wrapped our term query with a custom_score query. In addition to that, we provided two additional sections—the params section, which holds additional parameters
+used in the score calculation script, and the script section, which holds the actual score calculation script.
+The value calculated by the script (as the result of multiplication of the score, the year field, and the multiply parameter) will be assigned as the score of all the documents
+that match the query. As you may have noticed, because we don't store the year field, we get it from _source
+
+
+Sorting data
 

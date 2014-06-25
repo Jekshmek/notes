@@ -19,6 +19,7 @@ pacman stuff:
 
 base-devel group
     binutils
+psmisc (incl killall)
 net-tools (incl netstat)
 strace (for tracing syscalls)
 ltrace (for tracing usercalls)
