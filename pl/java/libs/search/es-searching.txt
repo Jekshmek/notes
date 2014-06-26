@@ -1282,3 +1282,77 @@ that match the query. As you may have noticed, because we don't store the year f
 
 Sorting data
 
+
+Default sorting
+
+Let's look at the following query, which returns all the books with at least one of the specified words:
+{
+ "query" : {
+    "terms" : {
+       "title" : [ "crime", "front", "punishment" ],
+       "minimum_match" : 1
+    }
+  }
+}
+
+Under the hood, ElasticSearch sees this as follows:
+{
+ "query" : {
+    "terms" : {
+       "title" : [ "crime", "front", "punishment" ],
+       "minimum_match" : 1
+       }
+  },
+  "sort" : [
+    { "_score" : "desc" }
+  ]
+}
+
+This is the default sorting used by ElasticSearch. This means that the return matched documents will show the ones with the highest score first.
+The simplest modification is reversing the ordering using this:
+
+"sort" : [
+    { "_score" : "asc" }
+]
+  
+
+Selecting fields used for sorting
+
+Default sorting is boring, isn't it? Let's change this into something a bit more engaging:
+
+"sort" : [
+    { "title" : "asc" }
+]
+
+Unfortunately, this doesn't work. In the server response, you can find JSON with the reason key, where ElasticSearch says:
+
+[Can't sort on string types with more than one value per doc, or more than one token per field]
+
+Of course, ElasticSearch allows adding documents with multiple values in one field, but such fields cannot be used for sorting because the search doesn't know which values should be used
+to determine the order. Another reason may be that the field is analyzed and divided into multiple tokens. This is what happened in the preceding case.
+To avoid this, we can add an additional, non-analyzed version of the title field. To do that, let's change our title field to multi_field, which we already discussed.
+
+For example, the title field definition could look like this:
+
+"title" :
+{
+  "type": "multi_field",
+  "fields": {
+    "title": { "type" : "string" },
+    "sort": { "type" : "string", "index": "not_analyzed" }
+  }
+}
+
+After changing the title field in the mappings that we've shown in the beginning of the chapter, we can try sorting on the "title.sort" field and see if it will work.
+
+To do that, we will need to send the following query:
+
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : [
+    {"title.sort" : "asc" }
+  ]
+}
+

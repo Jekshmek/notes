@@ -1,4 +1,7 @@
-Profiling
+Profiling:
+http://nikita-volkov.github.io/profiling-cabal-projects/
+
+VisualProf:
 http://hackage.haskell.org/package/visual-prof (https://github.com/djv/VisualProf)
 
 hr - retained profiling

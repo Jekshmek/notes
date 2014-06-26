@@ -1,0 +1,3 @@
+Scala Bay Tech Talk - Designing Abstract with Types by Chris Sachs
+https://www.youtube.com/watch?v=BTUm1Yy23Fg
+
