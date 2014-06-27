@@ -1356,3 +1356,64 @@ To do that, we will need to send the following query:
   ]
 }
 
+Now, it works properly. In the response from ElasticSearch, every document contains information about the value used for sorting, for example:
+
+    "_index" : "library",
+    "_type" : "book",
+    "_id" : "1",
+    "_score" : null,
+    "_source" : { "title": "All Quiet on the Western Front","otitle": "Im Westen nichts Neues","author": "Erich Maria Remarque","year": 1929,"characters": ["Paul Bäumer", "Albert Kropp", "Haie Westhus", "Fredrich Müller", "Stanislaus Katczinsky", "Tjaden"],
+    "tags": ["novel"],
+    "copies": 1,
+    "available": true,
+    "section" : 3},
+    "sort" : [ "All Quiet on the Western Front" ]
+      
+Note that "sort", in request and response, is given as an array. This suggests that we can use several different orderings. It is true;
+ElasticSearch will use the next elements in the list to determine ordering between documents having the same previous field value.
+
+
+Specifying behavior for missing fields
+
+What about ordering? What about when some of the documents that match the query don't have defined the field we want to run the sort on? By default,
+documents without the given field are returned first in case of ascending order and last in case of descending order. But sometimes, this is not exactly what we want to achieve.
+When running sort on a numeric field, this can be changed easily:
+{
+ "query" : {
+    "match_all" :
+ },
+ "sort" : [
+    { "section" : { "order" : "asc", "missing" : "_last" } }
+ ]
+}
+
+Note the extended form of defining the field for sorting; it allows adding other parameters, such as missing. It is worth mentioning that, besides the _last and _first values,
+ElasticSearch allows us to use any number. In such a case, documents without a defined field will be treated as documents with this given value.
+You are probably wondering what we can do in the case of fields that aren't numbers.
+Don't worry, we will try to avoid this problem, although in a less elegant way.
+
+
+Dynamic criteria
+
+We've promised an example of how to force ElasticSearch to put documents without the defined fields at the bottom of the result list. In order to achieve that,
+we will show you how ElasticSearch allows one to calculate the value that should be used for sorting. In our example, we are sorting a field that is an array
+(as we mentioned before, we can't run sort on multiple values), and we assume that we want to run sort by comparing the first element of that array.
+So let's look at the request:
+
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : {
+      "_script" : {
+        "script" : "doc['tags'].values.length > 0 ? doc['tags'].values[0] : '\u19999'",
+        "type" : "string",
+        "order" : "asc"
+      }
+  }
+}
+
+In the preceding example, we've replaced every nonexistent value by the Unicode code of a character that should be low enough in the list. The main idea of this code is that
+we check whether our array contains at least a single element. If it does, the first value from the array is returned. If the array is empty, we return the Unicode character
+that should be placed at the bottom of the results list. Besides the script, this option of sorting requires us to specify the ordering (ascending in our case)
+and type that will be used for comparison (we return string from our script).
