@@ -7,32 +7,31 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 101..109..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 103..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 25..78
+Kniberg - Scrum and Kanban                - 28..78
 issue19                                   - 32..37..47..48
 
 
 Video:
 Linux in a Real World 11                  -  01:00
-Selivan 7                                 -  26:00
+Selivan 8                                 -  01:30
 Ashik 1.2                                 -  00:00
-Sutter - Modern Cpp                       -  54:00
-Meyers - The Most Important Design Guidel -  25:00 
-Such                                      -  14:00
-FRP - RxJava                              -  01_05
+Meyers - The Most Important Design Guidel -  39:00 
+Such                                      -  25:00
+FRP - RxJava                              -  02_01
 Networks for Programmers                  -  17:00
 
 Audio:
-Strelov                                   -  22:00
+Strelov                                   -1:23:00
 Alexander 28                              -  23:00
 
 Tracking:
 ACCU                                      - 121
 TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 9 Jun
-http://habrahabr.ru/hub/linux/page20/       (..228 Jun 19)
+http://habrahabr.ru/hub/linux/page60/       (..228 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

@@ -83,7 +83,9 @@ instance Monad m => Monad (Trampoline m) where
                           (bounce . f))              -- If (bounce t) brought  m (Right (...))
 
 --- at the RHC of return we use return of the base (Monad m)
---- at the RHC of >>=    we use 1-st >>= of the base (Monad m) and the 2-nd >>= of the our Trampoline monad
+--- at the RHC of >>=    we use 
+        1-st >>= of the base (Monad m) 
+        the 2-nd >>= of the our Trampoline monad
 
 
 
@@ -132,8 +134,19 @@ so, this (lifted value) is just a Right-case of Either, lifted into the m-monad 
 pause :: Monad m => Trampoline m ()
 pause = Trampoline (return $ Left $ return ())
 
+??? what are the both return ???
+    the first one is the m-monad [IO] return.
+    the second one is the Trampoline return:
+
+        instance Monad m => Monad (Trampoline m) where
+            return  = Trampoline . return . Right
+
+
+
 run :: Monad m => Trampoline m r -> m r
 run t = bounce t >>= either run return
+
+??? Here both the >>= and return seems to be from the monad-m [IO].
 
 ---
 

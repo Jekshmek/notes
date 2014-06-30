@@ -1417,3 +1417,44 @@ In the preceding example, we've replaced every nonexistent value by the Unicode 
 we check whether our array contains at least a single element. If it does, the first value from the array is returned. If the array is empty, we return the Unicode character
 that should be placed at the bottom of the results list. Besides the script, this option of sorting requires us to specify the ordering (ascending in our case)
 and type that will be used for comparison (we return string from our script).
+
+
+Collation and national characters
+
+If you want to use languages other than English, you can face the problem of incorrect order of characters. It happens because many languages have a different alphabetical order defined.
+ElasticSearch supports many languages, but proper collation requires an additional plugin. It's easy to install and configure, but we will discuss it in the ElasticSearch plugins section
+about "Administrating Your Cluster".
+
+
+Using scripts
+
+ElasticSearch has a few functionalities where scripts can be used. You've already seen examples such as updating documents, filtering, and searching. Regardless of the fact that
+this seems to be advanced, we will take a look at the possibilities given by ElasticSearch. Looking into any request that use scripts, we can spot several fields:
+script:
+    This field contains the script code.
+lang:
+    This field informs the engine which language is used. If it is omitted, ElasticSearch assumes mvel.
+params:
+    This is an object containing parameters. Every defined parameter is available for script by its name. By using parameters, we can write cleaner code.
+    Due to caching, code with parameters performs better than code with embedded constant values.
+
+
+Available objects
+
+During the execution of the script, ElasticSearch exposes several objects. The ones available for operations connected with searching are as follows:
+doc (also available as _doc):
+    This is an instance of the org.elasticsearch.search.lookup.DocLookup object. It gives us access to the current document found with calculated score and field values.
+_source:
+    This is an instance of org.elasticsearch.search.lookup.SourceLookup. This provides access to the source of the current document and values defined in this source.
+_fields:
+    This is an instance of org.elasticsearch.search.lookup.FieldsLookup. Again, it is used for access to document values.In an update operation,
+    ElasticSearch exposes only the ctx object with the _source property, which provides access to the current document.
+    
+As we have previously seen, several methods are mentioned in the context of document fields and their values. Let's show several examples of ways of getting the value for the title field 
+(in the brackets you can see what ElasticSearch would return for one of our sample documents from the library index):
+
+_doc.title.value (crime)
+_source.title (Crime and Punishment)
+_fields.title.value (null)
+
+
