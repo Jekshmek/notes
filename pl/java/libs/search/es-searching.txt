@@ -1457,4 +1457,106 @@ _doc.title.value (crime)
 _source.title (Crime and Punishment)
 _fields.title.value (null)
 
+A bit confusing, isn't it? Let's stop for a moment and recall the previous information about fields. During indexing, a field value is sent to ElasticSearch as a part of the _source document.
+The search engine can store this information as a whole in the index (this is the default behavior but can be turned off). In addition, this source is parsed and every field may be stored
+in an index if it is marked as stored (meaning that the store property is set to true, that is, by default not marked). Finally, the field value may be configured as indexed.
+This means that the field value is analyzed, cut into tokens, and placed in the index again. To sum up, one field may be stored in an index as:
+
+A part of _source
+A stored, unparsed value
+An indexed value, parsed into tokens
+
+In scripts, except the script for updating, we have access to all these representations. You may wonder which version we should use. Well, if we want access to the processed form,
+the answer would be as simple as _doc. What about _source and _fields? In most cases, _source is a good choice. It is usually fast and needs fewer disk operations than reading
+the original field values from the index.
+
+
+MVEL
+
+ElasticSearch can use several languages for scripting when declared; otherwise, it assumes that MVEL is used. MVEL is fast, easy to use and embed, and simple, but it is a powerful
+expression language used in open source projects. It allows us to use Java objects, automatically maps properties to a getter/setter call, converts simple types,
+and maps collections and maps to arrays and associative arrays.
+
+For more information, refer to the following link: http://mvel.codehaus.org/Language+Guide+for+2.0
+
+
+Other languages
+
+Using MVEL for scripting is a simple and sufficient solution, but if you would like to use something different, you can choose between JavaScript, Python, and Groovy.
+Before using other languages, we must install an appropriate plugin. For now, we'll just run the following command from the ElasticSearch directory:
+
+bin/plugin -install elasticsearch/elasticsearch-lang-javascript/1.1.0
+
+The only change we should make in the request is to add the additional information about which language we are using for scripting, and of course, to modify the script itself
+to be correct in the new language. Look at the following example:
+
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : {
+      "_script" : {
+        "script" : "doc.tags.values.length > 0 ?
+        doc.tags.values[0] :'\u19999';",
+        "lang" : "javascript",
+        "type" : "string",
+        "order" : "asc"
+      }
+  }
+}
+
+As you can see, we used JavaScript for scripting instead of the default MVEL.
+
+
+Script library
+
+Usually, scripts are small, and it is quite convenient to put them in the request. But sometimes applications grow, and you want to give the developers something that they can reuse
+in their modules. If the scripts are large and complicated, it is generally better to place them in files and only refer to them in API requests.
+The first thing to do is to place our script in the proper place with a proper name. Our tiny script should be placed in the ElasticSearch directory config/scripts.
+Let's name our example file [text_sort.js], where the extension of the file should indicate the language used for scripting. The content of this example file is very simple:
+
+doc.tags.values.length > 0 ? doc.tags.values[0] :'\u19999';
+
+And the query using the preceding script can be a little easier:
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : {
+   "_script" : {
+     "script" : "text_sort",
+     "type" : "string",
+     "order" : "asc"
+   }
+  }
+}
+
+We can use text_sort as a method name. In addition, we can omit the script language; ElasticSearch will figure it out from the file extension.
+
+
+Native code
+
+For occasions when scripts are too slow or when you don't like scripting languages, ElasticSearch allows you to write Java classes and use them instead of scripts.
+To create a new native script, we should implement at least two classes. The first one is a factory for our script. Let's focus on it for now and see some sample code:
+
+package pl.solr.elasticsearch.examples.scripts;
+
+import java.util.Map;
+
+import org.elasticsearch.common.Nullable;
+import org.elasticsearch.script.ExecutableScript;
+import org.elasticsearch.script.NativeScriptFactory;
+
+public class HashCodeSortNativeScriptFactory implements NativeScriptFactory {
+
+  @Override
+  public ExecutableScript newScript(@Nullable Map<String, Object> params) {
+    return new HashCodeSortScript(params);
+  }
+
+}
+
+This class should implement org.elasticsearch.script.NativeScriptFactory. The interface forces us to implement the newScript() method.
+It takes parameters defined in the API call and returns an instance of our script.
+
 
