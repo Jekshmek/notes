@@ -10,7 +10,7 @@ Books:
 Kuc - ElasticSearch Server                - 105..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 30..78
+Kniberg - Scrum and Kanban                - 32..78
 issue19                                   - 32..37..47..48
 
 

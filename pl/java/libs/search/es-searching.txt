@@ -1560,3 +1560,63 @@ This class should implement org.elasticsearch.script.NativeScriptFactory. The in
 It takes parameters defined in the API call and returns an instance of our script.
 
 
+MVEL
+
+ElasticSearch can use several languages for scripting when declared; otherwise, it assumes that MVEL is used. 
+
+http://mvel.codehaus.org/Language+Guide+for+2.0
+
+Other languages
+
+Using MVEL for scripting is a simple and sufficient solution, but if you would like to use something different, you can choose between JavaScript, Python, and Groovy.
+Before using other languages, we must install an appropriate plugin. For now, we'll just run the following command from the ElasticSearch directory:
+
+bin/plugin -install elasticsearch/elasticsearch-lang-javascript/1.1.0
+
+The only change we should make in the request is to add the additional information about which language we are using for scripting, and of course,
+to modify the script itself to be correct in the new language. Look at the following example:
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : {
+      "_script" : {
+        "script" : "doc.tags.values.length > 0 ? doc.tags.values[0] :'\u19999';",
+        "lang" : "javascript",
+        "type" : "string",
+        "order" : "asc"
+      }
+  }
+}
+
+As you can see, we used JavaScript for scripting instead of the default MVEL.
+
+
+Script library
+
+Usually, scripts are small, and it is quite convenient to put them in the request. But sometimes applications grow, and you want to give the developers something that
+they can reuse in their modules. If the scripts are large and complicated, it is generally better to place them in files and only refer to them in API requests.
+The first thing to do is to place our script in the proper place with a proper name. Our tiny script should be placed in the ElasticSearch directory config/scripts.
+
+Let's name our example file text_sort.js, where the extension of the file should indicate the language used for scripting. The content of this example file is very simple:
+
+doc.tags.values.length > 0 ? doc.tags.values[0] :'\u19999';
+
+And the query using the preceding script can be a little easier:
+{
+ "query" : {
+    "match_all" : { }
+ },
+ "sort" : {
+  "_script" : {
+        "script" : "text_sort",
+        "type" : "string",
+        "order" : "asc"
+  }
+ }
+}
+
+We can use text_sort as a method name. In addition, we can omit the script language; ElasticSearch will figure it out from the file extension.
+
+
+Native code

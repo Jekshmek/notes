@@ -12,3 +12,6 @@ https://github.com/edsko/ghc-events-analyze
 http://www.well-typed.com/blog/86
 https://github.com/edsko/ghc-events-analyze/blob/master/doc/blogpost/introducing.md
 http://www.reddit.com/r/haskell/comments/1xqkom/performance_profiling_with_ghceventanalyze/
+
+Cabal+Profiling:
+http://dmzlj.livejournal.com/170034.html
