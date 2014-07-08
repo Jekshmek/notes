@@ -1620,3 +1620,62 @@ We can use text_sort as a method name. In addition, we can omit the script langu
 
 
 Native code
+
+For occasions when scripts are too slow or when you don't like scripting languages, ElasticSearch allows you to write Java classes and use them instead of scripts.
+To create a new native script, we should implement at least two classes. The first one is a factory for our script.
+
+package pl.solr.elasticsearch.examples.scripts;
+
+import java.util.Map;
+
+import org.elasticsearch.common.Nullable;
+import org.elasticsearch.script.ExecutableScript;
+import org.elasticsearch.script.NativeScriptFactory;
+
+public class HashCodeSortNativeScriptFactory implements NativeScriptFactory {
+
+  @Override
+  public ExecutableScript newScript(@Nullable Map<String, Object> params) {
+    return new HashCodeSortScript(params);
+  }
+
+}
+
+This class should implement org.elasticsearch.script.NativeScriptFactory. The interface forces us to implement the newScript() method.
+It takes parameters defined in the API call and returns an instance of our script.
+
+Now, let's see the main class, our script. It will be used for sorting. Documents will be ordered by the hashCode() value of the chosen field.
+Documents without a field defined will be the first. We know the logic doesn't have too much sense, but it is good for presentation.
+
+package pl.solr.elasticsearch.examples.scripts;
+
+import java.util.Map;
+
+import org.elasticsearch.script.AbstractSearchScript;
+
+public class HashCodeSortScript extends AbstractSearchScript {
+  private String field = "name";
+
+  public HashCodeSortScript(Map<String, Object> params) {
+    if (params != null && params.containsKey("field")) {
+      this.field = params.get("field").toString();
+    }
+  }
+
+  @Override
+  public Object run() {
+    Object value = source().get(field);
+    if (value != null) {
+      return value.hashCode();
+    }
+    return 0;
+  }
+}
+
+First of all the class inherits from org.elasticsearch.script.AbstractSearchScript and implements the run() method. This is the place where we get appropriate values
+from the current document, process them according to our strange logic, and return the result. You may notice the source() call. Yes, it is exactly the same _source parameter
+that we meet in the non-native scripts, and yes, there are also doc() and fields() available.
+Look at how we've used the parameters. We assume that a user can provide the field parameter, telling us which document field will be used for manipulation.
+We also provide a default value for this parameter.
+
+

@@ -7,23 +7,22 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 105..109..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 106..109..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 32..78
+Kniberg - Scrum and Kanban                - 34..78
 issue19                                   - 32..37..47..48
 
 
 Video:
 Linux in a Real World 11                  -  01:00
-Selivan 9                                 -  00:30
-Ashik 1.3                                 -  00:00
-Such                                      -  49:00
-FRP - RxJava                              -  02_01
+Selivan 10                                -  02:00
+Ashik 1.3                                 -  47:00
+FRP - RxJava                              -  02_05
 Networks for Programmers                  -  17:00
 
 Audio:
-Strelov                                   -1:23:00
+Strelov                                   -  04:00
 Alexander 28                              -  23:00
 
 Tracking:
