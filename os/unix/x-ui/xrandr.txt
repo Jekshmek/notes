@@ -1,6 +1,9 @@
 http://askubuntu.com/questions/452108/cannot-change-screen-size-from-640x480-after-14-04-installation-on-virtualbox-os
 http://askubuntu.com/questions/379123/can-i-zoom-out-windows-or-scale-the-whole-desktop
 
+xrandr and udev
+http://habrahabr.ru/post/229167/
+
 xrandr --current
 
 Screen 0: minimum 320 x 200, current 1024 x 600, maximum 32767 x 32767

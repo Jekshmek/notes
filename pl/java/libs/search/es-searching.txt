@@ -1678,4 +1678,36 @@ that we meet in the non-native scripts, and yes, there are also doc() and fields
 Look at how we've used the parameters. We assume that a user can provide the field parameter, telling us which document field will be used for manipulation.
 We also provide a default value for this parameter.
 
+Now it's time to install our native script. After packing the compiled classes as a JAR archive, we should put it in the ElasticSearch lib directory.
+This makes our code visible to the class loader. What we should do after that is to register our script. This can be done by using the settings API call
+or by adding a single line to the elasticsearch.yml configuration file, as shown in the following code:
+
+script.native.native_sort.type: pl.solr.elasticsearch.examples.scripts.HashCodeSortNativeScriptFactory
+
+Note: the native_sort fragment. This is our script name, which will be used during requests and will be passed to the script parameter.
+The value for this property is the full class name of the factory whose server should be used to create the script
+
+The last thing is the need to restart the ElasticSearch instance and send our queries. For the example that uses our previously indexed data,
+we can try running the following query:
+
+{
+ "query" : {
+    "match_all" : { }
+  },
+  "sort" : {
+      "_script" : {
+        "script" : "native_sort",
+        "params" : {
+          "field" : "otitle"
+        },
+        "lang" : "native",
+        "type" : "string",
+        "order" : "asc"
+      }
+  }
+}
+
+Note the params part of the query. In this call, we want to sort on the otitle field. We provide the script name, native_sort, and the script language, native.
+This is required. If everything goes well, we should see our results sorted by our custom sort logic. If we look at the response from ElasticSearch,
+we will see that documents without the otitle field are in the first positions of the results list and their sort value is 0.
 

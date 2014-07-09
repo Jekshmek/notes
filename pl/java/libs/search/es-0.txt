@@ -2,3 +2,4 @@ es-intro
 es-mapping
 es-routing
 es-searching
+es-ext-struct-search
