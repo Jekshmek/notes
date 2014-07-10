@@ -1,3 +1,5 @@
 du
     http://www.unixmen.com/linux-basics-find-size-directory-commands/
-
+ncdu
+    http://www.unixmen.com/ncdu-ncurses-disk-usage-analyzer/
+    http://dev.yorhel.nl/ncdu

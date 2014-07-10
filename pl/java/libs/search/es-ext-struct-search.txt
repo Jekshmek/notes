@@ -1,1 +1,86 @@
 Indexing data that is not flat
+
+Not all data is flat like that which we have been using since the previous chapter. Of course if we are building our system, which ElasticSearch will be a part of,
+we can create a structure that is convenient for ElasticSearch. However, it doesn't need to be flat, it can be more object-oriented.
+Let's see how to create mappings that use fully structured JSON objects
+
+Data
+
+Let's assume we have the following data (we store it in the file called structured_data.json):
+{
+ "book" : {
+  "author" : {
+   "name" : {
+    "firstName" : "Fyodor",
+    "lastName" : "Dostoevsky"
+   }
+  },
+  "isbn" : "123456789",
+  "englishTitle" : "Crime and Punishment",
+  "originalTitle" : "????????é??? ? ?????á???",
+  "year" : 1886,
+  "characters" : [
+   {
+    "name" : "Raskolnikov"
+   }, 
+   {
+    "name" : "Sofia"
+   }
+  ],
+  "copies" : 0
+  }
+}
+
+As you can see, the data is not flat. It contains arrays and nested objects, so we can't use our mappings that we used previously. But we can create mappings that will be able to handle such data
+
+Objects
+
+The previous example data shows a structured JSON file. As you can see, the root object in our file is book. The root object is a special one, which allows us to define additional properties.
+The book root object has some simple properties such as englishTitle, originalTitle, and so on. Those will be indexed as normal fields in the index.
+
+In addition to that it has the characters array type, which we will discuss in the next paragraph. For now, let's focus on author. As you can see, author is an object
+that has another object nested in it, that is, the name object, which has two properties firstName and lastName.
+
+Arrays
+
+We have already used array type data, but we didn't talk about it. By default all fields in Lucene and thus in ElasticSearch are multivalued, which means that they can store multiple values.
+In order to send such fields for indexing to ElasticSearch we use the JSON array type, which is nested within the opening and closing square brackets [].
+As you can see in the previous example, we used the array type for characters property for our book.
+
+Mappings
+
+So, what can we do to index such data as that shown previously? To index arrays we don't need to do anything, we just specify the properties for such fields inside the array name.
+So in our case in order to index the characters data present in the data we would need to add such mappings as these:
+
+"characters" : {
+ "properties" : {
+  "name" : {"type" : "string", "store" : "yes"}
+ }
+}
+
+Nothing strange, we just nest the properties section inside the array's name (which is characters in our case) and we define fields there. As a result of this mapping,
+we would get the characters.name multivalued field in the index.
+
+We perform similar steps for our author object. We call the section by the same name as is present in the data, but in addition to the properties section we also tell ElasticSearch
+that it should expect the object type by adding the type property with the value object. We have the author object, but it also has the name object nested in it, so we do the same;
+we just nest another object inside it. So, our mappings for that would look like the following code:
+
+"author" : {
+ "type" : "object",
+ "properties" : {
+  "name" : {
+   "type" : "object",
+   "properties" : {
+    "firstName" : {"type" : "string", "store" : "yes"},
+    "lastName" : {"type" : "string", "store" : "yes"}
+   }
+  }
+ }
+}
+
+The firstName and lastName fields would appear in the index as author.name.firstName and author.name.lastName. We will check if that is true in just a second.
+
+The rest of the fields are simple core types, so I'll skip discussing them as they were already discussed in the Schema mapping section
+
+Final mappings
+
