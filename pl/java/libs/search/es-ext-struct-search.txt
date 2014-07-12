@@ -84,3 +84,132 @@ The rest of the fields are simple core types, so I'll skip discussing them as th
 
 Final mappings
 
+So our final mappings file that we've called structured_mapping.json looks like the following:
+
+{
+ "book" : {
+  "properties" : {
+   "author" : {
+    "type" : "object",
+    "properties" : {
+     "name" : {
+      "type" : "object",
+      "properties" : {
+       "firstName" : {"type" : "string", "store" : "yes"},
+       "lastName" : {"type" : "string", "store" : "yes"}
+      }
+     }
+    }
+   },
+   "isbn" : {"type" : "string", "store" : "yes"},
+   "englishTitle" : {"type" : "string", "store" : "yes"},
+   "originalTitle" : {"type" : "string", "store" : "yes"},
+   "year" : {"type" : "integer", "store" : "yes"},
+   "characters" : {
+    "properties" : {
+     "name" : {"type" : "string", "store" : "yes"}
+    }
+   },
+   "copies" : {"type" : "integer", "store" : "yes"}
+  }
+ }
+}
+
+To be or not to be dynamic
+
+As we already know, ElasticSearch is schemaless, which means that it can index data without the need of first creating the mappings (although we should do so if we want to control
+the index structure). The dynamic behavior of ElasticSearch is turned on by default, but there may be situations where you may want to turn it off for some parts of your index.
+
+In order to do that, one should add the dynamic property set to false on the same level of nesting as the type property for the object that shouldn't be dynamic. For example,
+if we would like our author and name objects not to be dynamic, we should modify the relevant parts of the mappings file so that it looks like the following code:
+
+   "author" : {
+    "type" : "object",
+    "dynamic" : false,
+    "properties" : {
+     "name" : {
+      "type" : "object",
+      "dynamic" : false,
+      "properties" : {
+       "firstName" : {"type" : "string", "store" : "yes"},
+       "lastName" : {"type" : "string", "store" : "yes"}
+      }
+     }
+    }
+   }
+
+However, please remember that in order to add new fields for such objects, we would have to update the mappings.
+
+Note: You can also turn off the dynamic mapping functionality by adding the
+    index.mapper.dynamic : false
+property to your elasticsearch.yml configuration file
+
+
+Sending the mappings to ElasticSearch
+
+First, let's create the library index with the following command:
+
+curl -XPUT 'localhost:9200/library'
+
+Now, let's send our mappings for the book type:
+
+curl -XPUT 'localhost:9200/library/book/_mapping' -d @structured_mapping.json
+
+Now we can index our example data:
+
+curl -XPOST 'localhost:9200/library/book/1' -d @structured_data.json
+
+If we would like to see how our data was indexed, we can run a query like the following:
+
+curl -XGET 'localhost:9200/library/book/_search?q=*:*&fields=*&pretty=true'
+
+It will return the following data:
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "1",
+      "_score" : 1.0,
+      "fields" : {
+        "copies" : 0,
+        "characters.name" : [ "Raskolnikov", "Sofia" ],
+        "englishTitle" : "Crime and Punishment",
+        "author.name.lastName" : "Dostoevsky",
+        "isbn" : "123456789",
+        "originalTitle" : "????????é??? ? ?????á???",
+        "year" : 1886,
+        "author.name.firstName" : "Fyodor"
+      }
+    } ]
+  }
+}
+
+As you can see, all the fields from arrays and object types are indexed properly.
+Please notice that there is, for example, the author.name.firstName field present, because ElasticSearch did flatten the data.
+
+
+Extending your index structure with additional internal information
+
+All the information provided in the previous chapters gave us a good look at what ElasticSearch is capable of, both in terms of indexing and querying.
+But their coverage was not nearly complete. One thing we would like to discuss in more detail is the functionalities of ElasticSearch that are not used every day,
+but can make our life easier when it comes to data handling.
+
+Note:
+Each of the following field types should be defined on an appropriate type level. So if you recall our sample mappings for our small library from Chapter 2, Searching Your Data,
+we would add any of the following types under the book type mappings.
+
+
+The identifier field
+
+
+
