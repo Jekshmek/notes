@@ -4,6 +4,10 @@ Kmett - Lenses Folds and Traversals
   over, both, first
 https://github.com/ekmett/lens/wiki (check Derivation)
 
+Barnold - Lens Tutorial
+http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html
+http://www.reddit.com/r/haskell/comments/2ap02f/lens_tutorial_introduction_part_1/
+
 http://comonad.com/reader/2012/mirrored-lenses/
 
 http://google-opensource.blogspot.com/2012/10/lenses-folds-and-traversals-haskell.html (https://docs.google.com/file/d/0ByK3AAy5ubqady1YczU2UEYzODQ/edit)

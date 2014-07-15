@@ -211,5 +211,78 @@ we would add any of the following types under the book type mappings.
 
 The identifier field
 
+As you recall, each document indexed in ElasticSearch has its own identifier and type. In ElasticSearch there are two types of internal identifiers
+for the documents.
+
+The first one is the _uid field, which is the unique identifier of the document in the index and is composed of the document's identifier and the document type.
+This basically means that documents of different types that are indexed into the same index can have the same document identifier yet ElasticSearch
+will be able to distinguish them. This field doesn't require any additional settings; it is always indexed, but it's good to know that it exists.
+
+The second field holding an identifier is the _id field. This field stores the actual identifier set during index time. In order to enable the indexing of the
+_id field (and storing it if possible), we need to add the _id field definition just like any other property in our mappings
+(although as said before, please add it in the body of the type definition). So, our sample book type definition will look like the following:
+
+{
+ "book" : {
+  "_id" : {
+   "index": "not_analyzed", 
+   "store" : "no"
+  },
+  "properties" : {
+  .
+  .
+  .
+  }
+ }
+}
+
+As you can see, in the previous example, we said that we want our _id field to be indexed, but not analyzed and we don't want to store it.
+
+In addition to specifying an ID during indexing time, we can specify that we want it to be fetched from one of the fields of the indexed documents
+(although this will be slightly slower because of the additional parsing needed). In order to do that we need to specify the path property with
+the name of the field we want to use as the identifier value provider.
+For example, if we have the book_id field in our index and we would like to use it as the value for the _id field, we could change
+the previous mappings to something like the following:
+
+{
+ "book" : {
+  "_id" : {
+   "path": "book_id"
+  },
+  "properties" : {
+  .
+  .
+  .
+  }
+ }
+}
+
+One last point to remember is that even when disabling the _id field, all the functionalities requiring the document's unique identifier
+will still work because they will be using the _uid field instead.
+
+
+The _type field
+
+Let's say it one more time, each document in ElasticSearch is at least described by an identifier and type and if we want, we may include the type name
+as the internal _type field of our indices. By default the _type field is indexed, but not stored. If we would like to store that field
+we will have to change our mappings file to one like the following:
+
+{
+ "book" : {
+  "_type" : {
+   "store" : "yes"
+  },
+  "properties" : {
+  .
+  .
+  .
+  }
+ }
+}
+
+We can also change the _type field in such a way that it will not be indexed, but then some queries like term queries and filters will not work.
+
+
+The _all field
 
 

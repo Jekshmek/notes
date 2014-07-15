@@ -3,14 +3,16 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html
+  view with Const
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 113..135..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 114..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 48..78
+Kniberg - Scrum and Kanban                - 52..78
 issue19                                   - 32..37..47..48
                                           - 44 (Parting and joining the streams)
 
