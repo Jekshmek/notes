@@ -3,8 +3,6 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html
-  view with Const
 :h
   vimproc-functions
 
