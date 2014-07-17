@@ -285,4 +285,98 @@ We can also change the _type field in such a way that it will not be indexed, bu
 
 The _all field
 
+Allows us to create a field where the contents of other fields will be copied as well. This kind of field may be useful when we want to implement a simple search feature and search
+all the data (or only the fields we copy to the _all field), but we don't want to think about field names and things like that.
+By default the _all field is enabled and it contains all the data from all the fields from the index. In order to exclude a certain field from the _all field, one should use the
+include_in_all property, which was discussed in chapter "Searching Your Data".
+In order to completely turn off the _all field functionality (our index will be smaller without the _all field) we will modify our mappings file to one looking like the following:
+{
+ "book" : {
+  "_all" : {
+   "enabled" : false
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+In addition to the enabled property, the _all field supports the following ones:
+- store
+- term_vector
+- analyzer
+- index_analyzer
+- search_analyzer
+
+For information about these properties please refer to chapter "Searching Your Data"
+
+
+The _source field
+
+Allows us to store the original JSON document that was sent to ElasticSearch during indexing. By default the _source field is turned on because some of the ElasticSearch functionalities
+depend on it, for example, the partial update feature that was already described in Chapter "Getting Started with ElasticSearch Cluster".
+In addition to that, the _source field can be used as the source of data for the highlighting functionality if a field is not stored.
+But if we don't need such functionality, we can disable those fields because it causes some storage overhead.
+In order to do that, we will need to set the enabled property of the _source object to false, for example, as shown in the following code:
+{
+ "book" : {
+  "_source" : {
+   "enabled" : false
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+Because the _source field causes some storage overhead we may choose to compress information stored in that field. In order to do that, we would have to set the compress parameter to true.
+Although this will shrink the index, it will make the operations made on the _source field a bit more CPU-intensive. However, ElasticSearch allows us to decide when to compress
+the _source field.
+Using the compress_threshold property, we can control how big the _source field's content needs to be in order for ElasticSearch to compress it.
+This property accepts a size value in bytes (for example, 100b, 10kb).
+
+
+The _boost field
+
+As you may suspect, the _boost field allows us to set a default boost value for all the documents of a certain type. Imagine that we would like our book's documents to have a higher value
+than all the other types of documents in the index. You may wonder, why increase the boost value of the document? If some of your documents are more important than others,
+you can increase their boost value in order for ElasticSearch to know that they are more valuable. To achieve that for every single document we can use the _boost field.
+So if we would like all our book documents to have the value 10.0, we can modify our mappings to something like the following:
+{
+ "book" : {
+  "_boost" : {
+   "name" : "_boost",
+   "null_value" : 10.0
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+This mapping change says that if we don't add an additional field named _boost to our documents sent for indexing the null_value value will be used as boost.
+If we do add such a field, its value will be used instead of the default one.
+
+
+The _index field
+
+ElasticSearch allows us to store information about the index that the document is indexed in. We can do that by using the internal _index field. Imagine that we create daily indices,
+use aliasing, and are interested to know in which daily index the returned document is stored. In such a case the _index field can be useful.
+
+By default, the indexing of the _index field is disabled. In order to enable it, we need to set the enabled property of the _index object to true, for example:
+
+{
+ "book" : {
+  "_index" : {
+   "enabled" : true
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+
+The _size field
+
 
