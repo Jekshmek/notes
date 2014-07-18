@@ -379,4 +379,62 @@ By default, the indexing of the _index field is disabled. In order to enable it,
 
 The _size field
 
+Is disabled by default, allows you to automatically index the original, uncompressed size of the _source field and store it along with the documents. If we would like to enable
+the _size field, we need to add the _size property and wrap the enabled property with the value of true. In addition to that, we can also set the _size field to be stored
+by using the usual store property. So, if we would like our mapping to include the _size field and also want to store it:
+
+{
+ "book" : {
+  "_size" : {
+   "enabled": true, 
+   "store" : "yes"
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+
+The_timestamp field
+
+Is disabled by default, allows us to store information about when the document was indexed. Enabling that functionality is as simple as adding the _timestamp section to our mappings
+and setting the enabled property to true:
+
+{
+ "book" : {
+    "_timestamp" : {
+    "enabled" : true
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+The _timestamp field is not stored, indexed, and also not analyzed by default, but you can change those two parameters to match your needs. In addition to that, the _timestamp field
+is just like the normal date field so we can change its format just like we do with the usual date-based fields. In order to change the format, we need to specify the format property
+with the desired format.
+
+One more thing, instead of automatically creating the _timestamp field during document indexation, we can add the path property and set it to the name of the field from which the date
+should be taken. So if we would like our _timestamp field to be based on the year field, we need to modify our mappings to something like the following:
+
+{
+ "book" : {
+  "_timestamp" : {
+   "enabled" : true,
+   "path" : "year",
+   "format" : "YYYY"
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+As you may notice, we also modify the format of the _timestamp field in order to match the values stored in the year field.
+
+Note: If you use the _timestamp field and you let ElasticSearch create it automatically, the value of that field will be set to the time of indexation of that document.
+Please note that when using the partial document update functionality the _timestamp field will also be updated.
+
 
