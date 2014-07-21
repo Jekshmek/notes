@@ -438,3 +438,37 @@ Note: If you use the _timestamp field and you let ElasticSearch create it automa
 Please note that when using the partial document update functionality the _timestamp field will also be updated.
 
 
+The _ttl field
+
+Stands for time to live, that is, a functionality that allows us to define a life period of a document after which it will be automatically deleted. As you may expect, by default
+the _ttl field is disabled and to enable it we need to add the _ttl JSON object with its enabled property set to true:
+
+{
+ "book" : {
+  "_ttl" : {
+   "enabled" : true
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+If you need to provide the default expiration time for documents, just add the default property to the _ttl field definition with the desired expiration time. For example,
+to have our documents deleted after 30 days, we would set the following parameters:
+
+{
+ "book" : {
+  "_ttl" : {
+   "enabled" : true,
+   "default" : "30d"
+  },
+  "properties" : {
+  ...
+  }
+ }
+}
+
+By default, the _ttl field is stored and indexed, but not analyzed and you can change those two parameters, but remember that this field needs to be not analyzed in order to work.
+
+

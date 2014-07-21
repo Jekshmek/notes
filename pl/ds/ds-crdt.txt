@@ -1,5 +1,8 @@
 Shapiro - CRDTs.
 http://hal.archives-ouvertes.fr/inria-00555588/
+http://youtu.be/ebWVLVhiaiY
+    Strong, Evential [EC], Strong+Eventual [SEC] (solves the CAP)
+    EC - with rollbas, SEC - no roll-backs, durable
 
 http://basho.com/tag/crdt/
 
