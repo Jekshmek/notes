@@ -8,26 +8,28 @@ http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 118..135..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 119..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 59..78
+Kniberg - Scrum and Kanban                - 61..78
 issue19                                   - 32..37..47..48
                                           - 46 (Pipeline Examples)
 Video:
-Linux in a Real World 11                  -  01:00
-FRP - RxJava                              -  03_02
+Linux in a Real World 12                  -  03:00
+FRP - RxJava                              -  04_02
 Networks for Programmers                  -  17:00
-http://youtu.be/ebWVLVhiaiY               -  18:00
+Shapiro - SEC and CRDT                    -  43:00
+Nakutis 5                                 -  11:00
+http://youtu.be/ByhaIX0qr9c               -  33:13
 
 Audio:
-Strelov                                   -  50:00
+Strelov                                   -1:17:00
 
 Tracking:
 ACCU                                      - 121
 TMR                                       - 23
-https://www.fpcomplete.com/recent-content - 9 Jul
-http://habrahabr.ru/hub/linux/page100/     (..231 Jun 19)
+https://www.fpcomplete.com/recent-content - 20 Jul
+http://habrahabr.ru/hub/linux/page110/     (..231 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

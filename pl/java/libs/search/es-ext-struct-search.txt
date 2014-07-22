@@ -472,3 +472,119 @@ to have our documents deleted after 30 days, we would set the following paramete
 By default, the _ttl field is stored and indexed, but not analyzed and you can change those two parameters, but remember that this field needs to be not analyzed in order to work.
 
 
+Getting started with highlighting
+
+There is no better way of showing how highlighting works than making a query and looking at the results returned by ElasticSearch. So let's do that. Let's assume that we would like
+to highlight the words that were matched in the title field of our documents to increase the search experience of our users. We are again looking for the word crime and we would like
+to get highlighted results:
+
+{
+ "query" : {
+  "term" : {
+   "title" : "crime"
+  }
+ },
+ "highlight" : {
+  "fields" : {
+   "title" : {}
+  }
+ }
+}
+
+The response for such a query would be as follows:
+
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+"hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 0.19178301, "_source" : { "title": "Crime and Punishment","otitle": "????????é??? ? ?????á???","author": "Fyodor Dostoevsky","year": 1886,"characters": ["Raskolnikov", "Sofia Semyonovna Marmeladova"],"tags": [],"copies": 0, "available" : true},
+      "highlight" : {
+        "title" : [ "<em>Crime</em> and Punishment" ]
+      }
+    } ]
+  }
+}
+
+As you can see, apart from the standard information we got from ElasticSearch, there is a new section called highlight. Here, ElasticSearch used the <em> HTML tag as the beginning of the
+highlight section and its closing counterpart to close the section. This is the default behavior of ElasticSearch, but we will learn how to change that.
+
+
+Field configuration
+
+In order to perform highlighting, the original content of the field needs to be present—we have to set to store the fields that we will use for highlighting. However, it is possible to use
+the _source field if fields are not stored and ElasticSearch will use one or the other automatically.
+
+
+Under the hood
+
+ElasticSearch uses Apache Lucene under the hood and highlighting is one of the features of that library. Lucene provides two types of highlighting implementation—the standard one, which we
+just used and the second one called FastVectorHighlighter, which needs term vectors and positions to be able to work. ElasticSearch chooses the right highlighter implementation automatically.
+If the field is configured with the term_vector property set to with_positions_offsets, FastVectorHighlighter will be used; otherwise the default Lucene highlighter will be used.
+
+However, you have to remember that having term vectors will cause your index to be larger, but the highlighting will take less time to be executed. Also, FastVectorHighlighter is recommended
+for fields that store a lot of data in them.
+
+
+Configuring HTML tags
+
+As we already mentioned, it is possible to change the default HTML tags to the ones we would like to use. For example, let's assume that we would like to use the standard HTML <b> tag for
+highlighting. In order to do that, we should set the pre_tags and post_tags properties (those are arrays) to <b> and </b>. Because both of these properties are arrays, we can include more
+than one tag and ElasticSearch will use each of the defined tags to highlight different words:
+
+{
+ "query" : {
+  "term" : {
+   "title" : "crime"
+  }
+ },
+ "highlight" : {
+ "pre_tags" : [ "<b>" ],
+  "post_tags" : [ "</b>" ],
+  "fields" : {
+   "title" : {}
+  }
+ }
+}
+
+The result returned by ElasticSearch to the previous query would be the following:
+
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 0.19178301, "_source" : { "title": "Crime and Punishment","otitle": "????????é??? ? ?????á???","author": "Fyodor Dostoevsky","year": 1886,"characters": ["Raskolnikov", "Sofia Semyonovna Marmeladova"],"tags": [],"copies": 0, "available" : true},
+      "highlight" : {
+      "title" : [ "<b>Crime</b> and Punishment" ]
+      }
+    } ]
+  }
+}
+
+As you can see, the word Crime in title was surrounded by the tags of our choice.
+
+
+Controlling highlighted fragments
+
+

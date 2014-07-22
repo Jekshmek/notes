@@ -80,16 +80,7 @@
             <outline type="rss" text="Johan Tibell" title="Johan Tibell" xmlUrl="http://blog.johantibell.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.johantibell.com/"/>
         </outline>
         <outline text="Children" title="Children">
-            <outline type="rss" text="(название неизвестно)" title="(название неизвестно)" xmlUrl="http://blog.danilova.ru/feed" htmlUrl="http://blog.danilova.ru"/>
-            <outline type="rss" text="Последние выпуски рассылки &quot;Мы и наши дети!&quot; (home.child.duhvospitanie)" title="Последние выпуски рассылки &quot;Мы и наши дети!&quot; (home.child.duhvospitanie)" xmlUrl="http://subscribe.ru/archive/home.child.duhvospitanie/index.rss" htmlUrl="http://subscribe.ru/archive/home.child.duhvospitanie"/>
-            <outline type="rss" text="&quot;Детский сад&quot; (home.child.infantschool)" title="&quot;Детский сад&quot; (home.child.infantschool)" xmlUrl="http://subscribe.ru/archive/home.child.infantschool/index.rss" htmlUrl="http://subscribe.ru/archive/home.child.infantschool"/>
             <outline type="rss" text="ДЛЯ ДЕТЕЙ - Мир книг-скачать книги бесплатно" title="ДЛЯ ДЕТЕЙ - Мир книг-скачать книги бесплатно" xmlUrl="http://mirknig.com/knigi/deti/rss.xml" htmlUrl="http://mirknig.com/"/>
-            <outline type="rss" text="Последние выпуски рассылки &quot;Маленькие игры для женщин и детей&quot; (comp.games.gamerhouse)" title="Последние выпуски рассылки &quot;Маленькие игры для женщин и детей&quot; (comp.games.gamerhouse)" xmlUrl="http://subscribe.ru/archive/comp.games.gamerhouse/index.rss" htmlUrl="http://subscribe.ru/archive/comp.games.gamerhouse"/>
-            <outline type="rss" text="Последние выпуски рассылки &quot;Физическое развитие детей&quot; (sport.news.kidssport)" title="Последние выпуски рассылки &quot;Физическое развитие детей&quot; (sport.news.kidssport)" xmlUrl="http://subscribe.ru/archive/sport.news.kidssport/index.rss" htmlUrl="http://subscribe.ru/archive/sport.news.kidssport"/>
-            <outline type="rss" text="Развитие, уход и воспитание ребенка – Заметки молодой мамы" title="Развитие, уход и воспитание ребенка – Заметки молодой мамы" xmlUrl="http://feeds2.feedburner.com/mamblog" htmlUrl="http://profmama.ru/journal"/>
-            <outline type="rss" text="Блог Эльфика" title="Блог Эльфика" xmlUrl="http://feeds.feedburner.com/BlogElfikby" htmlUrl="http://blog.elfik.by"/>
-            <outline type="rss" text="Создано Zanimatika.ru" title="Создано Zanimatika.ru" xmlUrl="http://www.zanimatika.ru/rss/3.html"/>
-            <outline type="rss" text="Последние выпуски рассылки &quot;Новости сайта Лены Даниловой &quot;Раннее развитие детей&quot;&quot; (home.child.danilovanews)" title="Последние выпуски рассылки &quot;Новости сайта Лены Даниловой &quot;Раннее развитие детей&quot;&quot; (home.child.danilovanews)" xmlUrl="http://subscribe.ru/archive/home.child.danilovanews/index.rss" htmlUrl="http://subscribe.ru/archive/home.child.danilovanews"/>
             <outline type="rss" text="Воспитание детей - Электронная библиотека Кодгес, скачать книги бесплатно" title="Воспитание детей - Электронная библиотека Кодгес, скачать книги бесплатно" xmlUrl="http://www.kodges.ru/dosug/vospitanie/rss.xml" htmlUrl="http://www.kodges.ru/"/>
         </outline>
         <outline text="DZone" title="DZone">
@@ -107,7 +98,6 @@
             <outline type="rss" text="myNoSQL" title="myNoSQL" xmlUrl="http://feeds.feedburner.com/nosql" htmlUrl="http://nosql.mypopescu.com/"/>
         </outline>
         <outline text="Education" title="Education">
-            <outline type="rss" text="Class Central's Facebook Wall" title="Class Central's Facebook Wall" xmlUrl="https://www.facebook.com/feeds/page.php?id=305891199451158&amp;format=rss20" htmlUrl="https://www.facebook.com/"/>
             <outline type="rss" text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" xmlUrl="http://habrahabr.ru/rss/blogs/algorithm/"/>
             <outline type="rss" text="Новости и пополнения mp3 архива" title="Новости и пополнения mp3 архива" xmlUrl="http://predanie.ru/rss/newsarr.php" htmlUrl="http://predanie.ru"/>
         </outline>
@@ -218,13 +208,12 @@
             <outline type="rss" text="Open Source Release Feed" title="Open Source Release Feed" xmlUrl="http://feeds.feedburner.com/opensourcereleasefeed"/>
             <outline type="rss" text="twit88.com" title="twit88.com" xmlUrl="http://twit88.com/blog/feed/" htmlUrl="http://twit88.com/blog"/>
             <outline type="rss" text="blog - pavlov.net" title="blog - pavlov.net" xmlUrl="http://blog.pavlov.net/feed/" htmlUrl="http://blog.pavlov.net"/>
-            <outline type="rss" text="Haroon's Blog" title="Haroon's Blog" xmlUrl="http://devdivision.blogspot.com/feeds/posts/default" htmlUrl="http://www.haroonidrees.com/"/>
             <outline type="rss" text="TortoiseSVN - The coolest Interface to (Sub)Version Control" title="TortoiseSVN - The coolest Interface to (Sub)Version Control" xmlUrl="http://tortoisesvn.net/node/feed"/>
             <outline type="rss" text="Open Source Applications" title="Open Source Applications" xmlUrl="http://apps.open-libraries.com/feed/" htmlUrl="http://apps.open-libraries.com"/>
             <outline type="rss" text="NirBlog" title="NirBlog" xmlUrl="http://feeds.feedburner.com/Nirblog" htmlUrl="http://blog.nirsoft.net"/>
             <outline type="rss" text="Freeware Mission" title="Freeware Mission" xmlUrl="http://feeds.feedburner.com/blogspot/FXAu" htmlUrl="http://www.freewaremission.com"/>
             <outline type="rss" text="Stefaan Lippens' webface blogs" title="Stefaan Lippens' webface blogs" xmlUrl="http://stefaanlippens.net/blog/feed" htmlUrl="http://stefaanlippens.net/blog"/>
-            <outline type="rss" text="Open Source Resources for Designers &amp; Developers | Greepit.com" title="Open Source Resources for Designers &amp; Developers | Greepit.com" xmlUrl="http://feeds.feedburner.com/greepit" htmlUrl="http://www.greepit.com"/>
+            <outline type="rss" text="Open Source Resources for Designers &amp; Developers | Greepit.com" title="Open Source Resources for Designers &amp; Developers | Greepit.com" xmlUrl="http://feeds.feedburner.com/greepit" htmlUrl="http://greepit.com"/>
         </outline>
         <outline text="UnixShell" title="UnixShell">
             <outline type="rss" text="Всё о Vim" title="Всё о Vim" xmlUrl="http://www.allaboutvim.ru/feeds/posts/default" htmlUrl="http://www.allaboutvim.ru/"/>
