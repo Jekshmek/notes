@@ -587,4 +587,55 @@ As you can see, the word Crime in title was surrounded by the tags of our choice
 
 Controlling highlighted fragments
 
+ElasticSearch allows us to control the number of highlighted fragments returned, their sizes, and also exposes two of the properties we are allowed to use.
+
+The first one, number_of_fragments, defines the number of fragments returned by ElasticSearch (it defaults to 5). Setting this property to 0 causes the whole field to be returned,
+which can be handy for short fields; however, it can be expensive for longer fields.
+
+The second property, fragment_size, lets us specify the maximum length of the highlighted fragments in characters and defaults to 100.
+
+Global and local settings
+
+The highlighting properties we discussed previously can be set both on a global basis and on a per field basis. The global ones will be used for all the fields that don't overwrite them
+and should be placed on the same level as the fields section of your highlighting, for example:
+
+{
+ "query" : {
+  "term" : {
+   "title" : "crime"
+  }
+ },
+ "highlight" : {
+  "pre_tags" : [ "<b>" ],
+  "post_tags" : [ "</b>" ],
+  "fields" : {
+   "title" : {}
+  }
+ }
+}
+
+You can also set the properties for each field. For example, if we would like to keep the default behavior for all the fields except our title field, we would do the following:
+
+{
+ "query" : {
+  "term" : {
+   "title" : "crime"
+  }
+ },
+ "highlight" : {
+  "fields" : {
+   "title" : { "pre_tags" : [ "<b>" ], "post_tags" : [ "</b>" ] }
+  }
+ }
+}
+
+As you can see, instead of placing the properties on the same level as the fields section we placed them inside the empty JSON object that specifies the field title's behavior.
+Of course, each field can be configured to use different properties
+
+
+Require matching
+
+  
+
+
 
