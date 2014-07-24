@@ -635,7 +635,60 @@ Of course, each field can be configured to use different properties
 
 Require matching
 
-  
+One last thing about highlighting, sometimes there may be a need (especially when using multiple highlighted fields) to show only the fields that matched our query. In order to have such
+behavior, we need to set the require_field_match property to true. Setting this property to false will cause all the terms to get highlighted even if a field didn't match the query.
 
+To see how that works, let's create a new index called users and let's index a single document there. We will do that by sending the following command:
+
+curl -XPUT 'http://localhost:9200/users/user/1' -d '{
+ "name" : "Test user",
+ "description" : "Test document"
+}'
+
+So, let's assume we want to highlight the hits in both of the previous fields, so our query will look like the following:
+
+{
+ "query" : {
+  "term" : {
+   "name" : "test"
+  }
+ },
+ "highlight" : {
+  "fields" : {
+   "name" : { "pre_tags" : [ "<b>" ], "post_tags" : [ "</b>" ] },
+   "description" : { "pre_tags" : [ "<b>" ],
+   "post_tags" : [ "</b>" ] }
+  }
+ }
+}
+
+The result of the query would be as follows:
+
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "users",
+      "_type" : "user",
+      "_id" : "1",
+      "_score" : 0.19178301, "_source" : {"name" : "Test user","description" : "Test document"},
+      "highlight" : {
+        "description" : [ "<b>Test</b> document" ],
+        "name" : [ "<b>Test</b> user" ]
+      }
+    } ]
+  }
+}
+
+Notice, that even though we only matched the name field, we got highlighting results in both fields. In most cases we want to avoid that. So now let's modify our query to use the
+require_field_match property:
 
 
