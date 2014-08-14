@@ -3,6 +3,7 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
 :h
   vimproc-functions
