@@ -1,3 +1,4 @@
+380 300 75 850 730
 CLB Reference Guide                       - 467..576..613..648..667..674..694
                                             724..727..738..746..875..886..902..911..982..988..991
 CLB Presentation                          - 20:00 (Slide 23)
@@ -16,6 +17,7 @@ Kniberg - Scrum and Kanban                - 65..78
 issue19                                   - 32..37..47..48
                                           - 46 (Pipeline Examples)
 Video:
+Debunking Manjaro Myths                   -  30:00
 Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
