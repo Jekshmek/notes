@@ -1,4 +1,4 @@
-380 300 75 850 730
+190 700 640
 CLB Reference Guide                       - 467..576..613..648..667..674..694
                                             724..727..738..746..875..886..902..911..982..988..991
 CLB Presentation                          - 20:00 (Slide 23)
@@ -25,7 +25,7 @@ Nakutis 6                                 -  03:00
 Shevkunov                                 -  37:00
 
 Audio:
-Strelov                                   -1:16:00
+Strelov                                   -  00:00
 Zavgorodny                                -  06:00
 
 Tracking:
