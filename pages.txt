@@ -1,9 +1,11 @@
-190 700 640
+80 430 370
 CLB Reference Guide                       - 467..576..613..648..667..674..694
                                             724..727..738..746..875..886..902..911..982..988..991
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html
+http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
 http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
 :h

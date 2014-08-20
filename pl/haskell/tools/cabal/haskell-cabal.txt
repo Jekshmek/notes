@@ -1,5 +1,8 @@
 CABAL - Common Architecture for Building Applications and Libraries
 
+Constraint Solver
+??? --max-backjumps=-1
+
 http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/
 http://habrahabr.ru/post/165559/
 http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
