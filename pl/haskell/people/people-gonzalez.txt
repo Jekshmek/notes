@@ -124,6 +124,9 @@ MVC
 http://www.haskellforall.com/2014/04/model-view-controller-haskell-style.html
 http://www.haskellforall.com/2014/06/spreadsheet-like-programming-in-haskell.html
 
+MVC-managed
+http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
+
 Examples:
 http://www.haskellforall.com/2012/10/parsing-chemical-substructures.html
 http://www.haskellforall.com/2012/01/haskell-for-c-programmers-for-loops.html
