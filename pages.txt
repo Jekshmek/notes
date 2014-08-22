@@ -1,12 +1,11 @@
-50 270 330
 CLB Reference Guide                       - 467..576..613..648..667..674..694
                                             724..727..738..746..875..886..902..911..982..988..991
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html
-  Traversable
 http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
+  sequenceA
 http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
 http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
@@ -37,7 +36,7 @@ Tracking:
 ACCU                                      - 121
 TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 20 Jul
-http://habrahabr.ru/hub/linux/page110/     (..231 Jun 19)
+http://habrahabr.ru/hub/linux/page120/     (..235 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
