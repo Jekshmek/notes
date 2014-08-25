@@ -5,7 +5,7 @@ CLB Presentation                          - 20:00 (Slide 23)
 URLs:
 http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html
 http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
-  sequenceA
+  Implementing sequenceA with traverse and vice versa
 http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
 http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
@@ -17,9 +17,8 @@ Books:
 Kuc - ElasticSearch Server                - 121..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 65..78
-issue19                                   - 32..37..47..48
-                                          - 46 (Pipeline Examples)
+Kniberg - Scrum and Kanban                - 67..78
+
 Video:
 Debunking Manjaro Myths                   -  32:00
 Linux in a Real World 13                  -  03:00
