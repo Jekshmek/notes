@@ -3,9 +3,8 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html
 http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
-  Default implementation for Functor and Foldable using Traversable
+  Implementing foldMapDefault
 http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
 
@@ -16,7 +15,7 @@ Books:
 Kuc - ElasticSearch Server                - 121..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 69..78
+Kniberg - Scrum and Kanban                - 71..78
 
 Video:
 Debunking Manjaro Myths                   -1:05:00
