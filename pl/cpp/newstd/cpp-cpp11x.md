@@ -8,6 +8,7 @@
 * Lischner - Exploring C++11 2nd ed
 * Deitel - C++11 for Programmers 2nd ed 
 * Prata - C++ Primer Plus 6th ed (Ch 18)
+* Gregorie - Professional Cpp 3rd ed
 
 ### Please, share the following Books if you have
 

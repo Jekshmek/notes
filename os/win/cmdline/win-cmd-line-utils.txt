@@ -36,6 +36,9 @@ msconfig     - .. Startup progs .. (http://www.windows-commandline.com/2011/03/r
 wscui.cpl    - Windows Security Center
 secpol.msc   - Local security policy (http://www.windows-commandline.com/2011/03/local-security-policy-run-command.html)
 
+pkgmgr       - http://f1geek.com/windows7-problem/how-to-enable-telnet-in-windows-7
+  pkgmgr /iu:"TelnetClient"
+
 Keys:
 
 Win-E     - Open My Computer (http://www.windows-commandline.com/2012/03/command-open-my-computer.html)

@@ -691,4 +691,134 @@ The result of the query would be as follows:
 Notice, that even though we only matched the name field, we got highlighting results in both fields. In most cases we want to avoid that. So now let's modify our query to use the
 require_field_match property:
 
+{
+ "query" : {
+  "term" : {
+   "name" : "test"
+  }
+ },
+ "highlight" : {
+  "require_field_match" : true,
+  "fields" : {
+   "name" : { "pre_tags" : [ "<b>" ], "post_tags" : [ "</b>" ] },
+   "description" : { "pre_tags" : [ "<b>" ], "post_tags" : [ "</b>" ] }
+  }
+ }
+}
+
+And now let's look at the modified query results:
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "users",
+      "_type" : "user",
+      "_id" : "1",
+      "_score" : 0.19178301, "_source" : {"name" : "Test user","description" : "Test document"},
+      "highlight" : {
+        "name" : [ "<b>Test</b> user" ]
+      }
+    } ]
+  }
+}
+
+As you can see, ElasticSearch returned only the field that was matched, in our case the "name" field.
+
+
+Autocomplete
+
+Modern searching doesn't go without the autocomplete functionality. Thanks to it, users are provided with a convenient way to find items whose spelling isn't known.
+Autocomplete can also be a good marketing tool. For these reasons, sooner or later, you'll want to know how to implement this feature.
+
+Before we configure autocomplete, we should ask ourselves a few questions:
+  What data do we want to use for suggestions?
+  Do we have a set of suggestions already prepared (such as country names) or do we want to generate them dynamically, based on indexed documents?
+  Do we want to suggest words or whole documents?
+  Do we need information about the number of suggested items?
+  And finally, do we want to display only one field from the document or a few (for example, product name and price)?
+
+Each possible solution has its pros and cons and supports one requirement at the cost of another.
+Now, let's go through three common ways to implement the autocomplete functionality in ElasticSearch.
+
+
+The prefix query
+
+The simplest way of building an autocomplete solution is using a prefix query, which we have already discussed. For example, if we want to suggest country names, we just index them
+(for example, into the country_code field) and search like the following:
+
+curl -XGET 'localhost:9200/countries/_search' -d '
+{ 
+ "query" : {
+  "prefix" : {
+   "country": "r"
+  } 
+ } 
+}'
+
+This returns every country that starts with the letter r. This is very simple, but not ideal. If you have more data, you will notice that the prefix query is expensive.
+It is not suitable for open datasets where individual values can be repeated. Fortunately, if we run into performance problems, we can modify this method to the one using edge ngrams.
+
+
+Edge ngrams
+
+The prefix query works well; but in order for it to work, ElasticSearch must iterate through the list of terms to find the ones that match the given prefix.
+The idea for optimizing this is quite simple. Since finding particular terms is less costly, we can split terms into smaller parts. For example, the word Britain can be stored
+as a series of terms such as Bri, Brit, Brita, Britai, and Britain. Thanks to this, we can find documents containing the whole word only by supplying a part of that word.
+You may wonder why we start with three-letter tokens. In real-case scenarios, suggestions for shorter user input is not very useful due to too many suggestions being returned
+
+Let's see a full-index configuration for a simple address book application
+{
+ "settings" : {
+   "index" : {
+      "analysis" : {
+        "analyzer" : {
+          "autocomplete" : {
+            "tokenizer" : "engram",
+            "filter" : ["lowercase"]
+          }
+        },
+        "tokenizer" : {
+          "engram" : {
+            "type" : "edgeNGram",
+            "min_gram" : 3,
+            "max_gram" : 10
+         }
+        }
+      }
+    }
+  },
+  "mappings" : {
+    "contact" : {
+      "properties" : {
+        "name" : { 
+          "type" : "string", 
+          "index_analyzer" : "autocomplete", 
+          "index" : "analyzed", "search_analyzer" : "standard" 
+        },
+        "country" : { "type" : "string" }
+      }   
+    }       
+  }         
+}
+
+The mapping for this index contains the name field. This is the field that we'll use to generate suggestions. As you can see, this field has a different analyzer defined for indexing
+and searching. During indexing, ElasticSearch cuts input words into edge ngrams but while searching this is not necessary (and not desired) as the user already provides a part of the field.
+Note the engram tokenizer configuration.
+
+There are two options we are currently interested in. They are:
+min_gram:
+    Tokens that are shorter than the value of this parameter won't be built.
+    This value directly influences the minimum number of characters that will have to be provided in order to get suggestions. In our case it's 3.
+max_gram:
+    The tokenizer will ignore tokens for longer than the value given by this parameter. This is the maximum number of characters for which suggestions will be available.
+    You can use any reasonable limit. In this example, we assume that no one will need suggestions for longer queries because the user probably knows what he or she wants to find.
+
 
