@@ -7,3 +7,7 @@ http://www.reddit.com/r/haskell/comments/2ap02f/lens_tutorial_introduction_part_
 http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
 http://www.reddit.com/r/haskell/comments/2crxjn/lens_tutorial_stab_traversal_part_2/
 
+Wilson - Another Lens Tutorial
+http://unbui.lt/#!/post/haskell-another-lens-tutorial
+http://www.reddit.com/r/haskell/comments/2ezq7r/keep_them_lens_tutorials_coming/
+

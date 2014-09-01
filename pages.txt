@@ -4,7 +4,7 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
-  Traversal - the multi foci lens
+  Traversing deeper and deeper
 http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
 http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
 
@@ -22,6 +22,7 @@ Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 Nakutis 6                                 -  03:00
+https://www.youtube.com/playlist?list=PLYjQr8vff1JzC8b6c4CiegIeEpwAvpbKO
 
 Audio:
 
