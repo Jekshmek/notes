@@ -821,4 +821,120 @@ max_gram:
     The tokenizer will ignore tokens for longer than the value given by this parameter. This is the maximum number of characters for which suggestions will be available.
     You can use any reasonable limit. In this example, we assume that no one will need suggestions for longer queries because the user probably knows what he or she wants to find.
 
+Now, let's look at how it works. For this example, we can use the simplest form of query, as follows:
+
+curl -XGET 'localhost:9200/addressbook/_search?q=name:joh&pretty'
+
+For names shorter than three characters, the search returns no results. For more than three, the number of results will be equal to the available suggestions.
+
+If you look again at the specified analyzer, you'll notice that the analyzer used for the name field doesn't split the text into words before changing it to ngrams.
+Because of that, this version of autocomplete suits well for situations where we assume that our users will write the exact content of the field.
+This is usually the case when our users use the autocomplete functionality as a tool for faster choice of a particular value.
+This is useful for countries, but for an address book and people's names we need to suggest something regardless of whether the user starts to type the first name or the last name.
+After small changes done to our mapping, it will look like the following:
+
+{
+  "settings" : {
+   "index" : {
+      "analysis" : {
+        "analyzer" : {
+          "autocomplete" : {
+            "tokenizer" : "whitespace",
+            "filter" : ["lowercase", "engram"]
+          }
+        },
+        "filter" : {
+          "engram" : {
+            "type" : "edgeNGram",
+            "min_gram" : 3,
+            "max_gram" : 10
+          }
+        }
+      }
+    }
+  },
+  "mappings" : {
+    "contact" : {
+      "properties" : {
+        "name" : { "type" : "string", "index_analyzer" : "autocomplete", "index" : "analyzed", "search_analyzer" : "standard" },
+        "country" : { "type" : "string" }
+      }
+    }
+  }
+}
+
+Note the highlighted fragments. First, we see that the tokenizer was changed to whitespace. This provides the functionality of dividing our document field's data into words on the basis of
+definition to a filter. Remember that the tokenizer and the filters are different objects with different usage (the tokenizer takes input and divides it into tokens and the filters operate
+on the token stream provided by the tokenizer and can change tokens), but fortunately ElasticSearch provides edgeNGram both as a tokenizer and as a filter so the changes are simple.
+The rest is the same as in the previous example. But now we can fetch suggestions for part of every word in the name field. For example, the following query will find the record
+with Joseph Heller unlike the previous example query:
+
+curl -XGET 'localhost:9200/addressbook/_search?q=name:jos&pretty'
+
+The following query finds the record with Joseph Heller as well:
+
+curl -XGET 'localhost:9200/addressbook/_search?q=name:hell&pretty'
+
+
+Faceting
+
+The third possible way of implementing the autocomplete functionality is based on faceting. We haven't written about faceting yet, so don't worry if you have no idea of how it works.
+Everything will be explained in the chapter dedicated to faceting (Chapter 6, Beyond Searching). For now, let's assume that faceting is a functionality that allows us to get information
+about the distribution of a particular document value in the result set. In fact, this solution is an extension of the previous idea. It introduces the possibility of working with
+repeatable tokens and it is suitable for suggestions based on non-dictionary data. First let's look at the rewritten index configuration:
+
+{
+ "settings" :
+  "index" : {
+   "analysis" : {
+    "analyzer" : {
+     "autocomplete" : {
+      "tokenizer" : "whitespace",
+      "filter" : ["lowercase", "engram"]
+     }
+    },
+    "filter" : {
+     "engram" : {
+      "type" : "edgeNGram",
+      "min_gram" : 3,
+      "max_gram" : 10
+     }
+    }
+   }
+  }
+ },
+ "mappings" : {
+  "contact" : {
+   "properties" : {
+    "name" : { 
+     "type" : "multi_field",
+     "fields" : {
+      "name" : { "type" : "string", "index" : "not_analyzed" },
+      "autocomplete" : { "type" : "string", "index_analyzer" : "autocomplete", "index" : "analyzed", "search_analyzer" : "standard" }
+     }
+    },
+    "country" : { "type" : "string" } 
+   }
+  }
+ }
+}
+
+The only difference from the previous example is the additional not_analyzed field, which we will use as a facet label. This is a common technique for functionalities such as autocomplete.
+We prepare several forms of one field where each form has its own use. For example, if we want to search on this field as well, we can add another analyzed copy.
+Since this time the query will be more complicated, we put it in the facet_query.json file. Its contents are:
+
+{
+ "size" : 0,
+ "query" : {
+  "term" : { "name.autocomplete" : "jos" }
+ },
+ "facets" : {
+  "name" : {
+   "terms" : {
+    "field" : "name"
+   }
+  }
+ }
+}
+
 

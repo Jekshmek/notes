@@ -3,19 +3,17 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html
-  Traversing deeper and deeper
-http://blog.dmitryleskov.com/programming/scala/stream-hygiene-i-avoiding-memory-leaks/
-http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
+
+http://blog.dmitryleskov.com/programming/scala/stream-hygiene-ii-hotspot-kicks-in/
 
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 123..135..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 125..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 73..78
+Kniberg - Scrum and Kanban                - 75..78
 
 Video:
 Linux in a Real World 13                  -  03:00
@@ -30,11 +28,7 @@ Tracking:
 ACCU                                      - 121
 TMR                                       - 23
 https://www.fpcomplete.com/recent-content - 20 Jul
-http://habrahabr.ru/hub/linux/page120/     (..235 Jun 19)
+http://habrahabr.ru/hub/linux/page130/     (..235 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
-
-Review:
-FP-Features-Folds
-FP-Features-CategoryTheoryBased-Applicative

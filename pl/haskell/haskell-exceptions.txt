@@ -13,6 +13,10 @@ http://eax.me/haskell-exceptions/
 Edsko de Vries - The darker corners of throwTo
 http://www.edsko.net/2013/06/11/throwto/
 
+WellTyped - Exceptions
+http://www.reddit.com/r/haskell/comments/2ety9f/new_blog_post_dealing_with_asynchronous/
+http://www.well-typed.com/blog/97/
+
 StackOverflow:
 Marlow-ParallelAndConcurrentProgrammingInHaskell
 http://stackoverflow.com/questions/18052619/how-do-i-correctly-use-control-exception-catch-in-haskell
