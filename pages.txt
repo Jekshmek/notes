@@ -13,7 +13,7 @@ Books:
 Kuc - ElasticSearch Server                - 125..135..234 (Ch 2 of 8)
 
 Articles:
-Kniberg - Scrum and Kanban                - 75..78
+Kniberg - Scrum and Kanban                - 77..78
 
 Video:
 Linux in a Real World 13                  -  03:00
