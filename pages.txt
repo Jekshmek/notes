@@ -4,18 +4,14 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 
-http://blog.dmitryleskov.com/programming/scala/stream-hygiene-iii-scalaz-ephemeralstream-fills-quite-a-canyon/
-
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 125..135..234 (Ch 2 of 8)
-
-Articles:
-Kniberg - Scrum and Kanban                - 77..78
+Kuc - ElasticSearch Server                - 127..135..234 (Ch 2 of 8)
 
 Video:
+Practical Type Erasure                    -  10:00
 Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00

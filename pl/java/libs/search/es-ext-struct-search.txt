@@ -937,4 +937,93 @@ Since this time the query will be more complicated, we put it in the facet_query
  }
 }
 
+We are searching for every name starting with jos. This is exactly the same as in the previous example. But look at the size parameter. We don't want any document to be returned.
+Why? Because all the information is in facets and document data is only an additional ballast. Now, let's execute our search by sending the following command:
+
+curl -XGET 'localhost:9200/addressbook/_search?pretty' -d @facet_query.json
+
+You know a little about faceting, so this time we'll show the returned data:
+
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.095891505,
+    "hits" : [ ]
+  },
+  "facets" : {
+    "name" : {
+      "_type" : "terms",
+      "missing" : 0,
+      "total" : 1,
+      "other" : 0,
+      "terms" : [ {
+        "term" : "Joseph Heller",
+        "count" : 1
+      } ]
+    }
+  }
+}
+
+As you can see in the highlighted part we have a single suggestion returned. And in addition to the suggestion, you can also see the count parameter, which holds the information
+about how many times it appeared in the matched documents. If we had more suggestions, the first 10 of them would show as the values in the terms array.
+Why 10? How to change this? This is something you can learn in Chapter 6, Beyond Searching, in the section dedicated to faceting.
+
+
+Handling files
+
+The next use case we will discuss is searching in the contents of files. The most obvious method is adding logic to an application that will be responsible for fetching files,
+extracting valuable information from them, building JSON objects, and indexing them to ElasticSearch.
+
+Of course the previously mentioned method is valid and you can go this way, but there is another way we would like to show you. We can send documents to ElasticSearch for content extraction
+and indexing. This requires us to install an additional plugin. Note that we will describe plugins in Chapter 7, Administrating Your Cluster, so we'll skip the detailed description here.
+For now, just run the following command to install the attachments plugin:
+
+bin/plugin -install elasticsearch/elasticsearch-mapper-attachments/1.6.0
+
+After restarting ElasticSearch, it miraculously gains new skills!
+
+Let's begin with preparing a new index with the following mappings:
+
+{
+ "mappings" : {
+  "file" : {
+   "properties" : {
+    "note" : { "type" : "string", "store" : "yes" },
+    "book" : { 
+     "type" : "attachment",
+     "fields" : {
+      "file" : { "store" : "yes", "index" : "analyzed" },
+      "date" : { "store" : "yes" },
+      "author" : { "store" : "yes" },
+      "keywords" : { "store" : "yes" },
+      "content_type" : { "store" : "yes" },
+      "title" : { "store" : "yes" }
+     }
+    }
+   }
+  }
+ } 
+}
+
+As we can see, we have the book type, which we will use to store the contents of our file. In addition to that we've defined some nested fields as follows:
+file:
+    The file content itself
+date:
+    The file creation date
+author:
+    The author of the file
+keywords:
+    The additional keywords connected with the document
+content_type:
+    The MIME type of the document
+title:
+    The title of the document
+
 
