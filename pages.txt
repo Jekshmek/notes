@@ -8,10 +8,11 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 127..135..234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 129..135..234 (Ch 2 of 8)
 
 Video:
-Practical Type Erasure                    -  10:00
+Practical Type Erasure                    -  20:00
+Koltsov - Rust                            -  37:00
 Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
@@ -20,10 +21,10 @@ Nakutis 6                                 -  03:00
 Audio:
 
 Tracking:
-ACCU                                      - 121
+http://accu.org/index.php/journals/c78/   - 122
 TMR                                       - 23
-https://www.fpcomplete.com/recent-content - 20 Jul
-http://habrahabr.ru/hub/linux/page130/     (..235 Jun 19)
+https://www.fpcomplete.com/recent-content - 6 Sep
+http://habrahabr.ru/hub/linux/page140/     (..237 Jun 19)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

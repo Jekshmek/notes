@@ -1026,4 +1026,93 @@ content_type:
 title:
     The title of the document
 
+These fields will be extracted from files, if available. In our example, we marked all fields as stored; this allows us to see their values in the search results.
+In addition, we defined the note field. This is an ordinary field, which will be used not only by the plugin but by us as well.
+
+Now we should prepare our document. Look at the example placed in the index.json file:
+
+{
+ "book" : "UEsDBBQABgAIAAAAIQDpURCwjQEAAMIFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAA…",
+ "note" : "just a note"
+}
+
+As you can see, we have some strange content in the book field. This is the content of the file encoded with the base64 algorithm (please note that this is only a small part of it;
+for clarity we omitted the rest of this field). Because the file contents can be binary and thus cannot be easily included in the JSON structure, the authors of ElasticSearch require us
+to encode the file contents with the mentioned algorithm. On the Linux operating system there is a simple command that we use to encode document contents into base64, for example,
+with a command like the following:
+
+base64 -i example.docx -o example.docx.base64
+
+We will assume that you successfully created a proper base64 version of our document. Now we can index this document by running the following command:
+
+curl -XPUT 'localhost:9200/media/file/1?pretty' -d @index.json
+
+It was simple. In the background, ElasticSearch decoded the file, extracted its contents and created proper entries in the index. Now, let's create the query
+(we've placed it in the query.json file):
+
+{
+  "fields" : ["title", "author", "date", "keywords", "content_type", "note"],
+  "query" : {
+    "term" : { "book" : "example" }
+  }
+}
+
+If you have read the previous chapters carefully, the previous query should be simple to understand. We searched for the word example in the book field. Our example document contains the text
+
+This is an example document for "ElasticSearch Server" book;
+
+we need to find this document. In addition, we requested all the stored fields to be returned in the results. Let's execute our query:
+
+curl -XGET 'localhost:9200/media/_search?pretty' -d @query.json
+
+If everything goes well, we should see something like the following:
+
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.13424811,
+    "hits" : [ {
+      "_index" : "media",
+      "_type" : "file",
+      "_id" : "1",
+      "_score" : 0.13424811,
+      "fields" : {
+        "book.content_type" : "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "book.title" : "ElasticSearch Server",
+        "book.author" : " Rafal Kuc, Marek Rogozinski",
+        "book.keywords" : "ElasticSearch, search, book",
+        "book.date" : "2012-10-08T17:54:00.000Z",
+        "note" : "just a note"
+      }
+    } ]
+  }
+}
+
+Looking at the result, you see content type
+
+application/vnd.openxmlformats-officedocument.wordprocessingml.document.
+
+You can guess that our document was created in Microsoft Office and probably had the .docx extension. We also see additional fields such as authors or modification date extracted
+from the document. And again everything works!
+
+
+Additional information about a file
+
+When we are indexing files, the obvious requirement is the possibility of returning the filename in the result list. Of course we can add the filename as another field in the document,
+but ElasticSearch allows us to store this information within the file object. We can just add the _name field to the document in the following manner:
+
+{
+ "book" : "UEsDBBQABgAIAAAAIQDpURCwjQEAAMIFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAA…",
+ "_name" : "example.docx",
+ "note" : "just a note"
+}
+
+
 
