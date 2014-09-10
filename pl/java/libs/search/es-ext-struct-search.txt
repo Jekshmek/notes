@@ -1114,5 +1114,10 @@ but ElasticSearch allows us to store this information within the file object. We
  "note" : "just a note"
 }
 
+Thanks to it being available in the result list, the filename will be available as a part of the _source field. But if you use the fields option in the query, don't forget to add
+_source to this array.
+
+And finally, you can use the content_type field for information about MIME type, just as the _name field.
+
 
 
