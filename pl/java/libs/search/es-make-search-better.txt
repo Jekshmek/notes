@@ -1,1 +1,31 @@
-a
+Make Your Search Better
+
+In the previous chapter, we learned how to extend our index with additional information and how to handle highlighting and indexing data that is not flat. We also implemented an autocomplete
+mechanism using ElasticSearch, indexed files, and geographical information. However, by the end of this chapter, you will have learned the following:
+
+Why your document was matched
+How to influence document score
+How to use synonyms
+How to handle multilingual data
+How to use term position aware queries (span queries)
+
+
+Why this document was found
+
+Compared to databases, using systems capable of performing full-text search can often be anything other than obvious. We can search in many fields simultaneously and the data in the index
+can vary from those provided for indexing because of the analysis process, synonyms, language analysis, abbreviations, and others.
+It's even worse; by default, search engines sort data by scoring—a number that indicates how many current documents fit into the current searching criteria. For this, "how much" is the key;
+search takes into consideration many factors such as how many searched words were found in the document, how frequent is this word in the whole index, and how long is the field.
+This seems complicated and finding out why a document was found and why another document is "better" is not easy.
+Fortunately, ElasticSearch has some tools that can answer these questions. Let's take a look at them
+
+
+Understanding how a field is analyzed
+
+One of the common questions asked is why a given document was not found. In many cases, the problem lies in the definition of the mappings and the configuration of the analysis process.
+For debugging an analysis, ElasticSearch provides a dedicated REST API endpoint. Let's see a few examples on how to use this API.The first query asks ElasticSearch for information about
+the analysis process, using the default analyzer:
+
+curl -XGET 'localhost:9200/_analyze?pretty' -d 'Crime and Punishment'
+
+In resp

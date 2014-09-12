@@ -144,6 +144,9 @@ http://www.haskellforall.com/2014/07/equational-reasoning-at-scale.html
 http://www.haskellforall.com/2014/02/reasoning-about-stream-programming.html
 http://www.haskellforall.com/2013/12/equational-reasoning.html
 
+Optimization-Morte:
+http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html
+
 Misc:
 http://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html
 

@@ -11,7 +11,7 @@ Books:
 Kuc - ElasticSearch Server                - 135..161...234 (Ch 2 of 8)
 
 Video:
-Practical Type Erasure                    -  30:00
+Practical Type Erasure                    -  41:00
 Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
