@@ -28,4 +28,82 @@ the analysis process, using the default analyzer:
 
 curl -XGET 'localhost:9200/_analyze?pretty' -d 'Crime and Punishment'
 
-In resp
+In response, we get the following data:
+
+{
+  "tokens" : [ {
+    "token" : "crime",
+    "start_offset" : 0,
+    "end_offset" : 5,
+    "type" : "<ALPHANUM>",
+    "position" : 1
+  }, {
+    "token" : "punishment",
+    "start_offset" : 10,
+    "end_offset" : 20,
+    "type" : "<ALPHANUM>",
+    "position" : 3
+  } ]
+}
+
+As we can see, ElasticSearch divided the input phrase into two tokens. During processing, the "and" common word was omitted (because it belongs to the stop words list) and the other words
+were changed to lowercase versions. Now let's take a look at something more complicated. In "Extending Your Structure and Search", when we talked about the autocomplete feature,
+we used the edge engram filter. Let's recall this index and see how our analyzer works in that case:
+
+curl -XGET 'localhost:9200/addressbook/_analyze?analyzer=autocomplete&pretty' -d 'John Smith'
+
+In the preceding call, we used an additional parameter named "analyzer", which you should already be familiar with—it tells ElasticSearch which analyzer should be used instead of the
+default one. Look at the returned result:
+
+{
+  "tokens" : [ {
+    "token" : "joh",
+    "start_offset" : 0,
+    "end_offset" : 3,
+    "type" : "word",
+    "position" : 1
+  }, {
+    "token" : "john",
+    "start_offset" : 0,
+    "end_offset" : 4,
+    "type" : "word",
+    "position" : 2
+  }, {
+    "token" : "smi",
+    "start_offset" : 5,
+    "end_offset" : 8,
+    "type" : "word",
+    "position" : 3
+  }, {
+    "token" : "smit",
+    "start_offset" : 5,
+    "end_offset" : 9,
+    "type" : "word",
+    "position" : 4
+  }, {
+    "token" : "smith",
+    "start_offset" : 5,
+    "end_offset" : 10,
+    "type" : "word",
+    "position" : 5
+  } ]
+}
+
+This time, in addition to lowercasing and splitting words, we used the edge engram filter. Our phrase was divided into tokens and lowercased. Please note that the minimum length
+of the generated prefixes was three letters.
+
+It is worth noting that there is another form of analysis API available—one that allows us to provide tokenizers and filters. It is very handy when we want to experiment with a configuration
+before creating the target mappings. An example of such a call is as follows:
+
+curl -XGET 'localhost:9200/addressbook/_analyze?tokenizer=whitespace&filters=lowercase,engram&pretty' -d 'John Smith'
+
+In the preceding example, we used an analyzer that was built from the "whitespace" tokenizer and the two filters "lowercase" and "engram".
+
+As we can see, an analysis API can be very useful for tracking down bugs in the mapping configuration, but when we want to solve problems with queries and search relevance, explanation
+from the API is invaluable. It can show us how our analyzers work, what terms they produce, and what are the attributes of those terms. With such information, analyzing query problems
+will be easier to track down.
+
+
+Explaining the query
+
+

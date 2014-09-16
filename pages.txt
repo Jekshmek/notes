@@ -8,15 +8,21 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 135..161...234 (Ch 2 of 8)
+Kuc - ElasticSearch Server                - 137..161...234 (Ch 4 of 8)
+
+Articles:
+PloegKiselyov-Reflection without Remorse  - 2
 
 Video:
-Stroustrup                                -  50:00
-Practical Type Erasure                    -  52:00
+Practical Type Erasure                    -1:01:00
 Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
-msg                                       - 03:00
+msg                                       -  03:00
+Smirnov                                   -  20:00
+Tihon                                     -  19:00
+Kuraev-Smirnov                            -  26:00
+Illarion                                  -  12:00
 
 Audio:
 
