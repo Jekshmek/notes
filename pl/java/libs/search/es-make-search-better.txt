@@ -106,4 +106,81 @@ will be easier to track down.
 
 Explaining the query
 
+Let's look at the following example:
+
+curl -XGET 'localhost:9200/library/book/1/_explain?pretty&q=quiet'
+
+In the preceding call, we provided a specific document and a query to run. Using the _explain endpoint, we ask ElasticSearch for an explanation about how the document was matched
+(or not matched) by ElasticSearch. For example, should the preceding document be found by the provided query? If it is found, ElasticSearch will provide the information why the document
+was matched with the details about how its score was calculated:
+
+{
+  "ok" : true,
+  "matches" : true,
+  "explanation" : {
+    "value" : 0.057534903,
+    "description" : "fieldWeight(_all:quiet in 0), product of:",
+    "details" : [ {
+      "value" : 1.0,
+      "description" : "tf(termFreq(_all:quiet)=1)"
+    }, {
+      "value" : 0.30685282,
+      "description" : "idf(docFreq=1, maxDocs=1)"
+    }, {
+      "value" : 0.1875,
+      "description" : "fieldNorm(field=_all, doc=0)"
+    } ]
+  }
+}
+
+Looks complicated, doesn't it? Well, it is complicated and is even worse if we realize that this is only a simple query! ElasticSearch, and more specifically the Lucene library, shows
+the internal information of the scoring process. We will only scratch the surface and will explain the most important things.
+
+The most important part is the total score calculated for a document. If it is equal to 0, the document won't match the given query. Another important element is the description that tells
+us about different scoring components. Depending on the query type, components may affect the final score in a different way. In our case, the total score is a product of the scores
+calculated by all the components.
+
+The detailed information about components and knowing where we should seek for an explanation and why our document matches the query is also important. In this example, we were looking
+for the "quiet" word. It was found in the _all field. It is obvious because we searched in the default field, which is _all (you should remember from Chapter Extending Your Structure
+and Search, that this is the field where all indexed data is copied by default to make a default search field available).
+
+In the preceding response, you can also read information about the term frequency in the given field (which was 1 in our case). This means that the field contained only a single occurrence
+of the searched term. And finally, the last piece of information; maxDocs equals to 1, which means that only one document was found with the specified term. This usually means that
+we are dealing with a small index or we've searched with the use of very rare word.
+
+
+Influencing scores with query boosts
+
+In the previous chapter, we learned how to check why the search returns a given document and what factors had influence on its position in the result list. When an application grows,
+the need for improving the quality of search also increases—so-called search experience. We need to gain knowledge about what is more important to the user and to see how users use
+the search functionality. This leads to various conclusions; for example, we see that some parts of the documents are more important than the others or that particular queries emphasize
+one field at the cost of others. This is where boosting can be used. In the previous chapters, we've seen some information about boosting. In this chapter, we'll summarize this knowledge
+and we will show how to use it in practice.
+
+
+What is boost?
+
+"Boost" is an additional value used in the process of scoring. We can apply this value to the following:
+Query:
+    This is a way to inform the search engine that the given query that is a part of a complex query is more significant than the others.
+Field:
+    Several document fields are important for the user. For example, searching e-mails by Bill should probably list those from Bill first, next those with Bill in subject,
+    and then e-mails mentioning Bill in contents.
+Document:
+    Sometimes some documents are more important. In our example, with e-mail searching, e-mails from our friend are usually more important than e-mails from an unknown man.
+    
+Values assigned by us to a query, field, or document are only one factor used when we calculate the resulting score. We will now look at a few examples of query boosting
+
+
+Adding boost to queries
+
+Let's imagine that our index has two documents:
+
+{
+  "id" : 1,
+  "to" : "John Smith",
+  "from" : "David Jones",
+  "subject" : "Top secret!"
+}
+
 
