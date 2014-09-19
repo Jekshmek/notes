@@ -39,6 +39,11 @@ pacman -Ql <package>
 pacman -Qdt
   list all packages no longer required as dependencies (orphans)
 
+pacman -Qn
+  list all the native (sync database) packages
+
+pacman -Qqem
+  list all the installed + foreign packages (from AUR)
 
 
 Remove packages:

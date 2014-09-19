@@ -11,7 +11,7 @@ Books:
 Kuc - ElasticSearch Server                - 139..161...234 (Ch 4 of 8)
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 2.3
+PloegKiselyov-Reflection without Remorse  - 2.4
 
 Video:
 Kirpichev                                 -  33:00
@@ -20,7 +20,7 @@ Linux in a Real World 13                  -  03:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Tihon                                     -1:48:00
+Tihon                                     -  24:00
 Rostotsky                                 -  21:00
 
 Audio:
