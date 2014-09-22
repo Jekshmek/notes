@@ -183,4 +183,164 @@ Let's imagine that our index has two documents:
   "subject" : "Top secret!"
 }
 
+And:
 
+{
+  "id" : 2,
+  "to" : "David Jones",
+  "from" : "John Smith",
+  "subject" : "John, read this document"
+}
+
+This data is trivial, but it should describe our problem very well. Now let's assume we have the following query:
+
+{
+  "query" : {
+    "query_string" : {
+       "query" : "john",
+       "use_dis_max" : false
+    }
+  }
+}
+
+In this case, ElasticSearch will create a query to the _all field and will find documents that contain desired words. We also said that we don't want a disjunction query to be used by
+specifying the use_dis_max parameter to false (if you don't remember what a disjunction query is, please refer to the Explaining the query string section dedicated to querying a string query
+in Chapter "Searching Your Data"). As we can easily guess, both our records will be returned and the record with ID equals to 2 will be first because of two occurrences of John in the from
+and subject fields. Let's check this out in the following result:
+
+"hits" : {
+    "total" : 2,
+    "max_score" : 0.16273327,
+    "hits" : [ {
+      "_index" : "messages",
+      "_type" : "email",
+      "_id" : "2",
+      "_score" : 0.16273327, "_source" : 
+      { "to" : "David Jones", "from" : 
+      "John Smith", "subject" : "John, read this document"}
+    }, {
+      "_index" : "messages",
+      "_type" : "email",
+      "_id" : "1",
+      "_score" : 0.11506981, "_source" : 
+      { "to" : "John Smith", "from" : 
+      "David Jones", "subject" : "Top secret!" }
+    } ]
+}
+
+Is everything all right? Technically, yes. But I think that the second document should be positioned as the first one in the result list, because when searching for something, the most
+important factor (in many cases) is matching people, rather than the subject of the message. You can disagree, but this is exactly why full-text searching relevance is a difficult
+topic—sometimes it is hard to tell which ordering is better for a particular case. What can we do? First, let's rewrite our query to implicitly inform ElasticSearch what fields should be
+used for searching:
+
+{
+  "query" : {
+    "query_string" : {
+      "fields" : ["from", "to", "subject"],
+      "query" : "john",
+      "use_dis_max" : false
+    }
+  }
+}
+
+This is not exactly the same query as the previous one. If we run it, we will get the same results (in our case), but if you look carefully, you will notice differences in scoring.
+In the previous example, ElasticSearch only used one field, _all. Now we are searching in three fields. This means that several factors, such as field lengths, are changed.
+Anyway, this is not so important in our case. ElasticSearch, under the hood, generates a complex query made of three queries—one to each field so that fields are treated equally.
+Of course, the score contributed by each query depends on the number of terms found in this field and the length of this field. Let's introduce some differences between fields.
+Compare the following query to the previous one:
+
+{
+  "query" : {
+    "query_string" : {
+      "fields" : ["from^5", "to^10", "subject"],
+      "query" : "john",
+      "use_dis_max" : false
+    }
+  }
+}
+
+Look at the highlighted parts (^5 and ^10). In this way, we can tell ElasticSearch how important a given field is. We see that the most important field is "to" and the "from" field is
+less important. The subject field has the default value for boost, which is 1.0. Always remember that this value is only one of various factors. You may be wondering why we choose 5,
+not 1000 or 1.23. Well, this value depends on the effect we want to achieve, what query we have, and most importantly, what data we have in our index. This is the important part because
+this means that when data changes in the meaningful parts, we should probably check and tune our relevance once again.
+Finally, let's look at a similar example, but using the bool query:
+
+{
+ "query" : {
+  "bool" : {
+   "should" : [
+    { "term" : { "from": { "value" : "john", "boost" : 5 }}},
+    { "term" : { "to": { "value" : "john", "boost" : 10  }}},
+    { "term" : { "subject": { "value" : "john" }}}
+   ]
+  }
+ }
+}
+
+
+Modifying the score
+
+The preceding example shows how to affect the result list by boosting particular query components. Another technique is to run a query and affect the score of the documents returned by
+this query. In the following sections, we will summarize the possibilities offered by ElasticSearch. In the examples, we will use our library data from the second chapter.
+
+
+Constant score query
+
+A constant score query allows us to take any filter or query and explicitly set the value that should be used as the score that will be given for each matching document.
+At first, this query doesn't seem to be practical. But when we think about building complex queries, this query allows us to set how many documents matching this query can affect
+the total score. Look at the following example:
+
+{
+  "query" : {
+    "constant_score" : {
+      "query": {
+        "query_string" : {
+          "query" : "available:false author:heller"
+        }
+      },
+      "boost": 5.0
+    }
+  }
+}
+
+In our library data that we have used, we have two documents with the "available" field set to false. One of these documents has an additional value in the "author" field.
+But thanks to the constant score query, ElasticSearch will ignore that information. Both documents will be given a score equal to… 1.0. Strange? Not if we think about normalization
+that happens during indexing. In this stage, ElasticSearch saved additional information and changed the resulting score in order for this score to be comparable with the other parts
+of this query. It doesn't matter if our query contains only a single part. Note that in our example, we've used a query, but we can also use a filter.
+This is also better for performance reasons. For clarity, let's look at the following example with a filter:
+
+{
+  "query" : {
+    "constant_score" : {
+      "filter": {
+        "term" : {
+          "available" : false
+        }
+      },
+      "boost": 5.0
+    }
+  }
+}
+
+
+Custom boost factor query
+
+This query is similar to the previous one. Let's start with an example:
+
+{
+  "query" : {
+    "custom_boost_factor" : {
+      "query": {
+        "query_string" : {
+          "query" : "available:false author:heller"
+        }
+      },
+      "boost_factor": 5.0
+    }
+  }
+}
+
+In this case, the resulting score is multiplied by boost_factor. Unlike the previous query, this version doesn't support filters instead of queries.
+
+
+Boosting query
