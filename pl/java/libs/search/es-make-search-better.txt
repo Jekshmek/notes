@@ -344,3 +344,93 @@ In this case, the resulting score is multiplied by boost_factor. Unlike the prev
 
 
 Boosting query
+
+The next type of query connected with boosting is the boosting query. The idea is to allow us to define an additional part of a query, where the score of every matched document decreases.
+The following example lists all the available books, but books written by E. M. Remarque will have a score of 10 times lower:
+
+{
+  "query" : {
+    "boosting" : {
+      "positive" : {
+        "term" : {
+          "available" : true
+        }
+      },
+      "negative" : {
+        "term" : {
+          "author" : "remarque"
+        }
+      },
+      "negative_boost" : 0.1
+    }
+  }
+}
+
+
+Custom score query
+
+The custom score query gives us the simple possibility to set a score for all matched documents. It allows us to attach additional logic defined by a script to every matching document.
+Of course, this way of influencing a score is much slower, but sometimes it is the most convenient and the simplest way, so we should be aware of its existence and its possible usage.
+For example:
+
+{
+  "query" : {
+    "custom_score" : {
+      "query" : {
+        "matchAll" : {}
+      },
+      "script" : "doc['copies'].value * 0.5"
+    }
+  },
+  "fields" : ["title", "copies"]
+}
+
+This query matches all documents in the index. We've wrapped this query with the custom_score element and thanks to it, we can use an additional script for score calculation. In our example,
+we've used a very simple script. We just return the score as a half of the copies field value. For clarity, we use the fields element to get only the values for the title and copies fields.
+And now, what we obtain in return is as follows:
+
+"hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "2",
+      "_score" : 3.0,
+      "fields" : {
+        "title" : "Catch-22",
+        "copies" : 6
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "1",
+      "_score" : 0.5,
+      "fields" : {
+        "title" : "All Quiet on the Western Front",
+        "copies" : 1
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 0.0,
+      "fields" : {
+        "title" : "Crime and Punishment",
+        "copies" : 0
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "3",
+      "_score" : 0.0,
+      "fields" : {
+        "title" : "The Complete Sherlock Holmes",
+        "copies" : 0
+      }
+} ]
+    
+ElasticSearch did what we wanted, but look what happens when the "copies" field is set to 0. The score is also 0! Normally this means that document doesn't match the query.
+We should remember that score manipulation doesn't allow us to reject any documents from the result.
+
+
+Custom filters score query
+
+

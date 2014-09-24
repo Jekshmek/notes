@@ -8,26 +8,24 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 139..161...234 (Ch 4 of 8)
+Kuc - ElasticSearch Server                - 143..161...234 (Ch 4 of 8)
+Tema Childhood                            - 22..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 3
+PloegKiselyov-Reflection without Remorse  - 4
 
 Video:
-Kirpichev                                 -  33:00
-Practical Type Erasure                    -1:10:00
-Linux in a Real World 13                  -  03:00
+Linux in a Real World 13                  -  15:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Tihon                                     -  43:00
-Rostotsky                                 -  21:00
+Kuraev                                    -  01:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 122
-https://www.fpcomplete.com/recent-content - 6 Sep
+https://www.fpcomplete.com/recent-content - 23 Sep
 http://habrahabr.ru/hub/linux/page150/     (..237 Jun 19)
 
 Old Video:

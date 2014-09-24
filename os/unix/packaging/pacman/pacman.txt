@@ -12,12 +12,12 @@ pacman -S --help
 pacman -S <package
   install package (docky)
 
+pacman -Ss <search-str>
+  search all the package by string
+
 pacman -Syu
   y --refresh    - download and refresh sync database
   u --sysupgrade - upgrade all the outdated
-
-pacman -Ss <search-str>
-  search all the package by string
 
 
 Query local package DB:
