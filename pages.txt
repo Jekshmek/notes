@@ -12,7 +12,7 @@ Kuc - ElasticSearch Server                - 143..161...234 (Ch 4 of 8)
 Tema Childhood                            - 22..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 4
+PloegKiselyov-Reflection without Remorse  - 4.1
 
 Video:
 Linux in a Real World 13                  -  15:00

@@ -7,15 +7,19 @@ https://github.com/Alexpux/MSYS2-packages
 http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 https://github.com/iljau/msys2-installer
 
-pacman -s bash-completion
+TODO:
+pacman -Syu
+pacman -s bash-completion tig openssh
+
 
 install
-    ssh
     mingw-w64-x86_64
 
     tig (including git, vim)
+
     msys/vim
     msys/bash-completion
+    msys/openssh
 
 already installed:
     man
