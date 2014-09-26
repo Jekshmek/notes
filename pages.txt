@@ -12,21 +12,22 @@ Kuc - ElasticSearch Server                - 143..161...234 (Ch 4 of 8)
 Tema Childhood                            - 22..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 4.1
+PloegKiselyov-Reflection without Remorse  - 4.2
 
 Video:
 Linux in a Real World 13                  -  15:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Kuraev                                    -  01:00
+Beroev                                    -  09:00
+Kaidanovsky                               -  08:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 122
 https://www.fpcomplete.com/recent-content - 23 Sep
-http://habrahabr.ru/hub/linux/page150/     (..237 Jun 19)
+http://habrahabr.ru/hub/linux/page160/     (..239)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

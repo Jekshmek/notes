@@ -6,6 +6,7 @@ Articles:
 http://eax.me/lazy-evaluation/
 http://users.aber.ac.uk/afc/stricthaskell.html
 http://habrahabr.ru/post/131910/
+http://h2.jaguarpaw.co.uk/posts/strictness-in-types/
 
 Presentations:
 https://github.com/tibbe/talks

@@ -83,8 +83,16 @@ Power Management:
 https://wiki.archlinux.org/index.php/Power_Management
 https://forum.manjaro.org/index.php?topic=8351.0
 
-!!! user changing
+
+User-based services:
+
+https://wiki.archlinux.org/index.php/Systemd/User
+http://superuser.com/questions/476379/how-do-i-setup-a-systemd-service-to-be-started-by-a-non-root-user-as-a-user-daem
+
+sudo ls -la /usr/lib/systemd/user
+sudo vim /usr/lib/systemd/system/qbittorrent.service
 
 systemctl enable btsync@svetah.service
 or just
 systemctl enable btsync@svetah
+
