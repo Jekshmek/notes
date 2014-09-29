@@ -433,4 +433,187 @@ We should remember that score manipulation doesn't allow us to reject any docume
 
 Custom filters score query
 
+The last query that we will discuss in this chapter is the custom filters score query. This query contains the base query and an array of filters.
+Each of these filters has a boost value defined. For example:
+
+{
+  "query" : {
+    "custom_filters_score" : {
+      "query" : {
+        "matchAll" : {}
+      },
+      "filters" : [
+        {
+          "filter" : { "term" : { "available" : true }},
+          "boost" : 10
+        },
+        {
+          "filter" : { "term" : { "copies" : 0 }},
+          "boost" : 100
+        }
+
+      ]
+    }
+  },
+  "fields" : ["title", "copies", "available"]
+}
+
+We have a base query that simply selects all documents. In addition to that, we've defined two filters. The first filter selects all available books and the second one selects
+all the books without copies. Let's look at the result:
+
+"hits" : {
+    "total" : 4,
+    "max_score" : 100.0,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "3",
+      "_score" : 100.0,
+      "fields" : {
+        "title" : "The Complete Sherlock Holmes",
+        "copies" : 0,
+        "available" : false
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 10.0,
+      "fields" : {
+        "title" : "Crime and Punishment",
+        "copies" : 0,
+        "available" : true
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "1",
+      "_score" : 10.0,
+      "fields" : {
+        "title" : "All Quiet on the Western Front",
+        "copies" : 1,
+        "available" : true
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "2",
+      "_score" : 1.0,
+      "fields" : {
+        "title" : "Catch-22",
+        "copies" : 6,
+        "available" : false
+      }
+    } ]
+  }
+  
+As you can see, ElasticSearch checks each document against the defined filters. When the filter matches, ElasticSearch takes the defined boost value and applies it to the resulting score.
+When a filter doesn't match, it takes the next filter. If none of them match, ElasticSearch returns the score from the base query. The more filters matched, the better the document is
+for a given query. Let's look at another example:
+
+{
+ "query" : {
+  "custom_filters_score" : {
+   "query" : {
+    "matchAll" : {}
+   },
+   "filters" : [
+    {
+     "filter" : { "term" : { "available" : true }},
+     "boost" : 10
+    },
+    {
+     "filter" : { "term" : { "copies" : 0 }},
+     "boost" : 100
+    }
+
+   ],
+    "score_mode" : "total"
+  }
+ },
+ "fields" : ["title", "copies", "available"]
+}
+
+There is only a single change, namely, the "score_mode" attribute. In the previous example, we used the default value, first. Now, the score_mode value of total tells ElasticSearch that
+all matching filters should be used for the boosting query. We've discussed different score modes in the Compound queries section in Chapter 2, Searching Your Data. However,
+let's check the results to illustrate this example:
+
+"hits" : {
+  "total" : 4,
+  "max_score" : 110.0,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "4",
+      "_score" : 110.0,
+      "fields" : {
+        "title" : "Crime and Punishment",
+        "copies" : 0,
+        "available" : true
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "3",
+      "_score" : 100.0,
+      "fields" : {
+        "title" : "The Complete Sherlock Holmes",
+        "copies" : 0,
+        "available" : false
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "1",
+      "_score" : 10.0,
+      "fields" : {
+        "title" : "All Quiet on the Western Front",
+        "copies" : 1,
+        "available" : true
+      }
+    }, {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "2",
+      "_score" : 1.0,
+      "fields" : {
+        "title" : "Catch-22",
+        "copies" : 6,
+        "available" : false
+      }
+    } ]
+  }
+  
+The Crime and Punishment book is available and has no copies. The resulting score reflects this fact.
+
+The "score_mode" parameter gives us even more possibilities. In addition to the mentioned values, it can also take the value min, max, avg, or multiply.
+
+
+When does index-time boosting make sense
+
+In the previous section, we talked about boosting queries. This type of boosting is very handy and powerful and fulfills its role in most situations. However, there is one case where
+the more convenient way is to use the index-time boosting. This situation is where important documents are a part of input data. We gain a boost independent from a query at the cost of
+re-indexing, when the boost value is changed. In addition to that, the performance is slightly better because some parts needed in the boosting process are already calculated at index time.
+ElasticSearch stores information about the boost as a part of normalization information. This is important because if we set "omit_norms" to true, we can't use index-time boosting.
+Defining field boosting in input dataLet's look at the typical document definition:
+
+{
+  "title" : "The Complete Sherlock Holmes",
+  "author" : "Arthur Conan Doyle",
+  "year" : 1936
+}
+
+If we want to boost the author field for this particular document, the structure should be slightly changed and should look like the following:
+
+{
+  "title" : "The Complete Sherlock Holmes",
+  "author" : {
+    "_value" : "Arthur Conan Doyle",
+    "_boost" : 10.0
+  },
+  "year": 1936
+}
+
+
+Defining document boosting in input data
 

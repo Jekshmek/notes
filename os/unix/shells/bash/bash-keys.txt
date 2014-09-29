@@ -1,3 +1,5 @@
+http://www.gnu.org/software/bash/manual/html_node/Bindable-Readline-Commands.html
+
 http://beerpla.net/2008/12/22/mastering-the-linux-shell-bash-shortcuts-explained/
 https://help.ubuntu.com/community/AdvancedCommandlineHowto
 https://help.ubuntu.com/community/UsingTheTerminal
