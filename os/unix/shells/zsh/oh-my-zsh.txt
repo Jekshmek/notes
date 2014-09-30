@@ -1,0 +1,9 @@
+oh-my-zsh (git is needed):
+
+curl -L http://install.ohmyz.sh | sh
+
+edit ~/.zshrc
+
+ZSH_THEME="agnoster"
+
+

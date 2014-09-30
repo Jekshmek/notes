@@ -9,10 +9,10 @@ URLs:
 
 Books:
 Kuc - ElasticSearch Server                - 145..161...234 (Ch 4 of 8)
-Tema Childhood                            - 22..228
+Tema Childhood                            - 56..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 4.3
+PloegKiselyov-Reflection without Remorse  - 5
 
 Video:
 Holloway - LXC                            -  07:00
@@ -21,8 +21,7 @@ FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
 Spiridonov                                -  05:00
-Solonitsin                                -  12:00
-                                             14:20
+Solonitsin                                -  14:20
 
 Audio:
 

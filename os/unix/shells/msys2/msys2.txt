@@ -9,7 +9,7 @@ https://github.com/iljau/msys2-installer
 
 TODO:
 pacman -Syu
-pacman -s bash-completion tig openssh
+pacman -s zsh bash-completion tig openssh dos2unix
 
 
 install
@@ -23,3 +23,5 @@ install
 
 already installed:
     man
+
+https://github.com/mavnn/mintty-colors-solarized

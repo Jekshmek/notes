@@ -8,15 +8,6 @@ The function will not be run in future, but you can run it yourself as follows:
   zsh-newuser-install -f
 
 
-oh-my-zsh (git is needed):
-
-curl -L http://install.ohmyz.sh | sh
-
-edit ~/.zshrc
-
-ZSH_THEME="agnoster"
-
-
 LXTerminal settings:
 
 https://gist.github.com/perusio/1154002
@@ -30,4 +21,15 @@ fgcolor=#65657b7b8383
 LS colors:
 https://github.com/seebi/dircolors-solarized
 
+history issues:
+
+http://stackoverflow.com/questions/19780951/cygwin-winsymlinksnative-doesnt-work
+set MSYS=winsymlinks
+
+http://superuser.com/questions/410965/command-history-in-zsh
+
+zsh: locking failed for /home/Ihar_Hancharenka/.zsh_history: no such file or directory
+
+$TMPPREFIX
+print =(:)
 
