@@ -617,3 +617,111 @@ If we want to boost the author field for this particular document, the structure
 
 Defining document boosting in input data
 
+Let's look at the typical document definition:
+
+{
+  "title" : "The Complete Sherlock Holmes",
+  "author" : "Arthur Conan Doyle",
+  "year" : 1936
+}
+
+If we want to boost the "author" field for this particular document, the structure should be slightly changed and should look like the following:
+
+{
+  "title" : "The Complete Sherlock Holmes",
+  "author" : {
+    "_value" : "Arthur Conan Doyle",
+    "_boost" : 10.0
+  },
+  "year": 1936
+}
+
+
+Defining document boosting in input data
+
+As you've seen, field boosting during indexing is simple. In my opinion, the more useful way is to boost a whole document. For example, we want to promote some items in our shop application.
+Another example is when we desire to improve search relevance. Sometimes, we note that statistically people are more likely to seek popular products, so there is a lot of sense to boost
+popular products a bit by placing them at a higher level in the result list. How to do it? Let's look at following example:
+
+{
+  "title" : "The Complete Sherlock Holmes",
+  "author" : "Arthur Conan Doyle",
+  "year" : 1936,
+  "_boost" : 10.0
+}
+
+As you can see, this is as simple as it can be. We've just added a new field named _boost. ElasticSearch will automatically apply its value as a document boost.
+
+
+Defining boosting in mapping
+
+It is worth mentioning that it is possible to directly define a field's boost in our mappings. The following example shows that:
+
+{
+  "mappings" : {
+    "book" : {
+    "properties" : {
+        "title" : { "type" : "string" },
+        "author" : { "type" : "string", "boost" : 10.0 }
+      }
+    }
+  }
+}
+
+Thanks to the preceding boost, all queries will favor values found in the field named "author". This also applies to queries using the _all field.
+
+
+The words having the same meaning
+
+You may have heard about synonyms—words that have the same or similar meaning. Sometimes you would want to have some words to be matched when one of those words is entered into the search box.
+Let's recall our sample data from Chapter 2, Searching Your Data; there was a book called "Crime and Punishment". What if we want that book to be matched not only when the words crime or
+punishment are used, but also when using words like criminality and abuse. However silly it may sound, let's use that example to see how synonyms can be used in ElasticSearch.
+
+
+Synonym filter
+
+In order to use the synonym filter, we need to define our own analyzer (please refer to Chapter 1, Getting Started with ElasticSearch Cluster, in order to see how to do that). Our analyzer
+will be called synonym and will use the whitespace tokenizer and a single filter called synonym. Our filter's type property needs to be set to synonym, which tells ElasticSearch that
+this filter is a synonym filter. In addition to that, we want to ignore the case so that upper- and lowercased synonyms will be treated equally (set the ignore_case property to true).
+So, in order to define our custom synonym analyzer that uses a synonym filter, we need to have the following mappings done:
+
+{
+  "index" : {
+    "analysis" : {
+      "analyzer" : {
+        "synonym" : {
+          "tokenizer" : "whitespace",
+          "filter" : [
+            "synonym"
+          ]
+        }
+      },
+      "filter" : {
+        "synonym" : {
+          "type" : "synonym",
+          "ignore_case" : true,
+          "synonyms" : [
+            "crime => criminality"
+          ]
+        }
+      }
+    }
+  }
+}
+
+
+Synonyms in mappings
+
+In the preceding definition, we've specified the synonym rule in the mappings we send to ElasticSearch. In order to do that, we need to add the "synonyms" property, which is an array of
+synonym rules, for example, the following:
+
+"synonyms" : [
+  "crime => criminality"
+]
+
+We will discuss defining the synonym rules in just a second.
+
+
+Synonyms in file
+
+

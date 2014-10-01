@@ -5,9 +5,11 @@ Description=qbittorrent-nox Daemon
 After=network.target
 
 [Service]
-User=1000
+User=iharh
 Type=forking
 ExecStart=/usr/bin/qbittorrent-nox --daemon --webui-port=8080
+Restart=on-failure
+PIDFile=/home/iharh/qbittorrent-nox.pid
 
 [Install]
 WantedBy=multi-user.target

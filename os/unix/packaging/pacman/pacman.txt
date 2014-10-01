@@ -15,6 +15,9 @@ pacman -S <package
 pacman -Ss <search-str>
   search all the package by string
 
+pacman -Sg <grp-str>
+  list all the package groups, or packages which belong to <grp-str>
+
 pacman -Syu
   y --refresh    - download and refresh sync database
   u --sysupgrade - upgrade all the outdated
