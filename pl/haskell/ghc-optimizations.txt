@@ -1,8 +1,14 @@
 ToRead:
 Jones - A Transformation-based Optimizer for Haskell
 
+Presentations:
+
 Sergey - GHC Static Analysis and Code Optimization (slide 61 about polymorphism influence to strictness analysis)
 http://www.slideshare.net/ilyasergey/static-analyses-and-code-optimizations-in-glasgow-haskell-compiler
+
+Doel - Introduction to Low Level Haskell Optimization:
+https://www.youtube.com/watch?v=McFNkLPTOSY
+https://docs.google.com/file/d/0B8Kkr1O1jFwcRmhxbzBMR1Ntb3c/edit
 
 - Short cut fusion (http://www.haskell.org/haskellwiki/Short_cut_fusion, http://www.haskell.org/haskellwiki/Correctness_of_short_cut_fusion)
 

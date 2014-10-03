@@ -12,28 +12,30 @@ Kuc - ElasticSearch Server                - 147..161...234 (Ch 4 of 8)
 Tema Childhood                            - 56..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 5.1
+PloegKiselyov-Reflection without Remorse  - 5.2
 
 Video:
-Holloway - LXC                            -  33:00
+Doel - Intro to Low Level Haskell Opt     -  33:30 of 1:09:00
 Mitasch-LXCBestPractices                  -  16:00
-Melnikov - LXC                            -  17:00
-Doel - Intro to Low Level Haskell Opt     -  15:00 of 1:09:00
+Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Gulaya                                    -  18:00
+Gulaya                                    -  48:00
 Spiridonov                                -  09:00
-Solonitsin                                -  32:00
-Boney M                                   -  38:00
+Solonitsin                                -  05:00
+Markov                                    -  06:00
+Kopelyan                                  -  07:00
+Fatyushin                                 -  18:00
+Keosoyan                                  -  29:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 122
 https://www.fpcomplete.com/recent-content - 23 Sep
-http://habrahabr.ru/hub/linux/page170/     (..240)
+http://habrahabr.ru/hub/linux/page180/     (..240)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
