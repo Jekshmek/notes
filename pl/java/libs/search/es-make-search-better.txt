@@ -724,4 +724,98 @@ We will discuss defining the synonym rules in just a second.
 
 Synonyms in file
 
+ElasticSearch allows us to use file-based synonyms. In order to use a file, we need to specify the "synonyms_path" property instead of the "synonyms" one. The "synonyms_path" property
+should be set to the name of the file that holds the synonym's definition and the specified file path is relative to the ElasticSearch config directory. So, if we store our synonyms
+in the synonyms.txt file and we save that file in the config directory, in order to use it, we should set synonyms_path to the value of synonyms.txt.
+For example, this is how the synonym filter (the one from the preceding mappings) will be, if we want to use the synonyms stored in a file:
+
+"filter" : {
+  "synonym" : {
+    "type" : "synonym",
+    "synonyms_path" : "synonyms.txt"
+  }
+}
+
+
+Defining synonym rules
+
+Till now, we have discussed what we have to do in order to use synonym expansions in ElasticSearch. Now, let's see what formats of synonyms can be used.
+
+
+Using Apache Solr synonyms
+
+The most common synonym structure in the Apache Lucene world is probably the one used by Apache Solr—the search engine build on top of Lucene, just like ElasticSearch.
+This is the default way of handling synonyms in ElasticSearch and the possible ways of defining a new synonym are discussed in the following sections.
+
+
+Explicit synonyms
+
+A simple mapping allows us to map a list of words into other words. So, in our case, if we want the criminality word to be mapped to crime and the abuse word to be mapped to punishment,
+we need to define the following entries:
+
+criminality => crime
+abuse => punishment
+
+Of course, a single word can be mapped into multiple ones and multiple ones can be mapped into a single one, for example:
+
+star wars, wars => starwars
+
+The preceding example means that star wars and wars will be changed to starwars by the synonym filter.
+
+
+Equivalent synonyms
+
+In addition to the explicit mapping, ElasticSearch allows us to use equivalent synonyms. For example, the following definition will make all the words exchangeable so that you can use
+any of them to match a document that has one of them in its contents:
+
+star, wars, star wars, starwars
+
+
+Expanding synonyms
+
+A synonym filter allows us to use one additional property when it comes to Apache Solr format synonyms—the "expand" property. When this is set to true (by default, it is set to false),
+all synonyms will be expanded by ElasticSearch to all equivalent forms. For example, let's say we have the following filter configuration:
+
+"filter" : {
+  "synonym" : {
+    "type" : "synonym",
+    "expand": false,
+    "synonyms" : [
+      "one, two, three"
+    ] 
+  }
+}
+
+ElasticSearch will map the preceding synonym definition to the following:
+
+one, two, thee => one
+
+This means that the words one, two, and three will be changed to one. However, if we set the expand property to true, the same synonym definition will be interpreted in the following way:
+
+one, two, three => one, two, three
+
+Which means that each of the words from the left side of the definition will be expanded to all the words.
+
+
+Using WordNet synonyms
+
+If we want to use WordNet-structured synonyms (to learn more about WordNet, please visit http://wordnet.princeton.edu/), we need to provide an additional property for our synonym filter.
+The property name is "format", and we should set its value to "wordnet" in order for ElasticSearch to understand that format.
+
+
+Query- or index-time synonym expansion
+
+As with all the analyzers, one can wonder when we should use our synonym filter—during indexing, during querying, or maybe during both indexing and querying. Of course, it depends
+on your needs. However, please remember that using index-time synonyms requires data re-indexing after each synonym change, because they need to be reapplied to all the documents.
+If we use only query-time synonyms, we can update the lists of synonyms and have them applied (for example, after updating the mappings, which we will talk about later in this book).
+
+
+Searching content in different languages
+
+Till now, we've talked mostly in theory about language analysis, for example, handling multiple languages our data can consist, and things like that. This will now change as we will now
+discuss how we can handle multiple languages in our data.
+
+
+Why we need to handle languages differently
+
 

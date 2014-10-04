@@ -8,27 +8,26 @@ URLs:
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 147..161...234 (Ch 4 of 8)
-Tema Childhood                            - 56..228
+Kuc - ElasticSearch Server                - 151..161...234 (Ch 4 of 8)
+Tema Childhood                            - 81..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 5.2
+PloegKiselyov-Reflection without Remorse  - 5.3
 
 Video:
-Doel - Intro to Low Level Haskell Opt     -  33:30 of 1:09:00
+Doel - Intro to Low Level Haskell Opt     -1:00:30 of 1:09:00
 Mitasch-LXCBestPractices                  -  16:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Gulaya                                    -  48:00
+Gulaya                                    -  55:00
 Spiridonov                                -  09:00
 Solonitsin                                -  05:00
 Markov                                    -  06:00
 Kopelyan                                  -  07:00
-Fatyushin                                 -  18:00
-Keosoyan                                  -  29:00
+Sichkin                                   -  15:00
 
 Audio:
 

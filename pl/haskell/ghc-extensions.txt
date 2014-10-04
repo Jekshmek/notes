@@ -22,3 +22,6 @@ OverlappingInstances - When there are multiple overlapping instances to choose f
                        pick the most specific one
 RecordWildcards      - http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#record-wildcards
                        Record wildcard syntax permits a ".." in a record pattern, where each elided field f is replaced by the pattern f = f.
+DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
+                       ??? check if it is on by default ???
+
