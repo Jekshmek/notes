@@ -3,6 +3,7 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/
 
 :h
   vimproc-functions
@@ -15,19 +16,16 @@ Articles:
 PloegKiselyov-Reflection without Remorse  - 5.3
 
 Video:
-Doel - Intro to Low Level Haskell Opt     -1:00:30 of 1:09:00
 Mitasch-LXCBestPractices                  -  16:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Gulaya                                    -  55:00
+Solonitsin                                -  29:00
 Spiridonov                                -  09:00
-Solonitsin                                -  05:00
 Markov                                    -  06:00
 Kopelyan                                  -  07:00
-Sichkin                                   -  15:00
 
 Audio:
 
