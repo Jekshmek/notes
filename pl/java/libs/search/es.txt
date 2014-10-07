@@ -1,0 +1,33 @@
+JAVA API:
+http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index.html
+
+
+REST API:
+
+curl -XPOST 'http://localhost:9200/_shutdown'
+
+
+curl -XGET "http://epbygomw0024:9200/?pretty"
+  ES info
+
+curl -XGET "http://epbygomw0024:9200/_nodes?jvm=true&pretty"
+
+curl -XGET "http://epbygomw0024:9200/_cluster/health?pretty"
+
+{
+  "cluster_name" : "epbygomw0024-5432-postgres-win_ss",
+  "status" : "yellow",
+  "timed_out" : false,
+  "number_of_nodes" : 1,
+  "number_of_data_nodes" : 1,
+  "active_primary_shards" : 10,
+  "active_shards" : 10,
+  "relocating_shards" : 0,
+  "initializing_shards" : 0,
+  "unassigned_shards" : 10
+}
+
+
+Create index with mappings
+curl -XPUT 'localhost:9200/docs' -d @mappings.json
+

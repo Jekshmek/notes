@@ -818,4 +818,136 @@ discuss how we can handle multiple languages in our data.
 
 Why we need to handle languages differently
 
+As you already know that ElasticSearch allows us to choose different analyzers for our data, we can have our data divided into words on the basis of
+whitespaces, have them lowercased, and so on. This can usually be done with the data regardless of the language—you should have the same tokenization
+on the basis of whitespaces for English, German, and Polish (that doesn't apply to Chinese though). However, what if you want to find documents that contain
+words like cat and cats by only sending the cat word to ElasticSearch? This is where language analysis comes into play with stemming algorithms for
+different languages, which allow reducing the analyzed words into their root forms.
 
+And now the worst part—we can't use one general stemming algorithm for all the languages in the world; we have to choose the one appropriate for each language.
+The following chapter will help you with some parts of the language analysis process.
+
+
+How to handle multiple languages
+
+There are a few ways of handling multiple languages in ElasticSearch and all of them have some pros and cons. We won't be discussing everything, but just
+for the purpose of giving you an idea, some of those ways are as follows:
+
+  Storing documents in different languages as different types
+  Storing documents in different languages in separate indices
+  Storing different versions of fields in a single document so that they contain different languages
+  
+However, we will focus on a single method that allows us to store documents in different languages in a single index (with some slight modifications).
+We will focus on a problem where we have a single type of documents, but they may come from all over the world and thus be written in multiple languages.
+Also we would like to enable our users to use all the analysis capabilities, like stemming and stop words for different languages, not only for English.
+
+
+Detecting a document's language
+
+If you don't know the language of your documents and queries (and this is mostly the case), you can use software for language detection that can detect
+(with some probability) the language of your documents and queries. If you use Java, you can use one of the few available language detection libraries.
+Some of them are as follows:
+  Apache Tika (http://tika.apache.org/)
+  Language Detection (http://code.google.com/p/language-detection/)
+  
+Language Detection claims to have over 99 percent precision for 53 languages, so that's a lot if you ask me.
+
+You should remember, though, that for longer text, data language detection will be more precise. Because of that, you'll probably have your document's language
+identified correctly. However, because the text of queries is usually short, you'll probably have some degree of errors during query language identification.
+
+
+Sample document
+
+Let's start with introducing a sample document, which would be as follows:
+
+{
+  "title" : "First test document",
+  "content" : "This is a test document",
+  "lang" : "english"
+}
+
+As you can see, the document is pretty simple; it contains three fields:
+  title: Holds the title of the document
+  content: Holds the actual content of the document
+  lang: The language identified
+  
+The first two fields are created from our user's documents and the third one is the language our hypothetical user has chosen when he/she uploaded the document.
+In order to inform ElasticSearch which analyzer is to be used, we map the lang field to one of the analyzers that exist in ElasticSearch (full list of these
+analyzers can be found at http://www.elasticsearch.org/guide/reference/index-modules/analysis/lang-analyzer.html) and if the user enters a language that is
+not supported, we don't specify the lang field at all, so that ElasticSearch uses the default analyzer.
+
+
+Mappings
+
+So now, let's look at the mappings created for holding the preceding documents (we stored them in mappings.json):
+{
+  "mappings" : {
+    "doc" : {
+      "_analyzer" : {
+        "path" : "lang"
+      },
+      "properties" : {
+        "title" : {
+          "type" : "multi_field",
+          "fields" : {
+            "title" : {
+              "type" : "string",
+              "index" : "analyzed",
+              "store" : "no"
+            },
+            "default" : {
+              "type" : "string",
+              "index" : "analyzed",
+              "store" : "no",
+              "analyzer" : "simple"
+            }
+          }
+        },
+        "content" : {
+          "type" : "multi_field",
+          "fields" : {
+            "content" : {
+              "type" : "string",
+              "index" : "analyzed",
+              "store" : "no"
+            },
+            "default" : {
+              "type" : "string",
+              "index" : "analyzed",
+              "store" : "no",
+              "analyzer" : "simple"
+            }
+          }
+        },
+        "lang" : {
+          "type" : "string",
+          "index" : "not_analyzed",
+          "store" : "yes"
+        }
+      }
+    }
+  }
+}
+
+In the preceding mappings, the things we are most interested in are the analyzer definition and the title and description fields (if you are not familiar
+with any parts of mappings, please refer to Chapter 1, Getting Started with ElasticSearch and Chapter 3, Extending Your Structure and Search).
+We want the analyzer to be based on the lang field. Because of that, we need to add a value in the lang field that is equal to one of the names of the
+analyzers known to ElasticSearch (the default one or another one defined by us).
+
+Now come the definitions of two fields that hold the actual data. As you can see, we've used the multi field definition in order to index the title and
+description fields. The first one of the multi fields is indexed with the analyzer specified by the lang field (because we didn't specify the exact analyzer
+name, so the one defined globally will be used). We will use that field when we know in which language the query is specified.
+The second of the multi-fields uses a simple analyzer and will be used for searching when a query language is unknown. However, the simple analyzer is only
+an example and you can also use a standard analyzer or any other of your choice.
+
+In order to create the docs index with the preceding mappings, we used the following command:
+
+curl -XPUT 'localhost:9200/docs' -d @mappings.json
+
+
+Querying
+
+Now let's see how we can query our data. We can divide the querying situation into two different cases.
+
+
+Queries with a known language

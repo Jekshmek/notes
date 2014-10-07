@@ -3,36 +3,36 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_document_oriented.html
+
+http://artyom.me/lens-over-tea-1
+  Monads to the rescue!
 
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 151..161...234 (Ch 4 of 8)
+Kuc - ElasticSearch Server                - 153..161...234 (Ch 4 of 8)
 Tema Childhood                            - 81..228
 
 Articles:
 PloegKiselyov-Reflection without Remorse  - 5.3
 
 Video:
-Mitasch-LXCBestPractices                  -  16:00
+https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Solonitsin                                -  29:00
-Spiridonov                                -  09:00
 Markov                                    -  06:00
-Kopelyan                                  -  07:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 122
-https://www.fpcomplete.com/recent-content - 23 Sep
-http://habrahabr.ru/hub/linux/page180/     (..240)
+https://www.fpcomplete.com/recent-content - 7 Oct
+http://habrahabr.ru/hub/linux/page190/     (..240)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
