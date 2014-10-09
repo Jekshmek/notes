@@ -1,6 +1,8 @@
 JAVA API:
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index.html
 
+http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/client.html
+
 
 REST API:
 

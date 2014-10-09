@@ -3,20 +3,22 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_document_oriented.html
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
+
+http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://artyom.me/lens-over-tea-1
-  Monads to the rescue!
+  Setter is Getter
 
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 153..161...234 (Ch 4 of 8)
-Tema Childhood                            - 81..228
+Kuc - ElasticSearch Server                - 157..161...234 (Ch 4 of 8)
+Tema Childhood                            - 105..228
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 5.3
+PloegKiselyov-Reflection without Remorse  - 6.2
 
 Video:
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00

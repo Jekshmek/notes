@@ -951,3 +951,235 @@ Now let's see how we can query our data. We can divide the querying situation in
 
 
 Queries with a known language
+
+Let's assume we identified that our user has sent a query written in English and we know that English matches the english analyzer. In such a case,
+our query could be as follows:
+
+curl -XGET 'localhost:9200/docs/_search?pretty=true ' -d '{
+  "query" : {
+    "match" : {
+      "content" : {
+        "query" : "documents",
+        "analyzer" : "english"
+      }
+    }
+  }
+}'
+
+Notice the analyzer parameter, which indicates which analyzer we need to use. We set that parameter to the name of the analyzer corresponding with the
+identified language. Notice that the term we are searching for is "documents", while the term in the document is document, but the english analyzer should
+take care of it and find that document:
+
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.19178301,
+    "hits" : [ {
+      "_index" : "docs",
+      "_type" : "doc",
+      "_id" : "1",
+      "_score" : 0.19178301
+    } ]
+  }
+}
+
+As you can see, that document was found.
+
+
+Queries with an unknown language
+
+Now let's assume that we don't know the language with which the user is sending the query. In this case, we can't use the field analyzed with the analyzer
+specified by our lang field, because we don't want to analyze the query with an analyzer that is language-specific. In that case, we will use our standard
+simple analyzer and we will send the query to the "contents.default" field instead of content.
+
+The query could be as follows:
+
+curl -XGET 'localhost:9200/docs/_search?pretty=true ' -d '{
+  "query" : {
+    "match" : {
+      "content.default" : {
+        "query" : "documents",
+        "analyzer" : "simple"
+      }
+    }
+  }
+}'
+
+However, we didn't get any results this time, because the simple analyzer can't deal in searching with a singular form of a word when we are searching
+with a plural form.
+
+
+Combining queries
+
+To additionally boost the documents that perfectly match our default analyzer, we can combine the two preceding queries with the bool query, so that
+they look like the following:
+
+curl -XGET 'localhost:9200/docs/_search?pretty=true ' -d '{
+  "query" : {
+    "bool" : {
+      "minimum_number_should_match" : 1,
+      "should" : [
+        {
+          "match" : {
+            "content" : {
+              "query" : "documents",
+              "analyzer" : "english"
+            }
+          }
+        },
+        {
+          "match" : {
+            "content.default" : {
+              "query" : "documents",
+              "analyzer" : "simple"
+            }
+          }
+        }
+      ]
+    }
+  }
+}'
+
+At least one of those queries must match, and if both match, the document will have a higher value for the results.
+
+There is one additional advantage to the preceding combined query—if our language analyzer won't find a document (for example, when the analysis
+is different from the one used during indexing), the second query has a chance to find the terms that are tokenized only by whitespace characters
+and lowercased.
+
+
+Using span queries
+
+ElasticSearch leverages the Lucene span queries, which basically allow us to create queries that match when some tokens or phrases are placed near other
+tokens or phrases. When using the standard non-span queries, we are not able to make queries that are position aware—to some extent phrase queries allow
+that, but only to some extent.
+
+There are five span queries exposed in ElasticSearch:
+
+  Span term query
+  Span first query
+  Span near query
+  Span or query
+  Span not query
+  
+Before we continue with the description, let us index a new document that we will be using in order to show how span queries work. To do that, we send
+the following command to ElasticSearch:
+
+curl -XPOST 'localhost:9200/library/book/5' -d '{
+  "title" : "Test book",
+  "author" : "Test author",
+  "description" : "The world breaks everyone, and afterward, 
+  some are strong at the broken places"
+}'
+
+As you can see, we used ElasticSearch's ability to update our index structure automatically and we've added the description field. We did that to have
+a field that has more content than a book's title usually has.
+
+
+What is a span?
+
+A span, in our context, is a starting and ending token position in a field. For example, in our case, "world breaks everyone" can be a single span,
+"world" can be a single span too. As you may know, during analysis, Lucene, in addition to token, includes some additional parameters—such as distance
+from the previous token. Position information combined with terms allows us to construct spans, using the ElasticSearch span queries
+(which are mapped to Lucene span queries). In the next few sections, we will learn how to construct spans by using different span queries and how
+to control which documents are matched.
+
+
+Span term query
+
+A span term query is a query similar to the already-discussed term query. On its own, it works just like the mentioned term query—it matches a term.
+Its definition is simple and looks as follows (I omitted some parts of the query on purpose, because we will discuss it in a few lines of text):
+
+{
+  "query" : {
+    ...
+    {
+      "span_term" : {
+        "description" : {
+          "value" : "world",
+          "boost" : 5.0
+        }
+      }
+    }
+  }
+}
+
+As you can see, this query is very similar to a term query. The preceding query is run against the description field and we want to have the documents
+that have the world term returned. We also specified a boost, which is also allowed. Of course, similar to a term query, we can use a simplified version
+if we don't want to use boosts:
+
+{
+  "query" : {
+    ...
+    {
+      "span_term" : {
+        "description" : "world"
+      }
+    }
+  }
+}
+
+
+Span first query
+
+The span first query allows matching only documents that have matched in the first positions of the field. In order to define a span first query, we need
+to nest any other span queries inside it, for example, a span term query that we already know. So, let's find documents that have the term world in the first
+two positions in the description field. We do that by sending the following query:
+
+{
+  "query" : {
+    "span_first" : {
+      "match" : {
+        "span_term" : { "description" : "world" }
+      },
+      "end" : 2
+    }
+  }
+}
+
+In the results, we will get our document that we indexed at the beginning of this chapter. In the match section of the span first query, we should include
+at least a single span query that should be matched at the maximum position specified by the end parameter.
+
+So, if we understand everything well and if we set the end parameter to 1, we will not get our document with the preceding query. So let's check it
+by sending the following query:
+
+{
+  "query" : {
+    "span_first" : {
+      "match" : {
+        "span_term" : { "description" : "world" }
+      },
+      "end" : 1
+    }
+  }    
+}
+
+The response to the preceding query will be as follows:
+
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 0,
+    "max_score" : null,
+    "hits" : [ ]
+  }
+}
+
+So it's working as expected, hurrah!
+
+
+Span near query
+
+
