@@ -3,6 +3,13 @@ http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/inde
 
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/client.html
 
+CAT API:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cat.html
+
+http://www.noustuff.com/elasticsearch_in_production.slide#17
+hot_threads.
+http://aphyr.com/posts/317-call-me-maybe-elasticsearch
+
 
 REST API:
 

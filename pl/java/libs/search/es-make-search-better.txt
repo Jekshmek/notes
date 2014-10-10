@@ -1182,4 +1182,133 @@ So it's working as expected, hurrah!
 
 Span near query
 
+The span near query allows us to match documents that have other spans near each other and this is also a compound query that wraps other span queries.
+For example, if we want to find documents that have the term "world" near the term "everyone", we can run the following query:
+
+{
+  "query" : {
+    "span_near" : {
+      "clauses" : [
+        { "span_term" : { "description" : "world" } },
+        { "span_term" : { "description" : "everyone" } }
+      ],
+      "slop" : 0,
+      "in_order" : true
+    }
+  }
+}
+
+As you can see, we specified our queries in the "clauses" section of the span near query. It is an array of other span queries. The "slop" parameter
+specified in the preceding query is similar to the one used in the phrase queries—it allows us to control the number of allowed terms between spans.
+The "in_order" parameter can be used to limit the matches only to those documents that match our queries in the same order they were defined, so in our case,
+we will get documents that have "world everyone", but not "everyone world" in the description field.
+
+So let's get back to our query—that will return 0 results. If you look at our example document, you will notice that between the terms "world" and "everyone",
+an additional term is present. We have set the "slop" parameter to 0 (slop was discussed during description of the phrase query in Chapter 2,
+Searching Your Data). If we increase it to 1, we will get our result. To test it, let's send the following query:
+
+{
+  "query" : {
+    "span_near" : {
+      "clauses" : [
+        { "span_term" : { "description" : "world" } },
+        { "span_term" : { "description" : "everyone" } }
+      ],
+      "slop" : 1,
+      "in_order" : true
+    }
+  }
+}
+
+And the results returned by ElasticSearch are as follows:
+{
+  "took" : 4,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0,
+
+},
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.095891505,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "5",
+      "_score" : 0.095891505, "_source" : {"title" : "Test book", 
+      "author" : "Test author","description" : 
+      "The world breaks everyone, and afterward, 
+      some are strong at the broken places" }
+    } ]
+  }
+}
+
+As you can see, it works!
+
+
+Span or query
+
+The span or query allows us to wrap other span queries and aggregate matches of all those that we've wrapped—it makes a union of span queries. This also uses
+the "clauses" array to specify other span queries for which matches should be aggregated.
+
+For example, if we want to get the documents that have the "world" term in the first two positions of the description field or the ones that have the term
+"world" not further than a single position from the term everyone, we will send the following query:
+
+{
+  "query" : {
+    "span_or" : {
+      "clauses" : [
+        {
+          "span_first" : {
+            "match" : {
+              "span_term" : { "description" : "world" }
+            },
+            "end" : 2
+          }
+        },
+        {
+          "span_near" : {
+            "clauses" : [
+               { "span_term" : { "description" : "world" } },
+               { "span_term" : { "description" : "everyone" } }
+            ],
+            "slop" : 1,
+            "in_order" : true
+          }
+        }
+      ]
+    }
+  }
+}
+
+The result of the preceding query should be our example document that we indexed at the beginning:
+
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 1,
+    "max_score" : 0.16608895,
+    "hits" : [ {
+      "_index" : "library",
+      "_type" : "book",
+      "_id" : "5",
+      "_score" : 0.16608895, "_source" : {"title" : "Test book", 
+      "author" : "Test author","description" : 
+      "The world breaks everyone, and afterward, 
+      some are strong at the broken places" }
+    } ]
+  }
+}
+
+
+Span not query
+
 

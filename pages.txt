@@ -8,17 +8,19 @@ http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://artyom.me/lens-over-tea-1
-  Setter is Getter
+  What if I don't need any functors?
+
+http://lib.ru/RUSSLIT/GARIN/detstvo.txt
+  VII
 
 :h
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 157..161...234 (Ch 4 of 8)
-Tema Childhood                            - 105..228
+Kuc - ElasticSearch Server                - 159..161...234 (Ch 4 of 8)
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 6.2
+PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
@@ -32,7 +34,7 @@ Markov                                    -  06:00
 Audio:
 
 Tracking:
-http://accu.org/index.php/journals/c78/   - 122
+http://accu.org/index.php/journals/c78/   - 123
 https://www.fpcomplete.com/recent-content - 7 Oct
 http://habrahabr.ru/hub/linux/page190/     (..240)
 
