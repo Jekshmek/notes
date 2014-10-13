@@ -17,12 +17,15 @@ http://lib.ru/RUSSLIT/GARIN/detstvo.txt
   vimproc-functions
 
 Books:
-Kuc - ElasticSearch Server                - 159..161...234 (Ch 4 of 8)
+Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
+Jones - Safe Zero Cost Coercions in Haskel-  12:00
+Gibbons - Categories for the working Hask -  23:00 
+Weirich - Depending on Types              -  06:00
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00

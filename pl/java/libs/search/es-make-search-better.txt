@@ -1311,4 +1311,58 @@ The result of the preceding query should be our example document that we indexed
 
 Span not query
 
+The last type of span queries, the span not query, allows us to specify two sections of queries.
+The first is the "include" section, which specifies which span queries should be matched and the second section, "exclude", specifies span queries that shouldn't overlap with the first ones.
+
+To keep it simple, if a query from the exclude section matches the same span (or a part of it) as a query from the include section, such a document won't be returned as a match for that
+span not query. Each of those sections can contain multiple span queries.
+
+So to illustrate that query, let's create a query that will return all the documents that have the span constructed from a single term "breaks" in the "description" field. And let's exclude
+the documents that have a span that matches the "world" and "everyone" terms that are at a maximum of a single position from each other, when such a span overlaps the one defined
+in the first span query.
+
+{
+  "query" : {
+    "span_not" : {
+      "include" : {
+        "span_term" : { "description" : "breaks" }
+      },
+      "exclude" : {
+        "span_near" : {
+            "clauses" : [
+              { "span_term" : { "description" : "world" } },
+              { "span_term" : { "description" : "everyone" } }
+            ],
+            "slop" : 1
+        }
+      }
+    }
+  }
+}
+
+And the result is as follows:
+
+{
+  "took" : 1,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 0,
+    "max_score" : null,
+    "hits" : [ ]
+  }
+}
+
+As you may have noticed, the result of the query is as we had expected—our document wasn't found because the span query from the "exclude" section was overlapping the span
+from the "include" section.
+
+
+Performance considerations
+
+A few words at the end of the discussion about span queries—remember that they are more costly when it comes to processing power, because not only do terms have to be matched,
+but also positions have to be calculated and checked.
 

@@ -4,3 +4,4 @@ es-routing
 es-searching
 es-ext-struct-search
 es-make-search-better
+es-combine-index-analysis-search

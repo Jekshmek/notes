@@ -1,3 +1,44 @@
+??? Can we manage our indices per time frame (month) ???
+
+
+!!! Routing can change hash/shard pointing
+
+
+Terminology:
+
+shards -> primary, replica
+  http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_scale_horizontally.html (number_of_replicas)
+cluster -> tribe
+node -> master, data
+  
+??? _id, _version
+
+
+
+Docs:
+
+https://speakerdeck.com/kimchy/elasticsearch-big-data-search-analytics
+https://www.youtube.com/watch?v=lpZ6ZajygDY
+
+http://exploringelasticsearch.com/overview.html
+
+https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
+https://www.found.no/foundation/elasticsearch-in-production/
+https://www.found.no/foundation/sizing-elasticsearch/
+
+
+http://www.slideshare.net/clintongormley/scaling-realtime-search-and-analytics-with-elasticsearch
+http://www.slideshare.net/clintongormley/down-and-dirty-with-elasticsearch
+http://www.slideshare.net/sematext/scaling-massive-elasticsearch-clusters
+
+http://www.slideshare.net/foundsearch/elasticsearch-in-production-london-version
+
+
+Tips:
+
+https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
+
+
 JAVA API:
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index.html
 
@@ -36,7 +77,105 @@ curl -XGET "http://epbygomw0024:9200/_cluster/health?pretty"
   "unassigned_shards" : 10
 }
 
+!! Snapshots/Restore:
+
+https://github.com/jprante/elasticsearch-knapsack
+http://stackoverflow.com/questions/25144034/how-to-copy-some-elasticsearch-data-to-a-new-index
+
+http://www.elasticsearch.org/blog/introducing-snapshot-restore/
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-snapshots.html
+http://stackoverflow.com/questions/12835937/elasticsearch-hot-backup-strategies/
+
+
+The index snapshot process is incremental. In the process of making the index snapshot Elasticsearch analyses the list of the index files that are already stored in the repositoryand copies only files that were created or changed since the last snapshot. That allows multiple snapshots to be preserved in the repository in a compact form. Snapshotting process is executed
+in non-blocking fashion. All indexing and searching operation can continue to be executed against the index that is being snapshotted.
+However, a snapshot represents the point-in-time view of the index at the moment when snapshot was created, so no records that were added to the index after snapshot process had started
+will be present in the snapshot. The snapshot process starts immediately for the primary shards that has been started and are not relocating at the moment.
+Elasticsearch waits for relocation or initialization of shards to complete before snapshotting them.
+
+...
+
+Only one snapshot process can be executed in the cluster at any time. While snapshot of a particular shard is being created this shard cannot be moved to another node, which can interfere
+with rebalancing process and allocation filtering. Once snapshot of the shard is finished Elasticsearch will be able to move shard to another node
+according to the current allocation filtering settings and rebalancing algorithm.
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-upgrade.html
+
+
+scan and scroll:
+
+https://github.com/taskrabbit/elasticsearch-dump
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scan-scroll.html
+
+
+index scaleability:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scale.html
+
+https://gibrown.wordpress.com/2014/01/09/scaling-elasticsearch-part-1-overview/
+https://gibrown.wordpress.com/2014/02/06/scaling-elasticsearch-part-2-indexing/
+https://gibrown.wordpress.com/2014/08/12/scaling-elasticsearch-part-3-queries/
+
+
+index settings:
 
 Create index with mappings
 curl -XPUT 'localhost:9200/docs' -d @mappings.json
 
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-update-settings.html
+
+curl -XPOST 'http://localhost:9200/test/_optimize?max_num_segments=5'
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
+
++ masternode (link by multi/uni cast)
+
+http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
+http://stackoverflow.com/questions/22304776/how-to-scale-write-and-indexs-size-dynamically-with-elasticsearch
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-merge.html
+
+
+reindexing:
+
+???
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/reindex.html
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/overallocation.html
+
+
+rerouting:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-reroute.html
+http://stackoverflow.com/questions/25135869/how-to-rebalance-shard-elasticsearch
+
+
+shard placement control:
+
+http://blog.sematext.com/2012/05/29/elasticsearch-shard-placement-control/
+
+
+multiple indices:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/multiple-indices.html
+
+
+index aliases:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
+
+
+index templates:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-templates.html
+
+retire data:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/retiring-data.html
+
+
+Done Browsing:
+
+[so, yt] [es] +snapshot
+[go] elasticsearch index copy
+     scale elasticsearch index
