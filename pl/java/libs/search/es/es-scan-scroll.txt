@@ -1,0 +1,9 @@
+scan and scroll:
+
+https://github.com/taskrabbit/elasticsearch-dump
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scan-scroll.html
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-request-scroll.html
+
+src\main\java\org\elasticsearch\action\search\SearchRequestBuilder.java 
+

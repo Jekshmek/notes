@@ -8,7 +8,7 @@ http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://artyom.me/lens-over-tea-1
-  What if I don't need any functors?
+  Recap
 
 http://lib.ru/RUSSLIT/GARIN/detstvo.txt
   VII

@@ -1,5 +1,12 @@
 ??? Can we manage our indices per time frame (month) ???
 
+??? Kickstarter sample at 2013:
+https://www.kickstarter.com/backing-and-hacking/elasticsearch-at-kickstarter
+
+??? rerouting/move/allocate impl
+??? translog impl
+  http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-update-settings.html
+
 
 !!! Routing can change hash/shard pointing
 
@@ -11,9 +18,14 @@ shards -> primary, replica
 cluster -> tribe
 node -> master, data
   
-??? _id, _version
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/root-object.html
+_id     The string ID of the document.
+_type   The type name of the document.
+_index  The index where the document lives.
+_uid    The _type and _id concatenated together as "type#id"
 
-
+config:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-configuration.html
 
 Docs:
 
@@ -25,6 +37,7 @@ http://exploringelasticsearch.com/overview.html
 https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
 https://www.found.no/foundation/elasticsearch-in-production/
 https://www.found.no/foundation/sizing-elasticsearch/
+https://www.found.no/foundation/elasticsearch-snapshot-and-restore/
 
 
 http://www.slideshare.net/clintongormley/scaling-realtime-search-and-analytics-with-elasticsearch
@@ -101,12 +114,14 @@ according to the current allocation filtering settings and rebalancing algorithm
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-upgrade.html
 
+https://github.com/elasticsearch/elasticsearch/blob/master/src/main/java/org/elasticsearch/snapshots/RestoreService.java:
 
-scan and scroll:
+    // Make sure that the number of shards is the same. That's the only thing that we cannot change
+    if (currentIndexMetaData.getNumberOfShards() != snapshotIndexMetaData.getNumberOfShards()) {
+        throw new SnapshotRestoreException(snapshotId, "cannot restore index [" + renamedIndex + "] with [" + currentIndexMetaData.getNumberOfShards() +
+                "] shard from snapshot with [" + snapshotIndexMetaData.getNumberOfShards() + "] shards");
+    }
 
-https://github.com/taskrabbit/elasticsearch-dump
-
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scan-scroll.html
 
 
 index scaleability:
@@ -119,6 +134,8 @@ https://gibrown.wordpress.com/2014/08/12/scaling-elasticsearch-part-3-queries/
 
 
 index settings:
+
+http://www.slideshare.net/kjunine/indices-apis-elasticsearch-reference
 
 Create index with mappings
 curl -XPUT 'localhost:9200/docs' -d @mappings.json
@@ -134,7 +151,11 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-al
 http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
 http://stackoverflow.com/questions/22304776/how-to-scale-write-and-indexs-size-dynamically-with-elasticsearch
 
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-allocation.html
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-merge.html
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-store.html
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-slowlog.html
+  !!! slow search log settings
 
 
 reindexing:
@@ -143,12 +164,29 @@ reindexing:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/reindex.html
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/overallocation.html
 
+routing:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/routing-value.html
+
 
 rerouting:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-reroute.html
 http://stackoverflow.com/questions/25135869/how-to-rebalance-shard-elasticsearch
 
+http://www.slideshare.net/kucrafal/battle-of-the-giants-round-2
+slide 44
+  "cluster.routing.allocation.exclude._ip" : "192.168.2.1"
+
+  XPUT/idxname/_settings/
+  "index.routing.allocation.include.tag" : "nodeOne,nodeTwo"
+
+  Moving Shards and ReplicasMove shards between nodes on demand
+  XPOST/_cluster/reroute -d
+  {"commands" : [
+    {"move" : {"index" : "sematext", "shard" : 0, "from_node" : "node1","to_node" : "node2"}},
+    {"allocate" : {"index" : "sematext", "shard" : 1, "node" : "node3"}}
+  ]}  
 
 shard placement control:
 
@@ -169,9 +207,29 @@ index templates:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-templates.html
 
+
 retire data:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/retiring-data.html
+
+
+cluster stuff:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-cluster.html
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-update-settings.html
+(zones)
+
+
+Tools/Plugins:
+
+https://github.com/mallocator/Elasticsearch-Exporter
+https://github.com/jprante/elasticsearch-knapsack
+https://github.com/taskrabbit/elasticsearch-dump
+
+
+src:
+
+elasticsearch\src\main\java\org\elasticsearch\transport\ActionNames.java 
 
 
 Done Browsing:
