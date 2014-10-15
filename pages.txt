@@ -18,12 +18,13 @@ http://lib.ru/RUSSLIT/GARIN/detstvo.txt
 
 Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
+The Docker Book                           - 23
 
 Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
-Jones - Safe Zero Cost Coercions in Haskel-  12:00
+Jones - Safe Zero Cost Coercions in Haskel-  35:00
 Gibbons - Categories for the working Hask -  23:00 
 Weirich - Depending on Types              -  06:00
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
