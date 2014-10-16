@@ -2,14 +2,7 @@ https://github.com/lukas-vlcek/bigdesk
 https://github.com/jprante/elasticsearch-knapsack
 https://github.com/taskrabbit/elasticsearch-dump
 
-http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
 
-PluginsService.java - IndexService
-
-
-
-
-/cmp/transformers/Classification/src/com/clarabridge/transformer/indexing/pipe/ElasticSearchIndexer.java
 
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-timestamp-field.html

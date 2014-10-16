@@ -1,0 +1,15 @@
+http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
+http://spinscale.github.io/elasticsearch-intro-plugins/#/22
+https://www.found.no/foundation/writing-a-plugin/
+
+PluginsModule
+PluginsService.java - IndexService
+
+Tools/Plugins:
+
+https://github.com/karussell/elasticsearch-reindex
+
+https://github.com/mallocator/Elasticsearch-Exporter
+https://github.com/jprante/elasticsearch-knapsack
+https://github.com/taskrabbit/elasticsearch-dump
+

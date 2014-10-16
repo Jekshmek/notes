@@ -144,7 +144,6 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-up
 
 curl -XPOST 'http://localhost:9200/test/_optimize?max_num_segments=5'
 
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
 
 + masternode (link by multi/uni cast)
 
@@ -198,11 +197,6 @@ multiple indices:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/multiple-indices.html
 
 
-index aliases:
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-aliases.html
-
-
 index templates:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-templates.html
@@ -218,15 +212,6 @@ cluster stuff:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-cluster.html
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-update-settings.html
 (zones)
-
-
-Tools/Plugins:
-
-https://github.com/mallocator/Elasticsearch-Exporter
-https://github.com/jprante/elasticsearch-knapsack
-https://github.com/taskrabbit/elasticsearch-dump
-
-
 
 
 Done Browsing:

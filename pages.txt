@@ -24,9 +24,9 @@ Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
-Jones - Safe Zero Cost Coercions in Haskel-  35:00
-Gibbons - Categories for the working Hask -  23:00 
-Weirich - Depending on Types              -  06:00
+Jones - Safe Zero Cost Coercions in Haskel-  44:00
+Weirich - Depending on Types              -  21:00
+OCharles - Strongly Typed PubSub over Web -  06:00 
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
