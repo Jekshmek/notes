@@ -121,8 +121,8 @@ node.NodeBuilder
 
 
 REST registries:
-transport\ActionNames.java
-ActionModule.java
+transport.ActionNames
+ActionModule
 
 rest.action.RestActionModule
 
@@ -136,7 +136,7 @@ rest.action.RestActionModule
         ...
     }
 
-  Rest...Action.java
+  Rest...Action
   
 
 rest.action.admin.cluster.snapshots.status.RestActionModule
@@ -183,10 +183,10 @@ public interface Module {
 }
 
 
-common\inject\AbstractModule.java
+common.inject.AbstractModule
   bind...
 
-<- rest\RestModule.java 
+<- rest.RestModule
   class RestModule extends AbstractModule {
     ...
     @Override
@@ -196,7 +196,7 @@ common\inject\AbstractModule.java
     }
   }
 
-<- (see above) node\internal\InternalNode.java
+<- (see above) node.internal.InternalNode
   c-tor {
     ModulesBuilder modules = new ModulesBuilder();
     ...
@@ -267,7 +267,7 @@ org.elasticsearch.common.inject.util.Modules
 
 
 
-AbstractClient.java
+AbstractClient
 
 
 !!!

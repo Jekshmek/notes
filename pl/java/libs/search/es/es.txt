@@ -37,7 +37,6 @@ http://exploringelasticsearch.com/overview.html
 https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
 https://www.found.no/foundation/elasticsearch-in-production/
 https://www.found.no/foundation/sizing-elasticsearch/
-https://www.found.no/foundation/elasticsearch-snapshot-and-restore/
 
 
 http://www.slideshare.net/clintongormley/scaling-realtime-search-and-analytics-with-elasticsearch
@@ -52,10 +51,6 @@ Tips:
 https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
 
 
-JAVA API:
-http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index.html
-
-http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/client.html
 
 CAT API:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cat.html
@@ -65,17 +60,17 @@ hot_threads.
 http://aphyr.com/posts/317-call-me-maybe-elasticsearch
 
 
-REST API:
+Cluster stuff:
 
-curl -XPOST 'http://localhost:9200/_shutdown'
+XPOST/_shutdown
+  shutdown the cluster
 
-
-curl -XGET "http://epbygomw0024:9200/?pretty"
+XGET/?pretty
   ES info
 
-curl -XGET "http://epbygomw0024:9200/_nodes?jvm=true&pretty"
+XGET/_nodes?jvm=true&pretty
 
-curl -XGET "http://epbygomw0024:9200/_cluster/health?pretty"
+XGET/_cluster/health?pretty
 
 {
   "cluster_name" : "epbygomw0024-5432-postgres-win_ss",
@@ -89,39 +84,6 @@ curl -XGET "http://epbygomw0024:9200/_cluster/health?pretty"
   "initializing_shards" : 0,
   "unassigned_shards" : 10
 }
-
-!! Snapshots/Restore:
-
-https://github.com/jprante/elasticsearch-knapsack
-http://stackoverflow.com/questions/25144034/how-to-copy-some-elasticsearch-data-to-a-new-index
-
-http://www.elasticsearch.org/blog/introducing-snapshot-restore/
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-snapshots.html
-http://stackoverflow.com/questions/12835937/elasticsearch-hot-backup-strategies/
-
-
-The index snapshot process is incremental. In the process of making the index snapshot Elasticsearch analyses the list of the index files that are already stored in the repositoryand copies only files that were created or changed since the last snapshot. That allows multiple snapshots to be preserved in the repository in a compact form. Snapshotting process is executed
-in non-blocking fashion. All indexing and searching operation can continue to be executed against the index that is being snapshotted.
-However, a snapshot represents the point-in-time view of the index at the moment when snapshot was created, so no records that were added to the index after snapshot process had started
-will be present in the snapshot. The snapshot process starts immediately for the primary shards that has been started and are not relocating at the moment.
-Elasticsearch waits for relocation or initialization of shards to complete before snapshotting them.
-
-...
-
-Only one snapshot process can be executed in the cluster at any time. While snapshot of a particular shard is being created this shard cannot be moved to another node, which can interfere
-with rebalancing process and allocation filtering. Once snapshot of the shard is finished Elasticsearch will be able to move shard to another node
-according to the current allocation filtering settings and rebalancing algorithm.
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-upgrade.html
-
-https://github.com/elasticsearch/elasticsearch/blob/master/src/main/java/org/elasticsearch/snapshots/RestoreService.java:
-
-    // Make sure that the number of shards is the same. That's the only thing that we cannot change
-    if (currentIndexMetaData.getNumberOfShards() != snapshotIndexMetaData.getNumberOfShards()) {
-        throw new SnapshotRestoreException(snapshotId, "cannot restore index [" + renamedIndex + "] with [" + currentIndexMetaData.getNumberOfShards() +
-                "] shard from snapshot with [" + snapshotIndexMetaData.getNumberOfShards() + "] shards");
-    }
-
 
 
 index scaleability:
@@ -216,6 +178,5 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-up
 
 Done Browsing:
 
-[so, yt] [es] +snapshot
 [go] elasticsearch index copy
      scale elasticsearch index

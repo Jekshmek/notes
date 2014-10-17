@@ -25,3 +25,18 @@ RecordWildcards      - http://www.haskell.org/ghc/docs/latest/html/users_guide/s
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
 
+
+ConstraintKinds:
+http://www.reddit.com/r/haskell/comments/2jg4y5/hiding_liftio/
+
+That's the reason why recently started to write code like this:
+
+foo :: (Applicative m, Functor m, MonadState Foo m, MonadReader Bar m, MonadIO m, etc.) => m ()
+
+With ConstraintKinds I can even use a convenient type alias for this:
+
+type App m = (Applicative m, Functor m, MonadState Foo m, MonadReader Bar m, MonadIO m, etc.)
+foo :: App m => m ()
+
+However, I'm wondering if this is idiomatic. Or if there are any downsides.
+
