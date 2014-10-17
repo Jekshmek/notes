@@ -1,0 +1,22 @@
+update settings (realtime):
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-update-settings.html
+
+index.blocks.read_only
+    Set to true to have the index read only, false to allow writes and metadata changes. 
+index.blocks.read
+    Set to true to disable read operations against the index. 
+index.blocks.write
+    Set to true to disable write operations against the index. 
+index.blocks.metadata
+    Set to true to disable metadata operations against the index. 
+
+XPUT/my_index/_settings' -d '
+{ "index" : {
+   "blocks.read_only" : true
+} }
+
+
+assertTrue(client.admin().indices().prepareUpdateSettings(indexName)
+    .setSettings(settingsBuilder().put(IndexMetaData.SETTING_READ_ONLY, true))
+    .get().isAcknowledged());
