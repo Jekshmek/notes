@@ -20,3 +20,9 @@ XPUT/my_index/_settings' -d '
 assertTrue(client.admin().indices().prepareUpdateSettings(indexName)
     .setSettings(settingsBuilder().put(IndexMetaData.SETTING_READ_ONLY, true))
     .get().isAcknowledged());
+
+
+field data cache:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/master/index-modules-fielddata.html
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/fielddata-formats.html

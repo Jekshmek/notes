@@ -7,7 +7,7 @@ http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://artyom.me/lens-over-tea-1
-  Difference lists
+  each = every element
 
 http://lib.ru/RUSSLIT/GARIN/detstvo.txt
   VII
@@ -17,13 +17,12 @@ http://lib.ru/RUSSLIT/GARIN/detstvo.txt
 
 Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
-The Docker Book                           - 34
+The Docker Book                           - 42
 
 Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
-Jones - Safe Zero Cost Coercions in Haskel-  44:00
 Weirich - Depending on Types              -  21:00
 OCharles - Strongly Typed PubSub over Web -  06:00 
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
