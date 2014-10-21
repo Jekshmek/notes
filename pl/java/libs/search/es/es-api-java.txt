@@ -45,3 +45,8 @@ action.IndicesRequest
 
 action.admin.indices.delete.DeleteIndexRequest
   extends MasterNodeOperationRequest<DeleteIndexRequest> implements IndicesRequest.Replaceable
+
+bulk indexing:
+
+http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/master/bulk.html
+

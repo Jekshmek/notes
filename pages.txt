@@ -23,8 +23,8 @@ Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
-Weirich - Depending on Types              -  21:00
-OCharles - Strongly Typed PubSub over Web -  06:00 
+OCharles - Strongly Typed PubSub over Web -  06:00
+Hesselink - REST - Building APIs Easily   -  00:00
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
