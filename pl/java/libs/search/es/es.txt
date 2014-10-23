@@ -60,32 +60,6 @@ hot_threads.
 http://aphyr.com/posts/317-call-me-maybe-elasticsearch
 
 
-Cluster stuff:
-
-XPOST/_shutdown
-  shutdown the cluster
-
-XGET/?pretty
-  ES info
-
-XGET/_nodes?jvm=true&pretty
-
-XGET/_cluster/health?pretty
-
-{
-  "cluster_name" : "epbygomw0024-5432-postgres-win_ss",
-  "status" : "yellow",
-  "timed_out" : false,
-  "number_of_nodes" : 1,
-  "number_of_data_nodes" : 1,
-  "active_primary_shards" : 10,
-  "active_shards" : 10,
-  "relocating_shards" : 0,
-  "initializing_shards" : 0,
-  "unassigned_shards" : 10
-}
-
-
 index scaleability:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scale.html
@@ -130,28 +104,6 @@ routing:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/routing-value.html
 
 
-rerouting:
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-reroute.html
-http://stackoverflow.com/questions/25135869/how-to-rebalance-shard-elasticsearch
-
-http://www.slideshare.net/kucrafal/battle-of-the-giants-round-2
-slide 44
-  "cluster.routing.allocation.exclude._ip" : "192.168.2.1"
-
-  XPUT/idxname/_settings/
-  "index.routing.allocation.include.tag" : "nodeOne,nodeTwo"
-
-  Moving Shards and ReplicasMove shards between nodes on demand
-  XPOST/_cluster/reroute -d
-  {"commands" : [
-    {"move" : {"index" : "sematext", "shard" : 0, "from_node" : "node1","to_node" : "node2"}},
-    {"allocate" : {"index" : "sematext", "shard" : 1, "node" : "node3"}}
-  ]}  
-
-shard placement control:
-
-http://blog.sematext.com/2012/05/29/elasticsearch-shard-placement-control/
 
 
 multiple indices:

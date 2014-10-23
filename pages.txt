@@ -7,7 +7,7 @@ http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://artyom.me/lens-over-tea-1
-  a~a`
+  _head, _last = first and last elements
 
 http://lib.ru/RUSSLIT/GARIN/detstvo.txt
   VII
@@ -17,7 +17,6 @@ http://lib.ru/RUSSLIT/GARIN/detstvo.txt
 
 Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
-The Docker Book                           - 49
 
 Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
@@ -31,7 +30,7 @@ Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Markov                                    -  06:00
+Gluzsky                                   -  11:00
 
 Audio:
 

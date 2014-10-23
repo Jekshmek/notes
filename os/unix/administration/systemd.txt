@@ -2,6 +2,8 @@ https://wiki.archlinux.org/index.php/systemd
 http://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/
 http://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
 
+http://habrahabr.ru/company/infobox/blog/241237/
+
 ???
 systemd.special
 

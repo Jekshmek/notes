@@ -58,6 +58,10 @@ http://hackage.haskell.org/package/xml-lens (https://github.com/fumieval/xml-len
 Pointwise Lenses:
 http://www.well-typed.com/blog/92/
 
+Prisms:
+https://www.fpcomplete.com/user/tel/lens-aeson-traversals-prisms
+
+
 http://www.reddit.com/r/haskell/comments/2413fc/idiomaticlenshs/
 http://www.reddit.com/r/haskell/comments/23uzpg/lens_is_unidiomatic_haskell/ch0v5iw
 
