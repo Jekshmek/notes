@@ -121,13 +121,6 @@ retire data:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/retiring-data.html
 
 
-cluster stuff:
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-cluster.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-update-settings.html
-(zones)
-
-
 Done Browsing:
 
 [go] elasticsearch index copy

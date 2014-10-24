@@ -6,9 +6,6 @@ URLs:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
-http://artyom.me/lens-over-tea-1
-  _head, _last = first and last elements
-
 http://lib.ru/RUSSLIT/GARIN/detstvo.txt
   VII
 
@@ -22,7 +19,7 @@ Articles:
 PloegKiselyov-Reflection without Remorse  - 6.3
 
 Video:
-OCharles - Strongly Typed PubSub over Web -  06:00
+OCharles - Strongly Typed PubSub over Web -  25:00
 Hesselink - REST - Building APIs Easily   -  00:00
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
@@ -30,14 +27,13 @@ Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Gluzsky                                   -  11:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 123
 https://www.fpcomplete.com/recent-content - 7 Oct
-http://habrahabr.ru/hub/linux/page190/     (..240)
+http://habrahabr.ru/hub/linux/page200/     (..240)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

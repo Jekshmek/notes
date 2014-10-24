@@ -19,6 +19,7 @@ Controls shard allocation for all indices, by allowing specific kinds of shard t
 
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-update-settings.html
+  (zones)
 
 Filter allocation
 
