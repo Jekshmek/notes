@@ -148,5 +148,6 @@ Optimization-Morte:
 http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html
 
 Misc:
+http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html
 http://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html
 

@@ -224,4 +224,35 @@ index.shard.service.InternalIndexShard
     }
 
 
+- i-face index.service.IndexService
+    IndexEngine engine();
+  class index.service.InternalIndexService
+
+
+  i-face index.shard.service.IndexShard
+    IndexService indexService();
+  index.shard.service.InternalIndexShard
+    Engine engine();
+    IndexService indexService();
+
+
+public class IndexModule extends AbstractModule {
+    private final Settings settings;
+    public IndexModule(Settings settings) {
+        this.settings = settings;
+    }
+    @Override
+    protected void configure() {
+        bind(IndexService.class).to(InternalIndexService.class).asEagerSingleton();
+    }
+}
+
+- i-face indices.IndicesService
+    IndexService indexService(String index);
+
+
+- i-face plugins.Plugin
+  Collection indexModules()
+  Collection indexServices()
+  .. shard..
 
