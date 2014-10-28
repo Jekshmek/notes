@@ -16,7 +16,7 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Articles:
-PloegKiselyov-Reflection without Remorse  - 6.4
+PloegKiselyov-Reflection without Remorse  - 7
 
 Video:
 OCharles - Strongly Typed PubSub over Web -  25:00
