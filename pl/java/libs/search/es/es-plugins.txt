@@ -1,5 +1,9 @@
+https://github.com/jprante/elasticsearch-simple-action-plugin/
 http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
+
 http://spinscale.github.io/elasticsearch-intro-plugins/#/22
+https://speakerdeck.com/spinscale/elasticsearch-introduction-and-plugin-development
+https://speakerdeck.com/spinscale/extending-elasticsearch
 
 https://www.found.no/foundation/writing-a-plugin/
 https://www.found.no/foundation/elasticsearch-plugin-types/
