@@ -1,0 +1,5 @@
+DiNapoli - Fun with Dependent Types in Haskell:
+http://www.alfredodinapoli.com/posts/2014-10-13-fun-with-dependent-types-in-haskell.html
+http://www.reddit.com/r/haskell/comments/2j4qke/fun_with_dependent_types_in_haskell/
+
+
