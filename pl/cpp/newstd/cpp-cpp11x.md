@@ -23,6 +23,7 @@
 * [Stroustrup - C++14 Early Thoughts] (http://www.infoq.com/presentations/c-plus-plus-14)
 * [DeLong - Cpp The Good Parts] (http://isocpp.org/blog/2014/03/c-the-good-parts-jordan-delong)
 * [DeLong - Cpp The Good Parts at InfoQ] (http://www.infoq.com/presentations/c-plus-plus-pros)
+* [Maudal - Intro to the Modern C++] (http://www.pvv.org/~oma/ModernCPP_Thales_Oct2014.pdf)
 
 ## Articles
 
