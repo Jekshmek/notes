@@ -3,11 +3,13 @@ CLB Reference Guide                       - 467..576..613..648..667..674..694
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+http://martinfowler.com/eaaDev/EventSourcing.html
+  Structuring the Event Handler Logic
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 
 http://lib.ru/RUSSLIT/GARIN/detstvo.txt
-  VII
+  X
 
 :h
   vimproc-functions
