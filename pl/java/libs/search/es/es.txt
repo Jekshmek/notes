@@ -60,45 +60,6 @@ hot_threads.
 http://aphyr.com/posts/317-call-me-maybe-elasticsearch
 
 
-index scaleability:
-
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/scale.html
-
-https://gibrown.wordpress.com/2014/01/09/scaling-elasticsearch-part-1-overview/
-https://gibrown.wordpress.com/2014/02/06/scaling-elasticsearch-part-2-indexing/
-https://gibrown.wordpress.com/2014/08/12/scaling-elasticsearch-part-3-queries/
-
-
-index settings:
-
-http://www.slideshare.net/kjunine/indices-apis-elasticsearch-reference
-
-Create index with mappings
-curl -XPUT 'localhost:9200/docs' -d @mappings.json
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-update-settings.html
-
-curl -XPOST 'http://localhost:9200/test/_optimize?max_num_segments=5'
-
-
-+ masternode (link by multi/uni cast)
-
-http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
-http://stackoverflow.com/questions/22304776/how-to-scale-write-and-indexs-size-dynamically-with-elasticsearch
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-allocation.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-merge.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-store.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-slowlog.html
-  !!! slow search log settings
-
-
-reindexing:
-
-???
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/reindex.html
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/overallocation.html
-
 routing:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/routing-value.html
