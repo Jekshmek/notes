@@ -5,6 +5,7 @@
 * Lippman - CPP Primer 5th ed (Ch 13, 16.2.6, 16.2.7)
 * Josuttis - Cpp Standard Library 2nd ed (Ch 3)
 * Stroustrup - C++ Programming Language (check our Minsk library)
+* Meyers - Effective Modern C++
 * Lischner - Exploring C++11 2nd ed
 * Deitel - C++11 for Programmers 2nd ed 
 * Prata - C++ Primer Plus 6th ed (Ch 18)
