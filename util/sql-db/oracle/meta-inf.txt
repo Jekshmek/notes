@@ -1,0 +1,2 @@
+login via specifi user and run:
+select column_name from user_tab_columns where table_name = '<your_table>';
