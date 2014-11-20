@@ -1,8 +1,6 @@
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/profunctors
-
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -15,7 +13,6 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Articles:
-Wharton - DI with Dagger2 slides          - 200
 
 Video:
 Angular                                   - 2.2
