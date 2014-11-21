@@ -29,6 +29,10 @@ http://hackage.haskell.org/packages/archive/base/latest/doc/html/GHC-Conc-Sync.h
 lifted-base:
 http://hackage.haskell.org/package/lifted-base
 
+Yuras:
+http://www.reddit.com/r/haskell/comments/2mwrrd/handling_async_exceptions_in_haskell_pushing/
+https://github.com/Yuras/io-region/wiki/Handling-%28async%29-exceptions-in-haskell:-pushing-bracket-to-the-limits
+
 
 1. catch
 
