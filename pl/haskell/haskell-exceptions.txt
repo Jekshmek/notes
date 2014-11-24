@@ -33,6 +33,8 @@ Yuras:
 http://www.reddit.com/r/haskell/comments/2mwrrd/handling_async_exceptions_in_haskell_pushing/
 https://github.com/Yuras/io-region/wiki/Handling-%28async%29-exceptions-in-haskell:-pushing-bracket-to-the-limits
 
+Lato:
+http://johnlato.blogspot.com/2014/11/exception-handling-and-cleanup.html
 
 1. catch
 

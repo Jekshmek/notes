@@ -127,6 +127,9 @@ http://www.haskellforall.com/2014/06/spreadsheet-like-programming-in-haskell.htm
 MVC-managed (!!! usefull for resource handling !!!)
 http://www.haskellforall.com/2014/08/managed-100-monad-for-managed-resources.html
 
+Streaming:
+http://www.haskellforall.com/2014/11/how-to-build-library-agnostic-streaming.html
+
 Examples:
 http://www.haskellforall.com/2012/10/parsing-chemical-substructures.html
 http://www.haskellforall.com/2012/01/haskell-for-c-programmers-for-loops.html
