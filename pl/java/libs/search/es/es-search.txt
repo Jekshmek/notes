@@ -1,5 +1,7 @@
 https://www.found.no/foundation/elasticsearch-fields/
 
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-queries.html
+
 field data fields:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-request-fielddata-fields.html
 

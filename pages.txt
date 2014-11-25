@@ -15,7 +15,11 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Articles:
 
 Video:
-Angular                                   - 2.2
+Subramanian                               -  15:00 (of 1:15:00)
+Monad Transformers                        -  09:00 (of 1:48:33)
+  https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
+Angular                                   - 2.3
+Jade                                      - 1.2 - 06:00
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
