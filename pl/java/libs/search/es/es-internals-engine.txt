@@ -1,0 +1,13 @@
+src/test/java
+org.elasticsearch.index.engine.internal.InternalEngineTests
+
+org.elasticsearch.test:
+
+ElasticsearchTestCase
+  formatThreadStacks
+
+ElasticsearchIntegrationTest
+  creates TestCluster INSTANCE
+
+InternalTestCluster extends TestCluster
+

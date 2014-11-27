@@ -1,4 +1,5 @@
 https://www.found.no/foundation/java-clients-for-elasticsearch/
+http://en.kodcu.com/2013/09/elasticsearch-java-api-2/
 
 JAVA API:
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index.html
