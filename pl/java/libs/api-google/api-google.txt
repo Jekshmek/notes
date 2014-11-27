@@ -18,3 +18,5 @@ https://developers.google.com/drive/web/about-auth
 https://developers.google.com/accounts/docs/OAuth2
 https://developers.google.com/+/features/sign-in
 
+ratpack-oauth:
+https://github.com/uris77/ratpack-oauth-example

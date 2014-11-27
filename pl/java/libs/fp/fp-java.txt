@@ -20,6 +20,8 @@ https://github.com/Netflix/RxJava/wiki
   zip, filter, map, mapMany, merge, concat
   Eledge-RxJava\02. Observable Creation, Composition, and Filtering\02_08-Filtering.mp4
 
+6. Java8-based Ratpack
+http://www.ratpack.io/
 
 Netflix-Histrix (http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
 

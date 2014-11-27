@@ -15,7 +15,6 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Articles:
 
 Video:
-Subramanian                               -  45:00 (of 1:15:00)
 Monad Transformers                        -  09:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Angular                                   - 3.1
