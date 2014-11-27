@@ -13,6 +13,7 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Articles:
+RxJava                                    - Slide 65
 
 Video:
 Monad Transformers                        -  09:00 (of 1:48:33)

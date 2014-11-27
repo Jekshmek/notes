@@ -20,3 +20,6 @@ https://developers.google.com/+/features/sign-in
 
 ratpack-oauth:
 https://github.com/uris77/ratpack-oauth-example
+
++curl sample:
+https://developers.google.com/accounts/docs/OAuth2WebServer
