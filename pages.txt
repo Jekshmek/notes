@@ -34,7 +34,7 @@ Audio:
 Tracking:
 http://accu.org/index.php/journals/c78/   - 123
 https://www.fpcomplete.com/recent-content - 26 Nov
-http://habrahabr.ru/hub/linux/page280/     (..294)
+http://habrahabr.ru/hub/linux/page283/     (..294)
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
