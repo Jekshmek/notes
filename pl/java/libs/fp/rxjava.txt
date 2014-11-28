@@ -1,0 +1,7 @@
+https://github.com/Netflix/RxJava
+http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
+https://github.com/Netflix/RxJava/wiki
+  zip, filter, map, mapMany, merge, concat
+  Eledge-RxJava\02. Observable Creation, Composition, and Filtering\02_08-Filtering.mp4
+  Christensen - Reactive Programming with Rx slides
+

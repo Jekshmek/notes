@@ -12,14 +12,16 @@ http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/inde
 Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
-Articles:
-RxJava                                    - Slide 65
+Presentations:
+RxJava                                    - Slide 106
 
 Video:
+Kozhemyakin                               -  20:00
+Shvachko                                  -  23:00
 Monad Transformers                        -  09:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-Angular                                   - 3.1
-Jade                                      - 2.1 - 03:00
+Angular                                   - 3.2
+Jade                                      - 2.2 - 03:30
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
