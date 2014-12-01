@@ -1,6 +1,7 @@
 -- swap stuff
 
 https://wiki.archlinux.org/index.php/swap
+https://forum.manjaro.org/index.php?topic=9262.0
 
 look the size:
 swapon -s

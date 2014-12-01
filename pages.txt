@@ -13,15 +13,13 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
-RxJava                                    - Slide 106
 
 Video:
-Kozhemyakin                               -  20:00
 Shvachko                                  -  23:00
 Monad Transformers                        -  09:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-Angular                                   - 3.2
-Jade                                      - 2.2 - 03:30
+Angular                                   - 3.3
+Jade                                      - 2.3
 https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00

@@ -180,7 +180,7 @@ sudo vim /etc/locale.gen
   ru_RU.UTF-8... done
 sudo locale-gen
 sudo vim /etc/vconsole.conf
-  KEYMAP=us,ru
+  KEYMAP=us
 
 
 https://forum.manjaro.org/index.php?topic=6861.0

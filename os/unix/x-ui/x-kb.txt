@@ -4,7 +4,7 @@ sudo vim /etc/locale.gen
   ru_RU.UTF-8... done
 sudo locale-gen
 sudo vim /etc/vconsole.conf
-  KEYMAP=us,ru
+  KEYMAP=us
 
 http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
 packages:
