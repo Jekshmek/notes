@@ -1,0 +1,9 @@
+http://www.unixmen.com/install-oracle-java-jdk-8-centos-76-56-4/
+http://www.unixmen.com/install-apache-ant-maven-tomcat-centos-76-5/
+
+http://lalyos.github.io/blog/2014/03/18/oracle-jdk-7-on-centos/
+http://stackoverflow.com/questions/10268583/how-to-automate-download-and-installation-of-java-jdk-on-linux
+
+curl -LO 'http://download.oracle.com/otn-pub/java/jdk/7u72-b14/jdk-7u72-linux-x64.rpm' -H 'Cookie: oraclelicense=accept-securebackup-cookie'
+curl -LO 'http://download.oracle.com/otn-pub/java/jdk/7u51-b13/jdk-7u51-linux-x64.rpm' -H 'Cookie: oraclelicense=accept-securebackup-cookie'
+
