@@ -5,6 +5,10 @@ ViewPatterns:
 http://www.reddit.com/r/haskell/comments/2o341e/24_days_of_ghc_extensions_view_patterns/
 https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html
 
+PatternSynonyms:
+http://www.reddit.com/r/haskell/comments/2o6bq5/24_days_of_ghc_extensions_pattern_synonyms/
+https://ocharles.org.uk/blog/posts/2014-12-03-pattern-synonyms.html
+
 Deriving:
 http://www.haskell.org/ghc/docs/latest/html/users_guide/deriving.html
 http://www.haskell.org/ghc/docs/latest/html/users_guide/generic-programming.html

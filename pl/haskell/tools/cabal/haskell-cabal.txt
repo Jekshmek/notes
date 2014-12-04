@@ -147,6 +147,16 @@ cabal files
 
 
 ****************************************************************************************************
+testing
+****************************************************************************************************
+
+running
+    cabal test --show-details=always --test-options=--color
+    
+is a nice way of seeing all your test results listed in color
+
+
+****************************************************************************************************
 usefull options
 ****************************************************************************************************
 
@@ -201,3 +211,5 @@ cabal options
 
   --For modules that do not form part of your package’s public interface,
   Other-Modules:
+
+
