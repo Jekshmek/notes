@@ -13,11 +13,10 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
-Harris - Hadoop with Elasticsearch        -  13:00
 Kral - ES                                 -  03:00
 
 Video:
-Angular                                   - 4.1
+Angular                                   - 4.2
 Jade                                      - 2.5
 Monad Transformers                        -  09:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
@@ -29,7 +28,6 @@ Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
-Desnitsky                                 -  40:00
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 123

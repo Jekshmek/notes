@@ -9,6 +9,8 @@ PatternSynonyms:
 http://www.reddit.com/r/haskell/comments/2o6bq5/24_days_of_ghc_extensions_pattern_synonyms/
 https://ocharles.org.uk/blog/posts/2014-12-03-pattern-synonyms.html
 
+Record
+
 Deriving:
 http://www.haskell.org/ghc/docs/latest/html/users_guide/deriving.html
 http://www.haskell.org/ghc/docs/latest/html/users_guide/generic-programming.html
@@ -28,8 +30,15 @@ TypeSynonymInstances - removes the restriction to write an instance of a typecla
                        polymorphic type
 OverlappingInstances - When there are multiple overlapping instances to choose from, this extension causes the compiler to 
                        pick the most specific one
-RecordWildcards      - http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#record-wildcards
-                       Record wildcard syntax permits a ".." in a record pattern, where each elided field f is replaced by the pattern f = f.
+
+RecordWildcards:
+Record wildcard syntax permits a ".." in a record pattern, where each elided field f is replaced by the pattern f = f.
+http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#record-wildcards
+
+http://www.reddit.com/r/haskell/comments/2oaj7e/24_days_of_ghc_extensions_record_wildcards/
+https://ocharles.org.uk/blog/posts/2014-12-04-record-wildcards.html
+
+
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
 
