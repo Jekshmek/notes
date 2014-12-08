@@ -15,6 +15,10 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-pl
 PluginsModule
 PluginsService - IndexService
 
+org.elasticsearch.index.shard.service.InternalIndexShard
+org.elasticsearch.index.indexing.ShardIndexingService
+
+
 Tools/Plugins:
 
 https://github.com/karussell/elasticsearch-reindex
