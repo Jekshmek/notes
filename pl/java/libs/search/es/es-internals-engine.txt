@@ -1,4 +1,11 @@
+src/main/java
+
+org.elasticsearch.index.engine.Engine
+elasticsearch.index.engine.internal.InternalEngine
+elasticsearch.index.engine.internal.InternalEngineModule
+
 src/test/java
+
 org.elasticsearch.index.engine.internal.InternalEngineTests
 
 org.elasticsearch.test:
