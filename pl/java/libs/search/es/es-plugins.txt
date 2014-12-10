@@ -1,4 +1,3 @@
-https://github.com/jprante/elasticsearch-simple-action-plugin/
 http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
 
 http://spinscale.github.io/elasticsearch-intro-plugins/#/22
@@ -20,6 +19,8 @@ org.elasticsearch.index.indexing.ShardIndexingService
 
 
 Tools/Plugins:
+https://github.com/jprante/elasticsearch-simple-action-plugin/
+https://github.com/crate/elasticsearch-inout-plugin
 
 https://github.com/karussell/elasticsearch-reindex
 

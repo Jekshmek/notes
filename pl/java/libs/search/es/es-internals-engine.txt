@@ -1,7 +1,21 @@
 src/main/java
 
 org.elasticsearch.index.engine.Engine
+
 elasticsearch.index.engine.internal.InternalEngine
+{
+    @Overwrite
+    public List<Segment> segments() {
+        ...
+        lock
+            fill segments
+        unlock
+        ...
+    }
+}
+
+
+
 elasticsearch.index.engine.internal.InternalEngineModule
 
 src/test/java

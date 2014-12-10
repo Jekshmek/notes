@@ -54,6 +54,9 @@ TypeOperators:
 http://www.reddit.com/r/haskell/comments/2oo1z7/24_days_of_ghc_extensions_type_operators/
 https://ocharles.org.uk/blog/posts/2014-12-08-type-operators.html
 
+RecursiveDo:
+http://www.reddit.com/r/haskell/comments/2osh3v/24_days_of_ghc_extensions_recursive_do/
+https://ocharles.org.uk/blog/posts/2014-12-09-recursive-do.html
 
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
