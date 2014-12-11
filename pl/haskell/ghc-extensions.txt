@@ -58,6 +58,10 @@ RecursiveDo:
 http://www.reddit.com/r/haskell/comments/2osh3v/24_days_of_ghc_extensions_recursive_do/
 https://ocharles.org.uk/blog/posts/2014-12-09-recursive-do.html
 
+NullaryTypeclasses:
+http://www.reddit.com/r/haskell/comments/2ovvnk/24_days_of_ghc_extensions_nullary_type_classes/
+https://ocharles.org.uk/blog/posts/2014-12-10-nullary-type-classes.html
+
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
 
