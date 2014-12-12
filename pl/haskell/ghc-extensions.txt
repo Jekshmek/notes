@@ -62,6 +62,10 @@ NullaryTypeclasses:
 http://www.reddit.com/r/haskell/comments/2ovvnk/24_days_of_ghc_extensions_nullary_type_classes/
 https://ocharles.org.uk/blog/posts/2014-12-10-nullary-type-classes.html
 
+ImplicitParameters:
+http://www.reddit.com/r/haskell/comments/2p0b3j/24_days_of_ghc_extensions_implicit_parameters/
+https://ocharles.org.uk/blog/posts/2014-12-11-implicit-params.html
+
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
 
