@@ -62,9 +62,21 @@ NullaryTypeclasses:
 http://www.reddit.com/r/haskell/comments/2ovvnk/24_days_of_ghc_extensions_nullary_type_classes/
 https://ocharles.org.uk/blog/posts/2014-12-10-nullary-type-classes.html
 
+MultiParameterTypeClasses:
+http://www.reddit.com/r/haskell/comments/2p792t/24_days_of_ghc_extensions_multiparameter_type/
+https://ocharles.org.uk/blog/posts/2014-12-13-multi-param-type-classes.html
+
 ImplicitParameters:
 http://www.reddit.com/r/haskell/comments/2p0b3j/24_days_of_ghc_extensions_implicit_parameters/
 https://ocharles.org.uk/blog/posts/2014-12-11-implicit-params.html
+
+FunctioinalDependencies:
+http://www.reddit.com/r/haskell/comments/2pal4v/24_days_of_ghc_extensions_functional_dependencies/
+https://ocharles.org.uk/blog/posts/2014-12-14-functional-dependencies.html
+
+TypeFamilies:
+http://www.reddit.com/r/haskell/comments/2p3mrm/24_days_of_ghc_extensions_type_families/
+https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
