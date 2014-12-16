@@ -23,6 +23,7 @@ https://github.com/begriffs/haskell-pair/blob/master/bootstrap.sh
 
 
 Arch Linux:
+http://www.stackage.org/install
 
 To install Haskell from the official repos on Arch Linux
 
