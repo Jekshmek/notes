@@ -15,3 +15,6 @@ http://habrahabr.ru/post/208918/
 http://www.slideshare.net/vkostyukov/purely-functional-data-structures-in-scala-26175521
 http://www.youtube.com/watch?v=fWnaW3CP7OI
 http://matt.might.net/articles/red-black-delete/
+
+Brass:
+Brass - Advanced Data Structures
