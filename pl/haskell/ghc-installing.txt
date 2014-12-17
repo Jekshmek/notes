@@ -5,6 +5,12 @@ https://github.com/ekalinin/envirius
 
 https://github.com/bitemyapp/learnhaskell
 
+GHC Docker Image:
+https://github.com/gregwebs/ghc-docker-dev
+https://www.haskell.org/pipermail/ghc-devs/2014-December/007606.html
+https://ghc.haskell.org/trac/ghc/wiki/Building/Preparation/Linux
+
+
 Debian/Ubuntu:
 
 This PPA is excellent and is what I use on all my Linux dev and build machines: http://launchpad.net/~hvr/+archive/ghc

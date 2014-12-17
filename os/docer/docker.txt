@@ -1,0 +1,68 @@
+Smaples:
+https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
+
+Debian useradd:
+
+RUN useradd -m -d /home/ghc -s /bin/bash ghc
+RUN echo "ghc ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/ghc && chmod 0440 /etc/sudoers.d/ghc
+ENV HOME /home/ghc
+WORKDIR /home/ghc
+USER ghc
+
+images location:
+http://comments.gmane.org/gmane.comp.sysutils.docker.user/4451
+http://blog.thoward37.me/articles/where-are-docker-images-stored/
+http://www.projectatomic.io/docs/docker-storage-recommendation/
+http://www.centurylinklabs.com/optimizing-docker-images/?hvid=4wO7Yt
+http://stackoverflow.com/questions/19234831/where-are-docker-images-stored-on-the-host-machine
+http://stackoverflow.com/questions/26166550/set-docker-opts-in-centos
+
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Resource_Management_and_Linux_Containers_Guide/part-Linux_Containers.html
+
+/etc/default/docker:
+DOCKER_OPTS="-g /path/to/docker/data"
+
+/usr/lib/systemd/system/docker.service
+ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
+
+--graph
+default is /var/lib/docker
+
+list images:
+sudo docker images -a --no-trunc
+
+removing images:
+sudo docker info
+
+http://techoverflow.net/blog/2013/10/22/docker-remove-all-images-and-containers/
+http://stackoverflow.com/questions/17665283/how-does-one-remove-an-image-in-docker
+
+# Delete all containers
+sudo docker rm -f $(sudo docker ps -aq)
+
+# Delete all images
+sudo docker rmi -f $(sudo docker images -q)
+
+http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
+sudo docker rmi $(sudo docker images -q -f dangling=true)
+
+building:
+sudo docker build --force-rm -t <tag> .
+# --force-rm=true --rm=true
+
+running:
+sudo docker run -t -i <img> <cmd>
+
+REST API:
+https://docs.docker.com/reference/api/docker_remote_api/
+http://www.virtuallyghetto.com/2014/07/quick-tip-how-to-enable-docker-remote-api.html
+
+aliases:
+alias dksvccfg='sudo vim /usr/lib/systemd/system/docker.service'
+alias dkrst='sudo systemctl restart docker'
+alias dkstop='sudo systemctl stop docker'
+alias dkstart='sudo systemctl start docker'
+alias dkstatus='sudo systemctl status docker'
+alias dkbld='sudo docker build --force-rm=true'
+
+#spikes/max/builder

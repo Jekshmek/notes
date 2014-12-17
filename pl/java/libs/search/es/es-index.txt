@@ -27,6 +27,9 @@ field data cache:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/master/index-modules-fielddata.html
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/fielddata-formats.html
 
+Docs updating:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/docs-update.html
+
 Bulk indexing:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/master/bulk.html
