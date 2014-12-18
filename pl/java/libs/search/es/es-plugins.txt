@@ -31,6 +31,9 @@ Good Sample:
 https://github.com/crate/elasticsearch-inout-plugin
 https://github.com/jprante/elasticsearch-knapsack
 
+Old:
+https://github.com/lukas-vlcek/bigdesk
+
 NNNAction extends
     org.elasticsearch.action.Action
         org.elasticsearch.action.admin.indices.IndicesAction;
