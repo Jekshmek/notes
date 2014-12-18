@@ -16,7 +16,7 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Angular                                   - 5.3
+Angular                                   - 5.3 
 Jade                                      - 3.4
 Git                                       - 15
 Monad Transformers                        -  50:00 (of 1:48:33)

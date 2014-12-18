@@ -211,3 +211,8 @@ STATUS
 git status -s
   less verbose status
 
+
+HELPERS
+
+https://gitcredentialstore.codeplex.com/
+
