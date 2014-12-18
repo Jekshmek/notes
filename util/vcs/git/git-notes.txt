@@ -27,6 +27,13 @@ Env vars:
 GIT_DIR
   path to the .git dir
 
+Config
+git config --global
+    core.editor vim -w
+                subl -w
+                mate -w
+
+    color.ui true
 
 
 REBASE:

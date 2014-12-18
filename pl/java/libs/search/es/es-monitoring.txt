@@ -1,0 +1,23 @@
+Cluster Nodes:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-nodes-stats.html
+GET/_nodes/stats
+
+Pending Tasks:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cat-pending-tasks.html
+GET/_cat/pending_tasks
+
+Thread Pools:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-threadpool.html
+GET/_nodes/thread_pool
+
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cat-thread-pool.html
+GET/_cat/thread_pool
+
+
+Hot Threads:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-nodes-hot-threads.html
+GET/_nodes/hot_threads
+
+monitor/jvm/HotThreads
+
+

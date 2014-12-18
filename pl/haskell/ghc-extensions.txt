@@ -43,6 +43,10 @@ AugustssonCommentaryOn24:
 http://www.reddit.com/r/haskell/comments/2pdu4a/a_commentary_on_24_days_of_ghc_extensions/
 http://augustss.blogspot.com/2014/12/a-commentary-on-24-days-of-ghc.html
 
+OverloadedStrings:
+http://www.reddit.com/r/haskell/comments/2pmon2/24_days_of_ghc_extensions_overloaded_strings/
+https://ocharles.org.uk/blog/posts/2014-12-17-overloaded-strings.html
+
 RecordWildcards:
 Record wildcard syntax permits a ".." in a record pattern, where each elided field f is replaced by the pattern f = f.
 http://www.haskell.org/ghc/docs/latest/html/users_guide/syntax-extns.html#record-wildcards

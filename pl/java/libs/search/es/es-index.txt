@@ -29,6 +29,12 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/fielddata-
 
 Docs updating:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/docs-update.html
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/partial-updates.html
+http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/update-doc.html
+
+upserting:
+https://github.com/elasticsearch/elasticsearch/issues/2008
+http://stackoverflow.com/questions/18028280/elasticsearch-upserting-and-appending-to-array
 
 Bulk indexing:
 
