@@ -42,7 +42,7 @@ XPUT/_cluster/settings -d
 '{ "transient" : { "cluster.routing.allocation.enable" : "none" } }'
 
 
-rerouting:
+rerouting (relocating shards from one node to another):
 
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-reroute.html
 http://stackoverflow.com/questions/25135869/how-to-rebalance-shard-elasticsearch

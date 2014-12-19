@@ -7,6 +7,27 @@ https://github.com/Alexpux/MSYS2-packages
 http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 https://github.com/iljau/msys2-installer
 
+Starter:
+@echo off
+setlocal
+call vars-ems-p.bat
+
+set MSYSTEM=MSYS
+rem To activate windows native symlinks uncomment next line
+set MSYS=winsymlinks
+::set MSYS=winsymlinks:nativestrict
+rem Set debugging program for errors
+rem set MSYS=error_start:%WD%../../mingw32/bin/qtcreator.exe|-debug|<process-id>
+set MSYSCON=mintty.exe
+
+::start %MSYS_ROOT%\usr\bin\mintty -i /msys2.ico /usr/bin/zsh --login %*
+start %MSYS_ROOT%\usr\bin\mintty -i /msys2.ico /usr/bin/bash --login %*
+:: --login -i
+:: -c %USERPROFILE%\.minttyrc
+endlocal
+
+
+
 TODO:
 pacman -Syu
 pacman -s zsh bash-completion tig openssh dos2unix
@@ -35,7 +56,7 @@ This errors is from replacing by pacman DLLs and EXEs that in use during
 update. You need restart MSYS2 after this errors.
 I prefer the next update scenario.
 pacman -Sy
-pacman -Su —ignoregroup base
+pacman -Su -—ignoregroup base
 pacman -Su
 
 otherwise:

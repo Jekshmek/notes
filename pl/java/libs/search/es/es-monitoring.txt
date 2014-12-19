@@ -1,3 +1,6 @@
+Indexing stuff:
+http://www.elasticsearch.org/blog/performance-considerations-elasticsearch-indexing/
+
 Cluster Nodes:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-nodes-stats.html
 GET/_nodes/stats
