@@ -94,6 +94,9 @@ TypeFamilies:
 http://www.reddit.com/r/haskell/comments/2p3mrm/24_days_of_ghc_extensions_type_families/
 https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 
+RankNTypes:
+http://www.reddit.com/r/haskell/comments/2pqtxk/24_days_of_ghc_extensions_rank_n_types/
+https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html
 
 
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
