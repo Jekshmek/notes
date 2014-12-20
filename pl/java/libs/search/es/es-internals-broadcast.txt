@@ -1,0 +1,111 @@
+public class TransportUpdateAction extends TransportInstanceSingleOperationAction<UpdateRequest, UpdateResponse> {
+
+
+
+action.delete.
+
+ShardDeleteRequest
+
+TransportIndexDeleteAction:
+
+/**
+ * Internal transport action that broadcasts a delete request to all of the shards that belongs to an index.
+ * Used when routing is required but not specified within the delete request.
+ */
+public class TransportIndexDeleteAction extends TransportIndexReplicationOperationAction<IndexDeleteRequest, IndexDeleteResponse, ShardDeleteRequest, ShardDeleteRequest, ShardDeleteResponse> {
+
+    private static final String ACTION_NAME = DeleteAction.NAME + "[index]";
+
+    @Inject
+    public TransportIndexDeleteAction(Settings settings, ClusterService clusterService,
+                                      ThreadPool threadPool, TransportShardDeleteAction deleteAction, ActionFilters actionFilters) {
+        super(settings, ACTION_NAME, clusterService, threadPool, deleteAction, actionFilters);
+    }
+
+    @Override
+    protected IndexDeleteResponse newResponseInstance(IndexDeleteRequest request, List<ShardDeleteResponse> shardDeleteResponses, int failuresCount, List<ShardOperationFailedException> shardFailures) {
+        return new IndexDeleteResponse(request.index(), failuresCount, shardDeleteResponses.toArray(new ShardDeleteResponse[shardDeleteResponses.size()]));
+    }
+
+    ...
+
+    @Override
+    protected GroupShardsIterator shards(IndexDeleteRequest request) {
+        return clusterService.operationRouting().broadcastDeleteShards(clusterService.state(), request.index());
+    }
+
+    ...
+}
+
+
+TransportShardDeleteAction:
+
+public class TransportShardDeleteAction extends TransportShardReplicationOperationAction<ShardDeleteRequest, ShardDeleteRequest, ShardDeleteResponse> {
+    private static final String ACTION_NAME = DeleteAction.NAME + "[s]";
+
+    @Inject
+    public TransportShardDeleteAction(Settings settings, TransportService transportService,
+                                      ClusterService clusterService, IndicesService indicesService, ThreadPool threadPool,
+                                      ShardStateAction shardStateAction, ActionFilters actionFilters) {
+        super(settings, ACTION_NAME, transportService, clusterService, indicesService, threadPool, shardStateAction, actionFilters);
+    }
+
+    ...
+
+    @Override
+    protected PrimaryResponse<ShardDeleteResponse, ShardDeleteRequest> shardOperationOnPrimary(ClusterState clusterState, PrimaryOperationRequest shardRequest) {
+        ShardDeleteRequest request = shardRequest.request;
+        IndexShard indexShard = indicesService.indexServiceSafe(shardRequest.shardId.getIndex()).shardSafe(shardRequest.shardId.id());
+        Engine.Delete delete = indexShard.prepareDelete(request.type(), request.id(), request.version(), VersionType.INTERNAL, Engine.Operation.Origin.PRIMARY);
+        indexShard.delete(delete);
+        // update the version to happen on the replicas
+        request.version(delete.version());
+
+        if (request.refresh()) {
+            try {
+                indexShard.refresh(new Engine.Refresh("refresh_flag_delete").force(false));
+            } catch (Exception e) {
+                // ignore
+            }
+        }
+
+
+        ShardDeleteResponse response = new ShardDeleteResponse(delete.version(), delete.found());
+        return new PrimaryResponse<>(shardRequest.request, response, null);
+    }
+
+    @Override
+    protected void shardOperationOnReplica(ReplicaOperationRequest shardRequest) {
+        ShardDeleteRequest request = shardRequest.request;
+        IndexShard indexShard = indicesService.indexServiceSafe(shardRequest.shardId.getIndex()).shardSafe(shardRequest.shardId.id());
+        Engine.Delete delete = indexShard.prepareDelete(request.type(), request.id(), request.version(), VersionType.INTERNAL, Engine.Operation.Origin.REPLICA);
+
+        // IndexDeleteAction doesn't support version type at the moment. Hard coded for the INTERNAL version
+        delete = new Engine.Delete(delete, VersionType.INTERNAL.versionTypeForReplicationAndRecovery());
+
+        assert delete.versionType().validateVersionForWrites(delete.version());
+
+        indexShard.delete(delete);
+
+        if (request.refresh()) {
+            try {
+                indexShard.refresh(new Engine.Refresh("refresh_flag_delete").force(false));
+            } catch (Exception e) {
+                // ignore
+            }
+        }
+
+    }
+
+    @Override
+    protected ShardIterator shards(ClusterState clusterState, InternalRequest request) {
+        GroupShardsIterator group = clusterService.operationRouting().broadcastDeleteShards(clusterService.state(), request.concreteIndex());
+        for (ShardIterator shardIt : group) {
+            if (shardIt.shardId().id() == request.request().shardId()) {
+                return shardIt;
+            }
+        }
+        throw new ElasticsearchIllegalStateException("No shards iterator found for shard [" + request.request().shardId() + "]");
+    }
+}
+

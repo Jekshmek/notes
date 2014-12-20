@@ -44,6 +44,8 @@ http://www.reddit.com/r/haskell/comments/2pdu4a/a_commentary_on_24_days_of_ghc_e
 http://augustss.blogspot.com/2014/12/a-commentary-on-24-days-of-ghc.html
 http://www.reddit.com/r/haskell/comments/2pt180/a_commentary_on_24_days_of_ghc_extensions_part_2/
 http://augustss.blogspot.de/2014/12/a-commentary-on-24-days-of-ghc_19.html
+http://www.reddit.com/r/haskell/comments/2pvps7/a_commentary_on_24_days_of_ghc_extensions_part_3/
+http://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html
 
 OverloadedStrings:
 http://www.reddit.com/r/haskell/comments/2pmon2/24_days_of_ghc_extensions_overloaded_strings/
