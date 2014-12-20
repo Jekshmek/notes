@@ -42,6 +42,8 @@ OverlappingInstances - When there are multiple overlapping instances to choose f
 AugustssonCommentaryOn24:
 http://www.reddit.com/r/haskell/comments/2pdu4a/a_commentary_on_24_days_of_ghc_extensions/
 http://augustss.blogspot.com/2014/12/a-commentary-on-24-days-of-ghc.html
+http://www.reddit.com/r/haskell/comments/2pt180/a_commentary_on_24_days_of_ghc_extensions_part_2/
+http://augustss.blogspot.de/2014/12/a-commentary-on-24-days-of-ghc_19.html
 
 OverloadedStrings:
 http://www.reddit.com/r/haskell/comments/2pmon2/24_days_of_ghc_extensions_overloaded_strings/
@@ -98,6 +100,9 @@ RankNTypes:
 http://www.reddit.com/r/haskell/comments/2pqtxk/24_days_of_ghc_extensions_rank_n_types/
 https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html
 
+ExistentialQuantification:
+http://www.reddit.com/r/haskell/comments/2pu0e8/24_days_of_ghc_extensions_existential/
+https://ocharles.org.uk/blog/guest-posts/2014-12-19-existential-quantification.html
 
 DoAndIfThenElse      - https://ghc.haskell.org/trac/haskell-prime/wiki/DoAndIfThenElse
                        ??? check if it is on by default ???
