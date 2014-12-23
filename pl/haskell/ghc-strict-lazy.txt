@@ -33,6 +33,14 @@ Data.Strict
 http://hackage.haskell.org/package/strict
 http://hackage.haskell.org/package/strict-base-types
 
+Seqaid-DeepSeq-Bounded:
+http://www.fremissant.net/proj/deepseq-bounded/deepseq-bounded.html
+http://hackage.haskell.org/package/deepseq-bounded
+http://www.fremissant.net/proj/seqaid/seqaid.html
+http://hackage.haskell.org/package/seqaid
+http://www.fremissant.net/proj/leaky/leaky.html
+http://hackage.haskell.org/package/leaky
+
 Examples:
 https://github.com/mezzohaskell/mezzohaskell/blob/master/chapters/examples/filehash.md
 

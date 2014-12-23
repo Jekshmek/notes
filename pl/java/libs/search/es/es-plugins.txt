@@ -12,7 +12,7 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-pl
 
 
 PluginsModule
-PluginsService - IndexService
+plugins.PluginsService - IndexService
 
 org.elasticsearch.index.shard.service.InternalIndexShard
 org.elasticsearch.index.indexing.ShardIndexingService

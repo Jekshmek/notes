@@ -2,3 +2,4 @@ http://eax.me/postgresql-install/
 http://www.unixmen.com/install-postgresql-9-3-centos-6-56-4/
 http://www.unixmen.com/install-postgresql-9-3-phppgadmin-centos-6-5/
 http://www.unixmen.com/install-postgresql-9-3-phppgadmin-centos-76-56-4/
+http://www.unixmen.com/postgresql-9-4-released-install-centos-7/
