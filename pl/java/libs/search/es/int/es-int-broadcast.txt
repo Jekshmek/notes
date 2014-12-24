@@ -292,5 +292,3 @@ public class TransportDeleteAction extends TransportShardReplicationOperationAct
     }
 }
 
-
-

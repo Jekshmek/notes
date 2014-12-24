@@ -1,22 +1,4 @@
-http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
-
-http://spinscale.github.io/elasticsearch-intro-plugins/#/22
-https://speakerdeck.com/spinscale/elasticsearch-introduction-and-plugin-development
-https://speakerdeck.com/spinscale/extending-elasticsearch
-
-https://www.found.no/foundation/writing-a-plugin/
-https://www.found.no/foundation/elasticsearch-plugin-types/
-https://www.found.no/foundation/elasticsearch-internals/
-
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-plugins.html
-
-
-PluginsModule
-plugins.PluginsService - IndexService
-
-org.elasticsearch.index.shard.service.InternalIndexShard
-org.elasticsearch.index.indexing.ShardIndexingService
-
 
 Tools/Plugins:
 https://github.com/jprante/elasticsearch-simple-action-plugin/
@@ -34,10 +16,5 @@ https://github.com/jprante/elasticsearch-knapsack
 Old:
 https://github.com/lukas-vlcek/bigdesk
 
-NNNAction extends
-    org.elasticsearch.action.Action
-        org.elasticsearch.action.admin.indices.IndicesAction;
-
-TransportNNNAction extends
-    org.elasticsearch.action.support.TransportAction;
-
+configs:
+plugins.mandatory

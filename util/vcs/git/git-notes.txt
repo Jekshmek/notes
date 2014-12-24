@@ -171,6 +171,9 @@ git push <nick> master[or other branch name here]
   now git remote should list public
   git remote show public ...
 
+Note:
+    remote can be a local FS path (/...)
+
 pull = fetch + merge
 
 

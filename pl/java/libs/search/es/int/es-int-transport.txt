@@ -5,8 +5,6 @@ This is a handy transport to use when running integration tests within the JVM.
 It is automatically enabled when using NodeBuilder#local(true)
 
 
-
-
 transport.
 
 public class TransportModule extends AbstractModule {
@@ -103,3 +101,4 @@ http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/clie
 https://www.found.no/documentation/tutorials/using-java-transport/
 https://github.com/foundit/elasticsearch-transport-module-example/blob/master/src/main/java/no/found/elasticsearch/example/TransportExample.java
 
+http://spinscale.github.io/elasticsearch-intro-plugins/#/15

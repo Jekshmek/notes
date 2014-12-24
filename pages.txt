@@ -16,9 +16,11 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Angular                                   - 6.2 
-Jade                                      - 4.2
-Git                                       - 19
+Guice                                     - 14:30
+http://youtu.be/hBVJbzAagfs
+Angular                                   - 6.3 
+Jade                                      - 4.3
+Git                                       - 20
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Patterson - Types and Testing in Haskell  -  10:00

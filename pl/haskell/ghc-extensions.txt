@@ -128,6 +128,8 @@ foo :: App m => m ()
 
 However, I'm wondering if this is idiomatic. Or if there are any downsides.
 
+ImpredicativeTypes:
+http://jozefg.bitbucket.org/posts/2014-12-23-impredicative.html
 
 Arrows:
 http://www.reddit.com/r/haskell/comments/2q0rwv/24_days_of_ghc_extensions_arrows_guest_post_by/
@@ -137,3 +139,6 @@ TemplateHaskell:
 http://www.reddit.com/r/haskell/comments/2q454r/24_days_of_ghc_extensions_template_haskell_guest/
 https://ocharles.org.uk/blog/guest-posts/2014-12-22-template-haskell.html
 
+StaticPointers:
+http://www.reddit.com/r/haskell/comments/2q85zp/24_days_of_hackage_static_pointers_guest_post_by/
+https://ocharles.org.uk/blog/guest-posts/2014-12-23-static-pointers.html
