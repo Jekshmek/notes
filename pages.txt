@@ -18,7 +18,7 @@ Kral - ES                                 -  03:00
 Video:
 Guice                                     - 14:30
 http://youtu.be/hBVJbzAagfs
-Angular                                   - 6.3 
+Angular                                   -  6.3 
 Jade                                      - 4.3
 Git                                       - 20
 Monad Transformers                        -  50:00 (of 1:48:33)
