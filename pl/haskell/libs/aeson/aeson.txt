@@ -1,1 +1,4 @@
 https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
+
+Aeson types generator:
+http://hackage.haskell.org/package/json-autotype
