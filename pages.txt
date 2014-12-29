@@ -16,8 +16,7 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Guice                                     - 14:30
-http://youtu.be/hBVJbzAagfs
+Guice                                     - 25:20
 Angular                                   -  6.3 
 Jade                                      - 4.3
 Git                                       - 20

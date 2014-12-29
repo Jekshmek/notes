@@ -1,0 +1,15 @@
+Module stuff
+    bind(TweetClient.class)
+
+    @Provides Shortener provideShortener() {
+        return new TinyUrlShortener();
+    }
+
+    bind(Tweeter.class).to(SmsTweeter.class)
+
+    bind(String.class).annotatedWith(Username.class).toInstance("jesse");
+
+        @Injext SmsTweeter(@Username String username) {
+            this.username = username;
+        }
+
