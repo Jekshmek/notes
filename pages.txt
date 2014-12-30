@@ -16,7 +16,7 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Guice                                     - 25:20
+DI in Java                                -  01:00 (of 1:31:46)
 Angular                                   -  6.3 
 Jade                                      - 4.3
 Git                                       - 20
@@ -29,7 +29,6 @@ Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
 Networks for Programmers                  -  17:00
 msg                                       -  04:30
-Vysotsky                                  -  20:00
 
 Audio:
 

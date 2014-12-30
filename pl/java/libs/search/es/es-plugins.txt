@@ -18,3 +18,6 @@ https://github.com/lukas-vlcek/bigdesk
 
 configs:
 plugins.mandatory
+
+!!!
+https://github.com/jprante/elasticsearch-index-termlist/blob/master/src/main/java/org/xbib/elasticsearch/action/termlist/TransportTermlistAction.java

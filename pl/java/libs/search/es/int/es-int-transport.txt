@@ -1,4 +1,5 @@
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-transport.html
+https://www.found.no/foundation/elasticsearch-networking/
 
 Local Transport
 This is a handy transport to use when running integration tests within the JVM.
@@ -6,6 +7,24 @@ It is automatically enabled when using NodeBuilder#local(true)
 
 
 transport.
+
+public class TransportRequestOptions {
+    ...
+    public static enum Type {
+        RECOVERY,
+        BULK,
+        REG,        // regular operations like queries
+        STATE,      // cluster state changes
+        PING;
+    }
+    ...
+}
+
+<- used at NettyTransport.NodeChannels
+?? discovery.zen.publish.PublishClusterStateAction
+?? client.transport.TransportClientNodesService
+
+
 
 public class TransportModule extends AbstractModule {
 
@@ -26,7 +45,8 @@ public class TransportModule extends AbstractModule {
 
 
 TransportService
-    submitRequest(node, String action, TransportRequest request, ...)
+    submitRequest(DiscoveryNode node, String action, TransportRequest request, ...)
+    sendRequest(final DiscoveryNode node, final String action, final TransportRequest request, ...)
 
 
 
@@ -99,6 +119,7 @@ client.transport.TransportClient
 
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/client.html
 https://www.found.no/documentation/tutorials/using-java-transport/
+https://www.found.no/foundation/elasticsearch-networking/
 https://github.com/foundit/elasticsearch-transport-module-example/blob/master/src/main/java/no/found/elasticsearch/example/TransportExample.java
 
 http://spinscale.github.io/elasticsearch-intro-plugins/#/15
