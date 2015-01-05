@@ -1,4 +1,10 @@
 Implementation:
+
+https://github.com/takenobu-hs/haskell-ghc-illustrated
+
+http://www.reddit.com/r/haskell/comments/2regln/write_you_a_haskell/
+http://dev.stephendiehl.com/fun/
+
 http://hackage.haskell.org/trac/ghc/wiki/ReadingList
 Mitchell - Transformation and Analysis of Functional Programs
 Jones - Implementing Functional Languages - a tutorial.pdf (better and smaller than old-book, p 46 - WHNF).

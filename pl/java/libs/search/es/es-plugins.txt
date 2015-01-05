@@ -13,11 +13,22 @@ Good Sample:
 https://github.com/crate/elasticsearch-inout-plugin
 https://github.com/jprante/elasticsearch-knapsack
 
+Skywalker:
+http://jprante.github.io/elasticsearch-skywalker/
+https://github.com/jprante/elasticsearch-skywalker
+
+index-termlist:
+https://github.com/jprante/elasticsearch-index-termlist
+
 Old:
 https://github.com/lukas-vlcek/bigdesk
 
 configs:
 plugins.mandatory
 
-!!!
+
+TransportActions:
 https://github.com/jprante/elasticsearch-index-termlist/blob/master/src/main/java/org/xbib/elasticsearch/action/termlist/TransportTermlistAction.java
+
+https://github.com/jprante/elasticsearch-skywalker/blob/master/src/main/java/org/xbib/elasticsearch/action/skywalker/TransportSkywalkerAction.java
+

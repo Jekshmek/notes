@@ -1,3 +1,19 @@
+These classes must extend one of the supported kinds of action available:
+- BroadcastOperationRequest/Response
+    These are used for actions that must be spread across all the clusters
+- MasterNodeOperationRequest
+    These are used for actions that must host only the master node (such as index and mapping configuration)
+- NodeOperationRequest
+    These are used for actions that must be executed by every node (that is, all the node statistic actions)
+- IndexReplicationOperationRequest
+    These are used for actions that must be executed at index level (that is, delete by query)
+- SingleCustomOperationRequest
+    These are used for actions that must be executed only by a node (that is, percolate or analyze actions)
+- InstanceShardOperationRequest
+    These are used for actions that must be executed on every shard instance (that is, bulk shard operations)
+- SingleShardOperationRequest
+    These are used for actions that must be executed only in a shard (that is, the GET action)
+
 action.support.
 
 public abstract class TransportAction<Request extends ActionRequest, Response extends ActionResponse> extends AbstractComponent {
