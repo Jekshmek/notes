@@ -172,7 +172,26 @@ bgalpha=63222
 fgcolor=#65657b7b8383
 
 
---- XXKB
+--- GXKB
+
+https://aur.archlinux.org/packages/gxkb/
+yaourt -S gxkb
+
+sudo cp /usr/share/applications/gxkb.desktop /etc/xdg/autostart/
+
+~/.config/gxkb/gxkb.cfg:
+
+[xkb config]
+group_policy=2
+default_group=0
+never_modify_config=false
+model=pc105
+layouts=us,ru
+variants=,
+toggle_option=grp:ctrl_shift_toggle,grp_led:scroll,terminate:ctrl_alt_bksp
+compose_key_position=
+
+--- Locales (RU)
 
 https://wiki.manjaro.org/index.php?title=Openbox:_Switch_languages_using_the_keyboard_and_xxkb
 sudo vim /etc/locale.gen
@@ -187,16 +206,6 @@ https://forum.manjaro.org/index.php?topic=6861.0
 http://archlinux.org.ru/forum/topic/1356/
 https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
 
-Keyboard:
-xxkb
-    ~/.xxkbrc
-
-    ~/.config/openbox/autostart:
-    setxkbmap -layout "us,ru(winkeys)" -variant -option grp:ctrl_shift_toggle,terminate:ctrl_alt_bksp
-
-    setxkbmap -query
-
---- Locales (RU)
 
 http://xtuxhuevos.blogspot.com/2012/10/manjaro-linux-en-espanol.html
 packages:
@@ -210,40 +219,6 @@ https://wiki.archlinux.org/index.php/locale
     LANG=ru_RU.UTF-8
     LANGUAGE=ru_RU.UTF-8
     LC_COLLATE=C
-
-
---- xxdb indicator
-
-http://www.unix-lab.org/posts/openbox/
-http://virus.org.ua/unix/mydotfiles/xxkbrc
-https://www.linux.org.ru/forum/general/9947341
-http://archlinuxer.blogspot.com/2010/03/xxkb.html
-
-    ~/.config/openbox/autostart:
-    (sleep 1s && xxkb) &
-
-~/.xxkbrc:
-XXkb.image.path: /usr/share/xxkb/
-XXkb.mainwindow.type:  tray
-XXkb.group.base: 1
-XXkb.group.alt: 2
-XXkb.mainwindow.enable:  yes
-XXkb.mainwindow.image.1: en15.xpm
-XXkb.mainwindow.image.2: ru15.xpm
-XXkb.mainwindow.image.3:
-XXkb.mainwindow.image.4:
-XXkb.mainwindow.appicon:  yes
-XXkb.mainwindow.geometry:  20x20+2+2
-XXkb.mainwindow.in_tray:  GNOME2
-XXkb.button.enable:  no
-XXkb.app_list.wm_class_name.start_alt: skype
-XXkb.controls.add_when_start: yes
-XXkb.controls.add_when_create: yes
-XXkb.controls.add_when_change: no
-XXkb.controls.focusout: no
-XXkb.mainwindow.xpm.1: en15.xpm
-XXkb.mainwindow.xpm.2: ru15.xpm
-XXkb.mainwindow.label.enable: no
 
 
 --- Keyboard shortcuts
