@@ -10,3 +10,7 @@ http://habrahabr.ru/post/45203/
 svn cp URL->URL
 svn sw ..
 svn del http://svn.example.com/repos/calc/branches/my-calc-branch -m "Removing obsolete branch of calc project."
+
+log:
+
+svn log -r BASE:HEAD -v

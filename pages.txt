@@ -16,10 +16,11 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-DI in Java                                -  01:00 (of 1:31:46)
-Angular                                   -  6.3 
-Jade                                      - 4.3
-Git                                       - 20
+Idris                                     -  03:00 (of 56:53)
+DI in Java                                -  44:00 (of 1:31:46)
+Angular                                   -  7.1
+Jade                                      - 4.4
+Git                                       - 21
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Patterson - Types and Testing in Haskell  -  10:00
@@ -33,8 +34,8 @@ msg                                       -  04:30
 Audio:
 
 Tracking:
-http://accu.org/index.php/journals/c78/   - 123
-https://www.fpcomplete.com/recent-content - 15 Dec
+http://accu.org/index.php/journals/c78/   - 124
+https://www.fpcomplete.com/recent-content - 31 Dec
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

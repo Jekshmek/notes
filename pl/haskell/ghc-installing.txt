@@ -41,6 +41,11 @@ Download Haskell
 
     sudo pacman -S cabal-install ghc happy alex haddock
 
+cblrepo:
+http://nponeccop.livejournal.com/419579.html
+http://funloop.org/post/2014-01-06-using-cblrepo-in-arch-linux.html
+http://therning.org/magnus/posts/2011-04-27-914-maintaining-haskell-packages-for-a-linux-distribution-cblrepo.html
+
 
 Building from sources:
 http://www.reddit.com/r/haskell/comments/26immi/so_how_is_a_noob_supposed_to_get_the_latest/

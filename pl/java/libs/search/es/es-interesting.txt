@@ -22,7 +22,6 @@ org.elasticsearch.common.
 
   bytes.*
 
-transport.local.LocalTransportChannel
 
 watcher.FileChangesListener
 
