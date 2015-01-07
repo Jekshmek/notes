@@ -19,7 +19,7 @@ These classes must extend one of the supported kinds of action available:
 used only by:
     - TransportDeleteByQueryAction
 
-- TransportIndexReplicationOperationAction/IndexReplicationOperationRequest
+!- TransportIndexReplicationOperationAction/IndexReplicationOperationRequest
     Since the corresponding action is internal that gets always executed locally, this request never gets sent over the transport.
     The specified index is expected to be a concrete index. Relies on input validation done by the caller actions.
 

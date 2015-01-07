@@ -90,4 +90,34 @@ reindexing:
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/reindex.html
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/overallocation.html
 
+relocation of shards:
 
+https://groups.google.com/forum/#!msg/elasticsearch/k-TYhXM8dXQ/yzN81x1db4IJ
+
+1) 
+Now, if you have 2 instances, one in port 9200, and the other in 9201. And you want ALL the shards to be in 9200.
+
+Run this command to disable allocation in the 9201 instance.
+You can change persistent to transient if you want this change to not be permanent.
+I'd keep it persistent so this doesn't ever happen again.
+
+curl -XPUT localhost:9201/_cluster/settings -d '{
+    "persistent" : {
+        "cluster.routing.allocation.disable_allocation" : true
+    }
+}'
+
+2) Now, run the command to MOVE all the shards in the 9201 instance to 9200.
+
+curl -XPOST 'localhost:9200/_cluster/reroute' -d '{
+    "commands" : [ {
+          "move" : 
+            {
+              "index" : "<NAME OF INDEX HERE>", "shard" : <SHARD NUMBER HERE>, 
+              "from_node" : "<ID OF 9201 node>", "to_node" : "<ID of 9200 node>"
+            }
+        }
+    ]
+}'
+
+You need to run this command for every shard in the 9201 instance (the one you wanna get rid of).
