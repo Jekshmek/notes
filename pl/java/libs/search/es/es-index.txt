@@ -83,6 +83,8 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-me
 https://github.com/elasticsearch/elasticsearch/issues/1649
   After discussion, this could simply be implemented by using a type meta and storing one document in it. Closing
 
+cache clear:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-clearcache.html
 
 reindexing:
 

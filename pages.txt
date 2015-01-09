@@ -1,3 +1,7 @@
+6.3.0 SR1
+6.3.1
+KT with Artyom
+
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
@@ -32,6 +36,7 @@ Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
+p                                         -  16:00
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124
