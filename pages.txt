@@ -20,10 +20,12 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
+Subramainan                               -  19:00 (of 1:11:48)
+DI in Java                                -1:07:00 (of 1:31:46)
 Idris                                     -  03:00 (of 56:53)
-DI in Java                                -  44:00 (of 1:31:46)
-Angular                                   -  7.1
+Angular                                   - 7.2
 Jade                                      - 4.4
+RequireJS                                 - 0102
 Git                                       - 21
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
