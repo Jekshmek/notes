@@ -105,6 +105,9 @@ Lenses:
 http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_28.html
 http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html
 
+Total (incl Prisms of Lens):
+http://www.haskellforall.com/2015/01/total-100-exhaustive-pattern-matching.html
+
 Core:
 http://www.haskellforall.com/2012/10/hello-core.html
 
