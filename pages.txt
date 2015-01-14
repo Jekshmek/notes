@@ -21,7 +21,6 @@ Kral - ES                                 -  03:00
 
 Video:
 Subramainan                               -  36:00 (of 1:11:48)
-DI in Java                                -1:07:00 (of 1:31:46)
 Idris                                     -  03:00 (of 56:53)
 Angular                                   - 7.2
 Jade                                      - 4.4
