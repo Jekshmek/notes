@@ -17,12 +17,13 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
+CppMemModel                               -  slide 30 of 66
 Kral - ES                                 -  03:00
 
 Video:
-Subramainan                               -  36:00 (of 1:11:48)
+Subramainan                               -  54:00 (of 1:11:48)
 Idris                                     -  03:00 (of 56:53)
-Angular                                   - 7.2
+Angular                                   - 7.3
 Jade                                      - 4.4
 RequireJS                                 - 0102
 Git                                       - 21
