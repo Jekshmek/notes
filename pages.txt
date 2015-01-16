@@ -21,9 +21,9 @@ CppMemModel                               -  slide 30 of 66
 Kral - ES                                 -  03:00
 
 Video:
-Subramainan                               -  54:00 (of 1:11:48)
+Subramainan                               -1:04:00 (of 1:11:48)
 Idris                                     -  03:00 (of 56:53)
-Angular                                   - 7.3
+Angular                                   - 8.1
 Jade                                      - 4.4
 RequireJS                                 - 0102
 Git                                       - 21
