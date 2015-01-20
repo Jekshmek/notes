@@ -5,6 +5,9 @@ KT with Artyom
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/
+  4. Finally tagless
+http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -17,16 +20,15 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
-CppMemModel                               -  slide 30 of 66
 Kral - ES                                 -  03:00
 
 Video:
-Subramainan                               -1:04:00 (of 1:11:48)
-Idris                                     -  03:00 (of 56:53)
-Angular                                   - 8.1
+Boston Haskell                            -  34:00 (of 2:02:08)
+Idris                                     -  12:00 (of 56:53)
+Angular                                   - 8.2
 Jade                                      - 4.4
 RequireJS                                 - 0102
-Git                                       - 21
+Git                                       - 22
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Patterson - Types and Testing in Haskell  -  10:00

@@ -1,5 +1,26 @@
 http://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/
 
+Kernels:
+http://www.if-not-true-then-false.com/2012/delete-remove-old-kernels-on-fedora-centos-red-hat-rhel/
+
+rpm -q kernel
+
+yum install yum-utils
+package-cleanup --oldkernels --count=2
+
+permanent number of kernels:
+
+/etc/yum.conf
+installonly_limit=2
+
+
+Upgrade All:
+
+yum upgrade yum kernel
+yum -y upgrade
+cat /etc/centos-release
+
+Installing:
 
 yum install <package>
 yum remove|erase <package>
@@ -28,3 +49,4 @@ interesting:
 
 ui stuff
    Desktop Platform Development
+

@@ -158,12 +158,19 @@ git ls-remote -v
 
 
 Remotes:
-git remotte [-v]
-    oritin ... (fetch)
-    oritin ... (push)
+git remote show
+    origin
 
-git remote show <remote-name>
-    <remote-name> is mostly - origin
+    remote show <remote-name>
+
+
+    remote [-v]
+    origin ... (fetch)
+    origin ... (push)
+
+    remote add <remote-name> <url>
+
+
 
 git remote add <nick> git://...repo.git
 git fetch <nick>

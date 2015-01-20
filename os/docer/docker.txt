@@ -1,3 +1,7 @@
+Articles:
+http://paislee.io/how-to-automate-docker-deployments/
+http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
+
 Smaples:
 https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
 

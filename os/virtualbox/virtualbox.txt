@@ -6,3 +6,11 @@ http://www.webupd8.org/2011/02/how-to-easily-resize-virtualbox-40-hard.html
 
 VBoxManage modifyhd YOUR_HARD_DISK.vdi --resize
 
+
+Guest Additions:
+
+mkdir /media/cdrom0
+mount /dev/sr0 /media/cdrom0
+sh /media/cdrom0/VBoxLinuxAdditions.run
+umount /dev/sr0
+

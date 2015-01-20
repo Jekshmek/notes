@@ -1,5 +1,8 @@
 https://github.com/google/guice/wiki
 
+Books:
+Prasanna - Dependency Injection - Design Patterns Using Spring and Guice
+
 Module stuff
     bind(TweetClient.class)
 
