@@ -5,8 +5,10 @@ KT with Artyom
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/
-  4. Finally tagless
+http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/
+  Controllers
+http://matthewcarriere.com/2015/01/13/controllers-directives-services-angularjs-101/
+
 http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
