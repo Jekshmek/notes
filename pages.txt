@@ -9,6 +9,8 @@ http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jq
   Distinct model layer
 http://matthewcarriere.com/2015/01/13/controllers-directives-services-angularjs-101/
 
+http://www.reddit.com/r/haskell/comments/2tbbxh/io_monad_considered_harmful/
+
 http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
   Automating traversal
 http://martinfowler.com/eaaDev/EventSourcing.html
