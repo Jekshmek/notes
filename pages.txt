@@ -5,14 +5,15 @@ KT with Artyom
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background
-  4. TDD
 http://matthewcarriere.com/2015/01/13/controllers-directives-services-angularjs-101/
-
-http://www.reddit.com/r/haskell/comments/2tbbxh/io_monad_considered_harmful/
-
+  Controllers
+http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background
+  Manual DOM changes vs. Data Binding
+http://stackoverflow.com/questions/15666048/service-vs-provider-vs-factory/
 http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
-  Automating traversal
+  A Shift
+TODO: put auto to streams
+
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -28,16 +29,16 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Boston Haskell                            -  34:00 (of 2:02:08)
-Idris                                     -  21:00 (of 56:53)
-Angular                                   - 8.3
+Boston Haskell                            -  56:00 (of 2:02:08)
+Idris                                     -  36:00 (of 56:53)
+Angular                                   - 8.4
 Jade                                      - 4.4
 RequireJS                                 - 0102
-Git                                       - 22
+Git                                       - 24
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Patterson - Types and Testing in Haskell  -  10:00
-https://www.youtube.com/watch?v=O97NBMlXAvc - 10:00
+Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03

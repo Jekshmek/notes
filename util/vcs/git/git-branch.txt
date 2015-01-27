@@ -1,0 +1,58 @@
+BRANCHES:
+
+git branch -v [--list]
+    get branches with hashes.
+
+git branch -a
+    show all branches
+
+git branch -r
+    show remote-only branches
+
+git ls-remote -v
+	.. remote
+    show-branch
+
+
+Remotes:
+git remote show
+    origin
+
+    remote show <remote-name>
+
+
+    remote [-v]
+    origin ... (fetch)
+    origin ... (push)
+
+    remote add <remote-name> <url>
+
+
+
+git remote add <nick> git://...repo.git
+git fetch <nick>
+git push <nick> master[or other branch name here]
+  now git remote should list public
+  git remote show public ...
+
+Note:
+    remote can be a local FS path (/...)
+
+pull = fetch + merge
+    also shows the latest branches available
+
+
+
+REBASE:
+
+interactive:
+git rebase -i <branch/commit/tag> 
+
+auto:
+git config --global branch.autosetuprebase always
+git config branch.7.x.rebase true
+
+protection
+
+(to disable  git push --force):
+git config --system receive.denyNonFastForwards true
