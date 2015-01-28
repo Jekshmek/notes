@@ -115,6 +115,8 @@ http://www.reddit.com/r/haskell/comments/2pwecw/24_days_of_ghc_extensions_scoped
 https://ocharles.org.uk/blog/guest-posts/2014-12-20-scoped-type-variables.html
 
 ConstraintKinds:
+ConstraintFamilies:
+https://dorchard.wordpress.com/2011/09/22/constraint-kinds-in-haskell-finally-bringing-us-constraint-families/
 http://www.reddit.com/r/haskell/comments/2jg4y5/hiding_liftio/
 
 That's the reason why recently started to write code like this:

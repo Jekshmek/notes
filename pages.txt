@@ -6,14 +6,12 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 http://matthewcarriere.com/2015/01/13/controllers-directives-services-angularjs-101/
-  Controllers
+  Custom Directives
 http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background
-  Manual DOM changes vs. Data Binding
+  Dependency injection (DI) - aka de-spaghettification
 http://stackoverflow.com/questions/15666048/service-vs-provider-vs-factory/
 http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
-  A Shift
-TODO: put auto to streams
-
+  Autos are nice
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
