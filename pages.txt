@@ -29,7 +29,6 @@ Kral - ES                                 -  03:00
 Video:
 Boston Haskell                            -  56:00 (of 2:02:08)
 Idris                                     -  36:00 (of 56:53)
-Angular                                   - 8.4
 Jade                                      - 4.4
 RequireJS                                 - 0102
 Git                                       - 24
