@@ -1,23 +1,13 @@
-6.3.0 SR1
-6.3.1
-KT with Artyom
-
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://matthewcarriere.com/2015/01/13/controllers-directives-services-angularjs-101/
-  Services
-http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background
-  They're apples and oranges.
-http://stackoverflow.com/questions/15666048/service-vs-provider-vs-factory/
 http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
   More Auto examples
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
-
-:h
+vim :h
   vimproc-functions
 
 Books:
@@ -27,9 +17,8 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Boston Haskell                            -  56:00 (of 2:02:08)
-Idris                                     -  36:00 (of 56:53)
-Jade                                      - 4.4
+Boston Haskell                            -  53:00 (of 2:02:08)
+Jade                                      - 5.1
 RequireJS                                 - 0102
 Git                                       - 24
 Monad Transformers                        -  50:00 (of 1:48:33)
@@ -43,11 +32,10 @@ Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
-Ivlev                                     -1:11:00
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124
-https://www.fpcomplete.com/recent-content - 22 Jan
+https://www.fpcomplete.com/recent-content - 29 Jan
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

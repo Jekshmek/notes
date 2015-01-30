@@ -153,6 +153,9 @@ http://www.haskellforall.com/2013/12/equational-reasoning.html
 Optimization-Morte:
 http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html
 
+Shellscripting-Turtle:
+http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html
+
 Misc:
 http://www.haskellforall.com/2014/12/a-very-general-api-for-relational-joins.html
 http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html
