@@ -1,8 +1,6 @@
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
-http://blog.jle.im/entry/intro-to-machines-arrows-part-1-stream-and
-  More Auto examples
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html

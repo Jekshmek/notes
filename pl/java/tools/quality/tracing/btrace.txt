@@ -1,0 +1,4 @@
+http://www.infoq.com/articles/Advanced-Java-Debugging-Techniques
+https://kenai.com/projects/btrace
+https://github.com/jbachorik/btrace/wiki
+
