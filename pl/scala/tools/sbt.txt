@@ -196,3 +196,5 @@ outputStrategy := Some(BufferedOutput(log: Logger))
 !!!USEFULL PLUGINS!!!
 
 https://github.com/kouphax/sbt-tasks
+https://github.com/sbt/sbt-aspectj
+https://github.com/ktoso/scala-rainbow

@@ -15,8 +15,8 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Boston Haskell                            -  53:00 (of 2:02:08)
-Jade                                      - 5.1
+Boston Haskell                            -1:35:00 (of 2:02:08)
+Jade                                      - 5.2
 RequireJS                                 - 0102
 Git                                       - 24
 Monad Transformers                        -  50:00 (of 1:48:33)

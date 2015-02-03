@@ -1,3 +1,24 @@
 https://wiki.archlinux.org/index.php/Permissions
 https://wiki.archlinux.org/index.php/Users_and_groups
 
+Reset Pwd:
+http://www.unixmen.com/reset-root-password-centos-7/
+http://www.unixmen.com/linux-basics-reset-forgotten-password-ubuntu/
+
+- Go to the Grub-Menu (e) line of Linux 16 and change
+ro
+with
+rw init=/sysroot/bin/sh.
+
+- Now press Control+x to start on single user mode.
+
+– Now access the system with this command.
+chroot /sysroot
+– Reset the password.
+passwd root
+– Update selinux information
+touch /.autorelabel
+– Exit chroot
+exit
+– Reboot your system
+reboot
