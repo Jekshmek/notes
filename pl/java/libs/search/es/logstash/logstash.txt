@@ -1,0 +1,1 @@
+http://www.slideshare.net/NETWAYS/osmc-2014-using-elasticsearch-logstash-kibana-in-system-administration-alexander-reelsen

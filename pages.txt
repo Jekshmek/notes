@@ -15,9 +15,8 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Boston Haskell                            -1:35:00 (of 2:02:08)
 RequireJS                                 - 0102
-Git                                       - 24
+Git                                       - 25
 Monad Transformers                        -  50:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
 Patterson - Types and Testing in Haskell  -  10:00
