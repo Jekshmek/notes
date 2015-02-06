@@ -72,11 +72,29 @@ curl -XPOST 'http://localhost:9200/test/_optimize?max_num_segments=5'
 http://www.elasticsearch.org/blog/changing-mapping-with-zero-downtime/
 http://stackoverflow.com/questions/22304776/how-to-scale-write-and-indexs-size-dynamically-with-elasticsearch
 
+indexing modules:
+
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-allocation.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-merge.html
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-store.html
+  - throttling is at store
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-merge.html
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/index-modules-slowlog.html
   !!! slow search log settings
+
+index throttling:
+The node level throttling will make sure that out of all the shards allocated on that node, the merge process won’t pass the specific setting bytes per second.
+It can be set by setting
+    indices.store.throttle.type                 to merge, and setting
+    indices.store.throttle.max_bytes_per_sec    to something like 5mb.
+The node level settings can be changed dynamically using the cluster update settings API.
+The default is set to 20mb with type merge.
+
+If specific index level configuration is needed, regardless of the node level settings, it can be set as well using the
+    index.store.throttle.type, and
+    index.store.throttle.max_bytes_per_sec.
+The default value for the type is node, meaning it will throttle based on the node level settings and participate in the global throttling happening.
+Both settings can be set using the index update settings API dynamically.
+
 
 custom metadata:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-meta.html

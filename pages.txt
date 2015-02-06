@@ -1,6 +1,8 @@
 CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
+https://www.oracle.com/javaone/sessions/index.html
+  p2
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -16,9 +18,11 @@ Kral - ES                                 -  03:00
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 25
-Monad Transformers                        -  50:00 (of 1:48:33)
+Git                                       - 26
+Hadoop                                    - 03-001
+Monad Transformers                        - 36:00 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
+  Functor and its kind
 Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
