@@ -20,9 +20,10 @@ Video:
 RequireJS                                 - 0102
 Git                                       - 26
 Hadoop                                    - 03-001
-Monad Transformers                        - 36:00 (of 1:48:33)
+Oracle                                    - 32
+Monad Transformers                        - 45:30 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-  Functor and its kind
+  Function Functor
 Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
