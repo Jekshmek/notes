@@ -27,4 +27,4 @@ https://github.com/nixos/nixpkgs
 
 Haskell and NIX:
 http://stackoverflow.com/questions/27968909/how-to-get-cabal-and-nix-work-together
-
+https://github.com/NixOS/nixpkgs/blob/master/pkgs/development/haskell-modules/configuration-common.nix
