@@ -13,6 +13,11 @@ git ls-remote -v
 	.. remote
     show-branch
 
+git checkout -b <branch name>
+    ? create a new branch [branch-to-start-from]
+git branch -d <branch-to-delete>
+    delete a branch
+
 
 Remotes:
 git remote show

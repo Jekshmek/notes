@@ -18,7 +18,7 @@ Kral - ES                                 -  03:00
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 26
+Git                                       - 27
 Hadoop                                    - 03-001
 Oracle                                    - 32
 Monad Transformers                        - 50:10 (of 1:48:33)
