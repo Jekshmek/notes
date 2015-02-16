@@ -1,0 +1,2 @@
+git diff master..origin/master
+    show the diff between a local and remote branch

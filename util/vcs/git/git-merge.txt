@@ -1,0 +1,17 @@
+git checkout <branch-to-merge>
+git merge <feature-branch>
+... --//-- the same stuff in the opposite direction
+git chechout <featur-branch>
+git merge <branch-to-merge>
+    fast-forward merge
+git push...
+
+
+git checkout master
+git fetch
+
+git merge <remote-name>/<branch>
+git pull
+
+git merge <issue>-<description>
+git merge --no-ff <issue>-<desc>

@@ -18,12 +18,12 @@ Kral - ES                                 -  03:00
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 27
+Git                                       - 29
 Hadoop                                    - 03-001
 Oracle                                    - 32
-Monad Transformers                        -1:02:00 (of 1:48:33)
+Monad Transformers                        -1:18:07 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-  Examples of monads
+  Compose
 Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
