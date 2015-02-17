@@ -5,3 +5,11 @@ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-
 field data fields:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-request-fielddata-fields.html
 
+
+aggregations:
+http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html
+https://raygun.io/blog/2014/11/intro-elasticsearchs-awesome-aggregations/
+http://chrissimpson.co.uk/elasticsearch-aggregations-overview.html
+
+http://www.elasticsearch.org/blog/intro-to-aggregations/
+http://www.elasticsearch.org/blog/intro-to-aggregations-pt-2-sub-aggregations/

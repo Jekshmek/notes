@@ -24,4 +24,5 @@ http://hackage.haskell.org/package/first-class-patterns
 Parallel:
 http://www.cse.chalmers.se/edu/course/pfp/ - pfp2012
 
-
+PrimOps:
+https://www.fpcomplete.com/blog/2015/02/primitive-haskell

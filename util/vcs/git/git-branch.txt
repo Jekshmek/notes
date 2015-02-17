@@ -14,7 +14,7 @@ git ls-remote -v
     show-branch
 
 git checkout -b <branch name>
-    ? create a new branch [branch-to-start-from]
+    checks out a branch [branch-to-start-from]
 git branch -d <branch-to-delete>
     delete a branch
 

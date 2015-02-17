@@ -1,3 +1,6 @@
+git config --global merge.tool
+git config --global diff.tool
+
 git checkout <branch-to-merge>
 git merge <feature-branch>
 ... --//-- the same stuff in the opposite direction

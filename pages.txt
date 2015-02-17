@@ -17,13 +17,16 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
+Kmett                                     - 15:00 (of 1:42:52)
+Idris                                     - 06:00 (of 36:45)
 RequireJS                                 - 0102
-Git                                       - 29
+Git                                       - 30
+ELK                                       - 06:00 (of 31:42)
 Hadoop                                    - 03-001
 Oracle                                    - 32
-Monad Transformers                        -1:18:07 (of 1:48:33)
+Monad Transformers                        -1:26:07 (of 1:48:33)
   https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-  Compose
+  Example using list and maybe
 Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
@@ -33,7 +36,6 @@ Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
-Ivliev                                    -  32:19
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124

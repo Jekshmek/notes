@@ -40,11 +40,14 @@ Bulk indexing:
 
 http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/master/bulk.html
 
+
 Deleting from index:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/docs-delete.html
+http://www.elasticsearch.org/blog/lucenes-handling-of-deleted-documents/
 
 Optimizing index:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-optimize.html
+
 
 index scaleability:
 
