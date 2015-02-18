@@ -1,0 +1,3 @@
+F5 - run
+F9 - run current line
+F10 - explain plan
