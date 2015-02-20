@@ -1,3 +1,7 @@
+Commits:
+commit 4708227ecf0f350765c1352d11ece4f887f2d685
+
+
 ??? Can we manage our indices per time frame (month) ???
 
 ??? Kickstarter sample at 2013:
