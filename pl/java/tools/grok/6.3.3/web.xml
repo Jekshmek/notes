@@ -6,16 +6,16 @@
 
   <context-param>
     <param-name>CONFIGURATION</param-name>
-    <param-value>D:\dev\bin\wrk\clb\.grk\cfg\configuration.xml</param-value>
+    <param-value>D:\dev\bin\wrk\clb\.grk\cfg\conf-6.3.3.xml</param-value>
     <description>Full path to the configuration file where OpenGrok can read it's configuration</description>
   </context-param>
   <context-param>    
     <param-name>SRC_ROOT</param-name>  
-    <param-value>D:\clb\src\main</param-value>  
+    <param-value>D:\clb\src\6.3.3</param-value>  
   </context-param>  
   <context-param>  
     <param-name>DATA_ROOT</param-name>  
-    <param-value>D:\dev\Grok\grokdata</param-value>    
+    <param-value>D:\clb\grokdata\633</param-value>    
   </context-param>
   
   <context-param>

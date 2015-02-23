@@ -18,15 +18,11 @@ Kral - ES                                 -  03:00
 
 Video:
 ELK                                       - 08:00 (of 31:42)
-Kmett                                     - 15:00 (of 1:42:52)
+Kmett                                     - 27:00 (of 1:42:52)
 Idris                                     - 06:00 (of 36:45)
 RequireJS                                 - 0102
 Git                                       - 30
-Hadoop                                    - 03-001
 Oracle                                    - 32
-Monad Transformers                        -1:35:00 (of 1:48:33)
-  https://github.com/bitemyapp/presentations/blob/master/monad_transformers/transformers.md
-  Using Reader and Maybe
 Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     - 10:00
 Moser - LXC                               -  00:00
@@ -39,7 +35,7 @@ Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124
-https://www.fpcomplete.com/recent-content - 29 Jan
+https://www.fpcomplete.com/recent-content - 20 Feb
 
 Old Video:
 lshsm2002_V.M.Tikhomirov-2.rv         - 00:00
