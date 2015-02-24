@@ -1,1 +1,8 @@
 http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
+
+Distributed Systems for Fun and Profit:
+http://book.mixu.net/distsys/single-page.html
+https://github.com/mixu/distsysbook
+
+Consistency without Consensus: CRDTs in Production at SoundCloud
+http://www.infoq.com/presentations/crdt-soundcloud

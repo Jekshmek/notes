@@ -1,0 +1,13 @@
+git tag
+    list tags
+
+git tag <tag-name> <rev-hash>
+    add a tag
+
+git tag -a -m "commit-msg" <tag-name> <rev-hash>
+    add an annotated tag
+git tag -a <tag-name> <rev-hash>
+    add an annotated tag (editor will be opened for commit-message)
+
+git tag -d <tag-name>
+    delete a tag

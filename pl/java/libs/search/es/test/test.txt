@@ -1,2 +1,8 @@
 index.store.
     ExceptionRetryTests
+
+org.elasticsearch.network
+    DirectBufferNetworkTests
+
+    - traversing threads, threadlocals
+    - sun.nio.ch.Util$BufferCache buffers

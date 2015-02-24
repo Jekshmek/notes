@@ -17,14 +17,14 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-ELK                                       - 08:00 (of 31:42)
-Kmett                                     - 27:00 (of 1:42:52)
-Idris                                     - 06:00 (of 36:45)
+Kibana                                    -  07:00 (of 28:48)
+Kmett                                     -1:23:00 (of 1:42:52)
+Idris - Type Providers                    -  12:00 (of 36:45)
 RequireJS                                 - 0102
-Git                                       - 30
+Git                                       - 32
 Oracle                                    - 32
 Patterson - Types and Testing in Haskell  -  10:00
-Olimpiad Master Class                     - 10:00
+Olimpiad Master Class                     -  10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
 FRP - RxJava                              -  05_03
