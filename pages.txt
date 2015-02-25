@@ -17,13 +17,11 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Kibana                                    -  07:00 (of 28:48)
-Kmett                                     -1:23:00 (of 1:42:52)
-Idris - Type Providers                    -  12:00 (of 36:45)
+Kibana                                    -  10:00 (of 1:21:15)
+Idris - Type Providers                    -  21:00 (of 36:45)
 RequireJS                                 - 0102
-Git                                       - 32
+Git                                       - 33
 Oracle                                    - 32
-Patterson - Types and Testing in Haskell  -  10:00
 Olimpiad Master Class                     -  10:00
 Moser - LXC                               -  00:00
 Linux in a Real World 14                  -  00:00
@@ -32,6 +30,7 @@ Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
+Potapovskaya                              - 13 - 46:00
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124

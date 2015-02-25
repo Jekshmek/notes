@@ -11,3 +11,11 @@ git tag -a <tag-name> <rev-hash>
 
 git tag -d <tag-name>
     delete a tag
+
+
+git show <tag-name>
+    view a tag commit log
+
+git checkout <tag-name>
+    check out a tag
+    ... you are in 'detached HEAD' state...

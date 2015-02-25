@@ -1,1 +1,8 @@
-copy /Z \\tsclient\D\Welcome\Far3.zip .
+copy /Z \\tsclient\D\Welcome\tscbox\curl-7.33.0-win64-ssl-sspi.zip .
+
+copy /Z D:\iharh\*.7z \\tsclient\D
+
+:: wmic process get /? - for the list of properties
+::Name, ProcessId, VirtualSize, WorkingSetSize
+
+wmic.exe process where (Name="ClarabridgeService.exe") get ProcessId, Commandline
