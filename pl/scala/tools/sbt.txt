@@ -193,8 +193,15 @@ connectInput in run := true
 outputStrategy := Some(BufferedOutput(log: Logger))
 
 
+Manifest:
+// http://www.scala-sbt.org/release/docs/Howto/package.html
+//packageOptions in (Compile, packageBin) += Package.ManifestAttributes(java.util.jar.Attributes.Name.CLASS_PATH -> "org.snu.ids.ha.jar" )
+
+
 !!!USEFULL PLUGINS!!!
 
 https://github.com/kouphax/sbt-tasks
 https://github.com/sbt/sbt-aspectj
 https://github.com/ktoso/scala-rainbow
+https://github.com/softprops/np
+  new projects

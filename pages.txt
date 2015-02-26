@@ -2,7 +2,7 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 https://www.oracle.com/javaone/sessions/index.html
-  p2
+  p5
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -17,8 +17,8 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-Kibana                                    -  10:00 (of 1:21:15)
-Idris - Type Providers                    -  21:00 (of 36:45)
+UrWeb                                     -  12:00 (of 1:04:33)
+Kibana                                    -  15:00 (of 1:21:15)
 RequireJS                                 - 0102
 Git                                       - 33
 Oracle                                    - 32
