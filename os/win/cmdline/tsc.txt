@@ -6,3 +6,8 @@ copy /Z D:\iharh\*.7z \\tsclient\D
 ::Name, ProcessId, VirtualSize, WorkingSetSize
 
 wmic.exe process where (Name="ClarabridgeService.exe") get ProcessId, Commandline
+
+wmic logicaldisk get DeviceID,FreeSpace
+
+7z a -w -mx=9 -ssw <arc-file>.7z <files-to-arc>
+::-w -r

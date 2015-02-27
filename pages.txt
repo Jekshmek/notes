@@ -17,10 +17,8 @@ Presentations:
 Kral - ES                                 -  03:00
 
 Video:
-UrWeb                                     -  12:00 (of 1:04:33)
-Kibana                                    -  15:00 (of 1:21:15)
 RequireJS                                 - 0102
-Git                                       - 33
+Git                                       - 36
 Oracle                                    - 32
 Olimpiad Master Class                     -  10:00
 Moser - LXC                               -  00:00

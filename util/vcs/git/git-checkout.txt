@@ -5,3 +5,5 @@ git checkout --track <remote>/<branch-name>
     create a branch which will track remote branch
     --track is needed if you have more than one remote, otherwise - by default
 
+reverting:
+git checkout -- <file>

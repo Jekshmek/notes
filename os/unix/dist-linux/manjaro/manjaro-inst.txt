@@ -123,6 +123,9 @@ gtk-theme-name="Menda"
 
 
 --- Audio issues:
+pavucontrol
+
+http://forums.netrunner.com/showthread.php?tid=17344
 
 https://forum.manjaro.org/index.php?topic=3681.0
 
@@ -135,6 +138,7 @@ https://forum.manjaro.org/index.php?topic=4809.0
 
 PulseAudio
 https://wiki.archlinux.org/index.php/PulseAudio
+https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting
 
 /etc/pulse/default.pa
 ~/.config/pulse/default.pa
@@ -146,8 +150,6 @@ https://wiki.archlinux.org/index.php/PulseAudio
 #.ifexists module-bluetooth-discover.so
 #load-module module-bluetooth-discover
 #.endif
-
-VLC:
 
 
 --- Manjaro Skype

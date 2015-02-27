@@ -1,0 +1,19 @@
+git log --oneline
+
+git log HEAD^
+    except the top-one commit (HEAD)
+git log HEAD~3
+    except the top 3 commits
+
+
+git log --no-merges
+
+git log -1 --pretty=format:%H
+for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a
+
+git log -p
+  commit history with changes (diff)
+
+  --stat   ...
+  --graph  ...
+

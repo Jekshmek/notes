@@ -171,17 +171,6 @@ git remote -v update --prune
 git gc
 
 
-LOG:
-git log --no-merges
-
-git log -1 --pretty=format:%H
-for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a
-
-git log -p
-  commit history with changes (diff)
-
-  --stat   ...
-  --graph  ...
 
 
 ARCHIVING:

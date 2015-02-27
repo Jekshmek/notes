@@ -19,3 +19,14 @@ git show <tag-name>
 git checkout <tag-name>
     check out a tag
     ... you are in 'detached HEAD' state...
+
+    later:
+    (make changes and)
+    git checkout -b <new-branch-to-save-work>
+
+git push --tags <remote-branch>
+    push tags to a remote branch
+
+git push <remote-branch> :<tag-name>
+    push nothing to tag-name at remote-branch
+
