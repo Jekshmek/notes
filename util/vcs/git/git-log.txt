@@ -4,6 +4,12 @@ git log HEAD^
     except the top-one commit (HEAD)
 git log HEAD~3
     except the top 3 commits
+git log <branch1>..<branch2> --oneline
+    difference between branch1 and branch2
+git log <branch>..
+    changes made locally, but not pushed
+git log ..<remote-branch>
+    ???
 
 
 git log --no-merges

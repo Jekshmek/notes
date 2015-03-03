@@ -18,13 +18,12 @@ Kral - ES                                 -  03:00
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 36
+Git                                       - 37
 Oracle                                    - 32
 Olimpiad Master Class                     -  36:00 (of 1:17:33)
 Moser - LXC                               -  00:00
-Linux in a Real World 14                  -  00:00
+Linux in a Real World 15                  -  00:00
 FRP - RxJava                              -  05_03
-Networks for Programmers                  -  17:00
 msg                                       -  04:30
 
 Audio:
