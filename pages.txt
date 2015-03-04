@@ -14,16 +14,16 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
-Kral - ES                                 -  03:00
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 37
+Git                                       - 38
 Oracle                                    - 32
-Olimpiad Master Class                     -  36:00 (of 1:17:33)
 Moser - LXC                               -  00:00
-Linux in a Real World 15                  -  00:00
+Linux in a Real World 16                  -  00:00
 FRP - RxJava                              -  05_03
+HoTT 1                                    -  11:30 (of 1:34:21)
+Haskell Fundamentals                      -  03_01
 msg                                       -  04:30
 
 Audio:

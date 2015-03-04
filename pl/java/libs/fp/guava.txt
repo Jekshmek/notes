@@ -8,3 +8,5 @@ http://www.slideshare.net/alexkorotkikh/google-guava-12991826
 http://joschi.github.io/guava-slides/#1
   https://github.com/joschi/guava-slides
 
+guava-retrying
+https://github.com/rholder/guava-retrying

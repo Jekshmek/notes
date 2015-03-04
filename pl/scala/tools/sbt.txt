@@ -137,6 +137,9 @@ print-warnings
 
 Multi-Project Build
 
+multi-prj build samples:
+https://github.com/henrikerola/scaladin/blob/3.2/build.sbt
+
 >projects
   to inspect projects
 
