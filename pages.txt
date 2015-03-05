@@ -2,7 +2,7 @@ CLB Presentation                          - 20:00 (Slide 23)
 
 URLs:
 https://www.oracle.com/javaone/sessions/index.html
-  p5
+  p7
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
@@ -17,13 +17,12 @@ Presentations:
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 38
+Git                                       - 39
 Oracle                                    - 32
-Moser - LXC                               -  00:00
-Linux in a Real World 16                  -  00:00
+Linux in a Real World 17                  -  00:00
 FRP - RxJava                              -  05_03
-HoTT 1                                    -  11:30 (of 1:34:21)
-Haskell Fundamentals                      -  03_01
+HoTT 1                                    -  25:00 (of 1:34:21)
+Haskell Fundamentals                      -  04_01
 msg                                       -  04:30
 
 Audio:

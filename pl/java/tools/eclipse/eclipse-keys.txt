@@ -1,6 +1,6 @@
 Keys
 C-S-B - Toggle breakpoint
-C-S-F - find usages
+C-S-G - find usages
 
 
 F5 - Step Into
