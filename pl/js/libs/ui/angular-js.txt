@@ -11,3 +11,7 @@ you do DOM manipulation and augment your view with directives;
 and you glue it all together with controllers.
 
 This was also mentioned in other answers, and the only thing I would add pertains to testability, which I discuss in another section below.
+
+2.0
+http://www.sitepoint.com/whats-new-in-angularjs-2/
+

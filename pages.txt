@@ -17,12 +17,12 @@ Presentations:
 
 Video:
 RequireJS                                 - 0102
-Git                                       - 39
+Git                                       - 42
 Oracle                                    - 32
-Linux in a Real World 17                  -  00:00
+Linux in a Real World 18                  -  00:00
 FRP - RxJava                              -  05_03
 HoTT 1                                    -  25:00 (of 1:34:21)
-Haskell Fundamentals                      -  04_01
+Haskell Fundamentals                      -  05_01
 msg                                       -  04:30
 
 Audio:

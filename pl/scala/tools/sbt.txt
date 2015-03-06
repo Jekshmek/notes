@@ -94,6 +94,12 @@ unmanagedBase
 unmanagedJars (:= file(...))
   sbt show unmanaged-jars
 
+libraryDependencies ++=
+    if(os ==Windows)
+        ("org.example" % "windows-only" % "1.0") :: Nil
+    else
+        Nil
+
 Keys:
 http://www.scala-sbt.org/release/docs/Getting-Started/Basic-Def.html#keys
 http://www.scala-sbt.org/release/sxr/sbt/Keys.scala.html
@@ -208,3 +214,9 @@ https://github.com/sbt/sbt-aspectj
 https://github.com/ktoso/scala-rainbow
 https://github.com/softprops/np
   new projects
+https://github.com/rtimush/sbt-updates
+  check lib updates
+
+https://github.com/sbt/sbt/tree/0.13/sbt/src/sbt-test
+http://eed3si9n.com/testing-sbt-plugins
+

@@ -1,3 +1,9 @@
 tune2fs
     ???
 
+fsck
+    sudo touch /forcefsck
+    sudo shutdown -rF now
+
+smartmontools
+    smartctl -i
