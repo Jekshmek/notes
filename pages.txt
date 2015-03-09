@@ -23,6 +23,7 @@ Linux in a Real World 18                  -  00:00
 FRP - RxJava                              -  05_03
 HoTT 1                                    -  25:00 (of 1:34:21)
 Haskell Fundamentals                      -  05_01
+Kmett                                     -  19:00
 msg                                       -  04:30
 
 Audio:

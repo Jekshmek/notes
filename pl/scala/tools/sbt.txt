@@ -1,6 +1,10 @@
 Books:
 Hinojosa - Testing in Scala
 
+Articles:
+https://jazzy.id.au/2015/03/03/sbt-task-engine.html
+https://jazzy.id.au/2015/03/04/sbt-declarative-dsl.html
+
 console
 	launch a repl
 

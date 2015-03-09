@@ -3,3 +3,8 @@ http://www.infoq.com/presentations/raft
 
 Boner - The Road to Akka Cluster and Beyond
 http://www.slideshare.net/jboner/the-road-to-akka-cluster-and-beyond
+
+Paxos:
+http://wellquite.org/blog/paxos_notes.html
+http://en.wikipedia.org/wiki/Paxos_%28computer_science%29
+
