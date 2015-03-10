@@ -1,0 +1,2 @@
+config:
+-Dlog4j.configuration=jfx.properties

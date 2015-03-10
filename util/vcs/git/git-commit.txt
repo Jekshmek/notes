@@ -2,4 +2,5 @@ git commit -m <descr>
 
 git commit --ammend
     open the $EDITOR and add more commit info
+    or just add a little bit about the previous commit
 
