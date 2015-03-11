@@ -7,3 +7,4 @@ git checkout --track <remote>/<branch-name>
 
 reverting:
 git checkout -- <file>
+git checkout -- .
