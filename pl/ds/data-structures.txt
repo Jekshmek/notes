@@ -1,3 +1,6 @@
+Encyclopedia:
+Mehta - Handbook of Data Structures and Applications
+
 MIT:
 http://courses.csail.mit.edu/6.851/spring12/
 
