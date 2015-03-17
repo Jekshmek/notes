@@ -224,3 +224,6 @@ https://github.com/rtimush/sbt-updates
 https://github.com/sbt/sbt/tree/0.13/sbt/src/sbt-test
 http://eed3si9n.com/testing-sbt-plugins
 
+https://github.com/lihaoyi/Ammonite/blob/master/build.sbt
+https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter10/release.sbt
+https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter11/scalastyle-plugin/src/main/scala/ScalastylePlugin.scala

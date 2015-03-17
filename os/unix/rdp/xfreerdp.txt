@@ -1,0 +1,4 @@
+com.freerdp.legacy - Unable to get current timezone rule
+https://github.com/FreeRDP/FreeRDP/wiki/Time-Zone-Redirection
+
+xfreerdp +clipboard /u:<user> /v:<host>

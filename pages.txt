@@ -1,4 +1,4 @@
-CLB Presentation                          - 20:00 (Slide 23)
+CLB Presentation                          - 29:00 (Slide 29)
 
 URLs:
 https://www.oracle.com/javaone/sessions/index.html
@@ -16,16 +16,15 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Why FRP                                   -  58:30 (of 1:12:04)
-GWT create 2015 - Singular                -  04:30 (of 32:22)
-RequireJS                                 - 0102
-Git                                       - 46
-Oracle                                    - 32
+GWT create 2015 - Singular                -  20:00 (of 32:22)
+Haskell Fundamentals                      -  06_05 - 03:00
+Git                                       - 48
 ChromDevTools                             - 2
+RequireJS                                 - 0102
+Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 1                                    -  44:00 (of 1:34:21)
 HoTT 2                                    -  12:00
-Haskell Fundamentals                      -  06_04 - 07:00
 msg                                       -  04:30
 
 Audio:
