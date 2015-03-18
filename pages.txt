@@ -1,6 +1,8 @@
 CLB Presentation                          - 29:00 (Slide 29)
 
 URLs:
+http://artyom.me/lens-over-tea-2
+  Extra clarity
 https://www.oracle.com/javaone/sessions/index.html
   p7
 http://martinfowler.com/eaaDev/EventSourcing.html
@@ -17,7 +19,6 @@ Presentations:
 
 Video:
 GWT create 2015 - Singular                -  20:00 (of 32:22)
-Haskell Fundamentals                      -  06_05 - 03:00
 Git                                       - 48
 ChromDevTools                             - 2
 RequireJS                                 - 0102
