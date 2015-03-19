@@ -4,8 +4,8 @@
 			action="put"
 
 			server="ftp.knova.com"
-			userid="cust_aol"
-			password="b8u5RuST"
+                        userid="<uid>"
+                        password="<pwd>"
 
 			passive="yes"
 			verbose="yes"

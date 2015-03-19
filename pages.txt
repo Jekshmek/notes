@@ -1,4 +1,4 @@
-CLB Presentation                          - 29:00 (Slide 29)
+CLB Presentation                          - 34:00
 
 URLs:
 http://artyom.me/lens-over-tea-2
@@ -18,8 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-GWT create 2015 - Singular                -  20:00 (of 32:22)
-Git                                       - 48
+Git                                       - 49
 ChromDevTools                             - 2
 RequireJS                                 - 0102
 Oracle                                    - 32

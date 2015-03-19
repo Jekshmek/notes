@@ -6,3 +6,29 @@ git log ..master
 git rebase master
 
     resolve the conflicts, if any, ...
+
+
+another usage of rebase is history manipulation
+
+git rebase -i <commit-final>
+    start interactive rebase (and specify commit to squish into).
+
+    stage 1 - edit a stuff in editor:
+
+    pick <id1> log1
+    pick <id2> log2
+    squash <idN>
+    pick <id3> log3
+
+    pick
+        leave as is
+    squash
+        keep the commit message, merge the commit output
+    <delete the line>
+        drop the commit from the history (graph), but we can 
+
+    # Rebase <id-start>..<id-end> onto <commit-final>
+
+
+    stage 2 - edit the cummulative note
+        Note: everything started from # will be ignored

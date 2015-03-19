@@ -14,4 +14,4 @@ This was also mentioned in other answers, and the only thing I would add pertain
 
 2.0
 http://www.sitepoint.com/whats-new-in-angularjs-2/
-
+http://habrahabr.ru/post/253469/

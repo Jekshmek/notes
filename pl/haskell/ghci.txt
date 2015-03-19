@@ -1,6 +1,9 @@
 Hoogle integration:
 http://www.haskell.org/haskellwiki/Hoogle#GHCi_Integration
 
+DLL/shared libs usage:
+https://www.fpcomplete.com/user/icelandj/dynamically-link-against-library-in-ghci
+
 Config Location (of ghci.conf):
 
 C:\Users\Ihar_Hancharenka\Application Data\ghc\
