@@ -11,6 +11,7 @@ git rebase master
 another usage of rebase is history manipulation
 
 git rebase -i <commit-final>
+              HEAD~4
     start interactive rebase (and specify commit to squish into).
 
     stage 1 - edit a stuff in editor:
