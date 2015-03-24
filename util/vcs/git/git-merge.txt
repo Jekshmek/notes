@@ -18,3 +18,4 @@ git pull
 
 git merge <issue>-<description>
 git merge --no-ff <issue>-<desc>
+    --no-ff - do not do a fast-forward (for one-commit merges)
