@@ -1,6 +1,8 @@
 URLs:
 http://artyom.me/lens-over-tea-2
   New Lenses
+http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
+  The Action trick
 https://www.oracle.com/javaone/sessions/index.html
   p7
 http://martinfowler.com/eaaDev/EventSourcing.html
@@ -16,8 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-CEO                                       -  20:00 (of 1:01:58)
-Git                                       - 51
+Git                                       - 52
 ChromDevTools                             - 2
 RequireJS                                 - 0102
 Oracle                                    - 32
@@ -25,6 +26,7 @@ FRP - RxJava                              - 05_03
 HoTT 1                                    -  44:00 (of 1:34:21)
 HoTT 2                                    -  12:00
 msg                                       -  04:30
+Tikhomirov-Kolmogorov-Geometr             -  13:00 (of 1:21:48)
 
 Audio:
 
@@ -32,5 +34,3 @@ Tracking:
 http://accu.org/index.php/journals/c78/   - 124
 https://www.fpcomplete.com/recent-content - 20 Feb
 
-Old Video:
-lshsm2002_V.M.Tikhomirov-2.rv         - 00:00

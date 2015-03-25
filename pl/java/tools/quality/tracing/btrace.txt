@@ -2,3 +2,7 @@ http://www.infoq.com/articles/Advanced-Java-Debugging-Techniques
 https://kenai.com/projects/btrace
 https://github.com/jbachorik/btrace/wiki
 
+https://kenai.com/projects/btrace/pages/UserGuide
+https://plumbr.eu/blog/who-is-calling-this-method
+http://netbeans.dzone.com/articles/debugging-netbeans-with-visualvm-and-btrace?page=0,2
+http://01ms.blogspot.com/2012/08/java-application-profiling-using-visual.html

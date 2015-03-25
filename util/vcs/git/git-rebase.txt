@@ -25,8 +25,19 @@ git rebase -i <commit-final>
         leave as is
     squash
         keep the commit message, merge the commit output
+    edit
+        edit the files in the commit (we go into a detached HEAD state for doing this)
+        then - git rebase --continue
+    reword
+        change the commit message only
+    squash
+        keep the commit message
+    fixup
+        like squash, but throw-away the commit message
     <delete the line>
         drop the commit from the history (graph), but we can 
+    <reorder lines>
+        reorder commits
 
     # Rebase <id-start>..<id-end> onto <commit-final>
 

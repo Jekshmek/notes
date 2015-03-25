@@ -15,6 +15,9 @@ http://stackoverflow.com/questions/18112224/scalaz-streams-and-iteratees/
 http://stackoverflow.com/questions/20127912/processing-multiple-files-in-parallel-with-scalaz-streams/
 http://stackoverflow.com/questions/18853079/performance-of-line-counting-with-scalaz-stream/
 
+Spievak - Introduction to scalaz-stream
+https://gist.github.com/djspiewak/d93a9c4983f63721c41c
+
 Presentations:
 
 http://youtu.be/8fC2V9HX_m8
