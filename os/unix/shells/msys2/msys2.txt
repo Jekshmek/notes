@@ -30,8 +30,8 @@ endlocal
 
 TODO:
 pacman -Syu
-pacman -s zsh bash-completion tig openssh dos2unix
-
+pacman -s bash-completion tig openssh dos2unix
+# zsh
 
 install
     mingw-w64-x86_64
@@ -67,3 +67,18 @@ and delete all but the most recent version.  The most recent version *should*
 reside in x:\msys\bin, where 'x' is the drive on which you have
 installed the msys distribution.  Rebooting is also suggested if you
 are unable to find another msys DLL.
+
+
+slow login:
+https://cygwin.com/ml/cygwin/2014-02/msg00306.html
+https://github.com/Alexpux/MSYS2-packages/issues/138
+
+/etc/nsswitch.conf
+passwd: files db
+group: files # db
+
+https://github.com/Alexpux/MSYS2-packages/issues/117
+
+and, of cause:
+mkpasswd -c > /etc/passwd
+mkgroup -c > /etc/group

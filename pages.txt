@@ -18,7 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Git                                       - 52
+Git                                       - 60
 ChromDevTools                             - 2
 RequireJS                                 - 0102
 Oracle                                    - 32

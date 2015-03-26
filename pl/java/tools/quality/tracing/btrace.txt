@@ -6,3 +6,10 @@ https://kenai.com/projects/btrace/pages/UserGuide
 https://plumbr.eu/blog/who-is-calling-this-method
 http://netbeans.dzone.com/articles/debugging-netbeans-with-visualvm-and-btrace?page=0,2
 http://01ms.blogspot.com/2012/08/java-application-profiling-using-visual.html
+
+http://www.slideshare.net/kensipe/debugging-your-production-jvm
+http://www.slideshare.net/jbaruch/jdk-tools-for-performance-diagnostics-1624108
+http://www.slideshare.net/aragozin/diy-java
+http://www.slideshare.net/aragozin/java-black-box-profiling
+http://www.slideshare.net/ykdsg/btrace-intro
+
