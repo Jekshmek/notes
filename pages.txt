@@ -23,10 +23,8 @@ ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
-HoTT 1                                    -  44:00 (of 1:34:21)
 HoTT 2                                    -  12:00
 msg                                       -  04:30
-Tikhomirov-Kolmogorov-Geometr             -  13:00 (of 1:21:48)
 
 Audio:
 
