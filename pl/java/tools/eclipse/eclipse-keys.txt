@@ -9,3 +9,4 @@ F7 - Step Return
 
 F8 - Resume
 
+C-3 - Quick access

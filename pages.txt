@@ -2,7 +2,7 @@ URLs:
 http://artyom.me/lens-over-tea-2
   New Lenses
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
-  The Action trick
+  The SmallInt trick
 https://www.oracle.com/javaone/sessions/index.html
   p7
 http://martinfowler.com/eaaDev/EventSourcing.html
@@ -18,8 +18,8 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Git                                       - 60
-ChromDevTools                             - 2
+Git Essentials                            - 02
+ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
