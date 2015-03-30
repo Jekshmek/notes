@@ -18,7 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Git Essentials                            - 02
+Git Essentials                            - 04
 ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
@@ -27,6 +27,7 @@ HoTT 2                                    -  12:00
 msg                                       -  04:30
 
 Audio:
+razbor 81                                 -  25:30 (of 2:08:53)
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124

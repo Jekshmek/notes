@@ -1,5 +1,10 @@
 Keys
+C-3 - Quick access
+C-S-L - View all the shortcuts
+
+
 C-S-B - Toggle breakpoint
+C-S-T - Open type
 C-S-G - find usages
 
 
@@ -9,4 +14,12 @@ F7 - Step Return
 
 F8 - Resume
 
-C-3 - Quick access
+
+C-O - Class methods
+
+
+A-Left  - Backward history
+A-Right - Forward history
+
+C-PgUp   - Next file (tab)
+C-PgDown - 
