@@ -7,6 +7,9 @@ https://github.com/Alexpux/MSYS2-packages
 http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 https://github.com/iljau/msys2-installer
 
+GHC on MSYS2:
+https://ghc.haskell.org/trac/ghc/wiki/Building/Preparation/Windows
+
 Starter:
 @echo off
 setlocal
@@ -30,8 +33,8 @@ endlocal
 
 TODO:
 pacman -Syu
-pacman -s bash-completion tig openssh dos2unix
-# zsh
+pacman -s bash-completion vim git openssh dos2unix man-pages-posix
+# zsh tig(vim, git) man
 
 install
     mingw-w64-x86_64
@@ -41,9 +44,6 @@ install
     msys/vim
     msys/bash-completion
     msys/openssh
-
-already installed:
-    man
 
 https://github.com/mavnn/mintty-colors-solarized
 

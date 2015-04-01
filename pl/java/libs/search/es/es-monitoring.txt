@@ -18,7 +18,8 @@ GET/_cat/thread_pool
 
 
 Hot Threads:
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cluster-nodes-hot-threads.html
+http://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-nodes-hot-threads.html
+https://github.com/elastic/elasticsearch/blob/master/docs/reference/cluster/nodes-hot-threads.asciidoc
 GET/_nodes/hot_threads
 
 monitor/jvm/HotThreads

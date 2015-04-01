@@ -1,1 +1,3 @@
+GHC on MSYS2:
 https://ghc.haskell.org/trac/ghc/wiki/Building/Preparation/Windows
+
