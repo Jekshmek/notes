@@ -1,0 +1,2 @@
+http://habrahabr.ru/post/254571/
+https://github.com/igor-suhorukov/aspectj-scripting

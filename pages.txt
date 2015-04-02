@@ -1,11 +1,6 @@
-rx_size_in_bytes ???
-
-
-
-
 URLs:
 http://artyom.me/lens-over-tea-2
-  New Lenses
+  Backward composition
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
   The SmallInt trick
 https://www.oracle.com/javaone/sessions/index.html
@@ -23,7 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Git Essentials                            - 08 - 01:00
+Git Essentials                            - 09 - 03:00 of 13:34
 ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
@@ -32,7 +27,6 @@ HoTT 2                                    -  12:00
 msg                                       -  04:30
 
 Audio:
-razbor 81                                 - 1:16:00 (of 2:08:53)
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 124
