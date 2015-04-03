@@ -19,6 +19,9 @@ Piponi - Free
 http://www.reddit.com/r/haskell/comments/240j3z/a_neighborhood_of_infinity_the_monad_called_free/
 http://blog.sigfpe.com/2014/04/the-monad-called-free.html
 
+Habr - Free
+http://habrahabr.ru/post/254715/
+
 StackOverflow - Free
 http://programmers.stackexchange.com/questions/242795/what-is-the-free-monad-interpreter-pattern
 http://stackoverflow.com/questions/14641864/what-monads-can-be-expressed-as-free-over-some-functor

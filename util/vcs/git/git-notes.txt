@@ -62,10 +62,6 @@ git config --global
     color.ui true
 
 
-alias deflate="perl -MCompress::ZLib -e 'undef $/; print uncompress(<>)'"
-
-git cat-file -t <hash>  get type
-             -p <hash>  print
 
 
 git fsck --full --strict
