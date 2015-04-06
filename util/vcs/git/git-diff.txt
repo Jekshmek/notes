@@ -1,2 +1,11 @@
 git diff master..origin/master
     show the diff between a local and remote branch
+
+git diff <some-file>
+    diff between a working-dir and staged area
+
+git diff --staged/--cached <some-file>
+    diff between the staged and committed ...
+
+git diff HEAD <some-file>
+    diff between the committed (HEAD) and working-dir
