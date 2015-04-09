@@ -155,6 +155,7 @@ http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html
 
 Shellscripting-Turtle:
 http://www.haskellforall.com/2015/01/use-haskell-for-shell-scripting.html
+http://www.haskellforall.com/2015/04/mathematical-apis.html
 
 Misc:
 http://www.haskellforall.com/2014/12/a-very-general-api-for-relational-joins.html

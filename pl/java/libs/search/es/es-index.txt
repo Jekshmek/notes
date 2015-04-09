@@ -22,10 +22,6 @@ assertTrue(client.admin().indices().prepareUpdateSettings(indexName)
     .get().isAcknowledged());
 
 
-field data cache:
-
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/master/index-modules-fielddata.html
-http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/fielddata-formats.html
 
 Docs updating:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/docs-update.html

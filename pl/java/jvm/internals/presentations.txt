@@ -1,3 +1,6 @@
 JVM Internals:
+
+Doug Hawkins:
 http://www.slideshare.net/dougqh
+http://www.slideshare.net/dougqh/jvm-mechanics-when-does-the
 

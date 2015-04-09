@@ -1,0 +1,2 @@
+Paumard - Java 8 Streams and Collectors Patterns
+http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performances-and-parallelization

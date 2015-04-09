@@ -2,6 +2,12 @@ Super-Presentation:
 
 http://www.grahamlea.com/2013/02/a-new-java-library-for-amazing-productivity/
 
+Timushev:
+http://www.slideshare.net/romantimushev/scala-36731150
+
+Scala Performance:
+http://www.slideshare.net/Shutty/scala-performance
+
 Gleichmann - Functional Scala
   http://gleichmann.wordpress.com/series/
 Subramanian - Scala for the Intrigued

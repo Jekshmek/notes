@@ -47,3 +47,6 @@ http://apocalisp.wordpress.com/2009/08/21/structural-pattern-matching-in-java/
 11. Async/Try in Java:
 http://blog.maxant.co.uk/pebble/2013/10/13/1381695720000.html
 https://github.com/maxant/share/tree/master/blog20131013_asyncJava8TrySuccessFailure/src/ch/maxant/async
+
+12. Trampolines in Java 8:
+http://www.slideshare.net/mariofusco/lazine

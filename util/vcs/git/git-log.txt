@@ -1,4 +1,5 @@
 git log --oneline
+    single-line log
 
 git log HEAD^
     except the top-one commit (HEAD)
@@ -20,6 +21,14 @@ for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a
 git log -p
     commit history with changes (diff)
 
-    --stat   ...
-    --graph  ...
-        in a graph form
+git log --stat   ...
+    files + statistics (number of changed files, number of changed/deleted/modified lines)
+
+git log --graph  ...
+    log in a graph form
+
+git log --pretty="%h, %cn, %cr"
+    pretty-printed log accrording to the specified format
+
+
+we can combine ... --oneline --graph
