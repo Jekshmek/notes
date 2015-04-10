@@ -54,10 +54,18 @@ http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 
 This errors is from replacing by pacman DLLs and EXEs that in use during 
 update. You need restart MSYS2 after this errors.
-I prefer the next update scenario.
+
+I prefer the next update scenario:
+
 pacman -Sy
-pacman -Su -—ignoregroup base
+
+pacman --needed -S bash pacman pacman-mirrors msys2-runtime
+#pacman -Su -—ignoregroup base
+
+restart
+
 pacman -Su
+
 
 otherwise:
 
@@ -90,3 +98,9 @@ mkgroup -l -c > /etc/group
 cur user only:
 mkpasswd -c > /etc/passwd
 mkgroup -c > /etc/group
+
+
+
+slow bash-completion
+/etc/profile.d/bash_completion.sh
+

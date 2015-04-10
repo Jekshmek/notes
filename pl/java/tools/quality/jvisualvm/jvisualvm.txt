@@ -1,3 +1,5 @@
+https://netbeans.org/kb/docs/java/profiler-intro.html
+
 https://visualvm.dev.java.net/
 http://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr010.html
 
