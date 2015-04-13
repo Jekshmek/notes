@@ -1,8 +1,10 @@
 URLs:
+http://artyom.me/aeson
+  Very basic decoding and encoding
 http://artyom.me/lens-over-tea-2
   Backward composition
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
-  The SmallInt trick
+  Monadic QuickCheck
 https://www.oracle.com/javaone/sessions/index.html
   p7
 http://martinfowler.com/eaaDev/EventSourcing.html
@@ -18,8 +20,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Subramanian - Streams                     -  24:00 (of 1:15:02)
-Kuksenko                                  -  09:15
+Kuksenko - Quantum Performance Effects    -  01:00 (of 1:51:35)
 Git Essentials                            - 12
 ChromDevTools                             - 4
 RequireJS                                 - 0102
