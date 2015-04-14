@@ -1,3 +1,7 @@
+http://aakashns.github.io/type-class.html
+http://aakashns.github.io/better-type-class.html
+http://aakashns.github.io/better-type-class-2.html
+
 http://www.cakesolutions.net/teamblogs/2013/12/16/typeclases-in-scala-haskell/
 https://www.bionicspirit.com/blog/2012/11/02/scala-functional-programming-type-classes.html
 https://github.com/tpolecat/tut/blob/master/out/Typeclass.md

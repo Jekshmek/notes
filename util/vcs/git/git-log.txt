@@ -30,5 +30,10 @@ git log --graph  ...
 git log --pretty="%h, %cn, %cr"
     pretty-printed log accrording to the specified format
 
+git log ... --decorate
+    add a ref-names to the tree
 
-we can combine ... --oneline --graph
+git log ... --all
+    ... from all the branches
+
+we can combine ... --oneline --graph --all --decorate

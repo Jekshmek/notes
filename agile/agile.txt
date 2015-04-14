@@ -6,3 +6,5 @@ Kniberg - Scrum and XP from the Trenches
 Small:
 ScrumTrek - Agile Cheklist
 
+Critique:
+http://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/Michael-O-Church

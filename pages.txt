@@ -1,3 +1,9 @@
+???
+2015-04-13 17:06:08,218 INFO  [SimpleAsyncTaskExecutor-21] [] [com.clarabridge.cmp.fx.lookup.auto.AutoLookupTableCache] Cache for class com.clarabridge.cmp.fx.lookup.impl.MasterTokenObjectLookup pre populated with 100000 elements.
+2015-04-13 17:06:10,936 INFO  [SimpleAsyncTaskExecutor-21] [] [com.clarabridge.cmp.fx.lookup.auto.AutoLookupTableCache] Cache for class com.clarabridge.cmp.fx.lookup.impl.MasterBinRelationshipKeyLookup pre populated with 100000 elements.
+2015-04-13 17:06:10,969 INFO  [SimpleAsyncTaskExecutor-21] [] [com.clarabridge.cmp.fx.lookup.auto.AutoLookupTableCache] Cache for class com.clarabridge.cmp.fx.lookup.impl.KeyLookup pre populated with 24 elements.
+
+
 URLs:
 http://artyom.me/aeson
   Very basic decoding and encoding
@@ -28,6 +34,8 @@ Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
+Gagry                                     -  10:00
+Chuchelo                                  -  14:00
 
 Audio:
 
