@@ -41,6 +41,7 @@ http://exploringelasticsearch.com/overview.html
 https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
 https://www.found.no/foundation/elasticsearch-in-production/
 https://www.found.no/foundation/sizing-elasticsearch/
+https://www.found.no/foundation/optimizing-elasticsearch-searches/
 
 
 http://www.slideshare.net/clintongormley/scaling-realtime-search-and-analytics-with-elasticsearch

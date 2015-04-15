@@ -1,3 +1,5 @@
+https://www.found.no/foundation/optimizing-elasticsearch-searches/
+
 http://grokbase.com/t/gg/elasticsearch/149f4mjysv/write-a-plugin-to-query-and-aggregate-results-from-multiple-shards
 
 See the TransportSearchAction, in the doExecute() method, the SearchRequest is dispatched to several transport actions of the search types.
