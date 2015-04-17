@@ -130,3 +130,10 @@ FTP access:
 http://www.howtogeek.com/howto/windows/how-to-automate-ftp-uploads-from-the-windows-command-line/
 http://www.nsftools.com/tips/MSFTP.htm
 
+
+RDC/RDP stuff:
+tsdiscon
+    disconnect
+shutdown /l
+    log off
+

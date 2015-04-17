@@ -13,3 +13,19 @@ http://www.slideshare.net/aragozin/diy-java
 http://www.slideshare.net/aragozin/java-black-box-profiling
 http://www.slideshare.net/ykdsg/btrace-intro
 
+
+
+https://bsmadhu.wordpress.com/2012/07/01/btrace-troubleshooting-tool-for-java-applications/
+
+In JDK8 you have to change permissions on hsperfdata_username in whatever %TMP% is for it to work.
+I received an error message when visual VM first started and I went to the link which described the problem with access permissions
+and when I checked the permissions on the file using “properties” the permissions were set to read-only on the first page and no access permissions were granted on the following pages.
+
+I changed the permissions to grant everything to everybody on my home computer and that worked.
+
+
+
+Trace redirection:
+http://www.codeitive.com/0HJjekgXXj/how-can-write-logs-to-a-file-in-btrace.html
+http://stackoverflow.com/questions/4142845/how-can-write-logs-to-a-file-in-btrace
+

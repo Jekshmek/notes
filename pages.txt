@@ -22,7 +22,7 @@ Presentations:
 
 Video:
 Kuksenko - Quantum Performance Effects    -  36:00 (of 1:51:35)
-Git Essentials                            - 13
+Git Essentials                            - 15
 ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
