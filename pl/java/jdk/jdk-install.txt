@@ -7,3 +7,18 @@ http://stackoverflow.com/questions/10268583/how-to-automate-download-and-install
 curl -LO 'http://download.oracle.com/otn-pub/java/jdk/7u72-b14/jdk-7u72-linux-x64.rpm' -H 'Cookie: oraclelicense=accept-securebackup-cookie'
 curl -LO 'http://download.oracle.com/otn-pub/java/jdk/7u51-b13/jdk-7u51-linux-x64.rpm' -H 'Cookie: oraclelicense=accept-securebackup-cookie'
 
+silent:
+http://stackoverflow.com/questions/15292464/how-to-silently-install-java-jdk-into-a-specific-directory-on-windows
+http://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html
+http://www.postseek.com/meta/e728de94da96dd1e9dcedf9296cba334
+
+jdk-8u45-windows-x64.exe /s ADDLOCAL="ToolsFeature,SourceFeature" INSTALLDIR="D:\dev\PL\java\jdk64\jdk1.8.0_45" /log jdk8-inst.log
+
+/passive
+/v/qn
+/log /L ...
+
+docs:
+http://docs.oracle.com/javase/8/docs/
+http://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-2133158.html
+

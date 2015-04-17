@@ -140,3 +140,8 @@ curl -XPOST 'localhost:9200/_cluster/reroute' -d '{
 }'
 
 You need to run this command for every shard in the 9201 instance (the one you wanna get rid of).
+
+
+merge process:
+http://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-merge.html
+http://www.elastic.co/guide/en/elasticsearch/guide/current/merge-process.html

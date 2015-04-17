@@ -1,7 +1,7 @@
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
 http://artyom.me/aeson
-  Very basic decoding and encoding
+  Parsing simple types
 http://artyom.me/lens-over-tea-2
   Backward composition
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
@@ -22,17 +22,13 @@ Presentations:
 
 Video:
 Kuksenko - Quantum Performance Effects    -  36:00 (of 1:51:35)
-Git Essentials                            - 15
+Git Essentials                            - 16
 ChromDevTools                             - 4
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
-Gerdt                                     -  08:30 (of 38:56)
-Svetlichnaya                              -  08:00 (of 34:42)
-Vitsyn                                    -  19:00 (of 39:03)
-Demich                                    -  12:00 (of 39:40)
 
 Audio:
 
