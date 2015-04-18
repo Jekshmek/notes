@@ -1,7 +1,7 @@
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
 http://artyom.me/aeson
-  Parsing simple types
+  Records
 http://artyom.me/lens-over-tea-2
   Backward composition
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
