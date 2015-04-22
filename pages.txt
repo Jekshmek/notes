@@ -29,10 +29,10 @@ Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
+10Negr                                    -  17:00
 
 Audio:
 
 Tracking:
 http://accu.org/index.php/journals/c78/   - 126
 https://www.fpcomplete.com/recent-content - 20 Feb
-
