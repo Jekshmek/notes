@@ -19,6 +19,10 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
+https://speakerdeck.com/polyfractal/elasticsearch-query-optimization
+                                          - slide 14 of 59
+https://speakerdeck.com/elastic/amusing-algorithms-and-data-structures
+                                          - slide 21 of 91
 
 Video:
 Kuksenko - Quantum Performance Effects    -  36:00 (of 1:51:35)

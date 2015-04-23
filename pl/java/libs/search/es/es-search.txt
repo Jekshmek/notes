@@ -13,3 +13,8 @@ http://chrissimpson.co.uk/elasticsearch-aggregations-overview.html
 
 http://www.elasticsearch.org/blog/intro-to-aggregations/
 http://www.elasticsearch.org/blog/intro-to-aggregations-pt-2-sub-aggregations/
+
+
+query optimization:
+https://speakerdeck.com/polyfractal/elasticsearch-query-optimization
+https://www.elastic.co/blog/all-about-elasticsearch-filter-bitsets/
