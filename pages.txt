@@ -1,17 +1,12 @@
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
-http://artyom.me/aeson
-  Records
+  Cache Granularity and Acceleration Filters
 http://artyom.me/lens-over-tea-2
   Backward composition
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
   Monadic QuickCheck
-https://www.oracle.com/javaone/sessions/index.html
-  p7
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
-http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_finding_your_feet.html
-http://www.elasticsearch.org/guide/en/elasticsearch/client/java-api/current/index_.html
 vim :h
   vimproc-functions
 
@@ -19,24 +14,24 @@ Books:
 Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
-https://speakerdeck.com/polyfractal/elasticsearch-query-optimization
-                                          - slide 14 of 59
 https://speakerdeck.com/elastic/amusing-algorithms-and-data-structures
-                                          - slide 21 of 91
+                                          - slide 49 of 91
 
 Video:
-Kuksenko - Quantum Performance Effects    -  36:00 (of 1:51:35)
-Git Essentials                            - 16
-ChromDevTools                             - 4
+Kuksenko - Quantum Performance Effects    -  46:00 (of 1:51:35)
+Git Essentials                            - 19
+ChromDevTools                             - 5
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
-10Negr                                    -  17:00
+Eremenko                                  -  06:00
 
 Audio:
 
 Tracking:
+https://www.oracle.com/javaone/sessions/index.html
+  p7
 http://accu.org/index.php/journals/c78/   - 126
-https://www.fpcomplete.com/recent-content - 20 Feb
+https://www.fpcomplete.com/recent-content - 24 Apr

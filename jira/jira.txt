@@ -1,0 +1,4 @@
+https://confluence.atlassian.com/display/Cloud/Processing+JIRA+issues+with+commit+messages
+
+PLAT-NNN #comment Task completed ahead of schedule #resolve #time 1d 1h
+

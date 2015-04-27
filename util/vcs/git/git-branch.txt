@@ -21,6 +21,11 @@ git branch -D <branch-to-delete>
     force deleting a branch despite of non-merged data
 
 
+Orphan branches:
+git checkout --orphan <name>
+    ... gh-pages ...
+    later we can access such orphan-branch from github pages via (<username>.github.com/<prjname>)
+
 Remotes:
 git remote show
     origin
