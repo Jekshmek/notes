@@ -29,3 +29,17 @@ Trace redirection:
 http://www.codeitive.com/0HJjekgXXj/how-can-write-logs-to-a-file-in-btrace.html
 http://stackoverflow.com/questions/4142845/how-can-write-logs-to-a-file-in-btrace
 
+
+Internals:
+
+package com.sun.btrace.client;
+
+import com.sun.tools.attach.VirtualMachine;
+
+public class Client {
+    ...
+            vm = VirtualMachine.attach(pid);
+            ...
+            vm.loadAgent(agentPath, agentArgs);
+    ...
+}

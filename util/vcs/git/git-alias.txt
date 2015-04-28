@@ -1,0 +1,14 @@
+Aliases:
+
+~/.gitconfig
+[alias]
+br = branch
+st = status
+
+
+git config --global alias.s status
+    global alias for status
+
+    s  - status
+    co - checkout
+    ci - commit

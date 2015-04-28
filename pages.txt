@@ -1,10 +1,10 @@
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
-  Cache Granularity and Acceleration Filters
+  Filter Aggregations
+http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
+  Tying everything up
 http://artyom.me/lens-over-tea-2
   Backward composition
-http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
-  Monadic QuickCheck
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 vim :h
@@ -15,18 +15,18 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 
 Presentations:
 https://speakerdeck.com/elastic/amusing-algorithms-and-data-structures
-                                          - slide 49 of 91
+                                          - slide 79 of 91
 
 Video:
 Kuksenko - Quantum Performance Effects    -  46:00 (of 1:51:35)
-Git Essentials                            - 19
+Git Essentials                            - 21
 ChromDevTools                             - 5
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
-Eremenko                                  -  06:00
+Mihailov                                  -  15:00
 
 Audio:
 
