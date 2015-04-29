@@ -1,0 +1,7 @@
+https://github.com/typesafehub/config/
+
+http://typesafehub.github.io/config/latest/api/
+http://typesafehub.github.io/config/latest/api/com/typesafe/config/ConfigFactory.html
+
+https://github.com/typesafehub/config/blob/master/examples/java/simple-app/src/main/java/SimpleApp.java
+https://github.com/typesafehub/config/blob/master/examples/java/complex-app/src/main/java/ComplexApp.java
