@@ -11,12 +11,24 @@ creds:
 [credential]
 	helper = !'C:\\Users\\<username>\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
 
-filters:
+git-lfs:
 [filter "lfs"]
 	clean = git lfs clean %f
 	smudge = git lfs smudge %f
 	required = true
 
+???
+
+[color]
+	diff = auto
+[core]
+	editor = vim
+	autocrlf = input
+	excludesfile = ~/.gitignore-global
+[push]
+	default = tracking
+[branch]
+	autosetuprebase = always
 
 cur cfg:
 [core]
@@ -24,11 +36,5 @@ cur cfg:
 [user]
 	name = Ihar Hancharenka
 	email = iigoncharenko@mail.ru
-[filter "lfs"]
-	clean = git lfs clean %f
-	smudge = git lfs smudge %f
-	required = true
 [credential]
 	helper = !'C:\\Users\\Ihar_Hancharenka\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
-
-
