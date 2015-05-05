@@ -1,0 +1,18 @@
+check git-hashes.txt here
+
+git show <hash>
+	show a WHOLE commit (or something else) of the hash
+git show <hash>:FILE
+	.. just a specific FILE
+
+	REF:FILE
+		blob spec
+	:0:FILE
+		index (stage area)
+	:1:FILE
+		common ancestor, find by a merge base
+	:2:FILE
+		target (on a current branch that you're on)
+	:3:FILE
+		the one you're bringing in (with merge)
+

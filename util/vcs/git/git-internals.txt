@@ -1,4 +1,10 @@
-Objects - blobs/trees
+Interesting:
+
+Types of git objects:
+  blob (every file under source control is written into a blob)
+  tree
+  commit
+  tag
 
 Tree object:
 - Header info

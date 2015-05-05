@@ -1,6 +1,9 @@
+l375 - all
+
+
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
-  Filter Aggregations
+  Scoring and Scrolling
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
   Tying everything up
 http://artyom.me/lens-over-tea-2
@@ -16,15 +19,13 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Kuksenko - Quantum Performance Effects    -  46:00 (of 1:51:35)
-Advanced Git                              - 1
-ChromDevTools                             - 5
+Kuksenko - Quantum Performance Effects    -1:12:00 (of 1:51:35)
+Hoskins - Advanced Git                    - 02-02
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
 HoTT 2                                    -  12:00
 msg                                       -  04:30
-Mihailov                                  -  15:00
 
 Audio:
 

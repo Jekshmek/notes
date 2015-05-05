@@ -32,28 +32,9 @@ if [ -f /usr/share/git/completion/git-completion.bash ]; then
 fi
 
 
-
-Interesting:
-
-Types of git objects:
-  blob (every file under source control is written into a blob)
-  tree
-  commit
-  tag
-
-
 Env vars:
 GIT_DIR
   path to the .git dir
-
-Config
-git config --global
-    core.editor vim -w
-                subl -w
-                mate -w
-
-    color.ui true
-
 
 
 
@@ -72,60 +53,6 @@ git describe --tags HEAD
 	describe (find nearest tag) non-annotated tag
 
 
-treeish
-	tree hashes
-commitish
-	commit hashes
-
-- full SHA1
-- partial SHA1
-- branch, remote or tag name
-  (adding a date spec like @{yesterday} or @{1 mongh ago}, @{5} 5 prior values...)
-- carrot parents (history)
-  <hash>^
-    one commit back (parent)
-  <hash>^2
-    second parent (in case if <hash> is a merge commit)
-  <hash>^^
-    two ...
-  <hash>~5
-    five ...
-- tilde specs
-  master~2
-    2nd generation grandparent of master (grandparent)
-- tree spec
-  master^{tree}
-    tree that 'master' points to (tree object, usefull for running ls-tree)
-- blob spec
-  master:/path/to/file
-    if you need a certain file of the 'master' commit
-- ranges
-  <hash1>..<hash2>
-    between ... note - branches can also be used here.
-  <hash1>..
-    everything since a commit
-
-
-git show <hash>
-	show a WHOLE commit (or something else) of the hash
-git show <hash>:FILE
-	.. just a specific FILE
-
-	REF:FILE
-		blob spec
-	:0:FILE
-		index (stage area)
-	:1:FILE
-		common ancestor, find by a merge base
-	:2:FILE
-		target (on a current branch that you're on)
-	:3:FILE
-		the one you're bringing in (with merge)
-
-
-
-
-
 Diff/patches
 git diff
     apply
@@ -138,27 +65,7 @@ git diff --cached
   look what will be included into commit  
 
 
-git clone:
-http://git-scm.com/docs/git-clone
-
-git clone -n <remote-repo>
--n is --no-checkout
-
-git clone -l --no-hardlinks <local-repo-path>
--l is --local
-
-
-MIRRORING:
-
-git clone --mirror ...
-
-:: HEAD - currently checked out branch
-git remote -v update --prune
-:: git fetch --prune -v --multiple --all
-:: git fetch --append --prune -v origin
-
 git gc
-
 
 
 
@@ -173,19 +80,3 @@ UNSTAGING:
 
 git rm --cached database.yml
   remove from staging, leaving it at work-dir (to be added to .gitignore later)
-
-
-git reset HEAD file
-  rollback the indexation (seems like the same as above-one command)
-
-
-STATUS
-
-git status -s
-  less verbose status
-
-
-HELPERS
-
-https://gitcredentialstore.codeplex.com/
-

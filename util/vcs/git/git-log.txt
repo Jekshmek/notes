@@ -13,7 +13,10 @@ git log ..<remote-branch>
     ???
 
 
-git log --no-merges
+git log
+    --no-merges
+    --name-status
+        list modified files
 
 git log -1 --pretty=format:%H
 for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a

@@ -4,3 +4,10 @@ PLAT-NNN #comment Task completed ahead of schedule #resolve #time 1d 1h
 
 
 https://confluence.atlassian.com/display/JIRA/Advanced+workflow+configuration
+
+Editing:
+#
+#*
+@Person
+{code}
+{panel}

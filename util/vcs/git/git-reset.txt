@@ -1,3 +1,10 @@
+UNSTAGING
+git reset HEAD file
+  rollback the indexation
+git rm --cached database.yml
+  remove from staging, leaving it at work-dir (to be added to .gitignore later)
+
+
 git reset HEAD <file>
   rollback the <file> to a HEAD (current committed branch rev) state
 
