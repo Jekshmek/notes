@@ -1,3 +1,7 @@
+cheplyaka-validation
+https://ro-che.info/articles/2015-05-02-smarter-validation
+http://ruhaskell.org/posts/theory/2015/05/04/smarter-validation.html
+
 aeson
 
 optparse-appliative:

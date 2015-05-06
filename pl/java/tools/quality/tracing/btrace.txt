@@ -27,9 +27,14 @@ http://www.codeitive.com/0HJjekgXXj/how-can-write-logs-to-a-file-in-btrace.html
 http://stackoverflow.com/questions/4142845/how-can-write-logs-to-a-file-in-btrace
 
 attach issues:
+http://stackoverflow.com/questions/14574308/unable-to-use-jvisualvm-profiling-for-tomcat7-running-as-a-service-on-windows7
+http://frvabe.blogspot.com/2013/03/monitoring-windows-tomcat-service-with.html
+https://blogs.oracle.com/nbprofiler/entry/monitoring_java_processes_running_as
+
 psexec -s "%JAVA_HOME%\bin\jstack.exe" PID >stack.txt
 
 agent:
+https://weblogs.java.net/blog/jjviana/archive/2010/07/14/using-btrace-glassfish-v3
 -javaagent:/Users/bnewport/Development/btrace-bin/build/btrace-agent.jar=script=AgentServerTimer.class,port=2021
 
 Internals:

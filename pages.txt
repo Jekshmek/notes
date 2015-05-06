@@ -1,5 +1,4 @@
-l375 - all
-
+Enhance AdhocUpload logging (SVE/FX/LD/Percolate)
 
 URLs:
 https://www.found.no/foundation/optimizing-elasticsearch-searches/
@@ -19,8 +18,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Kuksenko - Quantum Performance Effects    -1:12:00 (of 1:51:35)
-Hoskins - Advanced Git                    - 02-02
+Hoskins - Advanced Git                    - 02-02 07:00 (of 10:28)
 RequireJS                                 - 0102
 Oracle                                    - 32
 FRP - RxJava                              - 05_03
