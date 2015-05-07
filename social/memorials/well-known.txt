@@ -1,12 +1,14 @@
 Super:
 Rostislav Plyatt
 Nikolai Grinko
+Ivan Mikolaichuk
 Edmond Keosoyan
 Pavel Pankov
 Sergey Bondarchuk
 Pavel Luspekaev
 Vitaly Solomin
 Alexey Glazyrin (Simonov also)
+Vladimir Ivashov
 
 MHAT
 Boris Livanov
@@ -26,6 +28,7 @@ Vladislav Dvorzhetsky
 Vatslav Dvorzhetsky
 
 Good
+Leonid Filatov
 Olga Bgan
 Isolda Izvitskaya
 

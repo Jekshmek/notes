@@ -1,3 +1,12 @@
+shallow
+    size of the obj itself with headers/fields, but without fields' values
+retained
+
+
+https://plumbr.eu/blog/memory-leaks/solving-outofmemoryerror-memory-profilers    
+
+
+mat_dump_analyze.bat:
 @echo off
 setlocal
 
