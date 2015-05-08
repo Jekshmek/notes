@@ -11,3 +11,5 @@ Editing:
 @Person
 {code}
 {panel}
+
+[^attachment-file-name.ext]

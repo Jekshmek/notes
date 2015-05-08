@@ -1,8 +1,4 @@
-Enhance AdhocUpload logging (SVE/FX/LD/Percolate)
-
 URLs:
-https://www.found.no/foundation/optimizing-elasticsearch-searches/
-  Index vs. Search Time
 http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
   Tying everything up
 http://artyom.me/lens-over-tea-2
@@ -18,11 +14,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Hoskins - Advanced Git                    - 03-01 02:00 (of 17:33)
+Hoskins - Advanced Git                    - 03-01 07:00 (of 17:33)
 RequireJS                                 - 0102
-Oracle                                    - 32
 FRP - RxJava                              - 05_03
-HoTT 2                                    -  12:00
 msg                                       -  04:30
 
 Audio:
