@@ -12,3 +12,8 @@ https://www.stackage.org/snapshots
 https://github.com/fpco/stackage-install
 https://www.fpcomplete.com/blog/2015/04/announcing-stackage-install
 http://www.reddit.com/r/haskell/comments/349dxw/announcing_stackageinstall/
+
+https://www.stackage.org/package/stackage-build-plan
+http://hackage.haskell.org/package/stackage-build-plan
+https://github.com/fpco/stackage-build-plan
+

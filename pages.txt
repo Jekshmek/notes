@@ -14,7 +14,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Hoskins - Advanced Git                    - 03-01 07:00 (of 17:33)
+Hoskins - Advanced Git                    - 03-01 13:00 (of 17:33)
 RequireJS                                 - 0102
 FRP - RxJava                              - 05_03
 msg                                       -  04:30

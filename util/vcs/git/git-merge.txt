@@ -1,3 +1,7 @@
+grep -r'<<<<' *
+    search for all the merge conflict markers
+
+
 git config --global merge.tool
 git config --global diff.tool
 

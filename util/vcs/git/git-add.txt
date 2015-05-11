@@ -30,3 +30,7 @@ git add
     -p
         interactive add with patch mode selected
 
+    --update
+        stage all changes in all tracked files
+
+
