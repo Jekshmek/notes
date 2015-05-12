@@ -5,6 +5,7 @@ http://artyom.me/lens-over-tea-2
   Backward composition
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
+http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 vim :h
   vimproc-functions
 
@@ -14,10 +15,11 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Subramanian                               - 32:00 (of 1:08:39)
-Hoskins - Advanced Git                    - 03-01 13:00 (of 17:33)
+Subramanian - RP creating highly resp...  - 36:30 (of 1:08:39)
+Subramanian - Simplicity                  - 15:00 (of 1:22:32)
+Hoskins - Advanced Git                    - 03-02 02:00 (of 05:45)
+FRP - RxJava                              - 01-03
 RequireJS                                 - 0102
-FRP - RxJava                              - 05_03
 msg                                       -  04:30
 
 Audio:

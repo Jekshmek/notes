@@ -5,6 +5,12 @@ grep -r'<<<<' *
 git config --global merge.tool
 git config --global diff.tool
 
+git merge
+    --no-ff
+        do not do a fast-forward (for one-commit merges)
+    --ff-only
+        only do a fast-forward
+
 git checkout <branch-to-merge>
 git merge <feature-branch>
 ... --//-- the same stuff in the opposite direction
@@ -22,4 +28,3 @@ git pull
 
 git merge <issue>-<description>
 git merge --no-ff <issue>-<desc>
-    --no-ff - do not do a fast-forward (for one-commit merges)
