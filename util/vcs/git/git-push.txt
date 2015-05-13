@@ -1,3 +1,6 @@
 git push --set-upstream <remote-name> <branch-at-remote-to-push-to>
 
 git push <remote-name> <local-branch>
+
+git push :<branch-name>
+    delete a remote branch

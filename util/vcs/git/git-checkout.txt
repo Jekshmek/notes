@@ -1,9 +1,13 @@
-git checkout -b <branch name>
-    checks out a branch [branch-to-start-from]
+git checkout
+    -b <branch-name>
+        checks out a branch [branch-to-start-from]
+    -B <branch-name> <sha>
+        ... at a specific <sha>
 
 git checkout --track <remote>/<branch-name>
     create a branch which will track remote branch
     --track is needed if you have more than one remote, otherwise - by default
+
 
 reverting:
 git checkout -- <file>
