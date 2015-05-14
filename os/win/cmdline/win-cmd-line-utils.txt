@@ -96,7 +96,12 @@ net
 getmac       - http://www.windows-commandline.com/2011/03/get-mac-address-command-line.html
 ipconfig     - http://www.windows-commandline.com/2011/09/ipconfig-command.html
                http://www.windows-commandline.com/2010/11/get-ip-address-command-line.html
-Schtasks     - Schedule tasks (http://www.windows-commandline.com/2011/03/schedule-tasks-command-line.html)
+
+
+taskschd.msc - https://technet.microsoft.com/en-us/library/cc721931.aspx
+schtasks     - Schedule tasks (http://www.windows-commandline.com/2011/03/schedule-tasks-command-line.html)
+    http://www.howtogeek.com/51236/how-to-create-modify-and-delete-scheduled-tasks-from-the-command-line/
+    schtasks /Delete /TN “My Task”
 At           - Schedule apps (http://www.windows-commandline.com/2010/11/windows-at-command-examples.html)
 
 choice       - http://www.windows-commandline.com/2011/10/choice-command.html

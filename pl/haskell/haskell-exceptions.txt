@@ -1,6 +1,10 @@
 Books:
 Marlow-ParallelAndConcurrentProgrammingInHaskell - ch 8
 
+SOH:
+http://www.reddit.com/r/haskell/comments/35sk6w/best_practices_for_using_exceptions_an_fp/
+https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices
+
 Articles:
 Wadler - How to replace failure by a list of success
 Stewart - Scripting with Types (http://donsbot.files.wordpress.com/2009/01/semicolon.pdf)

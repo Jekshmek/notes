@@ -1,3 +1,6 @@
 http://www.infoq.com/presentations/java8-evolution
 http://www.slideshare.net/jpaumard/50-new-things-you-can-do-with-java-8
 
+java.util.function
+    Function
+    Supplier

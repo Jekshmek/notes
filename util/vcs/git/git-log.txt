@@ -1,5 +1,22 @@
-git log --oneline
-    single-line log
+git log
+    --all
+        from all the branches
+
+    --oneline
+        single-line log
+    --graph
+        log in a graph form
+    --decorate
+        add a ref-names to the tree
+    --pretty="%h, %cn, %cr"
+        pretty-printed log accrording to the specified format
+
+    --patch <filename>
+        show history of a single file
+    --stat   ...
+        files + statistics (number of changed files, number of changed/deleted/modified lines)
+
+    -S'msg'
 
 git log HEAD^
     except the top-one commit (HEAD)
@@ -24,19 +41,5 @@ for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a
 git log -p
     commit history with changes (diff)
 
-git log --stat   ...
-    files + statistics (number of changed files, number of changed/deleted/modified lines)
-
-git log --graph  ...
-    log in a graph form
-
-git log --pretty="%h, %cn, %cr"
-    pretty-printed log accrording to the specified format
-
-git log ... --decorate
-    add a ref-names to the tree
-
-git log ... --all
-    ... from all the branches
 
 we can combine ... --oneline --graph --all --decorate

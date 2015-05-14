@@ -12,3 +12,6 @@ internals:
 Observable
     .subscribe(,)
     .onErrorResumeNext(throwable -> {... return ...})
+    .skepWhile(v -> ... bool-cond ...)
+    .take
+    .takeUntil
