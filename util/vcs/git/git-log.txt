@@ -1,6 +1,8 @@
 git log
     --all
         from all the branches
+    --all --simplify-by-decoration
+        show only commits that are tagged, branched, etc
 
     --oneline
         single-line log
@@ -16,7 +18,9 @@ git log
     --stat   ...
         files + statistics (number of changed files, number of changed/deleted/modified lines)
 
-    -S'msg'
+    -S'msg' [--patch]
+        search commit history for a word/phrase (--patch for statistics)
+
 
 git log HEAD^
     except the top-one commit (HEAD)

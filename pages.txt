@@ -1,6 +1,4 @@
 URLs:
-http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
-  Tying everything up
 http://artyom.me/lens-over-tea-2
   Backward composition
 http://martinfowler.com/eaaDev/EventSourcing.html
@@ -15,10 +13,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Hoskins - Advanced Git                    - 04-02 01:20 (of 09:09)
-FRP - RxJava                              - 01-06
-Subramanian - RP creating highly resp...  - 50:30 (of 1:08:39)
-Subramanian - Simplicity                  - 55:00 (of 1:22:32)
+LiveLessons - Git under the hood          - 00 01:00 (of 27:01)
+FRP - RxJava                              - 01-07
+Subramanian - RP creating highly resp...  - 55:30 (of 1:08:39)
 RequireJS                                 - 0102
 msg                                       -  04:30
 

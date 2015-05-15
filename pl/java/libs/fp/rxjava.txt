@@ -15,3 +15,34 @@ Observable
     .skepWhile(v -> ... bool-cond ...)
     .take
     .takeUntil
+
+
+Observable.create(subscriber ->
+    subscriber.setProducer(request -> {
+        int idx = (int)request;
+        subscriber.onNext(... idx ...);
+    })
+);
+
+
+new Subscriber<StackInfo>() {
+    // !!!
+    @Override
+    public void onStart() {
+        super.onStart();
+        request(nnn); // request first nnn items
+        request(0) // ???
+    }
+
+    @Override
+    public void onNext(StackInfo stackInfo) {
+        ...
+        // calculate idx
+        request(idx);
+    }
+
+    @Override
+    public void onCompleted() { ... }
+    @Override
+    public void onError(Throwable t) { ... }
+}
