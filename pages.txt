@@ -14,8 +14,9 @@ Presentations:
 
 Video:
 LiveLessons - Git under the hood          - 00 01:00 (of 27:01)
-FRP - RxJava                              - 01-07
-Subramanian - RP creating highly resp...  - 55:30 (of 1:08:39)
+FRP - RxJava                              - 01-08
+Subramanian - RP                          - 10:00 (of 1:00:25)
+Subramanian - Concurrency without pain    - 31:00 (of 1:00:20)
 RequireJS                                 - 0102
 msg                                       -  04:30
 
