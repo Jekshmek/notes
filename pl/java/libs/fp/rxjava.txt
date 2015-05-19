@@ -7,6 +7,17 @@ https://github.com/Netflix/RxJava/wiki
   Christensen - Reactive Programming with Rx slides
 
 
+ifaces:
+
+Observer
+    onText(T)
+    onCompleted(T)
+    onError(Throwable t)
+
+Subscription
+    unsubscribe() // to disconnect the observable from the observer it is subscribed
+
+
 internals:
 
 Observable
@@ -15,6 +26,15 @@ Observable
     .skepWhile(v -> ... bool-cond ...)
     .take
     .takeUntil
+
+2 types
+* non-blocking ubservables
+    - async execution supported (RxJava is a single-threaded by default)
+    - unsubscribe at any point in the event stream
+
+* blocking observables (BlockingObservable subclass)
+    - events are synchronous
+    - no ability to unsubscribe in the middle of event stream
 
 
 Observable.create(subscriber ->
