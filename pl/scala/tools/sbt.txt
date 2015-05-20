@@ -231,3 +231,5 @@ https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter11/scalast
 Samples:
 https://github.com/cos/IteRace/blob/master/build.sbt
 
+http://blog.codacy.com/2015/05/20/sbt-the-easy-way/
+private val buildVersion = sys.props.getOrElse("build.number", "dev")
