@@ -1,3 +1,4 @@
 String Matching:
 http://www-igm.univ-mlv.fr/~lecroq/string/
 
+Okulov - String Processing Algorithms ru

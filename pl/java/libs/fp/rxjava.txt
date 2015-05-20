@@ -10,7 +10,7 @@ https://github.com/Netflix/RxJava/wiki
 ifaces:
 
 Observer
-    onText(T)
+    onNext(T)
     onCompleted(T)
     onError(Throwable t)
 
@@ -21,11 +21,22 @@ Subscription
 internals:
 
 Observable
+    .create(...) // see later
+    .from(T object [, Scheduler s]) // from a single simple value
+    .from(Iterable<T> list [, Scheduler s])
+    .from(T [] array [, Scheduler s])
+    .from(Future<T> future [, Scheduler s])
     .subscribe(,)
+    .subscribeOn(Sheduler s)
+    .observeOn(Scheduler s) // if not speci-d, the subscribeOn's one will be used
     .onErrorResumeNext(throwable -> {... return ...})
     .skepWhile(v -> ... bool-cond ...)
     .take
     .takeUntil
+
+BlockingObservable
+    .from (...)
+    .from (Observable o)
 
 2 types
 * non-blocking ubservables
@@ -44,6 +55,40 @@ Observable.create(subscriber ->
     })
 );
 
+Observable.create(new Observable.OnSubscribe<String>() {
+    @Override
+    public void call(Subscriber<? super String> subscriber) {
+        for (String item : collection) {
+            if (subscriber.isUnsubscribed()) {
+                break;
+            }
+            String data = item.getSomething(...);
+            subscriber.onNext(... data ...);
+        }
+        subscriber.onCompleted();
+        // ??? onError???
+    }
+});
+
+
+observable.subscribe(new Action1<String>() {
+    @Override
+    public void call(String data) {
+        ...
+    }
+});
+
+observable.subscribe(new Subscriber<String>() {
+    ...
+    @Override
+    public void onNext(String data) {
+        ...
+        if (data ...) {
+            unsubscribe();
+        }
+    }
+    ...
+});
 
 new Subscriber<StackInfo>() {
     // !!!
@@ -70,5 +115,16 @@ new Subscriber<StackInfo>() {
 
 schedulers
 
-- ???
-
+- computation()
+    num of threads = num of CPU cores
+- currentThread()
+    finished the on-going work and then invokes the handler's code for the current-thread
+- immetiate()
+    does not allow the on-going work to finish, but immediately invokes the handler's code for the cur-thread
+- io()
+    uses a thread-pool which grows as needed
+- newThread()
+    new thread for the each unit of work
+- executor(Executor)
+- executor(ScheduledExecutor)
+    wrap an std-java i-face

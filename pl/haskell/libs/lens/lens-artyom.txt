@@ -5,4 +5,5 @@ http://artyom.me/lens-over-tea-1
 http://www.reddit.com/r/haskell/comments/2igp1v/lens_over_tea_part_1_lenses_101_traversals_101/
 http://artyom.me/lens-over-tea-2
 http://www.reddit.com/r/haskell/comments/2zg3fm/lens_over_tea_2_composition_laws/
-
+http://artyom.me/lens-over-tea-3
+http://www.reddit.com/r/haskell/comments/366pb3/lens_over_tea_3_folds/

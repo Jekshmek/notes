@@ -1,6 +1,6 @@
 URLs:
 http://artyom.me/lens-over-tea-2
-  Backward composition
+  A bit about laws
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
@@ -14,8 +14,8 @@ Presentations:
 
 Video:
 LiveLessons - Git under the hood          - 00 01:00 (of 27:01)
-FRP - RxJava                              - 02-04
-Subramanian - RP                          - 10:00 (of 1:00:25)
+FRP - RxJava                              - 02-06 02:00 (of 10:01)
+Subramanian - RP                          - 32:30 (of 1:00:25)
 Subramanian - Concurrency without pain    - 31:00 (of 1:00:20)
 RequireJS                                 - 0102
 msg                                       -  04:30
