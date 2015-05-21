@@ -26,9 +26,14 @@ Observable
     .from(Iterable<T> list [, Scheduler s])
     .from(T [] array [, Scheduler s])
     .from(Future<T> future [, Scheduler s])
+    .parallel(...)
+        to run in parallel
+        (a) -> { return a.filter(...)...doOnNext((xx) -> { ... });
     .subscribe(,)
     .subscribeOn(Sheduler s)
+        Schedulers.newThread()
     .observeOn(Scheduler s) // if not speci-d, the subscribeOn's one will be used
+        Schedulers.io()
     .onErrorResumeNext(throwable -> {... return ...})
     .skepWhile(v -> ... bool-cond ...)
     .take
@@ -112,6 +117,15 @@ new Subscriber<StackInfo>() {
     public void onError(Throwable t) { ... }
 }
 
+observable.subscribe(
+    // onNext
+    (i) -> { ... },
+    // onError
+    (t) -> { ... },
+    // onCompleted
+    () -> { ... }
+);
+
 
 schedulers
 
@@ -128,3 +142,16 @@ schedulers
 - executor(Executor)
 - executor(ScheduledExecutor)
     wrap an std-java i-face
+
+
+observableFutureList = Observable.from(future);
+
+Schedulers.computation().schedule(() -> {
+    future.run();
+});
+
+observableFutureList.subscribe((list) -> {
+    list.forEach((i) -> {
+        System.out.println(i);
+    });
+});

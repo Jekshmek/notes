@@ -1,3 +1,28 @@
+4976
+	??? a lot of merges (mtt cat api)
+	??? recommend to increase the index refresh interval ???
+4737
+	- ? percolator - what takes time
+
+5005
+
+2015-05-20 14:45:53,537 INFO  [BlockingDataflowCaller] [Proj 6131874] [com.clarabridge.common.ejb.plugin.TransformerFacadeBean] Blocking component finished execution for dataflowid= 7252859. Componnent:Classification
+...
+2015-05-20 14:45:53,592 INFO  [BlockingDataflowCaller] [Proj 6131874] [com.clarabridge.server.services.dfm.DataflowExecutor] Dataflow [id=6131902; session=7252859; Classification: FNMA Master, node: FNMA Master] failed (8) in 55 s
+
+??? how long does it took historically for this model??
+If in 10 sec - need to run again
+- monitor memory consumption during the run
+
+- look for all the model: in _catRef:
+- model1
+- model1
+- classify all the ref-d models one by one
+
+??? recursion hypothesis
+!!! notify support to take permission to classify !!!
+
+
 URLs:
 http://artyom.me/lens-over-tea-2
   A bit about laws
@@ -14,9 +39,9 @@ Presentations:
 
 Video:
 LiveLessons - Git under the hood          - 00 01:00 (of 27:01)
-FRP - RxJava                              - 02-06 02:00 (of 10:01)
+FRP - RxJava                              - 02-07
 Subramanian - RP                          - 32:30 (of 1:00:25)
-Subramanian - Concurrency without pain    - 31:00 (of 1:00:20)
+Subramanian - Concurrency without pain    - 44:00 (of 1:00:20)
 RequireJS                                 - 0102
 msg                                       -  04:30
 
