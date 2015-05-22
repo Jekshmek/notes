@@ -208,7 +208,10 @@ outputStrategy := Some(BufferedOutput(log: Logger))
 
 Manifest:
 // http://www.scala-sbt.org/release/docs/Howto/package.html
-//packageOptions in (Compile, packageBin) += Package.ManifestAttributes(java.util.jar.Attributes.Name.CLASS_PATH -> "org.snu.ids.ha.jar" )
+packageOptions in (Compile, packageBin) += Package.ManifestAttributes(java.util.jar.Attributes.Name.CLASS_PATH -> "org.snu.ids.ha.jar" )
+
+Options:
+logLevel := Level.Debug
 
 
 !!!USEFULL PLUGINS!!!
@@ -233,3 +236,6 @@ https://github.com/cos/IteRace/blob/master/build.sbt
 
 http://blog.codacy.com/2015/05/20/sbt-the-easy-way/
 private val buildVersion = sys.props.getOrElse("build.number", "dev")
+
+
+

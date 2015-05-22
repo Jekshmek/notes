@@ -26,18 +26,41 @@ Observable
     .from(Iterable<T> list [, Scheduler s])
     .from(T [] array [, Scheduler s])
     .from(Future<T> future [, Scheduler s])
+
     .parallel(...)
         to run in parallel
-        (a) -> { return a.filter(...)...doOnNext((xx) -> { ... });
+        (observable) -> { return observable.filter(...)...doOnNext((xx) -> { ... });
+
+    .subscribe()
     .subscribe(,)
+    .subscribe(,,)
     .subscribeOn(Sheduler s)
         Schedulers.newThread()
     .observeOn(Scheduler s) // if not speci-d, the subscribeOn's one will be used
         Schedulers.io()
     .onErrorResumeNext(throwable -> {... return ...})
-    .skepWhile(v -> ... bool-cond ...)
-    .take
+    .doOnCompleted(() -> {
+        synchronized(waitMon) {
+            waitMon.notify();
+        }
+    })
+
+    .skeepWhile(v -> ... bool-cond ...)
     .takeUntil
+    .soSortedList((e1, e2) -> { return e1...().compareTo(e2...); })
+
+    // predicates
+    .filter((i) -> { return some bool expr; })
+
+    // positional filtering
+    .first()
+    .firstOrDefault("list is empty")
+    .last()
+    .take(num)
+    .takeLast(num)
+
+    // time based filtering
+
 
 BlockingObservable
     .from (...)
@@ -155,3 +178,9 @@ observableFutureList.subscribe((list) -> {
         System.out.println(i);
     });
 });
+
+
+error hanling
+
+by default, calling the onError() results to the stream shutdown.
+

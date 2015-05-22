@@ -22,6 +22,8 @@ $ cabal sandbox init --sandbox /path/to/shared-sandbox
 --require-sandbox
 Note: The option can be turned on via the per-user configuration file ('~/.cabal/config') use-sandbox-by-default
 https://github.com/haskell/cabal/issues/1101
+put
+"require-sandbox: True" in your ~/.cabal/config
 
 cabal get --source-repository
 https://plus.google.com/u/0/+MikhailGlushenkov/posts/deEMzNUxNV9
