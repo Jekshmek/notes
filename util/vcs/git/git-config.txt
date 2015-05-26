@@ -30,6 +30,15 @@ git-lfs:
 [branch]
 	autosetuprebase = always
 
+
+username, email:
+http://alvinalexander.com/git/git-show-change-username-email-address
+
+[user]
+	name = Ihar Hancharenka
+	email = <email>
+
+
 cur cfg:
 [core]
 	autocrlf = true

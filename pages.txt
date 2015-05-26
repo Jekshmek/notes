@@ -1,3 +1,11 @@
+?? LdapPasswordCrypter
+
+1) What you think is the problem
+2) What are you trying to troubleshoot
+
+2. Do we log LDAP stuff at configurer (during install)?
+
+
 URLs:
 http://artyom.me/lens-over-tea-2
   Getters
@@ -20,7 +28,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Zanussi                                   - 44:00
+Filonik - Nevrozy                         - 44:00 (of 2:27:39)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html

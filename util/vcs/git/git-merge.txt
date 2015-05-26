@@ -28,3 +28,12 @@ git pull
 
 git merge <issue>-<description>
 git merge --no-ff <issue>-<desc>
+
+
+conf:
+
+merge.ff
+http://stackoverflow.com/questions/2500296/can-i-make-fast-forwarding-be-off-by-default-in-git
+git config [--global] --add merge.ff false
+
+pull.ff
