@@ -1,6 +1,6 @@
 URLs:
 http://artyom.me/lens-over-tea-2
-  A bit about laws
+  Getters
 http://martinfowler.com/eaaDev/EventSourcing.html
   External Updates
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
