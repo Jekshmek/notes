@@ -1,5 +1,8 @@
 check git-hashes.txt here
 
+git show
+    show commits
+
 git show <hash>
 	show a WHOLE commit (or something else) of the hash
 git show <hash>:FILE

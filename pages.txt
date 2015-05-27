@@ -21,9 +21,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - RxJava                              - 0303
-Denis - HTTP                              - 04:30 (of 30:58)
-LiveLessons - Git under the hood          - 00 01:00 (of 27:01)
+FRP - RxJava                              - 0306 01:00 (of 06:33)
+Denis - HTTP                              - 11:00 (of 30:58)
+LiveLessons - Git under the hood          - 05 07:00 (of 22:28)
 RequireJS                                 - 0102
 msg                                       -  04:30
 

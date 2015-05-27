@@ -13,3 +13,5 @@ Editing:
 {panel}
 
 [^attachment-file-name.ext]
+
+https://confluence.atlassian.com/display/CONF51/Linking+to+Pages

@@ -1,0 +1,88 @@
+http://docs.forgerock.org/en/opendj/2.6.0/admin-guide
+
+
+RN - relative name (concrete record name)
+DN - distinguish name (includes all the parent ids)
+    DC=<org>,DC=net
+OU - org unit
+
+
+
+Setup Summary
+=============
+LDAP Listener Port:            389
+Administration Connector Port: 4444
+LDAP Secure Access:            disabled
+Root User DN:                  cn=Directory Manager
+Directory Data:                Create New Base DN DC=clarabridge,DC=net.
+Base DN Data: Only Create Base Entry (DC=clarabridge,DC=net)
+
+Do not start Server when the configuration is completed
+Do not enable the server to run as a Windows Service
+
+
+To see basic server configuration status and configuration you can launch
+    D:\dev\PL\java\jtools\opendj\bat\status.bat
+
+
+
+conf/authentication.properties:
+{code}
+ldap.provider=Ldap
+
+ldap.DistinguistName=CN=Directory Manager,OU=SaasUsers,DC=clarabridge,DC=net
+ldap.OranizationalUnit=DC=clarabridge,DC=net
+ldap.PasswordName=admin
+
+ldap.ServerPath=ldap://EPBYGOMW0024.gomel.epam.com:389
+
+ldap.UserIdAttributeName=cn
+ldap.PasswordAttributeName=userPassword
+
+isActive_Directory=true
+{code}
+
+ldap.read
+pwd
+
+
+config/java.properties:
+default.java-home=<jdk-path>\jre
+
+config/config.ldif:
+ds-cfg-max-allowed-client-connections: 0
+
+
+
+setup.bat --cli --baseDN "DC=clarabridge,DC=net"
+--addBaseEntry --ldapPort "389" --adminConnectorPort "4444" --rootUserDN
+"cn=Directory Manager" --rootUserPassword "******" --doNotStart --no-prompt
+--noPropertiesFile
+
+ldapmodify.bat "--hostName" "EPBYGOMW0024.gomel.epam.com" "--port" "389" "--bindDN" "cn=Directory Manager" "--bindPassword" "********" "--noPropertiesFile" "--defaultAdd"
+ dn: ou=SaasUsers,DC=clarabridge,DC=net
+ objectclass: top
+ objectclass: organizationalUnit
+ ou: SaasUsers
+
+ldapmodify.bat "--hostName" "EPBYGOMW0024.gomel.epam.com" "--port" "389" "--bindDN" "cn=Directory Manager" "--bindPassword" "********" "--noPropertiesFile" "--defaultAdd"
+ dn: cn=ldap.read,ou=SaasUsers,DC=clarabridge,DC=net
+ objectclass: top
+ objectclass: person
+ objectclass: inetOrgPerson
+ givenName: ldap
+ sn: read
+ cn: ldap.read
+ userPassword: ********
+
+export-ldif.bat "--ldifFile" "D:\Downloads\my.ldif" "--backendID" "userRoot" "--hostName" "EPBYGOMW0024.gomel.epam.com" "--port" "4444" "--bindDN" "cn=Directory Manager" "--bindPassword" "********" "--trustAll" "--noPropertiesFile
+
+
+dsconfig
+ set-global-configuration-prop
+ --port 4444
+ --hostname opendj.example.com
+ --bindDN "cn=Directory Manager"
+ --bindPassword password
+ --set max-allowed-client-connections:32768
+ --no-prompt

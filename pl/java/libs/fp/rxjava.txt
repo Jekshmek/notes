@@ -21,6 +21,8 @@ Subscription
 internals:
 
 Observable
+    .empty()
+
     .create(...) // see later
     .from(T object [, Scheduler s]) // from a single simple value
     .from(Iterable<T> list [, Scheduler s])
@@ -45,8 +47,6 @@ Observable
         }
     })
 
-    .skeepWhile(v -> ... bool-cond ...)
-    .takeUntil
     .soSortedList((e1, e2) -> { return e1...().compareTo(e2...); })
 
     // predicates
@@ -69,8 +69,20 @@ Observable
     // transformations
     .map(op)
     .flatMap(el -> (r1, r2, ..., rn)) // ... (el) -> { return Observable... }
+    .scan(initState, (curState, item) -> { ... return newState ...}) // like a fold
+    .groupBy((i) -> { ... ? "ODD", "EVEN" ... }) // ... groups, maintains the order of events
+        .subscribe((groupList) -> {
+            // groupList.getKey();
+            groupList.subscribe((x) -> { ... });
+        });
+    .buffer(num, TimeUnit.<whatever>)
+        .subscribe((list) -> { ... })
 
     // conditional operations - control one evt-stream using another
+    .defaultIfEmpty(value)
+    .skipWhile(v -> ... bool-cond ...)
+    .takeWhile(v -> ... bool-cond ...)
+    .takeUntil
 
 
 BlockingObservable
