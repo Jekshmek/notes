@@ -65,6 +65,9 @@ Observable
     // time based filtering
     .sample(num, TimeUnit.SECONDS)
     .timeout(num, TimeUnit) // generate onError(java.util.concurrent.TimeoutException) in case of timeout
+    .amb(observable1, observable2) // select whichever observable who wins the race
+    .skipUntil(observable) // skip all output from source observable until the param-observable begins to emit items
+    .takeUntil(observable) // emits ...
 
     // transformations
     .map(op)
@@ -82,14 +85,14 @@ Observable
     .defaultIfEmpty(value)
     .skipWhile(v -> ... bool-cond ...)
     .takeWhile(v -> ... bool-cond ...)
-    .takeUntil
+    .takeWhileWithIndex((v, idx) -> ... bool-cond ...)
 
 
 BlockingObservable
     .from (...)
     .from (Observable o)
 
-2 types
+Observable types
 * non-blocking ubservables
     - async execution supported (RxJava is a single-threaded by default)
     - unsubscribe at any point in the event stream
@@ -97,6 +100,11 @@ BlockingObservable
 * blocking observables (BlockingObservable subclass)
     - events are synchronous
     - no ability to unsubscribe in the middle of event stream
+
+* connectable observables
+
+* resource management
+* subjects
 
 
 Observable.create(subscriber ->

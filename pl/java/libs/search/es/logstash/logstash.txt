@@ -21,6 +21,28 @@ Samples - Tomcat:
 http://blog.lanyonm.org/articles/2014/01/12/logstash-multiline-tomcat-log-parsing.html
 http://blog.lanyonm.org/articles/2013/11/27/pushing-web-server-response-codes-graphite-logstash.html
 
+Multiline log parsing:
+http://blog.sematext.com/2015/05/26/handling-stack-traces-with-logstash/
+
+input {
+  file {
+    path => "/var/log/test.log"
+    start_position => "beginning"
+    codec => multiline {
+      pattern => "^%{TIMESTAMP_ISO8601}"
+      negate => true
+      what => "previous"
+    }   
+  } 
+}
+
+filter {
+  mutate {
+    gsub => [ "message", "\r", "" ]
+  }
+  ...
+}
+
 ?Logstash forwarder
 
 {
