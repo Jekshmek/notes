@@ -47,7 +47,14 @@ Observable
         }
     })
 
-    .soSortedList((e1, e2) -> { return e1...().compareTo(e2...); })
+    // ConnectableObservable
+    .publish() // -> returns ConnectableObservable<T>
+
+    connectable.subscribe(...) // subscribe, but emitting does not happens untill connect() is called.
+    connectable.connect() // start
+
+
+    .toSortedList((e1, e2) -> { return e1...().compareTo(e2...); })
 
     // predicates
     .filter((i) -> { return some bool expr; })
@@ -86,6 +93,12 @@ Observable
     .skipWhile(v -> ... bool-cond ...)
     .takeWhile(v -> ... bool-cond ...)
     .takeWhileWithIndex((v, idx) -> ... bool-cond ...)
+
+    // resource management
+    .using()
+
+    ConnectionSubscription
+        .registerResourceForClose(s)
 
 
 BlockingObservable

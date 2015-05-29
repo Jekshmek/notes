@@ -9,6 +9,8 @@ st = status
 git config --global alias.s status
     global alias for status
 
-    s  - status
-    co - checkout
-    ci - commit
+    purb "pull --rebase"
+
+    st   status
+    co   checkout
+    ci   commit
