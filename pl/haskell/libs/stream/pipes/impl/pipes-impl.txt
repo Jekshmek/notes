@@ -1,3 +1,7 @@
+http://www.reddit.com/r/haskell/comments/3825hc/examining_hackage_pipes/
+http://jozefg.bitbucket.org/posts/2015-06-01-pipes.html
+
+
 http://hackage.haskell.org/package/pipes/docs/Pipes-Tutorial.html
   Introduction
 http://hackage.haskell.org/package/pipes/docs/Pipes-Core.html

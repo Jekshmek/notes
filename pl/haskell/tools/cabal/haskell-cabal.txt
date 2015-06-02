@@ -25,6 +25,12 @@ https://github.com/haskell/cabal/issues/1101
 put
 "require-sandbox: True" in your ~/.cabal/config
 
+sandman:
+http://hackage.haskell.org/package/sandman
+http://hackage.haskell.org/package/sandman
+
+
+
 cabal get --source-repository
 https://plus.google.com/u/0/+MikhailGlushenkov/posts/deEMzNUxNV9
 

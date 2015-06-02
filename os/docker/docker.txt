@@ -36,6 +36,11 @@ default is /var/lib/docker
 list images:
 sudo docker images -a --no-trunc
 
+CleanUp:
+http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
+docker rm -v $(docker ps -a -q -f status=exited)
+docker rmi $(docker images -f "dangling=true" -q)
+
 removing images:
 sudo docker info
 
@@ -50,6 +55,9 @@ sudo docker rmi -f $(sudo docker images -q)
 
 http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
 sudo docker rmi $(sudo docker images -q -f dangling=true)
+
+
+
 
 building:
 sudo docker build --force-rm -t <tag> .

@@ -21,6 +21,9 @@ git log
     -S'msg' [--patch]
         search commit history for a word/phrase (--patch for statistics)
 
+    -p
+        includes the diff on the file at each commit
+
 
 git log HEAD^
     except the top-one commit (HEAD)
