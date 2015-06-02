@@ -95,10 +95,15 @@ Observable
     .takeWhileWithIndex((v, idx) -> ... bool-cond ...)
 
     // resource management
-    .using()
+    .using(resourceFactory, observableFactory)
+        Func0<ConnectionSubscription> resourceFactory = () -> { ... return new ConnectionSubscription(...) ... }
+        Func1<ConnectionSubscription, Observable<String>> observableFactory = (connectionSubscription) -> { ... bla-bla(connectionSubscription) ... }
 
-    ConnectionSubscription
+    ConnectionSubscription implements Subscription // unsubscribe method
         .registerResourceForClose(s)
+
+    // Subjects
+    Subject = Subscriber (can be used to subscribe to more than one observables) + Observable (can reemit events + drive a new ones using onNext/onError/onCompleted)
 
 
 BlockingObservable
