@@ -105,6 +105,28 @@ Observable
     // Subjects
     Subject = Subscriber (can be used to subscribe to more than one observables) + Observable (can reemit events + drive a new ones using onNext/onError/onCompleted)
 
+    PublishSubject
+        // emits events to the subscribers after the point of subscription
+        // events, emitted before, aren't seen
+        // good for multicasting events to subscribers
+
+        PublishSubject<String> subj = PublishSubject.create();
+        subj.subscribe((item) -> { ... })
+        ...
+        Observable ...
+            .subscribe( ... subj.onNext(...) ... subj.onCompleted() ... subj.onError(...) ... )
+
+    BehaviorSubjects
+        // requires to provide a start state (or last publish) event
+        // it will be the first event the new subscriber sees
+
+        BehaviorSubjects<String> subj = BehaviorSubjects.create("Start State");
+
+    AsyncSubject
+        // only emits the last event seen before the onCompleted-call
+        // all other events are consumed without being re-emitted
+
+        AsyncSubject<String> subj = AsyncSubject.create();
 
 BlockingObservable
     .from (...)

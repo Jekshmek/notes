@@ -1,3 +1,7 @@
+Sealed:
+http://www.reddit.com/r/scala/comments/3887az/everything_you_ever_wanted_to_know_about_sealed/
+http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html
+
 Traits
 
 traits are like an abstract classes (def, val), but cannot have (value) parameters [for c-tors], only classes can.
@@ -36,7 +40,6 @@ val set = new java.util.HashSet[String] with IgnoreCaseSet
 
 set.add("HI THERE")
 set.contains("hi there")
-
 
 
 

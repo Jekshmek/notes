@@ -1,14 +1,3 @@
-??? 6.3.3 rev, ticket number
-
-
-?? LdapPasswordCrypter
-
-1) What you think is the problem
-2) What are you trying to troubleshoot
-
-2. Do we log LDAP stuff at configurer (during install)?
-
-
 URLs:
 http://artyom.me/lens-over-tea-2
   Getters
@@ -24,9 +13,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - RxJava                              - 0404 - 01:03
+FRP - RxJava                              - 0502 - 01:00 (of 03:27)
 Denis - HTTP                              - 11:00 (of 30:58)
-LiveLessons - Git under the hood          - 05 07:00 (of 22:28)
+LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
 RequireJS                                 - 0102
 msg                                       -  04:30
 

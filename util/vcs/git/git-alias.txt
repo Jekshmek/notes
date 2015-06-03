@@ -10,7 +10,10 @@ git config --global alias.s status
     global alias for status
 
     purb "pull --rebase"
+    lgo  "log --oneline --graph"
 
+    conf config
     st   status
-    co   checkout
     ci   commit
+
+    co   checkout
