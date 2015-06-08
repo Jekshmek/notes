@@ -9,6 +9,7 @@ Pavel Luspekaev
 Vitaly Solomin
 Alexey Glazyrin (Simonov also)
 Vladimir Ivashov
+Igor Ozerov
 
 MHAT
 Boris Livanov

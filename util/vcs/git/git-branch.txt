@@ -25,6 +25,8 @@ git push :<branch-name>
 
 Orphan branches:
 git checkout --orphan <name>
+    git rm -rf .
+        to clean up staging after that
     ... gh-pages ...
     later we can access such orphan-branch from github pages via (<username>.github.com/<prjname>)
 

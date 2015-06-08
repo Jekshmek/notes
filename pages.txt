@@ -13,18 +13,18 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - RxJava                              - 0505 - 01:00 (of 03:22)
+FRP - RxJava                              - 0506 - 01:30 (of 12:56)
 FRP - Scala                               - 3 - 1 - 02:00 (or 11:42)
-Denis - HTTP                              - 11:00 (of 30:58)
+Denis - HTTP                              - 20:00 (of 30:58)
 LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
 RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Filonik - Nevrozy                         - 44:00 (of 2:27:39)
+Filonik - Nevrozy                         - 1:55:00 (of 2:27:39)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p7
-http://accu.org/index.php/journals/c78/   - 126
+http://accu.org/index.php/journals/c78/   - 127
 https://www.fpcomplete.com/recent-content - 24 Apr

@@ -145,3 +145,7 @@ You need to run this command for every shard in the 9201 instance (the one you w
 merge process:
 http://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-merge.html
 http://www.elastic.co/guide/en/elasticsearch/guide/current/merge-process.html
+
+cluster module:
+https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-reroute.html
+
