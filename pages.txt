@@ -13,9 +13,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - RxJava                              - 0506 - 01:30 (of 12:56)
+FRP - RxJava                              - 0506 - 08:00 (of 12:56)
 FRP - Scala                               - 3 - 1 - 02:00 (or 11:42)
-Denis - HTTP                              - 20:00 (of 30:58)
+Orendorff - CPS in Haskell                - 08:00 (of 45:59)
 LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
 RequireJS                                 - 0102
 msg                                       -  04:30
