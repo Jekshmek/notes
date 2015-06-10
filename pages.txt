@@ -13,9 +13,8 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - RxJava                              - 0506 - 08:00 (of 12:56)
-FRP - Scala                               - 3 - 1 - 02:00 (or 11:42)
-Orendorff - CPS in Haskell                - 08:00 (of 45:59)
+FRP - Scala                               - 3 - 1 - 03:00 (or 11:42)
+Orendorff - CPS in Haskell                - 33:00 (of 45:59)
 LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
 RequireJS                                 - 0102
 msg                                       -  04:30
@@ -27,4 +26,4 @@ Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p7
 http://accu.org/index.php/journals/c78/   - 127
-https://www.fpcomplete.com/recent-content - 24 Apr
+https://www.fpcomplete.com/recent-content - 10 Jun

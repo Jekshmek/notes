@@ -24,6 +24,7 @@ Observable
     .empty()
 
     .create(...) // see later
+
     .from(T object [, Scheduler s]) // from a single simple value
     .from(Iterable<T> list [, Scheduler s])
     .from(T [] array [, Scheduler s])
@@ -32,6 +33,14 @@ Observable
     .parallel(...)
         to run in parallel
         (observable) -> { return observable.filter(...)...doOnNext((xx) -> { ... });
+
+    .concat(observable1, obs2, ...)
+    .zip(wrappedObservable, accum::collapseFunction)
+        SomeClass accum;
+            SomeClass accum::collapseFunction(Object [] events) {
+                ...
+            }
+        
 
     .subscribe()
     .subscribe(,)
