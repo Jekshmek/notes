@@ -13,8 +13,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - Scala                               - 3 - 1 - 03:00 (or 11:42)
-Orendorff - CPS in Haskell                - 33:00 (of 45:59)
+FRP - Scala                               - 3 - 4 - 00:00 (of 12:54)
 LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
 RequireJS                                 - 0102
 msg                                       -  04:30

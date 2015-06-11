@@ -9,3 +9,7 @@ ScalaBlitz:
 http://scala-blitz.github.io/
 http://www.reddit.com/r/scala/comments/2951es/lightningfast_standard_collections_with/
 https://github.com/scala-blitz/scala-blitz
+
+trait Map[Key, Value] extends (Key => Value) ...
+trait Seq[Elem] extends (Int => Elem)
+    we can write elems(i)
