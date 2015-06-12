@@ -13,8 +13,8 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-FRP - Scala                               - 3 - 4 - 00:00 (of 12:54)
-LiveLessons - Git under the hood          - 06 13:00 (of 21:39)
+FRP - Scala                               - 3 - 5 - 01:00 (of 19:42)
+LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 msg                                       -  04:30
 
