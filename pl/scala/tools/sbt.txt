@@ -74,6 +74,10 @@ History commands:
 
 Dependency Mgmt:
 
+external-deps:
+http://stackoverflow.com/questions/24345745/how-to-use-external-dependencies-in-sbts-scala-files
+http://www.scala-sbt.org/release/tutorial/Organizing-Build.html
+
 http://www.scala-sbt.org/0.13/docs/Library-Management.html
 http://www.scala-sbt.org/0.13/docs/Update-Report.html
 
@@ -146,6 +150,7 @@ print-warnings
 
 
 Multi-Project Build
+http://www.scala-sbt.org/release/tutorial/Multi-Project.html
 
 multi-prj build samples:
 https://github.com/henrikerola/scaladin/blob/3.2/build.sbt
