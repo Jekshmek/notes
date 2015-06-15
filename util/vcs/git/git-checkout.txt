@@ -17,4 +17,5 @@ git checkout --track <remote>/<branch-name>
 
 reverting:
 git checkout -- <file>
+    check the <file> out to the latest state, known to git
 git checkout -- .
