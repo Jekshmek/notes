@@ -14,6 +14,9 @@ https://hackhands.com/lazy-evaluation-works-haskell/
 
 
 Presentations:
+http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html
+http://jelv.is/talks/thinking-with-laziness/#slide1
+
 https://github.com/tibbe/talks
 http://www.slideshare.net/tibbe/highperformance-haskell (Tiebel - High Performance Haskell)
 http://www.slideshare.net/tibbe/reasoning-about-laziness (Tiebel - Reasoning About Haskell)

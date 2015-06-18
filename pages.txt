@@ -13,6 +13,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
+Subramanian - DP and Lambdas              - 17:00 (of 1:10:52)
 FRP - Scala                               - 3 - 7 - 07:00 (of 20:22)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
