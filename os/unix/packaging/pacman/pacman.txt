@@ -92,7 +92,10 @@ ls -l /var/cache/pacman/pkg/ | grep xf86-video-intel
 sudo pacman -U /var/cache/pacman/pkg/xf86-video-intel-2.99.911-2-x86_64.pkg.tar.xz
 sudo pacman -U /var/cache/pacman/pkg/xf86-video-intel-2.99.916-3-x86_64.pkg.tar.xz
 
-
+Keyrings:
+sudo pacman -Sy archlinux-keyring manjaro-keyring
+sudo pacman-key --refresh-keys
+sudo pacman -Su
 
 Package format:
 
