@@ -10,6 +10,8 @@ git config --global alias.s status
     global alias for status
 
     purb "pull --rebase"
+    rbi "rebase --interactive"
+
     lgo  "log --oneline --graph --decorate"
 
     conf config
