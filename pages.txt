@@ -1,3 +1,9 @@
+FX ctx - Processor, init-d by certain FX cfg
+2 cfg - 1 - with custom lexicon, other - not
+- instantiate the 2nd copy o all the other resource
+? lexicon - customized...
+- morph dict-s
+
 URLs:
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting

@@ -1,0 +1,3 @@
+stack\src\Stack\Constants.hs
+
+STACK_ROOT env var
