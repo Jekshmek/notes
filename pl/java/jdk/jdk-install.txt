@@ -16,7 +16,7 @@ http://stackoverflow.com/questions/15292464/how-to-silently-install-java-jdk-int
 http://docs.oracle.com/javase/8/docs/technotes/guides/install/windows_jdk_install.html
 http://www.postseek.com/meta/e728de94da96dd1e9dcedf9296cba334
 
-jdk-8u45-windows-x64.exe /s ADDLOCAL="ToolsFeature,SourceFeature" INSTALLDIR="D:\dev\PL\java\jdk64\jdk1.8.0_45" /log jdk8-inst.log
+jdk-8u51-windows-x64.exe /s ADDLOCAL="ToolsFeature,SourceFeature" INSTALLDIR="D:\dev\PL\java\jdk64\jdk1.8.0_51" /log jdk8-inst.log
 
 /passive
 /v/qn

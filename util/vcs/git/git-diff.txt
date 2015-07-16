@@ -9,3 +9,6 @@ git diff --staged/--cached <some-file>
 
 git diff HEAD <some-file>
     diff between the committed (HEAD) and working-dir
+
+git diff "<sha>^!"
+    diff for the specific <sha> commit hash

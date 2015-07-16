@@ -1,6 +1,9 @@
 https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions
 https://www.fpcomplete.com/user/PthariensFlame/guide-to-ghc-extensions
 
+http://unbui.lt/#!/post/haskell-language-extensions/
+http://www.reddit.com/r/haskell/comments/3cndn7/some_awesome_language_extensions_explained/
+
 ViewPatterns:
 http://www.reddit.com/r/haskell/comments/2o341e/24_days_of_ghc_extensions_view_patterns/
 https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html

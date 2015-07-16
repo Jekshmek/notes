@@ -19,6 +19,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
+Slajus - Imperative to Functional         - 12:00 (of )
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
@@ -26,7 +27,7 @@ msg                                       -  04:30
 Bulgakova                                 - 30:00
 
 Audio:
-Filonik - Nevrozy                         - 1:55:00 (of 2:27:39)
+Bananas and Lens                          - 26:30 (of 1:21:00)
 Lorgus                                    - 24:00 (of 1:20:32)
 
 Tracking:
