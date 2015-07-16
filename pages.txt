@@ -1,3 +1,6 @@
+?? morph resources sharing ??
+
+
 FX ctx - Processor, init-d by certain FX cfg
 2 cfg - 1 - with custom lexicon, other - not
 - instantiate the 2nd copy o all the other resource
@@ -19,6 +22,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
+Gonzalez - Proof                          - 05:00 (of 55:53)
 Slajus - Imperative to Functional         - 12:00 (of )
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)

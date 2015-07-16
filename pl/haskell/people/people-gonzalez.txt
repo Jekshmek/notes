@@ -169,3 +169,8 @@ http://www.haskellforall.com/2014/12/a-very-general-api-for-relational-joins.htm
 http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html
 http://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html
 
+Talks
+
+http://www.reddit.com/r/haskell/comments/3c735q/how_to_prove_large_software_projects_correct_talk/
+http://www.techcast.com/events/bigtechday8/maffei-1450
+http://www.techcast.com/events/bigtechday8/maffei-1450/maffei-1450.mp4?start=0
