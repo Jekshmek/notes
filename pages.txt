@@ -1,12 +1,3 @@
-?? morph resources sharing ??
-
-
-FX ctx - Processor, init-d by certain FX cfg
-2 cfg - 1 - with custom lexicon, other - not
-- instantiate the 2nd copy o all the other resource
-? lexicon - customized...
-- morph dict-s
-
 URLs:
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
@@ -22,17 +13,19 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Gonzalez - Proof                          - 05:00 (of 55:53)
-Slajus - Imperative to Functional         - 12:00 (of )
+Nutter - Fast as C                        -  06:00 (of 51:41)
+                                             12 of 132
+Gonzalez - Proof                          -  05:00 (of 55:53)
+Slajus - Imperative to Functional         -  12:00 (of )
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 msg                                       -  04:30
-Bulgakova                                 - 30:00
+Bulgakova                                 -  30:00
 
 Audio:
-Bananas and Lens                          - 26:30 (of 1:21:00)
-Lorgus                                    - 24:00 (of 1:20:32)
+Typelevel Scala                           -  12:00 (of 1:00:43)
+Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
