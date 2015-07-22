@@ -1,8 +1,31 @@
+http://www.slideshare.net/CharlesNutter/fast-as-c-how-to-write-really-terrible-java
+https://vimeo.com/131394615
+
 https://github.com/AdoptOpenJDK/jitwatch/wiki
 
 To generate the hotspot.log file used by JITWatch run your program with the following JVM switches.
 
--XX:+UnlockDiagnosticVMOptions -XX:+TraceClassLoading -XX:+LogCompilation -XX:+PrintAssembly
+    -XX:+TraceClassLoading
+
+    -XX:-TieredCompilation // to turn off the tiered compil-n
+
+    -XX:+PrintInlining
+    -XX:+PrintCompilation
+    -XX:+PrintAssembly
+    -XX:+LogCompilation // combines PrintCompilation and PrintInlining in one horrible xml (LogCompilation - for CLI, JITWatch - for GUI)
+
+-XX:+UnlockDiagnosticVMOptions
+    -XX:+PrintInlining
+    -XX:+PrintAssembly
+
+    -Xbatch // ???
+    2> /dev/null
+
+out:
+ms batch-id flags
+    flags
+    ! - ex-hanling
+    % - never-ending loop
 
 The hotspot.log file is generated in the program execution directory.
 
