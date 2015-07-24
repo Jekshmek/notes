@@ -16,6 +16,7 @@ Presentations:
 
 Video:
 Nutter - Fast as C                        -  37:00 (of 51:41)
+Kmett                                     -  10:00 (of 1:31:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 Slajus - Imperative to Functional         -  12:00 (of )
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)

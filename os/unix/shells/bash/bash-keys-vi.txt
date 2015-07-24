@@ -1,0 +1,17 @@
+set -o vi
+
+~/.inputrc
+set show-mode-in-prompt on
+
+
+http://stackoverflow.com/questions/1039713/different-bash-prompt-for-different-vi-editing-mode
+https://gist.github.com/ethagnawl/86a0284c990196ae31b7
+
+# requires >= Bash 4.3
+# note: the prompt will not be updated if you use a custom PS1 which contains a newline character
+
+set editing-mode vi
+set keymap vi-command
+set show-mode-in-prompt on
+
+# if it's configured correctly, your prompt will be prefixed with a `+` while in insert mode and a `:` when in command mode.
