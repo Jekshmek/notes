@@ -32,7 +32,6 @@ endlocal
 
 
 TODO:
-pacman -Syu
 pacman -s bash-completion vim git openssh dos2unix man-pages-posix
 # zsh tig(vim, git) man
 

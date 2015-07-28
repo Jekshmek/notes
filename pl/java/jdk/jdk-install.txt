@@ -2,7 +2,8 @@ http://www.tecmint.com/install-java-jdk-jre-on-rhel-centos-fedora/
 http://www.unixmen.com/install-oracle-java-jdk-8-centos-76-56-4/
 http://www.unixmen.com/install-apache-ant-maven-tomcat-centos-76-5/
 
-# wget --no-cookies --no-check-certificate --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2F; oraclelicense=accept-securebackup-cookie" "http://download.oracle.com/otn-pub/java/jdk/8u45-b14/jdk-8u45-linux-x64.rpm"
+# wget --no-cookies --no-check-certificate --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2F; oraclelicense=accept-securebackup-cookie" "http://download.oracle.com/otn-pub/java/jdk/8u51-b16/jdk-8u51-linux-x64.rpm"
+
 # rpm -Uvh jre-8u45-linux-x64.rpm
 
 http://lalyos.github.io/blog/2014/03/18/oracle-jdk-7-on-centos/

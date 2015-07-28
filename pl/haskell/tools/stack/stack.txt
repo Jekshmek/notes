@@ -4,3 +4,15 @@ STACK_ROOT env var
 
 http://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html
 
+
+http://duplode.github.io/posts/migrating-a-project-to-stack.html
+
+Reference the commits in the remote GitHub repository in stack.yaml.
+A typical entry for a Git commit in the packages section looks like this:
+
+location:
+    git: https://github.com/duplode/zip-conduit
+    commit: 1eefc8bd91d5f38b760bce1fb8dd16d6e05a671d
+    extra-dep: true
+
+

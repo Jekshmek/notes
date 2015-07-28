@@ -81,16 +81,6 @@ pacman-key --refresh
 sudo pacman-mirrors -g [-o a.out]
 
 
---- Kernel upgrade
-
-https://wiki.manjaro.org/index.php/Manjaro_Kernels
-
-sudo mhwd-kernel -h
-sudo mhwd-kernel -li
-sudo mhwd-kernel -i <your-kernel>
-    [rmc: for removing current]
-
-
 --- Openbox config
 
 https://forum.manjaro.org/index.php?topic=1803.0
