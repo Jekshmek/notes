@@ -1,0 +1,4 @@
+subsctiptions:
+https://github.com/joppa27/QAAutomation/subscription
+
+https://github.com/ClarabridgeInc/QAAutomation/subscription
