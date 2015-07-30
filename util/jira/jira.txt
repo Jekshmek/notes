@@ -15,3 +15,9 @@ Editing:
 [^attachment-file-name.ext]
 
 https://confluence.atlassian.com/display/CONF51/Linking+to+Pages
+
+
+Advanced search:
+https://confluence.atlassian.com/display/JIRA/Advanced+Searching
+
+Assignee = "Valeriy Kotsyubynskyy" and Status = Open and Attachments is not empty
