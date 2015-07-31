@@ -15,8 +15,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Nutter - Fast as C                        -  37:00 (of 51:41)
+Nutter - Fast as C                        -  44:30 (of 51:41)
 Kmett                                     -  10:00 (of 1:31:50)
+Henney - Functional Cpp                   -  06:00 (of 1:06:21)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 Slajus - Imperative to Functional         -  12:00 (of )
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
@@ -26,7 +27,6 @@ msg                                       -  04:30
 Bulgakova                                 -  30:00
 
 Audio:
-Trauberg                                  -  22:00 (of 55:34)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
