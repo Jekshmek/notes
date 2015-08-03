@@ -1,6 +1,10 @@
 Books:
 Marlow-ParallelAndConcurrentProgrammingInHaskell - ch 8
 
+Well-Typed - Lightweight Checked Exceptions in Haskell:
+http://www.well-typed.com/blog/2015/07/checked-exceptions/
+http://www.reddit.com/r/haskell/comments/3f9ycj/lightweight_checked_exceptions_in_haskell/
+
 SOH:
 http://www.reddit.com/r/haskell/comments/35sk6w/best_practices_for_using_exceptions_an_fp/
 https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices
