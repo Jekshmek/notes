@@ -1,0 +1,5 @@
+C:\Users\-\AppData\Local\Application Data\
+
+Google\Chrome\User Data\Default\Cache
+Microsoft\Office\15.0\Lync\Tracing
+Mozilla\Firefox\Profiles\-\cache2\entries

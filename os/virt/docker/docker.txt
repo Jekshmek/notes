@@ -1,3 +1,6 @@
+install:
+curl -L https://get.docker.com/builds/Darwin/x86_64/docker-latest > /usr/local/bin/docker
+
 Articles:
 http://paislee.io/how-to-automate-docker-deployments/
 http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
@@ -15,6 +18,11 @@ WORKDIR /home/ghc
 USER ghc
 
 images location:
+Actually, Docker images are stored in two files as shown by following command
+$ docker info
+Data file: /var/lib/docker/devicemapper/devicemapper/data
+Metadata file: /var/lib/docker/devicemapper/devicemapper/metadata
+
 http://comments.gmane.org/gmane.comp.sysutils.docker.user/4451
 http://blog.thoward37.me/articles/where-are-docker-images-stored/
 http://www.projectatomic.io/docs/docker-storage-recommendation/
@@ -33,13 +41,16 @@ ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
 --graph
 default is /var/lib/docker
 
+
 list images:
 sudo docker images -a --no-trunc
+
 
 CleanUp:
 http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
 docker rm -v $(docker ps -a -q -f status=exited)
 docker rmi $(docker images -f "dangling=true" -q)
+
 
 removing images:
 sudo docker info
