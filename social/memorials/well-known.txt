@@ -22,6 +22,8 @@ Valentin Zubkov
 Boris Andreev
 Sergey Stolyarov
 Yury Belov (Karnavalnaya)
+Nikolay Volkov (Hattabych)
+Alexey Smirnov
 
 Unusual
 Gleb Strizhenov

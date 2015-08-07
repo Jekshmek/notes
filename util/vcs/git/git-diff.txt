@@ -12,3 +12,6 @@ git diff HEAD <some-file>
 
 git diff "<sha>^!"
     diff for the specific <sha> commit hash
+
+git diff HEAD~1..HEAD
+    diff for the latest commit
