@@ -90,3 +90,8 @@ alias dkstatus='sudo systemctl status docker'
 alias dkbld='sudo docker build --force-rm=true'
 
 #spikes/max/builder
+
+
+inspecting
+docker inspect <container>
+
