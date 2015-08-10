@@ -23,26 +23,18 @@ rem Set debugging program for errors
 rem set MSYS=error_start:%WD%../../mingw32/bin/qtcreator.exe|-debug|<process-id>
 set MSYSCON=mintty.exe
 
-::start %MSYS_ROOT%\usr\bin\mintty -i /msys2.ico /usr/bin/zsh --login %*
 start %MSYS_ROOT%\usr\bin\mintty -i /msys2.ico /usr/bin/bash --login %*
-:: --login -i
 :: -c %USERPROFILE%\.minttyrc
 endlocal
 
 
-
 TODO:
 pacman -s bash-completion vim git openssh dos2unix man-pages-posix
-# zsh tig(vim, git) man
 
 install
     mingw-w64-x86_64
 
-    tig (including git, vim)
-
-    msys/vim
-    msys/bash-completion
-    msys/openssh
+    (msys/vim msys/bash-completion msys/openssh)
 
 https://github.com/mavnn/mintty-colors-solarized
 
@@ -52,9 +44,6 @@ pacman:
 http://msys2.github.io/
 http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 
-This errors is from replacing by pacman DLLs and EXEs that in use during 
-update. You need restart MSYS2 after this errors.
-
 I prefer the next update scenario:
 
 pacman --needed -Sy bash pacman pacman-mirrors msys2-runtime
@@ -62,16 +51,6 @@ pacman --needed -Sy bash pacman pacman-mirrors msys2-runtime
 restart
 
 pacman -Su
-
-
-otherwise:
-
-This problem is probably due to using incompatible versions of the msys DLL.
-Search for msys-2.0.dll using the Windows Start->Find/Search facility
-and delete all but the most recent version.  The most recent version *should*
-reside in x:\msys\bin, where 'x' is the drive on which you have
-installed the msys distribution.  Rebooting is also suggested if you
-are unable to find another msys DLL.
 
 
 slow login:
@@ -95,7 +74,6 @@ mkgroup -l -c > /etc/group
 cur user only:
 mkpasswd -c > /etc/passwd
 mkgroup -c > /etc/group
-
 
 
 slow bash-completion
