@@ -6,8 +6,23 @@ http://paislee.io/how-to-automate-docker-deployments/
 http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
 http://www.radcortez.com/get-into-docker/
 
-Smaples:
+Samples:
 https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
+
+Shares:
+http://stackoverflow.com/questions/26639968/boot2docker-startup-script-to-mount-local-shared-folder-with-host
+https://github.com/boot2docker/boot2docker/issues/678
+
+In Virtualbox go to settings of your boot2docker machine.
+In the last menu add all folders you need.
+Run virtual machine.
+
+And add some code to the
+sudo vi /var/lib/boot2docker/bootlocal.sh
+mkdir /clb
+mount -t vboxsf clb /clb
+
+
 
 Debian useradd:
 

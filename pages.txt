@@ -15,8 +15,9 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Kmett                                     -  10:00 (of 1:31:50)
-Henney - Functional Cpp                   -  06:00 (of 1:06:21)
+Odersky - Compilers are Databases         -  24:00 (of 1:08:51)
+Kmett                                     -  51:00 (of 1:31:50)
+Henney - Functional Cpp                   -  28:00 (of 1:06:21)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 Slajus - Imperative to Functional         -  30:00 (of 1:32:39)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
