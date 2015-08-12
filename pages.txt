@@ -15,7 +15,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Reinhold - The Secret History of Unsafe   -  02:00 (of 18:21)
+Reinhold - The Secret History of Unsafe   -  12:23 (of 18:21)
 Odersky - Compilers are Databases         -  40:33 (of 1:08:51)
 Kmett                                     -  51:00 (of 1:31:50)
 Tibel - Performance                       -  01:00 (of 1:15:50)
