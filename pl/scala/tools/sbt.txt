@@ -12,6 +12,7 @@ http://www.scala-sbt.org/release/docs/Getting-Started/Basic-Def.html
 http://twitter.github.com/scala_school/sbt.html
 
 Common Commands
+    about         - print sbt/prj about info (+versions)
 
     tasks         - show all the available tasks
      -v

@@ -13,6 +13,8 @@ com.github.dockerjava.core.DockerClientBuilder
 https://github.com/bmuschko/gradle-docker-plugin/issues/96
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
 
+https://github.com/iharh/prj/tree/master/gradle/dockertest
+
 Caused by:
     org.codehaus.groovy.runtime.typehandling.GroovyCastException:
     Cannot cast object '[

@@ -15,6 +15,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
+Reinhold - The Secret History of Unsafe   -  02:00 (of 18:21)
 Odersky - Compilers are Databases         -  40:33 (of 1:08:51)
 Kmett                                     -  51:00 (of 1:31:50)
 Tibel - Performance                       -  01:00 (of 1:15:50)
@@ -30,5 +31,5 @@ Lorgus                                    -  24:00 (of 1:20:32)
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p7
-http://accu.org/index.php/journals/c78/   - 127
+http://accu.org/index.php/journals/c78/   - 128
 https://www.fpcomplete.com/recent-content - 6 Aug
