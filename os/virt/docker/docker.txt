@@ -89,8 +89,14 @@ building:
 sudo docker build --force-rm -t <tag> .
 # --force-rm=true --rm=true
 
+Also, since the Dockerfile is put on the project root,
+it'll tar up the whole project and send to the docker deamon while we only need the fat jar!
+to avoid that, add .dockerignore to your project root.
+
+
 running:
-sudo docker run -t -i <img> <cmd>
+sudo docker run -ti --rm=true <img> <cmd>
+
 
 REST API:
 https://docs.docker.com/reference/api/docker_remote_api/

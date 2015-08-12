@@ -16,3 +16,5 @@ location:
     extra-dep: true
 
 
+build command:
+https://github.com/commercialhaskell/stack/wiki/Build-command

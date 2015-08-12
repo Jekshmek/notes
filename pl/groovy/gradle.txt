@@ -1,0 +1,46 @@
+gradle-docker-plugin\src\main\groovy\com\bmuschko\gradle\docker\utils\DockerThreadContextClassLoader.groovy 
+
+
+https://github.com/docker-java/docker-java
+
+com.github.docker-java:docker-java:1.4.0
+
+
+com.github.dockerjava.core.DockerClientBuilder
+.getInstance
+
+
+https://github.com/bmuschko/gradle-docker-plugin/issues/96
+https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
+
+Caused by:
+    org.codehaus.groovy.runtime.typehandling.GroovyCastException:
+    Cannot cast object '[
+    com.github.dockerjava.api.model.Image@35563e4c[created=1439382697,id=9409f82b6bc5d3de6bef411367b3fee1dffc4c0987112185ffee5f9577beb1a4,parentId=4a36aa8cf5590b873d4b233fd13ffad08461a19193d20540c4a250f6e8584b01,repoTags={prefix/dockertest:0.1},size=0,virtualSize=452164302],
+    com.github.dockerjava.api.model.Image@ef86c72[created=1439295194,id=905ef1f2473cc65489fd9025d501fe6bcd5860f2bde7e1a35282535bc4b73cc4,parentId=88b02ea5b6588ddac4d3e3054c7c4c472531b900963be6f4631baebdc2337330,repoTags={com.clarabridge/cb-cps-app:0.1},size=0,virtualSize=946275572],
+    com.github.dockerjava.api.model.Image@1693ff90[created=1434648530,id=a005304e4e74c1541988d3d1abb170e338c1d45daee7151f8e82f8460634d329,parentId=fb9cc58bde0c0a8fe53e6fdd23898e45041783f2d7869d939d7364f5777fde6f,repoTags={centos:centos6},size=0,virtualSize=203062931]]'
+    
+    with class 'java.util.ArrayList'
+    
+    to class 'java.lang.Void'
+    
+    due to: groovy.lang.GroovyRuntimeException:
+        Could not find matching constructor for:
+            java.lang.Void(com.github.dockerjava.api.model.Image, com.github.dockerjava.api.model.Image, com.github.dockerjava.api.model.Image)
+
+        at com.bmuschko.gradle.docker.response.image.ListImagesResponseHandler.handle(ListImagesResponseHandler.groovy:12)
+        at com.bmuschko.gradle.docker.response.image.ListImagesResponseHandler$handle.call(Unknown Source)
+        at com.bmuschko.gradle.docker.tasks.image.DockerListImages.runRemoteCommand(DockerListImages.groovy:48)
+        at com.bmuschko.gradle.docker.tasks.AbstractDockerRemoteApiTask$_start_closure1.doCall(AbstractDockerRemoteApiTask.groovy:48)
+        at com.bmuschko.gradle.docker.utils.DockerThreadContextClassLoader.withClasspath(DockerThreadContextClassLoader.groovy:39)
+        at com.bmuschko.gradle.docker.utils.ThreadContextClassLoader$withClasspath.call(Unknown Source)
+        at com.bmuschko.gradle.docker.tasks.AbstractDockerRemoteApiTask.start(AbstractDockerRemoteApiTask.groovy:47)
+        at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:75)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.doExecute(AnnotationProcessingTaskFactory.java:226)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:219)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:208)
+        at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:585)
+        at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:568)
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeAction(ExecuteActionsTaskExecuter.java:80)
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:61)
+        ... 57 more
