@@ -18,3 +18,16 @@ location:
 
 build command:
 https://github.com/commercialhaskell/stack/wiki/Build-command
+
+
+LTS:
+http://www.stackage.org/
+https://github.com/fpco/lts-haskell
+http://www.stackage.org/lts-3.0
+
+LTS Setup guide:
+
+Edit your stack.yaml and set the following:
+resolver: lts-3.0
+You can also use --resolver lts-3.0 on the command line
+

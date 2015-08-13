@@ -1,3 +1,10 @@
+cheatsheet:
+https://github.com/wsargent/docker-cheat-sheet
+
+reference:
+https://docs.docker.com/reference/commandline/cli/
+
+
 install:
 curl -L https://get.docker.com/builds/Darwin/x86_64/docker-latest > /usr/local/bin/docker
 
