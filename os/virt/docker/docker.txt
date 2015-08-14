@@ -8,6 +8,17 @@ https://docs.docker.com/reference/commandline/cli/
 install:
 curl -L https://get.docker.com/builds/Darwin/x86_64/docker-latest > /usr/local/bin/docker
 
+old:
+https://get.docker.com/builds/Windows/x86_64/docker-1.7.0.exe
+https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe
+curl -L https://get.docker.com/builds/Linux/x86_64/docker-1.6.0 > ~/docker-1.6.0
+
+Daemon
+http://stackoverflow.com/questions/31201846/how-to-use-docker-java-api-to-connect-docker
+/usr/bin/docker -d -H fd:// -H tcp://0.0.0.0:2375
+curl http://localhost:2375/info
+
+
 Articles:
 http://paislee.io/how-to-automate-docker-deployments/
 http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
@@ -64,32 +75,26 @@ ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
 default is /var/lib/docker
 
 
+IMAGES:
 list images:
 sudo docker images -a --no-trunc
-
 
 CleanUp:
 http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
 docker rm -v $(docker ps -a -q -f status=exited)
 docker rmi $(docker images -f "dangling=true" -q)
+(alias doc-rmd)
 
-
-removing images:
-sudo docker info
-
+# Delete all images
 http://techoverflow.net/blog/2013/10/22/docker-remove-all-images-and-containers/
 http://stackoverflow.com/questions/17665283/how-does-one-remove-an-image-in-docker
+http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
+
+sudo docker rmi -f $(sudo docker images -q)
+
 
 # Delete all containers
 sudo docker rm -f $(sudo docker ps -aq)
-
-# Delete all images
-sudo docker rmi -f $(sudo docker images -q)
-
-http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
-sudo docker rmi $(sudo docker images -q -f dangling=true)
-
-
 
 
 building:

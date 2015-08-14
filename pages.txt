@@ -27,6 +27,7 @@ msg                                       -  04:30
 
 Audio:
 Lorgus                                    -  24:00 (of 1:20:32)
+Haskell - Bananas and Lens 2              -  14:00 (of 1:12:27)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html

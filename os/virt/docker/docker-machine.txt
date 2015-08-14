@@ -11,6 +11,8 @@ curl -L https://github.com/docker/machine/releases/download/v0.3.0/docker-machin
 docker-machine -v
 
 
+
+
 dev-ver:
 https://github.com/docker/machine/releases/
 curl -L https://github.com/docker/machine/releases/download/v0.4.0-rc2/docker-machine_windows-amd64.exe > /bin/docker-machine
