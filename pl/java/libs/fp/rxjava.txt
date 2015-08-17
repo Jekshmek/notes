@@ -6,6 +6,8 @@ https://github.com/Netflix/RxJava/wiki
   Eledge-RxJava\02. Observable Creation, Composition, and Filtering\02_08-Filtering.mp4
   Christensen - Reactive Programming with Rx slides
 
+  https://github.com/Froussios/Intro-To-RxJava
+
 
 ifaces:
 

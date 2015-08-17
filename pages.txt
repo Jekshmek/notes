@@ -16,7 +16,6 @@ Presentations:
 
 Video:
 Tarasof - Docker at Bank                  -  46:00 (of 1:57:47)
-Odersky - Compilers are Databases         -  40:33 (of 1:08:51)
 Kmett                                     -  51:00 (of 1:31:50)
 Tibel - Performance                       -  01:00 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -27,7 +26,7 @@ msg                                       -  04:30
 
 Audio:
 Lorgus                                    -  24:00 (of 1:20:32)
-Haskell - Bananas and Lens 2              -  14:00 (of 1:12:27)
+Haskell - Bananas and Lens 2              -  24:11 (of 1:12:27)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
