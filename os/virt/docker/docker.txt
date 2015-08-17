@@ -94,6 +94,8 @@ http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
 sudo docker rmi -f $(sudo docker images -q)
 
 
+CONTAINERS:
+
 # Delete all containers
 sudo docker rm -f $(sudo docker ps -aq)
 
