@@ -1,0 +1,8 @@
+/var/lib/boot2docker/
+
+bootlocal.sh
+
+profile
+
+etc/hostname
+d2m

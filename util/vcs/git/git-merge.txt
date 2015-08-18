@@ -1,3 +1,6 @@
+git merge-base
+    ???
+
 grep -r'<<<<' *
     search for all the merge conflict markers
 
@@ -11,23 +14,14 @@ git merge
     --ff-only
         only do a fast-forward
 
-git checkout <branch-to-merge>
-git merge <feature-branch>
-... --//-- the same stuff in the opposite direction
-git chechout <featur-branch>
-git merge <branch-to-merge>
-    fast-forward merge
-git push...
+git checkout <to-branch>
+git merge <from-branch>
+git merge <from-branch> <to-branch>
+    one-line cmd
 
 
-git checkout master
-git fetch
-
-git merge <remote-name>/<branch>
-git pull
-
-git merge <issue>-<description>
 git merge --no-ff <issue>-<desc>
+-//- no fast-forward
 
 
 conf:
