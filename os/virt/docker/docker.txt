@@ -84,7 +84,17 @@ IMAGES:
 list images:
 sudo docker images -a --no-trunc
 
-CleanUp:
+images building:
+sudo docker build [options] .
+# -t="<tag>"
+# --force-rm
+# --force-rm=true --rm=true
+
+Also, since the Dockerfile is put on the project root,
+it'll tar up the whole project and send to the docker deamon while we only need the fat jar!
+to avoid that, add .dockerignore to your project root.
+
+images cleanin up:
 http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
 docker rm -v $(docker ps -a -q -f status=exited)
 (alias doc-rmc)
@@ -101,21 +111,12 @@ sudo docker rmi -f $(sudo docker images -q)
 
 CONTAINERS:
 
+running:
+sudo docker run -ti --rm=true <img> <cmd>
+
 # Delete all containers
 sudo docker rm -f $(sudo docker ps -aq)
 
-
-building:
-sudo docker build --force-rm -t <tag> .
-# --force-rm=true --rm=true
-
-Also, since the Dockerfile is put on the project root,
-it'll tar up the whole project and send to the docker deamon while we only need the fat jar!
-to avoid that, add .dockerignore to your project root.
-
-
-running:
-sudo docker run -ti --rm=true <img> <cmd>
 
 
 REST API:

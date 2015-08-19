@@ -4,6 +4,8 @@ http://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
 
 http://habrahabr.ru/company/infobox/blog/241237/
 
+http://www.unixmen.com/logging-journald-rhel7centos7/
+
 ???
 systemd.special
 

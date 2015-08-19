@@ -50,3 +50,7 @@ interesting:
 ui stuff
    Desktop Platform Development
 
+
+OPTIONS
+-y
+    always yes

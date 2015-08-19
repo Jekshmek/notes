@@ -26,7 +26,7 @@ msg                                       -  04:30
 
 Audio:
 Lorgus                                    -  24:00 (of 1:20:32)
-Razbor Poletov 17                         -  13:00 (of 2:13:22)
+Razbor Poletov 17                         -1:52:00 (of 2:13:22)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
