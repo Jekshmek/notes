@@ -31,3 +31,9 @@ Edit your stack.yaml and set the following:
 resolver: lts-3.0
 You can also use --resolver lts-3.0 on the command line
 
+!!!TODO:
+http://ruhaskell.org/posts/utils/2015/08/19/stack-and-yesod.html
+
+~/.stack/global/stack.yaml
+set resolver to 3.1
+stack install cabal-install-1.22.6.0

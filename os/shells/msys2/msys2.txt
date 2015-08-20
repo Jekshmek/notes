@@ -33,10 +33,14 @@ pacman -s bash-completion vim git openssh dos2unix man-pages-posix
 
 install
     mingw-w64-x86_64
+    mingw-w64-x86_64-gcc
+    mingw-w64-x86_64-make
 
     (msys/vim msys/bash-completion msys/openssh)
 
 https://github.com/mavnn/mintty-colors-solarized
+
+
 
 
 pacman:
