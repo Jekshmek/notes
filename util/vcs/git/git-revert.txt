@@ -1,3 +1,0 @@
-git revert <commit-id>
-    reverts changes, made by the <commit-id>
-    Note: do nota actually remove history log, like reset-cmd

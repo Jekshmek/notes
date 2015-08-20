@@ -15,7 +15,7 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Tarasof - Docker at Bank                  -  46:00 (of 1:57:47)
+Tarasof - Docker at Bank                  -1:26:00 (of 1:57:47)
 Kmett                                     -  51:00 (of 1:31:50)
 Tibel - Performance                       -  01:00 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -26,7 +26,6 @@ msg                                       -  04:30
 
 Audio:
 Lorgus                                    -  24:00 (of 1:20:32)
-Razbor Poletov 17                         -1:52:00 (of 2:13:22)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
