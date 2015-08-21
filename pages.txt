@@ -15,8 +15,8 @@ Kuc - ElasticSearch Server                - 161..181...234 (Ch 5 of 8)
 Presentations:
 
 Video:
-Tarasof - Docker at Bank                  -1:26:00 (of 1:57:47)
-Kmett                                     -  51:00 (of 1:31:50)
+Ivanov - State of java.lang.invoke        -  07:00 (of 1:09:52)
+Kmett                                     -1:08:24 (of 1:31:50)
 Tibel - Performance                       -  01:00 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
