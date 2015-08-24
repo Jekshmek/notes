@@ -1,0 +1,9 @@
+https://shipyard-project.com/docs/quickstart/
+
+SSL Certificate
+    cert.pem
+SSL Key
+    key.pem
+
+CA Certificate
+    ca.pem
