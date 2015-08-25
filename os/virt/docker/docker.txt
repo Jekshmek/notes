@@ -29,31 +29,10 @@ http://paislee.io/how-to-automate-docker-deployments/
 http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
 http://www.radcortez.com/get-into-docker/
 
-Samples:
-https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
 
-Shares:
-http://stackoverflow.com/questions/26639968/boot2docker-startup-script-to-mount-local-shared-folder-with-host
-https://github.com/boot2docker/boot2docker/issues/678
-
-In Virtualbox go to settings of your boot2docker machine.
-In the last menu add all folders you need.
-clb -> D:\clb
-
-And add some code to the
-sudo vi /var/lib/boot2docker/bootlocal.sh
-mkdir /clb
-mount -t vboxsf clb /clb
-
-
-
-Debian useradd:
-
-RUN useradd -m -d /home/ghc -s /bin/bash ghc
-RUN echo "ghc ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/ghc && chmod 0440 /etc/sudoers.d/ghc
-ENV HOME /home/ghc
-WORKDIR /home/ghc
-USER ghc
+IMAGES:
+list images:
+sudo docker images -a --no-trunc
 
 images location:
 Actually, Docker images are stored in two files as shown by following command
@@ -78,11 +57,6 @@ ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
 
 --graph
 default is /var/lib/docker
-
-
-IMAGES:
-list images:
-sudo docker images -a --no-trunc
 
 images building:
 sudo docker build [options] .
@@ -119,7 +93,6 @@ sudo docker run -ti --rm=true <img> <cmd>
 sudo docker rm -f $(sudo docker ps -aq)
 
 
-
 REST API:
 https://docs.docker.com/reference/api/docker_remote_api/
 http://www.virtuallyghetto.com/2014/07/quick-tip-how-to-enable-docker-remote-api.html
@@ -132,9 +105,11 @@ alias dkstart='sudo systemctl start docker'
 alias dkstatus='sudo systemctl status docker'
 alias dkbld='sudo docker build --force-rm=true'
 
-#spikes/max/builder
-
 
 inspecting
 docker inspect <container>
 
+
+SAMPLES:
+#spikes/max/builder
+https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile

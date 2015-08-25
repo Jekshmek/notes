@@ -36,6 +36,8 @@ foldl'              :: (a -> b -> a) -> a -> [b] -> a
 foldl' f v []       = v
 foldl' f v (x : xs) = ((foldl' f) $! (f v x)) xs
 
+Tibel: Guideline 3: use [return $! x + y] to avoid lazyness
+
 4. MagicHash, UnboxedTuples
 
 type STRep s a = State# s -> (# State# s, a #)

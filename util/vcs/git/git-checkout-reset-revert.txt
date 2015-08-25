@@ -18,7 +18,7 @@ git checkout --track <remote>/<branch-name>
     --track is needed if you have more than one remote, otherwise - by default
 
 
-reverting:
+files reverting:
 git checkout -- <file>
     check the <file> out to the latest state, known to git
 git checkout -- .
@@ -32,13 +32,16 @@ git reset
     --hard  – The staged snapshot and the working directory are both updated to match the specified commit.
 
 git reset HEAD file
+  rollback the <file> to a HEAD (current committed branch rev) state
+
+  When invoked with a file path, git reset updates the staged snapshot to match the version from the specified commit.  
+  The --soft, --mixed, and --hard flags do not have any effect on the file-level version of git reset,
+  as the staged snapshot is always updated, and the working directory is never updated.
+
   rollback the indexation
 git rm --cached database.yml
   remove from staging, leaving it at work-dir (to be added to .gitignore later)
 
-
-git reset HEAD <file>
-  rollback the <file> to a HEAD (current committed branch rev) state
 
 git reset <commit>
   reset to commit
@@ -56,8 +59,23 @@ git reset <commit>
   git branch -d <branch-name>
 
 
+File-level Operations:
+
+The git reset and git checkout commands also accept an optional file path as a parameter.
+This dramatically alters their behavior.
+Instead of operating on entire snapshots, this forces them to limit their operations to a single file.
+
+
+REVERTING:
+Reverting undoes a commit by creating a new commit.
+This is a safe way to undo changes, as it has no chance of re-writing the commit history. 
 
 git revert <commit-id>
     reverts changes, made by the <commit-id>
     Note: do nota actually remove history log, like reset-cmd
+
+
+Contrast this with git reset, which does alter the existing commit history.
+For this reason, git revert should be used to undo changes on a public branch,
+and git reset should be reserved for undoing changes on a private branch.
 

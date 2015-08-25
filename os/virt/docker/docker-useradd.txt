@@ -1,0 +1,8 @@
+Debian useradd:
+
+RUN useradd -m -d /home/ghc -s /bin/bash ghc
+RUN echo "ghc ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/ghc && chmod 0440 /etc/sudoers.d/ghc
+ENV HOME /home/ghc
+WORKDIR /home/ghc
+USER ghc
+

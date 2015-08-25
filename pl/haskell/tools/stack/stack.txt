@@ -2,6 +2,8 @@ stack\src\Stack\Constants.hs
 
 STACK_ROOT env var
 
+https://www.fpcomplete.com/blog/2015/08/stack-ghc-windows
+
 http://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html
 
 

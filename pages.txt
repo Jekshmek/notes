@@ -1,6 +1,6 @@
 URLs:
 https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations
-  Revert
+  Checkout, File Level
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://artyom.me/lens-over-tea-3
@@ -16,8 +16,8 @@ Books:
 Presentations:
 
 Video:
-Ivanov - State of java.lang.invoke        -  11:22 (of 1:09:52)
-Tibel - Performance                       -  01:00 (of 1:15:50)
+Ivanov - State of java.lang.invoke        -  34:00 (of 1:09:52)
+Tibel - Performance                       -  33:45 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
