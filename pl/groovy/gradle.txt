@@ -1,3 +1,13 @@
+https://docs.gradle.org/current/userguide/more_about_tasks.html
+
+About Gradle Tasks:
+http://habrahabr.ru/post/167227/
+
+Dry run:
+http://mrhaki.blogspot.com/2014/11/gradle-goodness-check-task-dependencies.html
+-m or --dry-run
+
+
 Books:
 Mitra - Mastering Gradle
 Ch 6 - Property Mgmt (p139-141)

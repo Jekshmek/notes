@@ -1,3 +1,6 @@
+Tibel
+https://www.youtube.com/watch?v=_pDUq0nNjhI
+
 Options:
 -funbox-strict-fields
   http://www.haskell.org/ghc/docs/latest/html/users_guide/pragmas.html#unpack-pragma
@@ -41,4 +44,22 @@ Tibel: Guideline 3: use [return $! x + y] to avoid lazyness
 4. MagicHash, UnboxedTuples
 
 type STRep s a = State# s -> (# State# s, a #)
+
+
+5. Tibel: In practice: beware of the lazy base case
+
+fun !p1 p2 ... = ...
+
+6. Tible: Guideline 5: add wrapper to recursive functions
+
+map :: (a -> b) -> [a] -> [b]
+map _ []     = []
+map f (x:xs) = f x : map f xs
+
+map f = go
+  where
+    go []     = []
+    go (x:xs) = f x : go xs
+
+
 

@@ -22,3 +22,9 @@ method=auto
 dns=10.6.0.6;10.6.0.16;
 dns-search=minsk.epam.com;gomel.epam.com;
 
+
+nmcli:
+http://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/
+
+nmcli connection show
+nmcli connection up <con-name>
