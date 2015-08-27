@@ -71,9 +71,7 @@ to avoid that, add .dockerignore to your project root.
 images cleanin up:
 http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
 docker rm -v $(docker ps -a -q -f status=exited)
-(alias doc-rmc)
 docker rmi $(docker images -q -f "dangling=true")
-(alias doc-rmd)
 
 # Delete all images
 http://techoverflow.net/blog/2013/10/22/docker-remove-all-images-and-containers/
@@ -89,8 +87,11 @@ running:
 sudo docker run -ti --rm=true <img> <cmd>
     -e "varname=value"
 
-# Delete all containers
+deleting all:
 sudo docker rm -f $(sudo docker ps -aq)
+
+stopping:
+https://labs.ctl.io/gracefully-stopping-docker-containers/
 
 
 REST API:
@@ -113,3 +114,8 @@ docker inspect <container>
 SAMPLES:
 #spikes/max/builder
 https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
+
+ALIASES
+alias doc-rmc='sudo docker rm -v $(sudo docker ps -aqf status=exited && sudo docker ps -aqf status=dead)'
+alias doc-rmd='sudo docker rmi $(sudo docker images -q -f "dangling=true")'
+alias doc-ps='sudo docker ps -a'

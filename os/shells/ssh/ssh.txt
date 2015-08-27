@@ -8,3 +8,8 @@ ssh-keygen
 ssh-copy-id <user>@<host>
 -> ~/.ssh/authorized_keys
 
+
+github ssh:
+https://help.github.com/articles/generating-ssh-keys/
+https://help.github.com/articles/working-with-ssh-key-passphrases/
+http://superuser.com/questions/441854/git-ssh-agent-not-working

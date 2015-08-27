@@ -17,7 +17,7 @@ Presentations:
 
 Video:
 Ivanov - State of java.lang.invoke        -  44:00 (of 1:09:52)
-Tibel - Performance                       -  33:45 (of 1:15:50)
+Tibel - Performance                       -  47:00 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
