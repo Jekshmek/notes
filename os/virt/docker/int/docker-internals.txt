@@ -1,0 +1,18 @@
+/var/lib/boot2docker/
+
+bootlocal.sh
+
+profile
+
+etc/hostname
+d2m
+
+
+/usr/local/etc/ssl/certs/
+  ca.pem
+  * tons of other certs *
+
+/home/docker/.docker/
+  ca.pem
+  cert.pem
+  key.pem

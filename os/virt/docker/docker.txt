@@ -1,3 +1,5 @@
+https://docs.docker.com/introduction/understanding-docker/
+
 cheatsheet:
 https://github.com/wsargent/docker-cheat-sheet
 
@@ -6,17 +8,6 @@ https://docs.docker.com/reference/commandline/cli/
 
 WhatsNew:
 https://github.com/docker/docker/blob/master/CHANGELOG.md
-
-
-install:
-curl -l https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe > /usr/bin/docker-1.6.0
-
-old:
-https://get.docker.com/builds/Windows/x86_64/docker-1.8.1.exe
-https://get.docker.com/builds/Windows/x86_64/docker-1.7.0.exe
-https://get.docker.com/builds/Windows/x86_64/docker-1.6.2.exe
-https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe
-curl -L https://get.docker.com/builds/Linux/x86_64/docker-1.6.0 > ~/docker-1.6.0
 
 Daemon
 http://stackoverflow.com/questions/31201846/how-to-use-docker-java-api-to-connect-docker
@@ -90,32 +81,7 @@ sudo docker run -ti --rm=true <img> <cmd>
 deleting all:
 sudo docker rm -f $(sudo docker ps -aq)
 
-stopping:
-https://labs.ctl.io/gracefully-stopping-docker-containers/
-
-
-REST API:
-https://docs.docker.com/reference/api/docker_remote_api/
-http://www.virtuallyghetto.com/2014/07/quick-tip-how-to-enable-docker-remote-api.html
-
-aliases:
-alias dksvccfg='sudo vim /usr/lib/systemd/system/docker.service'
-alias dkrst='sudo systemctl restart docker'
-alias dkstop='sudo systemctl stop docker'
-alias dkstart='sudo systemctl start docker'
-alias dkstatus='sudo systemctl status docker'
-alias dkbld='sudo docker build --force-rm=true'
-
-
-inspecting
-docker inspect <container>
-
 
 SAMPLES:
 #spikes/max/builder
 https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
-
-ALIASES
-alias doc-rmc='sudo docker rm -v $(sudo docker ps -aqf status=exited && sudo docker ps -aqf status=dead)'
-alias doc-rmd='sudo docker rmi $(sudo docker images -q -f "dangling=true")'
-alias doc-ps='sudo docker ps -a'

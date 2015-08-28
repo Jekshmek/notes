@@ -1,4 +1,4 @@
-https://www.atlassian.com/git/tutorials/git-log/formatting-log-output
+https://www.atlassian.com/git/tutorials/git-log/
 
 git log
     --all
@@ -26,42 +26,63 @@ git log
     --stat   ...
         files + statistics (number of changed files, number of changed/deleted/modified lines)
 
-    -S'msg' [--patch]
-        search commit history for a word/phrase (--patch for statistics)
+    --name-status
+        list modified files
 
     -p
         includes the diff on the file at each commit
 
 
-git log HEAD^
-    except the top-one commit (HEAD)
-git log HEAD~3
-    except the top 3 commits
-git log <branch1>..<branch2> --oneline
-    difference between branch1 and branch2
-git log <branch>..
-    changes made locally, but not pushed
-git log ..<remote-branch>
-    ???
-
+Filtering the commit history
 
 git log
+    -<N>
+        top <N> commits
+
+    HEAD^
+        except the top-one commit (HEAD)
+
+    HEAD~3
+        except the top 3 commits
+
+    --after/--before="2015-7-1", "yesterday"
+    --since/--untill
+        filter by date
+
+    --author="<regex>"
+        by author
+
+    --grep="<regex>" [-i]
+        by commit message
+
+
+    -- file1 file2
+        by file
+
+    -S"msg" [--patch]
+    -G"<regex>"
+        by content (pickaxe) (--patch for statistics)
+
+    <since>..<untill>
+        by range (<since> and <untill> are commit messages here)
+        in particular:
+            <branch1>..<branch2> --oneline
+                difference between branch1 and branch2
+            <branch>..
+                changes made locally, but not pushed
+            ..<remote-branch>
+                ???
+
     --no-merges
-    --name-status
-        list modified files
-
-git log -1 --pretty=format:%H
-for /f "delims=" %%a in ('git log -1 "--pretty=format:%%H"') do echo %%a
-
-git log -p
-    commit history with changes (diff)
+        exclude merge commits
+    --merges
+        merge commits only
 
 
 we can combine ... --oneline --graph --all --decorate
 
 git shortlog
     Summarizes git log output in a format suitable for inclusion in release announcements. Each commit will be grouped by author and title.
-
     -n
         to sort by the number of commits per author
 

@@ -50,7 +50,7 @@ type STRep s a = State# s -> (# State# s, a #)
 
 fun !p1 p2 ... = ...
 
-6. Tible: Guideline 5: add wrapper to recursive functions
+6. Tibel: Guideline 5: add wrapper to recursive functions
 
 map :: (a -> b) -> [a] -> [b]
 map _ []     = []
@@ -62,4 +62,14 @@ map f = go
     go (x:xs) = f x : go xs
 
 
+7. Tibel: Guideline 6: Use INLINABLE to remove overhead from type-classes [HOFs ???] by call-site specialization of type class parameters
 
+module M1 where
+    f :: Num a => a -> a -> a
+    f x y = ...
+    {-# INLINABLE f #-}
+
+module M2 where
+    main = print $ f (1 :: Int) 2
+
+GHC will create a copy of f at call-site, specialized to Int

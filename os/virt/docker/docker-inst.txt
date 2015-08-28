@@ -1,0 +1,10 @@
+install:
+curl -l https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe > /usr/bin/docker-1.6.0
+
+old:
+https://get.docker.com/builds/Windows/x86_64/docker-1.8.1.exe
+https://get.docker.com/builds/Windows/x86_64/docker-1.7.0.exe
+https://get.docker.com/builds/Windows/x86_64/docker-1.6.2.exe
+https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe
+curl -L https://get.docker.com/builds/Linux/x86_64/docker-1.6.0 > ~/docker-1.6.0
+

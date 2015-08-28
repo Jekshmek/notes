@@ -2,14 +2,18 @@ Config (aliases) at
   ~/.ssh/config
 
 http://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password
+
 http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
 
 ssh-keygen
 ssh-copy-id <user>@<host>
 -> ~/.ssh/authorized_keys
 
-
 github ssh:
 https://help.github.com/articles/generating-ssh-keys/
 https://help.github.com/articles/working-with-ssh-key-passphrases/
 http://superuser.com/questions/441854/git-ssh-agent-not-working
+
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f <some-file>
+    will generate <some-file> with a pvt-key and <some-file>.pub with a pub-key
