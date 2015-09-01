@@ -1,0 +1,4 @@
+Env vars:
+GIT_DIR
+  path to the .git dir
+

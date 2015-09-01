@@ -1,3 +1,15 @@
+Diff/patches
+git diff
+    apply
+    format-patch -o patches origin
+                 origin/master --stdout > story.patch
+    send-patch --to list@email.com patches
+    am < story.patch
+
+git diff --cached
+    look what will be included into commit  
+
+
 git diff master..origin/master
     show the diff between a local and remote branch
 
@@ -15,3 +27,5 @@ git diff "<sha>^!"
 
 git diff HEAD~1..HEAD
     diff for the latest commit
+
+

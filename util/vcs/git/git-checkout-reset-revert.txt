@@ -1,3 +1,9 @@
+UNSTAGING:
+
+git rm --cached database.yml
+  remove from staging, leaving it at work-dir (to be added to .gitignore later)
+
+
 https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations
 http://blog.ctp.com/2013/11/21/git-recovering-from-mistakes/
 

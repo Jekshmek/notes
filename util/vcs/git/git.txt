@@ -17,32 +17,17 @@ http://www.infoq.com/presentations/A-Tale-of-Three-Trees
 man:
 git everyday
 
-
-PS and autocomplete:
-http://habrahabr.ru/sandbox/65572/
-https://github.com/git/git/tree/master/contrib/git-jump
-http://mediadoneright.com/content/ultimate-git-ps1-bash-prompt
-
-prompt and completion:
-export PS1='\[\e[01;32m\]\u\[\e[01;34m\]::\[\e[01;31m\]\h \[\e[00;34m\]{ \[\e[01;34m\]\w \[\e[00;34m\]}\[\e[01;32m\]-> \[\e[00m\]'
-if [ -f /usr/share/git/completion/git-completion.bash ]; then
-  export GIT_PS1_SHOWDIRTYSTATE=true
-  source /usr/share/git/completion/git-completion.bash
-  source /usr/share/git/completion/git-prompt.sh
-  export PS1='\[\e[01;32m\]\u\[\e[01;34m\]::\[\e[01;31m\]\h \[\e[00;34m\]{ \[\e[01;34m\]\w\[\e[00;34m\]$(__git_ps1) }\[\e[01;32m\]-> \[\e[00m\]'
-fi
-
-
-Env vars:
-GIT_DIR
-  path to the .git dir
-
+RECOVERING
+http://blog.ctp.com/2013/11/21/git-recovering-from-mistakes/
 
 
 git fsck --full --strict
 	to check the repo-validity
 
-git rev-parse <human-hash>
+Every branch, tag, and other decoration is just a reference to the ID of a specific commit
+(calculated with SHA-1, the secure hash algorithm).
+
+git rev-parse <human-hash> or <branch-name>
 	[pick out and massage parameters]
 	to get a sys-id (long) from a human-readable (short) form
 
@@ -54,30 +39,3 @@ git describe --tags HEAD
 	describe (find nearest tag) non-annotated tag
 
 
-Diff/patches
-git diff
-    apply
-    format-patch -o patches origin
-                 origin/master --stdout > story.patch
-    send-patch --to list@email.com patches
-    am < story.patch
-
-git diff --cached
-  look what will be included into commit  
-
-
-git gc
-
-
-
-ARCHIVING:
-
-git archive -o latest.zip HEAD
-
-RECOVERING
-http://blog.ctp.com/2013/11/21/git-recovering-from-mistakes/
-
-UNSTAGING:
-
-git rm --cached database.yml
-  remove from staging, leaving it at work-dir (to be added to .gitignore later)
