@@ -10,6 +10,7 @@ vim :h
 ??? pbcopy/pbpaste
 
 Books:
+OpenSSL Cookbook                          - 22 (of 59)
 
 Presentations:
 
