@@ -14,8 +14,8 @@ Books:
 Presentations:
 
 Video:
+Tibel - Performance                       -1:04:00 (of 1:15:50)
 Ivanov - State of java.lang.invoke        -  44:00 (of 1:09:52)
-Tibel - Performance                       -  50:00 (of 1:15:50)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
@@ -23,6 +23,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
+Razbor                                    -  26:00 (of 2:06:41)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
