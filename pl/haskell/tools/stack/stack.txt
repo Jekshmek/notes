@@ -49,3 +49,10 @@ http://ruhaskell.org/posts/utils/2015/08/19/stack-and-yesod.html
 ~/.stack/global/stack.yaml
 set resolver to 3.1
 stack install cabal-install-1.22.6.0
+
+
+stack new <prj-name> simple --resolver lts-3.2
+...
+stack build
+
+stack exec <prj-name>
