@@ -56,3 +56,16 @@ stack new <prj-name> simple --resolver lts-3.2
 stack build
 
 stack exec <prj-name>
+
+
+stack init ...
+    tries to find appropriate lts-<ver>
+
+stack solver --modify-stack-yaml --no-system-ghc
+    ???
+
+stack build
+    --no-system-ghc
+    --flag <flag-name>
+    --haddock
+
