@@ -1,0 +1,7 @@
+running:
+sudo docker run -ti --rm=true <img> <cmd>
+    -e "varname=value"
+
+deleting all:
+sudo docker rm -f $(sudo docker ps -aq)
+

@@ -1,0 +1,46 @@
+list images:
+sudo docker images -a --no-trunc
+
+images location:
+Actually, Docker images are stored in two files as shown by following command
+$ docker info
+Data file: /var/lib/docker/devicemapper/devicemapper/data
+Metadata file: /var/lib/docker/devicemapper/devicemapper/metadata
+
+http://comments.gmane.org/gmane.comp.sysutils.docker.user/4451
+http://blog.thoward37.me/articles/where-are-docker-images-stored/
+http://www.projectatomic.io/docs/docker-storage-recommendation/
+http://www.centurylinklabs.com/optimizing-docker-images/?hvid=4wO7Yt
+http://stackoverflow.com/questions/19234831/where-are-docker-images-stored-on-the-host-machine
+http://stackoverflow.com/questions/26166550/set-docker-opts-in-centos
+
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Resource_Management_and_Linux_Containers_Guide/part-Linux_Containers.html
+
+/etc/default/docker:
+DOCKER_OPTS="-g /path/to/docker/data"
+
+/usr/lib/systemd/system/docker.service
+ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
+
+--graph
+default is /var/lib/docker
+
+images building:
+sudo docker build [options] .
+# -t="<tag>"
+# --force-rm
+# --force-rm=true --rm=true
+
+Also, since the Dockerfile is put on the project root,
+it'll tar up the whole project and send to the docker deamon while we only need the fat jar!
+to avoid that, add .dockerignore to your project root.
+
+Cleanin up:
+
+docker rm -v $(docker ps -a -q -f status=exited)
+docker rmi $(docker images -q -f "dangling=true")
+
+delete all images
+
+sudo docker rmi -f $(sudo docker images -q)
+

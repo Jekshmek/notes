@@ -26,5 +26,9 @@ dns-search=minsk.epam.com;gomel.epam.com;
 nmcli:
 http://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/
 
-nmcli connection show
-nmcli connection up <con-name>
+nmcli
+    c[onnection]
+        s[how]
+        up <con-name>
+
+

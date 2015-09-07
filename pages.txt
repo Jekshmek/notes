@@ -10,11 +10,12 @@ vim :h
 ??? pbcopy/pbpaste
 
 Books:
-OpenSSL Cookbook                          - 25 (of 58)
+OpenSSL Cookbook                          - 29 (of 58)
 
 Presentations:
 
 Video:
+Long - Building Bootiful Microservices    -  03:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)

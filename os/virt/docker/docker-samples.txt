@@ -1,0 +1,5 @@
+http://blog.docker.com/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/
+
+#spikes/max/builder
+https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
+
