@@ -64,12 +64,12 @@ ghci commands:
 !standard import syntax applies as well
 
 **********
-* browse *
+* bro[wse] *
 **********
 
-:browse Module
+:bro[wse] Module
   shows a module's exports
-:browse *Module
+:bro[wse] *Module
   Shows full Module scope
 
 
