@@ -1,0 +1,2 @@
+-- org.jblas INFO Starting temp DLL cleanup task.
+-- org.jblas INFO Deleted 4 unused temp DLL libraries from D:\Temp
