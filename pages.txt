@@ -15,7 +15,6 @@ OpenSSL Cookbook                          - 29 (of 58)
 Presentations:
 
 Video:
-Pivotal - DevTools in Spring Boot         -  03:30
 Kmett - Lenses in Business Apps           -  19:23 (of 54:58)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -25,6 +24,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
+b 44:30
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
