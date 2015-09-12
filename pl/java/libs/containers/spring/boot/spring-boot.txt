@@ -6,6 +6,9 @@ debug traffic http
 application.properties:
 spring.devtools.remote.secret=mysecret
 
+CommandLineRunner:
+http://nixmash.com/java/using-spring-boot-commandlinerunner/
+
 
 class to remotely-debug:
 org.springframework.boot.devtools.RemoteSpringApplication

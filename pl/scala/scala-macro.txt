@@ -1,5 +1,21 @@
 http://scalamacros.org/
+http://scalamacros.org/news/2014/07/16/roadmap-for-scala-macros.html
+
+
+http://docs.scala-lang.org/overviews/macros/overview.html
+http://docs.scala-lang.org/overviews/macros/paradise.html
+
+http://scalamacros.org/paperstalks.html
+https://github.com/scalamacros/scalamacros.github.com/tree/master/paperstalks
+
+scala.meta
+http://scalamacros.org/paperstalks/2015-06-09-StateOfTheMetaSummer2015.pdf
+
+scala.reflect
+http://docs.scala-lang.org/overviews/reflection/symbols-trees-types.html
+
 https://github.com/underscoreio/essential-macros/
+
 
 Nadav Wiener - Implementing Mixfix Operators in Scala Using Macros
 http://parleys.com/play/530e2217e4b06b7f61f3fc06
@@ -10,13 +26,6 @@ https://speakerdeck.com/larsrh/macros-vs-types
 
 Burmako - Philosophy of Scala Macros slides
 http://scalamacros.org/paperstalks/2013-09-19-PhilosophyOfScalaMacros.pdf
-
-http://scalamacros.org/
-http://docs.scala-lang.org/overviews/macros/overview.html
-http://docs.scala-lang.org/overviews/macros/paradise.html
-
-http://scalamacros.org/paperstalks.html
-https://github.com/scalamacros/scalamacros.github.com/tree/master/paperstalks
 
 Scala Macros Poster:
 http://scalamacros.org/paperstalks/2013-11-25-ScalaMacrosPoster.pdf
