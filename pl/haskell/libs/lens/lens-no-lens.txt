@@ -1,13 +1,13 @@
 {-# LANGUAGE RankNTypes -#}
 
 import Control.Applicative
+import Data.Functor.Identity
 
 type Lens  s t a b = forall f. Functor f => (a -> f b) -> s -> f t
 
 type Lens' s   a   = forall f. Functor f => (a -> f a) -> s -> f s
 
 _2 :: Lens (c,a) (c,b) a b
-
 _2 f (c, a) = (,) c <$> f a
 
 -- :t _2
@@ -15,3 +15,22 @@ _2 f (c, a) = (,) c <$> f a
 
 view :: ((a -> Const a b) -> s -> Const a t) -> s -> a
 view l s = getConst (l Const s)
+
+over :: ((a -> Identity b) -> s -> Identity t) -> (a -> b) -> s -> t
+over l f = runIdentity . l (Identity . f)
+
+-- this works with with all lens stuff
+
+infixr 8 ^.
+s ^.l = view l s
+
+-- ("hello", ("world", "!!!"))^._2._2
+-- "!!!"
+
+--type Lens  s t a b = forall f. Functor f => (a -> f b) -> s -> f t
+type Traversal  s t a b = forall f. Applicative f => (a -> f b) -> s -> f t
+
+both :: Traversal (a, a) (b, b) a b
+both f (a, b) = (,) <$> f a <*> f b
+
+
