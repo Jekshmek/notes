@@ -1,3 +1,5 @@
+http://cdepillabout.github.io/haskell-type-families-presentation/#/
+
 GHCI:
 
 :kind! Rep (Tree ())
