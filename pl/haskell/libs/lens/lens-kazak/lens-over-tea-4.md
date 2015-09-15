@@ -5,7 +5,6 @@ series:
   top: “lens over tea”
   toplink: /#lens-over-tea
   prev: /lens-over-tea-3
-unfinished: true
 ---
 
 ...as well as human sacrifice, dogs and cats living together, mass hysteria— ahem. There'll be prisms in the next post, but first we'll have to understand isomorphisms, because isomorphisms are easier and prisms kinda follow from isomorphisms.
@@ -36,13 +35,17 @@ Here's a polymorphic lens:
 type Lens s t a b
 ~~~
 
-We kinda know the following about such lenses:
+We know the following about such lenses:
 
 * `a` is a part of `s`
 * `b` is a part of `t`
 * when you replace `a` in `s` with `b`, its type changes to `t`
 
-This intuition is kinda formalised in [this post][mirrored lenses]:
+(Just in case: “`a` is a part of `s`” doesn't necessarily mean that `s` looks like `Maybe a` or something else of the shape `g a`. It can perfectly be `(a, b)`, for instance, which can't be represented as a `g a` because Haskell lacks type-level lambdas (for the same reason you wouldn't be able to e.g. [make `(a, a)` a functor][tuple functor]). Moreover, there are lenses like [`united`][] (of type `Lens' s ()`), which work for any `s`, no matter whether `()` is contained in `s` as a type parameter or not. So, “`a` is a part of `s`” should be understood as something conceptual and not literal.)
+
+[tuple functor]: http://stackoverflow.com/questions/4812633/making-a-a-a-functor
+
+This intuitive understanding of polymorphic lenses is kinda formalised in [this post][mirrored lenses]:
 
 [mirrored lenses]: http://comonad.com/reader/2012/mirrored-lenses/
 
@@ -497,7 +500,7 @@ Maybe later.
 
 # Another derivation of `Iso`
 
-I wrote this section before learning about `Tagged`, and I think it's interesting if only because it's another path getting to the same solution – “well, even if I never thought up *that* approach, I swill wouldn't be entirely lost”.
+I wrote this section before learning about `Tagged`, and I think it's interesting if only because it's another path getting to the same solution – “well, even if I never thought up *that* approach, I still wouldn't be entirely lost”.
 
 -----------------------------------------------------------------------------
 
@@ -954,3 +957,4 @@ It's even more useful when you're working with maps and [`at`][] and also nested
 [`Forget`]: http://hackage.haskell.org/package/profunctors/docs/Data-Profunctor.html#t:Forget
 [`Proxy`]: http://hackage.haskell.org/package/base/docs/Data-Proxy.html#t:Proxy
 [`Data.Proxy`]: http://hackage.haskell.org/package/base/docs/Data-Proxy.html
+[`united`]: http://hackage.haskell.org/package/lens/docs/Control-Lens-Lens.html#v:united

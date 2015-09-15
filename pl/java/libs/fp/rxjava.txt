@@ -31,6 +31,7 @@ Observable
     .from(Iterable<T> list [, Scheduler s])
     .from(T [] array [, Scheduler s])
     .from(Future<T> future [, Scheduler s])
+    .range(int start, int end)
 
     .parallel(...)
         to run in parallel

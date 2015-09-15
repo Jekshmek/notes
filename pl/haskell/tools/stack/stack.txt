@@ -2,6 +2,13 @@ https://www.fpcomplete.com/blog/2015/08/new-in-depth-guide-stack
 https://www.fpcomplete.com/blog/2015/08/stack-ghc-windows
 http://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html
 
+download/releases:
+https://github.com/commercialhaskell/stack/releases
+
+guide:
+https://github.com/commercialhaskell/stack/blob/master/GUIDE.md
+
+
 https://www.fpcomplete.com/blog/2015/09/stack-more-binary-package-sharing
 
 /home/vagrant/.stack/precompiled/ghc-7.10.2/1.22.4.0/aeson-0.8.0.2/Vr6rCTNr+UeoWMN1qGJGhFfxIDSFqTgJixKuD6TtVEQ\=

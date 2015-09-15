@@ -5,3 +5,6 @@ GHCI:
 :kind! Rep (Tree ())
     show type family instance
 
+
+https://www.reddit.com/r/haskell/comments/3kyfrl/richard_eisenberg_what_are_type_families/
+https://typesandkinds.wordpress.com/2015/09/09/what-are-type-families/

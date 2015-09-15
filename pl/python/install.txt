@@ -1,14 +1,2 @@
 easy_install pip
 pip install urllib3
-
-http://docs.continuum.io/anaconda/install
-Anaconda-<ver>-Windows-x86_64.exe /S /D=C:\Anaconda
-
-http://www.continuum.io/blog/conda
-
-http://conda.pydata.org/docs/using/envs.html
-
-conda
-    search <package>
-
-    install <package>
