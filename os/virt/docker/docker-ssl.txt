@@ -1,3 +1,6 @@
+Sabharwal - Docker Hands on Deploy - Administer Docker Platform
+    Docker server access over https
+
 https://shipyard-project.com/docs/quickstart/
 
 SSL Certificate

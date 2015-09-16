@@ -1,0 +1,39 @@
+My exp:
+
+stack new helloworld simple
+    create a new helloworld project from simple template
+stack setup
+    download ghc and stuff
+
+stack path
+
+global-stack-root: D:\dev\PL\Haskell\stack\.stack
+...
+ghc-paths: C:\Users\<user>\AppData\Local\Programs\stack\x86_64-windows
+    configLocalPrograms
+local-bin-path: C:\Users\<user>\AppData\Roaming\local\bin
+    configLocalBin
+    configMonoidLocalBinPath
+
+
+src/Stack/Config.hs
+
+     configLocalPrograms <-
+        case configPlatform of
+            Platform _ Windows -> do
+                progsDir <- getWindowsProgsDir configStackRoot origEnv
+                return $ progsDir </> $(mkRelDir stackProgName) </> platform
+            _ -> return $ configStackRoot </> $(mkRelDir "programs") </> platform
+
+
+stack exec env
+
+
+windows vars
+
+STACK_ROOT
+C:\Users\<user>\AppData\Roaming\stack
+
+LOCALAPPDATA=C:\Users\<user>\AppData\Local
+C:\Users\<user>\AppData\Local\Programs\stack\
+
