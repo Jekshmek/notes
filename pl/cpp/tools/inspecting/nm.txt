@@ -1,0 +1,4 @@
+used mainly for .o files
+
+nm
+    -l

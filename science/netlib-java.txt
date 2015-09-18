@@ -1,0 +1,45 @@
+netlib-java
+https://github.com/fommil/netlib-java/
+https://github.com/fommil/netlib-java/blob/master/native_system/xbuilds/linux-x86_64/pom.xml
+
+http://fommil.github.io/scalax14/#/
+http://fommil.github.io/scalax14/#/9/6
+Java_com_github_fommil_netlib_NativeSystemBLAS_dgemm
+https://github.com/fommil/scalax-linear-algebra
+https://github.com/fommil/scalax-linear-algebra/blob/master/scalax-linear-algebra.org
+
+https://libraries.io/maven/com.github.fommil.netlib:netlib-native_system-linux-x86_64
+
+Customisation
+
+A specific implementation may be forced like so:
+
+    -Dcom.github.fommil.netlib.BLAS=com.github.fommil.netlib.NativeRefBLAS
+    -Dcom.github.fommil.netlib.LAPACK=com.github.fommil.netlib.NativeRefLAPACK
+    -Dcom.github.fommil.netlib.ARPACK=com.github.fommil.netlib.NativeRefARPACK
+
+And a specific (non-standard) native binary may be forced like so:
+
+    -Dcom.github.fommil.netlib.NativeSystemBLAS.natives=netlib-native_system-myos-myarch.so
+
+To turn off natives altogether, add these to the JVM flags:
+
+    -Dcom.github.fommil.netlib.BLAS=com.github.fommil.netlib.F2jBLAS
+    -Dcom.github.fommil.netlib.LAPACK=com.github.fommil.netlib.F2jLAPACK
+    -Dcom.github.fommil.netlib.ARPACK=com.github.fommil.netlib.F2jARPACK
+
+nd4j-java\src\main\java\org\nd4j\linalg\java\JavaBlasWrapper.java
+
+public class JavaBlasWrapper extends BaseBlasWrapper {
+    static {
+        System.setProperty("com.github.fommil.netlib.BLAS","com.github.fommil.netlib.F2jBLAS");
+        System.setProperty("com.github.fommil.netlib.LAPACK","com.github.fommil.netlib.F2jLAPACK");
+        System.setProperty("com.github.fommil.netlib.ARPACK","com.github.fommil.netlib.F2jARPACK");
+
+    }
+}
+
+
+fftw
+http://www.fftw.org/fftw-3.3.4.tar.gz
+
