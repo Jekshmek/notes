@@ -15,8 +15,7 @@ OpenSSL Cookbook                          - 29 (of 58)
 Presentations:
 
 Video:
-1:14
-Kmett - Lenses in Business Apps           -  30:00 (of 54:58)
+Shen                                      -  40:21
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)

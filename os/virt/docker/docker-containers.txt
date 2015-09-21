@@ -2,6 +2,12 @@ running:
 sudo docker run -ti --rm=true <img> <cmd>
     -e "varname=value"
 
+looking:
+alias doc-ps='sudo docker ps -a'
+
+cleaning up:
+alias doc-rmc='sudo docker rm -v $(sudo docker ps -aqf status=exited && sudo docker ps -aqf status=dead)'
+
 deleting all:
 sudo docker rm -f $(sudo docker ps -aq)
 

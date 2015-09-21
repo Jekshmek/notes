@@ -72,3 +72,19 @@ find . -type f -name "pom.xml" -exec sed -i 's/1.2-SNAPSHOT/1.1/g' {} \;
 
 /usr/local/netlib/netlib-java/native_ref/xbuilds/linux-x86_64
 
+
+generator:
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-gpg-plugin</artifactId>
+            <version>1.4</version>
+            <executions>
+                <execution>
+                    <id>sign-artifacts</id>
+                    <phase>verify</phase>
+                    <goals>
+                        <goal>sign</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
