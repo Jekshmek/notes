@@ -40,3 +40,7 @@ http://blog.ezyang.com/2011/06/pinpointing-space-leaks-in-big-programs/
 Presentations:
 https://www.bitba.se/i-accidentally-the-entire-heap/ (https://github.com/bitbasenyc/heap)
 
+Mitchell - space leaks:
+http://neilmitchell.blogspot.fr/2015/09/detecting-space-leaks.html
+https://www.reddit.com/r/haskell/comments/3luonb/detecting_space_leaks/
+https://queue.acm.org/detail.cfm?id=2538488

@@ -1,3 +1,9 @@
+Linux:
+http://www.unixmen.com/upgrade-from-oracle-11g-to-oracle-12c/
+
+
+Windows:
+
 Install steps.
 1. Create and configure a database
 2. Desktop class

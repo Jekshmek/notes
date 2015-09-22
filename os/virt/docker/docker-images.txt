@@ -37,7 +37,6 @@ to avoid that, add .dockerignore to your project root.
 
 Cleanin up:
 
-docker rm -v $(docker ps -a -q -f status=exited)
 docker rmi $(docker images -q -f "dangling=true")
 
 delete all images
