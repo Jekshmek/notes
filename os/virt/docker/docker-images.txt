@@ -2,6 +2,8 @@ list images:
 sudo docker images -a --no-trunc
 
 images location:
+http://blog.thoward37.me/articles/where-are-docker-images-stored/
+
 Actually, Docker images are stored in two files as shown by following command
 $ docker info
 Data file: /var/lib/docker/devicemapper/devicemapper/data
