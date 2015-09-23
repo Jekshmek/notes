@@ -15,7 +15,7 @@ OpenSSL Cookbook                          - 29 (of 58)
 Presentations:
 
 Video:
-Loh - Servant                             -  05:00 (of 48:36)
+Loh - Servant                             -  07:00 (of 48:36)
 Shen                                      -  40:21
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
