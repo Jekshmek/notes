@@ -13,6 +13,7 @@ sudo vi /var/lib/boot2docker/bootlocal.sh
 ...
 # executed with PWD / and empty ENV
 ...
+cat /var/lib/boot2docker/.ash_aliases >> /home/$USER/.ashrc
 
 echo                               >> /home/$USER/.ashrc
 echo '# docker aliases'            >> /home/$USER/.ashrc
