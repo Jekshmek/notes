@@ -1,12 +1,46 @@
-ompile('org.codehaus.groovy:groovy-all:2.3.11')
+http://spockframework.github.io/spock/javadoc/1.0/index.html
 
-testCompile('org.spockframework:spock-core:1.0-groovy-2.3')
-testCompile('org.spockframework:spock-spring:1.0-groovy-2.3')
 
 http://spockframework.github.io/spock/docs/1.0/index.html
 
 http://spockframework.github.io/spock/docs/1.0/spock_primer.html
 http://spockframework.github.io/spock/docs/1.0/release_notes.html
 
+http://spockframework.github.io/spock/docs/1.0/migration_guide.html
 
-http://spockframework.github.io/spock/javadoc/1.0/index.html
+To avoid such problems, use HamcrestSupport.that:
+...
+
+
+
+Presentations/Talks:
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/01-intro.md
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/04-gems.md
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/05-future.md
+
+
+gradle int-n:
+compile('org.codehaus.groovy:groovy-all:2.3.11')
+
+testCompile('org.spockframework:spock-core:1.0-groovy-2.3')
+testCompile('org.spockframework:spock-spring:1.0-groovy-2.3')
+
+Modules:
+http://spockframework.github.io/spock/docs/1.0/modules.html
+
+Extensions:
+http://spockframework.github.io/spock/docs/1.0/extensions.html
+
+@IgnoreRest
+@IgnoreIf
+@Stepwise
+@AutoCleanup
+@AutoCleanup("dispose")
+@AutoCleanup(quiet = true)
+@Title("This is blah-blah spec") / @Narrative
+@Issue("http://jira-issue")
+@Subject - ???
+??? custom ext
+
+Interaction/Mocking
+http://spockframework.github.io/spock/docs/1.0/interaction_based_testing.html
