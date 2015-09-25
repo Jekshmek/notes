@@ -78,6 +78,9 @@ git log
     --merges
         merge commits only
 
+    -L 6,13:<file>
+        log changes of certain lines of the <file>
+
 
 we can combine ... --oneline --graph --all --decorate
 

@@ -1,3 +1,10 @@
+Presentations:
+Syer - Bootiful Applications with Spring Boot
+https://speakerdeck.com/snicoll/bootiful-applications-with-spring-boot
+
+Bootiful Microservices
+http://zeroturnaround.com/rebellabs/building-bootiful%C2%AD-microservices-with-spring-cloud-by-josh-long/
+
 http://www.slideshare.net/chris.e.richardson/developing-and-deploying-spring-boot-applications-with-docker-oakjug
 
 
@@ -14,3 +21,24 @@ class to remotely-debug:
 org.springframework.boot.devtools.RemoteSpringApplication
 Arguments:
     url (as in browser)
+
+
+@SpringBootApplication
+public class MyApplication ...
+
+SpringApplicationBuilder
+
+Every ApplicationContext has an Environment
+
+@Profile - ???
+
+
+@Value("${name}")
+private String name
+// java -jar yourapp.jar --name=BootDragon --server-port=9000
+// or use application.[properties/yml]
+
+
+
+
+

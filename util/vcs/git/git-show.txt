@@ -19,3 +19,6 @@ git show <hash>:FILE
 	:3:FILE
 		the one you're bringing in (with merge)
 
+
+    show <some-branch>:<file>
+        show a <file> from <some-branch> without switching to it

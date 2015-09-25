@@ -1,4 +1,6 @@
 URLs:
+http://habrahabr.ru/company/mailru/blog/267595/
+  Tip 7
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://artyom.me/lens-over-tea-4
@@ -10,9 +12,11 @@ vim :h
 ??? pbcopy/pbpaste
 
 Books:
+AntLR                                     - 9 (26)
 OpenSSL Cookbook                          - 29 (of 58)
 
 Presentations:
+Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
 Loh - Servant                             -  07:00 (of 48:36)
