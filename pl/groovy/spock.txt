@@ -1,3 +1,7 @@
+spock mvn repo:
+http://mvnrepository.com/artifact/org.spockframework/spock-core
+
+spock docs:
 http://spockframework.github.io/spock/javadoc/1.0/index.html
 
 
@@ -44,3 +48,37 @@ http://spockframework.github.io/spock/docs/1.0/extensions.html
 
 Interaction/Mocking
 http://spockframework.github.io/spock/docs/1.0/interaction_based_testing.html
+
+
+feature method blocks:
+setup/given
+expect
+    no side-effects, just inputs and results, contains only conditions and variable definitions
+when
+then
+    tests code with side effects
+cleanup
+    always invoked even if previous exceptions
+where
+    must be the last block, contains table-like data
+    can use | or || as separator
+
+    can use derived values like
+        name << ["abc", "def", "bababb"]
+        len = name.length();
+
+
+Fields:
+simple fields are new for each feature method.
+@Shared
+    shared
+
+
+Fixture methods:
+def setup() {...}
+def cleanup() {...}
+
+def setupSpec() {...}
+def cleanupSpec() {...}
+- may only access @Shared and static fields
+

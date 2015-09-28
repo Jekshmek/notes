@@ -28,3 +28,64 @@ com.github.dockerjava.core.DockerClientBuilder
 
 https://github.com/bmuschko/gradle-docker-plugin/issues/96
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
+
+
+Config:
+
+cfg-repo:
+
+buildscript {
+    repositories {
+//        maven {
+//            name 'JFrog OSS snapshot repo'
+//            url  'https://oss.jfrog.org/oss-snapshot-local/'
+//        }
+        jcenter()
+    }
+
+    dependencies {
+        // ... plugins stuff
+        classpath 'me.champeau.gradle:antlr4-gradle-plugin:0.1'
+    }
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+//    maven {
+//        url new File('libs').toURI().toURL()
+//    }
+}
+
+
+PL support:
+
+apply plugin: 'java'
+apply plugin: 'groovy'
+ 
+
+Tasks:
+compileJava
+compileGroovy
+
+processResources
+
+classes
+jar
+assemble
+
+compileTestJava
+compileTestGroovy
+processTestResources
+
+testClasses
+test
+
+check
+build
+
+
+
+distTar
+distZip
+
