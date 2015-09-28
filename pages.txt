@@ -29,7 +29,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Bananas                                   -  01:00 (of 55:58)
+Bananas                                   -  25:00 (of 55:58)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
