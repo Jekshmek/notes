@@ -1,6 +1,6 @@
 URLs:
 http://habrahabr.ru/company/mailru/blog/267595/
-  Tip 7
+  Tip 15
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://artyom.me/lens-over-tea-4

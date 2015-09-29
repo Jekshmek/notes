@@ -28,4 +28,7 @@ git diff "<sha>^!"
 git diff HEAD~1..HEAD
     diff for the latest commit
 
+git diff
+    -w
+        ignore whitespaces
 
