@@ -88,6 +88,8 @@ def "crew member name: '#name' length: #length"() {
         name << sql.execute("select name, age, sex from customer")
         length = name.length() // derived value
 ...
+        [name,length] << [["Spock",5],["Kirk",4],["Scotty",6]]
+...
 
 Fields:
 simple fields are new for each feature method.
