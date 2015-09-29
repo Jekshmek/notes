@@ -43,8 +43,13 @@ http://spockframework.github.io/spock/docs/1.0/extensions.html
 @AutoCleanup(quiet = true)
 @Title("This is blah-blah spec") / @Narrative
 @Issue("http://jira-issue")
+@Rule
 @Subject - ???
 ??? custom ext
+
+spock-spring ext:
+@Autowired
+@Resource
 
 Interaction/Mocking
 http://spockframework.github.io/spock/docs/1.0/interaction_based_testing.html
@@ -81,4 +86,23 @@ def cleanup() {...}
 def setupSpec() {...}
 def cleanupSpec() {...}
 - may only access @Shared and static fields
+
+
+Configuration:
+
+~/.spock/SpockConfig.groovy or on CP or with -Dspock.configuration
+
+runner {
+    filterStackTrace false
+    include Fast
+    exclude Slow
+    optimizeRunOrder true
+}
+
+@Fast
+class MyFastSpec extends Specification {
+    def "I'm really fast!"() { expect: true }
+    @Slow
+    def "sorry but I'm slow"() { expect: false }
+}
 

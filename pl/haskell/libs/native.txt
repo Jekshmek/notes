@@ -29,6 +29,7 @@ cabal install --extra-lib-dirs=/usr/local/lib --extra-include-dirs=/usr/local/in
 
 
 icu:
+https://www.reddit.com/r/haskell/comments/3mpav4/ask_for_help_windows_stack_texticu_icu4c/
 http://www.reddit.com/r/haskell/comments/36if08/texticu_and_ffi_in_general_on_windows_64_bits/
 https://mail.haskell.org/pipermail/haskell-cafe/2015-May/119737.html
 http://markmail.org/message/haqu23l56nptff5u
