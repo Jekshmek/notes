@@ -19,7 +19,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Borisov - Test with Spock                 -  01:00 (of 48:35)
+Borisov - Test with Spock                 -  15:00 (of 48:35)
 Czaplicki - Controlling Time and Space    -  05:00 (of 40:54)
 Loh - Servant                             -  07:00 (of 48:36)
 Shen                                      -  40:21

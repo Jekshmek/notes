@@ -1,1 +1,2 @@
 http://www.drdobbs.com/jvm/java-se-7-new-file-io/231600403
+http://www.javabeat.net/creating-writing-reading-java-files-api-java-7/
