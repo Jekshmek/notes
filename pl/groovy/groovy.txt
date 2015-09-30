@@ -1,2 +1,13 @@
 groovy mvn repo:
 http://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all
+
+Presentations:
+http://www.slideshare.net/aalmiray/groov-for-java-developers
+http://www.slideshare.net/aalmiray/functional-groovy-confess
+http://www.slideshare.net/aalmiray/javaone-getting-funky-with-groovy
+
+DSL:
+http://www.slideshare.net/alotor/greach-2015-dsling-your-groovy
+
+AST:
+http://www.slideshare.net/aalmiray/groovy-ast-demyistified-33degree
