@@ -9,7 +9,7 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 vim :h
   vimproc-functions
-??? pbcopy/pbpaste
+?? pbcopy/pbpaste
 
 Books:
 AntLR                                     - 26
