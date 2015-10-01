@@ -1,0 +1,9 @@
+cur cfg:
+[core]
+	autocrlf = true
+[user]
+	name = Ihar Hancharenka
+	email = iigoncharenko@mail.ru
+[credential]
+	helper = !'C:\\Users\\Ihar_Hancharenka\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
+
