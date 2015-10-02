@@ -12,6 +12,11 @@ https://github.com/Netflix/RxJava/wiki
 Threading:
 http://www.grahamlea.com/2014/07/rxjava-threading-examples/
 
+Subjects:
+http://akarnokd.blogspot.com.by/2015/06/subjects-part-1.html
+http://akarnokd.blogspot.com.by/2015/09/subjects-part-2.html
+http://akarnokd.blogspot.com.by/2015/09/subjects-part-3-final.html
+
 
 ifaces:
 
