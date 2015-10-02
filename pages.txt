@@ -16,6 +16,7 @@ AntLR                                     - 26
 OpenSSL Cookbook                          - 29 (of 58)
 
 Presentations:
+Champeau - Rethinking API Design with Traits slides - 32
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
@@ -30,6 +31,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
+Bananas and Lens                          -  50:00 (of 55:08)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
