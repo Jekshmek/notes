@@ -1,4 +1,3 @@
-
 URLs:
 http://habrahabr.ru/company/mailru/blog/267595/
   Tip 15
