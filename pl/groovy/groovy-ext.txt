@@ -1,0 +1,49 @@
+Ext:
+http://docs.groovy-lang.org/latest/html/documentation/#_extension_modules
+
+http://habrahabr.ru/post/215343/
+http://habrahabr.ru/post/205084/
+http://habrahabr.ru/post/145977/
+
+http://www.slideshare.net/SpringCentral/groovy-asttransforms-paulkingsep2014b
+
+@CompileStatic
+@Field
+@Bindable
+@Vetoable
+@Delegate
+@ToString
+    a lot of params like ignoreNulls, excludes, includeNames, includePackage, includeFields
+@EqualsAndHashCode
+    includes, excludes, cache, callSuper, includeFields, useCanEqual
+@Immutable
+    class - final, fields - private final, equals/hashCode/toString
+@InheritConstructors
+@TupleConstructor
+@Cannonical
+    make right java-class ... combining all the mentioned above
+@AutoClone
+@AutoExternalize
+@Category
+@Mixin
+    obsolete
+@Lazy
+@Memoized
+@Singleton
+@Newify
+@PackageScope
+    make all the class field non-public
+@Builder
+    builderStrategy
+@TailRecursive
+@Log
+@Synchronized
+@With[Read/Write]Lock
+@AutoClone
+@AutoExternalize
+@TimedInterrupt/ThreadInterrupt/ConditionalInterrupt
+@Main
+@Trace
+    println ("method begin") / ... / println ("method end")
+@NotYetImplemented
+

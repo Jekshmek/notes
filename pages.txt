@@ -15,7 +15,7 @@ AntLR                                     - 26
 OpenSSL Cookbook                          - 29 (of 58)
 
 Presentations:
-Champeau - Rethinking API Design with Traits slides - 42
+Laforge - Groovy in 2014 and Beyond       - slide 65 of 160
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
@@ -30,10 +30,11 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
+Paschenko                                 -  30:00 (of 40:40)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
-  p7
+  p15 of 26
 http://accu.org/index.php/journals/c78/   - 128
 https://www.fpcomplete.com/recent-content - 6 Aug
