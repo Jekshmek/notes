@@ -9,6 +9,10 @@ http://www.slideshare.net/futurespective/23-implicits-12236589
 
 http://habrahabr.ru/post/209850/
 
+Typeclasses:
+https://www.reddit.com/r/scala/comments/3n2u1d/demystifying_implicits_and_typeclasses_in_scala/
+http://www.cakesolutions.net/teamblogs/demystifying-implicits-and-typeclasses-in-scala
+
 1. Implicit parameters
 
 val a: A = ...

@@ -109,6 +109,7 @@ Total (incl Prisms of Lens):
 http://www.haskellforall.com/2015/01/total-100-exhaustive-pattern-matching.html
 
 Core:
+http://www.haskellforall.com/2015/10/polymorphism-for-dummies.html
 http://www.haskellforall.com/2012/10/hello-core.html
 
 Serialization:
