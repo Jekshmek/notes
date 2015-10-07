@@ -94,6 +94,8 @@ net
   share      - http://www.windows-commandline.com/2010/09/list-create-delete-network-shares.html
   accounts   - http://www.windows-commandline.com/2011/10/net-accounts-command.html
   use        - map network/UNC drives (check delete also)
+  user
+    postgres /delete
 getmac       - http://www.windows-commandline.com/2011/03/get-mac-address-command-line.html
 ipconfig     - http://www.windows-commandline.com/2011/09/ipconfig-command.html
                http://www.windows-commandline.com/2010/11/get-ip-address-command-line.html
