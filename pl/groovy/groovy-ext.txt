@@ -22,6 +22,8 @@ http://www.slideshare.net/SpringCentral/groovy-asttransforms-paulkingsep2014b
 @TupleConstructor
 @Cannonical
     make right java-class ... combining all the mentioned above
+@Sortable
+    includes/excludes
 @AutoClone
 @AutoExternalize
 @Category
@@ -45,5 +47,7 @@ http://www.slideshare.net/SpringCentral/groovy-asttransforms-paulkingsep2014b
 @Main
 @Trace
     println ("method begin") / ... / println ("method end")
+@BaseScript
+    annotation on imports&package
 @NotYetImplemented
 

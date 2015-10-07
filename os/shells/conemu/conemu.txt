@@ -1,0 +1,5 @@
+Alt+... - select/copy/paste
+
+cmd -new_console
+cmd -new_console:a
+notepad -new_console

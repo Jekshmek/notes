@@ -8,14 +8,12 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 vim :h
   vimproc-functions
-?? pbcopy/pbpaste
 
 Books:
 AntLR                                     - 26
 OpenSSL Cookbook                          - 29 (of 58)
 
 Presentations:
-Laforge - Groovy in 2014 and Beyond       - slide 65 of 160
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
@@ -30,7 +28,6 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Paschenko                                 -  35:00 (of 40:40)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
@@ -38,3 +35,10 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 http://accu.org/index.php/journals/c78/   - 128
 https://www.fpcomplete.com/recent-content - 6 Aug
+
+Samples:
+?? pbcopy/pbpaste
+find src -type f -name "*.java" -exec cp {} + build/classes
+
+TODO:
+backup D:\dev\utils\term\ConEmuPack\ConEmu.xml
