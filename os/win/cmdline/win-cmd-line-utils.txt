@@ -8,6 +8,7 @@ control      - Control Panel
   control /name Microsoft.CredentialManager - Control Panel\User Accounts\Credential Manager
 appwiz.cpl   - Add/Remove Programs (http://www.windows-commandline.com/2011/03/run-command-for-add-or-remove-programs.html)
 serivces.msc - Windows Services
+lusrmgr.msc  - Local Users and Groups Manager
 perfmon[msc] - Windows Performance Monitor
 optionalfeatures - http://www.windows-commandline.com/2011/09/run-command-windows-features-turn-on-off.html
 devmgmt.msc  - Device manager (http://www.windows-commandline.com/2011/03/run-command-for-device-manager.html)

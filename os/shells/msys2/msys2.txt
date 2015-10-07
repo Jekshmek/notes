@@ -83,3 +83,8 @@ mkgroup -c > /etc/group
 slow bash-completion
 /etc/profile.d/bash_completion.sh
 
+
+Interesing packages
+mingw-w64-x86_64-ag
+    ag - the silver searcher
+    (? choco install ag)

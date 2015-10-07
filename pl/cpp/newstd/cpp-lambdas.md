@@ -8,6 +8,7 @@
 
 * [Sutter - Lambdas, Lambdas Everywhere] (http://nwcpp.org/talks/2011/lambda.pdf)
 * [Sutter - Lambdas, Lambdas Everywhere Video] (http://youtu.be/rcgRY7sOA58)
+* [ODwyer - Lambdas from First Principles] (https://github.com/CppCon/CppCon2015/tree/master/Tutorials/Lambdas%20from%20First%20Principles)
 
 ## Generic Lambdas
 * [Wiki - Generic Lambdas] (http://en.wikipedia.org/wiki/C%2B%2B14#Generic_lambdas)
