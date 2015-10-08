@@ -135,6 +135,7 @@ Streaming:
 http://www.haskellforall.com/2014/11/how-to-build-library-agnostic-streaming.html
 
 Examples:
+http://www.haskellforall.com/2015/10/basic-haskell-examples.html
 http://www.haskellforall.com/2012/10/parsing-chemical-substructures.html
 http://www.haskellforall.com/2012/01/haskell-for-c-programmers-for-loops.html
 http://www.haskellforall.com/2012/08/code-example-1.html

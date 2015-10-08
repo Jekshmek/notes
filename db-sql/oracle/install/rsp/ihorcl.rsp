@@ -82,7 +82,7 @@ ORACLE_BASE=D:\dev\utils\oracle
 # SEONE  : Standard Edition One
 # PE     : Personal Edition (WINDOWS ONLY)
 #-------------------------------------------------------------------------------
-oracle.install.db.InstallEdition=EE
+oracle.install.db.InstallEdition=SE
 
 #-------------------------------------------------------------------------------
 # This property is considered only if InstallEdition is EE.
@@ -176,7 +176,7 @@ oracle.install.db.config.starterdb.characterSet=AL32UTF8
 # total physical memory available on the system.
 # Example: oracle.install.db.config.starterdb.memoryLimit=40
 #-------------------------------------------------------------------------------
-oracle.install.db.config.starterdb.memoryLimit=3197
+oracle.install.db.config.starterdb.memoryLimit=6516
 oracle.install.db.config.starterdb.memoryOption=true
 
 #-------------------------------------------------------------------------------
