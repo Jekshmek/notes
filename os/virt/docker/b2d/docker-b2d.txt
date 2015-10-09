@@ -11,3 +11,11 @@ sudo ps -Af | grep docker
 sudo kill -HUP <docer-pid>
 sudo rm /var/lib/boot2docker/docker.log
 restart the b2d machine
+
+
+sudo vi /var/lib/boot2docker/bootlocal.sh
+...
+# executed with PWD / and empty ENV
+...
+cat /var/lib/boot2docker/.ash_aliases >> /home/$USER/.ashrc
+

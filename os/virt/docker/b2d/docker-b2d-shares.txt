@@ -11,3 +11,9 @@ sudo vi /var/lib/boot2docker/bootlocal.sh
 mkdir /clb
 mount -t vboxsf clb /clb
 
+# obsolete
+mkdir /cps-test-qaa
+mount -t vboxsf cps-test-qaa /cps-test-qaa
+mkdir /cps-test-logs
+mount -t vboxsf cps-test-logs /cps-test-logs
+

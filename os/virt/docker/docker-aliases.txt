@@ -8,16 +8,3 @@ alias dkstop='sudo systemctl stop docker'
 alias dkstart='sudo systemctl start docker'
 alias dkstatus='sudo systemctl status docker'
 alias dkbld='sudo docker build --force-rm=true'
-
-sudo vi /var/lib/boot2docker/bootlocal.sh
-...
-# executed with PWD / and empty ENV
-...
-cat /var/lib/boot2docker/.ash_aliases >> /home/$USER/.ashrc
-
-echo                               >> /home/$USER/.ashrc
-echo '# docker aliases'            >> /home/$USER/.ashrc
-echo alias doc-ps=\'docker ps -a\' >> /home/$USER/.ashrc
-echo alias doc-rmd=\'sudo docker rmi \$\(sudo docker images -q -f \"dangling=true\"\)\' >> /home/$USER/.ashrc
-echo alias doc-rmc=\'sudo docker rm -v \$\(sudo docker ps -aqf status=exited \&\& sudo docker ps -aqf status=dead\)\' >> /home/$USER/.ashrc
-
