@@ -17,6 +17,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
+Jones - Into the Core                     -  20:00 (of 1:05:29)
 Loh - Servant                             -  07:00 (of 48:36)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -32,7 +33,7 @@ Lorgus                                    -  24:00 (of 1:20:32)
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
-http://accu.org/index.php/journals/c78/   - 128
+http://accu.org/index.php/journals/c78/   - 129
 https://www.fpcomplete.com/recent-content - 6 Aug
 
 Samples:
