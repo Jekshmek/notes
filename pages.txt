@@ -42,12 +42,14 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
-Download, dev/backup,
-utils/FF
-utils/shell/KeePass2
-utils/TB
-Sync dev/{notes,bin,prj}
 \\EPBYGOMSA0000\Personal\Ihar_Hancharenka
+dev/backup
+utils/shell/KeePass2
+utils/FF
+utils/TB
+utils/shell/far
+Sync dev/{notes,bin,prj}
+Download
 
 After:
 utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}
