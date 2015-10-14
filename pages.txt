@@ -28,7 +28,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Razbor                                    -1:07:00 (of 1:52:17)
+Paschenko                                 -  30:00 (of 2:19:53)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
@@ -42,4 +42,12 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
+Download, dev/backup,
+utils/FF
+utils/shell/KeePass2
+utils/TB
+Sync dev/{notes,bin,prj}
+
+After:
+utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}
 backup D:\dev\utils\term\ConEmuPack\ConEmu.xml
