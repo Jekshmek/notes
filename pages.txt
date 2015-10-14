@@ -47,6 +47,7 @@ utils/FF
 utils/shell/KeePass2
 utils/TB
 Sync dev/{notes,bin,prj}
+\\EPBYGOMSA0000\Personal\Ihar_Hancharenka
 
 After:
 utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}
