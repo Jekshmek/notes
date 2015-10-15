@@ -1,0 +1,2 @@
+http://jaspervdj.be/posts/2014-02-25-profiteur-ghc-prof-visualiser.html
+https://hackage.haskell.org/package/profiteur

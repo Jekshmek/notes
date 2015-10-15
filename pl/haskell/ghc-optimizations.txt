@@ -1,6 +1,11 @@
 ToRead:
 Jones - A Transformation-based Optimizer for Haskell
 
+Articles:
+https://blog.pusher.com/top-tips-and-tools-for-optimising-haskell/
+-funfolding-use-threshold=16 -O2 -optc-O3
+
+
 Presentations:
 
 Sergey - GHC Static Analysis and Code Optimization (slide 61 about polymorphism influence to strictness analysis)

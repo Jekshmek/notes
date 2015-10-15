@@ -28,7 +28,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Paschenko                                 -  30:00 (of 2:19:53)
+Paschenko                                 -1:00:00 (of 2:19:53)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
@@ -42,14 +42,13 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
-\\EPBYGOMSA0000\Personal\Ihar_Hancharenka
+-backup new msys64 aliases, func
+utils/shell/far
+utils/FF
 dev/backup
 utils/shell/KeePass2
-utils/FF
-utils/TB
-utils/shell/far
-Sync dev/{notes,bin,prj}
 Download
+slack
 
 After:
 utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}

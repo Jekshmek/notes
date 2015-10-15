@@ -1,0 +1,12 @@
+http://openjdk.java.net/projects/code-tools/jmh/
+http://hg.openjdk.java.net/code-tools/jmh
+
+blog:
+http://shipilev.net/blog/2014/nanotrusting-nanotime/
+
+samples:
+http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org/openjdk/jmh/samples/
+
+plugins:
+https://github.com/melix/jmh-gradle-plugin
+https://github.com/ktoso/sbt-jmh
