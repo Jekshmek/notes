@@ -17,8 +17,8 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Jones - Into the Core                     -  20:00 (of 1:05:29)
-Loh - Servant                             -  07:00 (of 48:36)
+Jones - Into the Core                     -  40:00 (of 1:05:29)
+Loh - Servant                             -  20:00 (of 48:36)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 Gradle Fundamentals                       - 2
@@ -43,12 +43,11 @@ find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
 -backup new msys64 aliases, func
-utils/shell/far
-utils/FF
-dev/backup
 utils/shell/KeePass2
+utils/shell/far
 Download
 slack
+skype
 
 After:
 utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}
