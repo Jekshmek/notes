@@ -1,0 +1,2 @@
+multigit:
+https://github.com/capr/multigit

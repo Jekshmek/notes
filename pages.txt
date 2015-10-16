@@ -42,8 +42,6 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
--backup new msys64 aliases, func
-utils/shell/KeePass2
 utils/shell/far
 Download
 slack
