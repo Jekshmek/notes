@@ -42,6 +42,7 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
+FF Bookmarks, ss/copy.sbt - profile
 utils/shell/far
 Download
 slack

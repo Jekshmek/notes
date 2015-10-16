@@ -79,6 +79,7 @@ https://github.com/Alexpux/MSYS2-packages/issues/138
 /etc/nsswitch.conf
 passwd: files db
 group: files # db
+# !!! need to do mkpasswd/mkgroup in this case !!!
 
 https://github.com/Alexpux/MSYS2-packages/issues/117
 
