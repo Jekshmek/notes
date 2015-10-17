@@ -42,12 +42,7 @@ Samples:
 find src -type f -name "*.java" -exec cp {} + build/classes
 
 TODO:
-7z, pentadactyl, _pentadactylrc
-utils/shell/far
-Chrome BMs
-Download
-slack
-skype
+win pwd
 
 After:
 utils/media/{AdobeDigitalEditions-epub,djvulibre,VLC,dmaster,Logitech SetPoint 6.61}
