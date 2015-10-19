@@ -102,6 +102,7 @@ Mmorph:
 http://www.haskellforall.com/2013/03/mmorph-100-monad-morphisms.html
 
 Lenses:
+http://www.haskellforall.com/2015/10/explicit-is-better-than-implicit.html
 http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_28.html
 http://www.haskellforall.com/2013/05/program-imperatively-using-haskell.html
 

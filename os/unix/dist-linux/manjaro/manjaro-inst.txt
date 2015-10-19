@@ -344,6 +344,7 @@ launcher_padding = 2 2
 launcher_background_id = 1
 launcher_icon_size = 20
 launcher_item_app = /usr/share/applications/lxterminal.desktop
+launcher_item_app = /usr/share/applications/google-chrome.desktop
 launcher_item_app = /usr/share/applications/firefox.desktop
 launcher_item_app = /usr/share/applications/remmina.desktop
 launcher_item_app = /usr/share/applications/skype.desktop

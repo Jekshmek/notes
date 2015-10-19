@@ -1,0 +1,1 @@
+http://www.haskellforall.com/2015/10/explicit-is-better-than-implicit.html
