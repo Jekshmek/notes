@@ -28,7 +28,7 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Paschenko                                 -1:00:00 (of 2:19:53)
+Paschenko                                 -1:21:00 (of 2:06:21)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
