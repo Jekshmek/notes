@@ -17,7 +17,10 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Jones - Into the Core                     -  40:00 (of 1:05:29)
+Almiray - Gradle Glam Plugins Galore      -  09:00 (of 1:00:09)
+CppCon2015                                -  05:00
+Marlow - Fun with Haxl                    -  00:00 (of )
+Jones - Into the Core                     -  50:40 (of 1:05:29)
 Loh - Servant                             -  20:00 (of 48:36)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -29,7 +32,6 @@ msg                                       -  04:30
 
 Audio:
 Bananas and Lens                          -  23:00 (of   56:45)
-Haskellcast10 - BOS                       -  01:00 (of   51:34)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
