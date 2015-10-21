@@ -28,7 +28,8 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Paschenko                                 -1:21:00 (of 2:06:21)
+Bananas and Lens                          -  23:00 (of   56:45)
+Haskellcast10 - BOS                       -  01:00 (of   51:34)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
