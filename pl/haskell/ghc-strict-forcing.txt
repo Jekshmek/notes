@@ -1,5 +1,10 @@
 Tibel
+https://github.com/tibbe/talks
+http://johantibell.com/files/HE2015.pdf
+https://skillsmatter.com/skillscasts/6547-high-performance-programming-in-haskell
 https://www.youtube.com/watch?v=_pDUq0nNjhI
+http://johantibell.com/files/haskell-performance-patterns.html
+https://github.com/meiersi/HaskellerZ/tree/master/meetups/20150531-ZuriHac2015_Johan_Tibell-Performance
 
 Options:
 -funbox-strict-fields
