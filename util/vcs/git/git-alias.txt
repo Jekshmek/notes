@@ -12,6 +12,8 @@ git config --global alias.s status
     purb "pull --rebase"
     rbi "rebase --interactive"
 
+    puso "push origin HEAD"
+
     lgo  "log --oneline --graph --decorate"
 
     conf config

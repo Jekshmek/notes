@@ -31,7 +31,6 @@ RequireJS                                 - 0102
 msg                                       -  04:30
 
 Audio:
-Bananas and Lens                          -  42:00 (of   56:45)
 Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
