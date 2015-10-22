@@ -15,3 +15,33 @@ You can specify -O2 on a per-module basis with an {-# OPTIONS_GHC -O2 #-}
 -Iseconds - deadlock detection time
 -Cseconds - context switch time
 
+-dshow-passes
+    show compiler passes
+-dverbose-core2core
+    like the above but dump the output after each phase
+-ddump-parsed
+-ddump-rn
+-ddump-tc
+-ddump-dc
+    
+-dcore-lint
+    run Core Lint after each Core-to-Core phase
+
+-ddump-inlinings
+-ddump-rule-firings
+-ddump-rule-rewrites
+
+-ddump-occur-anal
+    show occurence-analysed code, immediately before
+    each simplifier pass
+
+-dppr-debug
+    print more info about everything
+
+-dsuppress-module-prefixes
+-dsuppress-uniques
+-dsuppress-unfoldings
+-dsuppress-type-applications
+-dsuppress-coercions
+...
+

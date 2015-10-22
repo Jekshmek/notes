@@ -1,2 +1,5 @@
 ls -sh
     with size in human readable
+
+ls -DR
+    dir tree in a compact way grouped by dirs
