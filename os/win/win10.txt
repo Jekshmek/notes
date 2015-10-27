@@ -1,3 +1,9 @@
+Disabling Win10 update:
+KB3035583
+http://remontka.pro/windows-10-update-disable/
+http://remontka.pro/disable-win-10-preview-update/
+
+
 For Windows 10 users:
 Be aware that Windows 10 installs updates in background mode as soon as it found them and schedule automatic restart next night.
 

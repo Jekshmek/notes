@@ -3,6 +3,9 @@ https://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html
 https://github.com/ggreer/the_silver_searcher/wiki/Windows
 https://github.com/kjk/the_silver_searcher/blob/master/README-WINDOWS.md
 
+manjaro:
+the_silver_searcher
+
 -i
     case insensitive
 -w

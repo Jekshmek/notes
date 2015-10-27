@@ -1,0 +1,4 @@
+/usr/share/fish/functions/fzf.fish
+
+/etc/profile.d/fzf-extras.bash
+
