@@ -97,35 +97,6 @@ sudo pacman -Sy archlinux-keyring manjaro-keyring
 sudo pacman-key --refresh-keys
 sudo pacman -Su
 
-Package format:
-
-Sample: user creation at deluge:
-
-.INSTALL file at the package:
-
-post_install() {
-  getent group deluge &>/dev/null || groupadd -g 125 deluge
-  if ! getent passwd deluge &>/dev/null; then
-    useradd -c 'Deluge user' -u 125 -g deluge -d /srv/deluge -s /bin/false deluge
-    passwd -l deluge &>/dev/null ### !!! locked account
-  fi
-
-  post_upgrade
-}
-
-post_upgrade() {
-  [[ -x /usr/bin/xdg-icon-resource ]] && xdg-icon-resource forceupdate --theme hicolor
-  [[ -x /usr/bin/update-desktop-database ]] && update-desktop-database -q
-  true
-}
-
-post_remove() {
-  getent passwd deluge &>/dev/null && userdel deluge
-  getent group deluge &>/dev/null && groupdel deluge
-
-  post_upgrade
-}
-
 # user dirs
 /var/lib/...
 /src/...
