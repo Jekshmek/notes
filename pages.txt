@@ -1,4 +1,5 @@
-ralgara/MtPutty
+:echo has('win32unix')
+MtPutty
 time
 ?parallel - file
 
