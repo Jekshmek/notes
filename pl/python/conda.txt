@@ -19,6 +19,8 @@ conda
     depends <package>
         search for the other packages our <package> depends on
 
-
+win:
 activate py35
 
+lin:
+source activate/deactivate <env>

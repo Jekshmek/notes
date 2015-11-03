@@ -51,6 +51,10 @@ simplistic-way:
     (msys/vim msys/bash-completion msys/openssh)
 
 
+GROUPS:
+msys2-devel
+mingw-devel
+
 
 mintty:
 https://github.com/mavnn/mintty-colors-solarized

@@ -42,3 +42,11 @@ post_remove() {
   post_upgrade
 }
 
+
+MSYS PKGBUILD:
+https://github.com/Alexpux/MSYS2-packages/issues/16
+They are two different tools.
+makepkg is for building MSYS2-PACKAGES and
+makepkg-mingw is for MINGW-PACKAGES
+...
+I was using mingw-devel instead of msys2-devel, thanks.

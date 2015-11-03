@@ -26,6 +26,3 @@ https://gist.github.com/rpuntaie/8510218
 http://nomad.so/2013/07/compiling-vim-and-gvim-64bit-on-windows-7/
 http://solar-blogg.blogspot.com/p/vim-build.html
 
-LUA support:
-http://sourceforge.net/projects/luabinaries/files/5.2.1/Windows%20Libraries/Dynamic/lua-5.2.1_Win64_dllw4_lib.zip/download
-https://bintray.com/veegee/generic/vim_x64

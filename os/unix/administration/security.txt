@@ -12,13 +12,13 @@ rw init=/sysroot/bin/sh.
 
 - Now press Control+x to start on single user mode.
 
-– Now access the system with this command.
+- Now access the system with this command.
 chroot /sysroot
-– Reset the password.
+- Reset the password.
 passwd root
-– Update selinux information
+- Update selinux information
 touch /.autorelabel
-– Exit chroot
+- Exit chroot
 exit
-– Reboot your system
+- Reboot your system
 reboot
