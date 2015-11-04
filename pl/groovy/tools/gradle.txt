@@ -92,6 +92,10 @@ $ gradle -Pprofile=dev build
 
 
 plugins:
+
+Shadow (fat jar):
+https://github.com/johnrengelman/shadow/
+
 https://github.com/ben-manes/gradle-versions-plugin
 gradle dependencyUpdates -Drevision=release
 

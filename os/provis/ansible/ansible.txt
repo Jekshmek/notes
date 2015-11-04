@@ -20,3 +20,10 @@ Command module:
   remote_user: ryan
   sudo: false
 
+
+Access - become:
+
+#even at the task-level:
+
+become: yes
+become_method: sudo # , su

@@ -24,10 +24,10 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Jones - Into the Core                     -1:02:01 (of 1:05:29)
 Marlow - Fun with Haxl                    -  10:22 (of 1:02:55)
-Almiray - Gradle Glam Plugins Galore      -  37:30 (of 1:00:09)
-Loh - Servant                             -  20:00 (of 48:36)
+Biscardi - Dev and Deploy Haskell on Docker  05:00 (of   10:08)
+Almiray - Gradle Glam Plugins Galore      -  44:30 (of 1:00:09)
+Loh - Servant                             -  26:00 (of 48:36)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 msg                                       -  04:30
@@ -40,8 +40,7 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 95                                 -  11:00 (of   52:47)
-Trauberg                                  -  21:15
+Razbor 95                                 -  48:00 (of   52:47)
 Paschenko                                 -  00:00 (of   54:57)
 Lorgus                                    -  24:00 (of 1:20:32)
 
