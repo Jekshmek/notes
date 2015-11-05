@@ -1,4 +1,4 @@
-https://github.com/hashicorp/nomad
+http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
 
 :echo has('win32unix')
 MtPutty
@@ -24,9 +24,8 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
+Haskell in Production at Wagon            -  41:00 (of 49:05)
 Marlow - Fun with Haxl                    -  10:22 (of 1:02:55)
-Biscardi - Dev and Deploy Haskell on Docker  05:00 (of   10:08)
-Almiray - Gradle Glam Plugins Galore      -  44:30 (of 1:00:09)
 Loh - Servant                             -  26:00 (of 48:36)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -40,9 +39,10 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 95                                 -  48:00 (of   52:47)
+Filonik                                   -  46:00 (of 1:34:56)
 Paschenko                                 -  00:00 (of   54:57)
 Lorgus                                    -  24:00 (of 1:20:32)
+Razbor 0                                  -  33:30 (of 1:08:54)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
