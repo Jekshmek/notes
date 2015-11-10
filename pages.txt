@@ -18,7 +18,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-SO                                        -  23:00 (of)
+Petrov - GIL in Python                    -  22:30 (of   56:23)
 Marlow - Fun with Haxl                    -  35:00 (of 1:02:55)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
@@ -32,8 +32,7 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Augustson                                 -  01:00 (of   50:17)
-Razbor 1                                  -  36:31 (of 1:23:52)
+Razbor 1                                  -  50:00 (of 1:23:52)
 Paschenko                                 -  00:00 (of 1:05:30)
 
 Tracking:
