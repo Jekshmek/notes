@@ -18,25 +18,23 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Marlow - Fun with Haxl                    -  15:00 (of 1:02:55)
-Loh - Servant                             -  26:00 (of 48:36)
+SO                                        -  23:00 (of)
+Marlow - Fun with Haxl                    -  35:00 (of 1:02:55)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of 55:53)
 msg                                       -  04:30
 
 Series:
-Python Fundamentals                       - 0210
+Python Fundamentals                       - 0301
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 Gradle Fundamentals                       - 2
 LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Bananas Lens 12                           -  01:00 (of 1:05:45)
+Augustson                                 -  01:00 (of   50:17)
 Razbor 1                                  -  36:31 (of 1:23:52)
-Filonik                                   -1:14:22 (of 1:34:56)
 Paschenko                                 -  00:00 (of 1:05:30)
-Lorgus                                    -  24:00 (of 1:20:32)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
