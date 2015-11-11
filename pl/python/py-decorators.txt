@@ -1,0 +1,11 @@
+def makebold(fn):
+    def wrapped():
+        return "<b>" + fn() + "</b>"
+    return wrapped
+
+@makebold
+def hello():
+    return "Hello All"
+
+> print(hello())
+<b>Hello All</b>

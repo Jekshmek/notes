@@ -18,10 +18,13 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Petrov - GIL in Python                    -  22:30 (of   56:23)
-Marlow - Fun with Haxl                    -  35:00 (of 1:02:55)
+Sapronov - Py FP                          -  31:00 (of 1:22:55)
+Vlasovskyh - Python is not a Haskell      -  05:00 (of   48:22)
+Marlow - Fun with Haxl                    -  50:00 (of 1:02:55)
+Smirnov - Java concurrency under the hood -  12:00 (of   54:39)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
-Gonzalez - Proof                          -  05:00 (of 55:53)
+Gonzalez - Proof                          -  05:00 (of   55:53)
+Epam - Docker                             -  13:00 (of 1:33:46)
 msg                                       -  04:30
 
 Series:

@@ -7,3 +7,4 @@ grep
 
 fgrep
     -F, --fixed-strings
+        use fixed string vs regexp-patterns
