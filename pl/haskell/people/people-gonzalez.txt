@@ -167,6 +167,9 @@ http://www.haskellforall.com/2015/06/break-100-small-library-for-breaking.html
 optional-args
 http://www.haskellforall.com/2015/06/optional-args-100-optional-function.html
 
+typed-spreadsheet:
+http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html
+
 Misc:
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html
 http://www.haskellforall.com/2014/12/a-very-general-api-for-relational-joins.html

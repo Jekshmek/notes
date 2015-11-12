@@ -18,13 +18,19 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
+Marlow - Fun with Haxl                    -  56:00 (of 1:02:55)
 Sapronov - Py FP                          -  31:00 (of 1:22:55)
 Vlasovskyh - Python is not a Haskell      -  05:00 (of   48:22)
-Marlow - Fun with Haxl                    -  50:00 (of 1:02:55)
+Bingham - Mutation Testing in Python      -  04:00 (of   44:42)
 Smirnov - Java concurrency under the hood -  12:00 (of   54:39)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Gonzalez - Proof                          -  05:00 (of   55:53)
-Epam - Docker                             -  13:00 (of 1:33:46)
+Epam - Docker                             -  23:00 (of 1:33:46)
+Brown - Powerful Metaprogramming Techniq  -  01:00 (of 2:04:08)
+Sadogursky - Writing Groovy AST Trans     -  09:00 (of   32:12)
+Meijer - One Hacker Way                   -  19:00 (of   55:36)
+Konig - Frege                             -  09:00 (of 1:00:12)
+Osheim - Principles for Modular Fun Libs  -  06:00 (of 1:32:44)
 msg                                       -  04:30
 
 Series:
@@ -35,7 +41,7 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 1                                  -  50:00 (of 1:23:52)
+Razbor 1                                  -1:02:00 (of 1:23:52)
 Paschenko                                 -  00:00 (of 1:05:30)
 
 Tracking:
