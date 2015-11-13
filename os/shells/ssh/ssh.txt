@@ -20,3 +20,8 @@ http://superuser.com/questions/441854/git-ssh-agent-not-working
 
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f <some-file>
     will generate <some-file> with a pvt-key and <some-file>.pub with a pub-key
+
+
+PVT KEYS:
+sudo chmod 0500 ~/.shh/id_rsa
+
