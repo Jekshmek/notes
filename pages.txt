@@ -18,7 +18,6 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Marlow - Fun with Haxl                    -  56:00 (of 1:02:55)
 Sapronov - Py FP                          -  31:00 (of 1:22:55)
 Vlasovskyh - Python is not a Haskell      -  05:00 (of   48:22)
 Bingham - Mutation Testing in Python      -  04:00 (of   44:42)
@@ -41,8 +40,7 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 1                                  -1:02:00 (of 1:23:52)
-Paschenko                                 -  00:00 (of 1:05:30)
+Razbor 02                                 - 00:00 (of 1:14:39)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
