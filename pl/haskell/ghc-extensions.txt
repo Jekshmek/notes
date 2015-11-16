@@ -4,6 +4,11 @@ https://www.fpcomplete.com/user/PthariensFlame/guide-to-ghc-extensions
 http://unbui.lt/#!/post/haskell-language-extensions/
 http://www.reddit.com/r/haskell/comments/3cndn7/some_awesome_language_extensions_explained/
 
+StrictPragma:
+https://ghc.haskell.org/trac/ghc/wiki/StrictPragma
+https://ghc.haskell.org/trac/ghc/blog/weekly20150729
+http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html
+
 ViewPatterns:
 http://www.reddit.com/r/haskell/comments/2o341e/24_days_of_ghc_extensions_view_patterns/
 https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html
@@ -148,8 +153,3 @@ StaticPointers:
 http://www.reddit.com/r/haskell/comments/2q85zp/24_days_of_hackage_static_pointers_guest_post_by/
 https://ocharles.org.uk/blog/guest-posts/2014-12-23-static-pointers.html
 http://jozefg.bitbucket.org/posts/2015-01-27-modal-logic-in-haskell.html
-
-StrictPragma:
-https://ghc.haskell.org/trac/ghc/wiki/StrictPragma
-https://ghc.haskell.org/trac/ghc/blog/weekly20150729
-
