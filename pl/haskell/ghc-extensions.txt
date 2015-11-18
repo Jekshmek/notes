@@ -8,6 +8,7 @@ StrictPragma:
 https://ghc.haskell.org/trac/ghc/wiki/StrictPragma
 https://ghc.haskell.org/trac/ghc/blog/weekly20150729
 http://blog.johantibell.com/2015/11/the-design-of-strict-haskell-pragma.html
+https://www.reddit.com/r/haskell/comments/3t0b0l/the_design_of_the_strict_haskell_pragma/
 
 ViewPatterns:
 http://www.reddit.com/r/haskell/comments/2o341e/24_days_of_ghc_extensions_view_patterns/

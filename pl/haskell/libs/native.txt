@@ -63,3 +63,6 @@ This not only compiles, but EXEs produced using this library actually run withou
 You can even compile native Windows EXEs from C using ICU this way, with the gcc that is put on your path by the Haskell Platform installer
 (and probably also MinGHC, but I didn't try that).
 Just include -L and -I options to gcc with the same paths as above, and make sure to specify -licuuc -licudt etc. as needed.
+
+stack-icu:
+stack exec -- pacman -S mingw64/mingw-w64-x86_64-icu && stack build text-icu
