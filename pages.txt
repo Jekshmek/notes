@@ -18,7 +18,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Epam - Docker                             -1:06:00 (of 1:33:46)
+Epam - Docker                             -1:22:00 (of 1:33:46)
 Sapronov - Py FP                          -  44:00 (of 1:22:55)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
 Konig - Frege                             -  37:00 (of 1:00:12)

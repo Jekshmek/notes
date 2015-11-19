@@ -1,0 +1,7 @@
+/etc/sysconfig/docker-network
+#DOCKER_NETWORK_OPTIONS=-H fd:// -H tcp://0.0.0.0:2375
+DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'
+
+docker network create net-name
+docker run ... -net=net-name ...
+docker network connect net-name container-name

@@ -1,6 +1,9 @@
 running:
 sudo docker run -ti --rm=true <img> <cmd>
     -e "varname=value"
+    -e constraint:var!=val
+    -e constraint:var==val
+    -e constraint:var==/regex/
 
 looking:
 alias doc-ps='sudo docker ps -a'
