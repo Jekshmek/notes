@@ -169,6 +169,7 @@ http://www.haskellforall.com/2015/06/optional-args-100-optional-function.html
 
 typed-spreadsheet:
 http://www.haskellforall.com/2015/11/haskell-native-spreadsheets.html
+http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html
 
 Misc:
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html

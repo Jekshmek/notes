@@ -16,6 +16,8 @@ systemd.directives
     Specifiers (%h, $H, ...)
   systemd.service
     http://serverfault.com/questions/413397/how-to-set-environment-variable-in-systemd-service  
+  systemd.exec
+    exec config
   systemd.socket
 systemd-system.conf
 
