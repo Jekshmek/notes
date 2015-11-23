@@ -1,2 +1,5 @@
 multigit:
 https://github.com/capr/multigit
+
+meta repo
+mgit clone-all

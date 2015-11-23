@@ -5,6 +5,10 @@ http://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html
 download/releases:
 https://github.com/commercialhaskell/stack/releases
 
+stack-arch:
+https://aur.archlinux.org/packages/haskell-stack/
+https://aur.archlinux.org/packages/libtinfo
+
 guide:
 https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md
 

@@ -36,6 +36,9 @@ systemctl list-units [--all]
 Targets:
 systemctl list-units --type=target
 
+Dependencies:
+Removed symlink /etc/systemd/system/multi-user.target.wants/qbittorrent.service
+
 
 Configuration:
 systemd-system.conf
