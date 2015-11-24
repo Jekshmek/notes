@@ -25,3 +25,5 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f <some-file>
 PVT KEYS:
 sudo chmod 0500 ~/.shh/id_rsa
 
+Multiple keys:
+http://stackoverflow.com/questions/10455974/setting-up-ssh-keys-for-gibhub
