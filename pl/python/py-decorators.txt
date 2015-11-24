@@ -9,3 +9,11 @@ def hello():
 
 > print(hello())
 <b>Hello All</b>
+
+curry:
+
+def addClosure(val1):
+    def closure(val2):
+        return val1 + val2
+    return closure
+

@@ -18,16 +18,17 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Epam - Docker                             -1:22:00 (of 1:33:46)
-Sapronov - Py FP                          -  44:00 (of 1:22:55)
+Kmett - Propagators                       -  05:00 (of 1:53:23)
+Sapronov - Py FP                          -  51:00 (of 1:22:55)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
-Smirnov - Java concurrency under the hood -  22:30 (of   54:39)
-Sadogursky - Writing Groovy AST Trans     -  09:00 (of   32:12)
-Vlasovskyh - Python is not a Haskell      -  05:00 (of   48:22)
-Bingham - Mutation Testing in Python      -  04:00 (of   44:42)
+Smirnov - Java concurrency under the hood -  30:00 (of   54:39)
+Sadogursky - Writing Groovy AST Trans     -  16:00 (of   32:12)
+Brown - Powerful Metaprogramming Techniq  -  10:30 (of 2:04:08)
+Osheim - Principles for Modular Fun Libs  -  15:00 (of 1:32:44)
+Vlasovskyh - Python is not a Haskell      -  11:30 (of   48:22)
+Bingham - Mutation Testing in Python      -  07:00 (of   44:42)
 Gonzalez - Proof                          -  05:00 (of   55:53)
-Brown - Powerful Metaprogramming Techniq  -  01:00 (of 2:04:08)
-Osheim - Principles for Modular Fun Libs  -  06:00 (of 1:32:44)
+Studer - Gradle                           -  05:00 (of   48:54)
 msg                                       -  04:30
 
 Series:
@@ -38,9 +39,9 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 02                                 - 00:00 (of 1:14:39)
+Razbor 02                                 - 26:00 (of 1:14:39)
 Ivliev 56                                 - 00:00
-Paschenko 05                              - 26:00 (of   35:00)
+Paschenko 05                              - 30:00 (of   35:00)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
