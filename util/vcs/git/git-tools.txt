@@ -3,3 +3,7 @@ https://github.com/capr/multigit
 
 meta repo
 mgit clone-all
+
+
+git-extras:
+https://github.com/tj/git-extras/blob/master/Commands.md

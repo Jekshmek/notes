@@ -33,6 +33,9 @@ Commit (how git stores "snapshots") object:
 - sha-1 of any parent commits (we can have multiple parents for branching/merging)
 - sha-1 of the tree that the commit points to
 
+???
+git ls-tree
+
 
 References:
 - sha-1 hash
