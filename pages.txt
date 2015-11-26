@@ -18,15 +18,15 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Kmett - Propagators                       -  05:00 (of 1:53:23)
-Sapronov - Py FP                          -  51:00 (of 1:22:55)
+Kmett - Propagators                       -  10:30 (of 1:53:23)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
-Smirnov - Java concurrency under the hood -  30:00 (of   54:39)
-Sadogursky - Writing Groovy AST Trans     -  16:00 (of   32:12)
+Bingham - Mutation Testing in Python      -  20:20 (of   44:42)
+Thompson - Deep Dive into GIT             -  18:00 (of   48:34)
+Sadogursky - Writing Groovy AST Trans     -  18:00 (of   32:12)
 Brown - Powerful Metaprogramming Techniq  -  10:30 (of 2:04:08)
 Osheim - Principles for Modular Fun Libs  -  15:00 (of 1:32:44)
-Vlasovskyh - Python is not a Haskell      -  11:30 (of   48:22)
-Bingham - Mutation Testing in Python      -  07:00 (of   44:42)
+Goetz - Adventures on the Road to Valhalla-  11:00 (of   49:28)
+Vlasovskyh - Python Multitasking          -  11:00 (of   43:37)
 Gonzalez - Proof                          -  05:00 (of   55:53)
 Studer - Gradle                           -  05:00 (of   48:54)
 msg                                       -  04:30
@@ -41,7 +41,8 @@ RequireJS                                 - 0102
 Audio:
 Razbor 02                                 - 26:00 (of 1:14:39)
 Ivliev 56                                 - 00:00
-Paschenko 05                              - 30:00 (of   35:00)
+Paschenko 06                              - 15:00 (of   33:15)
+221                                       - 37:00 (of 1:50:10)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
