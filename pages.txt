@@ -20,7 +20,7 @@ Syer - Bootiful Applications with Spring  - slide 27
 Video:
 Kmett - Propagators                       -  10:30 (of 1:53:23)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
-Osheim - Principles for Modular Fun Libs  -  24:00 (of 1:32:44)
+Osheim - Principles for Modular Fun Libs  -  25:30 (of 1:32:44)
 Thompson - Deep Dive into GIT             -  22:00 (of   48:34)
 Bingham - Mutation Testing in Python      -  20:20 (of   44:42)
 Sadogursky - Writing Groovy AST Trans     -  18:00 (of   32:12)
@@ -42,6 +42,7 @@ LiveLessons - Git under the hood          - 08 00:00 (of 0:0)
 RequireJS                                 - 0102
 
 Audio:
+Bananas 15                                -   08:00 (of   55:16)
 Razbor 02                                 -   26:00 (of 1:14:39)
 Ivliev 56                                 -   00:00
 Paschenko 07                              -   00:00 (of   00:00)

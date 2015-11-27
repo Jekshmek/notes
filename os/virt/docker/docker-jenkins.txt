@@ -1,0 +1,16 @@
+sudo useradd jenkins -G docker -p $(openssl passwd -crypt jenkins1)
+
+  OR
+
+sudo useradd jenkins -G docker
+sudo passwd jenkins
+  (set the new passwd equals to jenkins1)
+sudo passwd -S jenkins
+  (check that we can see Password set, ... crypt.)
+
+
+http://<jenkins-host>:8080/computer/
+http://<jenkins-host>:8080/computer/platform-dev/script
+
+println System.getenv("PATH")
+println "whoami".execute().text
