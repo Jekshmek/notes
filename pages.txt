@@ -20,11 +20,13 @@ Syer - Bootiful Applications with Spring  - slide 27
 Video:
 Kmett - Propagators                       -  10:30 (of 1:53:23)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
+Osheim - Principles for Modular Fun Libs  -  24:00 (of 1:32:44)
 Thompson - Deep Dive into GIT             -  22:00 (of   48:34)
 Bingham - Mutation Testing in Python      -  20:20 (of   44:42)
 Sadogursky - Writing Groovy AST Trans     -  18:00 (of   32:12)
 Brown - Powerful Metaprogramming Techniq  -  10:30 (of 2:04:08)
-Osheim - Principles for Modular Fun Libs  -  15:00 (of 1:32:44)
+Krasikov - Otto                           -  13:00 (of   54:36)
+Popov - Parboiled                         -  12:00 (of   59:47)
 Goetz - Adventures on the Road to Valhalla-  11:00 (of   49:28)
 Vlasovskyh - Python Multitasking          -  11:00 (of   43:37)
 Gonzalez - Proof                          -  05:00 (of   55:53)
@@ -42,7 +44,7 @@ RequireJS                                 - 0102
 Audio:
 Razbor 02                                 -   26:00 (of 1:14:39)
 Ivliev 56                                 -   00:00
-Paschenko 06                              -   15:00 (of   33:15)
+Paschenko 07                              -   00:00 (of   00:00)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
