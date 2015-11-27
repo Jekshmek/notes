@@ -10,6 +10,7 @@ sudo passwd -S jenkins
 
 
 http://<jenkins-host>:8080/computer/
+http://<jenkins-host>:8080/computer/platform-dev/systemInfo
 http://<jenkins-host>:8080/computer/platform-dev/script
 
 println System.getenv("PATH")
