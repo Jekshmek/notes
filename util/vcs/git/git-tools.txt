@@ -7,3 +7,7 @@ mgit clone-all
 
 git-extras:
 https://github.com/tj/git-extras/blob/master/Commands.md
+
+git-crypt:
+https://www.agwa.name/projects/git-crypt/
+https://github.com/AGWA/git-crypt
