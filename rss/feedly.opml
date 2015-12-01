@@ -148,7 +148,7 @@
             <outline type="rss" text="Java Concurrency (&amp;c)" title="Java Concurrency (&amp;c)" xmlUrl="http://jeremymanson.blogspot.com/feeds/posts/default" htmlUrl="http://jeremymanson.blogspot.com/"/>
             <outline type="rss" text="Подкаст «Разбор Полетов»" title="Подкаст «Разбор Полетов»" xmlUrl="http://feeds.feedburner.com/razbor-podcast?format=xml" htmlUrl="http://razbor-poletov.com/"/>
             <outline type="rss" text="SpringSource Team Blog" title="SpringSource Team Blog" xmlUrl="http://feeds.feedburner.com/Interface21TeamBlog" htmlUrl="http://spring.io/blog"/>
-            <outline type="rss" text="johnsmart's blog" title="johnsmart's blog" xmlUrl="http://www.java.net/blog/283887/feed" htmlUrl="http://www.java.net/blog/johnsmart"/>
+            <outline type="rss" text="johnsmart's blog" title="johnsmart's blog" xmlUrl="http://www.java.net/blog/283887/feed" htmlUrl="http://home.java.net/blog/johnsmart"/>
             <outline type="rss" text="zeroturnaround.com" title="zeroturnaround.com" xmlUrl="http://zeroturnaround.com/feed/" htmlUrl="http://zeroturnaround.com"/>
             <outline type="rss" text="Java-Virtual-Machine.net / Last News" title="Java-Virtual-Machine.net / Last News" xmlUrl="http://news.java-virtual-machine.net/rss.xml" htmlUrl="http://java-virtual-machine.net/"/>
             <outline type="rss" text="Apache Commons : Tips and Tricks" title="Apache Commons : Tips and Tricks" xmlUrl="http://feeds2.feedburner.com/ApacheCommonsTipsAndTricks" htmlUrl="http://apachecommonstipsandtricks.blogspot.com/"/>
@@ -219,6 +219,8 @@
         </outline>
         <outline text="UnixShell" title="UnixShell">
             <outline type="rss" text="Command Line" title="Command Line" xmlUrl="http://www.reddit.com/r/commandline/.rss" htmlUrl="http://www.reddit.com/r/commandline/"/>
+            <outline type="rss" text="NixOS - Purely functional" title="NixOS - Purely functional" xmlUrl="https://www.reddit.com/r/NixOS/.rss" htmlUrl="https://www.reddit.com/r/NixOS/"/>
+            <outline type="rss" text="ansible - configuration management and orchestration" title="ansible - configuration management and orchestration" xmlUrl="https://www.reddit.com/r/ansible/.rss" htmlUrl="https://www.reddit.com/r/ansible/"/>
             <outline type="rss" text="Всё о Vim" title="Всё о Vim" xmlUrl="http://www.allaboutvim.ru/feeds/posts/default" htmlUrl="http://www.allaboutvim.ru/"/>
             <outline type="rss" text="Хабрахабр / Настройка Linux / Интересные публикации" title="Хабрахабр / Настройка Linux / Интересные публикации" xmlUrl="http://habrahabr.ru/rss/hub/linux/" htmlUrl="http://habrahabr.ru/hub/linux/posts/"/>
             <outline type="rss" text="Unixmen" title="Unixmen" xmlUrl="http://feeds.feedburner.com/unixmenhowtos" htmlUrl="http://www.unixmen.com"/>
