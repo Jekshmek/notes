@@ -5,3 +5,6 @@ DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'
 docker network create net-name
 docker run ... -net=net-name ...
 docker network connect net-name container-name
+
+Docker DNS:
+http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html

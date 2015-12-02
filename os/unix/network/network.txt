@@ -167,6 +167,8 @@ TCP/IP handshake
 
 
 DNS
+http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
+
 /etc/nsswitch.conf
     (man nsswitch.conf)
 ...

@@ -22,3 +22,12 @@ touch /.autorelabel
 exit
 - Reboot your system
 reboot
+
+
+login:
+/etc/login.defs
+/etc/pam.d/
+/etc/pam.d/system-auth
+/etc/security/access.conf
+  commented out
+
