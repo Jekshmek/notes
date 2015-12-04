@@ -1,0 +1,5 @@
+https://www.archlinux.org/news/deprecation-of-net-tools/
+http://www.linux.org.ru/forum/admin/7751900
+
+http://www.policyrouting.org/iproute2.doc.html
+https://wiki.archlinux.org/index.php?title=Core_utilities&redirect=no#ip
