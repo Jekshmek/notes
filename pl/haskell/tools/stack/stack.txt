@@ -9,8 +9,13 @@ stack-arch:
 https://aur.archlinux.org/packages/haskell-stack/
 https://aur.archlinux.org/packages/libtinfo
 
+docs:
+http://docs.haskellstack.org/en/stable/index.html
+https://github.com/commercialhaskell/stack/tree/stable/doc
+
 guide:
-https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md
+https://github.com/commercialhaskell/stack/blob/stable/doc/GUIDE.md
+http://docs.haskellstack.org/en/stable/GUIDE.html
 
 
 https://www.fpcomplete.com/blog/2015/09/stack-more-binary-package-sharing

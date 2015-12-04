@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "causes": [
+        {
+          "shortDescription": "Started by user Ihar Hancharenka",
+          "userId": "ihar.hancharenka",
+          "userName": "Ihar Hancharenka"
+        }
+      ]
+    },
+    {},
+    {
+      "buildsByBranchName": {
+        "refs/remotes/origin/develop": {
+          "buildNumber": 3,
+          "buildResult": null,
+          "marked": {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "branch": [
+              {
+                "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+                "name": "refs/remotes/origin/develop"
+              }
+            ]
+          },
+          "revision": {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "branch": [
+              {
+                "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+                "name": "refs/remotes/origin/develop"
+              }
+            ]
+          }
+        }
+      },
+      "lastBuiltRevision": {
+        "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+        "branch": [
+          {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "name": "refs/remotes/origin/develop"
+          }
+        ]
+      },
+      "remoteUrls": [
+        "git@github.com:ClarabridgeInc/template-service.git"
+      ],
+      "scmName": ""
+    },
+    {},
+    {}
+  ],
+  "artifacts": [],
+  "building": true,
+  "description": null,
+  "displayName": "#3",
+  "duration": 0,
+  "estimatedDuration": 326295,
+  "executor": {},
+  "fullDisplayName": "cb-tps-linux-nightly #3",
+  "id": "3",
+  "keepLog": false,
+  "number": 3,
+  "queueId": 122,
+  "result": null,
+  "timestamp": 1449232738684,
+  "url": "http://192.168.1.24:8080/job/cb-tps-linux-nightly/3/",
+  "builtOn": "platform-dev",
+  "changeSet": {
+    "items": [],
+    "kind": "git"
+  },
+  "culprits": []
+}

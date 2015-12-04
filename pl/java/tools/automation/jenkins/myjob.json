@@ -1,0 +1,668 @@
+{
+  "actions": [
+    {
+      "causes": [
+        {
+          "shortDescription": "Started by user Ihar Hancharenka",
+          "userId": "ihar.hancharenka",
+          "userName": "Ihar Hancharenka"
+        }
+      ]
+    },
+    {},
+    {
+      "buildsByBranchName": {
+        "refs/remotes/origin/develop": {
+          "buildNumber": 2,
+          "buildResult": null,
+          "marked": {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "branch": [
+              {
+                "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+                "name": "refs/remotes/origin/develop"
+              }
+            ]
+          },
+          "revision": {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "branch": [
+              {
+                "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+                "name": "refs/remotes/origin/develop"
+              }
+            ]
+          }
+        }
+      },
+      "lastBuiltRevision": {
+        "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+        "branch": [
+          {
+            "SHA1": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+            "name": "refs/remotes/origin/develop"
+          }
+        ]
+      },
+      "remoteUrls": [
+        "git@github.com:ClarabridgeInc/template-service.git"
+      ],
+      "scmName": ""
+    },
+    {},
+    {}
+  ],
+  "artifacts": [],
+  "building": false,
+  "description": null,
+  "displayName": "#2",
+  "duration": 651429,
+  "estimatedDuration": 326295,
+  "executor": null,
+  "fullDisplayName": "cb-tps-linux-nightly #2",
+  "id": "2",
+  "keepLog": false,
+  "number": 2,
+  "queueId": 121,
+  "result": "SUCCESS",
+  "timestamp": 1449231690445,
+  "url": "http://192.168.1.24:8080/job/cb-tps-linux-nightly/2/",
+  "builtOn": "platform-dev",
+  "changeSet": {
+    "items": [
+      {
+        "affectedPaths": [
+          "templates-storage/init.txt"
+        ],
+        "commitId": "a292a9177e0071f1fd8fa36bb539e25e625261f0",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Init storage\n",
+        "date": "2015-12-02 21:10:12 +0300",
+        "id": "a292a9177e0071f1fd8fa36bb539e25e625261f0",
+        "msg": "Init storage",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "templates-storage/init.txt"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          ".gitignore"
+        ],
+        "commitId": "d6016823a22f65b51d765e8acfce9cb8b2071bab",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Adding .gitignore\n",
+        "date": "2015-12-02 21:23:02 +0300",
+        "id": "d6016823a22f65b51d765e8acfce9cb8b2071bab",
+        "msg": "Adding .gitignore",
+        "paths": [
+          {
+            "editType": "add",
+            "file": ".gitignore"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "archive.sh",
+          "cb-templates/src/main/java/com/clarabridge/templates/configs/TemplatesConfig.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/storage/Artifact.java",
+          "cb-templates/src/main/resources/application.yml",
+          "templates-storage/init/init.txt",
+          "cb-templates/src/main/java/com/clarabridge/templates/storage/TemplatesStorage.java",
+          "templates-storage/init.txt",
+          "settings.gradle",
+          "build.gradle",
+          "cb-templates/build.gradle",
+          "cb-templates/src/main/java/com/clarabridge/templates/controllers/TemplatesController.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/controllers/dto/ArtifactDTO.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/controllers/converters/DTOConverter.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/services/TemplatesServiceImpl.java",
+          "templates-storage/init/artifact.yml",
+          "cb-templates/src/main/java/com/clarabridge/templates/storage/FSTemplatesStorageImpl.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/TemplatesApplication.java",
+          "cb-templates/src/main/java/com/clarabridge/templates/services/TemplatesService.java"
+        ],
+        "commitId": "9e8ce036c3aa4fa44996b150748a85e8eb698abb",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Demo implementation.\n",
+        "date": "2015-12-03 13:51:54 +0300",
+        "id": "9e8ce036c3aa4fa44996b150748a85e8eb698abb",
+        "msg": "Demo implementation.",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/controllers/TemplatesController.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/configs/TemplatesConfig.java"
+          },
+          {
+            "editType": "add",
+            "file": "archive.sh"
+          },
+          {
+            "editType": "add",
+            "file": "templates-storage/init/init.txt"
+          },
+          {
+            "editType": "add",
+            "file": "build.gradle"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/services/TemplatesServiceImpl.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/TemplatesApplication.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/storage/TemplatesStorage.java"
+          },
+          {
+            "editType": "add",
+            "file": "settings.gradle"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/controllers/dto/ArtifactDTO.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/resources/application.yml"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/build.gradle"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/controllers/converters/DTOConverter.java"
+          },
+          {
+            "editType": "delete",
+            "file": "templates-storage/init.txt"
+          },
+          {
+            "editType": "add",
+            "file": "templates-storage/init/artifact.yml"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/storage/Artifact.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/services/TemplatesService.java"
+          },
+          {
+            "editType": "add",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/storage/FSTemplatesStorageImpl.java"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "cb-templates/src/main/java/com/clarabridge/templates/controllers/TemplatesController.java"
+        ],
+        "commitId": "2f08f822ef88631d6f5fb81e171b580886794b7d",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Fix path variable.\n",
+        "date": "2015-12-03 14:01:37 +0300",
+        "id": "2f08f822ef88631d6f5fb81e171b580886794b7d",
+        "msg": "Fix path variable.",
+        "paths": [
+          {
+            "editType": "edit",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/controllers/TemplatesController.java"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "templates-storage/init/artifact.yml",
+          "archive.sh",
+          "com.clarabridge.archive.plist",
+          "templates-storage/init/init.txt",
+          "cb-templates/src/main/java/com/clarabridge/templates/storage/TemplatesStorage.java"
+        ],
+        "commitId": "83c23afb173f11f272e6312d4f733d060d60d156",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Demo implementation.\n",
+        "date": "2015-12-03 15:46:47 +0300",
+        "id": "83c23afb173f11f272e6312d4f733d060d60d156",
+        "msg": "Demo implementation.",
+        "paths": [
+          {
+            "editType": "edit",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/storage/TemplatesStorage.java"
+          },
+          {
+            "editType": "add",
+            "file": "com.clarabridge.archive.plist"
+          },
+          {
+            "editType": "edit",
+            "file": "archive.sh"
+          },
+          {
+            "editType": "delete",
+            "file": "templates-storage/init/artifact.yml"
+          },
+          {
+            "editType": "delete",
+            "file": "templates-storage/init/init.txt"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/env/docker/inventory",
+          "provis/env/docker/extra-vars.json",
+          "provis/dbld.sh",
+          "provis/Dockerfile"
+        ],
+        "commitId": "a6d5df6582074bbab6f8c949597692897a90b33d",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "LANG-383: provis 1\n",
+        "date": "2015-12-03 16:11:22 +0300",
+        "id": "a6d5df6582074bbab6f8c949597692897a90b33d",
+        "msg": "LANG-383: provis 1",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "provis/env/docker/extra-vars.json"
+          },
+          {
+            "editType": "add",
+            "file": "provis/dbld.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/Dockerfile"
+          },
+          {
+            "editType": "add",
+            "file": "provis/env/docker/inventory"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/dbld.sh",
+          "provis/files/known_hosts",
+          "provis/files/id_rsa",
+          "provis/Dockerfile",
+          "provis/pb/jdk.yml",
+          "provis/pbci/gradle.yml",
+          "provis/pb/dbg.yml",
+          "provis/pb/yum.yml",
+          "provis/files/prepare.sh",
+          "provis/files/id_rsa.pub"
+        ],
+        "commitId": "e85ebb2c14281713c437d241d6db2f3412407984",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "LANG-383: provis 2\n",
+        "date": "2015-12-03 16:32:53 +0300",
+        "id": "e85ebb2c14281713c437d241d6db2f3412407984",
+        "msg": "LANG-383: provis 2",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "provis/pbci/gradle.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/pb/jdk.yml"
+          },
+          {
+            "editType": "edit",
+            "file": "provis/Dockerfile"
+          },
+          {
+            "editType": "add",
+            "file": "provis/files/known_hosts"
+          },
+          {
+            "editType": "add",
+            "file": "provis/files/id_rsa"
+          },
+          {
+            "editType": "add",
+            "file": "provis/files/id_rsa.pub"
+          },
+          {
+            "editType": "edit",
+            "file": "provis/dbld.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/pb/dbg.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/pb/yum.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/files/prepare.sh"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/roles/williamyeh.oracle-java/files/check-rpm-installed.sh",
+          "provis/roles/williamyeh.oracle-java/README.md",
+          "provis/roles/williamyeh.oracle-java/tasks/install-jdk-rpm.yml",
+          "provis/roles/williamyeh.oracle-java/LICENSE",
+          "provis/roles/williamyeh.oracle-java/defaults/main.yml",
+          "provis/roles/williamyeh.oracle-java/circle.yml",
+          "provis/roles/williamyeh.oracle-java/tasks/main.yml",
+          "provis/roles/williamyeh.oracle-java/tasks/set-role-variables.yml",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-centos7",
+          "provis/roles/williamyeh.oracle-java/test.yml",
+          "provis/roles/williamyeh.oracle-java/files/delete-messy-rpm-files.sh",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-centos6",
+          "provis/roles/williamyeh.oracle-java/.travis.yml",
+          "provis/roles/williamyeh.oracle-java/tasks/use-tarball.yml",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-ubuntu14.04",
+          "provis/roles/williamyeh.oracle-java/Vagrantfile",
+          "provis/roles/williamyeh.oracle-java/files/check-tarball-installed.sh",
+          "provis/roles/williamyeh.oracle-java/files/uninstall-messy-jdk-packages.sh",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-ubuntu12.04",
+          "provis/roles/williamyeh.oracle-java/tasks/use-rpm.yml",
+          "provis/roles/williamyeh.oracle-java/meta/.galaxy_install_info",
+          "provis/roles/williamyeh.oracle-java/.gitignore",
+          "provis/roles/williamyeh.oracle-java/tasks/install-jdk-tarball.yml",
+          "provis/roles/williamyeh.oracle-java/meta/main.yml",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-debian7",
+          "provis/roles/williamyeh.oracle-java/test/Dockerfile-debian8"
+        ],
+        "commitId": "df1f09e616cc0f1f4755041772c434daf50fdd08",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "LANG-383: add jdk role\n",
+        "date": "2015-12-03 16:37:21 +0300",
+        "id": "df1f09e616cc0f1f4755041772c434daf50fdd08",
+        "msg": "LANG-383: add jdk role",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/.gitignore"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/files/delete-messy-rpm-files.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-debian7"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/files/uninstall-messy-jdk-packages.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/Vagrantfile"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-ubuntu14.04"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/main.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/install-jdk-rpm.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/files/check-rpm-installed.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/LICENSE"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/README.md"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/use-tarball.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/.travis.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/use-rpm.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-centos6"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/meta/main.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-debian8"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/install-jdk-tarball.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-ubuntu12.04"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/meta/.galaxy_install_info"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/test/Dockerfile-centos7"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/circle.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/files/check-tarball-installed.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/tasks/set-role-variables.yml"
+          },
+          {
+            "editType": "add",
+            "file": "provis/roles/williamyeh.oracle-java/defaults/main.yml"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "README.md",
+          "cb-templates/src/main/java/com/clarabridge/templates/storage/FSTemplatesStorageImpl.java"
+        ],
+        "commitId": "97b51238ad80e4d7b8aa5ef40af50c0c68416a3b",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+          "fullName": "Artyom Gabeev"
+        },
+        "comment": "Fixed negative hashcodes\n",
+        "date": "2015-12-03 16:57:07 +0300",
+        "id": "97b51238ad80e4d7b8aa5ef40af50c0c68416a3b",
+        "msg": "Fixed negative hashcodes",
+        "paths": [
+          {
+            "editType": "edit",
+            "file": "cb-templates/src/main/java/com/clarabridge/templates/storage/FSTemplatesStorageImpl.java"
+          },
+          {
+            "editType": "edit",
+            "file": "README.md"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/drun.sh"
+        ],
+        "commitId": "528be564a264e1089b4bfbdbedc92df9e51951d6",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "LANG-383: add drun\n",
+        "date": "2015-12-03 14:00:08 +0000",
+        "id": "528be564a264e1089b4bfbdbedc92df9e51951d6",
+        "msg": "LANG-383: add drun",
+        "paths": [
+          {
+            "editType": "add",
+            "file": "provis/drun.sh"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/env/docker/extra-vars.json",
+          "provis/pb/conda.yml",
+          "provis/Dockerfile",
+          "provis/files/condarc"
+        ],
+        "commitId": "86f10fa86a64d54a85d5fca8f89c196aeb4a41a9",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "put conda to provis\n",
+        "date": "2015-12-04 12:21:30 +0300",
+        "id": "86f10fa86a64d54a85d5fca8f89c196aeb4a41a9",
+        "msg": "put conda to provis",
+        "paths": [
+          {
+            "editType": "edit",
+            "file": "provis/env/docker/extra-vars.json"
+          },
+          {
+            "editType": "add",
+            "file": "provis/files/condarc"
+          },
+          {
+            "editType": "add",
+            "file": "provis/pb/conda.yml"
+          },
+          {
+            "editType": "edit",
+            "file": "provis/Dockerfile"
+          }
+        ]
+      },
+      {
+        "affectedPaths": [
+          "provis/drun.sh",
+          "provis/filesci/ci_inst_pip.sh",
+          "provis/pbci/ci-pip-deps.yml",
+          "provis/Dockerfile",
+          "provis/filesci/ci-pip-requirements.txt"
+        ],
+        "commitId": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+        "timestamp": -1,
+        "author": {
+          "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+          "fullName": "Ihar Hancharenka"
+        },
+        "comment": "add pip deps for CI\n",
+        "date": "2015-12-04 12:51:03 +0300",
+        "id": "9cd0a7efaf3f36c1bc4043251618f54cfbe06c2d",
+        "msg": "add pip deps for CI",
+        "paths": [
+          {
+            "editType": "edit",
+            "file": "provis/Dockerfile"
+          },
+          {
+            "editType": "add",
+            "file": "provis/filesci/ci_inst_pip.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/pbci/ci-pip-deps.yml"
+          },
+          {
+            "editType": "edit",
+            "file": "provis/drun.sh"
+          },
+          {
+            "editType": "add",
+            "file": "provis/filesci/ci-pip-requirements.txt"
+          }
+        ]
+      }
+    ],
+    "kind": "git"
+  },
+  "culprits": [
+    {
+      "absoluteUrl": "http://192.168.1.24:8080/user/artyom.gabeev",
+      "fullName": "Artyom Gabeev"
+    },
+    {
+      "absoluteUrl": "http://192.168.1.24:8080/user/ihar.hancharenka",
+      "fullName": "Ihar Hancharenka"
+    }
+  ]
+}
