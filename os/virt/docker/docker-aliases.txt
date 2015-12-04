@@ -1,6 +1,6 @@
-alias doc-rmc='sudo docker rm -v $(sudo docker ps -aqf status=exited && sudo docker ps -aqf status=dead)'
-alias doc-rmd='sudo docker rmi $(sudo docker images -q -f "dangling=true")'
-alias doc-ps='sudo docker ps -a'
+alias doc-rmc='docker rm -v $(docker ps -aqf status=exited && docker ps -aqf status=dead)'
+alias doc-rmd='docker rmi $(docker images -q -f "dangling=true")'
+alias doc-ps='docker ps -a'
 
 alias dksvccfg='sudo vim /usr/lib/systemd/system/docker.service'
 alias dkrst='sudo systemctl restart docker'

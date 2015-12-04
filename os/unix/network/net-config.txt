@@ -1,0 +1,35 @@
+https://wiki.archlinux.org/index.php/Systemd-networkd
+https://wiki.archlinux.org/index.php/Network_configuration
+https://coreos.com/blog/intro-to-systemd-networkd/
+
+lspci -v
+02:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 06)
+	Subsystem: Gigabyte Technology Co., Ltd Motherboard
+	Flags: bus master, fast devsel, latency 0, IRQ 30
+	I/O ports at e000 [size=256]
+	Memory at f0404000 (64-bit, non-prefetchable) [size=4K]
+	Memory at f0400000 (64-bit, prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: r8169
+	Kernel modules: r8169
+
+dmesg | grep r8169
+[    6.823882] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+[    6.823890] r8169 0000:02:00.0: can't disable ASPM; OS doesn't have ASPM control
+[    6.824344] r8169 0000:02:00.0 eth0: RTL8168evl/8111evl at 0xffffc900018c2000, 94:de:80:7d:b2:15, XID 0c900800 IRQ 30
+[    6.824346] r8169 0000:02:00.0 eth0: jumbo features [frames: 9200 bytes, tx checksumming: ko]
+[    7.562996] r8169 0000:02:00.0 enp2s0: renamed from eth0
+[   13.592484] r8169 0000:02:00.0 enp2s0: link down
+[   15.222774] r8169 0000:02:00.0 enp2s0: link up
+
+ip link
+ip link show enp2s0
+ip link show dev enp2s0
+2: enp2s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP mode DEFAULT group default qlen 1000
+    link/ether 94:de:80:7d:b2:15 brd ff:ff:ff:ff:ff:ff
+
+ip link set enp2s0 up
+ip link set enp2s0 down
+
+DHCP:
+https://wiki.archlinux.org/index.php/Systemd-networkd#Basic_DHCP_network
