@@ -1,14 +1,10 @@
 pptpclient:
 https://wiki.archlinux.org/index.php/PPTP_VPN_client_setup_with_pptpclient
-http://pptpclient.sourceforge.net/routing.phtml
+http://nix.zeya.org/wiki/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_vpn_pptp_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_archlinux
 
 ppp (pon, poff, plog)
 
-pptpclient:
-https://wiki.archlinux.org/index.php/PPTP_VPN_client_setup_with_pptpclient
-http://nix.zeya.org/wiki/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_vpn_pptp_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_archlinux
-
-/etc/ppp/peers/epampptp:
+/etc/ppp/peers/epam:
 pty "pptp vpnmsq.epam.com --nolaunchpppd"
 user "Ihar_Hancharenka@epam.com"
 password "<pwd>"
@@ -28,6 +24,8 @@ lcp-echo-failure 10
 defaultroute
 # ip of vpnmsq.epam.com
 ipparam 217.21.63.8
+# end of /etc/ppp/peers/epam
+
 
 Routing:
 /etc/ppp/ip-up.d/01-route.sh
