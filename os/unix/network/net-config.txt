@@ -12,6 +12,7 @@ Name=enp2s0
 [Network]
 Address=192.168.0.103/24
 Gateway=192.168.0.1
+DNS=192.168.0.1
 #end
 
 Example 2. /etc/systemd/network/80-dhcp.network
