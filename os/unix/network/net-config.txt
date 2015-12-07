@@ -3,6 +3,7 @@ https://coreos.com/blog/intro-to-systemd-networkd/
 
 Net via systemd-networkd:
 https://wiki.archlinux.org/index.php/Systemd-networkd
+
 man systemd-network
 
 Example 1. /etc/systemd/network/50-static.network
@@ -15,15 +16,8 @@ Gateway=192.168.0.1
 DNS=192.168.0.1
 #end
 
-Example 2. /etc/systemd/network/80-dhcp.network
-[Match]
-Name=en*
-
-[Network]
-DHCP=yes
-#end - does not work for my router - need more stuff
-
 sudo systemclt enable systemd-networkd.service
+sudo systemctl enable systemd-resolved.service
 
 After restart
 ip route list
