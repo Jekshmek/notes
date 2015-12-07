@@ -5,21 +5,30 @@ Net via systemd-networkd:
 https://wiki.archlinux.org/index.php/Systemd-networkd
 man systemd-network
 
+Example 1. /etc/systemd/network/50-static.network
+[Match]
+Name=enp2s0
+
+[Network]
+Address=192.168.0.103/24
+Gateway=192.168.0.1
+#end
+
 Example 2. /etc/systemd/network/80-dhcp.network
 [Match]
 Name=en*
 
 [Network]
 DHCP=yes
-#end
+#end - does not work for my router - need more stuff
 
 sudo systemclt enable systemd-networkd.service
 
 After restart
 ip route list
-default via 192.168.0.1 dev enp2s0  proto dhcp  src 192.168.0.103  metric 1024 
+default via 192.168.0.1 dev enp2s0  proto static 
+...
 192.168.0.0/24 dev enp2s0  proto kernel  scope link  src 192.168.0.103 
-192.168.0.1 dev enp2s0  proto dhcp  scope link  src 192.168.0.103  metric 1024 
 
 
 NetworkManager defaults:
