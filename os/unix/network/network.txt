@@ -23,49 +23,6 @@ http://www.intuit.ru/studies/courses/681/537/info
   http://www.intuit.ru/studies/courses/37/37/lecture/1106
 http://www.intuit.ru/studies/courses/2/2/info
 
-iptables:
-sudo iptables -L
-    list rules
-sudo iptables -nL
-    .. in number form
-
-Diagnostics tools:
-
-mtr/tracepath/traceroute/tcptraceroute/...
-    tracing is needed to recognize a way to the dst
-    mtr - does not stop with 3 packets
-      uses ICMP datagrams
-      hop - jumps
-      TTL - TCP header, number of routers (0, 1, 2, 3)
-    traceroute
-      uses UDP ... (but can be changes via -I)
-    tracepath
-      between them...
-
-nc/telnet
-    nc can as set-up connection and listen it also
-    nc <host> <port>
-        USER
-        USER <username>
-        PASS <pass>
-        ...
-        QUIT
-    nc -l <port>
-    ...
-    echo Hello world | nc localhost 8080
-        
-nmap
-    check open ports at the remote <host>
-    by sending TCP packets
-
-tcpdump/tshark
-    tcpdump analyzes headers only
-    tcpdump -n -i lo [port 80]
-        scan the lo i-face
-
-wireshark
-
-
 cat /proc/sys/net/ipv4/ip_forward
 0 - not a router
 1 - is a router
@@ -113,7 +70,6 @@ MSS
     maximum segment size (at TCP options)
 
 
-
 ARP table (cache) matching MAC to IP addresses
 ARP protocol - 
   Who has 192.168.0.1
@@ -139,55 +95,10 @@ cat /proc/sys/net/ipv4/ip_forwarding
 1
 
 
-
-DHCP:
-
-ifconfig eth0 0.0.0.0
-    remove the IP address
-ifconfig eth0:0
-    ???
-
-service isc-dhcp-server start
-  start a DHCP server (dhcpd)
-  (/etc/init.d/...)
-
-dhclient -v eth0
-  send DHCPDISCOVER req
-  get  DHCPOFFER from all the DHCP servers
-  then - DHCPREQUEST
-  and    DHCPACK
-
-ip addres send for some period of time (but remembers at the cache)
-
-
 TCP/IP handshake
 -> SYN <num>
 <- SYN,ACK <num+1>
 -> ACK
-
-
-DNS
-http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
-
-/etc/nsswitch.conf
-    (man nsswitch.conf)
-...
-hosts:      files dns
-networks:   files
-...
-
-package: dnsutils
-utils:
-    dig
-    host
-    nslookup
-
-
-/etc/hosts
-/etc/resolv.conf
-
-nslookup <host>
-    look-up for the host
 
 
 FIREWALL:

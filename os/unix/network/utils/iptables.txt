@@ -1,0 +1,5 @@
+iptables:
+sudo iptables -L
+    list rules
+sudo iptables -nL
+    .. in number form
