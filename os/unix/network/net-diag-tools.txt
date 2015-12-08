@@ -1,6 +1,8 @@
 Diagnostics tools:
 
 mtr/tracepath/traceroute/tcptraceroute/...
+http://s1n1ster.blogspot.com.by/2013/02/tcptraceroute.html
+
     tracing is needed to recognize a way to the dst
     mtr - does not stop with 3 packets
       uses ICMP datagrams
