@@ -1,3 +1,9 @@
+http://www.unix-lab.org/posts/iptables/
+
+Eli - The Computer Guy:
+Fundamentals of iptables
+https://www.youtube.com/watch?v=fQF2vEvqHgU
+
 iptables:
 sudo iptables -L
     list rules

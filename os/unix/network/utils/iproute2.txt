@@ -1,0 +1,34 @@
+https://www.archlinux.org/news/deprecation-of-net-tools/
+http://www.linux.org.ru/forum/admin/7751900
+
+http://www.policyrouting.org/iproute2.doc.html
+https://wiki.archlinux.org/index.php?title=Core_utilities&redirect=no#ip
+
+ip link
+    show mac addresses
+
+ip a
+ip a s
+ip address
+    view ip address[es]
+ip -4 a
+    show ipv4 addresses only
+ip -4 a add 192.168.1.12 dev eth0
+    assign address
+ip -4 a show dev eth0
+    show...
+
+ip neigh show
+    man ip-neighbour
+  ??
+
+ip route
+  view the routing table
+  note: we can change the metric for each row of this table
+ip route del 192.168.2.0/24 dev eth0
+    delete the roote
+ip route add 192.168.2.0/24 dev eth0 metric 10
+    add...
+
+route -n
+  view the "Kernel IP routing table"
