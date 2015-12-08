@@ -1,5 +1,3 @@
-https://epam-my.sharepoint.com/personal/vasyl_shcherban_epam_com/_layouts/15/WopiFrame.aspx?sourcedoc={FC54883B-2639-4FA9-80E4-B3AD172A3F41}&file=Roman_Sergeev_Agenda.xlsx&action=default
-
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
   Example API
@@ -20,36 +18,35 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Kmett - Propagators                       -  10:30 (of 1:53:23)
+Kmett - Propagators                       -  16:00 (of 1:53:23)
 Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
-Krasikov - Otto                           -  37:00 (of   54:36)
 Osheim - Principles for Modular Fun Libs  -  32:00 (of 1:32:44)
-Sadogursky - Writing Groovy AST Trans     -  18:00 (of   32:12)
-Brown - Powerful Metaprogramming Techniq  -  10:30 (of 2:04:08)
+Brown - Powerful Metaprogramming Techniq  -  12:30 (of 2:04:08)
 Popov - Parboiled                         -  12:00 (of   59:47)
 Goetz - Adventures on the Road to Valhalla-  11:00 (of   49:28)
-Vlasovskyh - Python Multitasking          -  11:00 (of   43:37)
+Haskell Stack Mega Tutorial               -  06:00 (of 2:03:49)
 Gonzalez - Proof                          -  05:00 (of   55:53)
 Studer - Gradle                           -  05:00 (of   48:54)
 
 Series:
-Kuryachi - Python 1                       -  22:00 (of 1:35:44)
+Kuryachi - Python 1                       -  44:00 (of 1:35:44)
 Python Fundamentals                       - 0301
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 Gradle Fundamentals                       - 2
-LiveLessons - Git under the hood - 08     -  03:00 (of   26:44)
+LiveLessons - Git under the hood - 09     -  03:00 (of   35:02)
 RequireJS                                 - 0102
 
 Audio:
+Razbor 97                                 - 1:41:00 (of 2:21:16)
 Razbor 02                                 -   26:00 (of 1:14:39)
 Ivliev 58                                 -   00:00 (of   37:57)
-Paschenko 07                              -   26:00 (of   49:11)
+Paschenko 08                              -   00:00 (of   32:53)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 http://accu.org/index.php/journals/c78/   - 129
-https://www.fpcomplete.com/recent-content - 6 Aug
+https://www.fpcomplete.com/recent-content - 2 Dec
 
 Samples:
 ?? pbcopy/pbpaste
