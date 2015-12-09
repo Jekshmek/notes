@@ -1,3 +1,7 @@
+man
+  pppd
+  pppstats
+
 google
   pptp default route
 
@@ -10,7 +14,7 @@ ppp (pon, poff, plog)
 /etc/ppp/peers/epam:
 pty "pptp vpnmsq.epam.com --nolaunchpppd"
 user "Ihar_Hancharenka@epam.com"
-password "<pwd>"
+#password "<pwd>" -> put to the /etc/ppp/chap-secrets
 refuse-eap
 refuse-pap
 refuse-chap
@@ -37,16 +41,24 @@ ipparam 217.21.63.8
 
 
 Routing:
+
 /etc/ppp/ip-up.d/01-route.sh
 #!/bin/sh
-logger ip-up 01-route "$@" ipparam $6
+logger ip-up 01-route "$@" IFNAME: ${IFNAME} ipparam: $6
 ip route del default
+# TODO add params for 192.168.0.1 and enp2s0
+ip route add default via 192.168.0.1 dev enp2s0 proto static metric 100
 ip route add default dev ${IFNAME} proto static scope link metric 50
 
 /etc/ppp/ip-down.d/01.route.sh
 #!/bin/sh
-logger ip-down 01-route "$@" ipparam $6
+# Parameters: interface-name tty-device speed local-IP-address remote-IP-address ipparam
+logger ip-down 01-route "$@" IFNAME: ${IFNAME} ipparam: $6
+# local-IP-address: 10.6.60.199 remote-IP-address: 10.6.60.0
 ip route del $6
+# TODO: add params for 192.168.0.1 and enp2s0
+#ip route add default via 192.168.0.1 dev enp2s0 proto static metric 100
+
 
 DNS
 
