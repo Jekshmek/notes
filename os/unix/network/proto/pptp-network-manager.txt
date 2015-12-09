@@ -40,3 +40,7 @@ default via 192.168.0.1 dev enp2s0  proto static  metric 100
 ...
 192.168.0.0/24 dev enp2s0  proto kernel  scope link  src 192.168.0.103  metric 100 
 217.21.63.8 via 192.168.0.1 dev enp2s0  src 192.168.0.103 
+
+platform-dev
+192.168.31.228
+
