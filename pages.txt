@@ -41,6 +41,7 @@ Razbor 97                                 - 1:41:00 (of 2:21:16)
 Razbor 02                                 -   26:00 (of 1:14:39)
 Ivliev 58                                 -   00:00 (of   37:57)
 Paschenko 08                              -   00:00 (of   32:53)
+Trauberg                                  -   01:00 (of   53:29)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
