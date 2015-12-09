@@ -37,7 +37,7 @@ LiveLessons - Git under the hood - 09     -  03:00 (of   35:02)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 97                                 - 1:41:00 (of 2:21:16)
+Razbor 97                                 - 1:51:00 (of 2:21:16)
 Razbor 02                                 -   26:00 (of 1:14:39)
 Ivliev 58                                 -   00:00 (of   37:57)
 Paschenko 08                              -   00:00 (of   32:53)
