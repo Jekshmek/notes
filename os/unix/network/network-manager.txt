@@ -1,32 +1,6 @@
-/etc/NetworkManager/system-connections/EpamVPN
-
-[connection]
-id=EpamVPN
-uuid=<...>
-type=vpn
-permissions=user:iharh:;
-autoconnect=false
-timestamp=<...>
-
-[vpn]
-service-type=org.freedesktop.NetworkManager.pptp
-gateway=vpnmsq.epam.com
-user=Ihar_Hancharenka@epam.com
-refuse-eap=yes
-refuse-chap=yes
-password-flags=1
-refuse-pap=yes
-
-[ipv4]
-method=auto
-dns=10.6.0.6;10.6.0.16;
-dns-search=minsk.epam.com;gomel.epam.com;
-
-
 openvpn:
 openvpn-networkmanager
 http://askubuntu.com/questions/187511/how-can-i-use-a-ovpn-file-with-network-manager
-
 
 nmcli:
 http://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/
@@ -35,5 +9,3 @@ nmcli
     c[onnection]
         s[how]
         up <con-name>
-
-
