@@ -1,3 +1,8 @@
+Ecosystem:
+http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html
+http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html
+
+
 http://www.haskellforall.com/2013/06/the-resource-applicative.html
 
 Tutorials:
