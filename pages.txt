@@ -19,7 +19,7 @@ Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
 Kmett - Propagators                       -  16:00 (of 1:53:23)
-Long - Building Bootiful Microservices    -  40:00 (of 1:15:00)
+Long - Building Bootiful Microservices    -1:08:00 (of 1:15:00)
 Osheim - Principles for Modular Fun Libs  -  32:00 (of 1:32:44)
 Brown - Powerful Metaprogramming Techniq  -  12:30 (of 2:04:08)
 Popov - Parboiled                         -  12:00 (of   59:47)
@@ -29,7 +29,7 @@ Gonzalez - Proof                          -  05:00 (of   55:53)
 Studer - Gradle                           -  05:00 (of   48:54)
 
 Series:
-Kuryachi - Python 1                       -  44:00 (of 1:35:44)
+Kuryachi - Python 1                       -1:20:00 (of 1:35:44)
 Python Fundamentals                       - 0301
 FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 Gradle Fundamentals                       - 2
@@ -37,10 +37,9 @@ LiveLessons - Git under the hood - 09     -  03:00 (of   35:02)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 97                                 - 2:01:00 (of 2:21:16)
-Razbor 02                                 -   26:00 (of 1:14:39)
-Ivliev 59                                 -   00:00 (of   ??:??)
-Paschenko 08                              -   00:00 (of   32:53)
+Razbor 02                                 -   58:00 (of 1:14:39)
+Ivliev 59                                 -   00:00 (of   39:19)
+Paschenko - upbringing 1                  -   17:00 (of 1:25:54)
 
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
