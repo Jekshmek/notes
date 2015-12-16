@@ -1,5 +1,7 @@
 multigit:
 https://github.com/capr/multigit
+https://luapower.com/luapower-git
+https://github.com/luapower/luapower-repos
 
 meta repo
 mgit clone-all
