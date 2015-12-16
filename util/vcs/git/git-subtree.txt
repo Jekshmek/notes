@@ -22,4 +22,5 @@ git fetch tpope-vim-surround master
 git subtree pull --prefix .vim/bundle/tpope-vim-surround tpope-vim-surround master --squash
 ...
 
-
+alternatives:
+http://www.mos6581.org/git_subtree_alternative
