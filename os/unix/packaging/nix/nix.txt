@@ -1,5 +1,8 @@
 https://nixos.org/nix/about.html
 
+A lot of links:
+http://blog.timsears.com/posts/morenix.html
+
 Nix manual:
 http://nixos.org/nix/manual/
 http://nixos.org/nix/manual/#ch-env-variables
