@@ -86,3 +86,7 @@ check the peepcode
     gbrt
 ruby script (branches, sorted by time)
 
+
+Upstream-Set:
+http://zarino.co.uk/post/git-set-upstream
+git branch --set-upstream-to=...

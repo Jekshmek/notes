@@ -45,6 +45,8 @@ apply plugin: 'groovy'
  
 
 Tasks:
+gradle tasks
+    list all the tasks
 compileJava
 compileGroovy
 

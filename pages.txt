@@ -35,6 +35,7 @@ LiveLessons - Git under the hood - 09     -  03:00 (of   35:02)
 RequireJS                                 - 0102
 
 Audio:
+Bananas 18                                -   31:37 (of   57:40)
 Razbor 03                                 -   10:00 (of 1:33:52)
 Ivliev 61                                 -   00:00 (of   40:28)
 Trauberg                                  -   00:00 (of   00:00)
