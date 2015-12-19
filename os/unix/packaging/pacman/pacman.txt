@@ -25,6 +25,8 @@ pacman -Syu
 
 Query local package DB:
 pacman -Q --help
+  -q
+    quiet
 
 pacman -Qs <package>
   search locally installed package for names or descriptions
@@ -45,6 +47,10 @@ pacman -Qdt
 pacman -Qn
   list all the native (sync database) packages
 
+pacman -Qe
+  list all the explicitly-installed packages
+pacman -Qm
+  list all the foreign packages
 pacman -Qqem
   list all the installed + foreign packages (from AUR)
 
@@ -97,7 +103,17 @@ sudo pacman -Sy archlinux-keyring manjaro-keyring
 sudo pacman-key --refresh-keys
 sudo pacman -Su
 
+Detect all AUR packages for rebuild with libstdc++.so.6:
+#!/bin/bash
+for i in $(pacman -Qmq); do
+    if pacman -Qql $i | xargs readelf -d 2>/dev/null | grep -q libstdc++.so.6; then
+        echo $i;
+    fi;
+done
+
+
 # user dirs
 /var/lib/...
 /src/...
+
 
