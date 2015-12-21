@@ -4,6 +4,9 @@ Articles
 http://jaxenter.com/git-is-simple-on-the-inside-49426.html
 http://wildlyinaccurate.com/a-hackers-guide-to-git
 
+Tips
+https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df
+
 Presentations
 http://talks.rosalab.com/20140823-05
 https://speakerdeck.com/matthewmccullough/git-graphs-hashes-and-compression-oh-my-1 (http://youtu.be/ig5E8CcdM9g)

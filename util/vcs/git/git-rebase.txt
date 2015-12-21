@@ -1,4 +1,8 @@
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing
+https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa
+
+git rebase -p <origin/feature>
+    preserve ... ???
 
 git config --global rerere.enabled = true
     rerere - reuse recorded resolution

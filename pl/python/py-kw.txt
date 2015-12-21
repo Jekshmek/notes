@@ -1,6 +1,8 @@
 __add__
 __call__
     function
+__doc__
+    function doc
 __cmp__
     compare
 
@@ -10,3 +12,4 @@ __new__
 __name__
 __reduce__
 __reduce_ex__
+
