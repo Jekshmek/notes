@@ -85,3 +85,7 @@ stack build
     --flag <flag-name>
     --haddock
 
+
+config:
+/root/.stack
+    global stack root
