@@ -8,6 +8,8 @@ https://github.com/Netflix/RxJava/wiki
 
   https://github.com/Froussios/Intro-To-RxJava
 
+Visual:
+http://rxmarbles.com/
 
 Threading:
 http://www.grahamlea.com/2014/07/rxjava-threading-examples/
@@ -127,6 +129,8 @@ Observable
         .registerResourceForClose(s)
 
     // Subjects
+    // A Subject is a hybrid between a Observable and a Subscriber. So it can both receive and emit events.
+
     Subject = Subscriber (can be used to subscribe to more than one observables) + Observable (can reemit events + drive a new ones using onNext/onError/onCompleted)
 
     PublishSubject
@@ -151,6 +155,13 @@ Observable
         // all other events are consumed without being re-emitted
 
         AsyncSubject<String> subj = AsyncSubject.create();
+
+    // Backpreassure etc.
+    .debounce(n, TimeUnit.Seconds) // No more sending multiple requests within a specified time frame
+
+    // Error processing
+    .onErrorReturn(throwable -> new User())
+    http://docs.couchbase.com/developer/java-2.0/observables.html
 
 BlockingObservable
     .from (...)
