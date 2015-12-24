@@ -1,18 +1,3 @@
-multigit:
-https://github.com/capr/multigit
-https://luapower.com/luapower-git
-https://github.com/luapower/luapower-repos
-
-meta repo
-mgit clone-all
-
-repo:
-https://source.android.com/source/downloading.html
-https://source.android.com/source/using-repo.html
-https://storage.googleapis.com/git-repo-downloads/repo
-repo help --all
-
-
 git-extras:
 https://github.com/tj/git-extras/blob/master/Commands.md
 

@@ -68,6 +68,10 @@ stack install cabal-install-1.22.6.0
 
 
 stack new <prj-name> simple --resolver lts-3.2
+
+stack new templates
+https://github.com/commercialhaskell/stack-templates
+
 ...
 stack build
 
