@@ -10,3 +10,5 @@ http://artyom.me/lens-over-tea-3
 http://www.reddit.com/r/haskell/comments/366pb3/lens_over_tea_3_folds/
 http://artyom.me/lens-over-tea-4
 http://www.reddit.com/r/haskell/comments/3e76o8/lens_over_tea_4_isomorphisms_some_profunctors/
+http://artyom.me/lens-over-tea-5
+https://www.reddit.com/r/haskell/comments/3y4kvn/lens_over_tea_5_prisms/

@@ -66,3 +66,19 @@ Just include -L and -I options to gcc with the same paths as above, and make sur
 
 stack-icu:
 stack exec -- pacman -S mingw64/mingw-w64-x86_64-icu && stack build text-icu
+
+
+hmatrix:
+https://www.reddit.com/r/haskell/comments/3y7ysk/installing_hmatrix_in_windows/
+
+open MSYS2 console and run
+  update-core
+to update runtime system
+
+close and reopen console and install openblas with
+
+pacman -S mingw-w64-x86_64-openblas
+
+now, assuming you installed MSYS2 to C:\msys64, install hmatrix with
+
+cabal install hmatrix -fopenblas --extra-lib-dir=c:\msys64\mingw64\bin --extra-include-dir=c:\msys32\mingw32\include

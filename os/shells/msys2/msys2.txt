@@ -69,7 +69,8 @@ http://sourceforge.net/p/msys2/wiki/MSYS2%20installation/
 
 I prefer the next update scenario:
 
-pacman --needed -Sy bash pacman pacman-mirrors msys2-runtime
+update-core
+#pacman --needed -Sy bash pacman pacman-mirrors msys2-runtime
 
 restart
 

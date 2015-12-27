@@ -1,6 +1,7 @@
 Books:
 Mitra - Mastering Gradle
 Ch 6 - Property Mgmt (p139-141)
+Varanasi - Introducing Gradle
 
 Presentations:
 http://www.slideshare.net/aestasit/introduction-to-gradle
