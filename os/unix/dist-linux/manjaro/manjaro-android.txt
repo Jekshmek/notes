@@ -2,3 +2,6 @@ https://wiki.archlinux.org/index.php/MTP
 
 gvfs-mtp
 ? android-file-transfer
+
+/etc/fuse.conf
+user_allow_other
