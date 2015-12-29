@@ -35,7 +35,7 @@ FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                 - 0102
 
 Audio:
-Razbor 99                                 -   01:00 (of 2:02:46)
+Razbor 99                                 -   31:30 (of 2:02:46)
 Razbor 03                                 -   10:00 (of 1:33:52)
 Ivliev 63                                 -   00:00 (of   40:16)
 Trauberg                                  -   04:00 (of   56:28)
