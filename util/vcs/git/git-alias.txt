@@ -9,7 +9,7 @@ st = status
 git config --global alias.s status
     global alias for status
 
-    purb "pull --rebase"
+    purb "pull --rebase=preserve"
     rbi "rebase --interactive"
 
     puso "push origin HEAD"
