@@ -18,10 +18,10 @@ Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
 Haskell Stack Mega Tutorial               -1:27:30 (of 2:03:49)
-Long - Getting Started With Spring Boot   -  56:30 (of 1:29:15)
 Petrashko - Dotty                         -  37:00 (of 1:39:23)
 Popov - Parboiled                         -  30:00 (of   59:47)
 Studer - Gradle                           -  28:00 (of   48:54)
+Long - Boot Microservices Spring Cloud    -  21:00 (of 1:15:00)
 Brown - Metaprogramming in Groovy         -  12:30 (of 2:04:08)
 Goetz - Adventures on the Road to Valhalla-  11:00 (of   49:28)
 Gonzalez - Proof                          -  05:00 (of   55:53)
