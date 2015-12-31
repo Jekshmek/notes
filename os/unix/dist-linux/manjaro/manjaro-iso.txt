@@ -1,10 +1,16 @@
-Gnome is currently a community edition with no maintainer.
-However you can download manjaro-tools-iso and the current profiles from our master branch and give it a try yourself by building a ISO:
+TODO: paccache
 
+https://wiki.manjaro.org/index.php?title=Manjaro-tools
 https://github.com/manjaro/manjaro-tools
+
+https://wiki.manjaro.org/index.php?title=Build_Manjaro_ISOs_with_buildiso
+https://forum.manjaro.org/index.php?topic=21976.0
+
+You can download manjaro-tools-iso and the current profiles from our master branch and give it a try yourself by building a ISO:
 
 sudo pacman -S manjaro-tools-iso
 # manjaro-tools-base
+# manjaro-tools-pkg
 
 
 mkdir ~/dev

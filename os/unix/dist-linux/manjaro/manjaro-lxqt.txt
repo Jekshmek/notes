@@ -1,0 +1,3 @@
+https://wiki.manjaro.org/index.php?title=Desktop_Environments#LXQt
+https://wiki.manjaro.org/index.php?title=Minimal_LXQt_installation
+https://wiki.manjaro.org/index.php?title=List_of_Qt_Applications
