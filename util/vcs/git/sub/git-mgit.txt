@@ -12,3 +12,38 @@ https://source.android.com/source/using-repo.html
 https://storage.googleapis.com/git-repo-downloads/repo
 repo help --all
 
+
+create a new dfl:
+
+mgit init dfl
+mgit origin dfl git@github.com:iharh/dfl.git
+
+mgit init meta
+mgit meta add -f .mgit/dfl.origin
+mgit meta commit -m "add dfl origin"
+mgit origin meta git@github.com:iharh/dflmeta.git
+mgit meta remote add origin git@github.com:iharh/dflmeta.git
+mgit meta push -u origin master
+
+mgit dfl add -f .bash_aliases
+mgit dfl ci -m "add .bash_aliases"
+mgit dfl remote add origin git@github.com:iharh/dfl.git
+mgit dfl push -u origin master
+
+commands:
+
+mgit ls-tracked
+mgit st[atus] | ls-modied
+mgit ls-unpushed
+…
+mgit --all add .
+mgit [repo|--all] puso
+mgit [repo|--all] purb
+
+files:
+
+.mgit/meta/.git
+.mgit/dfl/.git
+
+???:
+mgit baseurl dfl https://github.com/iharh/
