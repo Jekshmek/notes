@@ -24,6 +24,13 @@ systemd-system.conf
 ???
 systemd.special
 
+.service
+.device
+  sys-subsystem-net-devices-enp2s0.device
+.mount
+.timer
+.swap
+
 
 Units:
 https://wiki.archlinux.org/index.php/Systemd#Using_units
