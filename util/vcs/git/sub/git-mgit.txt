@@ -1,6 +1,11 @@
 multigit:
 https://github.com/capr/multigit
 
+* clone existing dfl
+
+mgit clone git@github.com:iharh/dflmeta.git
+mgit clone-all
+
 * create a new dfl
 
 mgit baseurl iharh git@github.com:iharh/
