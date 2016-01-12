@@ -1,5 +1,8 @@
 http://tecadmin.net/install-subversion-1-8-on-centos-rhel/
 
+yum remove subversion*
+yum clean all
+
 /etc/yum.repos.d/wandisco-svn.repo
 
 [WandiscoSVN]
