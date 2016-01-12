@@ -1,3 +1,4 @@
+unix-util
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
   Example API
@@ -18,7 +19,7 @@ Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
 Eisenberg - Practical Introduction GADTs  -  12:00 (of 1:20:20)
-Petrashko - Dotty                         -  37:00 (of 1:39:23)
+Petrashko - Dotty                         -  42:40 (of 1:39:23)
 Popov - Parboiled                         -  30:00 (of   59:47)
 Long - Boot Microservices Spring Cloud    -  21:00 (of 1:15:00)
 Brown - Metaprogramming in Groovy         -  12:30 (of 2:04:08)
