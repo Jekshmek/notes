@@ -1,8 +1,8 @@
-sudo useradd jenkins -G docker -p $(openssl passwd -crypt jenkins1)
+sudo useradd jenkins -G users,docker -p $(openssl passwd -crypt jenkins1)
 
   OR
 
-sudo useradd jenkins -G docker
+sudo useradd jenkins -G users,docker
 sudo passwd jenkins
   (set the new passwd equals to jenkins1)
 sudo passwd -S jenkins

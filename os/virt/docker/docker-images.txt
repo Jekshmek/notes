@@ -18,11 +18,13 @@ http://stackoverflow.com/questions/26166550/set-docker-opts-in-centos
 
 https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Resource_Management_and_Linux_Containers_Guide/part-Linux_Containers.html
 
+Old-RH-CentOS:
 /etc/default/docker:
 DOCKER_OPTS="-g /path/to/docker/data"
 
-/usr/lib/systemd/system/docker.service
-ExecStart=/usr/bin/docker -g /data/wrk/dockerimg -d -H fd://
+cp /usr/lib/systemd/system/docker.service /etc/systemd/system/
+/etc/systemd/system/docker.service
+ExecStart=/usr/bin/docker -g /data/wrk/docker-data -d -H fd://
 
 --graph
 default is /var/lib/docker
@@ -44,4 +46,3 @@ docker rmi $(docker images -q -f "dangling=true")
 delete all images
 
 sudo docker rmi -f $(sudo docker images -q)
-
