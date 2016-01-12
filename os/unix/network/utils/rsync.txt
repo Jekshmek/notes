@@ -3,12 +3,20 @@ http://www.unixmen.com/synchronize-files-directories-across-systems-using-rsync/
 rsync
   -a, --archive
     archive mode (preserve user, group, mod-time, links, other kind of such stuff...)
+  --append
+    is dangerous and will result in a corrupt file if the data does not match for some reason.
   -l, --links
     copy symlinks as symlinks
   -P
     same as --partial --progress
-  --append
-    is dangerous and will result in a corrupt file if the data does not match for some reason.
+  -z, --compress
+    compress file data during the transfer
+  --compress-level=NUM    explicitly set compression level
+  --skip-compress=LIST    skip compressing files with a suffix in LIST
+  -v, --verbose               increase verbosity
+  --info=FLAGS            fine-grained informational verbosity
+  --debug=FLAGS           fine-grained debug verbosity
+  --msgs2stderr           special output handling for debugging
 
 Samples:
 rsync -aPvz -e ssh /directory/with/files/ you@host.com:/new/directory/
