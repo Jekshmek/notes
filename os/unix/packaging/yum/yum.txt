@@ -8,7 +8,10 @@ http://blog.packagecloud.io/eng/2015/04/05/yum-cheat-sheet/
 Kernels:
 http://www.if-not-true-then-false.com/2012/delete-remove-old-kernels-on-fedora-centos-red-hat-rhel/
 
+Query:
 rpm -q kernel
+rpm -qf <file>
+  who owns the file
 
 yum install yum-utils
 package-cleanup --oldkernels --count=2
