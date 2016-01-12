@@ -22,6 +22,11 @@ installonly_limit=2
 Installing:
 
 yum install <package>
+
+Removing:
+http://unix.stackexchange.com/questions/23330/how-can-i-remove-orphan-packages-in-fedora
+# package-cleanup --quiet --leaves --exclude-bin | xargs yum remove -y
+
 yum remove|erase <package>
   search
   list|info

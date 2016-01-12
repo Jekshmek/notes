@@ -17,7 +17,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Studer - Gradle                           -  44:00 (of   48:54)
+Allen - How to Learn Haskell              -  10:00 (of   42:28)
 Petrashko - Dotty                         -  37:00 (of 1:39:23)
 Popov - Parboiled                         -  30:00 (of   59:47)
 Long - Boot Microservices Spring Cloud    -  21:00 (of 1:15:00)

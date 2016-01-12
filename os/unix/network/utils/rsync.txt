@@ -16,6 +16,7 @@ rsync
   -v, --verbose               increase verbosity
   --info=FLAGS            fine-grained informational verbosity
   --debug=FLAGS           fine-grained debug verbosity
+    FLAGS=help            for the list of flags
   --msgs2stderr           special output handling for debugging
 
 Samples:
@@ -23,3 +24,4 @@ rsync -aPvz -e ssh /directory/with/files/ you@host.com:/new/directory/
 
 SO:
 http://unix.stackexchange.com/questions/2445/resume-transfer-of-a-single-file-by-rsync
+http://superuser.com/questions/579001/rsync-does-it-create-a-temp-file-during-transfer
