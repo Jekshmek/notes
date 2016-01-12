@@ -10,6 +10,7 @@
 * Deitel - C++11 for Programmers 2nd ed 
 * Prata - C++ Primer Plus 6th ed (Ch 18)
 * Gregorie - Professional Cpp 3rd ed
+* Gottschling - Discovering Modern C++
 
 ### Please, share the following Books if you have
 
