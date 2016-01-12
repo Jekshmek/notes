@@ -3,3 +3,6 @@ du
 ncdu
     http://www.unixmen.com/ncdu-ncurses-disk-usage-analyzer/
     http://dev.yorhel.nl/ncdu
+
+du --one-file-system --human-readable --max-depth=1 | sort --human-numeric-sort
+du -sh

@@ -1,5 +1,17 @@
 http://www.unixmen.com/synchronize-files-directories-across-systems-using-rsync/
 
 rsync
-  -a
-  --progress
+  -a, --archive
+    archive mode (preserve user, group, mod-time, links, other kind of such stuff...)
+  -l, --links
+    copy symlinks as symlinks
+  -P
+    same as --partial --progress
+  --append
+    is dangerous and will result in a corrupt file if the data does not match for some reason.
+
+Samples:
+rsync -aPvz -e ssh /directory/with/files/ you@host.com:/new/directory/
+
+SO:
+http://unix.stackexchange.com/questions/2445/resume-transfer-of-a-single-file-by-rsync
