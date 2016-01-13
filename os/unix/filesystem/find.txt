@@ -19,3 +19,6 @@ find . -name '*.o' -print0 | xargs -0 rm
 
 
 sudo find /etc -type f | sudo xargs grep 'resolv.conf'
+
+???
+find src -type f -name "*.java" -exec cp {} + build/classes
