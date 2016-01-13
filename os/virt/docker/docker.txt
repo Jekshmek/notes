@@ -14,10 +14,12 @@ http://stackoverflow.com/questions/31201846/how-to-use-docker-java-api-to-connec
 /usr/bin/docker -d -H fd:// -H tcp://0.0.0.0:2375
 curl http://localhost:2375/info
 
-
 Articles:
 http://paislee.io/how-to-automate-docker-deployments/
 http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
 http://www.radcortez.com/get-into-docker/
 http://middlewaresnippets.blogspot.com.by/2015/08/spring-boot-and-docker.html
 
+Books:
+Gallagher - Mastering Docker
+Raj - Learning Docker
