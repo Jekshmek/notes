@@ -1,0 +1,4 @@
+Keyrings:
+sudo pacman -Sy archlinux-keyring manjaro-keyring
+sudo pacman-key --refresh-keys
+sudo pacman -Su
