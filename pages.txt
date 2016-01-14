@@ -19,7 +19,7 @@ Presentations:
 Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
-Subramanian - Streams                     -  05:00 (of 1:13:00)
+Subramanian - Streams                     -  15:45 (of 1:13:00)
 Petrashko - Dotty                         -1:01:00 (of 1:39:23)
 Eisenberg - Practical Introduction GADTs  -  12:00 (of 1:20:20)
 Falcou - Migr of C++ Libraries to C++14   -  24:00 (of 1:06:02)
