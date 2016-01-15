@@ -1,0 +1,18 @@
+somename:
+  build: folder/
+  image: imggrp/imgname:1.0
+  image: tonistiigi/dnsdock
+  ports:
+    - "8761:8761"
+  links:
+    - postgres:postgres
+  hostname: cmp
+  links:
+    - dnsdock
+  dns:
+    - 172.17.0.1
+  environment:
+    - DNSDOCK_NAME=tmp1
+    - DNSDOCK_IMAGE=
+  volumes:
+    - /var/run/docker.sock:/run/docker.sock
