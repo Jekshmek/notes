@@ -20,7 +20,6 @@ Syer - Bootiful Applications with Spring  - slide 27
 
 Video:
 Subramanian - Streams                     -  40:45 (of 1:13:00)
-Round Table - High Load                   -  36:00 (of   54:00)
 Eisenberg - Practical Introduction GADTs  -  12:00 (of 1:20:20)
 Falcou - Migr of C++ Libraries to C++14   -  24:00 (of 1:06:02)
 Long - Boot Microservices Spring Cloud    -  21:00 (of 1:15:00)
@@ -37,7 +36,6 @@ FRP - Scala                               - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                 - 0102
 
 Audio:
-Bananas 19                                -   24:00 (of 1:07:05)
 Razbor 99                                 -   31:30 (of 2:02:46)
 Razbor 03                                 -   10:00 (of 1:33:52)
 Ivliev 65                                 -   00:00 (of   42:02)
