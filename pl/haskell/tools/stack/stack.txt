@@ -6,6 +6,10 @@ download/releases:
 https://github.com/commercialhaskell/stack/releases
 
 stack-arch:
+- Arch Linux: Stack has been adopted into the official community repository:
+http://docs.haskellstack.org/en/stable/install_and_upgrade.html#arch-linux
+If you use the ArchHaskell repository, you can also get the haskell-stack-tool package from there.
+
 https://aur.archlinux.org/packages/haskell-stack/
 https://aur.archlinux.org/packages/libtinfo
 

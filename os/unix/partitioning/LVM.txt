@@ -49,3 +49,14 @@ http://sourceforge.net/projects/gparted/files/gparted-live-stable/
 http://gparted.sourceforge.net/display-doc.php?name=gparted-live-manual
 http://gparted.sourceforge.net/display-doc.php?name=help-manual
 
+Samples:
+1. Create a primary partition at /dev/sdb with type 8e (Linux LVM)
+sudo pvcreate /dev/sdb1
+sudo pvdisplay [-m] [/dev/sdb1]
+
+sudo vgextend VolGroup00 /dev/sdb1
+
+lvdisplay ???
+sudo lvextend /dev/VolGroup00/LogVol00 /dev/sdb1
+
+date && sudo resize2fs /dev/VolGroup00/LogVol00 && date
