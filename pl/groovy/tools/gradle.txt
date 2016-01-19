@@ -39,6 +39,9 @@ Integration Testing:
 http://www.slideshare.net/SpringCentral/continuous-delivery-with-gradle-and-jenkins
 http://www.slideshare.net/SpringCentral/cd-pipeline-gradlejenkins
 
+Dependency Management:
+http://habrahabr.ru/company/redmadrobot/blog/275515/
+
 PL support:
 
 apply plugin: 'java'
