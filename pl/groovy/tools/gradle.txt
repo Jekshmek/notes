@@ -14,8 +14,9 @@ http://www.slideshare.net/Strannik_2013/gradle-2write-once-builde-everywhere
 Articles:
 http://igorpopov.io/2014/05/01/understanding-gradle/
 
-API:
+API-DSL:
 https://docs.gradle.org/current/dsl/
+https://docs.gradle.org/current/dsl/index.html
 https://docs.gradle.org/current/dsl/org.gradle.api.Project.html
 
 Cmd-line:
