@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 19 17:54:36 MSK 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0152-5a61-5c63-00000e895d70 
+on database directory C:\Users\Ihar_Hancharenka\.be\re\webdav\cmd\syncdb with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/D:/dev/pl/java/jtools/webdav_sync/webdav_sync1_1_4.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=d:\dev\notes
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
