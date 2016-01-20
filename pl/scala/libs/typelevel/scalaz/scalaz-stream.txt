@@ -20,7 +20,11 @@ https://gist.github.com/djspiewak/d93a9c4983f63721c41c
 
 Presentations:
 
-http://youtu.be/8fC2V9HX_m8
+Chiusano - Advanced Stream Processing in Scala 
+https://youtu.be/8fC2V9HX_m8
+
+Spiewak - Lawful Asynchronous Programming
+https://youtu.be/B0L91sW3XHw
 
 Bjarnasson - scala.io - Purely functional io in scala:
 http://blog.higher-order.com/assets/scalaio.pdf
