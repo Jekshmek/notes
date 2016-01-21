@@ -1,0 +1,7 @@
+loginctl
+systemd-logind.service
+logind.conf
+
+/etc/systemd/logind.conf:
+...
+HandlePowerKey=poweroff
