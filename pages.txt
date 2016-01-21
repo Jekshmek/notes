@@ -1,3 +1,4 @@
+LXF199-2015-Aug - p58
 ?? pbcopy/pbpaste
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
@@ -9,7 +10,6 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Volkov - Databases Can Be Programmed Against Decl   -  20:00 (of   35:46)
 Eisenberg - Practical Introduction GADTs            -  12:00 (of 1:20:20)
 Falcou - Migr of C++ Libraries to C++14             -  24:00 (of 1:06:02)
 Spiewak - Lawful Asynchronous Programming           -  22:00 (of 1:04:31)
@@ -26,7 +26,7 @@ FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
 Audio:
-Razbor 100                                          - 1:11:30 (of 2:09:33)
+Razbor 100                                          - 1:30:30 (of 2:09:33)
 Razbor 03                                           -   10:00 (of 1:33:52)
 Ivliev 66                                           -   00:00 (of   55:53)
 Paschenko - 1                                       -   12:00 (of 1:00:03)

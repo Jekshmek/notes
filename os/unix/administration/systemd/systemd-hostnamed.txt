@@ -1,0 +1,4 @@
+sudo systemctl restart systemd-hostnamed
+  it is terminated when unused
+
+hostnamectl set-hostname dlp.server.world
