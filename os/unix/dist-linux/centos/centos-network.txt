@@ -39,11 +39,12 @@ IPADDR=<ip-addr>
 MASTER=bond0
 SLAVE=yes
 
+# !!! mandatory both for CentOS 6 and 7
 /etc/sysconfig/network
 
-NETWORKER=yes
 HOSTNAME=...
 GATEWAY=<ip-gateway>
+NETWORKER=yes
 
 /etc/resolv.conf
 

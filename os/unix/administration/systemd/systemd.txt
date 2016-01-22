@@ -3,7 +3,13 @@ https://wiki.archlinux.org/index.php/systemd
 http://www.freedesktop.org/wiki/Software/systemd/TipsAndTricks/
 http://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
 
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html
+
+Systemd CentOS 7 service cheatsheat
 http://habrahabr.ru/company/infobox/blog/241237/
+
+Writing custom .service and .target
+https://habrahabr.ru/post/275645/
 
 man
 http://www.freedesktop.org/software/systemd/man/systemd.unit.html

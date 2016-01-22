@@ -4,6 +4,9 @@ https://wiki.archlinux.org/index.php/Active_Directory_Integration_%28%D0%A0%D1%8
 aur/realmd
 http://www.tux.in.ua/articles/3824
 
+RH
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/ch-Configuring_Authentication.html
+SSSD
 
 CentrifyDC
 https://kb.brightcomputing.com/faq/index.php?action=artikel&cat=13&id=234
