@@ -26,7 +26,6 @@ FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
 Audio:
-Bananas                                             -   16:00 (of   59:32)
 Razbor 100                                          - 1:30:30 (of 2:09:33)
 Razbor 03                                           -   10:00 (of 1:33:52)
 Ivliev 66                                           -   00:00 (of   55:53)
