@@ -1,6 +1,6 @@
 http://www.unixmen.com/install-oh-zsh-ubuntu-arch-linux-fedora/
 
-sudo pacman -S zsh
+sudo pacman -S zsh zsh-lovers zsh-completions zsh-history-substring-search zsh-lovers zsh-syntax-highlighting
 chsh -s `which zsh`
 
 The function will not be run in future, but you can run it yourself as follows:
