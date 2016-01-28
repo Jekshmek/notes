@@ -57,6 +57,7 @@
 
 ## Video
 
+* [Falcou - Migrating of C++ Libraries to C++14] (https://www.youtube.com/watch?v=idPThkw2p6c)
 * [Sutter about VS 2013] (http://events.visualstudio.com/eng/sessions/details/?SessionProfile=1876)
 * [Lavavej - Core Cpp] (http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Core-Cpp-10)
 * [Qian - Modern C++] (https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH)
