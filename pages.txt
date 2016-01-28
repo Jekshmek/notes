@@ -22,7 +22,7 @@ Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
-LiveLessons - Git under the hood - 10               -  01:00 (of   21:30)
+LiveLessons - Git under the hood - 11               -  01:00 (of   15:08)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
