@@ -18,3 +18,9 @@ the_silver_searcher
 
 --cpp
 --java
+
+~/.agignore
+https://github.com/junegunn/dotfiles/blob/master/agignore
+
+  -p --path-to-agignore STRING
+                          Use .agignore file at STRING

@@ -10,26 +10,26 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Goetz - Adventures on the Road to Valhalla          -  22:30 (of   49:28)
-Brown - Metaprogramming in Groovy                   -  12:30 (of 2:04:08)
+Brown - Metaprogramming in Groovy                   -  36:30 (of 2:04:08)
+Goetz - Adventures on the Road to Valhalla          -  30:30 (of   49:28)
+Gonzalez - Secure Execution of Untrusted Scripts    -  15:00 (of   43:22)
+Gonzalez - How to prove large software projects     -  13:30 (of   55:58)
 Eisenberg - Practical Introduction GADTs            -  12:00 (of 1:20:20)
-Fundamentals of Monitoring with Spring Boot         -  05:30 (of   09:37)
-Gonzalez - Proof                                    -  05:00 (of   55:53)
 Ward - Production time profiling with JFR           -  04:00 (of   50:24)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
+LiveLessons - Git under the hood - 12               -  01:00 (of   13:58)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
-LiveLessons - Git under the hood - 11               -  01:00 (of   15:08)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
 Audio:
-Razbor 03                                           -   10:00 (of 1:33:52)
+Razbor 03                                           -   35:00 (of 1:33:52)
 Ivliev 67                                           -   00:00 (of   33:42)
-Paschenko - 2                                       -   12:00 (of   49:27)
+Paschenko - 1                                       -   00:00 (of   36:04)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
