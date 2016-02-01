@@ -1,0 +1,2 @@
+https://github.com/bhilburn/powerlevel9k
+https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions

@@ -1,3 +1,5 @@
+http://zsh.sourceforge.net/Doc/Release/index-frame.html
+
 1. zsh cmd-line options
 
 -l, --login
@@ -43,5 +45,4 @@ Startup files:
 
 
 2. !!! find a way to always list (ls) hidden (.*) files
-
 

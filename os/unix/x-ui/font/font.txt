@@ -1,0 +1,15 @@
+https://wiki.archlinux.org/index.php/Font_configuration
+https://wiki.archlinux.org/index.php/Font_configuration_%28%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%29
+
+collections:
+https://github.com/ryanoasis/nerd-fonts
+
+ttf-hack
+https://github.com/chrissimpkins/Hack#desktop-installation
+http://sourcefoundry.org/hack/
+
+powerline:
+https://github.com/stefano-meschiari/dotemacs/blob/master/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
+
+commercial:
+Pragmata Pro
