@@ -40,5 +40,6 @@ vim :h
 Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
-http://accu.org/index.php/journals/c78/   - 130
 https://www.fpcomplete.com/recent-content - 22 Dec
+http://accu.org/index.php/journals/c78/   - 130
+LXF207|3 Feb 2016
