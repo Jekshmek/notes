@@ -1,3 +1,5 @@
+http://zshwiki.org/home/zle/bindkeys
+
 1. bindkey
 
 -L
