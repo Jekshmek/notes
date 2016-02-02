@@ -12,10 +12,12 @@ Editing:
 {code}
 {panel}
 
+https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=links
 [^attachment-file-name.ext]
 
-https://confluence.atlassian.com/display/CONF51/Linking+to+Pages
-
+https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=images
+!image.jpg!
+!image.jpg|thumbnail!
 
 Advanced search:
 https://confluence.atlassian.com/display/JIRA/Advanced+Searching
