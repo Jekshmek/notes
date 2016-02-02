@@ -46,3 +46,7 @@ hot keys:
 C-A + C
 C-A + V
 C   + D  close the current tab
+
+tabbed:
+urxvt -pe tabbed
+  much better than urxvt-tabbed
