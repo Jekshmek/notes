@@ -45,3 +45,4 @@ bindkey "\e[3~" delete-char        # Delete
 hot keys:
 C-A + C
 C-A + V
+C   + D  close the current tab
