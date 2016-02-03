@@ -1,4 +1,30 @@
-Ext:
+Extension methods
+/META-INF/services/org.codehaus.groovy.runtime.ExtensionModule
+
+moduleName=runtime-metaprogramming
+moduleVersion=1.0
+extensionClasses=devoxx.demo.StringExtensions [, ...]
+
+StringExtensions.groovy
+package devoxx.demo
+class StringExtensions {
+    static int getMagicNumber(String instance) {
+        42
+    }
+    static int doSomething(Integer instance, Integer arg1, Ingeter arg2) {
+        ...
+    }
+}
+
+Metaclass:
+class Widget {}
+
+Widget.metaClass.methodMissing = { String mn, args ->
+    println "in methodMissing for method: $mn"
+}
+
+
+Extension modules:
 http://docs.groovy-lang.org/latest/html/documentation/#_extension_modules
 
 http://habrahabr.ru/post/215343/

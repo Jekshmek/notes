@@ -10,22 +10,21 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Brown - Metaprogramming in Groovy                   -  51:30 (of 2:04:08)
+Brown - Metaprogramming in Groovy                   -1:16:00 (of 2:04:08)
 Eisenberg - Practical Introduction GADTs            -  12:00 (of 1:20:20)
-Ward - Production time profiling with JFR           -  04:00 (of   50:24)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-LiveLessons - Git under the hood - 12               -  01:00 (of   13:58)
+LiveLessons - Git under the hood - 13               -  00:00 (of   13:40)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
 Audio:
-Razbor 03                                           -   35:00 (of 1:33:52)
-Ivliev 68                                           -   00:00 (of   43:09)
+Razbor 03                                           -   59:00 (of 1:33:52)
+Ivliev 70                                           -   00:00 (of   43:48)
 Paschenko - 2                                       -   00:00 (of   31:25)
 
 Books:
@@ -39,4 +38,4 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
 http://accu.org/index.php/journals/c78/   - 130
-LXF207|3 Feb 2016
+LXF                                       - 206..207|3 Feb 2016

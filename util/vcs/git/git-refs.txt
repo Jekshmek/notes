@@ -54,3 +54,5 @@ For the most part, HEAD is the only reference that you’ll be using directly.
 The others are generally only useful when writing lower-level scripts that need to hook into Git’s internal workings.
 
 
+Symbolic Refs
+git symbolic-ref ...
