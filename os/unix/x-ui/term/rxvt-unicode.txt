@@ -1,5 +1,5 @@
 inst:
-yaourt -S rxvt-unicode-patched gtk2-perl
+yaourt -S rxvt-unicode-patched gtk2-perl urxvt-tabbedex
 
 http://www.askapache.com/linux/rxvt-xresources.html
 http://zenux.ru/articles/48/
@@ -48,6 +48,9 @@ http://www.linuxquestions.org/questions/slackware-14/getting-keyboard-to-functio
 https://forums.gentoo.org/viewtopic.php?t=50257
 bindkey "\e[3~" delete-char        # Delete 
 
+extensions:
+man rxvt-extensions
+
 
 tabbed:
 http://linuxoid.in/Urxvt
@@ -57,3 +60,7 @@ urxvt -pe tabbed
 
 ~/.Xresources:
 xvt.perl-ext-common: tabbed
+
+tabbedex:
+yaourt -S urxvt-tabbedex
+xvt.perl-ext-common: default,tabbedex
