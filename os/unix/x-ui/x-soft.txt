@@ -51,4 +51,3 @@ slim (login manager)
   /etc/slim.conf
 
   current_theme
-
