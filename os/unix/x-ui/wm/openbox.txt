@@ -46,3 +46,6 @@ http://www.linuxandlife.com/2012/05/how-to-change-log-out-icons-in-archbang.html
 [looks]
 ...
 buttontheme = oxygen
+
+Keys:
+http://melp.nl/2011/01/10-must-have-key-and-mouse-binding-configs-in-openbox/
