@@ -1,5 +1,5 @@
 inst:
-yaourt -S rxvt-unicode-patched gtk2-perl urxvt-tabbedex
+yaourt -S rxvt-unicode-patched gtk2-perl urxvt-tabbedex urxvt-perls
 
 http://www.askapache.com/linux/rxvt-xresources.html
 http://zenux.ru/articles/48/
@@ -64,3 +64,9 @@ xvt.perl-ext-common: tabbed
 tabbedex:
 yaourt -S urxvt-tabbedex
 xvt.perl-ext-common: default,tabbedex
+
+urxvt-perls: keyboard-select, clipboard:
+http://funloop.org/post/2015-06-25-urxvt-plugins.html
+
+clipboard (std - selection-to-clipboard)
+copy selection to the clipboard each time it's made
