@@ -26,6 +26,9 @@ ADTs, GADTs:
 http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers.html
 http://www.haskellforall.com/2012/06/gadts.html
 
+CT:
+http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html
+
 Functors:
 http://www.haskellforall.com/2011/12/haskell-for-mainstream-programmers-code.html
 http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_04.html

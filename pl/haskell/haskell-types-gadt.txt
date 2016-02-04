@@ -1,0 +1,66 @@
+Eisenberg - LambdaConf 2015 - A Practical Introduction to Haskel GADTs
+https://github.com/goldfirere/glambda
+
+{- *** 1 *** -}
+
+{-# LANGUAGE GADTs #-}
+
+{- data Maybe a = Nothing | Just a -}
+
+{- in plain ADTs the 2 c-tors just return a "Maybe a" -}
+
+data STy ty where
+  SInt  :: STy Int
+  SBool :: STy Bool
+
+{- In GADTs we return either "STy Int" or "STy Bool" -}
+
+zero :: STy ty -> ty
+zero SInt = 0
+zero SBool = False
+
+{- STy is actually a singleton-type.
+   If we have "STy Int", the only possible value we can give is SInt
+
+   STy is an indexed-type (it uses a parameter)
+-}
+
+
+{- *** 2 *** -}
+
+data STy ty where
+  SInt   :: STy Int
+  SBool  :: STy Bool
+  SMaybe :: STy ty' -> STy (Maybe ty')
+
+
+zero :: STy ty -> ty
+zero SInt       = 0
+zero SBool      = False
+zero (SMaybe _) = Nothing
+
+{- when we pattern-match, we learn about the types -}
+
+
+{- *** 3 *** -}
+
+data STy ty
+  = (ty ~ Int)  => SInt
+  | (ty ~ Bool) => SBool
+  | forall ty'. (ty ~ Maybe ty') => SMaybe (STy ty')
+
+zero :: STy ty -> ty
+zero SInt       = 0
+zero SBool      = False
+zero (SMaybe _) = Nothing
+
+{-
+    a little-more traditional syntax
+    (~) - is a type equality
+
+    SMaybe is called an existential data c-tor, package up a ty'
+-}
+
+{- !!! pattern-matching a term reveals type information
+   (gives type-level information)
+-}

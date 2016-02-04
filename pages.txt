@@ -10,13 +10,14 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Brown - Metaprogramming in Groovy                   -1:16:00 (of 2:04:08)
-Eisenberg - Practical Introduction GADTs            -  12:00 (of 1:20:20)
+TS                                                  -  36:00
+Brown - Metaprogramming in Groovy                   -1:34:00 (of 2:04:08)
+Eisenberg - Practical Introduction GADTs            -  25:00 (of 1:20:20)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-LiveLessons - Git under the hood - 13               -  00:00 (of   13:40)
+LiveLessons - Git under the hood - 14               -  00:00 (of   17:38)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
