@@ -41,4 +41,17 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
 http://accu.org/index.php/journals/c78/   - 130
-LXF                                       - 206..207|3 Feb 2016
+LXF                                       - 205..207|3 Feb 2016
+68|LXF205 - Samba
+72|LXF205 - LVM (LXF203 - other FS)
+80|LXF205 - rpm, yum and dnf
+
+Linux Cert Store Sync - version 4.2.2.0
+Synchronize local certs with certs from local Linux trust store.
+Copyright 2002, 2003 Motus Technologies. Copyright 2004-2008 Novell. BSD licensed.
+
+I already trust 156, your new list has 168
+..
+139 new root certificates were added to your trust store.
+Import process completed.
+

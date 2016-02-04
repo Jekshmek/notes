@@ -1,8 +1,0 @@
-Linux Cert Store Sync - version 4.2.2.0
-Synchronize local certs with certs from local Linux trust store.
-Copyright 2002, 2003 Motus Technologies. Copyright 2004-2008 Novell. BSD licensed.
-
-I already trust 156, your new list has 168
-..
-139 new root certificates were added to your trust store.
-Import process completed.
