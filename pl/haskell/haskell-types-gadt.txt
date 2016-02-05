@@ -64,3 +64,31 @@ zero (SMaybe _) = Nothing
 {- !!! pattern-matching a term reveals type information
    (gives type-level information)
 -}
+
+----
+{-# LANGUAGE GADTs, StandaloneDeriving #-}
+deriving instance Show (STy ty)
+!!! if you encounter untouchabe bla-bla error, just add direct type signature
+----
+
+
+{- *** ScopedTypeVariables *** -}
+
+foo :: a -> ...
+foo x = ...
+  where fhelper :: a
+        fhelper = ...
+
+bar :: forall a. a -> ...
+bar x = ...
+  where bhelper :: a
+        bhelper = ...
+
+{-
+  Strange, but: in the body of foo, fhelper and x have different types
+                in the body of bar, bhelper and x have the same  types
+  !!! add ScopedTypeVariables ext !!!
+-}
+{-
+    GHC bug #3927: Pattern warnings + GADTs = Inadequate
+-}

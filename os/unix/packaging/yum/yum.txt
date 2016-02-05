@@ -76,4 +76,8 @@ cat /etc/centos-release
 
 
 searching:
-whatprovides "*/g++"
+yum list [installed|all|available]
+yum grouplist|repolist
+yum whatprovides "*/g++"
+rpm -ql <package>
+    list files of the <package>

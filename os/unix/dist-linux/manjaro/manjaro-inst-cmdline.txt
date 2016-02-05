@@ -1,3 +1,13 @@
+/opt/livecd
+https://github.com/manjaro/manjaro-tools-livecd/tree/master/livecd-cli-installer/opt/livecd
+util-inst.txt
+
+sgdisk (gptfdisk)
+http://www.rodsbooks.com/gdisk/sgdisk-walkthrough.html
+
+
+Old Arch Way:
+
 http://eddmann.com/posts/arch-linux-and-awesome-wm-installation-notes/
 
 Base Installation

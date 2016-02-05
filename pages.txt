@@ -1,6 +1,5 @@
-LANG-542, LANG-470
+LANG-470
 
-LXF199-2015-Aug - p58
 ?? pbcopy/pbpaste
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
@@ -12,14 +11,14 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-TS                                                  -  36:00
-Brown - Metaprogramming in Groovy                   -1:34:00 (of 2:04:08)
-Eisenberg - Practical Introduction GADTs            -  25:00 (of 1:20:20)
+AJ                                                  -  10:00 (of ??)
+Eisenberg - Practical Introduction GADTs            -  42:30 (of 1:20:20)
+Isaacson - Fundamentals of Type-Dependent Code Reuse-  06:00 (of   40:55)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-LiveLessons - Git under the hood - 14               -  00:00 (of   17:38)
+LiveLessons - Git under the hood - 15               -  00:00 (of   20:47)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
@@ -27,7 +26,7 @@ RequireJS                                           - 0102
 
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
-Ivliev 70                                           -   00:00 (of   43:48)
+Ivliev 71                                           -   00:00 (of   46:54)
 Paschenko - 3                                       -   00:00 (of 1:14:40)
 
 Books:
@@ -54,4 +53,3 @@ I already trust 156, your new list has 168
 ..
 139 new root certificates were added to your trust store.
 Import process completed.
-

@@ -59,3 +59,42 @@ class MagicNumberTransformation implements ASTTransformation {
         classNode.addMethod(mn)
     }
 }
+
+OOB AST transformations:
+@Delegate
+@Immutable
+@PackageScope
+@Singleton
+
+class SomeThing {
+    @Delegate
+    Map props = [:]
+    // The @Delegate will add all the Map-methods to SomeThing and delegate them to props
+    // But, of cause, we can override a generated behaviour
+}
+
+************************
+
+@GroovyASTTransformation
+class MagicNumberTransformation implements ASTTransformation {
+    @Override
+    void visit(ASTNode[] nodes, SourceUnit source) {
+        ClassNode classNode = nodes[1] // 0 - annotation node, 1 - Foo-class-node
+
+        def astNodes = new AstBuilder().buildFromSpec(
+            method('getMagicNumber', Modifier.PUBLIC, Integer) {
+                parameters {}
+                exceptions {}
+                block {
+                    returnStatement {
+                        return 42
+                    }
+                }
+            }
+        )
+
+        def method = astNodes[0]
+        classNode.addMethod(method)
+    }
+}
+
