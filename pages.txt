@@ -28,7 +28,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
 Ivliev 70                                           -   00:00 (of   43:48)
-Paschenko - 2                                       -   00:00 (of   31:25)
+Paschenko - 3                                       -   00:00 (of 1:14:40)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
