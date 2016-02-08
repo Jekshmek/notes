@@ -1,5 +1,3 @@
-LANG-470
-
 ?? pbcopy/pbpaste
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
@@ -11,14 +9,14 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-AJ                                                  -  10:00 (of ??)
+KO                                                  -  26:04
+AJ                                                  -  24:00 (of   55:00)
 Eisenberg - Practical Introduction GADTs            -  42:30 (of 1:20:20)
-Isaacson - Fundamentals of Type-Dependent Code Reuse-  06:00 (of   40:55)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-LiveLessons - Git under the hood - 15               -  00:00 (of   20:47)
+LiveLessons - Git under the hood - 16               -  00:00 (of   29:27)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
@@ -27,7 +25,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
 Ivliev 71                                           -   00:00 (of   46:54)
-Paschenko - 3                                       -   00:00 (of 1:14:40)
+Paschenko - 4                                       -   00:00 (of 1:15:20)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
@@ -44,6 +42,7 @@ LXF                                       - 205..207|3 Feb 2016
 68|LXF205 - Samba
 72|LXF205 - LVM (LXF203 - other FS)
 80|LXF205 - rpm, yum and dnf
+184,188,191,198,199 - SystemD
 
 Linux Cert Store Sync - version 4.2.2.0
 Synchronize local certs with certs from local Linux trust store.
