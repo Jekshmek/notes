@@ -9,14 +9,14 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Eisenberg - Practical Introduction GADTs            -  52:30 (of 1:20:20)
 KO                                                  -  26:04
 AJ                                                  -  24:00 (of   55:00)
-Eisenberg - Practical Introduction GADTs            -  42:30 (of 1:20:20)
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
+LiveLessons - Git under the hood - 16               -  11:00 (of   29:27)
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-LiveLessons - Git under the hood - 16               -  00:00 (of   29:27)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
@@ -24,7 +24,7 @@ RequireJS                                           - 0102
 
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
-Ivliev 71                                           -   00:00 (of   46:54)
+Ivliev 72                                           -   00:00 (of   41:38)
 Paschenko - 4                                       -   00:00 (of 1:15:20)
 
 Books:
@@ -38,10 +38,9 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
 http://accu.org/index.php/journals/c78/   - 130
-LXF                                       - 205..207|3 Feb 2016
-68|LXF205 - Samba
-72|LXF205 - LVM (LXF203 - other FS)
-80|LXF205 - rpm, yum and dnf
+LXF                                       - 204..207|3 Feb 2016
+51|LXF204 - kubernetes
+52|LXF197 - escape the gui
 184,188,191,198,199 - SystemD
 
 Linux Cert Store Sync - version 4.2.2.0

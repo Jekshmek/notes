@@ -1,0 +1,21 @@
+Query:
+
+rpm
+  -qa
+    list all the installed packages
+  -qa <package>
+    ???
+  -q <package>
+    check if the package is installed
+  -qc <package>
+    what configuration files are in this package name
+  -qi <package>
+    what dependencies are in this package name
+  -qf <file>
+    who owns the file
+  -ql <package>
+    list files of the <package>
+  -qp <package>
+    what is not installed in this <package> yet
+  -qpR <package>
+    what dependencies are in this package name ???

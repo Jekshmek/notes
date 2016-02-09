@@ -5,16 +5,10 @@ https://www.centos.org/docs/5/html/5.1/Deployment_Guide/s1-yum-useful-commands.h
 http://www.computerhope.com/unix/yum.htm
 http://blog.packagecloud.io/eng/2015/04/05/yum-cheat-sheet/
 
+80|LXF205 - rpm, yum and dnf
+
 Kernels:
 http://www.if-not-true-then-false.com/2012/delete-remove-old-kernels-on-fedora-centos-red-hat-rhel/
-
-Query:
-rpm -q kernel
-rpm -qf <file>
-  who owns the file
-
-yum install yum-utils
-package-cleanup --oldkernels --count=2
 
 permanent number of kernels:
 
@@ -76,8 +70,12 @@ cat /etc/centos-release
 
 
 searching:
-yum list [installed|all|available]
+yum list [installed|all|available|updates]
 yum grouplist|repolist
 yum whatprovides "*/g++"
 rpm -ql <package>
     list files of the <package>
+
+history:
+yum history
+    history of yum runs

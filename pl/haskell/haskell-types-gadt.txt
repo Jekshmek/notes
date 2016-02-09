@@ -92,3 +92,45 @@ bar x = ...
 {-
     GHC bug #3927: Pattern warnings + GADTs = Inadequate
 -}
+
+
+{- *** 4 *** -}
+
+data STy ty where
+  SInt   :: STy Int
+  SBool  :: STy Bool
+  SMaybe :: STy ty' -> STy (Maybe ty')
+
+zero :: STy ty -> ty
+zero SInt       = 0
+zero SBool      = False
+zero (SMaybe _) = Nothing
+
+eqSTy :: STy ty -> STy ty -> Bool
+eqSTy SInt SInt = true
+eqSTy SBool SBool = true
+{- pattern-matching non-ex... if we en-up right here -}
+eqSTy (SMaybe a) (SMaybe b) = a `eqSTy` b
+{- bogus warning about missing clauses, have appropriate GHC bug #3927 -}
+
+{- *** HList *** -}
+{- *** 4 *** -}
+
+{-# LANGUAGE GADTs, TypeOperators, DataKinds, PolyKinds #-}
+
+module HList where
+
+data HList tys where
+  Nil  :: HList '[]
+  (:>) :: h -> HList t -> HList (h ': t)
+infixr 5 :>
+
+{- tys - the whole list of types
+  HList '[]
+    -- this Nil - is a data c-tor, which creates an HList with a list of types of the elements is empty
+  HList (h ': t)
+    -- ...
+
+  :t (True :> () :> [Just 'x'] :> "hi" :> Nil)
+  :: HList '[Bool, (), [Maybe Char], [Char]]
+-}
