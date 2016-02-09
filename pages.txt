@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
+
 ?? pbcopy/pbpaste
 URLs:
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
@@ -10,8 +12,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Eisenberg - Practical Introduction GADTs            -  52:30 (of 1:20:20)
-KO                                                  -  26:04
-AJ                                                  -  24:00 (of   55:00)
+KO                                                  -  81:30
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
@@ -38,7 +39,7 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
 http://accu.org/index.php/journals/c78/   - 130
-LXF                                       - 204..207|3 Feb 2016
+LXF                                       - 203..207|3 Feb 2016
 51|LXF204 - kubernetes
 52|LXF197 - escape the gui
 184,188,191,198,199 - SystemD
