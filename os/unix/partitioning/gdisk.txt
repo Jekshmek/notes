@@ -18,4 +18,3 @@ Number  Start (sector)    End (sector)  Size       Code  Name
    4       128255954       144255953   7.6 GiB     0700  
    5       144255954       272255953   61.0 GiB    0700  
    6       272255954       409599966   65.5 GiB    0700  
-
