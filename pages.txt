@@ -16,7 +16,7 @@ KO                                                  -  81:30
 Nash - Testdriven Cpp with Catch                    -  01:00 (of 1:03:03)
 
 Series:
-LiveLessons - Git under the hood - 16               -  11:00 (of   29:27)
+LiveLessons - Git under the hood - 17               -  00:00 (of   40:40)
 Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
 Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
