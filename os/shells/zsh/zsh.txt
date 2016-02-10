@@ -1,3 +1,5 @@
+Docs:
+man zsh-lovers
 https://wiki.archlinux.org/index.php/zsh
 http://zsh.sourceforge.net/Doc/Release/index-frame.html
 
