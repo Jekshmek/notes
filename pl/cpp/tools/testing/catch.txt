@@ -3,3 +3,16 @@ https://github.com/colonelsammy/Catch
 http://meetingcpp.com/index.php/tv14/items/2.html
 http://www.reddit.com/r/cpp/comments/2t8c7e/testdriven_c_with_catch/
 https://www.youtube.com/watch?v=C2LcIp56i-8
+
+
+int
+add(int a, int b) {
+    return a + b;
+}
+
+#define CATCH_CONFIG_MAIN
+#include <catch.hpp>
+
+TEST_CASE("should add two numbers", "[add]") { // [...] - is a tag
+    REQUIRE(add(1, 2) == 3);
+}

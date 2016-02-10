@@ -134,3 +134,23 @@ infixr 5 :>
   :t (True :> () :> [Just 'x'] :> "hi" :> Nil)
   :: HList '[Bool, (), [Maybe Char], [Char]]
 -}
+
+data Elem list elt where
+  EZ :: Elem (x ': xs) x
+  ES :: Elem xs x -> Elem (
+
+{-
+  EZ - Z stands for zero here
+  ES - S stands for successor here
+
+  :t EZ :: Elem '[Bool, Int] Bool
+  EZ :: Elem '[Bool, Int] Bool :: Elem '[Bool, Int] Bool
+
+  :t ES EZ :: Elem '[Bool, Int] Int
+  ES EZ :: Elem '[Bool, Int] Int :: Elem '[Bool, Int] Int
+-}
+
+get :: Elem tys ty -> HList tys -> ty
+get EZ (x :> _) = x
+get (ES e) (_ :> xs) = get e xs
+{- warn about incomplete pattern-matching because of the same GHC bug -}
