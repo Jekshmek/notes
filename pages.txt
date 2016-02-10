@@ -39,7 +39,8 @@ https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
 http://accu.org/index.php/journals/c78/   - 130
-LXF                                       - 21|202..207|3 Feb 2016
+LXF                                       - 202..207|3 Feb 2016
 51|LXF204 - kubernetes
 52|LXF197 - escape the gui
+72|LXF202 - LVM
 184,188,191,198,199 - SystemD
