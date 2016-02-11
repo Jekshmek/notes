@@ -154,3 +154,28 @@ get :: Elem tys ty -> HList tys -> ty
 get EZ (x :> _) = x
 get (ES e) (_ :> xs) = get e xs
 {- warn about incomplete pattern-matching because of the same GHC bug -}
+
+
+{- *** HList *** -}
+{- *** 5 *** -}
+
+{-# LANGUAGE GADTs, DataKinds, PolyKinds, TypeOperators, TypeFamilies, ScopedTypeVariables #-}
+
+module Language.Glambda.Exp (
+  Exp(..), Elem(..), Val(..), val, prettyVal, eqExp
+) where
+
+import Language.Glambda.Pretty
+import Language.Glambda.Token
+import Language.Glambda.Util
+import Language.Glambda.Type
+
+import Text.PrettyPrint.ANSI.Leijen
+
+-- | @Elem xs x@ is evidence that @x@ is in the list @xs@
+-- @EZ :: Elem xs x@ is evidence that @x@ is in the firts element of @xs@
+-- @ES ev :: Elem xs x@ is evidence that @x@ is one position later in
+-- @xs@ than is indicated in @ev@
+data Elem :: [a] -> a -> * where
+  EZ :: Elem (x ': xs) x
+  ES :: Elem xs x -> Elem (y ': xs) x

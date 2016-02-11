@@ -14,3 +14,5 @@ mount /dev/sr0 /media/cdrom0
 sh /media/cdrom0/VBoxLinuxAdditions.run
 umount /dev/sr0
 
+Linux install:
+modprobe vboxdrv

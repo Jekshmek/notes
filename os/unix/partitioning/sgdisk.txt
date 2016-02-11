@@ -1,6 +1,8 @@
+GPT drops CHS (cylinder/head/sector) addressing and uses 64-bit LBA mode exclusively
+
+
 sudo sgdisk -L
     list of partition types
-
 
 sudo sgdisk -p /dev/sda
 
@@ -32,3 +34,9 @@ major minor  #blocks  name
  8        3   97656250 sda3
  8        4  107015756 sda4
 11        0    1048575 sr0
+
+
+sudo sgdisk -og /dev/sda
+
+-g (--mbrtogpt)
+  -s - sort (to eliminate the gaps during MBR to GPT conversion)
