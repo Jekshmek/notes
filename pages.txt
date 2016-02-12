@@ -16,16 +16,16 @@ KO                                                  -  81:30
 Nash - Testdriven Cpp with Catch                    -  21:00 (of 1:03:03)
 
 Series:
-LiveLessons - Git under the hood - 17               -  00:00 (of   40:40)
-Kuryachi - 2014 - Python 2                          -  35:00 (of 1:21:08)
-Python Fundamentals                                 - 0301
+LiveLessons - Git under the hood - 18               -  00:00 (of   13:21)
+Kuryachi - 2014 - Python 2                          -  42:00 (of 1:21:08)
+???Python Fundamentals                                 - 0301
 Gradle Fundamentals                                 - 2
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
-Ivliev 72                                           -   00:00 (of   41:38)
+Ivliev 73                                           -   00:00 (of   33:35)
 Paschenko - 4                                       -   00:00 (of 1:15:20)
 
 Books:
@@ -38,9 +38,10 @@ Tracking:
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
-http://accu.org/index.php/journals/c78/   - 130
-LXF                                       - 202..207|3 Feb 2016
+http://accu.org/index.php/journals/c78/   - 131
+LXF                                       - 57:201..207|3 Feb 2016
 51|LXF204 - kubernetes
 52|LXF197 - escape the gui
 72|LXF202 - LVM
+70|LXF201 - DHCP
 184,188,191,198,199 - SystemD
