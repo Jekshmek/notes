@@ -1,3 +1,5 @@
+70|LXF201 - DHCP
+
 DHCP:
 
 ifconfig eth0 0.0.0.0

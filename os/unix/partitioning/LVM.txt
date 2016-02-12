@@ -1,4 +1,5 @@
 72|LXF205 - LVM
+72|LXF202 - LVM
 
 /boot/grub/grub.cfg
 https://wiki.archlinux.org/index.php/GRUB2#LVM
