@@ -16,10 +16,13 @@ git log
         pretty-printed log accrording to the specified format
         https://www.kernel.org/pub/software/scm/git/docs/git-log.html#_pretty_formats
 
+        %an - committer name
         %cn - committer name
         %h  - hash
         %cd - commit date
         %cr - commit date relative
+        %s  - ???
+        %x09- tab
 
     --patch <filename>
         show history of a single file
@@ -89,4 +92,6 @@ git shortlog
     -n
         to sort by the number of commits per author
 
-
+Samples:
+git log --author="Ihar Hancharenka" --oneline
+git log --pretty=format:"%h%x09%aN%x09%s"
