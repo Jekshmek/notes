@@ -9,6 +9,7 @@ commands:
 
 ls
 rm
+mkdir
 get
 put
 mirror
