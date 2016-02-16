@@ -179,3 +179,30 @@ import Text.PrettyPrint.ANSI.Leijen
 data Elem :: [a] -> a -> * where
   EZ :: Elem (x ': xs) x
   ES :: Elem xs x -> Elem (y ': xs) x
+
+-- | Convert an 'Elem' to a proper de Bruijn index
+elemToInt :: Elem ctx ty -> Int
+elemToInt EZ     = 0
+elemToInt (ES e) = 1 + elemToInt e
+
+-- | @Exp ctx ty@ is a well-typed expression of type @ty@ in context
+-- @ctx@. Note that a context is a list of types, where a type's index
+-- in the list indicates the de Bruijn index of the associated term-level
+-- variable.
+data Exp :: [*] -> * -> * where  -- [*] -> * -> *  --- kind-signatures
+  Var   :: Elem ctx ty -> Exp ctx ty
+  Lam   :: Exp (arg ': ctx) res -> Exp ctx (arg -> res)
+  App   :: Exp ctx (arg -> res) -> Exp ctx arg -> Exp ctx res
+  Arith :: Exp ctx Int -> ArithOp ty -> Exp ctx Int -> Exp ctx ty
+  Cond  :: Exp ctx Bool -> Exp ctx ty -> Exp ctx ty -> Exp ctx ty
+  Fix   :: Exp ctx (ty -> ty) -> Exp ctx ty
+  IntE  :: Int -> Exp ctx Int
+  BoolE :: Bool -> Exp ctx Bool
+
+-- | @Val ty@ is a well-typed, closed (no variables) value of type @ty@
+data Val :: * -> * where
+  IntVal  :: Int -> Val Int
+  BoolVal :: Bool -> Val Bool
+  LamVal  :: Exp '[arg] res -> Val (arg -> res)
+   -- NB: This is more efficient (but more complicated) when phrased
+   -- as an associated data family with newtype instances. See branch 'master'
