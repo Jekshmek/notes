@@ -1,0 +1,21 @@
+PROPERTIES:
+
+ext.hello = ...
+    we can use ext. globally to avoid conflicts
+
+and locally:
+
+task myTask {
+    ext.myProp = "myVal"
+}
+
+task printTaskProps {
+    println myTask.myProp
+}
+
+
+TASKS:
+
+task hi(dependsOn: 'hello') << { ... }
+task hi.doFirst { ... }
+task hi.doLast { ... }

@@ -32,3 +32,6 @@ float("-inf")
 
 There are a lot of zero-objects, not equal to each other...
 __nonzero__
+
+Fraction???
+    bit-int arithmetics

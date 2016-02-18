@@ -1,0 +1,42 @@
+Tasks:
+gradle tasks
+    list all the tasks
+compileJava
+compileGroovy
+
+processResources
+
+classes
+jar
+assemble
+
+compileTestJava
+compileTestGroovy
+processTestResources
+
+testClasses
+test
+
+check
+build
+
+
+distTar
+distZip
+
+Task props:
+
+enabled
+onlyIf
+doLast/doFirst
+finalyzedBy
+ext ???
+
+Interesting stuff:
+gradle.taskGraph.whenReady
+tasks.addRule
+tasks.withType
+buildTypes
+productFlavors
+ant.importBuild 'build.xml'
+defaultTask 'afterTask'

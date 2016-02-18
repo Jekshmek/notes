@@ -1,0 +1,4 @@
+''
+    usual java strings
+" ... ${var}..."
+    groovy interpolated string
