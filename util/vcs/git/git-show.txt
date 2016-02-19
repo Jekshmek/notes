@@ -11,7 +11,7 @@ git show <hash>:FILE
 	REF:FILE
 		blob spec
 	:0:FILE
-		index (stage area)
+		index (staging area)
 	:1:FILE
 		common ancestor, find by a merge base
 	:2:FILE
@@ -22,3 +22,14 @@ git show <hash>:FILE
 
     show <some-branch>:<file>
         show a <file> from <some-branch> without switching to it
+
+samples:
+
+# HEAD
+$ git show HEAD:path/to/file
+
+# INDEX
+$ git show :path/to/file
+
+# REMOTE
+$ git show origin/master:path/to/file
