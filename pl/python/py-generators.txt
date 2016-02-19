@@ -16,3 +16,5 @@ def fib(n):
 [i for i in fib(100)]
 
 Note: a lot of yield syntax with distinct semantics
+
+[(i, j) for i in xrange 4  for j in xrange(3) if ....]

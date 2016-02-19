@@ -1,0 +1,6 @@
+def nums = [3, 1, 4, 1, 5, 9]
+println nums.class.name
+> java.util.ArrayList
+
+def nums = [3, 1, 4, 1, 5, 9] as LinkedList
+  ... as Set/SortedSet

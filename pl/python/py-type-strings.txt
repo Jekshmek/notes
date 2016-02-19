@@ -1,0 +1,17 @@
+'
+''
+'''
+
+"
+    <control-char>s are interpreted
+r"...
+    to skip interpreting \<control-char>
+
+python 2:
+u"..."
+    UCS-16 unicode strings
+
+python 3:
+by default we use u"..."
+
+bytearray("...") - for the old-way byte strings

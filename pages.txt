@@ -11,10 +11,9 @@ http://artyom.me/lens-over-tea-4
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Sutton - generic programming with concepts          -1:00:30 (of 1:37:42)
 
 Series:
-Gradle Fundamentals                                 - 5
+Gradle Fundamentals 06                              -   04:00 (of   18:08)
 Kuryachi - 2014 - Python 3                          - 1:11:30 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -23,8 +22,8 @@ RequireJS                                           - 0102
 Audio:
 Razbor 03                                           -   59:00 (of 1:33:52)
 Ivliev 75                                           -   00:00 (of   39:52)
-Paschenko - 2                                       -   00:00 (of 1:24:10)
-Lakirev                                             - 1:14:00 (of 2:01:47)
+Paschenko - 3                                       -   00:00 (of 1:15:19)
+Kuraev 1                                            -   00:00 (of 1:28:33)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
@@ -33,6 +32,7 @@ vim :h
   vimproc-functions
 
 Tracking:
+Bananas and Lens                                    - 23
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
