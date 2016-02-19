@@ -6,6 +6,7 @@ http://wildlyinaccurate.com/a-hackers-guide-to-git
 
 Tips
 https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df
+https://github.com/ninrod/tricks/blob/master/git.md
 
 Presentations
 http://talks.rosalab.com/20140823-05
