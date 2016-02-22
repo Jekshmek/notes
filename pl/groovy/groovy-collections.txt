@@ -4,3 +4,28 @@ println nums.class.name
 
 def nums = [3, 1, 4, 1, 5, 9] as LinkedList
   ... as Set/SortedSet
+
+for (int i = 0; i < nums.size(); ++i)
+    ...
+for (Integer n : nums)
+    ...
+for (n in nums)
+    ...
+nums.each { println it }
+nums.each { n -> println n }
+nums.eachWithIndex { n, idx -> println "nums[$idx] == $n" }
+
+def doubles = []
+nums.each { doubles << it * 2 } // << - append
+num.collect { it * 2 }
+   .findAll { it % 3 == 0}
+   .sum()
+
+def map = [a:1, b:2, c:3]
+map.d = 1 // put d:1
+map['e'] = 2
+map.put('f', 3)
+map.each { e -> println "map[${e.key}] == ${e.value}" }
+map.each { k, v -> println "map[$k] == $v" }
+
+map.each { k, v -> k * v } // -> [a, bb, cc]
