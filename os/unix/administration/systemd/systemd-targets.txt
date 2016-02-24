@@ -5,8 +5,10 @@ systemctl list-dependencies multi-user.target
 systemctl get-default
   view the default target that triggers others
   (graphical.target - in my case)
-systemctl [list-units] --type=target
-systemctl list-unit-files --type=target
+systemctl
+  [list-units] --type=target
+  list-unit-files --type=target
+  --state=failed
 
 0  runlevel0.target, poweroff.target   Shut down and power off
 1  runlevel1.target, rescue.target     Launch a rescue shell

@@ -1,6 +1,7 @@
 loginctl
 systemd-logind.service
-logind.conf
+
+man logind.conf
 
 /etc/systemd/logind.conf:
 ...

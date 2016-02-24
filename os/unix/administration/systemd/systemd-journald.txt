@@ -9,16 +9,22 @@ journalctl
   -eu sshd
     starting from tail, logs of sshd only
   -b[1...n]
-    current session
+    current session, -1 - previous, -1 - ...
   -fan500
     monitor last 500 lines
+  _COMM=<process-name>
+  _PID=<PID>
+  </usr/bin/Xorg>
 
 
 /etc/systemd/journald.conf
 
-# exclude S
 SystemMaxUse
   max disk size
+  default - 10% of the file system, the journal is at
+SystemMaxFileSize
+  the max size of each individual journal file
+
 export SYSTEMD_LESS=FRXMK
 or
     journalctl --full

@@ -43,6 +43,8 @@ man systemd.unit
 systemctl list-units [--all]
     status|enable|disable|start|stop|restart|... <unit>
 
+    enable  - add a service to appropriate target via symlink
+    isolate - ???
 
 
 Dependencies:
