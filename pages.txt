@@ -13,7 +13,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 
 Series:
-Gradle Fundamentals 07                              -   01:00 (of   09:38)
+Gradle Fundamentals 07                              -   05:00 (of   09:38)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -22,7 +22,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 04                                           -   01:00 (of 1:39:53)
 Ivliev 76                                           -   00:00 (of   34:28)
-Paschenko - 3                                       -   00:00 (of 1:15:19)
+Paschenko - 4                                       -   01:00 (of   46:24)
 Kuraev 1                                            -   00:00 (of 1:28:33)
 
 Books:
