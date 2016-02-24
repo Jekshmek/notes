@@ -5,20 +5,3 @@ https://github.com/johnrengelman/shadow/
 
 https://github.com/ben-manes/gradle-versions-plugin
 gradle dependencyUpdates -Drevision=release
-
-bmuschko gradle-docker-plugin:
-gradle-docker-plugin\src\main\groovy\com\bmuschko\gradle\docker\utils\DockerThreadContextClassLoader.groovy 
-
-
-https://github.com/docker-java/docker-java
-
-com.github.docker-java:docker-java:1.4.0
-
-
-com.github.dockerjava.core.DockerClientBuilder
-.getInstance
-
-
-https://github.com/bmuschko/gradle-docker-plugin/issues/96
-https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
-
