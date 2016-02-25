@@ -1,1 +1,28 @@
 apply plugin 'java'
+    this just calls a POGO method (apply) to some obj...
+
+sourceCompatibiliby = 1.<x>
+// project property
+vertion = 1.0
+
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Gradle Quickstart',
+                   'Implementation-Version': version
+    }
+}
+
+$ gradle properties
+    print gradle properties
+
+test {
+    systemProperties 'property': 'value'
+}
+
+uploadArchives {
+    repositories {
+        flatDir {
+            dirs 'repos'
+        }
+    }
+}

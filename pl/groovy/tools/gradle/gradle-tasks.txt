@@ -24,6 +24,10 @@ build
 distTar
 distZip
 
+properties
+  print gradle properties
+
+
 Task props:
 
 enabled

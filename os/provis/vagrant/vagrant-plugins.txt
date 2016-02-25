@@ -1,0 +1,5 @@
+vagrant-cachier
+https://github.com/fgrehm/vagrant-cachier
+https://github.com/fgrehm/vagrant-cachier/blob/master/docs/usage.md
+http://fgrehm.viewdocs.io/vagrant-cachier/
+http://fgrehm.viewdocs.io/vagrant-cachier/how-does-it-work/
