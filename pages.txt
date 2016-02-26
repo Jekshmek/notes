@@ -1,20 +1,17 @@
-http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
-
-?? pbcopy/pbpaste
 URLs:
+http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
   Example API
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
-http://artyom.me/lens-over-tea-4
-  Iso
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Dorofeev - Tupnyak                                  -   02:00 (of 2:02:00)
+Bykov - Okudzhava                                   -   22:18 (of   ??:??)
+Dorofeev - Tupnyak                                  -   18:00 (of 2:02:00)
 
 Series:
-Gradle Fundamentals 09                              -   00:00 (of   13:52)
+Gradle Fundamentals 10                              -   00:00 (of   12:05)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -22,7 +19,7 @@ RequireJS                                           - 0102
 
 Audio:
 Razbor 04                                           -   01:00 (of 1:39:53)
-Ivliev 77                                           -   00:00 (of   35:51)
+Ivliev 78                                           -   00:00 (of   42:19)
 Paschenko - 4b                                      -   00:00 (of   ??:??)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 Bykov - Strugatskie                                 -   01:00 (of   53:54)
@@ -34,7 +31,7 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 23
+Bananas and Lens                                    - 24
 Razbor Poletov                                      - 103
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
@@ -43,4 +40,3 @@ http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
 80|LXF200 - IPv6
-46|LXF199 - SystemD
