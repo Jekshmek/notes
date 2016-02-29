@@ -18,4 +18,6 @@ If you do not want this to happen, you should not use the Store Password option 
 
 
 ...\AppData\Roaming\postgresql\pgpass.conf
+localhost:5432:*:postgres:<pwd>
+
 ALTER USER <postgres> WITH PASSWORD 'yournewpassword';
