@@ -18,8 +18,9 @@ RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
+Razbor 104                                          -   17:00 (of 1:54:23)
 Razbor 04                                           -   01:00 (of 1:39:53)
-Ivliev 78                                           -   00:00 (of   42:19)
+Ivliev 79                                           -   00:00 (of   38:49)
 Paschenko - 4b                                      -   00:00 (of   ??:??)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 Bykov - Strugatskie                                 -   01:00 (of   53:54)
@@ -32,7 +33,7 @@ vim :h
 
 Tracking:
 Bananas and Lens                                    - 24
-Razbor Poletov                                      - 103
+Razbor Poletov                                      - 104
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec

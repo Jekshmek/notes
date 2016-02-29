@@ -14,3 +14,8 @@ other GUI applications, and drivers such as psqlODBC.
 
 This means that those applications may automatically connect to the server using your stored password.
 If you do not want this to happen, you should not use the Store Password option in pgAdmin.
+
+
+
+...\AppData\Roaming\postgresql\pgpass.conf
+ALTER USER <postgres> WITH PASSWORD 'yournewpassword';

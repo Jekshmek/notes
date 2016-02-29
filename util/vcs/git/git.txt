@@ -18,6 +18,9 @@ http://www.slideshare.net/chacon/getting-git
 http://www.infoq.com/presentations/A-Tale-of-Three-Trees
   working-dir, index/staging, repo/head
 
+Ceatsheets:
+http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+
 Visualizations:
 http://onlywei.github.io/explain-git-with-d3/
 https://github.com/onlywei/explain-git-with-d3
