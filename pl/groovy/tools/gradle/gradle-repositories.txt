@@ -1,0 +1,17 @@
+repositories {
+    flatDir { dirs 'lib' }
+    maven {
+        url 'http://repo.mycompany.com/maven2'
+        mavenDeployer {
+            repository(url: "file://localhost/tmp/myRepo/")
+        }
+    }
+    ivy {
+        url '../local-folder'
+        url 'http://repo.mycompany.com/repo'
+        credentials {
+            username "username"
+            password "pw"
+        }
+    }
+}

@@ -19,3 +19,12 @@ TASKS:
 task hi(dependsOn: 'hello') << { ... }
 task hi.doFirst { ... }
 task hi.doLast { ... }
+
+Core Types:
+- Project
+-- properties
+--- ant, logger, dependencies, ...
+-- methods
+--- apply, exec, file, task, ...
+- Task
+...

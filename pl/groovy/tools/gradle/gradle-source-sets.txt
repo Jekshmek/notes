@@ -1,0 +1,10 @@
+sourceSets {
+    main {
+        java {
+            scrDir 'src/java'
+        }
+        resources {
+            srcDir 'src/resources'
+        }
+    }
+}

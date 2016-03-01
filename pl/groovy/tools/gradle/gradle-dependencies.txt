@@ -1,0 +1,55 @@
+dependencies {
+    compile module('org.codehaus.groovy:groovy:2.3.10') P
+        dependency('asm:asm-all:2.2.3')
+        ...
+        module('org.apache.ant:ant:1.9.4@jar') {
+            dependencies('org.apache.ant:ant-junit:1.9.4@jar',
+                         'org.apache.ant:ant-launcher:1.9.4')
+        }
+    }
+
+    runtime(
+        [group: '...', name: '...', ...],
+        [group: '...', name: '...', ...]
+    )
+    runtime(...) {
+        transitive = true
+    }
+}
+
+Note:
+@jar is the same as ext: 'jar'
+
+long version of this DSL is:
+dependencies {
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '3.6.7.Final'
+    ...
+}
+
+Dependencies are grouped in configurations:
+- compile
+- runtime
+- testCompile
+- testRuntime
+   (jdbc driver for test DB only)
+...
+- integrationTest
+
+configurations {
+    compile {
+        description = 'compile classpath'
+        transitive = true
+    }
+    runtime {
+        extendsFrom compile
+    }
+}
+configurations.compile {
+    description = 'compile classpath'
+}
+
+
+Sample tasks:
+task listJars << {
+    configurations.compile.each { File file -> println file.name }
+}

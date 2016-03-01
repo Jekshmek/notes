@@ -11,19 +11,23 @@ Bykov - Okudzhava                                   -   22:18 (of   ??:??)
 Dorofeev - Tupnyak                                  -   18:00 (of 2:02:00)
 
 Series:
-Gradle Fundamentals 10                              -   00:00 (of   12:05)
+Gradle Fundamentals 11                              -   13:52 (of   20:54)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Razbor 104                                          -   17:00 (of 1:54:23)
+Razbor 104                                          - 1:10:00 (of 1:54:23)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Ivliev 79                                           -   00:00 (of   38:49)
-Paschenko - 4b                                      -   00:00 (of   ??:??)
+Paschenko - 5                                       -   00:00 (of 1:08:53)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
-Bykov - Solzhenitsyn 2                              -   12:26 (of   36:27)
+Bykov - Semenov                                     -   01:00 (of 1:21:33)
+Bykov - Master 1                                    -   06:00
+Bykov - Lolita                                      -   18:00 (of 1:03:56)
+Bykov - Remark                                      -   07:00 (of 1:12:09)
+Bykov - Viy                                         -   40:00 (of 1:08:57)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
