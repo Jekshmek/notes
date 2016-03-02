@@ -17,6 +17,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     vb.name = "centos-7.2"
     vb.customize ["modifyvm", :id, "--memory", "4096"]
     vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
+    # --cpuexecutioncap 50
     # intel card funciona no CentOS
     vb.customize ["modifyvm", :id, "--nictype2", "82540EM"]
   end
