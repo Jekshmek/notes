@@ -1,0 +1,9 @@
+pacman -Ss ca-certificates ca-certificates-utils ca-certificates-cacert ca-certificates-mozilla
+
+/etc/ca-certificates
+/usr/share/ca-certificates
+/usr/share/ca-certificates/trust-source
+
+ca-certificates-java
+man update-ca-trust
+

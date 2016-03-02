@@ -1,4 +1,5 @@
 https://miteshshah.github.io/linux/basics/finding-and-processing-files/
+pacman -Ss findutils
 
 find - util
 

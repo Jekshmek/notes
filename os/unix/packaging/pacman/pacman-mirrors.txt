@@ -1,3 +1,5 @@
+pacman -Ss pacman-mirrorlist
+
 pacman-mirrors -g -b stable
 pacman-mirrors -g -b testing
 

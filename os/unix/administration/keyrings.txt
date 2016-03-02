@@ -17,3 +17,10 @@ http://www.gentoo-wiki.info/HOWTO_Use_gnome-keyring_to_store_SSH_passphrases
 
 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
 iharh@github.com
+
+pacman -Ss manjaro-keyring archlinux-keyring
+/usr/share/pacman/keyrings/
+  manjaro.gpg manjaro-revoked manjaro/trusted
+
+/etc/pacman.d/gnupg
+  pubring.gpg secring.gpg trustdb.gpg

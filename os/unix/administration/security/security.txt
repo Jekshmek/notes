@@ -30,4 +30,3 @@ login:
 /etc/pam.d/system-auth
 /etc/security/access.conf
   commented out
-
