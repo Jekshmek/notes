@@ -154,3 +154,18 @@ StaticPointers:
 http://www.reddit.com/r/haskell/comments/2q85zp/24_days_of_hackage_static_pointers_guest_post_by/
 https://ocharles.org.uk/blog/guest-posts/2014-12-23-static-pointers.html
 http://jozefg.bitbucket.org/posts/2015-01-27-modal-logic-in-haskell.html
+
+8.x:
+
+https://www.reddit.com/r/haskell/comments/48hrb5/edward_kmett_undecidable_superclasses/
+https://www.youtube.com/watch?v=ZL9ehIJhk98
+
+UndecidableSuperClasses
+TypeInType
+
+import GHC.Types (Constraint, Type)
+
+type Cat i = i -> i -> Type  -- Type is a synonym for *
+
+class Vacuous (p :: Cat i) (a :: i)
+instance Vacuous p a
