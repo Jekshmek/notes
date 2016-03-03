@@ -8,6 +8,10 @@ http://www.xunsearch.com/scws/index.php
 
 Latest:
 1.2.3
+http://www.xunsearch.com/scws/down/scws-1.2.3.tar.bz2
+
+Archive:
+http://www.xunsearch.com/scws/down/scws-1.1.8.tar.bz2
 
 https://github.com/amutu/scws-port/blob/master/pkg-descr
 SCWS (Simple Chinese Word Segmentation) is a frequency dictionary based Chinese word segmentation engine,
@@ -37,6 +41,9 @@ http://www.xunsearch.com/scws/api.php
 https://github.com/hightman/scws/blob/master/API.md
 
 scws_new, scws_set_charset, scws_add_dict, scws_[add/set]_dict, scws_set_rule
+
+
+Dictionaries:
 
 gen-dict:
 Usage:

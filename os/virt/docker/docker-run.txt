@@ -1,1 +1,33 @@
 https://docs.docker.com/reference/run/
+
+--security-opt
+--restart
+    no/on-failure/always
+
+Constraints:
+--cpu-shares
+    1024 max
+--cpu-period, --cpu-quota
+--cpuset-cpus
+
+--oom-kill-disable = true
+--memory, --memory-swap
+
+--blkio-weight
+    500 by default (10..1000)
+
+--cgroup-parent
+--ulimit
+
+--pid="host"
+--uts="host"
+--ipc="host|container:id"
+--net="host|none"
+
+--volume
+--volumes-from
+--add-host
+--dns
+--link
+    db:db
+--publish

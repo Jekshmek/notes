@@ -159,8 +159,10 @@ http://jozefg.bitbucket.org/posts/2015-01-27-modal-logic-in-haskell.html
 
 https://www.reddit.com/r/haskell/comments/48hrb5/edward_kmett_undecidable_superclasses/
 https://www.youtube.com/watch?v=ZL9ehIJhk98
+https://gist.github.com/ekmett/b26363fc0f38777a637d
 
 UndecidableSuperClasses
+    classes depends on each other (Category depends on Functor, Functor - on Category)
 TypeInType
 
 import GHC.Types (Constraint, Type)
