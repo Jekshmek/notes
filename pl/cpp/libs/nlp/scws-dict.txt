@@ -1,15 +1,30 @@
-dev/dict
+./dev/dict
+
+wget http://www.xunsearch.com/scws/down/scws-dict-cht-utf8.tar.bz2
+wget http://www.ftphp.com/scws/down/scws-dict-cht-utf8.tar.bz2
+
+wget http://www.xunsearch.com/download/xunsearch-full-latest.tar.gz
+wget http://www.xunsearch.com/download/xs_quickstart.pdf
+
+??
+./dev/dict/gen_gbk_chars.php
+./dev/php4/pscws23/dict/dict.xdb.gz
 
 big5_list.txt
 w.txt
 w5.txt
 z.txt
 char2.txt
+    ??? dev/eval/segmentationPrec.pl
 
 php calc_text.php
 
 etc/
     Makefile
+
+./web/docs.php
+./web/download.php
+
 
 1. baidu_getnum.php  - 从 baidu.com 取回关键词的数据频率
 retrieve the data frequence of keywords from www.baidu.com (which is chinese google, one of the largest it company in china)
