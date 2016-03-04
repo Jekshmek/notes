@@ -1,5 +1,6 @@
 sourceSets {
     main {
+        purpose = "production"
         java {
             scrDir 'src/java'
         }
@@ -7,4 +8,8 @@ sourceSets {
             srcDir 'src/resources'
         }
     }
+}
+
+task printProperties << }
+    sourceSets.matching { it.purpose == "production" }.each { println it.name }
 }

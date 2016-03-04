@@ -17,14 +17,36 @@ task printTaskProps {
 TASKS:
 
 task hi(dependsOn: 'hello') << { ... }
+hi.dependsOn 'compileJava'
+build.dependsOn 'hi'
+
+project('projectA') { ... dependsOn: ':projectB:taskY' ... }
+project('projectB') { ... }
+
+taskX.dependsOn {
+    tasks.findAll { task -> task.name.startsWith('lib') }
+}
+
 task hi.doFirst { ... }
 task hi.doLast { ... }
 
+task copyJars(type: Copy) {
+    from configurations.testRuntime
+    into "$buildDir/jars"
+}
+
 Core Types:
 - Project
+    // exactly the same
+    println name
+    println project.name
+
 -- properties
 --- ant, logger, dependencies, ...
 -- methods
 --- apply, exec, file, task, ...
 - Task
 ...
+
+task ... { ... }
+Note: closure - is just a last parameter to the task-method per the groovy syntax
