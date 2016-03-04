@@ -10,7 +10,7 @@ Video:
 Kmett                                               -   22:30 (of   36:01)
 Dorofeev - Tupnyak                                  -   36:00 (of 2:02:00)
 Bykov - Remark                                      -   35:00 (of 1:12:09)
-Bykov - Chapaev                                     -   01:00 (of   44:13)
+Bykov - Chapaev                                     -   31:00 (of   44:13)
 
 Series:
 Gradle Fundamentals 13                              -   00:30 (of   12:13)
