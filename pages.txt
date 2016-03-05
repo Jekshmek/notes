@@ -22,7 +22,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 04                                           -   01:00 (of 1:39:53)
 Ivliev 81                                           -   00:00 (of   43:56)
-Paschenko - 6a                                      -   00:00 (of   35:21)
+Paschenko - 6b                                      -   17:00 (of   32:05)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 
 Books:
