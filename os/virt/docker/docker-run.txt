@@ -23,6 +23,7 @@ Constraints:
 --uts="host"
 --ipc="host|container:id"
 --net="host|none"
+    network plugins: simplebridge, overlay, weave
 
 --volume
 --volumes-from
@@ -31,3 +32,9 @@ Constraints:
 --link
     db:db
 --publish
+
+--device
+--cap-add/--cap-drop
+--priviledged=true
+    ... for docker inside docker ...
+--exec-driver
