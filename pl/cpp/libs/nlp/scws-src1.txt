@@ -37,6 +37,18 @@ v(1) + n = 5    ; cht-only
 
 #define SCWS_ATTR_LEN 20
 
+// xdict.h
+
+/* data structure for word(12bytes) */
+typedef struct scws_word
+{
+    float tf;
+    float idf;
+    unsigned char flag;
+    char attr[SCWS_ATTR_LEN + 1]; // POS - https://github.com/hightman/scws/blob/master/API.md
+}   word_st, *word_t;
+
+
 // rule.h
 
 #define SCWS_RULE_MAX           32
@@ -73,6 +85,14 @@ struct scws_rule_attr
     char attr1[SCWS_ATTR_LEN + 1];  // ? v1
     char attr2[SCWS_ATTR_LEN + 1];  // ? v2
     unsigned char npath[2];         // ?? 0xff - by default,  (1) -> 0, else -> 0xff
+        // used by rule.c 
+        //   - scws_rule_new, 
+        //   - int scws_rule_attr_ratio(rule_t r, const char *attr1, const char *attr2, const unsigned char *npath)
+        //     // get rule attr x
+        //   -- scws.c - _scws_mseg_zone, 
+        //   --- static void _scws_msegment(scws_t s, int end, int zlen)
+        //   ---- scws_res_t scws_get_result(scws_t s)
+
     short ratio;                    // ?   = <num>
     rule_attr_t next;               // ptr to the next scws_rule_attr
 };
@@ -411,6 +431,19 @@ rule_t scws_rule_new(const char *fpath, unsigned char *mblen)
 
 
 // scws.h
+
+/* data structures */
+typedef struct scws_result *scws_res_t;
+struct scws_result
+{
+    int off;                      // src text offset
+    float idf;
+    unsigned char len;            // src text length
+    char attr[SCWS_ATTR_LEN + 1]; // SCWS_ATTR_LEN == 20
+    scws_res_t next;
+};
+
+// ...
 
 typedef struct
 {
