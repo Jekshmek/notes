@@ -32,10 +32,24 @@ properties
 Task props:
 
 enabled
+    disableMe.enabled = false
 onlyIf
+    for conditional execution
+    ... { !project.hasProperty('skipHello') }
+    gradle <task> -PskipHello
+ext ???
+    ext.srcFile = file('mountains.xml')
+    ext.destDir = new File(buildDir, 'generated')
+    // declare inputs (of TypeInputs) and outputs (of TypeOutputs)
+    // , skip the current task if in/out are not modified
+    inputs.file srcDir
+    outputs.dir destDir
+    doLast {
+        ...
+    }
+
 doLast/doFirst
 finalyzedBy
-ext ???
 
 Interesting stuff:
 gradle.taskGraph.whenReady

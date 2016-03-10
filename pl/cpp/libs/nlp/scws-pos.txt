@@ -1,3 +1,6 @@
+http://hightman.cn/index.php/scws-attr-description/
+
+
 Detailed POS tagging dictionary
 
 Because dictionary entries as many as 260,000 of the giant, the finishing time has obviously put a lot of wrong label or term clean-up,
