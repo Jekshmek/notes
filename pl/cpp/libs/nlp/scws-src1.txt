@@ -517,6 +517,147 @@ void scws_set_rule(scws_t s, const char *fpath)
     s->r = scws_rule_new(fpath, s->mblen);
 }
 
+
+/* multibyte segment */
+...
+
+static void _scws_mseg_zone(scws_t s, int f, int t)
+{
+    unsigned char *mpath, *npath;
+    word_t **wmap;
+    int x,i,j,m,n,j2,sz;
+    double weight, nweight;
+    char attr1[SCWS_ATTR_LEN];
+
+    mpath = npath = NULL;
+    weight = nweight = (double) 0.0;
+
+    wmap = s->wmap;
+    j2 = 0;
+    for (x = i = f; i <= t; i++)
+    {
+        j = _scws_mget_word(s, i, (x > i ? x - 1 : t));
+        if (j == i) continue;
+        // skip NR in NR
+        if (j < j2 && strcmp(wmap[i][j]->attr, attr_nr) == 0) continue;
+        if (i > j2 && (wmap[i][j]->flag & SCWS_WORD_USED)) continue;
+
+        /* one word only */
+        if (i == f && j == t)
+        {
+            mpath = (unsigned char *) malloc(2);
+            mpath[0] = j - i;
+            mpath[1] = 0xff;
+            break;
+        }
+
+        if (i != f && (wmap[i][j]->flag & SCWS_WORD_RULE))
+            continue;
+
+        /* create the new path */
+        wmap[i][j]->flag |= SCWS_WORD_USED;
+        nweight = (double) wmap[i][j]->tf * pow(j-i,4);
+
+        if (npath == NULL)
+        {
+            npath = (unsigned char *) malloc(t-f+2);
+            memset(npath, 0xff, t-f+2);
+        }
+
+        /* lookfor backward */
+        x = sz = 0;
+        memset(attr1, 0, sizeof(attr1));
+        for (m = f; m < i; m = n+1)
+        {
+            n = _scws_mget_word(s, m, i-1);
+            nweight *= wmap[m][n]->tf;
+            npath[x++] = n - m;
+            if (n > m)
+            {
+                nweight *= pow(n-m,4);
+                wmap[m][n]->flag |= SCWS_WORD_USED;
+            }
+            else sz++;
+
+            if (attr1[0] != '\0')
+                nweight *= scws_rule_attr_ratio(s->r, attr1, wmap[m][n]->attr, &npath[x-2]);
+            memcpy(attr1, wmap[m][n]->attr, SCWS_ATTR_LEN);
+        }
+
+        /* my self */
+        npath[x++] = j - i;
+
+        if (attr1[0] != '\0')
+            nweight *= scws_rule_attr_ratio(s->r, attr1, wmap[i][j]->attr, &npath[x-2]);
+        memcpy(attr1, wmap[i][j]->attr, SCWS_ATTR_LEN);
+
+        /* lookfor forward */
+        for (m = j+1; m <= t; m = n+1)
+        {
+            n = _scws_mget_word(s, m, t);
+            nweight *= wmap[m][n]->tf;
+            npath[x++] = n - m;
+            if (n > m)
+            {
+                nweight *= pow(n-m,4);
+                wmap[m][n]->flag |= SCWS_WORD_USED;
+            }
+            else sz++;
+
+            nweight *= scws_rule_attr_ratio(s->r, attr1, wmap[m][n]->attr, &npath[x-2]);
+            memcpy(attr1, wmap[m][n]->attr, SCWS_ATTR_LEN);
+        }
+
+        npath[x] = 0xff;
+        nweight /= pow(x+sz-1,5);
+
+        /* draw the path for debug */
+#ifdef HAVE_NOT_QUIET
+        if (s->mode & SCWS_DEBUG)
+        {
+            fprintf(stderr, "PATH by keyword = %.*s, (weight=%.4f):\n",
+                s->zmap[j].end - s->zmap[i].start, s->txt + s->zmap[i].start, nweight);
+            for (x = 0, m = f; (n = npath[x]) != 0xff; x++)
+            {
+                n += m;
+                fprintf(stderr, "%.*s ", s->zmap[n].end - s->zmap[m].start, s->txt + s->zmap[m].start);
+                m = n + 1;
+            }
+            fprintf(stderr, "\n--\n");
+        }
+#endif
+
+        j2 = x = j;
+        if (x - i > 1) i--;
+        /* check better path */
+        if (nweight > weight)
+        {
+            unsigned char *swap;
+
+            weight = nweight;
+            swap = mpath;
+            mpath = npath;
+            npath = swap;
+        }
+    }
+
+    /* set the result, mpath != NULL */
+    if (mpath == NULL)
+        return;
+
+    for (x = 0, m = f; (n = mpath[x]) != 0xff; x++)
+    {
+        n += m;
+        _scws_mset_word(s, m, n);
+        m = n + 1;
+    }
+
+    /* Ò»¿Ú.070808: memory leak fixed. */
+    if (mpath) free(mpath);
+    if (npath) free(npath);
+}
+
+
 // xtree.h
 
 /* pool required */
