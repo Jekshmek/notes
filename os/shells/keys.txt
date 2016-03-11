@@ -65,6 +65,8 @@ set show-mode-in-prompt on
 # if it's configured correctly, your prompt will be prefixed with a `+` while in insert mode and a `:` when in command mode.
 
 zsh-vi-prompt:
+https://github.com/bhilburn/powerlevel9k/pull/98/files
+
 https://hamberg.no/erlend/posts/2010-10-17-show-current-vi-mode-in-zsh-prompt.html
 http://zshwiki.org/home/zle/vi-mode
 http://dougblack.io/words/zsh-vi-mode.html
@@ -73,5 +75,3 @@ http://martin.krischik.com/index.php/Z-Shell/VimMode
 http://stackoverflow.com/questions/3622943/zsh-vi-mode-status-line
 http://superuser.com/questions/151803/how-do-i-customize-zshs-vim-mode
 http://unix.stackexchange.com/questions/547/make-my-zsh-prompt-show-mode-in-vi-mode
-
-https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/vi-mode
