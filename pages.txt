@@ -20,7 +20,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 04                                           -   01:00 (of 1:39:53)
 Ivliev 83                                           -   00:00 (of   37:14)
-Paschenko - 7a                                      -   00:00 (of   51:22)
+Paschenko - 8                                       -   00:00 (of   38:56)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 
 Books:
@@ -30,8 +30,8 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 25
-Razbor Poletov                                      - 104
+Bananas and Lens                                    - 26
+Razbor Poletov                                      - 105
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
