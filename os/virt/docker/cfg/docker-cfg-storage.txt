@@ -8,6 +8,20 @@ http://www.projectatomic.io/docs/docker-storage-recommendation
 
 -s, --storage-driver
 
+ISSUES:
+
+aufs:
+https://github.com/docker/docker/issues/6980
+https://github.com/lxc/lxd/issues/1245
+https://github.com/oracle/docker-images/issues/53
+
+https://github.com/docker/docker/issues/5928
+https://github.com/docker/docker/pull/5930/files
+https://github.com/docker/docker/pull/5773
+
+https://github.com/docker/docker/issues/8966
+https://github.com/docker/hub-feedback/issues/461
+
 https://github.com/dayreiner/centos7-php56/commit/e800c805a8769c387cd1aa5462c73543132cbd3a
 
 RUN yum -y update && yum clean all
