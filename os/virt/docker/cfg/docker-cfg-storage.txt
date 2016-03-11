@@ -1,0 +1,14 @@
+https://docs.docker.com/engine/userguide/storagedriver/selectadriver/
+https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/
+
+https://docs.docker.com/engine/userguide/storagedriver/overlayfs-driver/
+https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/
+
+http://www.projectatomic.io/docs/docker-storage-recommendation
+
+-s, --storage-driver
+
+https://github.com/dayreiner/centos7-php56/commit/e800c805a8769c387cd1aa5462c73543132cbd3a
+
+RUN yum -y update && yum clean all
+RUN yum -y install httpd && yum clean all
