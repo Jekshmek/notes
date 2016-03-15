@@ -63,3 +63,12 @@ lvdisplay ???
 sudo lvextend /dev/VolGroup00/LogVol00 /dev/sdb1
 
 date && sudo resize2fs /dev/VolGroup00/LogVol00 && date
+
+docer-devicemapper-storage:
+pvcreate /dev/xvdf1
+vgextend centos /dev/xvdf1   # centos - volume group
+# vgreduce centos /dev/xvdf1   # centos - volume group
+vgcreate vgdocker /dev/xvdf1
+lvcreate -l 95%FREE -n lvdocmeta vgdocker
+lvcreate -l 100%FREE -n lvdocdata vgdocker
+lsblk

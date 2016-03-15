@@ -1,0 +1,16 @@
+https://console.developers.google.com/project
+
+https://developers.google.com/drive/web/about-auth
+https://developers.google.com/accounts/docs/OAuth2
+https://developers.google.com/+/features/sign-in
+
++curl sample:
+https://developers.google.com/accounts/docs/OAuth2WebServer
+
+OAuth libs:
+https://github.com/scribejava/scribejava/wiki/getting-started
+https://habrahabr.ru/company/hh/blog/278957/
+
+ratpack-oauth:
+https://github.com/uris77/ratpack-oauth-example
+

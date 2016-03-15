@@ -8,6 +8,21 @@ http://www.projectatomic.io/docs/docker-storage-recommendation
 
 -s, --storage-driver
 
+DeviceMapper:
+https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/
+
+-s devicemapper
+--storage-opt dm.datadev=/dev/vgdocker/lvdocdata --storage-opt dm.metadatadev=/dev/vgdocker/lvdocmeta
+
+# pvcreate /dev/xvdf1
+# vgextend centos /dev/xvdf1   # centos - volume group
+## vgreduce centos /dev/xvdf1   # centos - volume group
+# vgcreate vgdocker /dev/xvdf1
+# lvcreate -l 95%FREE -n lvdocmeta vgdocker
+# lvcreate -l 100%FREE -n lvdocdata vgdocker
+# lsblk
+
+
 ISSUES:
 
 aufs:

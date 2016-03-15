@@ -23,3 +23,7 @@ https://github.com/uris77/ratpack-oauth-example
 
 +curl sample:
 https://developers.google.com/accounts/docs/OAuth2WebServer
+
+Libs:
+https://github.com/scribejava/scribejava/
+https://github.com/scribejava/scribejava/wiki/getting-started

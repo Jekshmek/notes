@@ -1,0 +1,10 @@
+-b, --build-file
+    specify build file
+--continue
+    continue after the failure
+--profile
+    profile a build
+--parallel
+    try to build sub-projects in separate threads
+-x, --exclude-task
+    exclude the specified task
