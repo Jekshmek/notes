@@ -50,3 +50,5 @@ cnoremap sudow w !sudo tee % >/dev/null
 	The tee command now runs in a privileged environment and redirects its stdin to FILENAME.
 	The >/dev/null discards tee's stdout as you don't need to see it.
 
+gx
+    Open URL/Link under the cursor in browser...

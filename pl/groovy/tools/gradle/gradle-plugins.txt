@@ -1,5 +1,9 @@
 plugins:
 
+script/...
+script
+    we just import a gradle build file to our own...
+
 Shadow (fat jar):
 https://github.com/johnrengelman/shadow/
 

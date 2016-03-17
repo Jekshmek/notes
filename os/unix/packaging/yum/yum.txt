@@ -1,11 +1,21 @@
 http://www.cyberciti.biz/faq/rhel-centos-fedora-linux-yum-command-howto/
 http://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/
+
+http://www.unixmen.com/managing-software-packages-yum-rhel7centos7/
 https://www.centos.org/docs/5/html/5.1/Deployment_Guide/s1-yum-useful-commands.html
 
 http://www.computerhope.com/unix/yum.htm
 http://blog.packagecloud.io/eng/2015/04/05/yum-cheat-sheet/
 
 80|LXF205 - rpm, yum and dnf
+
+On your system, two package databases are maintained:
+The yum database and the rpm database.
+When you are installing packages through yum, the yum database is updated first,
+after which the updated information is synchronized to the RPM database.
+If you install packages using the rpm command,
+the update is written to the rpm database only and will not be updated to the yum database,
+which is an important reason not to use the rpm command anymore to install software packages.
 
 Kernels:
 http://www.if-not-true-then-false.com/2012/delete-remove-old-kernels-on-fedora-centos-red-hat-rhel/
@@ -44,9 +54,11 @@ wget http://download.virtualbox.org/virtualbox/rpm/rhel/virtualbox.repo
 Groups:
 
 yum grouplist
+yum group list
 
+yum groupinfo    <group>
 yum groupinstall <group>
-yum grouplinfo   <group>
+yum groupremove  <group>
 
 interesting:
    Development tools
@@ -77,10 +89,23 @@ cat /etc/centos-release
 searching:
 yum list [installed|all|available|updates]
 yum grouplist|repolist
+
+yum provides "*/g++"
 yum whatprovides "*/g++"
 rpm -ql <package>
     list files of the <package>
 
+clean-up:
+
+yum clean all
+    clean package cache and headers
+yum clean packages
+    ... package cache only ...
+yum clean headers
+    ... headers only ...
+
 history:
 yum history
     history of yum runs
+yum history undo <num>
+    undo the chane with <num>
