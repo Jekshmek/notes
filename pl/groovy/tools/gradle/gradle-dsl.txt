@@ -23,6 +23,8 @@ build.dependsOn 'hi'
 project('projectA') { ... dependsOn: ':projectB:taskY' ... }
 project('projectB') { ... }
 
+http://mrhaki.blogspot.com.by/2010/10/gradle-goodness-display-available-tasks.html
+
 taskX.dependsOn {
     tasks.findAll { task -> task.name.startsWith('lib') }
 }

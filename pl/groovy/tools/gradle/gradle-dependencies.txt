@@ -19,7 +19,7 @@ dependencies {
 
     compile project(path: ':api', configuration: 'spi')
 
-    compile module('org.codehaus.groovy:groovy:2.3.10') P
+    compile module('org.codehaus.groovy:groovy:2.3.10') {
         dependency('asm:asm-all:2.2.3')
         ...
         module('org.apache.ant:ant:1.9.4@jar') {
