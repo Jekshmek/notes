@@ -1,3 +1,6 @@
+https://www.vagrantup.com/docs/vagrantfile/machine_settings.html
+https://www.vagrantup.com/docs/vagrantfile/ssh_settings.html
+
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.ssh.insert_key = false
 
@@ -10,28 +13,28 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.synced_folder ".", "/vagrant"
   config.vm.synced_folder "../../.", "/vagrant", :mount_options => ["dmode=777", "fmode=666"]
 
-  config.vm.provider "virtualbox" do |v|
-    v.memory = 2048
-  end
   config.vm.provider :virtualbox do |vb, override|
     vb.name = "centos-7.2"
+
+    vb.vm.network "private_network", ip: "192.168.56.2"
+    vb.vm.network :forwarded_port, guest: 2375, host: 2375
+
+    vb.memory = 2048
     vb.customize ["modifyvm", :id, "--memory", "4096"]
     vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
+
     # --cpuexecutioncap 50
     # intel card funciona no CentOS
     vb.customize ["modifyvm", :id, "--nictype2", "82540EM"]
-  end
 
-  config.vm.define :dev do |dev|
-    dev.vm.network "private_network", ip: "10.100.199.200"
-    dev.vm.provision :shell, path: "bootstrap.sh"
-    dev.vm.provision :shell,
+    vb.vm.provision :shell,
     inline: 'PYTHONUNBUFFERED=1 ansible-playbook \
       /vagrant/ansible/dev.yml -c local'
   end
 
-  config.vm.network "private_network", ip: "192.168.56.2"
-  config.vm.network :forwarded_port, guest: 2375, host: 2375
+  config.vm.define :dev do |dev|
+    # dev.vm...provision :shell, path: "bootstrap.sh"
+  end
 
   if Vagrant.has_plugin?("vagrant-cachier")
     config.cache.scope = :box
