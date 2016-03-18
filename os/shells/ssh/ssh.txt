@@ -1,6 +1,3 @@
-Config (aliases) at
-  ~/.ssh/config
-
 http://serverfault.com/questions/241588/how-to-automate-ssh-login-with-password
 
 http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
