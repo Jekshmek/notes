@@ -12,7 +12,7 @@ Bykov - Sunday                                      -   02:00 (of 1:15:54)
 Dorofeev - Tupnyak                                  - 1:16:00 (of 2:02:00)
 
 Series:
-Gradle Fundamentals 19                              -   01:00 (of   10:24)
+Gradle Fundamentals 19                              -   03:00 (of   10:24)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -21,7 +21,7 @@ RequireJS                                           - 0102
 Audio:
 Razbor 04                                           -   01:00 (of 1:39:53)
 Ivliev 86                                           -   00:00 (of   32:17)
-Paschenko - 9b                                      -   01:00 (of   59:06)
+Paschenko - 11                                      -   01:00 (of   23:26)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 
 Books:
