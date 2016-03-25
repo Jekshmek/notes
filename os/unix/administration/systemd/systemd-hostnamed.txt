@@ -1,3 +1,5 @@
+https://habrahabr.ru/post/280037/
+
 hostnamectl set-hostname dlp.server.world
 
 sudo systemctl restart systemd-hostnamed
