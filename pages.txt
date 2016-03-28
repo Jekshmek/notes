@@ -7,11 +7,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Sunday                                      -   16:00 (of 1:15:54)
 Dorofeev - Tupnyak                                  - 1:16:00 (of 2:02:00)
 
 Series:
-Gradle Fundamentals 21                              -   01:00 (of   11:35)
+Gradle Fundamentals 22                              -   01:00 (of   18:29)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -30,8 +29,8 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 26
-Razbor Poletov                                      - 105
+Bananas and Lens                                    - 27
+Razbor Poletov                                      - 106 - 1:00:00 (of 2:26:39)
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec

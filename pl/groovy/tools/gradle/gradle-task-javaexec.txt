@@ -1,0 +1,14 @@
+project.ext.db = file("$buildDir/baseball.h2.db")
+
+task generateTestDb(dependsOn: classes, type: JavaExec) {
+    onlyIf { !db.exists() }
+    main = 'service.populate_stadium_data'
+    classpath sourceSets.main.runtimeClasspath
+}
+...
+dependencies {
+    compile '...groovy-all...'
+    testCompile '...spock-core...'
+    testRuntime '...cglib-nodep...'
+    runtime 'com.h2database:h2:<ver>'
+}
