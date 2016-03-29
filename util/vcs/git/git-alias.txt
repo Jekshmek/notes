@@ -1,3 +1,6 @@
+https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git
+https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
+
 Aliases:
 
 ~/.gitconfig
