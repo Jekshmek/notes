@@ -1,3 +1,14 @@
+APC Back BR900GI	BR900GI	236.50	230.50
+APC Back BX1100CI-RS	BX1100CI-RS	203.50	198.50
+APC Back BX1400UI	BX1400UI	187.50	182.50
+
+APC Back BX800CI-RS	BX800CI-RS	143.50	139.50
+APC Back BX950UI	BX950UI	111.50	107.50
+
+APC Smart SC420I	SC420I	172.50	167.50
+APC Smart SC450RMI1U	SC450RMI1U	257.50	251.50
+APC Smart SC620I	SC620I	232.50	226.50
+
 URLs:
 http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
