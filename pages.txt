@@ -7,7 +7,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - IlfPetrov                                   -   25:00 (of   52:44)
+Bykov - IlfPetrov                                   -   37:00 (of   52:44)
 Bykov - Potter                                      -   15:00 (of 1:55:03)
 Bykov - LEMM                                        -   02:00 (of 1:45:14)
 Taldykin - GHC 8 DTs                                -   21:00 (of   59:02)
