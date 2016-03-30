@@ -104,6 +104,14 @@ yum clean packages
 yum clean headers
     ... headers only ...
 
+yum-db-sync:
+
+yum clean all
+yum history sync
+rpm --rebuilddb
+yum -y update
+
+
 history:
 yum history
     history of yum runs
