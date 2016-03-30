@@ -36,6 +36,10 @@ task copyJars(type: Copy) {
     from configurations.testRuntime
     into "$buildDir/jars"
 }
+task collectJars(type: Copy) {
+    from configurations.testRuntime
+    into "$buildDir/output/lib"
+}
 
 Core Types:
 - Project

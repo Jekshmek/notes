@@ -26,10 +26,19 @@ Ship - Spock - A Highly Logical Way to Test:
 http://www.infoq.com/presentations/spock
 
 gradle int-n:
-compile('org.codehaus.groovy:groovy-all:2.3.11')
 
-testCompile('org.spockframework:spock-core:1.0-groovy-2.3')
-testCompile('org.spockframework:spock-spring:1.0-groovy-2.3')
+repositories {
+    mavenCentral()
+    maven { url "http://oss.sonatype.org/content/repositories/snapshots/" }
+}
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.11'
+
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+    testCompile 'org.spockframework:spock-spring:1.0-groovy-2.4'
+    testRuntime 'cglib:cblib-nodep:3.1'
+    testRuntime 'org.objenesis:objenesis:2.1'
+}
 
 Modules:
 http://spockframework.github.io/spock/docs/1.0/modules.html
@@ -124,3 +133,6 @@ class MyFastSpec extends Specification {
     def "sorry but I'm slow"() { expect: false }
 }
 
+
+Interesting:
+Spock (at settings.gradle) change the "build.gradle" names to "spring.name" i.e.
