@@ -35,6 +35,9 @@ git log
     -p
         includes the diff on the file at each commit
 
+    --show-signature
+        show gpg signature
+
 
 Filtering the commit history
 

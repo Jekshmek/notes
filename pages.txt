@@ -1,4 +1,5 @@
 URLs:
+https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
   Example API
@@ -7,10 +8,9 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - IlfPetrov                                   -   37:00 (of   52:44)
-Bykov - Potter                                      -   15:00 (of 1:55:03)
+Bykov - Potter                                      -   35:00 (of 1:55:03)
 Bykov - LEMM                                        -   02:00 (of 1:45:14)
-Taldykin - GHC 8 DTs                                -   21:00 (of   59:02)
+Taldykin - GHC 8 DTs                                -   34:00 (of   59:02)
 Kholomiov - Monads for Drummers                     -   05:00 (of   37:01)
 Dorofeev - Tupnyak                                  - 1:16:00 (of 2:02:00)
 
@@ -22,11 +22,9 @@ RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Changelog - Allen                                   -   14:00 (of 1:41:43)
-Paschenko 2                                         -   00:00 (of   55:32)
+Paschenko 3                                         -   00:00 (of   55:32)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Lakirev 03                                          -   01:30 (of 1:06:53)
-Paschenko - 11                                      -   01:00 (of   23:26)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 
 Books:
@@ -45,3 +43,4 @@ http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
 80|LXF200 - IPv6
+https://drive.google.com/open?id=0B9dLexguZDURdDFSeURTVjEtZTA
