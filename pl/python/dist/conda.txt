@@ -34,4 +34,3 @@ ansible install:
     conda create -n ans python
     . activate ans
     pip install ansible # 2.0.0.2
-
