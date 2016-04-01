@@ -2,12 +2,16 @@ https://github.com/wireservice/csvkit
 http://csvkit.rtfd.org/
 
 csvcut
+    -l, --linenumbers
+        line numbers
     -n, --names
         list column names
     -c COLUMNS, --columns COLUMNS
         cut selected columns (by name or index)
     -x, --delete-empty-rows
         delete empty rows
+    -d
+        delimiters
 
 csvsql
     --query
