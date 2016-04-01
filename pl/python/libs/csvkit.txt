@@ -1,0 +1,15 @@
+https://github.com/wireservice/csvkit
+http://csvkit.rtfd.org/
+
+csvcut
+    -n, --names
+        list column names
+    -c COLUMNS, --columns COLUMNS
+        cut selected columns (by name or index)
+    -x, --delete-empty-rows
+        delete empty rows
+
+csvsql
+    --query
+        "select 'fixed',col1,col2 from file" file.csv
+        'select "fixed",col1,col2 from file' file.csv
