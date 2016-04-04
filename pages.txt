@@ -8,12 +8,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Calendar                                    -   01:00 (of   34:38)
-Bykov - LEMM                                        -   02:00 (of 1:45:14)
+Bykov - Olesha                                      -   05:00 (fo   24:37)
+Bykov - LEMM                                        -   04:00 (of 1:45:14)
 Dorofeev - Tupnyak                                  - 1:16:00 (of 2:02:00)
 
 Series:
-Grovy Fundamentals 02                               -   01:00 (of   05:07)
+Grovy Fundamentals 03                               -   01:00 (of   09:38)
   http://shop.oreilly.com/product/0636920039839.do
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
@@ -22,7 +22,7 @@ RequireJS                                           - 0102
 
 Audio:
 Lakirev 04                                          -   00:00 (of 1:26:58)
-Paschenko 3                                         -   00:00 (of   55:32)
+Paschenko 4                                         -   00:00 (of   52:55)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 
