@@ -1,3 +1,7 @@
+xml <
+    fo
+        format
+
 a.xml:
 <root>
 	<el1>
