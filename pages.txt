@@ -23,8 +23,8 @@ RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
+Paschenko 5a                                        -   41:30 (of   51:39)
 Lakirev 06                                          -   00:00 (of 1:05:21)
-Paschenko 5                                         -   00:00 (of   51:39)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
 Filonik                                             -   19:00 (of 2:20:08)
