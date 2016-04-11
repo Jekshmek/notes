@@ -44,7 +44,6 @@ private String name
 // java -jar yourapp.jar --name=BootDragon --server-port=9000
 // or use application.[properties/yml]
 
-
-
-
-
+endpoints:
+env
+manage
