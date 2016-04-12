@@ -1,5 +1,4 @@
-tune2fs
-    ???
+tune2fs -l /dev/sda2 | grep "Last checked:"
 
 fsck
     sudo touch /forcefsck

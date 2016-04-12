@@ -26,3 +26,5 @@ Mount NFS share
 
 sudo mount -t nfs -o nolock <host>:/<share_path> </mnt_point>
 
+
+automounter(autofs)

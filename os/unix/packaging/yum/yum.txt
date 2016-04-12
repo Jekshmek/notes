@@ -29,6 +29,7 @@ proxy=http://proxy-ip:8080  # in this example the port 8080.it can be other port
 # The account details for yum connections
 proxy_username=domain\username     # if you don't have domain put only  username
 proxy_password=mypassword
+exclude=kernel*
 
 
 Installing:
@@ -78,6 +79,7 @@ UPDATES
 yum list updates
 
 yum update <package-name>
+    –exclude=kernel*
 
 Upgrade All:
 
