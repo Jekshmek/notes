@@ -183,6 +183,7 @@ optparse-generic:
 http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html
 
 Misc:
+http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html
 http://www.haskellforall.com/2014/12/a-very-general-api-for-relational-joins.html
 http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html
