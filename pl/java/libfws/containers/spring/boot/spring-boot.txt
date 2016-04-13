@@ -47,3 +47,6 @@ private String name
 endpoints:
 env
 manage
+trace
+    last 100 or so req/resp
+liquibase
