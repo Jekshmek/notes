@@ -1,11 +1,12 @@
 :h map.txt
-	Help on key mapping
+    Help on key mapping
 :h map-which-keys
-	What keys to map
+    What keys to map
 :h index.txt
-	Index of all the vim keys
-:h {key} C-D
-	Help on mapped keys, contained <key>
+    Index of all the vim keys
+:h {key}
+    CTRL-V
+    Help on mapped keys, contained <key>
 
 Arguments:
 {cmd} {attr} {lhs} {rhs}
@@ -16,7 +17,7 @@ Arguments:
 {cmd} {lhs-key}
 	Displyay mapping for key (<C-A> for example)
 
-:verbose map {key>
+:verbose map {key}
 	Display mappings for key and show at which file it has been defined.
 
 	
