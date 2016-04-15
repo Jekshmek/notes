@@ -1,0 +1,6 @@
+http://groovy-lang.org/operators.html
+
+overloading:
+http://groovy-lang.org/operators.html#Operator-Overloading
+http://groovy.jmiguel.eu/groovy.codehaus.org/Operator+Overloading.html
+http://www.ibm.com/developerworks/ru/library/j-pg10255/
