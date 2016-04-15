@@ -12,3 +12,5 @@ be sure to go back to the settings page
 http://my.slack.com/account/settings#two_factor
 and get your backup codes.
 
+/remind
+https://slackhq.com/getting-things-done-with-reminders-9bdb7686b57a#.cwa9kx9qi
