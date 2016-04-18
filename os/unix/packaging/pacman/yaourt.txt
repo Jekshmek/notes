@@ -1,4 +1,5 @@
 https://wiki.archlinux.org/index.php/Yaourt
+https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/archlinux/archlinux.plugin.zsh
 
 yaourt-gui
 https://forum.manjaro.org/index.php?topic=7118

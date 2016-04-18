@@ -1,5 +1,5 @@
 URLs:
-Miller-AcademeseToEnglish                           - 20 of 57
+Miller-AcademeseToEnglish                           - 45 of 57
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
 http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
@@ -36,7 +36,7 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 30 - 46:00 of (1:06:53)
+Bananas and Lens                                    - 30 - 50:00 of (1:06:53)
 Razbor Poletov                                      - 107
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
