@@ -1,0 +1,22 @@
+def s = 'this is a string'
+assert s.getClass() == java.lang.String
+
+def s = "this is a string"
+assert s.getClass() == java.lang.String // compiler optimized out because there are no any interpolation
+
+def s = "this is a string ${1 + 1}"
+assert s.instanceOf GString == org.codehaus.groovy.runtime.GStringImpl // GString in the groovy docs API
+assert s.getClass() == org.codehaus.groovy.runtime.GStringImpl // GString in the groovy docs API
+
+
+CharSequence i-face
+
+def s = 'this is a string'
+s + ' and more'
+s - 'is' // look at CharSequence.minus - removes a first occurence
+s * 3
+s[0]
+s[-1]    // last letter
+s[-2]    // but last last letter
+s[0..3]  // groovy range
+s[0..3,5..7,8,10..-1]

@@ -1,3 +1,5 @@
+http://stackoverflow.com/questions/31057948/partitioning-issue-with-sgdisk
+
 GPT drops CHS (cylinder/head/sector) addressing and uses 64-bit LBA mode exclusively
 
 
