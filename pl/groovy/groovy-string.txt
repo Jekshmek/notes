@@ -20,3 +20,26 @@ s[-1]    // last letter
 s[-2]    // but last last letter
 s[0..3]  // groovy range
 s[0..3,5..7,8,10..-1]
+
+Regular multiline strings
+def picard = '''\
+line 1
+line 2
+'''
+
+Interpolated (Groovy) multiline strings:
+def picard = """...
+...
+${...}
+...
+"""
+
+Slashy strings:
+def zip = /\d{5}(-\d{4})?/
+    java.lang.String
+    we don't have to backslash the backslashes
+def zip = ~/\d{5}(-\d{4})?/
+    java.util.regex.Pattern
+
+assert '....' =~ zip
+assert '....' ==~ zip
