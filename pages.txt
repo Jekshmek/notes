@@ -22,11 +22,10 @@ RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Lakirev 08                                          -   00:00 (of   39:32)
+Lakirev 09                                          -   00:00 (of 1:09:47)
 Paschenko 2                                         -   00:00 (of 1:23:13)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
-Filonik                                             - 1:58:00 (of 2:20:08)
 Dmitrievsky                                         -   12:00 (of 2:07:06)
 
 Books:
