@@ -16,3 +16,8 @@ HOOKS="base udev autodetect modconf block resume keyboard keymap filesystems fsc
 https://bbs.archlinux.org/viewtopic.php?id=165309
 
 e2fsck
+
+fsck.service
+https://www.freedesktop.org/software/systemd/man/systemd-fsck@.service.html
+https://bbs.archlinux.org/viewtopic.php?id=148430
+https://wiki.archlinux.org/index.php/improve_boot_performance#Filesystem_mounts

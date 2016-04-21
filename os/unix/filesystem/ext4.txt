@@ -1,0 +1,4 @@
+https://wiki.archlinux.org/index.php/ext4
+
+e4defrag
+http://jsmylinux.no-ip.org/performance/using-e4defrag/
