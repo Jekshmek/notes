@@ -27,6 +27,7 @@ lxrandr
 
 Document viewer like PDF
 Evince (of Gnome)
+kdegraphics-okular (of KDE)
 
 Editors:
 gvim (7.4 with lua)
