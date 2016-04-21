@@ -39,7 +39,7 @@ http://www.slideshare.net/SpringCentral/groovy-asttransforms-paulkingsep2014b
 @Vetoable
 @Delegate
 @ToString
-    a lot of params like ignoreNulls, excludes, includeNames, includePackage, includeFields
+    a lot of params like includeNames, ignoreNulls, excludes, includePackage, includeFields
 @EqualsAndHashCode
     includes, excludes, cache, callSuper, includeFields, useCanEqual
 @Immutable
@@ -47,6 +47,7 @@ http://www.slideshare.net/SpringCentral/groovy-asttransforms-paulkingsep2014b
 @InheritConstructors
 @TupleConstructor
 @Cannonical
+    combines: TupleConstructor, ToString, EqualsAndHashCode
     make right java-class ... combining all the mentioned above
 @Sortable
     includes/excludes
