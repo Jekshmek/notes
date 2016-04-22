@@ -1,6 +1,5 @@
 def nums = [3, 1, 4, 1, 5, 9]
-println nums.class.name
-> java.util.ArrayList
+assert nums.class.name == java.util.ArrayList
 
 def nums = [3, 1, 4, 1, 5, 9] as LinkedList
   ... as Set/SortedSet
@@ -29,3 +28,18 @@ map.each { e -> println "map[${e.key}] == ${e.value}" }
 map.each { k, v -> println "map[$k] == $v" }
 
 map.each { k, v -> k * v } // -> [a, bb, cc]
+
+// extra list methods
+drop
+dropRight
+dropWhile
+
+each
+eachWithIndex
+
+flatten
+
+// operators: minus(Object), multiply, plus - produce a new list, leftShift (<<) - append and modify
+nums - 5 // rmove element equal to 5
+nums * 2 // duplicate 2 times
+nums << [...]
