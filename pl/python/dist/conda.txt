@@ -4,7 +4,7 @@ Anaconda-<ver>-Windows-x86_64.exe /S /D=C:\Anaconda
 curl -O https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
 
 https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
-https://repo.continuum.io/miniconda/Miniconda2-3.19.0-Linux-x86_64.sh
+https://repo.continuum.io/miniconda/Miniconda2-4.0.5-Linux-x86_64.sh
 
 http://www.continuum.io/blog/conda
 
@@ -31,6 +31,6 @@ lin:
 source activate/deactivate <env>
 
 ansible install:
-    conda create -n ans python
-    . activate ans
+    conda create -n <env-name> python
+    . activate <env-name>
     pip install ansible # 2.0.0.2
