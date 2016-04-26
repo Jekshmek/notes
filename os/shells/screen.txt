@@ -1,0 +1,9 @@
+http://overapi.com/linux
+
+C-a-d
+    deattach
+
+screen -list
+    list sessions
+screen -r
+    reattach/resume a screen session
