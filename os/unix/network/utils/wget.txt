@@ -1,3 +1,5 @@
-wget –random-wait -r -p -e robots=off -U mozilla http://www.example.com
-  http://handynotes.ru/page/4
-
+wget
+    –random-wait -r -p -e robots=off -U mozilla http://www.example.com
+        http://handynotes.ru/page/4
+    -i file-list.txt
+        download from file list
