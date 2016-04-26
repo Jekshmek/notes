@@ -1,5 +1,5 @@
 pv
-  Pipe Viewer
+  Pipe Viewer (at EPEL repo)
 
 pp
   pipes-progress (https://github.com/avz/pp)
