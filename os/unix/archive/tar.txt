@@ -1,2 +1,8 @@
 tar
     cvjf <arch-name>.tar.bz2 files...
+
+
+samples
+
+tar -cf - . | pv -s $(du -sb . | awk '{print $1}') | gzip > out.tgz
+tar -cf - . | pv -s $(du -sb . | awk '{print $1}') | bzip2 > out.tar.bz2
