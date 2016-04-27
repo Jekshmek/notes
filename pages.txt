@@ -8,7 +8,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Majak                                       -   01:00 (of   44:34)
+Bykov - Majak                                       -   19:00 (of   44:34)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   18:00 (of 2:26:09)
 Cronje - Using the Groovy Ecosystem for Rapid Dev   -   09:00 (of 1:26:41)
