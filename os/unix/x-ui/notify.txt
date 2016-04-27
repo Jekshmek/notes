@@ -1,2 +1,2 @@
-libnotify
-  notify-send
+Notifications:
+xfce4-notifyd
