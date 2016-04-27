@@ -8,14 +8,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Galich                                      -   15:00 (of   26:07)
-Bykov - Silver Age                                  -   15:00 (of   36:55)
+Bykov - Majak                                       -   01:00 (of   44:34)
 Chef                                                -   37:00 (of 1:06:27)
-Kryvosheev                                          -   01:00 (of   54:45)
 TT 15 - Spring Cloud and Netflix                    -   18:00 (of 2:26:09)
+Cronje - Using the Groovy Ecosystem for Rapid Dev   -   09:00 (of 1:26:41)
 
 Series:
-Grovy Fundamentals 13                               - 1:01:00 (of   13:09)
+Grovy Fundamentals 14                               -   00:00 (of   16:04)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
 RequireJS                                           - 0102
@@ -36,7 +35,7 @@ vim :h
 
 Tracking:
 Bananas and Lens                                    - 31
-Razbor Poletov                                      - 108 12:00 (of 39:33)
+Razbor Poletov                                      - 108 21:00 (of 39:33)
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec

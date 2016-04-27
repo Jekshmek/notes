@@ -43,3 +43,9 @@ def zip = ~/\d{5}(-\d{4})?/
 
 assert '....' =~ zip
 assert '....' ==~ zip
+
+string.split()
+    split string by spaces as delimiters
+
+String [] strs = "a b c".split()
+List strsList = "a b c".split() // auto-convert

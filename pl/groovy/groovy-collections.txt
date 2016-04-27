@@ -1,8 +1,10 @@
 def nums = [3, 1, 4, 1, 5, 9]
 assert nums.class.name == java.util.ArrayList
+// !!! not an ArrayList<Integer>
+// we can use nums = [3, 1, 4, ..., 'abc']
 
 def nums = [3, 1, 4, 1, 5, 9] as LinkedList
-  ... as Set/SortedSet
+  ... as Set/SortedSet, using collection c-tor with arg-t of another col-n type
 
 for (int i = 0; i < nums.size(); ++i)
     ...
@@ -20,14 +22,23 @@ num.collect { it * 2 }
    .findAll { it % 3 == 0}
    .sum()
 
+maps:
+
 def map = [a:1, b:2, c:3]
-map.d = 1 // put d:1
 map['e'] = 2
 map.put('f', 3)
 map.each { e -> println "map[${e.key}] == ${e.value}" }
 map.each { k, v -> println "map[$k] == $v" }
 
 map.each { k, v -> k * v } // -> [a, bb, cc]
+
+map.d = 1 // put d:1 by using an overloaded . operator
+
+assert map.getClass().name == java.util.LinkedHashMap
+
+// map.class.name -> throws NullPointerException
+// since . is overloaded -> map.class return null
+
 
 // extra list methods
 drop
