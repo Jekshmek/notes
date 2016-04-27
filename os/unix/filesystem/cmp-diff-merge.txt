@@ -5,6 +5,7 @@ comm
   What is it?
 
 diff/patch
+https://git-scm.com/docs/git-difftool
 
 icdiff:
 http://www.jefftk.com/icdiff
