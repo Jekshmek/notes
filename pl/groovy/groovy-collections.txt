@@ -39,6 +39,9 @@ assert map.getClass().name == java.util.LinkedHashMap
 // map.class.name -> throws NullPointerException
 // since . is overloaded -> map.class return null
 
+Maps are easy to pass inline to functions
+project.apply { plugin : 'java' }
+project.with { apply plugin : 'java' }
 
 // extra list methods
 drop
@@ -54,3 +57,6 @@ flatten
 nums - 5 // rmove element equal to 5
 nums * 2 // duplicate 2 times
 nums << [...]
+
+Passing lists inside a methods:
+args 'clone', 'http://bla-bla'
