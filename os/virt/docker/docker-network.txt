@@ -1,3 +1,5 @@
+https://www.elastic.co/blog/docker-networking
+
 /etc/sysconfig/docker-network
 #DOCKER_NETWORK_OPTIONS=-H fd:// -H tcp://0.0.0.0:2375
 DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'
