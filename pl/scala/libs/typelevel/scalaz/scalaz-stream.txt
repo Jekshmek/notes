@@ -29,3 +29,6 @@ https://youtu.be/B0L91sW3XHw
 Bjarnasson - scala.io - Purely functional io in scala:
 http://blog.higher-order.com/assets/scalaio.pdf
 http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/
+
+Kanterov - scalaz-stream
+http://slides.com/glebkanterov/scalaz-stream#/

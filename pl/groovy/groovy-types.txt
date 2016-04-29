@@ -1,3 +1,8 @@
+@CompileDynamic // default
+@CompileStatic
+@TypeChecked
+    compile dynamic but check types
+
 Groovy also have 8 primitive types
 
 But everything is an object

@@ -4,3 +4,14 @@ overloading:
 http://groovy-lang.org/operators.html#Operator-Overloading
 http://groovy.jmiguel.eu/groovy.codehaus.org/Operator+Overloading.html
 http://www.ibm.com/developerworks/ru/library/j-pg10255/
+
+elvis:
+println a ?: 'foo'
+
+smooth operator : safe navigation
+a?.size() // will not throw NPE, but returns null
+
+spread:
+def a = [ 'a', 'bb', 'c' ]
+assert a*.size() == [ 1, 2, 1 ]
+

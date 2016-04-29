@@ -49,3 +49,8 @@ string.split()
 
 String [] strs = "a b c".split()
 List strsList = "a b c".split() // auto-convert
+
+String.toURL()
+URL.getText()
+
+'http://oreilly.com'.goURL().text  // return URL page content :)

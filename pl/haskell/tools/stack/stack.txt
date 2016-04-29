@@ -21,6 +21,9 @@ guide:
 https://github.com/commercialhaskell/stack/blob/stable/doc/GUIDE.md
 http://docs.haskellstack.org/en/stable/GUIDE.html
 
+sources:
+stack unpack package-name
+
 
 https://www.fpcomplete.com/blog/2015/09/stack-more-binary-package-sharing
 

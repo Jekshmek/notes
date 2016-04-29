@@ -18,9 +18,13 @@ nums.eachWithIndex { n, idx -> println "nums[$idx] == $n" }
 
 def doubles = []
 nums.each { doubles << it * 2 } // << - append
-num.collect { it * 2 }
-   .findAll { it % 3 == 0}
-   .sum()
+num.collect { it * 2 }     // map
+   .findAll { it % 3 == 0} // filter
+   .sum()                  // reduce
+
+List string = 'this is a list of strings'.split()
+assert strings.collect { it[0] } == ['t', 'i', 'a', 'l', 'o', 's'] 
+assert strings*.size() == [4, 2, 1, 4, 2, 7] 
 
 maps:
 
@@ -35,6 +39,8 @@ map.each { k, v -> k * v } // -> [a, bb, cc]
 map.d = 1 // put d:1 by using an overloaded . operator
 
 assert map.getClass().name == java.util.LinkedHashMap
+
+assert map.collect { k, v -> "$k=$v" } == ['a=v1', 'b=2', 'c=3']
 
 // map.class.name -> throws NullPointerException
 // since . is overloaded -> map.class return null
