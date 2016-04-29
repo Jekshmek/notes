@@ -64,6 +64,9 @@ https://forum.manjaro.org/index.php?topic=6861.0
 http://archlinux.org.ru/forum/topic/1356/
 https://wiki.archlinux.org/index.php/Keyboard_configuration_in_Xorg
 
+xmodmap:
+https://wiki.archlinux.org/index.php/Xmodmap
+
 Keyboard:
 
 http://tldp.org/HOWTO/Keyboard-and-Console-HOWTO.html
