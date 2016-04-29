@@ -1,0 +1,6 @@
+passwd:
+http://www.unixmen.com/password-management-linux-using-passwd-command/
+
+Reset Pwd:
+http://www.unixmen.com/reset-root-password-centos-7/
+http://www.unixmen.com/linux-basics-reset-forgotten-password-ubuntu/
