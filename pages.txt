@@ -8,13 +8,14 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Bykov - Holms                                       -   30:00 (of 1:03:22)
+Cronje - Using the Groovy Ecosystem for Rapid Dev   -   44:00 (of 1:26:41)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   18:00 (of 2:26:09)
-Cronje - Using the Groovy Ecosystem for Rapid Dev   -   19:30 (of 1:26:41)
 Henney - Declarative Thinking Declarative Practice  -   28:00 (of 1:34:06)
 
 Series:
-Grovy Fundamentals 16                               -   02:30 (of   15:09)
+Grovy Fundamentals 17                               -   01:00 (of   09:29)
 Linux Networking 02-01                              -   01:00 (of   08:25)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
@@ -26,8 +27,7 @@ Petrushevskaya                                      -   01:00 (of   10:05)
 Lakirev 12                                          -   00:00 (of 1:30:13)
 Paschenko 6                                         -   00:00 (of 2:22:12)
 Razbor 04                                           -   01:00 (of 1:39:53)
-Abramova - Tail Happiness                           -   01:30 (of 2:02:37)
-Dmitrievsky                                         -   38:00 (of 2:07:06)
+Dmitrievsky                                         -   52:00 (of 2:07:06)
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
