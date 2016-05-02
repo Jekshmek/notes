@@ -1,0 +1,2 @@
+sudo yum install
+    p7zip p7zip-plugins
