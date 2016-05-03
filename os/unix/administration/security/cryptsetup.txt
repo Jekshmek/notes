@@ -1,1 +1,4 @@
+https://gitlab.com/cryptsetup/cryptsetup
+http://unix.stackexchange.com/questions/206476/cryptsetup-dm-crypt-plain-mode-using-keyfile-and-passphrase
+
 ??? pacman -Ss cryptsetup
