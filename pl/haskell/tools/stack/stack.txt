@@ -1,6 +1,9 @@
 https://www.fpcomplete.com/blog/2015/08/new-in-depth-guide-stack
 https://www.fpcomplete.com/blog/2015/08/stack-ghc-windows
+
+articles:
 http://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html
+http://eax.me/haskell-stack/
 
 download/releases:
 https://github.com/commercialhaskell/stack/releases

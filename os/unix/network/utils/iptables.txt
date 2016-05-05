@@ -1,4 +1,5 @@
 http://www.unix-lab.org/posts/iptables/
+http://www.unixmen.com/iptables-vs-firewalld/
 
 Eli - The Computer Guy:
 Fundamentals of iptables
