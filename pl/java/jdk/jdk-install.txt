@@ -1,4 +1,5 @@
 Arch/Manjaro:
+aur/jdk
 http://www.unixmen.com/install-java-8-manjaroarchlinux/
 
 CentOS/RHEL:
