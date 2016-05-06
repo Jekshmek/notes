@@ -1,3 +1,5 @@
+http://www.unixmen.com/hard-soft-links-user-group-management-rhcsa/
+
 hard-links:
 Note: you can't make a hard-link to a directory
 Note2: hard-links to a same file should be on the same file system
