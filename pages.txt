@@ -8,6 +8,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Bykov - Mummi                                       - 1:09:00 (of 1:18:16)
 Bykov - Pelevin                                     -   15:00 (of 1:23:15)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   24:30 (of 2:26:09)
