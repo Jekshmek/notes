@@ -25,7 +25,7 @@ RequireJS                                           - 0102
 
 Audio:
 Dmitrievsky                                         - 1:10:00 (of 2:07:06)
-Lakirev 13                                          -   00:00 (of   26:38)
+Lakirev 14                                          -   00:00 (of 1:18:37)
 Paschenko 7                                         -   00:00 (of 1:02:51)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
