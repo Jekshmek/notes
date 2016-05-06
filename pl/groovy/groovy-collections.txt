@@ -26,6 +26,16 @@ List string = 'this is a list of strings'.split()
 assert strings.collect { it[0] } == ['t', 'i', 'a', 'l', 'o', 's'] 
 assert strings*.size() == [4, 2, 1, 4, 2, 7] 
 
+.. collect(closure).sum
+    is the same as
+.sum(closure)
+    also
+nums*.multiply(2).sum
+
+nums.inject(0) { acc, val -> acc + 2 * val }  // inject/fold/reduce
+
+nums * 2  // double the collection
+
 maps:
 
 def map = [a:1, b:2, c:3]
