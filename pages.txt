@@ -37,8 +37,8 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 33  00:00 (of 57:02)
-Razbor Poletov                                      - 108 21:00 (of 39:33)
+Bananas and Lens                                    - 33  00:00 (of   57:02)
+Razbor Poletov                                      - 109 04:00 (of 2:43:17)
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
