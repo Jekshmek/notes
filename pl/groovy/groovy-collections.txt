@@ -36,6 +36,27 @@ nums.inject(0) { acc, val -> acc + 2 * val }  // inject/fold/reduce
 
 nums * 2  // double the collection
 
+
+groovy Collections (with s):
+sort(List<T> list)
+    destructive sort
+sort(strings, new Comparator<String() { int compare(String s1, String s2) { s1.size() <=> s2.size() }})
+assert strings*.size() == [1, 2, 2, 4, 4, 7]
+
+groovy Iterable.sort
+    non-destructive sort
+
+// 2-args-closure
+strings.sort(false) { s1, s2 -> s2.size() <=> s1.size() }
+
+// otherwise, the Closure is assumed to take a single param and return a Comparable (typically an Integer)
+// which is then used for further comparison.
+assert ['hi', 'hey', 'hello'] == ['hello', 'hi', 'hey'].sort { it.size() }
+
+// if size is equal - use alphabetical-sort
+strings.sort(false) { s1, s2 -> s1.size() <=> s2.size() ?: s2 <=> s1 } 
+
+
 maps:
 
 def map = [a:1, b:2, c:3]
