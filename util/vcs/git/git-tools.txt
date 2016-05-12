@@ -4,3 +4,7 @@ https://github.com/tj/git-extras/blob/master/Commands.md
 git-crypt:
 https://www.agwa.name/projects/git-crypt/
 https://github.com/AGWA/git-crypt
+
+git-secret:
+http://www.opennet.ru/tips/2969_git_pgp_crypt.shtml
+https://sobolevn.github.io/git-secret/
