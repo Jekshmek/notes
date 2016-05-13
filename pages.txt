@@ -12,7 +12,7 @@ Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   24:30 (of 2:26:09)
 Demin - Reactive Java                               -   00:00 (of )
-Grushetsky - Self-Learning                          -   20:00 (of   43:57)
+Grushetsky - Self-Learning                          -   23:00 (of   43:57)
 
 Series:
 Grovy Fundamentals 23                               -   00:30 (of   06:37)
