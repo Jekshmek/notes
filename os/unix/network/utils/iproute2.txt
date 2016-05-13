@@ -20,9 +20,13 @@ ip -4 a add 192.168.1.12 dev eth0
 ip -4 a show dev eth0
     show...
 
-ip neigh show
-    man ip-neighbour
+ip n[eigh] show
+    man ip-neighbour ??? arp-cache
   ??
+ip netns
+    network namespaces (for virt-n)
+ip netns add development
+    add a new network namespace
 
 ip route
   view the routing table

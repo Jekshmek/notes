@@ -54,3 +54,7 @@ String.toURL()
 URL.getText()
 
 'http://oreilly.com'.goURL().text  // return URL page content :)
+
+String(CharSequence).eachLine(Closure c)
+URL.eachLine(Closure c)
+List readLines()

@@ -12,16 +12,16 @@ Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   24:30 (of 2:26:09)
 Demin - Reactive Java                               -   00:00 (of )
+Grushetsky - Self-Learning                          -   20:00 (of   43:57)
 
 Series:
-Grovy Fundamentals 22                               -   00:30 (of   05:21)
-Linux Networking 02-01                              -   01:00 (of   08:25)
+Grovy Fundamentals 23                               -   00:30 (of   06:37)
+Linux Networking 03                                 -   00:00 (of   06:07)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
-FRP - Scala                                         - 4 - 5 - 04:30 (of 10:54)
-RequireJS                                           - 0102
 ???Python Fundamentals                                 - 0301
 
 Audio:
+Lakirev - John fragment                             -   09:00 (of 1:31:34)
 Dmitrievsky                                         - 1:10:00 (of 2:07:06)
 Lakirev 14                                          -   00:00 (of   34:35)
 Paschenko 8                                         -   00:00 (of 1:01:22)
@@ -35,7 +35,7 @@ vim :h
 
 Tracking:
 Bananas and Lens                                    - 33
-Razbor Poletov                                      - 109 04:00 (of 2:43:17)
+Razbor Poletov                                      - 109 1:10:00 (of 2:43:17)
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
 https://www.fpcomplete.com/recent-content - 22 Dec
