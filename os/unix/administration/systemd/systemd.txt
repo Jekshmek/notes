@@ -45,6 +45,8 @@ systemctl list-units [--all]
 
     enable  - add a service to appropriate target via symlink
     isolate - ???
+    status
+        -l -n 50
 
 
 Dependencies:

@@ -5,3 +5,6 @@ r.from // getFrom
 r.containg(10) // true
 
 r = 1..<10 // semi-open range
+
+Note !!!:
+[-3..3] is note a range, but a list win one element (range) in it
