@@ -1,6 +1,17 @@
 spock mvn repo:
 http://mvnrepository.com/artifact/org.spockframework/spock-core
 
+articles:
+http://jakubdziworski.github.io/java/groovy/spock/2016/05/14/spock-cheatsheet.html
+
+Presentations/Talks:
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/01-intro.md
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/04-gems.md
+https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/05-future.md
+
+Ship - Spock - A Highly Logical Way to Test:
+http://www.infoq.com/presentations/spock
+
 spock docs:
 http://spockframework.github.io/spock/javadoc/1.0/index.html
 
@@ -12,18 +23,9 @@ http://spockframework.github.io/spock/docs/1.0/release_notes.html
 
 http://spockframework.github.io/spock/docs/1.0/migration_guide.html
 
+
 To avoid such problems, use HamcrestSupport.that:
 ...
-
-
-
-Presentations/Talks:
-https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/01-intro.md
-https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/04-gems.md
-https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/05-future.md
-
-Ship - Spock - A Highly Logical Way to Test:
-http://www.infoq.com/presentations/spock
 
 gradle int-n:
 

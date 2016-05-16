@@ -46,7 +46,9 @@ nc/telnet
     ...
     echo Hello world | nc localhost 8080
         
-nmap
+nmap:
+https://blog.urfix.com/10-cool-nmap-tricks-techniques/
+
     check open ports at the remote <host>
     by sending TCP packets
 

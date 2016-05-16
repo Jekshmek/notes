@@ -1,6 +1,8 @@
 https://habrahabr.ru/post/280037/
 
 hostnamectl set-hostname dlp.server.world
+/etc/hostname
+    old-way to set persistent
 
 sudo systemctl restart systemd-hostnamed
   it is terminated when unused
@@ -8,3 +10,9 @@ sudo systemctl restart systemd-hostnamed
 hostname
 hostname -f
 uname -n
+
+hostname <new-host-name>
+    temp set a new host name
+
+/etc/machine-info
+PRETTY_HOSTNAME="bla-bla'bla-bla"

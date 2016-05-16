@@ -58,3 +58,7 @@ URL.getText()
 String(CharSequence).eachLine(Closure c)
 URL.eachLine(Closure c)
 List readLines()
+
+padding:
+padLeft(numChars, padding)
+    toBinaryString(str).padLeft(4, '0') 

@@ -1,3 +1,4 @@
+DUXU2ITTQBBAO743
 URLs:
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
@@ -8,15 +9,14 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+pathlib                                             -   08:00 (of   15:31)
 Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
 TT 15 - Spring Cloud and Netflix                    -   24:30 (of 2:26:09)
 Demin - Reactive Java                               -   00:00 (of )
-Grushetsky - Self-Learning                          -   23:00 (of   43:57)
 
 Series:
-Grovy Fundamentals 23                               -   00:30 (of   06:37)
-Linux Networking 03                                 -   00:00 (of   06:07)
+Linux Networking 03                                 -   00:00 (of   05:27)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
@@ -34,7 +34,7 @@ vim :h
   vimproc-functions
 
 Tracking:
-Bananas and Lens                                    - 33
+Bananas and Lens                                    - 34    32:00 (of 1:30:49)
 Razbor Poletov                                      - 109 1:10:00 (of 2:43:17)
 https://www.oracle.com/javaone/sessions/index.html
   p15 of 26
