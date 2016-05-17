@@ -1,6 +1,10 @@
 72|LXF205 - LVM
 72|LXF202 - LVM
 
+wiki:
+https://wiki.gentoo.org/wiki/LVM
+https://wiki.gentoo.org/wiki/LVM/ru
+
 /boot/grub/grub.cfg
 https://wiki.archlinux.org/index.php/GRUB2#LVM
 
@@ -20,9 +24,6 @@ sudo fdisk /dev/sda
     p - print table
     v - verify table
     n - new partition
-
-
-
 
 
 ??? vgreduce
@@ -64,7 +65,7 @@ sudo lvextend /dev/VolGroup00/LogVol00 /dev/sdb1
 
 date && sudo resize2fs /dev/VolGroup00/LogVol00 && date
 
-docer-devicemapper-storage:
+docker-devicemapper-storage:
 pvcreate /dev/xvdf1
 vgextend centos /dev/xvdf1   # centos - volume group
 # vgreduce centos /dev/xvdf1   # centos - volume group
