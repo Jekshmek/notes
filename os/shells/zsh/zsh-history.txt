@@ -1,17 +1,3 @@
-history
-	show the last portion of the history
-history 1
-	show the entire history
-
-Usefull keys:
-Esc+/
-	lookup partial word in history
-
-
-
-!!
-	recall previous command from history
-	this is the same as !-1
 !<num>
 	expand command <num> from history
 !<first_letters>
@@ -20,9 +6,10 @@ Esc+/
 	expand to a history-line containing <text_to_search>
 d^<str>
 	recall previous cmd with <str> erased from it
-!^
-	first argument on the cmd-line (useful for aliases)
 
+Usefull keys:
+Esc+/
+	lookup partial word in history
 
 history words (!<hist-cmd>:<word-cmd>)
 :0
@@ -107,4 +94,3 @@ HISTCONTROL (??? bash)
 
 HISTIGNORE
 	...
-	
