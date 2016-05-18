@@ -1,5 +1,6 @@
 https://www.fpcomplete.com/blog/2016/05/stack-security-gnupg-keys
 https://help.riseup.net/en/security/message-security/openpgp/best-practices
+https://chrisjjohnson.wordpress.com/2013/07/01/approaching-openpgp/
 
 Problems:
 https://www.gnupg.org/documentation/manuals/gnupg/Common-Problems.html

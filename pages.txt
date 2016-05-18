@@ -9,13 +9,14 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Mustafaiv - Gradle                                  -   01:00 (of 3:42:48)
 Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
-TT 15 - Spring Cloud and Netflix                    -   24:30 (of 2:26:09)
+Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Demin - Reactive Java                               -   00:00 (of )
 
 Series:
-Linux Networking 03                                 -   00:00 (of   05:27)
+Linux Networking 03                                 -   01:00 (of   07:36)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
