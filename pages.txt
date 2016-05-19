@@ -11,8 +11,9 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Leave me alone                                      -   08:00 (of   54:52)
+You 2                                               -   05:00 (of   30:21)
 Polischuk - Type Wars                               -   32:00 (of 1:01:40)
-Demin - Reactive Java                               -   06:00 (of 1:24:13)
+Demin - Reactive Java                               -   07:00 (of 1:24:13)
 Mustafaiv - Gradle                                  -   01:00 (of 3:42:48)
 Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
