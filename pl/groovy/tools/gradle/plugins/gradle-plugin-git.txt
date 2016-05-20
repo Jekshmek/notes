@@ -1,0 +1,26 @@
+https://amirnoel.wordpress.com/2016/03/09/adding-git-commit-information-to-java-jar-manifest-using-gradle/
+
+https://github.com/ajoberstar/gradle-git
+
+https://github.com/ajoberstar/grgit
+
+plugins {
+    id 'org.ajoberstar.grgit' version '1.4.2'
+    id 'org.ajoberstar.release-opinion' version '1.4.2'
+}
+
+import org.ajoberstar.gradle.git.release.opinion.Strategies
+
+release {
+    grgit = org.ajoberstar.grgit.Grgit.open(project.rootDir)
+    defaultVersionStrategy = Strategies.SNAPSHOT
+}
+
+tasks.release.dependsOn ':katharsis-vertx:bintrayUpload'
+
+ext {
+    def grgit = org.ajoberstar.grgit.Grgit.open(project.rootDir)
+
+    revision = grgit.head().id
+    shortMessage = grgit.head().shortMessage
+}
