@@ -1,0 +1,27 @@
+Multi-Project Build
+http://www.scala-sbt.org/release/tutorial/Multi-Project.html
+
+multi-prj build samples:
+https://github.com/henrikerola/scaladin/blob/3.2/build.sbt
+https://github.com/ScaleChain/scalechain/blob/master/project/ScaleChainBuild.scala
+
+Multi-Project Build Plugin
+http://engineering.sharethrough.com/blog/2015/09/23/capturing-common-config-with-an-sbt-parent-plugin/
+
+>projects
+  to inspect projects
+
+lazy val ... = [Root]Project()...dependsOn(...)
+
+...dependsOn(projectName % "config1->config2")
+
+.dependOn(square) is the same as .dependsOn(square % "compile->compile")
+.dependOn(square % test) is the same as .dependsOn(square % "test->compile")
+.dependOn(square % "compile->test;test->test") is the same as .dependsOn(square % "compile;test->test")
+.dependOn(square,cube) - multiple dep-sies
+
+...aggregate(square,cube) - groups projects togeather
+
+
+ProjectRef(file(...), "...")
+

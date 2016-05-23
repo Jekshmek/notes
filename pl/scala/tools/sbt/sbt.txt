@@ -20,21 +20,21 @@ Common Commands
     tasks         - show all the available tasks
      -v
      help tasks -v
-    actions       – show actions available for this project
+    actions       - show actions available for this project
 
     reload        - reload modified project description (build.sbt)
-    update        – downloads dependencies
-    compile       – compiles source
-    test          – runs tests
+    update        - downloads dependencies
+    compile       - compiles source
+    test          - runs tests
     test:compile
     test-only
 
-    package       – creates a publishable jar file
+    package       - creates a publishable jar file
     package-doc
     package-src
 
-    publish-local – installs the built jar in your local ivy cache
-    publish – pushes your jar to a remote repo (if configured)
+    publish-local - installs the built jar in your local ivy cache
+    publish       - pushes your jar to a remote repo (if configured)
 
     clean
 
@@ -57,9 +57,9 @@ Evaluation:
 
 Moar Commands
 
-    test-failed – run any specs that failed
-    test-quick – run any specs that failed and/or had dependencies updated
-    clean-*    – see the help...
+    test-failed   - run any specs that failed
+    test-quick    - run any specs that failed and/or had dependencies updated
+    clean-*       - see the help...
 
 Note:
     sbt reload update
@@ -161,32 +161,6 @@ last <task>
 print-warnings
 
 
-Multi-Project Build
-http://www.scala-sbt.org/release/tutorial/Multi-Project.html
-
-multi-prj build samples:
-https://github.com/henrikerola/scaladin/blob/3.2/build.sbt
-
-Multi-Project Build Plugin
-http://engineering.sharethrough.com/blog/2015/09/23/capturing-common-config-with-an-sbt-parent-plugin/
-
->projects
-  to inspect projects
-
-lazy val ... = [Root]Project()...dependsOn(...)
-
-...dependsOn(projectName % "config1->config2")
-
-.dependOn(square) is the same as .dependsOn(square % "compile->compile")
-.dependOn(square % test) is the same as .dependsOn(square % "test->compile")
-.dependOn(square % "compile->test;test->test") is the same as .dependsOn(square % "compile;test->test")
-.dependOn(square,cube) - multiple dep-sies
-
-...aggregate(square,cube) - groups projects togeather
-
-
-ProjectRef(file(...), "...")
-
 .sbt file
 
 initialCommands in console := """
@@ -263,4 +237,3 @@ https://github.com/cos/IteRace/blob/master/build.sbt
 !!!
 http://blog.codacy.com/2015/05/20/sbt-the-easy-way/
 private val buildVersion = sys.props.getOrElse("build.number", "dev")
-
