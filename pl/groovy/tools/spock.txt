@@ -51,6 +51,8 @@ http://spockframework.github.io/spock/docs/1.0/extensions.html
 @IgnoreRest
 @IgnoreIf
 @Stepwise
+    Run feature methods sequentially in their declared order
+    http://spockframework.github.io/spock/javadoc/1.0/spock/lang/Stepwise.html
 @AutoCleanup
 @AutoCleanup("dispose")
 @AutoCleanup(quiet = true)
