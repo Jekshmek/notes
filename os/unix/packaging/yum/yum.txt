@@ -7,6 +7,8 @@ https://www.centos.org/docs/5/html/5.1/Deployment_Guide/s1-yum-useful-commands.h
 http://www.computerhope.com/unix/yum.htm
 http://blog.packagecloud.io/eng/2015/04/05/yum-cheat-sheet/
 
+https://habrahabr.ru/post/301292/
+
 80|LXF205 - rpm, yum and dnf
 
 On your system, two package databases are maintained:
@@ -42,7 +44,7 @@ http://unix.stackexchange.com/questions/23330/how-can-i-remove-orphan-packages-i
 
 yum remove|erase <package>
   search
-  list|info
+  list|info|deplist
 
 Repositories:
 
@@ -80,6 +82,12 @@ yum list updates
 
 yum update <package-name>
     –exclude=kernel*
+
+yum updateinfo list security
+    list available security updates
+
+yum check-update
+    check updates
 
 Upgrade All:
 

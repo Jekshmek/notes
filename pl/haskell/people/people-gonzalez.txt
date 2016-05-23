@@ -182,6 +182,9 @@ http://www.haskellforall.com/2015/11/interactive-and-composable-charts.html
 optparse-generic:
 http://www.haskellforall.com/2016/02/auto-generate-command-line-interface.html
 
+bench:
+http://www.haskellforall.com/2016/05/a-command-line-benchmark-tool.html
+
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html
