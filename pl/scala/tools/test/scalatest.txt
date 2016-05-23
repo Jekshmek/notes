@@ -1,0 +1,2 @@
+samples:
+https://github.com/ScaleChain/scalechain/blob/master/scalechain-script/src/test/scala/io/scalechain/blockchain/script/ArithmeticSpec.scala
