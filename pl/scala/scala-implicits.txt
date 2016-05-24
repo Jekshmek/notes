@@ -51,4 +51,5 @@ implicit class Person(name: String)
 implicit class Person(name: String)
 implicit final def Person(name: String): Person = new Person(name)
 
-
+6 implicitly keyword
+http://ru-scala.livejournal.com/59950.html
