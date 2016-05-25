@@ -1,7 +1,26 @@
 Paumard - Java 8 Streams and Collectors Patterns
 http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performances-and-parallelization
 
+Presentations:
+Valeev - JPoing 2016
+
+
 Goetz:
 http://www.ibm.com/developerworks/java/library/j-java-streams-1-brian-goetz/index.html
 http://www.ibm.com/developerworks/java/library/j-java-streams-2-brian-goetz/index.html
 http://www.ibm.com/developerworks/java/library/j-java-streams-3-brian-goetz/index.html
+
+Characteristics:
+SIZED
+SUBSIZED
+SORTED
+ORDERED
+DISTINCT
+NONNULL
+IMMUTABLE
+CONCURRENT
+
+characterized by Spliterator
+
+???
+.boxed()

@@ -12,9 +12,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Valeev - Stream API                                 -   20:00 (of 1:13:56)
+Baruch - JFrog                                      -   10:00 (of 1:22:26)
 EPAM mission vision and PDS 2                       -   33:00 (of 1:55:44)
-You 2                                               -   24:00 (of   30:21)
-Demin - Reactive Java                               -   07:00 (of 1:24:13)
+Demin - Reactive Java                               -   13:00 (of 1:24:13)
 Mustafaiv - Gradle                                  -   01:00 (of 3:42:48)
 Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
@@ -40,10 +41,8 @@ vim :h
 
 Tracking:
 Bananas and Lens                                    - 34
-Razbor Poletov                                      - 109 1:21:00 (of 2:43:17)
-https://www.oracle.com/javaone/sessions/index.html
-  p15 of 26
-https://www.fpcomplete.com/recent-content - 22 Dec
+Razbor Poletov                                      - 109
+https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
