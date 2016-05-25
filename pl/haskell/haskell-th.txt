@@ -20,6 +20,7 @@ http://www.slideshare.net/kizzx2/template-haskell-tutorial
 
 Tutorials:
 https://github.com/leonidas/codeblog/blob/master/2011/2011-12-27-template-haskell.md
+https://wiki.haskell.org/A_practical_Template_Haskell_Tutorial
 
 UserGuide:
 http://www.haskell.org/ghc/docs/latest/html/users_guide/template-haskell.html
