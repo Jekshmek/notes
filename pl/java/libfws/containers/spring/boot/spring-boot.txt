@@ -49,4 +49,10 @@ env
 manage
 trace
     last 100 or so req/resp
-liquibase
+dump
+   thread dump 
+liquibase or flyway
+logfile
+mappings
+    list all the @RequestMapping paths declared in your application
+shutdown
