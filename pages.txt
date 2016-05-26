@@ -12,10 +12,11 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+EPAM mission vision and PDS 2                       - 1:09:00 (of 1:55:44)
+Zhemerov - Kotlin                                   -   30:00 (of 1:03:55)
 Valeev - Stream API                                 -   20:00 (of 1:13:56)
 Baruch - JFrog                                      -   10:00 (of 1:22:26)
-EPAM mission vision and PDS 2                       -   33:00 (of 1:55:44)
-Demin - Reactive Java                               -   13:00 (of 1:24:13)
+Demin - Reactive Java                               -   16:00 (of 1:24:13)
 Mustafaiv - Gradle                                  -   01:00 (of 3:42:48)
 Bykov - Sobchak                                     -   06:30 (of 1:38:15)
 Chef                                                -   37:00 (of 1:06:27)
@@ -28,7 +29,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Lakirev - John fragment                             -   09:00 (of 1:31:34)
-Lakirev 16                                          -   00:00 (of 1:19:12)
+Lakirev 17                                          -   00:00 (of   29:??)
 Dmitrievsky                                         - 1:10:00 (of 2:07:06)
 Paschenko 9                                         -   00:00 (of 1:08:58)
 Razbor 04                                           -   01:00 (of 1:39:53)
