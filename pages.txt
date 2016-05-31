@@ -1,8 +1,6 @@
 URLs:
 https://engineering.linkedin.com/blog/2016/05/introducing-and-open-sourcing-ambry---linkedins-new-distributed-
   Router/Frontend
-https://chrisjjohnson.wordpress.com/2013/07/01/approaching-openpgp/
-  Subkeys
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -33,15 +31,15 @@ Dmitrievsky                                         - 1:10:00 (of 2:07:06)
 Paschenko 9                                         -   00:00 (of 1:08:58)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
-Books:
-OpenSSL Cookbook                                    - 29 (of 58)
-
 Tracking:
 Bananas and Lens                                    - 35
-Razbor Poletov                                      - 110 29:30 (of 2:37:52)
+Razbor Poletov                                      - 110 2:01:00 (of 2:37:52)
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
+
+Books:
+OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
