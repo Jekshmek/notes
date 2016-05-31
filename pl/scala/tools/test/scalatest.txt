@@ -1,2 +1,5 @@
 samples:
 https://github.com/ScaleChain/scalechain/blob/master/scalechain-script/src/test/scala/io/scalechain/blockchain/script/ArithmeticSpec.scala
+
+matchers:
+http://www.scalatest.org/user_guide/using_matchers
