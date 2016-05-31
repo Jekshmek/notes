@@ -1,12 +1,10 @@
 URLs:
 https://engineering.linkedin.com/blog/2016/05/introducing-and-open-sourcing-ambry---linkedins-new-distributed-
-  2013
+  Router/Frontend
 https://chrisjjohnson.wordpress.com/2013/07/01/approaching-openpgp/
   Subkeys
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
-http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/
-  Example API
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
@@ -38,19 +36,12 @@ Razbor 04                                           -   01:00 (of 1:39:53)
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
 
-vim :h
-  vimproc-functions
-
 Tracking:
-Bananas and Lens                                    - 35 - 03:00 (of 41:42)
-Razbor Poletov                                      - 109
+Bananas and Lens                                    - 35
+Razbor Poletov                                      - 110 29:30 (of 2:37:52)
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
-80|LXF200 - IPv6
 
-frapsan.ru H, F4064(6,8)
 amway.ru - eSpring
-
-org.apache.commons.io.output.TeeOutputStream
