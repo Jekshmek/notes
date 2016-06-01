@@ -4,6 +4,18 @@ http://youtu.be/ebWVLVhiaiY
     Strong, Evential [EC], Strong+Eventual [SEC] (solves the CAP)
     EC - with rollbas, SEC - no roll-backs, durable
 
+Grischenko - SWARM DB:
+http://www.slideshare.net/it-people/swarmjs-60809789
+https://www.youtube.com/watch?v=tNdgolY7Jb8
+    CRDTs:
+        State-Based
+            Riak
+        Op-Based
+            partially ordered log of immutable operations
+            op-s can be reordered without breaking root-cause links
+            we can reorder only concurrent ops, not a sequential ops
+                version-versions - is a brute-force approach
+
 http://basho.com/tag/crdt/
 
 http://www.allthingsdistributed.com/2008/12/eventually_consistent.html
