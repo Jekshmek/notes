@@ -10,7 +10,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 EPAM - 2018                                         -   42:00 (of 1:32:59)
 EPAM - Google                                       -   11:00 (of   56:53)
-Cheremin - Escape Analysis and Scalarization        -   05:00 (of 1:10:22)
+Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Tolkachev - Gradle                                  -   53:00 (of 1:26:54)
 Valeev - Stream API                                 -   20:00 (of 1:13:56)
