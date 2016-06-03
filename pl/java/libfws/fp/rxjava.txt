@@ -55,6 +55,10 @@ Observable
         (observable) -> { return observable.filter(...)...doOnNext((xx) -> { ... });
 
     .concat(observable1, obs2, ...)
+    .merge(obs1, obs2)
+        immediately merge vs concat, which is wait
+        .merge(obs1, obs2)
+            immediately merge vs concat, which is wait
     .zip(wrappedObservable, accum::collapseFunction)
         SomeClass accum;
             SomeClass accum::collapseFunction(Object [] events) {
@@ -70,6 +74,7 @@ Observable
     .observeOn(Scheduler s) // if not speci-d, the subscribeOn's one will be used
         Schedulers.io()
     .onErrorResumeNext(throwable -> {... return ...})
+    .doOnNext(x -> ...)
     .doOnCompleted(() -> {
         synchronized(waitMon) {
             waitMon.notify();
@@ -160,11 +165,25 @@ Observable
         AsyncSubject<String> subj = AsyncSubject.create();
 
     // Backpreassure etc.
-    .debounce(n, TimeUnit.Seconds) // No more sending multiple requests within a specified time frame
+
+    // No more sending multiple requests within a specified time frame
+    // get the first item in a time-frame
+    .debounce(n, TimeUnit.Seconds) 
+    // -//-
+    // get the last item in a time-frame
+    .throttleLast(n, TimeUnit.MILLISECONDS)
 
     // Error processing
     .onErrorReturn(throwable -> new User())
+    .onErrorResumeNext(Observable.just(....))
+
     http://docs.couchbase.com/developer/java-2.0/observables.html
+
+    // ???
+    .delay(TimeUnit.whatever)
+
+    // ???
+    .peek(?)
 
 BlockingObservable
     .from (...)
@@ -291,6 +310,15 @@ observableFutureList.subscribe((list) -> {
         System.out.println(i);
     });
 });
+
+
+async processing:
+
+Observable<Long> interval1 = Observable
+    .interval(2000L, TimeUnit.MILLISECONDS, Schedulers.computation())
+    .take(5)
+    .doOnEach(Util.debug("Interval 1"))
+    .finallyDo(latch::countDown)
 
 
 error hanling

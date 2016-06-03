@@ -21,6 +21,15 @@ IMMUTABLE
 CONCURRENT
 
 characterized by Spliterator
+.trySplit()
 
-???
 .boxed()
+    ???
+
+.sorted()
+    full-barier operation (downstream ops can't start until this one ends)
+.skip() and .limit()
+    does not preserve the stream size :(
+    .sublis() - is more effective
+    .parallell() stream really utilize Spliterator and do a HUGE perf-boost
+
