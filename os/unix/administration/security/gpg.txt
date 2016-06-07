@@ -1,6 +1,12 @@
+https://wiki.archlinux.org/index.php/GnuPG
+
 https://www.fpcomplete.com/blog/2016/05/stack-security-gnupg-keys
 https://help.riseup.net/en/security/message-security/openpgp/best-practices
 https://chrisjjohnson.wordpress.com/2013/07/01/approaching-openpgp/
+
+agent:
+https://wiki.archlinux.org/index.php/GnuPG#gpg-agent
+https://wiki.archlinux.org/index.php/GnuPG#Unattended_passphrase
 
 Problems:
 https://www.gnupg.org/documentation/manuals/gnupg/Common-Problems.html

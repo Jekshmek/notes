@@ -14,4 +14,6 @@ docker network
 docker run ... --publish-service=... --net=net-name ...
 
 Docker DNS:
+https://github.com/gliderlabs/resolvable
+
 http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
