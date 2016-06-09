@@ -9,7 +9,6 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Brodsky                                     -   36:00 (of 1:22:29)
-EPAM - 2018                                         - 1:13:00 (of 1:32:59)
 EPAM - Google                                       -   11:00 (of   56:53)
 Tolkachev - Gradle                                  - 1:01:00 (of 1:26:54)
 Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)
