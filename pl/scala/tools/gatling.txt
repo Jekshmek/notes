@@ -24,15 +24,34 @@ http://gatling.io/docs/2.2.1/general/assertions.html
 Articles:
 http://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/
 
+Presentations:
+http://www.slideshare.net/xebia/testworks-conf-performance-testing-made-easy-with-gatling-guillaume-corre
+
 sbt plugin:
+http://gatling.io/docs/2.2.1/extensions/sbt_plugin.html
 http://gatling.io/docs/2.2.1/migration_guides/2.0-to-2.1.html#sbt-plugin
+
+https://bintray.com/gatling/sbt-plugins/gatling-sbt/view
+
+project/plugins.sbt:
+    addSbtPlugin("io.gatling" % "gatling-sbt" % "2.2.0")
+
+build.sbt:
+    enablePlugins(GatlingPlugin)
 
     "io.gatling" % "gatling-sbt" % "2.1.0" for the SBT Plugin
     "io.gatling" % "gatling-test-framework" % "2.1.0" for the testing framework.
 
-In order to not conflict with "standard" tests frameworks,
-you're now required to prefix your command with gatling:
+    javaOptions in Gatling := overrideDefaultJavaOptions("-Xms1024m", "-Xmx2048m")
+
+In order to not conflict with "standard" tests frameworks, you're now required to prefix your command with gatling:
 , e.g. gatling:test instead of test.
+
+sbt
+    gatling(-it):copyConfigFiles
+    gatling(-it):copyLogbackXml
+    gatling(-it):lastReport
+
 
 samples:
 

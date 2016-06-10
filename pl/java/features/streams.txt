@@ -40,3 +40,9 @@ characterized by Spliterator
     preserves SIZED if parts are SIZED
 .flatMap()
     like concat but better with ORDERED streams than .concat()
+    disadvantages (vs concat) are:
+        - no more speedup more than 2x using parallel
+        - don't preserves SIZED
+        - uses more memory
+        - short-circuiting (find result earlier than finishing consuming all the input)
+        - .flatMap...spliterator().tryAdvance() - throws OOM because of the buffering
