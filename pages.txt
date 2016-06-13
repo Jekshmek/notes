@@ -8,11 +8,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Brodsky                                     -   36:00 (of 1:22:29)
+Bykov - Brodsky                                     - 1:05:00 (of 1:22:29)
+Lozynskyi - RxJava Applied - Concise Examples       -   10:30 (of   24:55)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
-Fain - Angular 2                                    -   15:00 (of 1:46:34)
-Fain - Reactive Thinking                            -   15:00 (of   49:16)
-Lozynskyi - RxJava Applied - Concise Examples       -   05:00 (of   
+Fain - Angular 2                                    -   23:00 (of 1:46:34)
 Bugaenko - Immutability                             -   06:00 (of   46:35)
 EPAM - Google                                       -   11:00 (of   56:53)
 Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
@@ -25,6 +24,7 @@ Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -32,14 +32,14 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
+Lakirev 2                                           -   00:00 (of 1:39:39)
 Paschenko 3a                                        -   00:00 (of   59:55)
-Lakirev 1                                           -   00:00 (of 1:08:28)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 110
+Razbor Poletov                                      - 111 15:00 (of 2:19:35)
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 131
 LXF                                       - 199..207|3 Feb 2016

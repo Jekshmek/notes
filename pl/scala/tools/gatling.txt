@@ -69,7 +69,7 @@ val scn = scenario("Basic login") // scenario name
         .param("username", "me")
         .param("password", "foo")
 
-        .body(RawFileBody("myFileBody.json")).asJSON
+        .body(RawFileBody("myFileBody.json")).asJSON // can use fastring templating
 
         .check(css("#username").is("me"))
 

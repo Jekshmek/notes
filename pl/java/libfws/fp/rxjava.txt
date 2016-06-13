@@ -185,6 +185,11 @@ Observable
     // -//-
     // get the last item in a time-frame
     .throttleLast(n, TimeUnit.MILLISECONDS)
+    //
+    .throttleFirst()
+    .buffer()
+    .window(n)
+    .sample()
 
     // Error processing
     .onErrorReturn(throwable -> new User())
