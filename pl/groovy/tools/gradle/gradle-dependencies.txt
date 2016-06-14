@@ -86,3 +86,15 @@ Sample tasks:
 task listJars << {
     configurations.compile.each { File file -> println file.name }
 }
+
+BuildScript dependencies:
+https://solidsoft.wordpress.com/2016/06/07/gradle-tricks-display-buildscript-dependencies/
+dependencies
+sub-prj-name:dependencies
+buildEnvironment task
+subprojects {
+    task allDeps(type: DependencyReportTask) {
+    }
+    task allDepsInsight(type: DependencyInsightReportTask) {
+    }
+}

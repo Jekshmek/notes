@@ -9,8 +9,10 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Brodsky                                     - 1:05:00 (of 1:22:29)
-Lozynskyi - RxJava Applied - Concise Examples       -   10:30 (of   24:55)
+Polischuk - Types war                               -   15:00 (of   49:32)
+Yermilov - MrSpock                                  -   32:00 (of   50:11)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
+Lyaruu - The Road to Reactive with RxJava           -   15:00 (of   41:43)
 Fain - Angular 2                                    -   23:00 (of 1:46:34)
 Bugaenko - Immutability                             -   06:00 (of   46:35)
 EPAM - Google                                       -   11:00 (of   56:53)
@@ -33,7 +35,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Lakirev 2                                           -   00:00 (of 1:39:39)
-Paschenko 3a                                        -   00:00 (of   59:55)
+Paschenko 3b                                        -   00:00 (of   11:51)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
 

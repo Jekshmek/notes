@@ -1,6 +1,8 @@
 xml <
     fo
         format
+    el
+        display the elements structure
 
 a.xml:
 <root>
@@ -18,3 +20,7 @@ a.xml:
 1
 2
 
+S:Envelope/S:Body/ns2:processMultiVerbatimDocumentResponse/return/verbatimSet/verbatim/sentences/sentence/attributes/attributeValues/attributeName
+
+Namespaces
+http://xmlstar.sourceforge.net/doc/UG/ch05s01.html
