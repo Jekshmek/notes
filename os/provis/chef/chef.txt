@@ -57,6 +57,13 @@ https://supermarket.chef.io/
 - chefignore
 - metadata.rb
    https://docs.chef.io/config_rb_metadata.html
+    maintainer "Bob"
+    maintainer_email "bob@gmail.com"
+    description "A cookbook"
+    version "2.0.1"
+    depends "apache2", ">=0.99.4"
+    depends "mysql", ">=1.0.5"
+    recipe "A recipe", "blablabla"
 - .kitchen.yml
     ---
     driver:
@@ -173,16 +180,34 @@ Kitchen:
             [INSTANCE|REGEXP|all]
 
 knife
-    cookbook upload apache
-    cookbook site install chef-sugar
-        Berksfile:
-            cookbook 'shef-sugar'
-        include_recipe 'chef-sugar::default'
+    cookbook
+        upload apache
+        list
+        create
+        download
+        metadata
+
+        site
+            install chef-sugar
+                Berksfile:
+                    cookbook 'shef-sugar'
+                include_recipe 'chef-sugar::default'
+
+                chef-client
+                    ???
+            list
+            share
+            unshare
+            search
+            download
+
     upload data_bags/vhosts
     diff cookbooks/apache
-    node run list add/remove node1 "recipe[apache:vhosts]"
-    node run list add/remove node1 "role[webserver]"
-        update the run list
+    node
+        run list add/remove node1 "recipe[apache:vhosts]"
+        run list add/remove node1 "role[webserver]"
+            update the run list
+        show nodename -r
     role from file webserver.json
     search node "role:webserver"
         webservers = search(:node, "role:webserver")
@@ -191,6 +216,9 @@ knife
             # stuff
         end
     search vhosts "port:81"
+
+    bootstrap
+        10.1.1.110 -r 'recipe[chef-client]' -x username -p password --sudo
 
 Programming/Ruby:
     https://docs.chef.io/ruby.html
