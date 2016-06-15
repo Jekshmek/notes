@@ -50,8 +50,10 @@ http://spockframework.github.io/spock/docs/1.0/modules.html
 Extensions:
 http://spockframework.github.io/spock/docs/1.0/extensions.html
 
-@IgnoreRest
+@Requires
 @IgnoreIf
+@IgnoreRest
+
 @Stepwise
     Run feature methods sequentially in their declared order
     http://spockframework.github.io/spock/javadoc/1.0/spock/lang/Stepwise.html
@@ -72,6 +74,7 @@ http://spockframework.github.io/spock/docs/1.0/extensions.html
     http://mechanitis.blogspot.com.by/2013/07/spock-is-awesome-seriously-simplified.html
 ???
     custom ext
+
 
 spock-spring ext:
 @Autowired
@@ -151,3 +154,7 @@ class MyFastSpec extends Specification {
 
 Interesting:
 Spock (at settings.gradle) change the "build.gradle" names to "spring.name" i.e.
+
+Conditions:
+PollingConditions
+AsyncConditions

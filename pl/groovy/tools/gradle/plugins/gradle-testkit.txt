@@ -24,6 +24,7 @@ class TestSpecification extends Specification {
             def result = GradleRunner.create()
                 .withProjectDir(testProjectDir.root)
                 .withArguments('documentationDistZip')
+                .withPluginClasspath(pluginClasspath) // see Tolkachev pres-n
                 .build()
         then:
             result.task(":documentationDistZip").outcome == TaskOutcome.UP_TO_DATE
