@@ -1,4 +1,6 @@
 URLs:
+http://www.slideshare.net/chef-software/chef-for-beginners-module-5-61251285
+  38
 https://engineering.linkedin.com/blog/2016/05/introducing-and-open-sourcing-ambry---linkedins-new-distributed-
   Router/Frontend
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
@@ -8,7 +10,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Brodsky                                     - 1:05:00 (of 1:22:29)
+Bykov - Brodsky                                     - 1:11:00 (of 1:22:29)
 Polischuk - Types war                               -   15:00 (of   49:32)
 Yermilov - MrSpock                                  -   32:00 (of   50:11)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)

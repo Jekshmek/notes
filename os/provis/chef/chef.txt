@@ -1,6 +1,86 @@
+Presentations:
+http://www.slideshare.net/chef-software/chef-for-beginners-module-5-61251285
+
 ChefDK
 https://downloads.chef.io/chef-dk/
 https://aur.archlinux.org/packages/chef-dk/
 
+
+chef-apply:
+    applies individual resources, does not work with cookbooks
+    https://docs.chef.io/ctl_chef_apply.html
+
+    -e "package 'nano'"
+        execute ad-hoc resource
+    res-file.rb
+        execute resources from <res-file.rb>
+
+chef:
+    generate
+        create a new app, cookbook or component
+    generate cookbook --help
+    generate cookbook apache
+    generate recipe apache server
+
+chef-client:
+    works with cookbooks
+    is an agent, running at every node in order to bring it to the desired state
+    https://docs.chef.io/chef_client.html
+
+    --local-mode
+        to avoid contacting chef-server
+    -r "recipe[cookbook-name::recipe-name],..."
+    -r "recipe[cookbook-name(::default)],..."
+        run-list
+
+
+cookbooks:
+https://docs.chef.io/cookbooks.html
+
+- defines a scenario
+- contains components to support that scenario:
+    - recipes
+    - attribute values
+    - file distributions
+    - templates
+    - extensions: libraries, definitions, custom resources
+
+- Berksfile
+- chefignore
+- metadata.rb
+   https://docs.chef.io/config_rb_metadata.html
+- .kitchen.yml
+    ---
+    driver:
+        name: vagrant # can also be docker
+    provisioner:
+        name: chef_zero
+    platforms:
+        - name: centos-7.1
+        - name: ubuntu-14.04
+    suites:
+        - name: default
+          run_list:
+            - recipe[workstation::default]
+          attributes:
+- README.md
+- recipes/
+-- default.rb
+- spec/
+-- spec_helper.rb
+- test/
+-- integration/
+--- helpers/
+---- serverspec/
+----- spec_helper.rb
+
 ChefKitchen
-UT suite
+    UT suite
+    http://kitchen.ci/
+    http://kitchen.ci/docs/getting-started/creating-cookbook
+
+    kitchen
+        list
+            list a test-matrix
+        converge
+            apply a recipe to a vm
