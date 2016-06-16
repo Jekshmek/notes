@@ -22,3 +22,6 @@ https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter10/release
 https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter11/scalastyle-plugin/src/main/scala/ScalastylePlugin.scala
 
 addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.5")
+
+git:
+https://github.com/sbt/sbt-git
