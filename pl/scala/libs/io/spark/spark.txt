@@ -32,3 +32,23 @@ action-terminal
 
 persist (non-action)
     store intermediate results to distinct places
+
+Broadcast:
+sparkctx.broadcast(any serializ-le obj)
+! bad thing to inject spark-ctx
+
+@AutowiredBroadcast // custom an-n
+Broadcast<UserConfig> userConfig;
+
+userConfig.garbage()....
+
+
+DataFrames
+distributed col-n of data organized into named columns (vs tuple or other stuff)
+they generate RDDs
+has a broad DSL linked with SqlContext
+    sqlContext.sql("select ...").toDF();
+    registerTable...
+    DataFrame linkedIn = sqlContext.read().json("data/file");
+    linkedIn.show();
+

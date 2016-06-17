@@ -9,7 +9,6 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Brodsky                                     - 1:11:00 (of 1:22:29)
-Tolkachev - Gradle                                  - 1:23:00 (of 1:26:54)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
 Fain - Angular 2                                    -   26:00 (of 1:46:34)
@@ -19,6 +18,7 @@ Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)
+Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Trofimov - Different flavors of polymorphism in Scala   09:00 (of   35:26)
 Bugaenko - Immutability                             -   06:00 (of   46:35)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
@@ -28,8 +28,6 @@ Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
-Meijer - A Playful Introduction to Rx               -   03:00 (of 1:14:24)
-Borisov - Spring Puzzlers – second season           -   00:00 (of)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
