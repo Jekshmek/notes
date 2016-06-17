@@ -1,0 +1,25 @@
+Kitchen:
+    UT suite
+    http://kitchen.ci/
+    http://kitchen.ci/docs/getting-started/creating-cookbook
+    http://kitchen.ci/docs/getting-started/writing_test
+
+    http://serverspec.org/
+    http://serverspec.org/resource_types.html
+
+    https://relishapp.com/rspec/rspec-core/docs
+
+    kitchen
+        list
+            list a test-matrix
+        create
+            [INSTANCE|REGEXP|all]
+        converge
+            [INSTANCE|REGEXP|all]
+                apply a recipe to a vm
+        verify
+            [INSTANCE|REGEXP|all]
+        destroy
+            [INSTANCE|REGEXP|all]
+        test
+            [INSTANCE|REGEXP|all]

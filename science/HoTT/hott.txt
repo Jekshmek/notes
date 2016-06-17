@@ -1,0 +1,13 @@
+Bazerman:
+https://www.youtube.com/watch?v=OupcXmLER7I
+13:00
+Voevodsky:
+https://www.youtube.com/watch?v=b4BlA7NymIE
+
+Pi - forall
+Sigma - exists
+
+P : Pi (x : Circle). U
+P = \x -> (x, I)
+
+Sigma (x : Circle) (P(x))

@@ -1,0 +1,57 @@
+http://stackoverflow.com/questions/21168467/bootstrapping-a-windows-client-in-chef
+
+options:
+    -VV
+        extra verbose
+
+knife
+    configure --initial
+    chef-client -z
+        indeed creates a pem-file
+
+    bootstrap
+        https://learn.chef.io/manage-a-node/rhel/bootstrap-your-node/
+
+        ssh_user@FQDN(192.168.235.102) -r 'recipe[chef-client]'
+        -x username -p password --sudo
+        knife bootstrap iharh@192.168.235.102 -r "recipe[chef-client]"
+
+    ssl check
+        ???
+
+    cookbook
+        upload apache
+        list
+        create
+        download
+        metadata
+
+        site
+            install chef-sugar
+                Berksfile:
+                    cookbook 'shef-sugar'
+                include_recipe 'chef-sugar::default'
+
+                chef-client
+                    ???
+            list
+            share
+            unshare
+            search
+            download
+
+    upload data_bags/vhosts
+    diff cookbooks/apache
+    node
+        run list add/remove node1 "recipe[apache:vhosts]"
+        run list add/remove node1 "role[webserver]"
+            update the run list
+        show nodename -r
+    role from file webserver.json
+    search node "role:webserver"
+        webservers = search(:node, "role:webserver")
+        # or
+        search(:node, "role:webserver").each do |web|
+            # stuff
+        end
+    search vhosts "port:81"

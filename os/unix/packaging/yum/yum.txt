@@ -54,6 +54,9 @@ ll /etc/yum.repos.d/
 
 wget http://download.virtualbox.org/virtualbox/rpm/rhel/virtualbox.repo
 
+yum makecache fast
+    update repos metadata
+
 Groups:
 
 yum grouplist

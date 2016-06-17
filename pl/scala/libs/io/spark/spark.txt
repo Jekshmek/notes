@@ -1,0 +1,34 @@
+!!!
+We actually need only YARN from HADOOP
+
+SparkContext:
+
+SparkConf conf = new SparkConf();
+conf.setAppName("my spark app");
+conf.setMaster("local[*]");
+JavaSparkContext sc = new JavaSparkContext(conf)
+
+@Bean
+@Profile("local") // "prod" spring.profiles.active
+public JavaSparkContext sc() {
+    ...
+    // only for "local" - conf.setMaster("local[1]");
+    ...
+}
+
+
+RDD:
+JavaRDD<String> rdd = sc.textFile("file:/home/data/data.txt");
+
+rdd = sc.textFile("/data/data.txt") // hdfs://, s3://data/*
+
+flow ops:
+intermediate-rdd
+action-terminal
+- map, flatMap, mapToPair
+- reduceByKey (Tuple2::swap)
+- sortByKey
+- take
+
+persist (non-action)
+    store intermediate results to distinct places

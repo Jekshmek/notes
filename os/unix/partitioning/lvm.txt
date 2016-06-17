@@ -11,6 +11,9 @@ https://wiki.archlinux.org/index.php/GRUB2#LVM
 http://serverfault.com/questions/279571/lvm-dangers-and-caveats
 http://www.tldp.org/HOWTO/LVM-HOWTO/recipesplitvg.html
 
+https://www.unixmen.com/rhcsa-module-2-log-management-disk-partition-lvm-management/
++ luks
+
 need to boot from USB and then:
 
 sudo lvdisplay ManjaroVG/ManjaroRoot
