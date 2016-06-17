@@ -31,7 +31,7 @@ knife
 
         ssh_user@FQDN(192.168.235.102) -r 'recipe[chef-client]'
         -x username -p password --sudo
-        knife bootstrap iharh@192.168.235.102 -r "recipe[chef-client]"
+        knife bootstrap -N t2 vagrant@192.168.235.50 -r "recipe[chef-client]"
 
 
     cookbook
