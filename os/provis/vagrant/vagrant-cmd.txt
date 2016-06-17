@@ -1,0 +1,4 @@
+vagrant
+    list-commands
+
+    ssh/rdp

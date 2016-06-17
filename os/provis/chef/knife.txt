@@ -16,11 +16,18 @@ knife
             WARNING: Certificates from epbygomw0024t1.gomel.epam.com
             will be fetched and placed in your trusted_cert directory
             (/home/iharh/.chef/trusted_certs).
+
+            Starting with chef-client 12.0, use the knife ssl_fetch
+            command to pull down the SSL certificates from the
+            on-premises Chef server and add them to the
+            /trusted_certs_dir on the workstation.
+            This certificates is used during a knife bootstrap operation.
+
         check
             Connecting to host epbygomw0024t1.gomel.epam.com:443
             Successfully verified certificates from `epbygomw0024t1.gomel.epam.com'
 
-    [user|node|role|supermarket|...]
+    [user|node|client|role|supermarket|...]
         list
             to verify some info
     spork
@@ -29,15 +36,28 @@ knife
     bootstrap
         https://learn.chef.io/manage-a-node/rhel/bootstrap-your-node/
 
-        ssh_user@FQDN(192.168.235.102) -r 'recipe[chef-client]'
-        -x username -p password --sudo
-        knife bootstrap -N t2 vagrant@192.168.235.50 -r "recipe[chef-client]"
+        ssh_user@FQDN(192.168.235.102)
+            -r 'recipe[chef-client]'
+                for run-list
+        knife bootstrap -N t2 192.168.235.50 --ssh-user vagrant --ssh-password 'vagrant' --sudo --use-sudo-password
+        # that creates both node and client
+
+    node
+        show <node-name>
+
+    client
+        list
+        info <client-name>
+        key
+            list <client-name>
+            show 
 
 
     cookbook
-        upload apache
+        create <name>
+        test <name>
+        upload -a|<name>
         list
-        create
         download
         metadata
 
@@ -54,6 +74,13 @@ knife
             unshare
             search
             download
+
+
+    ssh
+        To run chef-client on your node remotely from your workstation,
+        you'll run the knife ssh command.
+        knife ssh takes the command to run on the node as an argument. Here, we'll run sudo chef-client.
+        $ knife ssh ADDRESS 'sudo chef-client' --manual-list --ssh-user USER --ssh-password 'PASSWORD'
 
     upload data_bags/vhosts
     diff cookbooks/apache
