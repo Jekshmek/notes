@@ -3,6 +3,7 @@ Automation through Chef Opscode
 
 Articles:
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-chef-12-configuration-management-system-on-ubuntu-14-04-servers
+https://learn.chef.io/install-and-manage-your-own-chef-server/linux/install-chef-server/install-chef-server-using-your-hardware/
 
 https://learn.chef.io/install-and-manage-your-own-chef-server/linux/
 

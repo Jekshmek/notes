@@ -5,9 +5,26 @@ options:
         extra verbose
 
 knife
-    configure --initial
     chef-client -z
         indeed creates a pem-file
+
+    configure --initial
+        ??? !!! need to go to Admin-tab at chef-manage and download knife.rb
+
+    ssl
+        fetch
+            WARNING: Certificates from epbygomw0024t1.gomel.epam.com
+            will be fetched and placed in your trusted_cert directory
+            (/home/iharh/.chef/trusted_certs).
+        check
+            Connecting to host epbygomw0024t1.gomel.epam.com:443
+            Successfully verified certificates from `epbygomw0024t1.gomel.epam.com'
+
+    [user|node|role|supermarket|...]
+        list
+            to verify some info
+    spork
+        info
 
     bootstrap
         https://learn.chef.io/manage-a-node/rhel/bootstrap-your-node/
@@ -16,8 +33,6 @@ knife
         -x username -p password --sudo
         knife bootstrap iharh@192.168.235.102 -r "recipe[chef-client]"
 
-    ssl check
-        ???
 
     cookbook
         upload apache

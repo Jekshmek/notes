@@ -10,7 +10,6 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Bykov - Brodsky                                     - 1:11:00 (of 1:22:29)
 Tolkachev - Gradle                                  - 1:23:00 (of 1:26:54)
-Valeev - Stream API                                 -   55:00 (of 1:13:56)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
 Fain - Angular 2                                    -   26:00 (of 1:46:34)
@@ -30,6 +29,7 @@ Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Meijer - A Playful Introduction to Rx               -   03:00 (of 1:14:24)
+Borisov - Spring Puzzlers – second season           -   00:00 (of)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -38,7 +38,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Lakirev 2 Family                                    -   00:00 (of 1:39:39)
-Paschenko 4a                                        -   00:00 (of   28:08)
+Paschenko 4b                                        -   01:00 (of 1:05:30)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
