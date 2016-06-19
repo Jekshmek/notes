@@ -47,18 +47,3 @@ stty intr '^-'
 9. Named pipes
 
 mkfifo <pipe-name>
-
-
-10. dates:
-
-uptime
-  how much does the session ...
-
-date
-  print date
-
-cal
-  print a calendar
-
-
-
