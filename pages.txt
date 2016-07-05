@@ -9,18 +9,16 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Brodsky                                     - 1:11:00 (of 1:22:29)
-Bykov - TRIZ                                        -   13:00 (of   23:01)
-Mantula - Introduction to Akka Streams              -   48:00 (of 1:01:36)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
 Fain - Angular 2                                    -   26:00 (of 1:46:34)
 Lyaruu - The Road to Reactive with RxJava           -   23:00 (of   41:43)
 Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
+Trofimov - Different flavors of polymorphism in Scala   15:00 (of   35:26)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
-Trofimov - Different flavors of polymorphism in Scala   09:00 (of   35:26)
 Bugaenko - Immutability                             -   06:00 (of   46:35)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
 Matyashovskyy - Lambda Architecture with Apache Spark   05:00 (of   44:25)
@@ -36,7 +34,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Lakirev 2 Family                                    -   00:00 (of 1:39:39)
 Paschenko 5a                                        -   00:00 (of 1:08:03)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)

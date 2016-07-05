@@ -25,3 +25,9 @@ addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.5")
 
 git:
 https://github.com/sbt/sbt-git
+
+docker:
+https://github.com/marcuslonnberg/sbt-docker
+http://www.slideshare.net/JontheBeach/scala-docker-and-testing-oh-my-mario-camou
+https://www.youtube.com/watch?v=Q1XqOLPhr-k
+https://velvia.github.io/Docker-Scala-Sbt/

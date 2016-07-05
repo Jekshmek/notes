@@ -23,6 +23,10 @@ chef-server-ctl install chef-manage
 chef-server-ctl reconfigure
 chef-manage-ctl reconfigure --accept-license
 
+https://<chef-server-ip>
+log-in with chefadmin@chef.io/chefadmin1
+
+
 push-job-server:
 chef-server-ctl install opscode-push-job-server
 https://github.com/chef/chef-manage-issues/issues/118
@@ -35,3 +39,4 @@ cfg:
 
 https://docs.chef.io/config_rb_manage.html
 /etc/chef-manage/manage.rb
+

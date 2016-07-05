@@ -23,3 +23,6 @@ Kitchen:
             [INSTANCE|REGEXP|all]
         test
             [INSTANCE|REGEXP|all]
+
+
+https://github.com/test-kitchen/kitchen-vagrant
