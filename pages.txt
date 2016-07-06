@@ -34,7 +34,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Paschenko 5a                                        -   00:00 (of 1:08:03)
+Paschenko 5b                                        -   00:00 (of   22:43)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
 

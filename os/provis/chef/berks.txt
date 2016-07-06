@@ -1,0 +1,21 @@
+berks
+    help [command]
+        help [on command]
+    install
+        install
+    list
+        list cookbooks, installed by Berksfile
+    viz
+        visualize the dependency graph (graphviz need to be installed)
+    show <cookbook>
+        display the path to a cookbook on disk
+    info <cookbook>
+        display info (name, description, version, author, copyright, dependency attributes) for a cookbook
+    contingent <cookbook>
+        display, which cookbooks depend on a given-one
+
+    upload <cookbooks>
+        upload cookbooks to a chef-server
+        
+installed dependencies path:
+~/.berkshelf/cookbooks
