@@ -16,3 +16,14 @@ This was also mentioned in other answers, and the only thing I would add pertain
 http://blog.goyello.com/2015/06/23/angular-2/
 http://www.sitepoint.com/whats-new-in-angularjs-2/
 http://habrahabr.ru/post/253469/
+
+Fain - JEEConf - Angular 2
+
+@Component
+@Routes[[
+    {path: '/', component: HomeComponent},
+    {path: 'product/:id', component: ProductDetailComponentParam}
+]
+RouterLink([routerLink])
+RouterOutlet(<router-outlet>)
+RouteSegment

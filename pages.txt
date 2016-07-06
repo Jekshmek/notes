@@ -8,18 +8,19 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Brodsky                                     - 1:11:00 (of 1:22:29)
+Bykov - Erenburg                                    -   33:00 (of 1:10:40)
+http://vk.com/video9401135_169988143
+Fain - Angular 2                                    -   56:00 (of 1:46:34)
+Clow - STL Algorithms                               -   46:00 (of 1:30:36)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
-Fain - Angular 2                                    -   26:00 (of 1:46:34)
-Lyaruu - The Road to Reactive with RxJava           -   23:00 (of   41:43)
+Trofimov - Different flavors of polymorphism in Scala   22:30 (of   35:26)
 Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
-Trofimov - Different flavors of polymorphism in Scala   15:00 (of   35:26)
+Bugaenko - Immutability                             -   15:00 (of   46:35)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
-Bugaenko - Immutability                             -   06:00 (of   46:35)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
 Matyashovskyy - Lambda Architecture with Apache Spark   05:00 (of   44:25)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
@@ -28,13 +29,14 @@ Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 
+
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Paschenko 5b                                        -   00:00 (of   22:43)
+Paschenko 6                                         -   00:00 (of   57:07)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
 

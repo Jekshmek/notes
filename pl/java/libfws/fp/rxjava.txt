@@ -357,3 +357,11 @@ error hanling
 
 by default, calling the onError() results to the stream shutdown.
 
+SAMPLES:
+
+XML parsing
+Bytes.fromClassPath("file.xml")
+    .lift(XML.parse())
+    .filter(e->e.getType() == XmlEventTypes.START_ELEMENT)
+    .map(e->e.getAttributes().get("name))
+    .subscribe(System.err::println);

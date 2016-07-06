@@ -40,3 +40,13 @@ cfg:
 https://docs.chef.io/config_rb_manage.html
 /etc/chef-manage/manage.rb
 
+nginx:
+
+/opt/opscode/embedded
+    /sbin
+        /nginx
+    /conf/nginx.conf
+    /nginx/html
+        /index.html
+
+nginx -c /var/opt/opscode/nginx/etc/nginx.conf 
