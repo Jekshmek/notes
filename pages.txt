@@ -8,14 +8,14 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - To Read                                     -   33:00 (of 1:10:40)
+Bykov - To Read                                     -   42:00 (of 1:10:40)
+Beregis Avto                                        -   15:00 (of   50:21)
 http://vk.com/video9401135_169988143
-Fain - Angular 2                                    - 1:32:10 (of 1:46:34)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
-Trofimov - Different flavors of polymorphism in Scala   22:30 (of   35:26)
+Trofimov - Different flavors of polymorphism in Scala   25:00 (of   35:26)
 Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
-Bugaenko - Immutability                             -   15:00 (of   46:35)
+Bugaenko - Immutability                             -   21:30 (of   46:35)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Cheremin - Escape Analysis and Scalarization        -   10:00 (of 1:10:22)

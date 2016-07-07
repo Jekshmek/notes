@@ -5,6 +5,10 @@ options:
         extra verbose
 
 knife
+    help
+        list
+            list help topics
+
     chef-client -z
         indeed creates a pem-file
 
@@ -44,6 +48,7 @@ knife
 
     node
         show <node-name>
+        delete <node-name>
 
     client
         list
