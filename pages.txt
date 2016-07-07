@@ -10,8 +10,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Bykov - To Read                                     -   33:00 (of 1:10:40)
 http://vk.com/video9401135_169988143
-Fain - Angular 2                                    -   56:00 (of 1:46:34)
-Clow - STL Algorithms                               -   46:00 (of 1:30:36)
+Fain - Angular 2                                    - 1:32:10 (of 1:46:34)
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Borisov - Lord of the Spark                         -   39:00 (of 1:05:18)
 Trofimov - Different flavors of polymorphism in Scala   22:30 (of   35:26)
@@ -53,3 +52,4 @@ Books:
 OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
+iterator category/tag-dispatching
