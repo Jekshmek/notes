@@ -8,7 +8,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Erenburg                                    -   33:00 (of 1:10:40)
+Bykov - To Read                                     -   33:00 (of 1:10:40)
 http://vk.com/video9401135_169988143
 Fain - Angular 2                                    -   56:00 (of 1:46:34)
 Clow - STL Algorithms                               -   46:00 (of 1:30:36)
@@ -36,6 +36,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
+2009-05-14                                          -   00:00 (of   54:38)
 Paschenko 6                                         -   00:00 (of   57:07)
 Dmitrievsky                                         - 1:31:00 (of 2:07:06)
 Razbor 04                                           -   01:00 (of 1:39:53)
