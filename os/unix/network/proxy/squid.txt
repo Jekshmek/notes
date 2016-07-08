@@ -11,3 +11,5 @@ sysusers.d/squid.conf
 tmpfiles.d/squid.conf
 
 /var/log/squid/access.log
+
+export http_proxy=http://<host>:3128
