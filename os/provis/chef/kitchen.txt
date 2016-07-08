@@ -14,6 +14,7 @@ Kitchen:
             list a test-matrix
         create
             [INSTANCE|REGEXP|all]
+                ? do a vagrant up --no-provision
         converge
             [INSTANCE|REGEXP|all]
                 apply a recipe to a vm

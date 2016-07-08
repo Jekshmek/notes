@@ -1,0 +1,2 @@
+Thread.setDefaultUncaughtExceptionHandler(
+    new ElasticsearchUncaughtExceptionHandler(() -> Node.NODE_NAME_SETTING.get(settings)));

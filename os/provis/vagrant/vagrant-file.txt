@@ -51,3 +51,31 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     config.cache.scope = :box
   end
 end
+
+samples:
+      config.vm.provision "prompt", type: "shell", inline: <<-SHELL
+        cat \<\<PROMPT > /etc/profile.d/elasticsearch_prompt.sh
+export PS1='#{name}:\\w$ '
+PROMPT
+        grep 'source /etc/profile.d/elasticsearch_prompt.sh' ~/.bashrc |
+          cat \<\<SOURCE_PROMPT >> ~/.bashrc
+# Replace the standard prompt with a consistent one
+source /etc/profile.d/elasticsearch_prompt.sh
+SOURCE_PROMPT
+        grep 'source /etc/profile.d/elasticsearch_prompt.sh' ~vagrant/.bashrc |
+          cat \<\<SOURCE_PROMPT >> ~vagrant/.bashrc
+# Replace the standard prompt with a consistent one
+source /etc/profile.d/elasticsearch_prompt.sh
+SOURCE_PROMPT
+      SHELL
+
+
+  config.vm.define "opensuse-13" do |config|
+    config.vm.box = "elastic/opensuse-13-x86_64"
+    opensuse_common config
+  end
+  ...
+  config.vm.defined_vms.each do |name, config|
+    config.options[:autostart] = false
+    ...
+  end
