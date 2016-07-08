@@ -2,3 +2,5 @@ https://docs.chef.io/debug.html
 
 clients:
 /var/chef/cache/chef-stacktrace.out
+
+/tmp/vagrant-chef/client.rb

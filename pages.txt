@@ -8,9 +8,6 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - To Read                                     -   42:00 (of 1:10:40)
-Beregis Avto                                        -   15:00 (of   50:21)
-http://vk.com/video9401135_169988143
 Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
 Bugaenko - Immutability                             -   28:00 (of   46:35)
 Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
