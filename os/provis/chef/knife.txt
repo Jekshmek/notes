@@ -31,9 +31,13 @@ knife
             Connecting to host epbygomw0024t1.gomel.epam.com:443
             Successfully verified certificates from `epbygomw0024t1.gomel.epam.com'
 
+    [node|cookbook|role|environment|data bag|...]
+        show
+           https://docs.chef.io/knife_show.html 
+
     [user|node|client|role|supermarket|...]
-        list
-            to verify some info
+        list [-E env-name]
+            to verify some info [using env]
     spork
         info
 
@@ -48,7 +52,9 @@ knife
 
     node
         show <node-name>
-        delete <node-name>
+        delete <node-name> [-y]
+        run_list add [-z] <node-name> 'recipe[recipe_name]'
+            -z - for local mode of chef-zero
 
     client
         list
@@ -56,7 +62,7 @@ knife
         key
             list <client-name>
             show 
-
+        delete <client-name> [-y]
 
     cookbook
         create <name>
