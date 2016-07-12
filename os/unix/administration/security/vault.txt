@@ -1,0 +1,8 @@
+https://spring.io/blog/2016/06/24/managing-secrets-with-vault
+
+vault
+    token-create
+        create a new token
+    write
+        secret/my-application password=H@rdT0Gu3ss
+            write a password (property name)
