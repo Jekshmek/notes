@@ -31,6 +31,9 @@ knife
             Connecting to host epbygomw0024t1.gomel.epam.com:443
             Successfully verified certificates from `epbygomw0024t1.gomel.epam.com'
 
+    status
+        show status
+
     [node|cookbook|role|environment|data bag|...]
         show
            https://docs.chef.io/knife_show.html 

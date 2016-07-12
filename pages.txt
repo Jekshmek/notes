@@ -8,11 +8,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - WWII                                        -   06:00 (of 1:01:00)
+Bykov - WWII                                        -   18:00 (of 1:01:00)
 http://vk.com/video-2048479_169253769
-Ozerov - NonLocking Sync                            -   43:00 (of 1:25:05)
-Grebennikov - Distributed Systems                   -   22:00 (of 1:04:22)
-Szegedi - Everything About JVM Performance at Twitt -   14:00 (of   50:57)
+Ozerov - NonLocking Sync                            -   51:00 (of 1:25:05)
+Szegedi - Everything About JVM Performance at Twitt -   36:00 (of   50:57)
+Grebennikov - Distributed Systems                   -   27:00 (of 1:04:22)
+Panin - Get along with JHipster                     -   23:00 (of   47:14)
+Engelbert - A Post-Apocalyptic sun.misc.Unsafe World-   20:00 (of   41:51)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
@@ -33,7 +35,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 8a                                        -   00:00 (of 1:14:57)
 Desnitsky                                           - 1:14:00 (of 1:32:22)
-2009-05-14                                          -   00:00 (of   54:38)
+2009-10-01                                          -   00:00 (of   58:05)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
 Tracking:
