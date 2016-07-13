@@ -14,7 +14,6 @@ Ozerov - NonLocking Sync                            -   51:00 (of 1:25:05)
 Szegedi - Everything About JVM Performance at Twitt -   36:00 (of   50:57)
 Grebennikov - Distributed Systems                   -   27:00 (of 1:04:22)
 Panin - Get along with JHipster                     -   23:00 (of   47:14)
-Engelbert - A Post-Apocalyptic sun.misc.Unsafe World-   20:00 (of   41:51)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 EPAM - Google                                       -   11:00 (of   56:53)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
@@ -25,7 +24,7 @@ Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
-
+Timonova - Instincts                                -   00:00 (of 1:15:02)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -33,7 +32,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Paschenko 8a                                        -   00:00 (of 1:14:57)
+Paschenko 9a                                        -   00:00 (of   38:09)
 Desnitsky                                           - 1:14:00 (of 1:32:22)
 2009-10-01                                          -   00:00 (of   58:05)
 Razbor 04                                           -   01:00 (of 1:39:53)
