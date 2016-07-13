@@ -1,0 +1,1 @@
+http://www.slideshare.net/Docker/dns-service-discovery-for-docker-swarm
