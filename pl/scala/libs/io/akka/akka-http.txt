@@ -1,4 +1,4 @@
-Grebennikov - Distributed Systems
+Grebennikov - Distributed Systems (JPoint 2016)
 
 trait HttpUtils extends LazyLogging {
     implicit val system = ActorSystem.create("distdb")
@@ -78,4 +78,41 @@ trait RestfulServer extends HttpUtils {
 
 
 class MasterSlave extends RestfulServer {
+    def read = {
+        logger.info(s"read, tresult=$value")
+        Future.successful(HttpResponse(StatusCodes.OK, entity = value))
+    }
+
+    def write(data: String) = {
+        logger.info(s"write, before=$value, after=$data")
+        value = data
+        logger.info(s"replicating write to slaves: $slaves")
+        slaves.foreach(node => httpWrite(node, data))
+        Future.successful(HttpResponse(StatusCodes.OK, entity = value))
+    }
+
+}
+
+
+import ...MasterSlave
+
+object Server {
+    def main(args: Array[String]): Unit = {
+        val dsys = new MasterSlaveSync() // MasterSlave
+        dsys.start
+    }
+}
+
+// sync-replication
+
+class MasterSlaveSync extends MasterSlave {
+    override def write(data: String) = {
+        logger.info(s"write, before=$value, after=$data")
+        value = data
+
+        lotter.info(s"replicating write to slaves: $slaves")
+        Future.sequence(slaves.map(node => httpWrite(node, data)))
+            .map(responses => responses.find(_status != StatusCodes.OK)
+            .getOrElse(HttpResponse(StatusCodes.OK, entity = value)))
+    }
 }
