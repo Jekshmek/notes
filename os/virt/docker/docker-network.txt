@@ -14,8 +14,16 @@ docker network
 docker run ... --publish-service=... --net=net-name ...
 
 Docker DNS:
+https://docs.docker.com/engine/userguide/networking/configure-dns/
+https://docs.docker.com/v1.11/engine/userguide/networking/configure-dns/
+https://docs.docker.com/engine/userguide/networking/dockernetworks/#docker-embedded-dns-server
+
+http://blog.phymata.com/2016/04/15/dns-round-robin-in-docker-1-11/
+https://github.com/everett-toews/docker-dns-round-robin
+
+Discovery tools:
+Registrator, wagl
+
 http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
 
 https://github.com/gliderlabs/resolvable
-
-https://github.com/ahmetalpbalkan/wagl/
