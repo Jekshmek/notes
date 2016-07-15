@@ -8,7 +8,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Chapaev                                     -   23:00 (of   44:13)
+Bykov - Chapaev                                     -   26:00 (of   44:13)
 Ozerov - NonLocking Sync                            -   51:00 (of 1:25:05)
 Grebennikov - Distributed Systems                   -   50:00 (of 1:04:22)
 Timonova - Instincts                                -   11:00 (of 1:15:02)
