@@ -1,4 +1,8 @@
 Grebennikov - Distributed Systems (JPoint 2016)
+http://dfdx.me/talks/distsys
+https://github.com/shuttie/distdb
+
+jepsen-test (aphyr.com/blog)
 
 trait HttpUtils extends LazyLogging {
     implicit val system = ActorSystem.create("distdb")
@@ -98,7 +102,7 @@ import ...MasterSlave
 
 object Server {
     def main(args: Array[String]): Unit = {
-        val dsys = new MasterSlaveSync() // MasterSlave
+        val dsys = new Quorum() // MasterSlaveSync // MasterSlave
         dsys.start
     }
 }
@@ -114,5 +118,40 @@ class MasterSlaveSync extends MasterSlave {
         Future.sequence(slaves.map(node => httpWrite(node, data)))
             .map(responses => responses.find(_status != StatusCodes.OK)
             .getOrElse(HttpResponse(StatusCodes.OK, entity = value)))
+    }
+}
+
+// quorum
+import akka.http.scaladsl.model.{StatusCodes, HttpResponse}
+
+// !!! need to use paxos/raft !!! D.Ongario The Raft consensus algorithm
+
+class Quorum extends RestfulServer {
+    def quorumSize = Math.ceil(nodes.size / 2.0)
+
+    def read = Future.sequence(nodes.map(node => httpRead(node)))
+        .flatMap(handleQuorum)
+        .map(buildResponse)
+
+    def write(data: String) = {
+        Future.sequence(nodes.map(node => httpWrite(node, data)))
+            .flatMap(handleQuorum)
+            .map(buildResponse)
+    }
+
+    def handleQuorum(responses: List[HttpResponse]) =
+        Future.sequence(responses.map(parseResponse)).map(_
+            .groupBy(x => x)
+            .toList
+            .map(item => item._1 -> item._2.size)
+            .sortBy(_._2)
+            .lastOption)
+
+    def buildResponse(quorumResponse: Option[(String, Int)]) = quorumResponse match {
+        case Some((quorumValue, numberVotes)) if numberVotes >= quorumSize =>
+            logger.info(s"quorum: $quorumValue with $numberVotes votes (of $quorumSize)")
+            HttpResponse(StatusCodes.OK, entity = quorumValue)
+        case other =>
+            HttpResponse(StatusCodes.Conflict, entity = s"quorum response: $other")
     }
 }

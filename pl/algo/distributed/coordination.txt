@@ -1,10 +1,10 @@
-Raft - The Understandable Distributed Protocol
+Raft:
 http://www.infoq.com/presentations/raft
-
-Boner - The Road to Akka Cluster and Beyond
-http://www.slideshare.net/jboner/the-road-to-akka-cluster-and-beyond
+D.Ongario The Raft consensus algorithm
 
 Paxos:
 http://wellquite.org/blog/paxos_notes.html
 http://en.wikipedia.org/wiki/Paxos_%28computer_science%29
 
+Akka Cluster:
+http://www.slideshare.net/jboner/the-road-to-akka-cluster-and-beyond
