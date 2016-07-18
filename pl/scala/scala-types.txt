@@ -27,3 +27,28 @@ http://blog.originate.com/blog/2014/02/27/types-inside-types-in-scala/
 TypeTags:
 http://docs.scala-lang.org/overviews/reflection/typetags-manifests.html
 http://eax.me/scala-typetags/
+
+
+Zhizhelev - Scala Type System in Applied Problems
+https://www.youtube.com/watch?v=Cr0j6eh8P7I
+
+sealed trait Bool {
+    type Branch[T, F]  // just like defining a function by pattern-matching
+}
+sealed trait True extends Bool {
+    type Branch[T, F] = T
+}
+sealed trait False extends Bool {
+    type Branch[T, F] = F
+}
+
+// to help the compiler
+type Branch2[T <: Upper, F <: Upper,Upper]
+
+type &&[A <: Bool, B <: Bool] = A#Branch[B, False]
+type ||[A <: Bool, B <: Bool] = A#Branch[True, B]
+type Not[A <: Bool] = A#Branch[False, True]
+type If[A <: Bool, TrueT, FalseT] = A#Branch[TrueT, FalseT]
+
+// how to use this stuff?
+case class 
