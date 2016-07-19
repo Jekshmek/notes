@@ -6,6 +6,8 @@ chmod +x docker-compose
 sudo mv docker-compose /usr/local/bin/
 
 compose-file:
+https://docs.docker.com/compose/compose-file/
+
 somename:
   build: folder/
   image: imggrp/imgname:1.0
@@ -24,3 +26,6 @@ somename:
     - DNSDOCK_IMAGE=
   volumes:
     - /var/run/docker.sock:/run/docker.sock
+
+compose-env:
+https://docs.docker.com/compose/env-file/

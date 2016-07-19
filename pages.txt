@@ -11,7 +11,6 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Chapaev                                     -   30:30 (of   44:13)
-Morenets - Code optimization and perf in Java 8     -   21:00 (of   44:04)
 Bugayenko - ORM is offensive                        -   16:00 (of 1:00:31)
 Timonova - Instincts                                -   11:00 (of 1:15:02)
 Zhizhelev - Scala Type System in Applied Problems   -   13:00 (of   44:54)
@@ -35,7 +34,7 @@ Audio:
 Negreev - Sokrat 2                                  -   00:00 (of   27:35)
 Paschenko 10a                                       -   00:00 (of   57:57)
 Desnitsky                                           - 1:14:00 (of 1:32:22)
-2009-10-01                                          -   00:00 (of   58:05)
+2009-10-29                                          -   00:00 (of   54:43)
 Razbor 04                                           -   01:00 (of 1:39:53)
 
 Tracking:
