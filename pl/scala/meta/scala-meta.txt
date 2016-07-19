@@ -1,0 +1,67 @@
+download the amonite-shell (0.5.7)
+
+load.ivy("org.scalameta" && "scalameta" % "0.20.0")
+
+
+import scala.meta._
+
+$ "foo + bar".parse[Term]
+res2: Parsed[Term] = foo + bar
+$ res2.get
+res3: Term = foo + bar
+$ res3.structure // dbg-stuff
+res4: String = """
+Term.ApplyInfix(Term.Name("foo"), Term.Name("+"), Nil, Seq(Term.Name("bar")))
+"""
+$ "foo.+(bar)"
+res5: Term = foo.+(bar)
+$ res5.structure
+res6: String = """
+Term.Apply(Term.Select(Term.Name("foo"), Term.Name("+")), Seq(Term.Name("bar")))
+"""
+
+$ """
+    def foo = bar
+  /* hello world */
+  foo
+"""
+res7: String = """
+....
+$ res7.parse[Term]
+res8: Parsed[Term] = <input>:2: error: illegal start of simple expression
+def foo = bar
+        ^
+$("{" + res7 + "}").parse[Term]
+res9: Parsed[Term]  {
+    def foo = bar
+  /* hello world */
+foo
+}
+$ res9.structure
+Main.scala:158: value structure is not a member of scala.meta.parsers.Parsed[
+res9.structure
+     ^
+Compilation Failed
+$ res9.get.structure
+res10: String = """
+Term.Block(Seq[Defn.Def(Nil, Term.Name("foo"), Nil, Nil, None, Term.Name("bar
+// !!! don't see any comments
+$ res9.get.tokens
+res11: Tokens = Tokens(
+    ,
+    {,
+
+,
+    ,
+    ,
+    ....
+  def,
+...
+@ res9.get.tokens.structure
+res12: String = """
+Tokens(BOF [0..0), { [0..1), \n [1..2),   [2..3),   [3..4), 
+...
+... [26..27), /* hello world */
+foo [f5..48), \n [48..49), } [49..50), EOF [50..50))
+"""
+// !!! preserve all the stuff

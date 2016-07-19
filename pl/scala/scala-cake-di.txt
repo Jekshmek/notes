@@ -11,3 +11,31 @@ http://www.slideshare.net/adamw1pl/the-noframework-scala-dependency-injection-fr
 
 Wyatt - Baking Delicious Modularity in Scala
 http://www.slideshare.net/DerekWyatt1/baking-delicious-modularity-in-scala
+
+Zhizhelev - Scala Type System in Applied Problems
+https://www.youtube.com/watch?v=Cr0j6eh8P7I
+from 17:45
+
+package types
+// part of DB-schema
+trait DbSlice {}
+
+// ... related to Product-entity
+trait ProductDb extends DbSlice {
+    case class Product(name: String)
+    val products = TableQuery[...]
+}
+
+trait ProductSupport {
+    type Database <: ProductDb
+    val database: Database
+    def newProduct(name: String) = database.Product(name)
+}
+
+class AllDb extends ProductDb
+
+object MyApp extends App with ProductSupport {
+    type Database = AllDb
+    val database = new AllDb
+    ...
+}

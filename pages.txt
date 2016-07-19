@@ -10,11 +10,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Chapaev                                     -   30:30 (of   44:13)
-Bugayenko - ORM is offensive                        -   16:00 (of 1:00:31)
-Timonova - Instincts                                -   11:00 (of 1:15:02)
-Zhizhelev - Scala Type System in Applied Problems   -   13:00 (of   44:54)
+Bykov - Grin                                        -   03:00 (of   44:29)
+Bugayenko - ORM is offensive                        -   33:00 (of 1:00:31)
+Zhizhelev - Scala Type System in Applied Problems   -   20:14 (of   44:54)
+Burmako - Metaprogramming 2                         -   14:00 (of   43:35)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
+Timonova - Instincts                                -   11:00 (of 1:15:02)
 EPAM - Google                                       -   11:00 (of   56:53)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
@@ -39,7 +40,7 @@ Razbor 04                                           -   01:00 (of 1:39:53)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 113 29:00 (of 2:55:27)
+Razbor Poletov                                      - 113
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 133
 LXF                                       - 199..207|3 Feb 2016
