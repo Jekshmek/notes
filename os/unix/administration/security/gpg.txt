@@ -19,6 +19,9 @@ gpg
     --refresh-keys
         to refresh your keys from a server (--keyserver or cfg at ~/.gnupg/gpg.conf)
 
+gpg-ssh:
+https://incenp.org/notes/2015/gnupg-for-ssh-authentication.html
+
 Problems:
 https://www.gnupg.org/documentation/manuals/gnupg/Common-Problems.html
 

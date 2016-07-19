@@ -7,6 +7,14 @@ alias pscpu='ps auxf | sort -nr -k 3'
 ps -o pid,cmd
   print pid and cmd-line
 
+# get top process eating memory
+alias psmem10='ps -e -orss=,args= | sort -b -k1,1n| tail -10'
+
+-e
+    all processes
+-o
+    STANDARD FORMAT SPECIFIERS
+    rss  resident set size
 
 /proc/
 
