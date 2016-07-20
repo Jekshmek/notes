@@ -21,7 +21,8 @@ https://github.com/lihaoyi/Ammonite/blob/master/build.sbt
 https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter10/release.sbt
 https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter11/scalastyle-plugin/src/main/scala/ScalastylePlugin.scala
 
-addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.5")
+https://github.com/jrudolph/sbt-dependency-graph
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
 
 git:
 https://github.com/sbt/sbt-git
