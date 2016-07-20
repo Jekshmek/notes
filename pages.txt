@@ -1,3 +1,5 @@
+Spiewak - Shapeless
+  https://www.youtube.com/watch?v=GKIfu1WtSz4
 Lapshin - Erlang                                    -   14:00 (of   52:59)
   https://www.youtube.com/watch?v=zefdqQV74R0
 URLs:
@@ -10,13 +12,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Grin                                        -   03:00 (of   44:29)
+Bykov - Grin                                        -   15:00 (of   44:29)
 Bugayenko - ORM is offensive                        -   33:00 (of 1:00:31)
+Burmako - Metaprogramming 2                         -   30:00 (of   43:35)
 Zhizhelev - Scala Type System in Applied Problems   -   20:14 (of   44:54)
-Burmako - Metaprogramming 2                         -   14:00 (of   43:35)
+Spiewak - Roll Your Own Shapeless                   -   13:00 (of   49:25)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Timonova - Instincts                                -   11:00 (of 1:15:02)
 EPAM - Google                                       -   11:00 (of   56:53)
+Odersky - Scala Road Ahead                          -   10:00 (of 1:01:30)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:00 (of   44:26)
 Matyashovskyy - Lambda Architecture with Apache Spark   05:00 (of   44:25)
@@ -33,7 +37,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Negreev - Sokrat 2                                  -   00:00 (of   27:35)
-Paschenko 10a                                       -   00:00 (of   57:57)
+Paschenko 10b                                       -   00:00 (of   42:xx)
 Desnitsky                                           - 1:14:00 (of 1:32:22)
 2009-10-29                                          -   00:00 (of   54:43)
 Razbor 04                                           -   01:00 (of 1:39:53)

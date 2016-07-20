@@ -1,0 +1,87 @@
+https://github.com/milessabin/shapeless
+https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0
+
+https://www.scala-exercises.org/shapeless/polymorphic_function_values
+
+Spiewak - Roll Your Own Shapeless:
+https://www.youtube.com/watch?v=GKIfu1WtSz4
+
+trait HList {
+    type Append[L <: HList] <: HList
+
+    def ++[L <: HList](xs: L): Append[L]
+}
+
+case class HCons[H, T <: HList](head: H, tail: T) extends HList {
+    type Append[L <: HList] = HCons[H, T#Append[L]]
+
+    def ++[L <: HList](xs: L) = HCons(head, tail ++ xs)
+}
+
+case object HNil0 extends HList {
+    type Append[L <: HList] = L
+
+    def ++[L <: HList](xs: L) = xs
+}
+
+package object shapely {
+    type ::[H, T <: HList] = HCons[H, T]
+
+    // to get around a bug in scalac
+    type HNil = HNil0.type
+    val HNil = HNil0
+
+    // we can't put this into HList itself
+    implicit class HListSyntax[L <: HList)(self: L) {
+        def ::[H](head: H): H :: L = HCons(head, self)
+    }
+}
+
+// context-independent type-level-fun
+    type Append[L <: HList] = HCons[H, T#Append[L]]
+
+- Structurally definitional
+-- Strong separation of concerns
+- Produce the same result[type] regardless of scope [you define them]
+- Usable in arbitrary position [becuse they are just a type-alias], implicits are tied to method definitions
+- Gone (can't be done anymore) in Dotty!
+- Limited to induction by open recursion
+- No branching except by recursion point
+-- No type equivalent
+- Can not be paired with value-level transformations
+-- Except trivial structural transforms
+
+Type-constructors are context-independent [functions]
+    Type-classes are context-dependent [functions]
+
+- Context-independence is good...
+-- but very limited
+-- Lambda-calculus at the type level
+- Condext-dependence is messy...
+-- ...but far more powerful!
+-- Prolog at the type level (much-more powerfull/pleasent than lambda)
+
+Context-Dependence
+- We lose flexibility
+-- Tied to function declarations
+-- Structural decomposition is coupled to operation
+- We gain expression of "arbitrary proofs" at type level
+-- Express facts, scalac assembles the proof
+-- Towers of Hanoi is pretty easy [to express at the type-level]
+
+Roadmap
+- append
+- remove
+- map
+- nth (apply)
+
+HList#remove
+- Type-indexed deletion function
+(1 :: false :: HNil).remove[Int]
+- Requires context-dependence
+-- Type equivalence
+-- Non-structural value manipulation
+
+Implementation
+- Remove function into implicit syntax class (we need a specific type of the HList we are workon just like we needed with Cons)
+- Define Remover typeclass for implementation

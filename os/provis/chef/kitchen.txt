@@ -27,6 +27,10 @@ Kitchen:
         test
             [INSTANCE|REGEXP|all]
                 aggregate multiple of commands
+            --destroy=never
+                !!!
+        login
+            ???
 
 defaults:
     --driver=kitchen-vagrant
