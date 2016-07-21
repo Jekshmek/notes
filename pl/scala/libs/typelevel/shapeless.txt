@@ -3,6 +3,13 @@ https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0
 
 https://www.scala-exercises.org/shapeless/polymorphic_function_values
 
+usages:
+- doobie
+- scodec
+- jonifreeman/sqltyped
+- parbolied2
+
+
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
 
