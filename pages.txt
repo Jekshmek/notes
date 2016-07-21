@@ -16,9 +16,9 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Bykov - Grin                                        -   15:00 (of   44:29)
 Bugayenko - ORM is offensive                        -   44:00 (of 1:00:31)
+Odersky - Scala Road Ahead                          -   25:00 (of 1:01:30)
 Zhizhelev - Scala Type System in Applied Problems   -   25:00 (of   44:54)
 Shabalin - Scala Native                             -   23:00 (of   40:26)
-Odersky - Scala Road Ahead                          -   22:00 (of 1:01:30)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Spiewak - Roll Your Own Shapeless                   -   16:00 (of   49:25)
 Scala - Closing Panel Discussion                    -   16:00 (of   46:32)
