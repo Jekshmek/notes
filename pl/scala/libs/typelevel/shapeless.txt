@@ -9,6 +9,9 @@ usages:
 - jonifreeman/sqltyped
 - parbolied2
 
+Presentations:
+https://speakerdeck.com/evacchi/be-like-water-a-shapeless-primer
+https://speakerdeck.com/nigewarren/introduction-to-shapeless
 
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
@@ -92,3 +95,30 @@ HList#remove
 Implementation
 - Remove function into implicit syntax class (we need a specific type of the HList we are workon just like we needed with Cons)
 - Define Remover typeclass for implementation
+-- Not typeclass, but "implicit proof"
+- For a given type, prove it can be removed
+- In the process of proving, perform the removal
+-- If we didn't need values, proof alone is enough
+
+implicit class HListSyntax[L <: HList](self: L) {
+    def remove[A](implicit R: Remover[A, L]): R.Out = R(self)
+}
+
+trait Remover[A, L <: HList] {
+    type Out <: HList
+
+    def apply(xs: L): Out
+}
+
+object Remover {
+    type Aux[A, L <: HList, Out0 <: HList] =
+        Remover[A, L] { type Out = Out0 }
+
+    // ...
+}
+
+"Out" Types
+- Compiler must solve all type variables
+
+def remove[A](implicit R: Remover[A, L])
+

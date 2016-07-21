@@ -1,0 +1,85 @@
+Presentations:
+Dotta - Lightbend Lagom - Microservices Just Right
+http://www.slideshare.net/mircodotta/lightbend-lagom-microservices-just-right
+https://www.youtube.com/watch?v=fRlx_fxar-U
+
+sbt
+runAll
+
+ServiceLocator
+ServiceGateway
+
+each service-definition is plit into 2 sbt projects
+- api
+- impl
+
+// in api-project
+trait HelloService extends Service {
+    override def descriptor(): Descriptor = {
+        named("helloservice").`with`(
+            namedCall("/hello", sayHello _)
+        )
+    }
+
+    def sayHello(): ServiceCall[String, String]
+}
+
+// ServiceCall explained
+
+trait ServiceCall[Request, Response] {
+    def invoke(request: Request): Future[Response]
+}
+
+- ServiceCall can be invoked when consuming a service:
+-- Request: type of incoming request message (e.g. String)
+-- Response: type of outgoing response message (e.g. String)
+- JSON is the default serialization format for request/response messages
+- There are two kinds of request/response messages:
+-- Strict
+-- Streamed
+
+// Strict messages
+// are fully buffered into memory
+
+override def descriptor(): Descriptor = {
+    named("friendservice").`with`(
+        pathCall("/users/:userId/friends", addFriend _)
+    )
+}
+
+def addFriend(userId: String): ServiceCall[FriendId, NotUsed]
+
+// Streamed messages
+
+override def descriptor(): Descriptor = {
+    named("clock").`with`(
+        pathCall("/tick/:interval", tick())
+    )
+}
+
+def dick(): ServiceCall[FriendId, Source[String, _]]
+
+- A streamed message is of type Source (an Akka streams API)
+- It allows asynchronous streaming and handling of messages
+- Lagom will select transport protocol (currently WebSockets)
+
+We finnaly got back-pressure async ...
+
+
+- in impl-service
+
+class HelloServiceImpl extends HelloService {
+    override def sayHello(): ServiceCall[String, String] {
+        name => Future.successful(s"Hello, $name!")
+    }
+}
+
+-- Inter-service communication
+
+class MyServiceImpl @Inject()(helloService: HelloService)(implicit ec: ExecutionContext) extends MyService {
+    override def sayHelloLagom(): ServiceCall[NotUsed, String] = unused => {
+        val response = helloService.sayHello().invoke("Lagom")
+        response.map(answer => s"Hello service said: $answer")
+    }
+}
+

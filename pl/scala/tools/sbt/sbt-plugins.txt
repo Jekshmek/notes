@@ -24,6 +24,9 @@ https://github.com/jsuereth/sbt-in-action-examples/blob/master/chapter11/scalast
 https://github.com/jrudolph/sbt-dependency-graph
 addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
 
+boilerplate (tuple/functions):
+https://github.com/sbt/sbt-boilerplate
+
 git:
 https://github.com/sbt/sbt-git
 
