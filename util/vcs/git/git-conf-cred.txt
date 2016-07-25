@@ -23,3 +23,13 @@ git config --global credential.helper osxkeychain
 For git 1.7.9+ on most linux distros
 git config --global credential.helper gnome-keyring
 
+jenkins-creds
+https://groups.google.com/forum/#!msg/jenkinsci-users/ak3x-1SdIFM/ESmQUhSNJEEJ
+
+Use Credentials Binding Plugin to inject the git creds into two environment variables - GIT_USER and GIT_PASSWORD
+Before the sbt build, use a shell build step to get the creds into a git credential.helper store. E.g.:
+
+git config --local credential.helper 'store --file=/tmp/jenkins/.gitcreds'
+git fetch https://$GIT_USER:$GIT_PASSWORD@[repo url]
+
+(Note that the credentials are stored in plain text in the file you designate)
