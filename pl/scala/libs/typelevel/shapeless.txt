@@ -177,3 +177,72 @@ object Remover extends RemoverLowPriorityImplicits {
             def apply(xs: B :: L) = xs.head :: R(xs.tail)
         }
 }
+
+// Poly
+
+- A set of functions indexed by type
+-- Implementation chosen by application type
+- Type indexed resolved at compile time
+- Compile error if applied to non-existent type
+
+// Implicits
+
+- Implicit search considers companions (companion-objects)
+-- For all "component" types (it is searching for)
+- Classes have companion objects
+- Objects are singleton-objects of classes
+- ??? What is the companion object for an object's class?
+-- !!! The object itself !!! and we can use this to do something really powerfull
+
+- Object self-type as a "component"
+- Object contains "implicit" case for each type
+- Upon application (of the polymorphic function), look up cases with inferred type
+-- Easy (to get a) compile error if no case is defined!
+-- Simple polymorphism (e.g. default cases)
+- Very good syntax and inference!
+
+object square extends Poly {
+    implicit val is = at[Int]    { i => i * i }
+    implicit val fs = at[Float]  { f => f * f }
+    implicit val ds = at[Double] { d => d * d }
+}
+
+square(4)     // =>   16: Int
+square(3.14d) // => 9.86: Double
+square("11")  // NOPE!
+
+trait Poly {
+    // ...
+    final def at[A] = new {
+        def apply[B](f: A => B): Case[A, B] = new Case[A, B] {
+            def apply(a: A) = f(a)
+        }
+    }
+
+    sealed trait Case[A, B]] {
+        def apply(a: A): B
+    }
+}
+
+implicit val is: Case[Int, Int] = at[Int] { i => i * }
+
+trait Poly {
+    // ...
+    def apply[A, B](a: A)(implicit C: this.Case[A, B]): B = C(a)
+    // this: square.type
+}
+
+-- more
+
+object addOne extends Poly {
+    implicit val is = at[Int] { _ + 1}
+    implicit def default[A] = at[A] { _.toString + "1" }
+}
+
+addOne(1)   // =>    2: Int
+addOne("1") // => "11": String
+
+-- Downsides
+
+- Cannot parameterize function
+-- addOne, but not addN
