@@ -246,3 +246,78 @@ addOne("1") // => "11": String
 
 - Cannot parameterize function
 -- addOne, but not addN
+- No anonymous syntax (def vs lambda)
+- Dificult to pass a value
+-- You need to capture the precise type
+-- Not impossible, just weird
+
+-- Let's implement map finally usin Poly
+
+implicit class HListSyntax[L <: HList](self: L) {
+    // ...
+    def map[P <: Poly](p: P)(implicit M: Mapper[L, P]): M.Out = M(self)
+}
+
+trait Mapper[L <: HList, P <: Poly] {
+    type Out <: HList
+
+    def apply(xs: L): Out
+}
+
+object Mapper {
+    // ...
+
+    implicit def base[P <: Poly]: Mapper.Aux[HNil, P, HNil] = 
+        new Mapper[HNil, P] {
+            type Out = HNil
+
+            def apply(xs: HNil) = xs
+        }
+
+    implicit def corecurse[A, B, L <: HList, P <: Poly]
+        (implicit
+            C: P#Case[A, B],
+            M: Mapper[L, P)
+        : Mapper.Aux[A :: L, P, B :: M.Out] =
+
+            new Mapper[A :: L, P] {
+                type Out = B :: M.Out
+
+                def apply(xs: A :: L) = C(xs.head) :: M(xs.tail)
+            }
+}
+
+// this example now works
+
+val xs = 1 :: false :: "hey" :: HNil
+
+object transform extends Poly {
+    implicit val is = at[Int]     = { _ + 3 }
+    implicit val bs = at[Boolean] = { !_ }
+    implicit val ss = at[String]  = { _ + " there" }
+}
+
+xs map transform // => 4 :: true :: "hey there" :: HNil
+
+
++++++++++++++++++++++++++++++++++++++++++
++ HList#nth (shapeless call this apply) +
++++++++++++++++++++++++++++++++++++++++++
+
+val xs = 42 :: false :: HNil
+
+xs.nth(0) // => 42: Int
+xs.nth(1) // => false: Boolean
+xs.nth(2) // => OOPS!
+
+- How do you index into an hlist?
+- Need to represent numbers at the type level
+    case object One
+    case object Two
+    case object Three
+    // ! Terrible way !
+- Peano arithmetic
+
+sealed trait Nat
+case object 
+
