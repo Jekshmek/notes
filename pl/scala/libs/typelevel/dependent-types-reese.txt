@@ -1,0 +1,43 @@
+Reese - Introduction to Dependent Types in Scala
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/
+https://www.youtube.com/watch?v=cW4cmSWOSVA
+
+
+trait DepValue{
+    type V
+    val value: V
+}
+
+def magic(that: DepValue): that.V = that.value
+
+The return type of "magic" depends on the argument passed in.
+
+- Toy Example
+
+def mk[T](x: T) = new DepValue {
+    type V = T
+    val value = x
+}
+
+val depInt = mk(1)
+val depString = mk("two")
+
+val itWorks: Int = magic(depInt)
+val again: String = magic(depString)
+
+
+- Other Forms
+
+trait Foo{
+    class Bar
+    def doNothing(b: Bar){}
+}
+val f1 = new Foo{}
+val b1 = new f1.Bar()
+val f2 = new Foo{}
+val b2 = new f2.Bar()
+
+f1.doNothing(b1) //fine
+f1.doNothing(b2) //won't compile
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/1/3

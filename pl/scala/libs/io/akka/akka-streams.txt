@@ -1,3 +1,10 @@
+Romanchuk - Backend Reactive Systems
+https://www.youtube.com/watch?v=Ev6diAO2FAI
+
+- Source
+- Flow
+- Sink
+
 http://www.slideshare.net/dmantula/introduction-to-akkastreams
 https://www.youtube.com/watch?v=-nmxc7DnonA
 

@@ -14,6 +14,10 @@ Wadler - How to replace failure by a list of success
 Stewart - Scripting with Types (http://donsbot.files.wordpress.com/2009/01/semicolon.pdf)
 https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling
 
+Tutorials:
+https://www.reddit.com/r/haskell/comments/4uzok7/exception_safety_in_haskell/
+https://haskell-lang.org/tutorial/exception-safety
+
 Blogs:
 http://eax.me/haskell-exceptions/
 !!! Control.Exception is the current module, all the other are obsolete
