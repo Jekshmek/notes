@@ -1,0 +1,18 @@
+https://github.com/milessabin/shapeless
+https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0
+
+https://www.scala-exercises.org/shapeless/polymorphic_function_values
+
+usages:
+- doobie
+- scodec
+- jonifreeman/sqltyped
+- parbolied2
+
+Articles:
+Bjarnason-
+http://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/
+
+Presentations:
+https://speakerdeck.com/evacchi/be-like-water-a-shapeless-primer
+https://speakerdeck.com/nigewarren/introduction-to-shapeless

@@ -1,18 +1,3 @@
-https://github.com/milessabin/shapeless
-https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0
-
-https://www.scala-exercises.org/shapeless/polymorphic_function_values
-
-usages:
-- doobie
-- scodec
-- jonifreeman/sqltyped
-- parbolied2
-
-Presentations:
-https://speakerdeck.com/evacchi/be-like-water-a-shapeless-primer
-https://speakerdeck.com/nigewarren/introduction-to-shapeless
-
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
 https://www.youtube.com/watch?v=zKRNMyo3wzg
