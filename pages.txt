@@ -7,6 +7,9 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Uspensky                                    -   14:00 (of   54:57)
+Bykov - Oblomov                                     -   37:00 (of   43:55)
+Maria Strugatskaya                                  -   10:00 (of 1:07:50)
+Bykov - Zholkovsky                                  -   20:00 (of 1:43:35)
 Spiewak - Roll Your Own Shapeless                   -   05:30 (of   53:49)
 Romanchuck - Backend Reactive Streams               -   30:00 (of   45:36)
 Scala - Closing Panel Discussion                    -   30:00 (of   46:32)
@@ -20,6 +23,9 @@ Matyashovskyy - Lambda Architecture with Apache Spark   12:00 (of   44:25)
 Antonau - Designing and Building Fault-tolerant App -   11:00 (of   48:12)
 Zaharia - Spark 2                                   -   11:00 (of   58:33)
 EPAM - Google                                       -   17:00 (of   56:53)
+Slesarenko - Scalan                                 -   14:00 (of   57:26)
+Brasil - Scylla Charybdis and the mystery of Quill  -   13:00 (of   48:51)
+Sabin - Typelevel                                   -   10:00 (of   56:29)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   05:40 (of   44:26)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
@@ -29,6 +35,7 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Reese - Introduction to Dependent Types in Scala    -   04:30 (of   59:45)
 Cormack - Docker for Mac and Windows                -   04:00 (of   49:51)
+Ureche - Data-centric Metaprogramming               -   08:00 (of   39:13)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
