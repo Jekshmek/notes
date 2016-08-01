@@ -40,4 +40,84 @@ val b2 = new f2.Bar()
 f1.doNothing(b1) //fine
 f1.doNothing(b2) //won't compile
 
-http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/1/3
+- Building a type extractor
+
+trait Inner[F] {
+  type T
+}
+
+object Inner {
+  def apply[F](implicit inner: Inner[F]) = inner
+
+  implicit def mk[F[_], A] = new Inner[F[A]]{
+    type T = A
+  }
+}
+
+- Making it more practical
+
+trait IsFuture[F] {
+  type T
+
+  def apply(f: F): Future[T]
+}
+
+object IsFuture {
+  def apply[F](implicit isf: IsFuture[F]) = isf
+
+  implicit def mk[A] = new IsFuture[Future[A]] {
+    type T = A
+
+    def apply(f: Future[A]): Future[A] = f
+  }
+}
+
+- We can use this as an implicit guard
+
+def logResult[Thing](thing: Thing)
+  (implicit isf: IsFuture[Thing]): Future[isf.T] = 
+    isf(thing) map { x =>
+      log info s"I got a result of $x"
+      x
+    }
+  						
+- Here, IsFuture witnesses that the type "Thing" is a Future and allows us to convert it to it's explicit and fully qualified type.
+
+- TAKE AWAY
+
+- Use companion objects to hide implicit creation (apply-method) and any other boilerplate
+  that might be needed to ultimately construct the dependently typed object.
+- Expose the constructed type classes using an apply that returns the implicit sought.
+- Dependent types can used as type parameters
+- Dependent types allow us to safely cross type boundaries.
+
+- CAPTURING MORE THAN ONE TYPE
+
+trait Apart[F] {
+  type T
+  type W[X]
+
+  def apply(f: F): W[T]
+}
+						
+object Apart {
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  implicit def mk[F[_], A] = new Apart[F[A]] {
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+
+- AN ASIDE
+
+This is more than a type constructor
+
+type W[X]
+
+It is an equation.
+
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/3/1
