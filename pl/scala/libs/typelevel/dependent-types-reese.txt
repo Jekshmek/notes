@@ -119,5 +119,281 @@ type W[X]
 
 It is an equation.
 
+Valid declarations
 
-http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/3/1
+trait Demo[F[_]]{
+  type W[X] = F[X]
+  type Ignore[X] = F[Int]
+  type Identity[X] = X
+  type Const[X] = Int
+}
+				
+- TYPE REFINEMENTS
+
+/*
+trait Apart[F] {
+  type T
+  type W[X]
+
+  def apply(f: F): W[T]
+}
+*/
+object Apart{
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  // type Aux[...] is just an alias to ...
+  // important: and also the other way ...
+  type Aux[FA, A, F[_]] = Apart[FA]{ type T = A; type W[X] = F[X] }
+
+  implicit def mk[F[_], A]: Aux[F[A], A, F] = new Apart[F[A]]{
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+						
+What does this give us?
+
+DEPENDENT TYPES IN SCALA
+SOME TIPS, TRICKS AND TECHNIQUES
+@OweinReese
+WHAT IS A DEPENDENT TYPE?
+trait DepValue{
+  type V
+  val value: V
+}
+
+def magic(that: DepValue): that.V = that.value
+The return type of "magic" depends on the argument passed in.
+TOY EXAMPLE
+
+
+def mk[T](x: T) = new DepValue{ 
+  type V = T
+  val value = x
+}
+val depInt = mk(1)
+val depString = mk("two")
+
+val itWorks: Int = magic(depInt)
+val again: String = magic(depString)
+						
+FIRST EXAMPLE
+Building a type extractor.
+
+trait Inner[F]{
+  type T
+}
+						
+
+object Inner{
+  def apply[F](implicit inner: Inner[F]) = inner
+
+  implicit def mk[F[_], A] = new Inner[F[A]]{
+    type T = A
+  }
+}
+							
+A MORE PRACTICAL EXAMPLE
+
+trait IsFuture[F]{
+  type T
+
+  def apply(f: F): Future[T]
+}
+
+object IsFuture{
+  def apply[F](implicit isf: IsFuture[F]) = isf
+
+  implicit def mk[A] = new IsFuture[Future[A]]{
+    type T = A
+
+    def apply(f: Future[A]): Future[A] = f
+  }
+}
+						
+USE AS AN IMPLICIT GUARD
+
+def logResult[Thing](thing: Thing)
+  (implicit isf: IsFuture[Thing]): Future[isf.T] = 
+    isf(thing) map{ x =>
+      log info s"I got a result of $x"
+      x
+    }
+  						
+Here, IsFuture witnesses that the type "Thing" is a Future and allows us to convert it to it's explicit and fully qualified type.
+CAPTURING MORE THAN ONE TYPE
+
+trait Apart[F]{
+  type T
+  type W[X]
+
+  def apply(f: F): W[T]
+}
+						
+
+object Apart{
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  implicit def mk[F[_], A] = new Apart[F[A]]{
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+							
+AN ASIDE
+This is more than a type constructor
+type W[X]
+It is an equation.
+Valid declarations
+
+trait Demo[F[_]]{
+  type W[X] = F[X]
+  type Ignore[X] = F[Int]
+  type Identity[X] = X
+  type Const[X] = Int
+}
+							
+TYPE REFINEMENTS
+
+object Apart{
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  type Aux[FA, A, F[_]] = Apart[FA]{ type T = A; type W[X] = F[X] }
+
+  implicit def mk[F[_], A]: Aux[F[A], A, F] = new Apart[F[A]]{
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+						
+What does this give us?
+
+- DEPENDENT TYPE CAPTURE
+
+import scalaz._
+
+def mapZero[Thing, F[_], A](thing: Thing)
+  (implicit apart: Apart.Aux[Thing, A, F], 
+                f: Functor[F], 
+                m: Monoid[A]): F[A] =
+    f.map(apart(thing))(_ => m.zero)
+
+! scala-compiler can only capture/calc one type-parameter (thing),
+  for 2 and more - it gives Any
+! we can access [...] parames only at (implicit ...) block, there we can put a constraints on [...] parameters
+
+
+- TAKE AWAY
+You are not restricted to a single abstract type when using dependent types.
+Type refinements can be used as a mechanism to capture the depedent types within the same implicit declaration.
+Captured types do not count as a "free" type parameter.
+Captured types can be used by other type classes to place constraints on types
+
+
+WHAT IS A DEPENDENT TYPE?
+trait DepValue{
+  type V
+  val value: V
+}
+
+def magic(that: DepValue): that.V = that.value
+The return type of "magic" depends on the argument passed in.
+FIRST EXAMPLE
+Building a type extractor.
+
+trait Inner[F]{
+  type T
+}
+						
+
+object Inner{
+  def apply[F](implicit inner: Inner[F]) = inner
+
+  implicit def mk[F[_], A] = new Inner[F[A]]{
+    type T = A
+  }
+}
+							
+A MORE PRACTICAL EXAMPLE
+
+trait IsFuture[F]{
+  type T
+
+  def apply(f: F): Future[T]
+}
+
+object IsFuture{
+  def apply[F](implicit isf: IsFuture[F]) = isf
+
+  implicit def mk[A] = new IsFuture[Future[A]]{
+    type T = A
+
+    def apply(f: Future[A]): Future[A] = f
+  }
+}
+						
+TYPE REFINEMENTS
+
+object Apart{
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  type Aux[FA, A, F[_]] = Apart[FA]{ type T = A; type W[X] = F[X] }
+
+  implicit def mk[F[_], A]: Aux[F[A], A, F] = new Apart[F[A]]{
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+						
+What does this give us?
+DEPENDENT TYPE CAPTURE
+
+import scalaz._
+
+def mapZero[Thing, F[_], A](thing: Thing)
+  (implicit apart: Apart.Aux[Thing, A, F], 
+                f: Functor[F], 
+                m: Monoid[A]): F[A] =
+    f.map(apart(thing))(_ => m.zero)
+							
+TAKE AWAY
+You are not restricted to a single abstract type when using dependent types.
+Type refinements can be used as a mechanism to capture the depedent types within the same implicit declaration.
+Captured types do not count as a "free" type parameter.
+Captured types can be used by other type classes to place constraints on types
+
+
+- TYPE LEVEL "IF" STATEMENT
+ApplyEither is like a compile time "orElse."
+
+val out = ApplyEither(1, {x: Int => 42}, {x: Double => "no"})
+assert(out == 42)
+
+val out2 = ApplyEither(2.0, {x: Int => 42}, {x: Double => "no"})
+assert(out2 == "no")
+
+The function that compiles is the function that is chosen.
+
+- THE SET UP
+
+object ApplyEither {
+  def apply[T, F, G](t: T, f: F, g: G)
+    (implicit ea: EApply[T, F, G]): ea.Out = ea(t, f, g)
+}
+
+trait EApply[T, F, G] {
+  type Out
+
+  def apply(t: T, f: F, g: G): Out
+}
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/4/1
+4 of 7
