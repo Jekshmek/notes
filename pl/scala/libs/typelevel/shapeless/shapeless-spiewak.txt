@@ -1,7 +1,11 @@
+Spiewak - High Wizardy in the Land of Scala
+https://vimeo.com/28793245
+https://vimeo.com/13518456
+http://www.slideshare.net/djspiewak/high-wizardry-in-the-land-of-scala
+
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
 https://www.youtube.com/watch?v=zKRNMyo3wzg
-  High Wizardy in the Land of Scala
 
 trait HList {
     type Append[L <: HList] <: HList
