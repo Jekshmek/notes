@@ -389,11 +389,244 @@ object ApplyEither {
     (implicit ea: EApply[T, F, G]): ea.Out = ea(t, f, g)
 }
 
+// :ea.Out - because sometimes Scala can't infer type and ends up with Any or AnyRef or some weired type
+
 trait EApply[T, F, G] {
   type Out
 
   def apply(t: T, f: F, g: G): Out
 }
 
-http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/4/1
-4 of 7
+
+- DEFINE EAPPLY CREATION
+
+object EApply extends LowPriorityEApply {
+  def apply[T, F, G](implicit ea: EApply[T, F, G]) = ea
+
+  implicit def fapply[T, R, G] = new EApply[T, T => R, G] {
+      type Out = R
+      def apply(t: T, f: T => R, g: G) = f(t)
+  }
+}
+trait LowPriorityEApply {
+  implicit def gapply[T, R, F] = new EApply[T, F, T => R] {
+      type Out = R
+      def apply(t: T, f: F, g: T => R) = g(t)
+  }
+}
+
+!!! compile-time if-statement: fapply is more-priority than gapply,
+using an "implicit-resolution order" rules
+lineralization
+
+- TAKE AWAY
+Pattern matching on types only works if the types are mutually exclusive
+Use implicit resolution order to avoid implicit ambiguity.
+Don't forget to use the dependent type to help the compiler avoid "Any" or "AnyRef."
+
+
+- COMPILE TIME LOOPS
+
+Limitations on Inner and Apart?
+
+case class Foo[V](value: V)
+
+def zero[T, A](t: T)(implicit inner: Inner.Aux[T, A], 
+                              m: Monoid[A]): inner.T = m.zero
+
+zero(Foo(Foo(1))) //won't compile, 
+// because there are no Monoid-instance for Foo[Int]
+						
+Neither goes deeper than the first type constructor.
+
+
+- A TYPECLASS LIKE "INNER"
+
+trait Unwrap[F]{
+  type Inner
+}
+						
+but...
+
+
+- RECURSE OVER THE TYPES
+
+object Unwrap extends LowPriorityUnwrap {
+  def apply[F](implicit unwrap: Unwrap[F]) = unwrap
+
+  type Aux[T, A] = Unwrap[T] { type Inner = A }
+
+  implicit def nested[F[_], G](implicit unwrap: Unwrap[G]) =
+    new Unwrap[F[G]]{
+      type Inner = unwrap.Inner
+    }
+}
+
+trait LowPriorityUnwrap {
+  implicit def bottom[F[_], A] =
+    new Unwrap[F[A]]{
+      type Inner = A
+    }
+}
+
+
+-- TAKE TWO
+
+def zero[T, A](t: T)(implicit unwrap: Unwrap.Aux[T, A], 
+                              m: Monoid[A]): unwrap.Inner = m.zero
+
+val out = zero(Foo(Foo(1)))
+assert(out == 0)
+						
+This compiles and now can access the inner type parameter of the nested Foo, Int.
+
+
+FIRST EXAMPLE
+Building a type extractor.
+
+trait Inner[F]{
+  type T
+}
+						
+
+object Inner{
+  def apply[F](implicit inner: Inner[F]) = inner
+
+  implicit def mk[F[_], A] = new Inner[F[A]]{
+    type T = A
+  }
+}
+							
+CAPTURING MORE THAN ONE TYPE
+
+trait Apart[F]{
+  type T
+  type W[X]
+
+  def apply(f: F): W[T]
+}
+						
+
+object Apart{
+  def apply[F](implicit apart: Apart[F]) = apart
+
+  implicit def mk[F[_], A] = new Apart[F[A]]{
+    type T = A
+    type W[X] = F[X]
+
+    def apply(f: F[A]): W[T] = f
+  }
+}
+							
+AN ASIDE
+This is more than a type constructor
+type W[X]
+It is an equation.
+Valid declarations
+
+trait Demo[F[_]]{
+  type W[X] = F[X]
+  type Ignore[X] = F[Int]
+  type Identity[X] = X
+  type Const[X] = Int
+}
+							
+TYPE LEVEL "IF" STATEMENT
+ApplyEither is like a compile time "orElse."
+
+val out = ApplyEither(1, {x: Int => 42}, {x: Double => "no"})
+assert(out == 42)
+
+val out2 = ApplyEither(2.0, {x: Int => 42}, {x: Double => "no"})
+assert(out2 == "no")
+						
+The function that compiles is the function that is chosen.
+THE SET UP
+
+object ApplyEither{
+  def apply[T, F, G](t: T, f: F, g: G)
+    (implicit ea: EApply[T, F, G]): ea.Out = ea(t, f, g)
+}
+
+trait EApply[T, F, G]{
+  type Out
+
+  def apply(t: T, f: F, g: G): Out
+}
+						
+DEFINE EAPPLY CREATION
+
+object EApply extends LowPriorityEApply{
+  def apply[T, F, G](implicit ea: EApply[T, F, G]) = ea
+
+  implicit def fapply[T, R, G] = new EApply[T, T => R, G] {
+      type Out = R
+      def apply(t: T, f: T => R, g: G) = f(t)
+    }
+}
+trait LowPriorityEApply{
+  implicit def gapply[T, R, F] = new EApply[T, F, T => R] {
+      type Out = R
+      def apply(t: T, f: F, g: T => R) = g(t)
+    }
+}
+						
+A TYPECLASS LIKE "INNER"
+
+trait Unwrap[F]{
+  type Inner
+}
+						
+but...
+RECURSE OVER THE TYPES
+
+object Unwrap extends LowPriorityUnwrap{
+  def apply[F](implicit unwrap: Unwrap[F]) = unwrap
+
+  type Aux[T, A] = Unwrap[T] { type Inner = A }
+
+  implicit def nested[F[_], G](implicit unwrap: Unwrap[G]) =
+    new Unwrap[F[G]]{
+      type Inner = unwrap.Inner
+    }
+}
+trait LowPriorityUnwrap{
+  implicit def bottom[F[_], A] =
+    new Unwrap[F[A]]{
+      type Inner = A
+    }
+}
+						
+TAKE TWO
+
+def zero[T, A](t: T)(implicit unwrap: Unwrap.Aux[T, A], 
+                              m: Monoid[A]): unwrap.Inner = m.zero
+
+val out = zero(Foo(Foo(1)))
+assert(out == 0)
+						
+This compiles and now can access the inner type parameter of the nested Foo, Int.
+
+
+- TAKE AWAY
+Dependent types can be used to pass type information around (along each step of a recursion) when solving for types.
+Implicitly generated traits can be defined in terms of themselves, albeit with different type parameters.
+Loops require a type structure that can be recursed over.
+
+
+- DOING SOMETHING USEFUL
+Let's use types to guide the behavior of our application in a more direct manner.
+
+Who likes writing this?
+
+def annoy[A](that: Future[List[Set[Int]]], 
+                f: Int => A): Future[List[Set[A]]] =
+  that map{ 
+    _ map{
+      _ map f
+  }
+}
+
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/6
+6 of 7

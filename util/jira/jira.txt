@@ -2,8 +2,10 @@ https://confluence.atlassian.com/display/Cloud/Processing+JIRA+issues+with+commi
 
 PLAT-NNN #comment Task completed ahead of schedule #resolve #time 1d 1h
 
-
 https://confluence.atlassian.com/display/JIRA/Advanced+workflow+configuration
+
+
+https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=all
 
 Editing:
 #

@@ -1,7 +1,15 @@
 Spiewak - High Wizardy in the Land of Scala
+http://www.slideshare.net/djspiewak/high-wizardry-in-the-land-of-scala
 https://vimeo.com/28793245
 https://vimeo.com/13518456
-http://www.slideshare.net/djspiewak/high-wizardry-in-the-land-of-scala
+
+- AGENDA
+
+- Higher-Kinds
+- Typeclasses
+- Type-Level Encodings
+- Continuations
+
 
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
