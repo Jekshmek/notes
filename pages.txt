@@ -6,16 +6,17 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Antiutopies                                 -   56:00 (of 1:05:40)
+Bykov - Antiutopies                                 -   58:00 (of 1:05:40)
+Bykov - Pushkin Liceum                              -   00:00 (of)
 Bykov - Uspensky                                    -   30:00 (of   54:57)
 Bykov - Zholkovsky                                  -   29:00 (of 1:43:35)
 Bykov - Marshak                                     -   12:30 (of 1:08:02)
 Maria Strugatskaya                                  -   12:00 (of 1:07:50)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-QCon - 2016                                         -   59:00 (of 1:30:43)
-Sabin - Typelevel                                   -   47:00 (of   56:29)
-Reese - Introduction to Dependent Types in Scala    -   31:33 (of   59:45)
-Brasil - Scylla Charybdis and the mystery of Quill  -   26:00 (of   48:51)
+QCon - 2016                                         - 1:10:00 (of 1:30:43)
+Reese - Introduction to Dependent Types in Scala    -   39:30 (of   59:45)
+Brasil - Scylla Charybdis and the mystery of Quill  -   34:00 (of   48:51)
+Leontiev - There is a prolog in your scala          -   25:00 (of   50:03)
 Zaharia - Spark 2                                   -   24:30 (of   58:33)
 Goetz - Adventures in Parametric Polymorphism       -   21:00 (of 1:05:15)
 TRIZ                                                -   20:00 (of   39:58)
@@ -28,16 +29,18 @@ Matyashovskyy - Lambda Architecture with Apache Spark   12:00 (of   44:25)
 Ureche - Data-centric Metaprogramming               -   11:30 (of   39:13)
 Antonau - Designing and Building Fault-tolerant App -   11:00 (of   48:12)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
+Spiewak - High Wizardy in the Land of Scala         -   08:00 (of   56:45)
 Dumanskiy - Vanilla Java or handling 10k req/sec    -   06:00 (of   44:26)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
+Muzychenko - Remote Functions Execution             -   07:00 (of   27:15)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Zeiger - Polymorphic record types in a lifted embed -   04:10 (of   52:18)
 Cormack - Docker for Mac and Windows                -   04:00 (of   49:51)
-Spiewak - High Wizardy in the Land of Scala         -   03:00 (of   56:45)
 Sabin - Fighting SI-2712                            -   05:00 (of   47:53)
+Shapeless - Exploring Generic Programming in Scala  -   01:30 (of   37:38)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -45,10 +48,11 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
-Negreev - Aristotel 1                               -   00:00 (of   27:05)
+Negreev - Dekart 1                                  -   00:00 (of   26:06)
 Paschenko 12a                                       -   00:00 (of   45:28)
 Lakirev - 2009-02-25                                -   00:00 (of   50:49)
 Razbor 04                                           -   01:00 (of 1:39:53)
+Sonkina - 1                                         -   22:00 (of 2:23:16)
 
 Tracking:
 Bananas and Lens                                    - 36

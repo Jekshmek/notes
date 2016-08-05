@@ -628,5 +628,83 @@ def annoy[A](that: Future[List[Set[Int]]],
 }
 
 
-http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/6
-6 of 7
+- DEFINE A NESTED MAPPER
+
+object MapIt {
+  def apply[A, B, C](in: A, f: B => C)
+    (implicit mapper: Mapper[A, B, C]): mapper.Out = mapper(in, f)
+}
+trait Mapper[A, B, C]{
+  type Out
+
+  def apply(a: A, f: B => C): Out
+}
+
+
+- DEFINE THE TYPE RECURSIVE ALGORITHM
+
+object Mapper {
+  def apply[A, B, C](implicit mapper: Mapper[A, B, C]) = mapper
+
+  implicit def recur[F[_], A, B, C](implicit nested: Mapper[A, B, C], 
+                                             f: Functor[F]) =
+    new Mapper[F[A], B, C] {
+      type Out = F[nested.Out]
+      def apply(fa: F[A], g: B => C): Out = f.map(fa)(nested(_, g))
+    }
+  implicit def base[F[_], A, B >: A, C](implicit f: Functor[F]) =
+    new Mapper[F[A], B, C]{
+      type Out = F[C]
+      def apply(fa: F[A], g: B => C) = f.map(fa)(g)
+    }
+}
+
+
+- TYPE EQUALITY
+
+Value equality checks out.
+
+val in = List(List(1))
+val out = MapIt(in, {x: Int => x+1})
+
+assert(List(List(2)) == out)
+						
+!!! but value equality doesn't test types...
+
+scala> identity[List[List[Int]]](out)
+type mismatch;
+
+found: Mapper[List[List[Int]], Int, Int]#Out
+required: List[List[Int]]
+
+
+- TYPE REFINEMENT (Aux) TO THE RESCUE
+
+object Mapper {
+  type Aux[A, B, C, Out0] = Mapper[A, B, C]{ type Out = Out0 }
+
+  implicit def recur[F[_], A, B, C]
+    (implicit nested: Mapper[A, B, C], 
+              f: Functor[F]): Aux[F[A], B, C, F[nested.Out]] =
+
+  implicit def base[F[_], A, B >: A, C]
+    (implicit f: Functor[F]): Aux[F[A], B, C, F[C]] =
+}
+
+We need to hint the compiler to help type-inference
+
+
+- TAKE AWAY
+You can create the mother of all abstractions using dependent types.
+Type inference can fail in spectacular ways, especially with dependent types.
+Type refinement (Aux) can help the compiler recapture "lost" type information.
+
+
+- PROVING ALGORITHMIC/STRUCTURAL CORRECTNESS
+
+If an algorithm or a structure has invariants,
+you can prove those invariants within the type system,
+i.e. if it compiles, it's correct!
+
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/7
