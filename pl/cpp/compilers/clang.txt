@@ -1,0 +1,7 @@
+AST:
+http://clang.llvm.org/docs/IntroductionToTheClangAST.html
+https://www.youtube.com/watch?v=VqCkCDFLSsc
+
+clang -Xclang -ast-dump <file.cc>
+
+http://clang.llvm.org/docs/LibASTMatchers.html
