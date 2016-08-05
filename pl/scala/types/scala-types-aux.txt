@@ -3,6 +3,7 @@ https://gist.github.com/gigiigig/3cd104e8951b4432afd5
 http://typelevel.org/blog/2015/07/19/forget-refinement-aux.html
 
 http://stackoverflow.com/questions/34544660/why-is-the-aux-technique-required-for-type-level-computations
+https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/
 
 Per Miles Sabin, Aux - is a way to encode multiple implicit parameters blocks (which need to be implemented by Scala/Dotty compiler).
 
