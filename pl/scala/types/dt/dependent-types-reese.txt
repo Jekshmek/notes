@@ -707,4 +707,230 @@ you can prove those invariants within the type system,
 i.e. if it compiles, it's correct!
 
 
-http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/7
+- BALANCED TREE
+A balanced tree where the left branch must be greater than or equal to right branch in height.
+
+import shapeless._
+
+sealed trait Tree[+T] {
+  type N <: Nat  // Nat is from shapeless
+}
+object Leaf extends Tree[Nothing] {
+  type N = _0
+}
+trait Branch[T] extends Tree[T] {
+  def value: T
+  def left: Tree[T]
+  def right: Tree[T]
+}
+
+
+- ANOTHER ASIDE
+I'm cheating. I'm going to use Nat's from Shapeless.
+There's a few type classes/witnesses I get for free:
+1. Type level ordering: LT[N,M] and LTEq[N,M].
+2. Type level operators: Mult[N, M], Div[N,M], Sum[N,M], Pow[N,M] and Min[N,M].
+3. Type level difference (where left Nat >= right Nat) Diff[N,M].
+
+
+- THE PROOF
+
+object Branch {
+  type Aux[T, N0 <: Nat] = Branch[T] { type N = N0 }
+
+  def apply[T, D <: Nat](value0: T, left0: Tree[T], right0: Tree[T])
+    (implicit diff: Diff.Aux[left0.N, right0.N, D],
+              lte: LTEq[D, _1]): Aux[T, Succ[left0.N]] =
+      new Branch[T] {
+        val value = value0
+        val left = left0
+        val right = right0
+        type N = Succ[left0.N]
+      }
+}
+
+
+- DOES IT WORK?
+
+val b1 = Branch(1, Leaf, Leaf)
+val b2 = Branch(2, Leaf, Leaf)
+val higher = Branch(3, b1, Leaf)
+val higher2 = Branch(4, b2, b1)
+
+val nope = Branch(42, higher, Leaf) //won't compile
+val nadda = Branch(42, Leaf, b1) //won't do it either
+
+
+DEPENDENT TYPES IN SCALA
+SOME TIPS, TRICKS AND TECHNIQUES
+@OweinReese
+TYPE LEVEL "IF" STATEMENT
+ApplyEither is like a compile time "orElse."
+
+val out = ApplyEither(1, {x: Int => 42}, {x: Double => "no"})
+assert(out == 42)
+
+val out2 = ApplyEither(2.0, {x: Int => 42}, {x: Double => "no"})
+assert(out2 == "no")
+						
+The function that compiles is the function that is chosen.
+COMPILE TIME LOOPS
+Limitations on Inner and Apart?
+
+case class Foo[V](value: V)
+
+def zero[T, A](t: T)(implicit inner: Inner.Aux[T, A], 
+                              m: Monoid[A]): inner.T = m.zero
+
+zero(Foo(Foo(1))) //won't compile!
+						
+Neither goes deeper than the first type constructor.
+A TYPECLASS LIKE "INNER"
+
+trait Unwrap[F]{
+  type Inner
+}
+						
+but...
+DOING SOMETHING USEFUL
+Let's use types to guide the behavior of our application in a more direct manner. Who likes writing this?
+
+def annoy[A](that: Future[List[Set[Int]]], 
+                f: Int => A): Future[List[Set[A]]] =
+  that map{ 
+    _ map{
+      _ map f
+  }
+}
+						
+DEFINE A NESTED MAPPER
+
+object MapIt{
+  def apply[A, B, C](in: A, f: B => C)
+    (implicit mapper: Mapper[A, B, C]): mapper.Out = mapper(in, f)
+}
+trait Mapper[A, B, C]{
+  type Out
+
+  def apply(a: A, f: B => C): Out
+}
+						
+DEFINE THE TYPE RECURSIVE ALGORITHM
+
+object Mapper{
+  def apply[A, B, C](implicit mapper: Mapper[A, B, C]) = mapper
+
+  implicit def recur[F[_], A, B, C](implicit nested: Mapper[A, B, C], 
+                                             f: Functor[F]) =
+    new Mapper[F[A], B, C] {
+      type Out = F[nested.Out]
+      def apply(fa: F[A], g: B => C): Out = f.map(fa)(nested(_, g))
+    }
+  implicit def base[F[_], A, B >: A, C](implicit f: Functor[F]) =
+    new Mapper[F[A], B, C]{
+      type Out = F[C]
+      def apply(fa: F[A], g: B => C) = f.map(fa)(g)
+    }
+}
+						
+ANOTHER ASIDE
+I'm cheating. I'm going to use Nat's from Shapeless. There's a few type classes/witnesses I get for free:
+Type level ordering: LT[N,M] and LTEq[N,M].
+Type level operators: Mult[N, M], Div[N,M], Sum[N,M], Pow[N,M] and Min[N,M].
+Type level difference (where left Nat >= right Nat) Diff[N,M].
+THE PROOF
+
+object Branch {
+  type Aux[T, N0 <: Nat] = Branch[T] { type N = N0 }
+
+  def apply[T, D <: Nat](value0: T, left0: Tree[T], right0: Tree[T])
+    (implicit diff: Diff.Aux[left0.N, right0.N, D],
+              lte: LTEq[D, _1]): Aux[T, Succ[left0.N]] =
+      new Branch[T] {
+        val value = value0
+        val left = left0
+        val right = right0
+        type N = Succ[left0.N]
+      }
+}
+						
+- DOES IT WORK?
+
+val b1 = Branch(1, Leaf, Leaf)
+val b2 = Branch(2, Leaf, Leaf)
+val higher = Branch(3, b1, Leaf)
+val higher2 = Branch(4, b2, b1)
+
+val nope = Branch(42, higher, Leaf) //won't compile
+val nadda = Branch(42, Leaf, b1) //won't do it either
+						
+Sure does!
+
+
+- MORE GENERAL CASE
+What we'd really like is if we could have a balanced tree not restricted to left heavy.
+
+val lower = Branch(1, Leaf, Leaf)
+val right = Branch(42, Leaf, lower)
+						
+The problem is how we originally defined branch creation.
+
+
+- USE AN INDIRECTION
+You can't directly map to a single method for mutually exclusive proofs.
+
+object Branch {
+  def apply[T](value: T, left0: Tree[T], right0: Tree[T])
+    (implicit tb: TreeBuilder[T, left0.N, right0.N]): Aux[T, tb.Height] = 
+      tb(value, left0, right0)
+}
+trait TreeBuilder[T, N <: Nat, M <: Nat] {
+  type Height <: Nat
+  def apply(v: T, l: Tree[T], r: Tree[T]): Branch.Aux[T, Height]
+}
+
+
+- DEFINE LIKE BEFORE
+
+object TreeBuilder with LowPriorityTreeBuilder {
+  def apply[T, N <: Nat, M <: Nat]
+  	(implicit tb: TreeBuilder[T, N, M]): Aux[T, N, M, tb.Height] = tb
+
+  type Aux[T, N <: Nat, M <: Nat, Height0 <: Nat] = 
+    TreeBuilder[T, N, M] {type Height = Height0}
+						
+A paradox, the Aux capturing the dependent type is defined in terms of the dependent type.
+
+
+- HALF THE PROOF
+
+  implicit def mkLeft[T, N0 <: Nat, M <: Nat, D <: Nat]
+    (implicit diff: Diff.Aux[N0, M, D], 
+              lte: LTEq[D, _1]): Aux[T, N0, M, Succ[N0]] =
+      new TreeBuilder[T, N0, M] { self =>
+        type Height = Succ[N0]
+        def apply(value0: T, left0: Tree[T], right0: Tree[T]) =
+          new Branch[T] {
+            val value = value0
+            val left = left0
+            val right = right0
+            type N = self.Height
+          }
+      }
+}
+						
+Flip "right" and "left" for the other half
+
+
+- TAKE AWAY
+Proofs are only as good as their use can be enforced, i.e. don't let your code work around it.
+Multiple valid conditions sometimes require the use of a secondary type class that nests the proof.
+Sometimes the type refinement has to be defined by the type that has paradoxically been "lost."
+
+
+- FINAL THOUGHTS
+There are compile time costs.
+Sometimes there are run time costs too.
+Understand that proofs are programs in and of themselves except they can't be easily unit tested. It compiles or it doesn't!*
+
+http://wheaties.github.io/Presentations/Scala-Dep-Types/dependent-types.html#/8

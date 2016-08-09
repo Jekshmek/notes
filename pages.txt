@@ -6,40 +6,37 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Antiutopies                                 -   58:00 (of 1:05:40)
-Bykov - Pushkin Liceum                              -   00:00 (of)
-Bykov - Uspensky                                    -   30:00 (of   54:57)
+Bykov - Pushkin Liceum                              -   01:00 (of 1:07:45)
 Bykov - Zholkovsky                                  -   29:00 (of 1:43:35)
 Bykov - Marshak                                     -   12:30 (of 1:08:02)
 Maria Strugatskaya                                  -   12:00 (of 1:07:50)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-QCon - 2016                                         - 1:10:00 (of 1:30:43)
-Reese - Introduction to Dependent Types in Scala    -   39:30 (of   59:45)
-Brasil - Scylla Charybdis and the mystery of Quill  -   34:00 (of   48:51)
-Leontiev - There is a prolog in your scala          -   25:00 (of   50:03)
-Zaharia - Spark 2                                   -   24:30 (of   58:33)
-Goetz - Adventures in Parametric Polymorphism       -   21:00 (of 1:05:15)
+Reese - Introduction to Dependent Types in Scala    -   53:00 (of   59:45)
+Zaharia - Spark 2                                   -   39:00 (of   58:33)
+Zapletal - Distributed Real Time Stream Processing  -   28:00 (of   42:19)
+Goetz - Adventures in Parametric Polymorphism       -   27:00 (of 1:05:15)
+Matyashovskyy - Lambda Architecture with Apache Spark   23:00 (of   44:25)
+Ureche - Data-centric Metaprogramming               -   20:00 (of   39:13)
 TRIZ                                                -   20:00 (of   39:58)
-Zapletal - Distributed Real Time Stream Processing  -   18:00 (of   42:19)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
 EPAM - Google                                       -   17:00 (of   56:53)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
+Dumanskiy - Vanilla Java or handling 10k req/sec    -   15:00 (of   44:26)
+Zeiger - Polymorphic record types in a lifted embed -   14:00 (of   52:18)
+Spiewak - High Wizardy in the Land of Scala         -   13:00 (of   56:45)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
-Matyashovskyy - Lambda Architecture with Apache Spark   12:00 (of   44:25)
-Ureche - Data-centric Metaprogramming               -   11:30 (of   39:13)
+Muzychenko - Remote Functions Execution             -   12:00 (of   27:15)
 Antonau - Designing and Building Fault-tolerant App -   11:00 (of   48:12)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
-Spiewak - High Wizardy in the Land of Scala         -   08:00 (of   56:45)
-Dumanskiy - Vanilla Java or handling 10k req/sec    -   06:00 (of   44:26)
+Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
+Zaugg - Modernizing Scala Bytecode                  -   09:00 (of   40:35)
+Sabin - Fighting SI-2712                            -   05:00 (of   47:53)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Muzychenko - Remote Functions Execution             -   07:00 (of   27:15)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
-Zeiger - Polymorphic record types in a lifted embed -   04:10 (of   52:18)
 Cormack - Docker for Mac and Windows                -   04:00 (of   49:51)
-Sabin - Fighting SI-2712                            -   05:00 (of   47:53)
 Shapeless - Exploring Generic Programming in Scala  -   01:30 (of   37:38)
 
 Series:
@@ -48,15 +45,15 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                                 - 0301
 
 Audio:
+Paschenko 12a                                       -   01:00 (of   26:13)
 Negreev - Dekart 1                                  -   00:00 (of   26:06)
-Paschenko 12a                                       -   00:00 (of   45:28)
-Lakirev - 2009-02-25                                -   00:00 (of   50:49)
+Lakirev - 2009-09-30                                -   00:00 (of   54:32)
 Razbor 04                                           -   01:00 (of 1:39:53)
-Sonkina - 1                                         -   22:00 (of 2:23:16)
+Sonkina - D 1                                       -   28:00 (of 2:23:16)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 113
+Razbor Poletov                                      - 114 46:00 (of 2:35:35)
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 133
 LXF                                       - 199..207|3 Feb 2016
