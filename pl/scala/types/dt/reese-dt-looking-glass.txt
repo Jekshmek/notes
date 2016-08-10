@@ -1,0 +1,175 @@
+https://www.youtube.com/watch?v=jgFAkmnBHwU
+http://wheaties.github.io/Presentations/NEScala2015/looking-glass.html#/
+
+- WHAT DO THEY LOOK LIKE?
+trait Foo {
+  type Bar
+
+  val value: Bar
+}
+						
+The type returned depends on the argument.
+
+def bar(foo: Foo): foo.Bar = foo.value
+
+
+-- WITH TYPE CLASSES
+
+def foo[T](that: T)(implicit bar: Bar[T]): bar.R
+
+def query[T](that: T)(implicit bar: Bar[T]): Result[bar.R]
+
+
+--
+There can't be bees - nobody ever saw bees a mile off, you know - Alice
+--
+
+- FLATSIZE
+
+implicit class ListOps[A](l: List[A]) {
+  def flatSize: Int = l.flatten.size
+}
+
+
+-- PROBLEM
+
+error: No implicit view available from
+    A => scala.collection.GenTraversableOnce[B].def flatSize = l.flatten.size
+                 ^
+
+Aren't problems good?
+
+
+-- FLATTEN
+
+! the flatten actually has implicit at def ...
+
+def flatten[B](implicit asTraversable: A => GenTraversableOnce[B]): List[B] = {
+  val b = genericBuilder[B]
+  for (xs <- sequential)
+    b ++= asTraversable(xs).seq
+  b.result()
+}
+
+
+-- FULL SIGNATURE
+
+implicit class ListOps[A](l: List[A]) {
+  def flatSize[B]
+    (implicit ast: A => GenTraversableOnce[B]): Int = 
+      l.flatten.size
+}
+						
+def flatSize[B]: Int
+
+
+-- REWRITTEN
+
+! If Oweit would rewrite it (using DTs):
+
+def flatten(implicit itl: IsTraversableOnce[A]): List[itl.A] = {
+  val b = genericBuilder[itl.A]
+  for (xs <- sequential)
+    b ++= itl.conversion(xs).seq
+  b.result()
+}
+						
+using something found in Scala itself
+
+trait IsTraversableOnce[Repr]{
+  type A
+
+  abstract val conversion: Repr => GenTraversableOnce[A]
+}
+
+
+-- NEW SIGNATURE
+
+! In the case of rewritten-flatten:
+
+implicit class ListOps[A](l: List[A]) {
+  def flatSize(implicit itl: IsTraversableOnce[A]): Int =
+    l.flatten.size
+}
+
+def flatSize: Int
+
+
+-- TYPE DISCOVERY
+
+! This is just a compile-time type reification
+
+trait IsMyType[MA]{
+  type A
+
+  def apply(ma: MA): SomeType[A]
+}
+
+implicit def isMT[A0] = new IsMyType[SomeType[A0]]{
+  type A = A0
+
+  def apply(ma: SomeType[A0]) = ma
+}
+						
+compile time psuedo-type reification
+
+
+--
+The rule is, jam to-morrow and jam yesterday – but never jam to-day. - the Queen
+--
+
+! No-one uses flatten-method too often because of the flatmap
+
+
+-- FLATMAP
+
+def map[B](f: A => B): M[B]
+
+def flatMap[B](f: A => M[B]): M[B]
+						
+because (no one want to deal with Some(None) ...
+
+opt map f match {
+  case None => //...code
+  case Some(Some(x)) => //...code
+  case Some(None) => //...!?
+}
+
+
+-- MORE INTUITIVE
+
+! ??? Oween would change that to
+
+def map[B](f: A => B)(implicit not: IsNotM[B]): M[B]
+
+def flatMap[B](f: A => B)(implicit ism: IsM[B]): M[ism.A]
+						
+one less possible mistake, right?
+
+
+-- DON'T MAKE ME THINK
+
+def map[B](f: T => B)(implicit tie: Tie[B]): M[tie.A] = 
+  dmap(f)(tie)
+
+def flatMap[B](f: T => B)(implicit tie: Tie[B]): M[tie.A] = 
+  dmap(f)(tie)
+
+def dmap[B](f: T => B)(implicit tie: Tie[B]): M[tie.A]
+
+
+-- THE CONTINUATION MONAD
+trait Cont[+T, R] { self =>
+  def apply(f: T => R): R
+
+  def map[B](f: T => B): Cont[B, R] = new Cont[B, R] {
+    def apply(g: B => R): R = self(f andThen g)
+  }
+
+  def flatMap[B](f: T => Cont[B, R]): Cont[B, R] = new Cont[B, R] {
+    def apply(g: B => R): R = self(f(_)(g))
+  }
+}
+
+http://wheaties.github.io/Presentations/NEScala2015/looking-glass.html#/1
+1 of 4
