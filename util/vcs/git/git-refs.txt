@@ -56,3 +56,18 @@ The others are generally only useful when writing lower-level scripts that need 
 
 Symbolic Refs
 git symbolic-ref ...
+
+
+Every branch, tag, and other decoration is just a reference to the ID of a specific commit
+(calculated with SHA-1, the secure hash algorithm).
+
+git rev-parse <human-hash> or <branch-name>
+	[pick out and massage parameters]
+	to get a sys-id (long) from a human-readable (short) form
+
+git rev-parse 'master^{tree}'
+	.. commit tree
+
+git describe --tags master
+git describe --tags HEAD
+	describe (find nearest tag) non-annotated tag

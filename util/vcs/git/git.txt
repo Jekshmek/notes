@@ -27,26 +27,3 @@ https://github.com/onlywei/explain-git-with-d3
 
 man:
 git everyday
-
-RECOVERING
-http://blog.ctp.com/2013/11/21/git-recovering-from-mistakes/
-
-
-git fsck --full --strict
-	to check the repo-validity
-
-Every branch, tag, and other decoration is just a reference to the ID of a specific commit
-(calculated with SHA-1, the secure hash algorithm).
-
-git rev-parse <human-hash> or <branch-name>
-	[pick out and massage parameters]
-	to get a sys-id (long) from a human-readable (short) form
-
-git rev-parse 'master^{tree}'
-	.. commit tree
-
-git describe --tags master
-git describe --tags HEAD
-	describe (find nearest tag) non-annotated tag
-
-
