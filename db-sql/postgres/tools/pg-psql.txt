@@ -1,0 +1,10 @@
+/var/lib/postgres/.psql_history
+
+cmd-line options
+    -d <dbname>
+        connect to <dbname> DB
+
+\q
+    quit
+\l
+    list databases

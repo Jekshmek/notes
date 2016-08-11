@@ -1,3 +1,4 @@
+https://wiki.archlinux.org/index.php/PostgreSQL
 http://eax.me/postgresql-install/
 
 inst-lin:
@@ -5,6 +6,30 @@ http://www.unixmen.com/install-postgresql-9-3-centos-6-56-4/
 http://www.unixmen.com/install-postgresql-9-3-phppgadmin-centos-6-5/
 http://www.unixmen.com/install-postgresql-9-3-phppgadmin-centos-76-56-4/
 http://www.unixmen.com/postgresql-9-4-released-install-centos-7/
+
+manjaro-extra:
+    postgresql
+    postgresql-libs
+    postgresql-docs
+aur:
+    postgresql-lts
+    postgresql-9.4
+    postgresql-beta[-docs]
+    postgresql-git
+
+sudo -u postgres initdb /var/lib/postgres/data
+...
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run initdb.
+
+Success. You can now start the database server using:
+
+    pg_ctl -D /var/lib/postgres/data/ -l logfile start
+
+sudo -u postgres createuser --superuser $USER
+createuser -s -U $USER
+
 
 inst-win:
 http://www.enterprisedb.com/docs/en/9.3/pginstguide/Table%20of%20Contents.htm
@@ -16,3 +41,21 @@ postgresql-<ver>-windows-x64.exe --optionfile <full-path-to-cfg>
 
 Cmd-line installation options:
 http://www.enterprisedb.com/docs/en/9.3/pginstguide/PostgreSQL_Installation_Guide-12.htm
+
+cfg:
+/usr/lib/systemd/system/postgresql.service
+...
+Environment=PGROOT=/var/lib/postgres
+
+postgres-owned:
+/var/lib/posgres/data/postgresql.conf
+/var/lib/posgres/data/pg_hba.conf
+
+# TYPE  DATABASE        USER            ADDRESS                 METHOD
+
+# "local" is for Unix domain socket connections only
+local   all             all                                     trust
+# IPv4 local connections:
+host    all             all             127.0.0.1/32            trust
+# IPv6 local connections:
+host    all             all             ::1/128  

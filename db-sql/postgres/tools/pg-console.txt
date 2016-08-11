@@ -1,5 +1,4 @@
 	raise notice 'abc %', rec.CS_user;
 
-
 -- http://stackoverflow.com/questions/17693259/need-to-printing-postgresql-database-console
 -- http://www.postgresql.org/docs/8.1/static/plpgsql-errors-and-messages.html
