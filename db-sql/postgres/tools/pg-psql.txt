@@ -4,7 +4,11 @@ cmd-line options
     -d <dbname>
         connect to <dbname> DB
 
+\?
+    help
 \q
     quit
 \l
     list databases
+\du
+    list roles
