@@ -171,5 +171,50 @@ trait Cont[+T, R] { self =>
   }
 }
 
-http://wheaties.github.io/Presentations/NEScala2015/looking-glass.html#/1
+
+-- REWRITTEN
+! If Owein were to rewrite this:
+
+trait Cont[+T, R] { self =>
+  def apply(f: T => R): R
+
+  def dmap[B](f: T => B)(implicit tie: Tie[B, R]) = new Cont[tie.In, R] {
+    def apply(g: tie.In => R): R = self(x => tie(f(x), g))
+  }
+}
+						
+with Tie as
+
+trait Tie[B, R] {
+  type In
+
+  def apply(b: B, f: In => R): R
+}
+
+
+-- TIE
+
+object Tie extends LowPriorityTie {
+  def apply[C, R](implicit tie: Tie[C, R]): Aux[C, R, tie.In] = tie
+
+  implicit def tieFM[B, R]: Aux[Cont[B, R], R, B] =
+    new Tie[Cont[B, R], R]{
+      type In = B
+
+      def apply(cont: Cont[B, R], f: B => R): R = cont(f)
+    }
+}
+
+trait LowPriorityTie {
+  type Aux[C, R, In0] = Tie[C, R]{ type In = In0 }
+
+  implicit def tieM[B, R]: Aux[B, R, B] =
+    new Tie[B, R] {
+      type In = B
+
+      def apply(b: B, f: B => R): R = f(b)
+    }
+}
+
+http://wheaties.github.io/Presentations/NEScala2015/looking-glass.html#/3/6
 1 of 4

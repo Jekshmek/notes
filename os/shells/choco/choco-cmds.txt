@@ -6,11 +6,20 @@ install
 git:
 http://jrsoftware.org/ishelp/index.php?topic=setupcmdline
 
-choco install git -ia="'/DIR="d:\dev\utils\vcs\git"'" -y
-choco install git-credential-winstore
-  Software installed to 'C:\Users\Ihar_Hancharenka\AppData\Local\Programs\Microsoft Git Credential Manager for Windows\
+choco install -ia="'/DIR="d:\dev\utils\vcs\git"'" git
+choco install -ia="'/DIR="d:\dev\utils\vcs\git-cred"'" git-credential-manager-for-windows
+choco install -ia="'/DIR="d:\dev\utils\vcs\git-cred"'" git-credential-winstore
 
 git --params="'/GitAndUnixToolsOnPath /NoAutoCrlf'" -y
+
+msi-stuff:
+http://www.advancedinstaller.com/user-guide/msiexec.html
+http://stackoverflow.com/questions/33484750/msiexec-differnce-between-qn-quiet-and-passive
+
+choco install -ia "INSTALLDIR=""d:\dev\utils\term\conemu""" conemu
+/p:x64 /quiet /norestart "INSTALLDIR=""d:\dev\utils\term\conemu"""
+
+ConEmuSetup.160724.exe /p:x64 /q INSTALLDIR=d:\dev\utils\term\conemu
 
 
 Note: To confirm automatically next time, use '-y' or consider setting
@@ -35,5 +44,11 @@ https://chocolatey.org/docs/getting-started#overriding-default-install-directory
 
 
 update
+    <pgk-name>
+    chocolately
 
-choco update chocolately
+list
+    -l
+        local
+    --detail
+        detailed info
