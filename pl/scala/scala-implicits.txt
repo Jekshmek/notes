@@ -9,6 +9,7 @@ http://www.slideshare.net/futurespective/23-implicits-12236589
 
 http://habrahabr.ru/post/209850/
 
+http://stackoverflow.com/documentation/scala/1732/implicits
 http://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits
 http://stackoverflow.com/questions/5332801/how-can-i-chain-implicits-in-scala
 

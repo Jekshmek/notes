@@ -6,34 +6,35 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Piter                                       -   03:00 (of   20:00)
+Bykov - People                                      -   21:00 (of 1:39:56)
+Bykov - Aksenov and Trifonov                        -   01:00 (of   44:18)
 Bykov - Zholkovsky                                  -   32:00 (of 1:43:35)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Pushkin Liceum                              -   30:00 (of 1:07:45)
 Bykov - Marshak                                     -   12:30 (of 1:08:02)
 Maria Strugatskaya                                  -   12:00 (of 1:07:50)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-Zaharia - Spark 2                                   -   46:00 (of   58:33)
-Zapletal - Distributed Real Time Stream Processing  -   33:00 (of   42:19)
-Goetz - Adventures in Parametric Polymorphism       -   30:00 (of 1:05:15)
-Ureche - Data-centric Metaprogramming               -   26:00 (of   39:13)
-Matyashovskyy - Lambda Architecture with Apache Spark   23:00 (of   44:25)
-TRIZ                                                -   20:00 (of   39:58)
-Dumanskiy - Vanilla Java or handling 10k req/sec    -   19:00 (of   44:26)
-Zeiger - Polymorphic record types in a lifted embed -   18:00 (of   52:18)
+Zaharia - Spark 2                                   -   51:00 (of   58:33)
+Zapletal - Distributed Real Time Stream Processing  -   38:00 (of   42:19)
+Ureche - Data-centric Metaprogramming               -   34:10 (of   39:13)
+Goetz - Adventures in Parametric Polymorphism       -   34:00 (of 1:05:15)
+Matyashovskyy - Lambda Architecture with Apache Spark   28:00 (of   44:25)
+Dumanskiy - Vanilla Java or handling 10k req/sec    -   23:00 (of   44:26)
+Zeiger - Polymorphic record types in a lifted embed -   22:00 (of   52:18)
+Muzychenko - Remote Functions Execution             -   20:30 (of   27:15)
+Spiewak - High Wizardy in the Land of Scala         -   20:00 (of   56:45)
+ TRIZ                                                -   20:00 (of   39:58)
+Zaugg - Modernizing Scala Bytecode                  -   18:00 (of   40:35)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
-Spiewak - High Wizardy in the Land of Scala         -   17:00 (of   56:45)
+Reese-DTThroughTheLookingGlass                      -   17:30 (of   21:38)
 EPAM - Google                                       -   17:00 (of   56:53)
-Muzychenko - Remote Functions Execution             -   16:30 (of   27:15)
+Patryshev  - Intro to ITT                           -   17:00 (of   52:38)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
-Patryshev  - Intro to ITT                           -   16:00 (of   52:38)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Sabin - Fighting SI-2712                            -   12:30 (of   47:53)
-Zaugg - Modernizing Scala Bytecode                  -   11:00 (of   40:35)
 Antonau - Designing and Building Fault-tolerant App -   11:00 (of   48:12)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
-Reese-DTThroughTheLookingGlass                      -   09:00 (of   )
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Chef                                                -   37:00 (of 1:06:27)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
@@ -41,7 +42,10 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Cormack - Docker for Mac and Windows                -   04:00 (of   49:51)
 Shapeless - Exploring Generic Programming in Scala  -   01:30 (of   37:38)
+
+Science Videos:
 Harper - 1                                          -   14:00 (of 1:23:40)
+Licata - Homotopy Theory in Type Theory             -   02:00 (of 1:28:35)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -50,14 +54,14 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 12v                                       -   01:00 (of 1:07:35)
-Negreev - Dekart 1                                  -   00:00 (of   26:06)
+Negreev - Kant 1                                    -   00:00 (of   26:57)
 Lakirev - 2009-09-30                                -   00:00 (of   54:32)
 Razbor 04                                           -   01:00 (of 1:39:53)
 Sonkina - D 1                                       -   41:30 (of 2:23:16)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 114 1:16:00 (of 2:35:35)
+Razbor Poletov                                      - 114 1:47:00 (of 2:35:35)
 https://www.fpcomplete.com/recent-content - 2 May
 http://accu.org/index.php/journals/c78/   - 134
 LXF                                       - 199..207|3 Feb 2016

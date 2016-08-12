@@ -25,4 +25,39 @@ object DoubleNum extends Num[Double] {
     def add(x: Double, y: Double) = x + y
 }
 
+// works
 
+sum(List(1, 2, 3, 4))(IntNum)
+sum(List(3.14, 2.72))(DoubleNum)
+
+This works, but ugly (we have to constantly provide the relevant instance of Num[A])
+
+-- Let's use implicit to the rescue !!!
+
+def sum[A](nums: List[A]))(implicit tc: Num[A]) = 
+    nums.foldLeft(tc.zero)(tc.add)
+
+!!! we need to put the implicit-modifiers to the objects:
+
+implicit object IntNum extends Num[Int] {
+    val zero = 0
+
+    def add(x: Int, y: Int) = x + y
+}
+
+implicit object DoubleNum extends Num[Double] {
+    val zero = 0d
+
+    def add(x: Double, y: Double) = x + y
+}
+
+!!! now we can just call
+sum(List(1, 2, 3, 4))
+sum(List(3.14, 2.72))
+
+
+-- This is what typeclasses are ALL-about
+
+Num - is a typeclass
+
+- Typeclasses are categories of types (e.x. Collections and Numeric in 2.8)
