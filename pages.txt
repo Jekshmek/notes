@@ -13,21 +13,14 @@ Bykov - Pushkin Liceum                              -   30:00 (of 1:07:45)
 Bykov - Marshak                                     -   12:30 (of 1:08:02)
 Maria Strugatskaya                                  -   12:00 (of 1:07:50)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-Zaharia - Spark 2                                   -   51:00 (of   58:33)
-Zapletal - Distributed Real Time Stream Processing  -   38:00 (of   42:19)
-Ureche - Data-centric Metaprogramming               -   34:10 (of   39:13)
-Goetz - Adventures in Parametric Polymorphism       -   34:00 (of 1:05:15)
-Matyashovskyy - Lambda Architecture with Apache Spark   28:00 (of   44:25)
-Dumanskiy - Vanilla Java or handling 10k req/sec    -   23:00 (of   44:26)
+Goetz - Adventures in Parametric Polymorphism       -   39:00 (of 1:05:15)
+Dumanskiy - Vanilla Java or handling 10k req/sec    -   31:00 (of   44:26)
 Zeiger - Polymorphic record types in a lifted embed -   22:00 (of   52:18)
-Muzychenko - Remote Functions Execution             -   20:30 (of   27:15)
-Spiewak - High Wizardy in the Land of Scala         -   20:00 (of   56:45)
+Spiewak - High Wizardy in the Land of Scala         -   22:30 (of   56:45)
  TRIZ                                                -   20:00 (of   39:58)
 Zaugg - Modernizing Scala Bytecode                  -   18:00 (of   40:35)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
-Reese-DTThroughTheLookingGlass                      -   17:30 (of   21:38)
 EPAM - Google                                       -   17:00 (of   56:53)
-Patryshev  - Intro to ITT                           -   17:00 (of   52:38)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Sabin - Fighting SI-2712                            -   12:30 (of   47:53)
@@ -43,16 +36,20 @@ Cormack - Docker for Mac and Windows                -   04:00 (of   49:51)
 Shapeless - Exploring Generic Programming in Scala  -   01:30 (of   37:38)
 
 Science Videos:
+Patryshev  - Intro to ITT                           -   17:00 (of   52:38)
 Harper - 1                                          -   14:00 (of 1:23:40)
 Licata - Homotopy Theory in Type Theory             -   02:00 (of 1:28:35)
+
+ForLater
+Polyuila
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
-???Python Fundamentals                                 - 0301
+???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 12v                                       -   01:00 (of 1:07:35)
+Paschenko 13                                        -   00:00 (of 1:47:02)
 Negreev - Kant 1                                    -   00:00 (of   26:57)
 Lakirev - 2009-09-30                                -   00:00 (of   54:32)
 Razbor 04                                           -   01:00 (of 1:39:53)
@@ -61,13 +58,13 @@ Sonkina - D 1                                       -   41:30 (of 2:23:16)
 Tracking:
 Bananas and Lens                                    - 36
 Razbor Poletov                                      - 114 1:47:00 (of 2:35:35)
-https://www.fpcomplete.com/recent-content - 2 May
-http://accu.org/index.php/journals/c78/   - 134
-LXF                                       - 199..207|3 Feb 2016
+https://www.fpcomplete.com/recent-content           - 2 May
+http://accu.org/index.php/journals/c78/             - 134
+LXF                                                 - 199..207|3 Feb 2016
 52|LXF197 - escape the gui
 
 Books:
 OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
-iterator category/tag-dispatching
+cpp - iterator category/tag-dispatching

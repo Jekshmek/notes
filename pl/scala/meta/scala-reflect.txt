@@ -1,0 +1,11 @@
+scala.reflect
+http://docs.scala-lang.org/overviews/reflection/symbols-trees-types.html
+
+Muzychenko-RemoteFunctionsExecution
+
+import scala.reflect._
+
+def getType[T: ClassTag](x: T) =
+    classTag[T].runtimeClass.getName
+
+getType("no more erasure") // java.lang.String

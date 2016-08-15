@@ -302,7 +302,3 @@ object Knot extends LowPriorityKnot {
         }
       }
 }
-
-
-http://wheaties.github.io/Presentations/NEScala2015/looking-glass.html#/4/3
-4.3 of 4
