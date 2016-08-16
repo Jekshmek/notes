@@ -61,3 +61,58 @@ sum(List(3.14, 2.72))
 Num - is a typeclass
 
 - Typeclasses are categories of types (e.x. Collections and Numeric in 2.8)
+
+
+import HList._
+
+val xs = 42 :: "foo" :: 3.14 :: HNil
+
+xs.head       // => 42: Int
+xs.tail.head  // => "foo": String
+
+object HList {
+    sealed trait HList {
+        // type-level
+        type Head
+        type Tail <: HList
+        type Append[L <: HList] <: HList
+  
+        // value-level
+        def head: Head
+        def tail: Tail
+
+        def ++[L <: HList](xs: L): Append[L]
+    }
+
+    // type-level base-case
+    final class HNil extends HList {
+        type Head = Nothing
+        type Tail = Nothing
+        type Append[L <: HList] = L
+
+        def head = error("Head of an empty HList")
+        def tail = error("Tail of an empty HList")
+
+        def ::[A](a: A) = HCons(a, this)
+
+        def ++[L <: HList](xs: L) = sx
+    }
+
+    // value-level
+    val HNil = new HNil
+
+    // type-level cons-case
+    case class HCons[A, B <: HList](head: A, tail: B) extends HList {
+        type Head = A
+        type Tail = B
+
+        type Append[L <: HList] = HCons[Head, Tail#Append[L]]
+
+        def ::[L <: HList](xs: L) = head :: (tail ++ xs)
+    }
+
+    // just an infix cons-form
+    type ::[A, B <: HList] = HCons[A, B]
+
+    // ...
+}
