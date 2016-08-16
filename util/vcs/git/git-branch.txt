@@ -1,4 +1,5 @@
-BRANCHES:
+http://learngitbranching.js.org/
+https://github.com/pcottle/learnGitBranching
 
 git branch -v [--list]
     get branches with hashes.

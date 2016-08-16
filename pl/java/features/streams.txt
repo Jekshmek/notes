@@ -1,14 +1,16 @@
-Paumard - Java 8 Streams and Collectors Patterns
-http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performances-and-parallelization
-
-Presentations:
-Valeev - JPoing 2016
-
-
+Articles:
+http://iteratrlearning.com/java9/2016/08/06/java9-streams.html
 Goetz:
 http://www.ibm.com/developerworks/java/library/j-java-streams-1-brian-goetz/index.html
 http://www.ibm.com/developerworks/java/library/j-java-streams-2-brian-goetz/index.html
 http://www.ibm.com/developerworks/java/library/j-java-streams-3-brian-goetz/index.html
+
+
+Presentations:
+Valeev - JPoing 2016
+
+Paumard - Java 8 Streams and Collectors Patterns
+http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performances-and-parallelization
 
 Characteristics:
 SIZED
@@ -46,3 +48,14 @@ characterized by Spliterator
         - uses more memory
         - short-circuiting (find result earlier than finishing consuming all the input)
         - .flatMap...spliterator().tryAdvance() - throws OOM because of the buffering
+
+.orElseThrow(IllegalStateException::new)
+
+Java9 stuff:
+.ofNullable(System.getProperty("bla-bla"))
+.takeWhile(predicate)
+    stops once a failed-to-match element found
+.dropWhile(predicate)
+    -//- inverse
+.iterate(3, x -> x < 100, x -> x + 3)
+    java9 adds a middle/second bound-parameter
