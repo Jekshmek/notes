@@ -8,7 +8,14 @@ macro:
 https://github.com/groupoid/exe/blob/master/priv/Macro/macross-0/guidelines
 https://github.com/groupoid/exe/blob/master/priv/Macro/macro.new/guidelines
 
+people
 http://zeit-raffer.livejournal.com/
-    2015
+    2015 Feb
 http://zeit-raffer.livejournal.com/?skip=395
-    Jul 2015
+    2015 Jul
+https://github.com/zraffer
+
+https://gitter.im/groupoid/om/archives/
+    2016/01/12
+https://gitter.im/groupoid/exe/archives/
+    2016/01/08

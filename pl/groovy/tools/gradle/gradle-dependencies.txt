@@ -60,6 +60,8 @@ dependencies {
 }
 
 Dependencies are grouped in configurations:
+- compileOnly
+    https://gradle.org/blog/compile-only-dependencies/
 - compile
 - runtime
 - testCompile
