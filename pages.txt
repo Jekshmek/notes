@@ -6,26 +6,29 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Maria Strugatskaya                                  -   34:27 (of 1:07:50)
+Maria Strugatskaya                                  -   41:00 (of 1:07:50)
 Bykov - Zholkovsky                                  -   32:00 (of 1:43:35)
-Bykov - Marshak                                     -   22:30 (of 1:08:02)
+Bykov - Marshak                                     -   30:00 (of 1:08:02)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
+Bykov - Ukraine                                     -   07:00 (of 2:34:09)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-Goetz - Adventures in Parametric Polymorphism       -   48:00 (of 1:05:15)
-Spiewak - High Wizardy in the Land of Scala         -   42:00 (of   56:45)
-EPAM - Google                                       -   38:00 (of   56:53)
+Goetz - Adventures in Parametric Polymorphism       -   51:00 (of 1:05:15)
+EPAM - Google                                       -   48:00 (of   56:53)
+Sabin - Fighting SI-2712                            -   41:00 (of   47:53)
 Chef                                                -   37:00 (of 1:06:27)
-Zaugg - Modernizing Scala Bytecode                  -   28:10 (of   40:35)
-Zeiger - Polymorphic record types in a lifted embed -   28:00 (of   52:18)
+Zeiger - Polymorphic record types in a lifted embed -   36:00 (of   52:18)
+Zaugg - Modernizing Scala Bytecode                  -   35:00 (of   40:35)
+Anastasyev - Distributed Systems in OK              -   25:00 (of 1:17:19)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Sabin - Fighting SI-2712                            -   18:00 (of   47:53)
+Cormack - Docker for Mac and Windows                -   24:00 (of   49:51)
+Elizarov - Non Blocking                             -   21:30 (of 1:10:47)
+Orobets - On the way to low latency                 -   20:00 (of   49:37)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
 Antonau - Designing and Building Fault-tolerant App -   17:10 (of   48:12)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
-Cormack - Docker for Mac and Windows                -   16:00 (of   49:51)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
-Orobets - On the way to low latency                 -   12:00 (of   49:37)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
+Adamchik - a Modern Java Stack with Bootique        -   09:00 (of   43:09)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slyusarenko - Peta-Scale Text Processing with Spark -   06:00 (of   42:19)
 Pivovarek - Java Wars 8: The Function Awakens       -   05:00 (of   43:52)
@@ -33,11 +36,12 @@ Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
+
 Science Videos:
-Patryshev  - Intro to ITT                           -   21:30 (of   52:38)
-Harper - 1                                          -   14:00 (of 1:23:40)
+Patryshev  - Intro to ITT                           -   26:20 (of   52:38)
+Licata - Homotopy Theory in Type Theory             -   08:30 (of 1:28:35)
 LiCata - 2                                          -   07:00 (of 1:20:48)
-Licata - Homotopy Theory in Type Theory             -   02:00 (of 1:28:35)
+Harper 2015 - 1                                     -   07:00 (of 1:07:43)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -54,7 +58,7 @@ Sonkina - D 1                                       -   41:30 (of 2:23:16)
 Tracking:
 groupoid                                            - 01/07
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 114 2:02:00 (of 2:35:35)
+Razbor Poletov                                      - 114 2:15:00 (of 2:35:35)
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
 LXF                                                 - 199..207|3 Feb 2016

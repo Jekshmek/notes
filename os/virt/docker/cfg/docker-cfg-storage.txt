@@ -43,3 +43,7 @@ https://github.com/dayreiner/centos7-php56/commit/e800c805a8769c387cd1aa5462c735
 
 RUN yum -y update && yum clean all
 RUN yum -y install httpd && yum clean all
+
+OPTIONS:
+
+--storage-opt dm.basesize=20G
