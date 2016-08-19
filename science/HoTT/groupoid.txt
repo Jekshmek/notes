@@ -4,18 +4,30 @@ https://github.com/groupoid/exe/blob/master/doc/
     encoding.pdf
     identity.pdf
 
+Misc:
+Dybjer - Inductive Families
+http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf
+http://cstheory.stackexchange.com/questions/33566/dependent-types-over-church-encoded-type-in-pts-coc
+
+Sorts:
+Coc has only 2 sorts: * and qube
+http://cstheory.stackexchange.com/questions/22734/why-an-infinite-type-hierarchy
+
 macro:
 https://github.com/groupoid/exe/blob/master/priv/Macro/macross-0/guidelines
 https://github.com/groupoid/exe/blob/master/priv/Macro/macro.new/guidelines
 
 church-encoding:
-https://gitter.im/groupoid/om/archives/2016/01/12
+om - 2016/01/12
     + Odersky+CT
 http://cstheory.stackexchange.com/questions/30923/why-its-impossible-to-declare-an-induction-principle-for-church-numerals
 
+Haskell, Scott Domens and CCC
+om - 2016/01/12
+
 people
 http://zeit-raffer.livejournal.com/
-    2015 Feb
+    2015 Mar
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
