@@ -25,15 +25,36 @@ http://cstheory.stackexchange.com/questions/30923/why-its-impossible-to-declare-
 Haskell, Scott Domens and CCC
 om - 2016/01/12
 
+Lambda-Cube of Henk/Morte
+2016/01/13
+
+Pi-Sigma
+2016/01/14
+Altenkirch - http://www.cs.nott.ac.uk/~psztxa/publ/ 
+
+KVS
+2016/01/14
+
+Lambda-Cube/CoC
+2016/01/14
+
+DepType category models:
+CCC, Topois and Slice-categories
+2016/01/14
+
+Universes
+http://www.cs.rhul.ac.uk/home/zhaohui/universes.pdf
+Zhaohui Luo
+2016/01/14
+
 people
 http://zeit-raffer.livejournal.com/
-    2015 Mar
+    2015 Apr
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/12
+    2016/01/15
 https://gitter.im/groupoid/exe/archives/
     2016/01/08
-

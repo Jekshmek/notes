@@ -1,3 +1,6 @@
+Bekesi - Intro to ScalaTest
+https://www.youtube.com/watch?v=2yfq_xHcVV0
+
 samples:
 https://github.com/ScaleChain/scalechain/blob/master/scalechain-script/src/test/scala/io/scalechain/blockchain/script/ArithmeticSpec.scala
 

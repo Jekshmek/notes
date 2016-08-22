@@ -1,0 +1,10 @@
+Fibration = Family of types
+
+Fibration (classically):
+
+map p: E -> B
+
+such that any path from p(e) to y
+lifts to a path in E from e to some poing in p^-1(y)
+
+space, parameterized by another space
