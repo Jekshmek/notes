@@ -33,10 +33,11 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Science Videos:
-Patryshev  - Intro to ITT                           -   26:20 (of   52:38)
-Licata - Homotopy Theory in Type Theory             -   08:30 (of 1:28:35)
+Constable 2015 - 1                                  - 1:00:00 (of 1:05:30)
+Patryshev  - Intro to ITT                           -   31:00 (of   52:38)
+Harper 2015 - 1                                     -   16:00 (of 1:07:43)
+Licata - Homotopy Theory in Type Theory             -   11:00 (of 1:28:35)
 LiCata - 2                                          -   07:00 (of 1:20:48)
-Harper 2015 - 1                                     -   07:00 (of 1:07:43)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)

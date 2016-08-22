@@ -32,3 +32,24 @@ Analytic (like Cartesian stuff with coordinates)
 
 Clasic HoT is Analytic.
 We need to use a Synthetic approach (with notions of space, points, paths, homotopies)
+
+
+Paths
+are not a mapping of [0..1] -> X, but a basic notion 
+
+1. Space at HoTT correspond to a type in TT (Type Theory)
+2. Points (M: A, N: A) - correspond to elements of a type
+3. Paths - are proofs of equalities
+    \alpha : M =_A N
+
+Path operations:
+
+id             : M = M (refl)
+\alpha^-1      : N = M (sym)
+\beta . \alpha : M = P (trans)
+
+Homotopies:
+
+id        . \alpha       = \alpha
+\alpha^-1 . \alpha       = id
+\gama . (\beta . \alpha) = (\gama . \beta) . \alpha
