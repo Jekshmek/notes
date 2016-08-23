@@ -7,7 +7,13 @@ http://www.slideshare.net/shinolajla/taxonomy-ofscala
 
 http://www.slideshare.net/futurespective/23-implicits-12236589
 
+Kralik:
+http://kralikba.web.elte.hu/implicits0.html
+https://github.com/kralikba/scala-implicits
+
+Habr:
 http://habrahabr.ru/post/209850/
+
 
 http://stackoverflow.com/documentation/scala/1732/implicits
 http://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits
