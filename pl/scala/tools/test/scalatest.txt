@@ -6,3 +6,75 @@ https://github.com/ScaleChain/scalechain/blob/master/scalechain-script/src/test/
 
 matchers:
 http://www.scalatest.org/user_guide/using_matchers
+
+intercept:
+test("...") {
+    intercept[NoSuchElementException] {
+        Set.empty.head
+    }
+}
+
+PropSpec
+import org.staclatest._
+import prop._
+import scala.collection.immutable._
+class SetSpec extends PropSpec with TableDrivenPropertyChecks with Matchers {
+    val examples =
+        Table(
+            "set",
+            BitSet.empty,
+            HashSet.empty[Int],
+            TreeSet.empty[Int]
+        )
+    property("an empty Set should have size 0") {
+        forAll(examples) { set =>
+            set.size should be (0)
+        }
+    }
+    property("invoking head on an empty set should produce NoSuchElementException") {
+        forAll(examples) { set =>
+            a [NoSuchElementException] should be thrownBy { set.head }
+        }
+    }
+}
+
+Defining base class
+
+trait MovioSpec extends FunSpecLike
+    with ShouldMatchers
+    with OptionValues
+    with EitherValues
+    with BeforeAndAfter      // before/after
+    with BeforeAndAfterEach  //
+    with BeforeAndAfterAll   //
+    with UtcTime
+
+Assertions:
+
+Assert("abcd" == "abc") // org.scalates.exceptions.TestFailedException
+Assert("abcd" === "abc") // "ab[cd]" did not equal "ab[c]"
+if (!some-condition)
+    cancel("Can't run the test because bla-bla")
+assume(cond, "The cond is false bla-bla")
+assume(...someInt == 9)
+
+Tagging:
+
+import org.scalates.Tag
+object SlowTest extends Tag("com.mycompany.tags.SlowTest")
+object DbTest extends Tag("com.mycompany.tags.DbTest")
+import org.scalatest.FlatSpec
+class ExampleSpec extends FlatSpec {
+    "The Scala language" must "add correctly" taggedAs(SlowTest) in {
+        val sum = 1 + 1
+        assert(sum === 2)
+    }
+    it must "subtract correctly" taggedAs(SlowTest, DbTest) in {
+        val diff = 4 - 1
+        assert(diff === 3)
+    }
+}
+
+sbt
+> testOnly *ExampleSpec -- -l com.mycompaty.tags.SlowTest // Exclude SlowTest-s
+

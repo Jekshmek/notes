@@ -10,33 +10,33 @@ Bykov - Zholkovsky                                  -   32:00 (of 1:43:35)
 Bykov - Ukraine                                     -   23:00 (of 2:34:09)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
- Bykov - Beilis                                      -   05:00 (of 1:11:37)
-Elizarov - Non Blocking                             -   42:30 (of 1:10:47)
-Cormack - Docker for Mac and Windows                -   40:00 (of   49:51)
+Bykov - Beilis                                      -   05:00 (of 1:11:37)
+Elizarov - Non Blocking                             -   55:20 (of 1:10:47)
+Orobets - On the way to low latency                 -   40:00 (of   49:37)
 Chef                                                -   37:00 (of 1:06:27)
-Orobets - On the way to low latency                 -   30:00 (of   49:37)
+Slyusarenko - Peta-Scale Text Processing with Spark -   35:00 (of   42:19)
 Anastasyev - Distributed Systems in OK              -   25:00 (of 1:17:19)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Slyusarenko - Peta-Scale Text Processing with Spark -   23:00 (of   42:19)
 Adamchik - a Modern Java Stack with Bootique        -   20:00 (of   43:09)
+Pivovarek - Java Wars 8: The Function Awakens       -   18:30 (of   43:52)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
 Antonau - Designing and Building Fault-tolerant App -   17:10 (of   48:12)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
+Bekesi - Intro to ScalaTest                         -   09:00 (of   30:26)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
-Pivovarek - Java Wars 8: The Function Awakens       -   05:00 (of   43:52)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Bekesi - Intro to ScalaTest                         -   01:00 (of   30:26)
 
 
 Science Videos:
-Patryshev  - Intro to ITT                           -   35:00 (of   52:38)
-Harper 2015 - 1                                     -   30:00 (of 1:07:43) final meats/joins + expon
-Licata - Homotopy Theory in Type Theory             -   23:00 (of 1:28:35)
-Constable 2015 - 2                                  -   02:00 (of 1:30:50)
+Patryshev  - Intro to ITT                           -   40:00 (of   52:38)
+Harper 2015 - 1                                     -   38:30 (of 1:07:43) final meats/joins + expon
+Licata - Homotopy Theory in Type Theory             -   30:30 (of 1:28:35)
+Constable 2015 - 2                                  -   11:00 (of 1:30:50)
+Harper 2014 1.2                                     -   05:00 (of   37:02)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -48,6 +48,7 @@ Paschenko 15                                        -   00:00 (of 2:09:34)
 Negreev - Nicshe 1                                  -   00:00 (of   26:37)
 Lakirev - 2009-11-11                                -   00:00 (of   51:26)
 Sonkina - D 1                                       -   41:30 (of 2:23:16)
+Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 
 Tracking:
 Bananas and Lens                                    - 36
