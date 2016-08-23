@@ -67,3 +67,6 @@ implicit final def Person(name: String): Person = new Person(name)
 
 6 implicitly keyword
 http://ru-scala.livejournal.com/59950.html
+
+7. annotation.implicitNotFound
+http://jsuereth.com/scala/2011/03/15/annotate-your-type-classes.html
