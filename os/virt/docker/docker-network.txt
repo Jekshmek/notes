@@ -28,3 +28,6 @@ Registrator, wagl
 http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
 
 https://github.com/gliderlabs/resolvable
+
+Load balancing:
+https://www.infoq.com/news/2016/08/docker-service-load-balancing

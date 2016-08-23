@@ -21,6 +21,7 @@ church-encoding:
 om - 2016/01/12
     + Odersky+CT
 http://cstheory.stackexchange.com/questions/30923/why-its-impossible-to-declare-an-induction-principle-for-church-numerals
+http://zeit-raffer.livejournal.com/170679.html
 
 Haskell, Scott Domens and CCC
 om - 2016/01/12
@@ -47,14 +48,32 @@ http://www.cs.rhul.ac.uk/home/zhaohui/universes.pdf
 Zhaohui Luo
 2016/01/14
 
+Inductively Defined Types in CoC
+http://repository.cmu.edu/cgi/viewcontent.cgi?article=2907&context=compsci
+2016/01/15
+
+Charity
+https://github.com/devaspot/charity
+https://github.com/devaspot/charity/tree/master/Doc
+http://maxim.livejournal.com/465381.html
+2016/01/15
+
+Vcc for verifying Hyper-V
+http://research.microsoft.com/en-us/projects/vcc/
+other verify stuff like Clash
+2016/01/16
+
+Setoids
+http://zeit-raffer.livejournal.com/120281.html
+
 people
 http://zeit-raffer.livejournal.com/
-    2015 Apr
+    2015 May
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/15
+    2016/01/17
 https://gitter.im/groupoid/exe/archives/
     2016/01/08

@@ -15,3 +15,6 @@ http://www.slideshare.net/lynxmanuk/consul-first-steps
 http://www.slideshare.net/InfoQ/consul-serviceoriented-at-scale
 
 counsul health check
+
+discovery:
+https://www.consul.io/docs/agent/dns.html
