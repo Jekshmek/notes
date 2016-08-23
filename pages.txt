@@ -29,6 +29,7 @@ Pivovarek - Java Wars 8: The Function Awakens       -   05:00 (of   43:52)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Bekesi - Intro to ScalaTest                         -   01:00 (of   30:26)
 
 
 Science Videos:
