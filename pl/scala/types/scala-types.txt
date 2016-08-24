@@ -23,7 +23,3 @@ Scala automatically adds a companion objects for case-classes (with apply method
 
 Recursive types:
 http://blog.originate.com/blog/2014/02/27/types-inside-types-in-scala/
-
-TypeTags:
-http://docs.scala-lang.org/overviews/reflection/typetags-manifests.html
-http://eax.me/scala-typetags/

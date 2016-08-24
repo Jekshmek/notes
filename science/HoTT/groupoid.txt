@@ -68,12 +68,12 @@ http://zeit-raffer.livejournal.com/120281.html
 
 people
 http://zeit-raffer.livejournal.com/
-    2015 May
+    2015 Jun
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/17
+    2016/01/18
 https://gitter.im/groupoid/exe/archives/
     2016/01/08
