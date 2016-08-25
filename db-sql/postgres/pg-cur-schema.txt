@@ -1,1 +1,3 @@
 set search_path to 'win_ss';
+
+psql -d postgres -U win_ps -q -f <file>.sql

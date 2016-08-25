@@ -63,17 +63,22 @@ http://research.microsoft.com/en-us/projects/vcc/
 other verify stuff like Clash
 2016/01/16
 
+Altenkirch - Inductive Types for Free
+http://www.cs.nott.ac.uk/~psztxa/talks/icalp-slides.pdf
+2016/01/20
+
 Setoids
 http://zeit-raffer.livejournal.com/120281.html
+2016/01/20
 
 people
 http://zeit-raffer.livejournal.com/
-    2015 Jun
+    2015 Jul
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/18
+    2016/01/20
 https://gitter.im/groupoid/exe/archives/
     2016/01/08

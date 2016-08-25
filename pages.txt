@@ -12,26 +12,26 @@ Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
 Chef                                                -   37:00 (of 1:06:27)
-Anastasyev - Distributed Systems in OK              -   25:00 (of 1:17:19)
+Chebotko - Big Data-Driven Applications with        -   35:00 (of   48:46)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Pivovarek - Java Wars 8: The Function Awakens       -   18:30 (of   43:52)
-Bekesi - Intro to ScalaTest                         -   18:20 (of   30:26)
+Bekesi - Intro to ScalaTest                         -   24:00 (of   30:26)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
 Antonau - Designing and Building Fault-tolerant App -   17:10 (of   48:12)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
+Selling Dreams - Java 10 and beyond                 -   05:00 (of 1:00:50)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Chebotko - Big Data-Driven Applications with        -   01:00 (of   48:46)
 
 Science Videos:
-Patryshev  - Intro to ITT                           -   40:00 (of   52:38)
-Harper 2015 - 1                                     -   38:30 (of 1:07:43) final meats/joins + expon
-Licata - Homotopy Theory in Type Theory             -   30:30 (of 1:28:35)
-Constable 2015 - 2                                  -   11:00 (of 1:30:50)
+Harper 2015 - 1                                     -   44:20 (of 1:07:43) What about proofs
+Patryshev  - Intro to ITT                           -   43:00 (of   52:38)
+Licata - Homotopy Theory in Type Theory             -   33:00 (of 1:28:35)
+Constable 2015 - 2                                  -   25:00 (of 1:30:50)
 Harper 2014 1.2                                     -   05:00 (of   37:02)
 
 Series:

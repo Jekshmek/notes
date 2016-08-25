@@ -78,71 +78,33 @@ class ExampleSpec extends FlatSpec {
 sbt
 > testOnly *ExampleSpec -- -l com.mycompaty.tags.SlowTest // Exclude SlowTest-s
 
-Matchers:
-// equality
-result should equal (3) // can customize equality
-result should === (3)   // can customize equality and enforce type constraints
-result should be (3)    // cannot customize equality, so fastest to compile
-result shouldEqual 3    // can customize equality, no parenthesis required
-result shouldBe 3       // cannot customize equality, so fastest to compile, no parenthesis required
-// length/size for collections
-result should have lenth 3
-result should have size 10
-// strings
-string should startWith ("Hello")
-string should endWith   ("world")
-string should include   ("seven")
-// regex
-string should startWith regex "Hell*o"
-string should endWith   regex "wo.ld"
-string should include   regex "wo.ld"
-string should fullyMatch regex """(-)?(\d+)(\.\d*)?"""
-"abbccxxx"    should startWith  regex("a(b*)(c*)" withGroups ("bb", "cc"))
-"abbccxxx"    should endWith    regex("a(b*)(c*)" withGroups ("bb", "cc"))
-"xxxabbccxxx" should include    regex("a(b*)(c*)" withGroups ("bb", "cc"))
-"abbcc"       should fullyMatch regex("a(b*)(c*)" withGroups ("bb", "cc"))
-// integers
-one should be <  7
-one should be >  0
-one should be <= 7
-one should be >= 0
-// boolean with be (reflection)
-temp     should be a  'file      // calls     temp.isFile()     :Boolean
-keyEvent should be aa 'actionKey // calls keyEvent.isActionKey():Boolean
-class FileBePropertyMatcher extends BePropertyMatcher[java.io.File] {
-    def apply(left: java.io.File) = BePropertyMatchResult(left.isFile, "file")
-}
-val file = new FileBePropertyMatcher
-temp     should be a  file
-xs       shouldBe     traversableAgain
-keyEvent should be an actionKey
-// references
-ref1 should be theSameInstanceAs ref2
-// types
-result1 shouldBe a       [Tiger]
-result1 should not be an [Orangutan]
-// ranges
-sevenDotOh should equal (6.9 +- 0.2)
-sevenDotOh should ===   (6.9 +- 0.2)
-sevenDotOh should be    (6.9 +- 0.2)
-sevenDotOh shouldEqual   6.9 +- 0.2
-sevenDotOh shouldBe      6.9 +- 0.2
-// empty
-traversable shouldBe      empty
-javaMap     should not be empty
-// contain
-traversable should contain ("five")
-// loverCased
-(List("Hi", "Di", "Ho") should contain ("ho")) (after being lowerCased)
-// oneOf
-List(1, 2, 3, 4, 5) should contain oneOf (5, 7, 9)
-Some(7)             should contain oneOf (5, 7, 9)
-"howdy"             should contain oneOf ('a', 'b', 'c', 'd')
-// noneOf
-List(1, 2, 3, 4, 5) should contain noneOf (7, 8, 9)
-// atLeastOneOf
-List(1, 2, 3)  should contain atLeastOneOf (2, 3, 4)
-Array(1, 2, 3) should contain atLeastOneOf (2, 3, 4)
-"abc"          should contain atLeastOneOf ('c', 'a', 't')
+Exceptions:
 
+an [IndexOutOfBoundsException] should be thrownBy s.charAt(-1)
+
+val thrown = the [IndexOutOfBoundsException] should be thrownBy s.charAt(-1)
+thrown.getMessage should equal ("String index out of range: -1") 
+
+the [ArithmeticException] thrown by 1 / 0 should have message "/by zero"
+the [IndexOutOfBoundsException] thrownBy {
+    s.charAt(-1)
+} should have message "String index out of range: -1"
+
+
+Mockito Sugar
+
+// First, create the mock object
+val mockCollaborator = mock[Collaborator]
+
+// Create the class under test and pass the mock to it
+classUnderTest = new ClassUnderTest
+classUnderTest.addListener(mock)
+
+// Use the class under test
+classUnderTest.addDocument("Document", new Array[Byte](0))
+classUnderTest.addDocument("Document", new Array[Byte](0))
+
+// Then verify the class under test used the mock object as expected
+verify(mockCollaborator).documentAdded("Document")
+verify(mockCollaborator, times(2)).documentChanged("Document")
 
