@@ -69,7 +69,9 @@ http://www.cs.nott.ac.uk/~psztxa/talks/icalp-slides.pdf
 
 Setoids
 http://zeit-raffer.livejournal.com/120281.html
-2016/01/20
+difference between our and boehm-berarducci encodings
+http://www.cs.nott.ac.uk/~psztxa/publ/defquotients.pdf
+2016/01/20,21
 
 Making a system simpler than DTs (using just an equality)
 2016/01/20
@@ -82,6 +84,6 @@ http://zeit-raffer.livejournal.com/?skip=395
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/20
+    2016/01/21
 https://gitter.im/groupoid/exe/archives/
     2016/01/08
