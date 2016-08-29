@@ -4,6 +4,8 @@ http://www.windows-commandline.com/2012/04/windows-7-run-commands.html
 http://www.windows-commandline.com/2011/03/windows-cmd-commands-reference.html
 http://www.windows-commandline.com/2011/10/windows-environment-variables.html
 
+http://www.codegeek.io/home/run-command-list-windows/
+
 elevated command prompt - http://www.windows-commandline.com/2011/10/elevated-command-prompt.html
 
 control      - Control Panel
@@ -34,10 +36,12 @@ wf.msc       - Windows firewall
 Wmimgmt.msc  - WMI management console 
 diskmgmt.msc - Disk management (http://www.windows-commandline.com/2009/07/launch-disk-management-tool-from.html)
 dfrg.msc     - Disk defrag (http://www.windows-commandline.com/2011/12/run-command-disk-defragmenter.html)
+dfrgui       - Disk Defragmenter UI
 msconfig     - .. Startup progs .. (http://www.windows-commandline.com/2011/03/run-command-for-startup-programs.html)
 
 wscui.cpl    - Windows Security Center
 secpol.msc   - Local security policy (http://www.windows-commandline.com/2011/03/local-security-policy-run-command.html)
+rstrui       - System Restore
 
 pkgmgr       - http://f1geek.com/windows7-problem/how-to-enable-telnet-in-windows-7
   pkgmgr /iu:"TelnetClient"

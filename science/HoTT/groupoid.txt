@@ -71,6 +71,9 @@ Setoids
 http://zeit-raffer.livejournal.com/120281.html
 2016/01/20
 
+Making a system simpler than DTs (using just an equality)
+2016/01/20
+
 people
 http://zeit-raffer.livejournal.com/
     2015 Jul

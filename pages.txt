@@ -6,32 +6,34 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Zholkovsky                                  -   32:00 (of 1:43:35)
-Bykov - Ukraine                                     -   23:00 (of 2:34:09)
+Bykov - Ukraine                                     - 1:03:10 (of 2:34:09)
+Bykov - Zholkovsky                                  -   48:00 (of 1:43:35)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
+Bykov - Grin                                        -   02:00 (of   14:35)
 Chef                                                -   37:00 (of 1:06:27)
-Chebotko - Big Data-Driven Applications with        -   35:00 (of   48:46)
+Antonau - Designing and Building Fault-tolerant App -   26:00 (of   48:12)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Pivovarek - Java Wars 8: The Function Awakens       -   18:30 (of   43:52)
-Bekesi - Intro to ScalaTest                         -   24:00 (of   30:26)
+Going Native - Panama                               -   19:00 (of   43:32)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
-Antonau - Designing and Building Fault-tolerant App -   17:10 (of   48:12)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   13:00 (of 1:03:27)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
+BorisovAlimenkou - Java 8 Puzzlers                  -   10:00 (of   50:42)
+Selling Dreams - Java 10 and beyond                 -   09:00 (of 1:00:50)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
-Selling Dreams - Java 10 and beyond                 -   05:00 (of 1:00:50)
+Shapeless - Exploring Generic Programming in Scala  -   04:00 (of   37:38)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
+Sokolov - Spring JTA - Principles of work with tran -   03:00 (of   44:07)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Science Videos:
-Harper 2015 - 1                                     -   44:20 (of 1:07:43) What about proofs
-Patryshev  - Intro to ITT                           -   43:00 (of   52:38)
+Patryshev  - Intro to ITT                           -   46:00 (of   52:38)
+Harper 2015 - 1                                     -   54:20 (of 1:07:43) Identity
 Licata - Homotopy Theory in Type Theory             -   33:00 (of 1:28:35)
-Constable 2015 - 2                                  -   25:00 (of 1:30:50)
+Constable 2015 - 2                                  -   31:00 (of 1:30:50)
 Harper 2014 1.2                                     -   05:00 (of   37:02)
 
 Series:
@@ -40,7 +42,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 15                                        -   00:00 (of 2:09:34)
+Paschenko 16a                                       -   07:00 (of 1:07:52)
 Negreev - Nicshe 1                                  -   00:00 (of   26:37)
 Lakirev - 2009-11-11                                -   00:00 (of   51:26)
 Sonkina - D 1                                       -   41:30 (of 2:23:16)
