@@ -11,7 +11,7 @@ Normalization
 
 import NormMethods._
 
-implicit val strNormalization = lowerCased
+implicit val strNormalization = lowerCased // !!! .toEquality
 
 "WHISPER".norm               // "whisper"
 "WHISPER".norm === "whisper" // true

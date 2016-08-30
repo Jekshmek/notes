@@ -1,3 +1,5 @@
+http://www.scalatest.org/user_guide/using_matchers
+
 // equality
 result should equal (3) // can customize equality
 result should === (3)   // can customize equality and enforce type constraints
