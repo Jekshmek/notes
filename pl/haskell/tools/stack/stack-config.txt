@@ -1,0 +1,15 @@
+https://github.com/commercialhaskell/stack/blob/master/doc/yaml_configuration.md
+
+~/.stack/config.yaml
+
+$ stack path
+Writing global project config file to:
+~/.stack/global-project/stack.yaml
+
+michael@d30748af6d3d:~/wai$ stack path
+global-stack-root: /home/michael/.stack
+stack-root: /home/michael/.stack
+
+https://github.com/commercialhaskell/stack/issues/1148
+https://github.com/commercialhaskell/stack/pull/1983
+https://github.com/commercialhaskell/stack/commit/c493728adc8dc8e9503a4ddfd10cab399d33fffb
