@@ -11,7 +11,6 @@ Bykov - Zholkovsky                                  -   48:00 (of 1:43:35)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
-Selling Dreams - Java 10 and beyond                 -   42:00 (of 1:00:50)
 Chef                                                -   37:00 (of 1:06:27)
 Puzzlers - Java 8                                   -   30:00 (of 1:28:11)
 Antonau - Designing and Building Fault-tolerant App -   26:00 (of   48:12)
@@ -31,8 +30,8 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Science Videos:
 Constable 2015 - 2                                  -   44:45 (of 1:30:50)
 Licata - Homotopy Theory in Type Theory             -   33:00 (of 1:28:35)
+A working class introduction to HoTT                -   11:30 (of   28:53)
 Morisett 2015 - 1                                   -   12:00 (of   37:14)
-A working class introduction to HoTT                -   02:00 (of   28:53)
 Harper 2015 - 2                                     -   01:00 (of 1:32:01) Identity
 
 Series:
@@ -41,7 +40,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 16a                                       -   07:00 (of 1:07:52)
+Paschenko 16b                                       -   00:00 (of 3:03:35)
 Negreev - Nicshe 1                                  -   00:00 (of   26:37)
 Lakirev - Osia 1                                    -   00:00 (of 1:17:02)
 Sonkina - D 1                                       -   41:30 (of 2:23:16)

@@ -1,3 +1,6 @@
+Doc:
+http://projects.haskell.org/diagrams/documentation.html
+
 Tutorial:
 http://projects.haskell.org/diagrams/doc/quickstart.html
 http://projects.haskell.org/diagrams/doc/cmdline.html
@@ -5,9 +8,21 @@ http://projects.haskell.org/diagrams/doc/cmdline.html
 Manual:
 http://projects.haskell.org/diagrams/doc/manual.html
 
+Wiki:
+https://wiki.haskell.org/Diagrams
+
 SVG:
 https://hackage.haskell.org/package/diagrams-svg
+
+Internals:
+http://www.cmears.id.au/articles/diagrams-internals.html
 
 Samples:
 https://hackage.haskell.org/package/diagrams-contrib
 Diagrams.TwoD.Layout.Tree
+
+Arrow:
+http://projects.haskell.org/diagrams/doc/arrow.html
+
+Fibonacci-tree:
+http://projects.haskell.org/diagrams/gallery/FibCalls.html
