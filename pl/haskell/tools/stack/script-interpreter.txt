@@ -1,1 +1,2 @@
 https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter
+https://github.com/commercialhaskell/stack/wiki/Script-interpreter
