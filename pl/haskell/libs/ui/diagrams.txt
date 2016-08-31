@@ -1,0 +1,13 @@
+Tutorial:
+http://projects.haskell.org/diagrams/doc/quickstart.html
+http://projects.haskell.org/diagrams/doc/cmdline.html
+
+Manual:
+http://projects.haskell.org/diagrams/doc/manual.html
+
+SVG:
+https://hackage.haskell.org/package/diagrams-svg
+
+Samples:
+https://hackage.haskell.org/package/diagrams-contrib
+Diagrams.TwoD.Layout.Tree
