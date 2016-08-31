@@ -7,8 +7,15 @@ Writing global project config file to:
 ~/.stack/global-project/stack.yaml
 
 michael@d30748af6d3d:~/wai$ stack path
-global-stack-root: /home/michael/.stack
-stack-root: /home/michael/.stack
+global-stack-root: ~/.stack
+stack-root: ~/.stack
+...
+programs: ~/.stack/programs/x86_64-linux
+compiler-exe: ~/.stack/programs/x86_64-linux/ghc-7.10.3/bin/ghc
+compiler-bin: ~/.stack/programs/x86_64-linux/ghc-7.10.3/bin
+global-pkg-db: ~/.stack/programs/x86_64-linux/ghc-7.10.3/lib/ghc-7.10.3/package.conf.d
+...
+ghc-paths: ~/.stack/programs/x86_64-linux
 
 https://github.com/commercialhaskell/stack/issues/1148
 https://github.com/commercialhaskell/stack/pull/1983
