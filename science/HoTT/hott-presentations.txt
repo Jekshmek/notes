@@ -1,0 +1,21 @@
+Taylor:
+A Working Class Introduction to HoTT
+https://www.youtube.com/watch?v=xv6SwPn1dIc
+https://docs.google.com/presentation/d/1D1JJQpR3GxVR6vw25SMhfCrcJ10iBrG8Iuk5_hKpGdY/edit#slide=id.p
+
+Eric Finster - A survey of Univalent Foundations
+https://www.youtube.com/watch?v=z3IBvmrcObg
+
+Bazerman:
+https://www.youtube.com/watch?v=OupcXmLER7I
+Voevodsky:
+https://www.youtube.com/watch?v=b4BlA7NymIE
+
+A Homotopy is a path between a path - that is, an equality of two equivalences
+- Think of a piece of string attached at two end points
+A path between a path is still a path
+- Homotopies can have homotopies!
+- Homotopies over homotopies over homotopies over homotopies over ...
+This infinite tower of homotopies endows types with what is called an omega-groupoid structure,
+  trivially generated with refl
+But remember, refl isn't the only constructor for the identity type!

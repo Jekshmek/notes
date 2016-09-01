@@ -1,8 +1,3 @@
-Bazerman:
-https://www.youtube.com/watch?v=OupcXmLER7I
-Voevodsky:
-https://www.youtube.com/watch?v=b4BlA7NymIE
-
 Pi - forall
 Sigma - exists
 

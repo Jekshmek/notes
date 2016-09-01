@@ -1,1 +1,7 @@
+Term Format
 http://maxim.livejournal.com/464619.html
+
+Presentations:
+
+DeMoura
+http://www.cs.cmu.edu/~soonhok/talks/20131004/#/
