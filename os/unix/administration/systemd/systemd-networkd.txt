@@ -1,3 +1,6 @@
+Articles:
+https://habrahabr.ru/company/ruvds/blog/309010/
+
 man systemd.network
 systemctl enable/start systemd-networkd
 

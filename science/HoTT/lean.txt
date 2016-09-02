@@ -5,3 +5,5 @@ Presentations:
 
 DeMoura
 http://www.cs.cmu.edu/~soonhok/talks/20131004/#/
+
+-- We need UIP, K-axiom of proof irrelevance

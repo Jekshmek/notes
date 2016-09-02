@@ -14,17 +14,20 @@ Bykov - Beilis                                      -   05:00 (of 1:11:37)
 Puzzlers - Java 8                                   -   39:00 (of 1:28:11)
 Antonau - Designing and Building Fault-tolerant App -   35:10 (of   48:12)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
+David West - Interview 1                            -   21:00 (of   57:51)
 Shapeless - Exploring Generic Programming in Scala  -   20:00 (of   37:38)
+ReactJS Architectural Concept (Kyiv)                -   20:00 (of 2:33:09)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   16:00 (of 1:03:27)
-David West - Interview 1                            -   10:00
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Sokolov - Spring JTA - Principles of work with tran -   03:00 (of   44:07)
+Sema - ReactJS introduction                         -   02:30 (of   45:05)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 
 
 Science Videos:
@@ -41,7 +44,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 16b                                       -   00:00 (of 3:03:35)
-Negreev - Nicshe 1                                  -   00:00 (of   26:37)
+Negreev - 3 etapa 1                                 -   00:00 (of   23:16)
 Lakirev - Osia 2                                    -   00:00 (of 1:21:??)
 Sonkina - D 1                                       -   57:30 (of 2:23:16)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)

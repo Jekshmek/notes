@@ -25,5 +25,9 @@ Visualizations:
 http://onlywei.github.io/explain-git-with-d3/
 https://github.com/onlywei/explain-git-with-d3
 
+Tutorials
+Kong - Git Tutorial
+http://www.cs.cmu.edu/~soonhok/talks/20140519_Git.pdf
+
 man:
 git everyday

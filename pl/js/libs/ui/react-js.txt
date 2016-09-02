@@ -1,0 +1,26 @@
+Kosenko - ReactJs - Introduction to the library 
+good history...
+
+Nauck-2014-ReactJS-KeepSimple
+https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
+
+Important:
+React - Flux + Redux by Denys Kuzin
+
+Properties aren't intended to be changed - redrow everething
+State - intended to be changed
+
+Lifecycle (Initial Render, Props Change, State Change, Component Unmount)
+
+!!! a lot of obsolete stuff !!!
+Mixins are deprecated (according to the ES6)
+
+Smart and dump components
+
+data flows down
+events flows up
+
+top-level component is [not-visual] acts likes a controller
+
+Flux is a save 3-weel MVC
+one-way events is a normal, non-revolutional
