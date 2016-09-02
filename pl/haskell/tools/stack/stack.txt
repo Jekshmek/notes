@@ -27,11 +27,6 @@ We then hash those flags and put them in the filepath, ensuring that when we loo
 we're getting something that matches what we'd be building ourselves now.
 
 
-stack\src\Stack\Constants.hs
-
-STACK_ROOT env var
-
-
 http://duplode.github.io/posts/migrating-a-project-to-stack.html
 
 Reference the commits in the remote GitHub repository in stack.yaml.
