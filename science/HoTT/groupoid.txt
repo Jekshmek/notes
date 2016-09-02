@@ -71,6 +71,13 @@ Setoids
 http://zeit-raffer.livejournal.com/120281.html
 difference between our and boehm-berarducci encodings
 http://www.cs.nott.ac.uk/~psztxa/publ/defquotients.pdf
+Martin Hofmann - Extensional Constructs in Intensional Type Theory
+HoTT infinity groupoids are more complex than setoids
+Betarte - Extension of MartinLof TT with Record Types and Subtyping
+http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4B201CDE47A40C53936120C735EE8AFF?doi=10.1.1.49.5862&rep=rep1&type=pdf
+http://www.cs.nott.ac.uk/~psztxa/publ/defquotients.pdf
+Luo - Dependent Record Types
+http://www.cs.rhul.ac.uk/~zhaohui/DRT09.pdf
 2016/01/20,21
 
 Making a system simpler than DTs (using just an equality)
@@ -84,6 +91,6 @@ http://zeit-raffer.livejournal.com/?skip=395
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/21
+    2016/01/28
 https://gitter.im/groupoid/exe/archives/
     2016/01/08
