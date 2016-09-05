@@ -1,8 +1,19 @@
+Articles:
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+Presentations:
 Kosenko - ReactJs - Introduction to the library 
 good history...
 
 Nauck-2014-ReactJS-KeepSimple
 https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
+
+Tutorials:
+https://facebook.github.io/react/docs/tutorial.html
+https://blog.risingstack.com/the-react-way-getting-started-tutorial/
+
+CheatSheets:
+http://ricostacruz.com/cheatsheets/react.html
 
 Important:
 React - Flux + Redux by Denys Kuzin
@@ -24,3 +35,10 @@ top-level component is [not-visual] acts likes a controller
 
 Flux is a save 3-weel MVC
 one-way events is a normal, non-revolutional
+
+-----
+REDUX
+-----
+
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
+https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4
