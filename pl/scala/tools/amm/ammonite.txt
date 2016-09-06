@@ -1,0 +1,48 @@
+aur/ammonite
+
+ammonite-shell:
+http://www.lihaoyi.com/Ammonite/#Extensions
+
+http://www.lihaoyi.com/Ammonite/#Ammonite-REPL
+    http://www.lihaoyi.com/Ammonite/#Features
+        http://www.lihaoyi.com/Ammonite/#Pretty-printedoutput
+          http://www.lihaoyi.com/upickle-pprint/pprint/
+        http://www.lihaoyi.com/Ammonite/#MagicImports
+        http://www.lihaoyi.com/Ammonite/#Builtins
+    http://www.lihaoyi.com/Ammonite/#ReplAPI
+    http://www.lihaoyi.com/Ammonite/#Utilities
+    http://www.lihaoyi.com/Ammonite/#Configuration
+
+http://www.lihaoyi.com/Ammonite/#ScalaScripts
+    http://www.lihaoyi.com/Ammonite/#ScriptArguments
+
+http://www.lihaoyi.com/Ammonite/#Ammonite-Ops
+    http://www.lihaoyi.com/Ammonite/#Paths
+    http://www.lihaoyi.com/Ammonite/#Operations
+http://www.lihaoyi.com/Ammonite/#Chaining
+
+http://www.lihaoyi.com/Ammonite/#Ammonite-Shell
+http://www.lihaoyi.com/Ammonite/#ShellBasics
+http://www.lihaoyi.com/Ammonite/#FilesystemOperations
+http://www.lihaoyi.com/Ammonite/#FilesystemOperations
+
+To begin using Ammonite-Shell, simply download the default predef.sc
+to configure your REPL to be a usable systems shell
+before downloading the Ammonite-REPL executable (below):
+
+$ mkdir ~/.ammonite && curl -L -o ~/.ammonite/predef.sc https://git.io/v6r5y
+
+interp.load.ivy("com.lihaoyi" %% "ammonite-shell" % ammonite.Constants.version)
+@
+val shellSession = ammonite.shell.ShellSession()
+import shellSession._
+import ammonite.shell.PPrints._
+import ammonite.ops._
+import ammonite.shell._
+ammonite.shell.Configure(repl, wd)
+
+$ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local/bin/amm && amm
+
+
+@ import ammonite.ops._
+@ import ammonite.ops.ImplicitWd._
