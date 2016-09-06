@@ -85,7 +85,7 @@ Making a system simpler than DTs (using just an equality)
 
 people
 http://zeit-raffer.livejournal.com/
-    2015 Aug
+    2015 Sep
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
