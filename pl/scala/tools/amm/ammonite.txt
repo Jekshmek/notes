@@ -44,5 +44,19 @@ ammonite.shell.Configure(repl, wd)
 $ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local/bin/amm && amm
 
 
-@ import ammonite.ops._
-@ import ammonite.ops.ImplicitWd._
+ops:
+http://www.lihaoyi.com/Ammonite/#CurrentWorkingDirectory
+
+import ammonite.ops._
+import ammonite.ops.ImplicitWd._
+
+val d: Path = pwd/'out
+rm! d
+mkdir! d
+write(d/"file1.txt", "I am cow")
+
+%.ls()
+ls!
+%('sbt, "test")
+%("sbt", "test")
+%sbt("test")

@@ -1,0 +1,4 @@
+config:
+http://logback.qos.ch/manual/configuration.html
+http://logback.qos.ch/manual/groovy.html
+http://logback.qos.ch/manual/layouts.html#coloring
