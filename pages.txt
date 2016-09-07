@@ -11,10 +11,10 @@ Bykov - Zholkovsky                                  -   48:00 (of 1:43:35)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
+Simonenko - How I Stopped Believe                   -   45:25 (of   46:58)
 Puzzlers - Java 8                                   -   39:00 (of 1:28:11)
 Antonau - Designing and Building Fault-tolerant App -   35:10 (of   48:12)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Simonenko - How I Stopped Believe                   -   23:00 (of   46:58)
 David West - Interview 1                            -   21:00 (of   57:51)
 Shapeless - Exploring Generic Programming in Scala  -   20:00 (of   37:38)
 ReactJS Architectural Concept (Kyiv)                -   20:00 (of 2:33:09)
@@ -52,7 +52,7 @@ Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 116 2:28:00 (of 2:39:24)
+Razbor Poletov                                      - 116
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
 LXF                                                 - 199..207|3 Feb 2016
@@ -65,3 +65,7 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
+
+l - 691, 692 ???
+797, 798
+817, 829
