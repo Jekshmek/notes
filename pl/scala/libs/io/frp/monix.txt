@@ -1,0 +1,85 @@
+https://monix.io/docs/2x/reactive/observable.html
+https://monix.io/docs/2x/reactive/consumer.html
+
+Presentations:
+https://monix.io/public/pdfs/Akka-Monix.pdf
+
+API:
+https://monix.io/api/2.0/index.html
+
+src:
+
+Observable:
+https://monix.io/docs/2x/reactive/observable.html
+
+        val source = Observable.range(0, 10)
+        val source = Observable.fromIterable(0 until 10)
+
+
+Observer:
+https://github.com/monixio/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/Observer.scala
+    + dump
+
+Subscriber:
+https://monix.io/docs/2x/reactive/observers.html # ...
+https://monix.io/api/2.0/#monix.reactive.observers.Subscriber
+    A Subscriber is an Observer with an attached Scheduler.
+    A Subscriber can be seen as an address that the data source needs in order to send events, along with an execution context. 
+
+Consumer:
+https://monix.io/docs/2x/reactive/consumer.html
+A Consumer specifies how to consume observables.
+A Consumer is a factory of subscribers with a completion callback attached,
+  being effectively a way to transform observables into tasks for less error prone consuming of streams.
+  + complete, cancel, raiseError, foldLeft, head,
+  foreach, foreachAsync, forEachParallel
+
+https://github.com/monixio/monix/blob/v2.0.0/monix-reactive/shared/src/main/scala/monix/reactive/Consumer.scala
+
+  /** Builds a consumer that will consume the stream, applying the given
+    * function to each element and then finally signaling its completion.
+    *
+    * @param cb is the function that will be called for each element
+    */
+  def foreach[A](cb: A => Unit): Consumer.Sync[A, Unit] =
+    new ForeachConsumer[A](cb)
+
+        //val printer = Consumer.foreach[Long](x => log.info("el: {}", x))
+        //source.runWith(printer)
+        //val task = source.foreach(x => log.info("el: {}", x))
+        // task: Task[Unit] = Async(<function3>)/
+        //val task: Task[Long] = source.runWith(printer).runAsync
+        //val task: Task[Long] = source.foreach(x => log.info("el: {}", x))
+
+
+
+Scheduler:
+https://monix.io/docs/2x/execution/scheduler.html
+https://github.com/monixio/monix/blob/master/monix-execution/shared/src/main/scala/monix/execution/Scheduler.scala
+
+//import monix.execution.schedulers.ExecutionModel.SynchronousExecution
+//import monix.execution.{Scheduler, UncaughtExceptionReporter}
+//import java.util.concurrent.Executors
+
+        val scheduledExecutor = Executors.newSingleThreadScheduledExecutor()
+        val executorService =  scala.concurrent.ExecutionContext.Implicits.global
+        val uncaughtExceptionReporter = UncaughtExceptionReporter(executorService.reportFailure)
+
+        implicit val scheduler = Scheduler(
+            scheduledExecutor,
+            executorService,
+            uncaughtExceptionReporter,
+            SynchronousExecution)
+
+        implicit val scheduler = Scheduler.io(name="my-io", executionModel = SynchronousExecution)
+        implicit val scheduler = Scheduler.singleThread(name="my-th", executionModel = SynchronousExecution)
+
+
+Task:
+https://monix.io/docs/2x/eval/task.html
+    + reporter for scheduler
+monix-eval/shared/src/main/scala/monix/eval/Task.scala
+
+Coeval:
+https://monix.io/docs/2x/eval/coeval.html
+Coeval is a data type for controlling synchronous, possibly lazy evaluation, useful for describing lazy expressions and for controlling side-effects
