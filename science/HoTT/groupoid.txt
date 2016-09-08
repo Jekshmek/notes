@@ -8,6 +8,10 @@ Misc:
 Dybjer - Inductive Families
 http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf
 http://cstheory.stackexchange.com/questions/33566/dependent-types-over-church-encoded-type-in-pts-coc
+CT:
+http://zeit-raffer.livejournal.com/124319.html
+https://groups.google.com/forum/#!forum/cat-theory_ium2012
+http://rnyingma.synrc.com/publications/cat/Category%20Theory/IUM-2012/
 
 Sorts:
 Coc has only 2 sorts: * and qube
@@ -27,7 +31,11 @@ Haskell, Scott Domens and CCC
 om - 2016/01/12
 
 Lambda-Cube of Henk/Morte
+http://www.msr-waypoint.net/en-us/um/people/simonpj/papers/henk.ps.gz
 2016/01/13
+2016/02/03
+http://zeit-raffer.livejournal.com/124513.html
+CoC (PTS) is cooler than SystemF, don't have problems with recursion
 
 Pi-Sigma
 2016/01/14
@@ -78,10 +86,16 @@ http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=4B201CDE47A40C53936120C
 http://www.cs.nott.ac.uk/~psztxa/publ/defquotients.pdf
 Luo - Dependent Record Types
 http://www.cs.rhul.ac.uk/~zhaohui/DRT09.pdf
+http://zeit-raffer.livejournal.com/119247.html
+http://zeit-raffer.livejournal.com/124513.html
 2016/01/20,21
+2016/02/03
 
 Making a system simpler than DTs (using just an equality)
 2016/01/20
+
+Dependent pattern-matching
+2016/02/02
 
 people
 http://zeit-raffer.livejournal.com/
@@ -91,6 +105,6 @@ http://zeit-raffer.livejournal.com/?skip=395
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/01/28
+    2016/02/08
 https://gitter.im/groupoid/exe/archives/
-    2016/01/08
+    2016/02/08
