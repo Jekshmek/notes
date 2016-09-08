@@ -12,8 +12,9 @@ src:
 Observable:
 https://monix.io/docs/2x/reactive/observable.html
 
-        val source = Observable.range(0, 10)
-        val source = Observable.fromIterable(0 until 10)
+        .range(0, 10)
+        .fromIterable(0 until 10)
+        .fromLinesReader(...)
 
 
 Observer:
