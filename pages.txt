@@ -11,26 +11,28 @@ Bykov - Zholkovsky                                  -   48:00 (of 1:43:35)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Beilis                                      -   05:00 (of 1:11:37)
+Bykov - Lunacharsky                                 -   03:00 (of   52:25)
+  https://vk.com/video-2048479_456239078
 Puzzlers - Java 8                                   -   39:00 (of 1:28:11)
-David West - Interview 1                            -   37:00 (of   57:51)
+Grischenko - Swarm                                  -   32:00 (of   52:47)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
+Shapeless - Exploring Generic Programming in Scala  -   24:00 (of   37:38)
+Makishvili - 36 small                               -   23:00 (of 1:06:30)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Shapeless - Exploring Generic Programming in Scala  -   20:00 (of   37:38)
-Makishvili - 36 small                               -   20:00 (of 1:06:30)
+David West - Interview 2                            -   22:00 (of 1:00:51)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
+Makishvili - 36 big                                 -   17:00 (of 1:48:02)
 Dotta - Lightbend Lagom - Microservices Just Right  -   16:30 (of   42:08)
 Ivanov - Native Off-heap                            -   16:00 (of 1:03:27)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 Borisov - Spring Puzzlers – second season           -   10:00 (of   56:56)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
-Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
+Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Sokolov - Spring JTA - Principles of work with tran -   03:00 (of   44:07)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-
-Makishvili - 36 big                                 -   06:00 (of 1:48:02)
 
 
 Science Videos:
@@ -46,11 +48,12 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 16b                                       - 2:08:00 (of 3:03:35)
-Negreev - 3 etapa 1                                 -   00:00 (of   23:16)
+Paschenko 17a                                       -   00:00 (of 1:16:04)
+Negreev - Avgustin                                  -   00:00 (of   23:46)
 Lakirev - Mihey 1                                   -   32:00 (of 1:12:58)
-Sonkina - D 1                                       -   57:30 (of 2:23:16)
+Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
+Osipov - 1                                          -   20:00 (of 1:09:28)
 
 Tracking:
 Bananas and Lens                                    - 36

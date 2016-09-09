@@ -1,2 +1,3 @@
 alter session set current_schema=WIN_SS;
+alter session set current_schema=WIN_PS;
 
