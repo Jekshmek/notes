@@ -89,7 +89,7 @@ http://www.cs.rhul.ac.uk/~zhaohui/DRT09.pdf
 http://zeit-raffer.livejournal.com/119247.html
 http://zeit-raffer.livejournal.com/124513.html
 2016/01/20,21
-2016/02/03
+2016/02/03,08(e)
 
 Making a system simpler than DTs (using just an equality)
 2016/01/20
