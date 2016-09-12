@@ -8,6 +8,8 @@ Misc:
 Dybjer - Inductive Families
 http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf
 http://cstheory.stackexchange.com/questions/33566/dependent-types-over-church-encoded-type-in-pts-coc
+Uri Norell
+http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf
 CT:
 http://zeit-raffer.livejournal.com/124319.html
 https://groups.google.com/forum/#!forum/cat-theory_ium2012
@@ -97,6 +99,9 @@ Making a system simpler than DTs (using just an equality)
 Dependent pattern-matching
 2016/02/02
 
+Parser on erl
+2016/02/08
+
 people
 http://zeit-raffer.livejournal.com/
     2015 Sep
@@ -105,6 +110,6 @@ http://zeit-raffer.livejournal.com/?skip=395
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/02/08
+    2016/02/10
 https://gitter.im/groupoid/exe/archives/
-    2016/02/08
+    2016/02/09
