@@ -19,3 +19,16 @@ A path between a path is still a path
 This infinite tower of homotopies endows types with what is called an omega-groupoid structure,
   trivially generated with refl
 But remember, refl isn't the only constructor for the identity type!
+
+New intuition:
+    types are spaces,
+    elemenents are points,
+    equalities are paths
+
+Eq-props: refl, trans, symm
+    - Types equipped with relations that satisfy these properties are called groupoids
+    - You can transform any path to itself - p : a =_A a |- refl: p =_(a=a) p
+    - You can concatenate paths
+    - You can reverse paths
+We have a groupoid over a groupoid!
+

@@ -104,7 +104,7 @@ Parser on erl
 
 people
 http://zeit-raffer.livejournal.com/
-    2015 Sep
+    2015 Oct
 http://zeit-raffer.livejournal.com/?skip=395
     2015 Jul
 https://github.com/zraffer
