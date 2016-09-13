@@ -93,6 +93,15 @@ http://zeit-raffer.livejournal.com/124513.html
 2016/01/20,21
 2016/02/03,08(e)
 
+Groupoids
+Altenkirch - misc:
+http://www.cs.nott.ac.uk/~psztxa/publ/omega.pdf
+http://www.cs.nott.ac.uk/~psztxa/publ/weakomega2.pdf
+https://github.com/leanprover/lean/blob/master/hott/algebra/category/groupoid.hlean
+http://arxiv.org/pdf/1212.5853v2.pdf
+http://category-theory.livejournal.com/33307.html?thread=415515#t415515
+2016/02/11(e)
+
 Making a system simpler than DTs (using just an equality)
 2016/01/20
 
@@ -102,6 +111,12 @@ Dependent pattern-matching
 Parser on erl
 2016/02/08
 
+Misc:
+Appel - Verifiable C
+http://vst.cs.princeton.edu/
+http://vst.cs.princeton.edu/download/
+http://vst.cs.princeton.edu/download/VC.pdf
+
 people
 http://zeit-raffer.livejournal.com/
     2015 Oct
@@ -110,6 +125,6 @@ http://zeit-raffer.livejournal.com/?skip=395
 https://github.com/zraffer
 
 https://gitter.im/groupoid/om/archives/
-    2016/02/10
+    2016/02/12
 https://gitter.im/groupoid/exe/archives/
-    2016/02/09
+    2016/02/12
