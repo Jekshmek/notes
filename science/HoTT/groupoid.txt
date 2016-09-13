@@ -119,10 +119,11 @@ http://vst.cs.princeton.edu/download/VC.pdf
 
 people
 http://zeit-raffer.livejournal.com/
-    2015 Oct
-http://zeit-raffer.livejournal.com/?skip=395
-    2015 Jul
+    2015 Nov 1
 https://github.com/zraffer
+
+Spievak - CT for scientists:
+https://github.com/zeitraffer/tex-cats/releases
 
 https://gitter.im/groupoid/om/archives/
     2016/02/12
