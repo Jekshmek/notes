@@ -26,6 +26,7 @@ http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD.html
 http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD-Shapes.html
 http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD-Text.html
 http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD-Combinators.html
+http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD-Image.html
 
 atop, beneath,
 
@@ -73,10 +74,20 @@ http://projects.haskell.org/diagrams/gallery/FibCalls.html
 
 Images:
 http://projects.haskell.org/diagrams/doc/tutorials.html
+http://projects.haskell.org/diagrams/doc/manual.html#images
+http://projects.haskell.org/diagrams/haddock/Diagrams-TwoD-Image.html
+https://github.com/diagrams/diagrams-svg/blob/master/src/Diagrams/Backend/SVG.hs
+loadImageSvg -- Load images (JPG/PNG/...) in a SVG specific way.
+
+Input:
+https://github.com/diagrams/diagrams-input
+https://github.com/diagrams/diagrams-input-test
+http://permalink.gmane.org/gmane.comp.lang.haskell.diagrams/757
 
 Presentations:
 Diagrams: Declarative Vector Graphics in Haskell with Brent Yorgey
 https://vimeo.com/84104226
 https://vimeo.com/84249042
+
 http://gbaz.github.io/slides/13-11-25-nyhaskell-diagrams.pdf
 https://www.reddit.com/r/haskell/comments/1vawif/diagrams_declarative_vector_graphics_in_haskell/
