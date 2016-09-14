@@ -1,4 +1,5 @@
 URLs:
+https://habrahabr.ru/post/309968/
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -6,18 +7,17 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Ukraine                                     - 2:24:00 (of 2:34:09)
+Bykov - Dostoevsky                                  -   02:00 (of   50:23)
 Bykov - Zholkovsky                                  -   57:00 (of 1:43:35)
   https://vk.com/video-2048479_171201123
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Puzzlers - Java 8                                   - 1:01:00 (of 1:28:11)
-David West - Interview 2                            -   51:00 (of 1:00:51)
-Ivanov - Native Off-heap                            -   40:00 (of 1:03:27)
-Makishvili - 36 big                                 -   35:50 (of 1:48:02)
-Makishvili - 36 small                               -   35:00 (of 1:06:30)
-Borisov - Spring Puzzlers – second season           -   30:00 (of   56:56)
+Puzzlers - Java 8                                   - 1:07:00 (of 1:28:11)
+Ivanov - Native Off-heap                            -   53:00 (of 1:03:27)
+Makishvili - 36 big                                 -   44:00 (of 1:48:02)
+Makishvili - 36 small                               -   41:20 (of 1:06:30)
+Borisov - Spring Puzzlers – second season           -   34:00 (of   56:56)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
@@ -35,11 +35,11 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Science Videos:
-Constable 2015 - 2                                  - 1:03:00 (of 1:30:50)
-Licata - Homotopy Theory in Type Theory             -   45:30 (of 1:28:35)
-Harper 2015 - 2                                     -   34:20 (of 1:32:01) Identity
-A working class introduction to HoTT                -   14:30 (of   28:53)
-Ball 2014 - 1                                       -   05:00 (of   37:14)
+Constable 2015 - 2                                  - 1:10:00 (of 1:30:50)
+Licata - Homotopy Theory in Type Theory             -   50:00 (of 1:28:35)
+Harper 2015 - 2                                     -   43:30 (of 1:32:01) Identity
+A working class introduction to HoTT                -   15:30 (of   28:53)
+Ball 2014 - 1                                       -   14:00 (of   37:14)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)

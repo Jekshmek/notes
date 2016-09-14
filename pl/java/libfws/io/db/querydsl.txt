@@ -1,0 +1,7 @@
+http://www.querydsl.com/
+https://github.com/querydsl/querydsl
+
+http://mitemitreski.github.io/talks/query-dsl.html
+https://www.credera.com/blog/technology-insights/java/can-querydsl-part-1-enhance-simplify-existing-spring-data-jpa-repositories/
+
+http://blog.mysema.com/2011/01/querying-in-sql-with-querydsl.html
