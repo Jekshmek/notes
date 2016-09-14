@@ -1,2 +1,0 @@
-samples:
-stack exec d1-exe -- -o a.svg -w 400
