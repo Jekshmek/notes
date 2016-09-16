@@ -1,2 +1,5 @@
 The launcher is called: 'google-chrome-stable'
 Custom flags should be put directly in: ~/.config/chrome-flags.conf
+
+DevConsole:
+http://frontender.info/chrome-developer-tools/

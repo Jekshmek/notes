@@ -1,5 +1,4 @@
 URLs:
-https://habrahabr.ru/post/309968/
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -7,17 +6,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bykov - Dostoevsky                                  -   02:00 (of   50:23)
+Bykov - Dostoevsky                                  -   07:30 (of   50:23)
 Bykov - Zholkovsky                                  -   57:00 (of 1:43:35)
   https://vk.com/video-2048479_171201123
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Puzzlers - Java 8                                   - 1:07:00 (of 1:28:11)
-Ivanov - Native Off-heap                            -   53:00 (of 1:03:27)
-Makishvili - 36 big                                 -   44:00 (of 1:48:02)
+Makishvili - 36 big                                 -   51:00 (of 1:48:02)
 Makishvili - 36 small                               -   41:20 (of 1:06:30)
-Borisov - Spring Puzzlers – second season           -   34:00 (of   56:56)
+Borisov - Spring Puzzlers – second season           -   39:00 (of   56:56)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Timonova - Instincts                                -   18:00 (of 1:15:02)
@@ -28,10 +25,11 @@ React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Sokolov - Spring JTA - Principles of work with tran -   07:00 (of   44:07)
+Kmett - Monad Homomorphisms                         -   07:00 (of 1:10:06)
 Mustafaev - Gradle                                  -   03:00 (of 3:42:48)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-
+Robinson - Why the Free Monad is not Free           -   11:00 (of   40:46)
 
 
 Science Videos:
