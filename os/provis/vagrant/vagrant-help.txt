@@ -1,10 +1,10 @@
 no man
 
-vagrant list-commands
-
-vagrant <cmd> -h
-    help on <cmd>
-
+vagrant
+    help
+    list-commands
+    <cmd> -h
+        help on <cmd>
 up
     up a vm
 status
