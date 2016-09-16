@@ -41,6 +41,11 @@ environments:
 ---
 driver:
   name: vagrant
+  ssh:
+    private_key_path: 'C:/Users/<user>/.vagrant.d/insecure_private_key'
+    insert_key: false
+    username: "vagrant"
+    password: "vagrant"
   customize: 
     memory: 10240
 provisioner:

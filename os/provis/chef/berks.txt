@@ -7,6 +7,7 @@ berks
         help [on command]
     init [path]
         initialize berkshelf [in a given path]
+        !!! deprecated !!!
     install
         install theh cookbooks, specified in the Berksfile (creates a Berksfile.lock)
     list
