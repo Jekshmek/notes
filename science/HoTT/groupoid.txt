@@ -116,6 +116,7 @@ Appel - Verifiable C
 http://vst.cs.princeton.edu/
 http://vst.cs.princeton.edu/download/
 http://vst.cs.princeton.edu/download/VC.pdf
+https://github.com/PrincetonUniversity/VST
 
 people
 http://zeit-raffer.livejournal.com/
@@ -126,6 +127,6 @@ Spievak - CT for scientists:
 https://github.com/zeitraffer/tex-cats/releases
 
 https://gitter.im/groupoid/om/archives/
-    2016/02/12
+    2016/02/14
 https://gitter.im/groupoid/exe/archives/
-    2016/02/12
+    2016/02/14
