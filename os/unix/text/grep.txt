@@ -1,3 +1,6 @@
+tips:
+http://www.fromdev.com/2016/09/powerful-grep-command-tips.html
+
 grep "exception" --color=always a.txt | grep -v "no subscriptions refer to assertion" | grep -v "Overlimit original text"
 
 grep
