@@ -14,6 +14,8 @@ http://www.lihaoyi.com/Ammonite/#Ammonite-REPL
     http://www.lihaoyi.com/Ammonite/#Configuration
 
 http://www.lihaoyi.com/Ammonite/#ScalaScripts
+    http://www.lihaoyi.com/Ammonite/#ScriptImports
+        http://www.lihaoyi.com/Ammonite/#OtherScripts
     http://www.lihaoyi.com/Ammonite/#ScriptArguments
 
 http://www.lihaoyi.com/Ammonite/#Ammonite-Ops
