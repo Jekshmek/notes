@@ -29,6 +29,8 @@ Arguments:
     url (as in browser)
 
 
+Annotations:
+
 @SpringBootApplication
 public class MyApplication ...
 
@@ -44,7 +46,11 @@ private String name
 // java -jar yourapp.jar --name=BootDragon --server-port=9000
 // or use application.[properties/yml]
 
-endpoints:
+// bean lifecycle
+@PostConstruct
+@PreDestroy
+
+Endpoints:
 env
 manage
 trace
@@ -58,3 +64,13 @@ mappings
 shutdown
 heapdump
     returns a GZip compressed hprof heap dump file
+
+
+Testing
+@RunWith(SpringJUnit4ClassRunner.class)
+@SpringApplicationConfiguration(classes = {
+    SimpleClientApplication.class
+})
+public class SomeBlaBlaTests {
+    ...
+}
