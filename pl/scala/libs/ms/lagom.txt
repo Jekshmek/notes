@@ -65,8 +65,11 @@ def dick(): ServiceCall[FriendId, Source[String, _]]
 
 We finnaly got back-pressure async ...
 
+// Remember the Service definition?
 
-- in impl-service
+...
+
+// Here is the Service implementation
 
 class HelloServiceImpl extends HelloService {
     override def sayHello(): ServiceCall[String, String] {
@@ -74,12 +77,23 @@ class HelloServiceImpl extends HelloService {
     }
 }
 
--- Inter-service communication
+// Inter-service communication
 
 class MyServiceImpl @Inject()(helloService: HelloService)(implicit ec: ExecutionContext) extends MyService {
+
     override def sayHelloLagom(): ServiceCall[NotUsed, String] = unused => {
         val response = helloService.sayHello().invoke("Lagom")
         response.map(answer => s"Hello service said: $answer")
     }
 }
 
+//
+// Persistence API
+//
+
+Principles
+- Each service owns its data
+-- Only the service has direct access to the DB
+- We advocate the use of Event Sourcing (ES) and CQRS
+-- ES: Capture all state's changes as events
+-- CQRS: separate models for write and read

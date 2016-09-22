@@ -48,6 +48,8 @@ systemctl list-units [--all]
     status
         -l -n 50
 
+    list-unit-files
+        -t service --state=enabled --no-legend --no-pager "prefix*" |awk '{ print $1 }'
 
 Dependencies:
 Removed symlink /etc/systemd/system/multi-user.target.wants/qbittorrent.service

@@ -20,6 +20,8 @@ Kitchen:
                 apply a recipe to a vm
         diagnose
             show final .kitchen.yml with all the default values
+            --all
+                to show ALL
         verify
             [INSTANCE|REGEXP|all]
         destroy
@@ -37,7 +39,14 @@ defaults:
 environments:
     https://docwhat.org/setting-environment-test-kitchen/
 
+options
+    -l debug
+    --log-level ...
+        set log level
+
 .kitchen.yml
+https://docs.chef.io/config_yml_kitchen.html
+
 ---
 driver:
   name: vagrant
@@ -61,8 +70,39 @@ suites:
     run_list:
       - recipe[cb-template-service::default]
     attributes:
+      chef_client:
+        config:
+          log_level: ":info"
+      chef_zero:
+        config:
+          log_level: ":info"
     excludes:
       - windows2012r2min
 
 plugins:
 https://github.com/test-kitchen/kitchen-vagrant
+
+
+cache:
+/tmp/kitchen
+    /nodes
+
+
+logs:
+metadata.rb:
+
+require "kitchen/provisioner/chef_zero.rb"
+
+def chef_client_args
+    level = config[:log_level] # == :info ? :auto : config[:log_level]
+    args = [
+      "--config #{remote_path_join(config[:root_path], "client.rb")}",
+      "--log_level #{level}",
+      "--force-formatter",
+      "--no-color"
+    ]
+    add_optional_chef_client_args!(args)
+
+    args
+end
+

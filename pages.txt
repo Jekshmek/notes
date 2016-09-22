@@ -17,16 +17,15 @@ Bykov - Skolkovo                                    -   11:00 (of   44:37)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Tolkachev - Custom SpringBoot Starter               -   51:00 (of 1:32:15)
-Timonova - Instincts                                -   26:00 (of 1:15:02)
+Mikhalevich - Java Database Migration Tools         -   42:00 (of 1:12:42)
+Timonova - Instincts                                -   35:00 (of 1:15:02)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Gamov - JCache                                      -   22:00 (of 1:13:46)
-Mikhalevich - Java Database Migration Tools         -   17:30 (of 1:12:42)
-Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
-Dotta - Lightbend Lagom - Microservices Just Right  -   11:30 - 16:30 (of   42:08)
+Dotta - Lightbend Lagom - Microservices Just Right  -   19:00 (of   42:08)
   http://www.slideshare.net/mircodotta/lightbend-lagom-microservices-just-right
-                                                    -   10    (of 33)
+                                                    -   18    (of 33)
+Matorin - Tricky Java Generics                      -   16:00 (ol   50:14)
+Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
@@ -38,8 +37,8 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 Science Videos:
 Harper 2015 - 2                                     - 1:15:00 (of 1:32:01)
 Licata - Homotopy Theory in Type Theory             -   50:00 (of 1:28:35)
+Ball 2014 - 2                                       -   19:00 (of   37:02)
 A working class introduction to HoTT                -   15:30 (of   28:53)
-Ball 2014 - 2                                       -   06:00 (of   37:02)
 
 Series:
 Linux Networking 03                                 -   01:00 (of   07:13)
@@ -49,7 +48,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 18                                        -   01:00 (of 2:06:59)
 Negreev - 03-12-2015                                -   00:00 (of   56:35)
-Lakirev - Isaia 1                                   -   00:00 (of 1:03:41)
+Lakirev - Isaia 2                                   -   00:00 (of 1:07:49)
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
@@ -57,7 +56,7 @@ Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 116
+Razbor Poletov                                      - 117 00:00 (of 33:50)
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
 LXF                                                 - 199..207|3 Feb 2016
