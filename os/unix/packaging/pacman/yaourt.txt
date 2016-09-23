@@ -16,3 +16,5 @@ yaourt -Su
 yaourt -Si <package>
     display info about installed package
 
+--tmp <dir>
+    use <dir> as temp-folder. Default is /tmp
