@@ -32,7 +32,7 @@ Kitchen:
             --destroy=never
                 !!!
         login
-            ???
+            login to the running test kitchen
 
 defaults:
     --driver=kitchen-vagrant
@@ -43,6 +43,18 @@ options
     -l debug
     --log-level ...
         set log level
+
+config:
+http://kitchen.ci/docs/getting-started/dynamic-configuration
+
+merge process:
+.kitchen.local.yml
+.kitchen.yml
+~/.kitchen/config.yml
+
+export KITCHEN_GLOBAL_YAML=/path/to/your/global/config.yml
+export KITCHEN_PROJECT_YAML=/path/to/your/project/.kitchen.yml
+export KITCHEN_LOCAL_YAML=/path/to/your/local/.kitchen.local.yml
 
 .kitchen.yml
 https://docs.chef.io/config_yml_kitchen.html
@@ -63,8 +75,17 @@ provisioner:
   environments_path: "../../environments"
   solo_rb:
     environment: "local-iharh"
+  log_level: <#= ENV['CHEF_LOG_LEVEL'] || auto %>
+  client_rb:
+    node_name: analytics.local
 platforms:
   - name: centos-7.1
+    driver:
+      name: vagrant
+    driver_config:
+      customize:
+        server_name: 'kt-my-centos-name'
+        # https://github.com/test-kitchen/test-kitchen/issues/465
 suites:
   - name: linux
     run_list:
@@ -106,3 +127,5 @@ def chef_client_args
     args
 end
 
+win:
+http://kitchen.ci/blog/test-kitchen-windows-test-flight-with-vagrant/
