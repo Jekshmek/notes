@@ -1,0 +1,20 @@
+---
+driver:
+  customize: 
+    memory: 15062
+provisioner:
+  log_file: 'kitchen.log'
+  #log_level: :info # don't work
+platforms:
+  - name: centos-7.2
+suites:
+  - name: linux
+    run_list:
+      - recipe[cb-cps::default]
+      #- recipe[cb-cps::trace]
+    attributes:
+      cb:
+        cps:
+          chef-test: false
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories/releases'

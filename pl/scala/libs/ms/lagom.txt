@@ -97,3 +97,42 @@ Principles
 - We advocate the use of Event Sourcing (ES) and CQRS
 -- ES: Capture all state's changes as events
 -- CQRS: separate models for write and read
+
+// Benefits of Event Sourcing/CQRS
+
+- Allows you to time travel
+- Audit log
+- Future business opportunities
+- No need for ORM
+- No database migration script, ever
+- Performance and Scalability
+- Testability and Debuggability
+
+// Event Sourcing: Write Side
+
+- Create your own Command and Event classes
+- Subclass PersistentEntity
+-- Define Command and Event handlers
+-- Can be accessed from anywhere in the cluster
+-- (corresponds to an Aggregate Root in DDD)
+
+// Event Sourcing Example
+
+Create the Command classes
+
+sealed trait FriendCommand extends Jsonable
+
+case class AddFriend(friendUserId: String) extends
+    PersistentEntity.ReplyType[Done] with FriendCommand
+
+// more friend commands
+
+// Event Sourcing: Example cont'd
+
+Create the Event classes
+
+sealed trait FriendEvent extends Jsonable
+
+case class FriendAdded(userId: String, firendId: String, timestamp: Instant = Instant.now()) extends FriendEvent
+
+// more friend events

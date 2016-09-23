@@ -1,0 +1,14 @@
+Matorin - Tricky Java Generics
+
+PECS (Producer-extends, consumer-super)
+
+If a parameterized type represents a T producer, use
+    <? extends T>;
+
+If it represents a T consumer, use
+    <? super T>
+
+public static <T> T max(
+    Collection<? extends T> collection,
+    Comparator<? super T> comparator)
+
