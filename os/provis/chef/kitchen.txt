@@ -18,10 +18,6 @@ Kitchen:
         converge [-l debug]
             [INSTANCE|REGEXP|all]
                 apply a recipe to a vm
-        diagnose
-            show final .kitchen.yml with all the default values
-            --all
-                to show ALL
         verify
             [INSTANCE|REGEXP|all]
         destroy
@@ -33,6 +29,10 @@ Kitchen:
                 !!!
         login
             login to the running test kitchen
+        diagnose
+            show final .kitchen.yml with all the default values
+            --all
+                to show ALL
 
 defaults:
     --driver=kitchen-vagrant
