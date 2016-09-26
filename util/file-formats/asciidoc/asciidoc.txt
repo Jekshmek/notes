@@ -1,0 +1,5 @@
+CheatSheet:
+http://powerman.name/doc/asciidoc
+
+Tips:
+http://asciidoctor.org/docs/asciidoc-recommended-practices/
