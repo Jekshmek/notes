@@ -1,0 +1,17 @@
+---
+driver:
+  customize: 
+    memory: 4096
+provisioner:
+  log_file: 'kitchen.log'
+  #log_level: :info # don't work
+platforms:
+  - name: centos-7.2
+suites:
+  - name: linux
+    run_list:
+      - recipe[cb-eureka::default]
+    attributes:
+      cb:
+        yumRepo: 'http://192.168.235.101:8081'
+        nexusRepo: 'http://192.168.235.101:8081/content/repositories'

@@ -9,9 +9,10 @@ Video:
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
+Subramanian - Toward an Evolutionary Design and Arc -   55:00 (of 1:00:54)
 Timonova - Instincts                                -   54:00 (of 1:15:02)
 Mikhalevich - Java Database Migration Tools         -   48:00 (of 1:12:42)
-Matorin - Tricky Java Generics                      -   31:42 (ol   50:14)
+Matorin - Tricky Java Generics                      -   36:42 (ol   50:14)
 Mustafaev - Gradle                                  -   28:00 (of 3:42:48)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 Dotta - Lightbend Lagom - Microservices Just Right  -   24:00 (of   42:08)
@@ -37,7 +38,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 18                                        -   01:00 (of 2:06:59)
+Paschenko 18                                        -   56:00 (of 2:06:59)
 Negreev - 26-11-2015                                -   00:00 (of 1:06:16)
 Lakirev - Isaia 2                                   -   00:00 (of 1:07:49)
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)

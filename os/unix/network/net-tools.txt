@@ -7,6 +7,7 @@ iptunnel
 mii-tool
 nameif
 netstat
+  https://hostpresto.com/community/tutorials/netstat-command-line-tips-and-tricks/
     -tulanp - show open ports
     -npl - ...
 plipconfig
