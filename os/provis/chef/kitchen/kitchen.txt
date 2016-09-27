@@ -6,12 +6,11 @@ Kitchen:
     http://kitchen.ci/docs/getting-started/creating-cookbook
     http://kitchen.ci/docs/getting-started/writing_test
 
-    http://serverspec.org/
-    http://serverspec.org/resource_types.html
-
-    https://relishapp.com/rspec/rspec-core/docs
-
     kitchen
+        diagnose
+            show final .kitchen.yml with all the default values
+            --all
+                to show ALL
         list
             list a test-matrix
         create
@@ -31,10 +30,6 @@ Kitchen:
                 !!!
         login
             login to the running test kitchen
-        diagnose
-            show final .kitchen.yml with all the default values
-            --all
-                to show ALL
 
 defaults:
     --driver=kitchen-vagrant
