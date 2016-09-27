@@ -15,8 +15,8 @@ suites:
     attributes:
       cb:
         msa:
-          yumRepo: 'http://192.168.235.101:8080'
-          nexusRepo: 'http://192.168.235.101:8080/content/repositories'
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
 
@@ -37,8 +37,8 @@ suites:
     attributes:
       cb:
         msa:
-          yumRepo: 'http://192.168.235.101:8080'
-          nexusRepo: 'http://192.168.235.101:8080/content/repositories'
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
         cps:
@@ -61,8 +61,8 @@ suites:
     attributes:
       cb:
         msa:
-          yumRepo: 'http://192.168.235.101:8080'
-          nexusRepo: 'http://192.168.235.101:8080/content/repositories'
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
         cps:
