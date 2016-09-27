@@ -15,8 +15,10 @@ suites:
     attributes:
       cb:
         msa:
-          yumRepo: 'http://192.168.0.103:8080'
-          nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          yumRepo: 'http://192.168.235.101:8080'
+          nexusRepo: 'http://192.168.235.101:8080/content/repositories'
+          # yumRepo: 'http://192.168.0.103:8080'
+          # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
 
     # vector-provider
 
@@ -35,8 +37,10 @@ suites:
     attributes:
       cb:
         msa:
-          yumRepo: 'http://192.168.0.103:8080'
-          nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          yumRepo: 'http://192.168.235.101:8080'
+          nexusRepo: 'http://192.168.235.101:8080/content/repositories'
+          # yumRepo: 'http://192.168.0.103:8080'
+          # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
         cps:
           chef-test: false
 
