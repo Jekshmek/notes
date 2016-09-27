@@ -24,6 +24,9 @@ conda
     depends <package>
         search for the other packages our <package> depends on
 
+    list
+        -n <env-name>
+
 win:
 activate py35
 
