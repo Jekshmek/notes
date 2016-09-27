@@ -138,3 +138,9 @@ http://kitchen.ci/blog/test-kitchen-windows-test-flight-with-vagrant/
 
 custom vagrant file
 https://github.com/test-kitchen/kitchen-vagrant#-vagrantfile_erb
+
+pre-create-command (for installing extra plugins and so on):
+https://github.com/test-kitchen/kitchen-vagrant#-pre_create_command
+
+synced folders
+https://github.com/test-kitchen/kitchen-vagrant#-synced_folders
