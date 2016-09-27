@@ -37,3 +37,6 @@ ansible install:
     conda create -n <env-name> python
     . activate <env-name>
     pip install ansible # 2.0.0.2
+
+Mirrors:
+https://docs.continuum.io/anaconda-repository/mirrors-anaconda-repository
