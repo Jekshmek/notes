@@ -1,6 +1,8 @@
 Kitchen:
     UT suite
     http://kitchen.ci/
+    https://github.com/test-kitchen/test-kitchen
+
     http://kitchen.ci/docs/getting-started/creating-cookbook
     http://kitchen.ci/docs/getting-started/writing_test
 
@@ -103,6 +105,10 @@ suites:
 plugins:
 https://github.com/test-kitchen/kitchen-vagrant
 
+driver:
+  network:
+    - ["forwarded_port", {guest: 80, host: 8080}]
+    - ["private_network", {ip: "192.168.33.33"}]
 
 cache:
 /tmp/kitchen
@@ -129,3 +135,6 @@ end
 
 win:
 http://kitchen.ci/blog/test-kitchen-windows-test-flight-with-vagrant/
+
+custom vagrant file
+https://github.com/test-kitchen/kitchen-vagrant#-vagrantfile_erb
