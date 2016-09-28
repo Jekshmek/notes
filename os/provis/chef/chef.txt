@@ -6,11 +6,6 @@ Books:
 Cowie - Customizing Chef
 Joshi - Mastering Chef
 
-ChefDK
-https://downloads.chef.io/chef-dk/
-https://aur.archlinux.org/packages/chef-dk/
-
-
 chef-apply:
     applies individual resources, does not work with cookbooks
     https://docs.chef.io/ctl_chef_apply.html
