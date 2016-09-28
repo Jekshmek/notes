@@ -7,26 +7,30 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
-Bykov - Grebenschikov                               -   16:00 (of 1:04:22)
+Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
+Bykov - Strugatskie                                 -   09:00 (of   53:53)
+  https://vk.com/video-2048479_171260474
+Bykov - Children Poludnya                           -   01:30 (of   39:01)
+  https://vk.com/video-2048479_171198111
 Timonova - Instincts                                -   54:00 (of 1:15:02)
 Mustafaev - Gradle                                  -   28:00 (of 3:42:48)
-Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
-Dotta - Lightbend Lagom - Microservices Just Right  -   24:00 (of   42:08)
+Dotta - Lightbend Lagom - Microservices Just Right  -   27:00 (of   42:08)
   http://www.slideshare.net/mircodotta/lightbend-lagom-microservices-just-right
-                                                    -   22    (of 33)
+                                                    -   26    (of 33)
+Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-UzhEzh                                              -   21:00 (of   28:48)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Soto - Jenkins Pipeline                             -   01:00 (of   51:55)
 
 Science Videos:
 Harper 2015 - 3                                     -   00:00 (of )
-Licata - Homotopy Theory in Type Theory             - 1:03:00 (of 1:28:35)
+Licata - Homotopy Theory in Type Theory             - 1:10:00 (of 1:28:35)
 A working class introduction to HoTT                -   15:30 (of   28:53)
 
 Series:
@@ -37,7 +41,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 18                                        -   56:00 (of 2:06:59)
 Negreev - 26-11-2015                                -   00:00 (of 1:06:16)
-Lakirev - Isaia 2                                   -   00:00 (of 1:07:49)
+Lakirev - Isaia 3                                   -   00:00 (of 1:08:40)
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
