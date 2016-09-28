@@ -8,29 +8,33 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
-Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov - Strugatskie                                 -   09:00 (of   53:53)
+Bykov - Strugatskie                                 -   18:00 (of   53:53)
   https://vk.com/video-2048479_171260474
-Bykov - Children Poludnya                           -   01:30 (of   39:01)
+Bykov - Efron 1                                     -   12:00 (of 1:20:42)
+Bykov - Chipolino                                   -   08:00 (of 1:12:28)
+  https://vk.com/video-2048479_171463225
+Bykov - Children Poludnya                           -   06:00 (of   39:01)
   https://vk.com/video-2048479_171198111
 Timonova - Instincts                                -   54:00 (of 1:15:02)
-Mustafaev - Gradle                                  -   28:00 (of 3:42:48)
-Dotta - Lightbend Lagom - Microservices Just Right  -   27:00 (of   42:08)
+Dotta - Lightbend Lagom - Microservices Just Right  -   33:30 (of   42:08)
   http://www.slideshare.net/mircodotta/lightbend-lagom-microservices-just-right
-                                                    -   26    (of 33)
+                                                    -   29    (of 33)
+Mustafaev - Gradle                                  -   28:00 (of 3:42:48)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
+Bakker - Java 9 Modularity in Action                -   20:22 (of   56:37)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
+Soto - Jenkins Pipeline                             -   15:00 (of   51:55)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
+Mospan - Netflix OSS Overview                       -   06:00 (of 1:18:44)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Soto - Jenkins Pipeline                             -   01:00 (of   51:55)
 
 Science Videos:
 Harper 2015 - 3                                     -   00:00 (of )
-Licata - Homotopy Theory in Type Theory             - 1:10:00 (of 1:28:35)
+Licata - Homotopy Theory in Type Theory             - 1:17:00 (of 1:28:35)
 A working class introduction to HoTT                -   15:30 (of   28:53)
 
 Series:

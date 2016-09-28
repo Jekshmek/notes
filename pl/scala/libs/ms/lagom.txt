@@ -184,3 +184,37 @@ cas class FriendState(user: Option[User]) extends Jsonable {
     }
 }
 
+// Event Sourcing: Example cont'd
+
+class FriendServiceImpl @Inject() (persistentEntities: PersistentEntityRegistry)
+    (implicit ec: ExecutionContext) extends FriendService {
+
+    // at service startup we must register the needed entities
+    persistentEntities.register(classOf[FriendEntity])
+
+    def addFriend(userId: String): ServiceCall[FriendId, NotUsed] = request =>
+        val rev = persistentEntities.refFor(classOf[FriendEntity], userId)
+        ref.ask[Done, AddFriend](AddFriend(request.friendId))
+    }
+    // ...
+}
+
+// Event Sourcing: Read Side
+
+- Tightly integrated with Cassandra
+- Create the query tables:
+-- Subclass CassandraReadSideProcessor
+-- Comsumes events, produced by the PersistentEntity and
+   updates tables in Cassandra optimized for queries
+- Retrieving data: Cassandra Query Language
+-- e.g., SELECT id, title FROM postsummary
+
+// Running in production
+
+- sbt-native packager is used to product zip, MSI, RPM, Docker
+- Lightbend ConductR* (our container orchestration tool)
+- Lightbend Reactive Platfrom*
+-- Split Brain Resolver (for Akka cluster)
+-- Lightbend Monitoring
+
+// 

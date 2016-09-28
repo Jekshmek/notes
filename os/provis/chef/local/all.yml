@@ -1,4 +1,9 @@
 ---
+provisioner:
+  name: chef_zero
+  require_chef_omnibus: 12.4.1
+  log_file: 'kitchen.log'
+  # log_level: :info # don't work
 suites:
   - name: linux
 
@@ -31,9 +36,6 @@ suites:
         # memory: 15062
       network:
         - ["private_network", {ip: "192.168.235.62"}]
-      provisioner:
-        log_file: 'kitchen.log'
-        # log_level: :info # don't work
     attributes:
       cb:
         msa:
@@ -41,6 +43,7 @@ suites:
           nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          eurekaHost: '192.168.235.61'
         cps:
           chef-test: false
 
