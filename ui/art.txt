@@ -23,3 +23,4 @@ http://www.grtuts.com/djourney/infographic-isometric-box
 Icons:
 https://commons.wikimedia.org/wiki/Tango_icons
 http://tango.freedesktop.org/Talk:Tango_Icon_Gallery
+http://www.flaticon.com/packs/glypho
