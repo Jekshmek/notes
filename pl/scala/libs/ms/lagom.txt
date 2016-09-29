@@ -217,4 +217,4 @@ class FriendServiceImpl @Inject() (persistentEntities: PersistentEntityRegistry)
 -- Split Brain Resolver (for Akka cluster)
 -- Lightbend Monitoring
 
-// 
+// Extra slide !!! 
