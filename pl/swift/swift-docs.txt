@@ -1,2 +1,5 @@
 Guides:
 https://developer.apple.com/library/content/navigation/
+
+Presentations:
+https://www.infoq.com/presentations/swift-open-source

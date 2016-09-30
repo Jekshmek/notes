@@ -51,16 +51,14 @@ suites:
 
     run_list:
       - recipe[cb-cps::default]
+      #- recipe[cb-cps::trace]
     driver:
       name: vagrant
       customize: 
-        memory: 4096
+        memory: 8192
         # memory: 15062
       network:
-        - ["private_network", {ip: "192.168.235.63"}]
-      provisioner:
-        log_file: 'kitchen.log'
-        # log_level: :info # don't work
+        - ["private_network", {ip: "192.168.235.69"}]
     attributes:
       cb:
         msa:
@@ -68,5 +66,11 @@ suites:
           nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          # eurekaHost: '192.168.235.61'
         cps:
           chef-test: false
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories/releases'
+        pvp:
+          inst:
+            selected: ['es-01']

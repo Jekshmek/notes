@@ -1,0 +1,3 @@
+cargo
+    install --list
+        list installed crates/packages
