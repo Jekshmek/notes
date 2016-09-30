@@ -44,7 +44,7 @@ suites:
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
           eurekaHost: '192.168.235.61'
-        cps:
+        pvp:
           chef-test: false
 
     # cps
