@@ -105,8 +105,12 @@ http://category-theory.livejournal.com/33307.html?thread=415515#t415515
 Making a system simpler than DTs (using just an equality)
 2016/01/20
 
+Setoids-Groupoids
+exe 2016/02/14
+
 Dependent pattern-matching
 2016/02/02
+om 2016/02/16
 
 Parser on erl
 2016/02/08
@@ -118,6 +122,10 @@ http://vst.cs.princeton.edu/download/
 http://vst.cs.princeton.edu/download/VC.pdf
 https://github.com/PrincetonUniversity/VST
 
+Paradoxes
+http://liamoc.net/posts/2015-09-10-girards-paradox.html
+om 2016/02/16
+
 people
 http://zeit-raffer.livejournal.com/
     2015 Nov 1
@@ -127,6 +135,6 @@ Spievak - CT for scientists:
 https://github.com/zeitraffer/tex-cats/releases
 
 https://gitter.im/groupoid/om/archives/
-    2016/02/14
+    2016/02/17
 https://gitter.im/groupoid/exe/archives/
-    2016/02/14
+    2016/02/18
