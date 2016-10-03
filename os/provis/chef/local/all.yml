@@ -43,6 +43,7 @@ suites:
           nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          svcHost: '192.168.235.62'
           eurekaHost: '192.168.235.61'
         pvp:
           chef-test: false
@@ -64,6 +65,9 @@ suites:
         msa:
           yumRepo: 'http://192.168.0.103:8080'
           nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          # yumRepo: 'http://192.168.0.103:8080'
+          # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          svcHost: '192.168.235.63'
           eurekaHost: '192.168.235.61'
         prediction:
           chef-test: false
