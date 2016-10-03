@@ -1,0 +1,6 @@
+https://github.com/Netflix/eureka/wiki/Configuring-Eureka
+
+https://github.com/Netflix/eureka/blob/master/eureka-client/src/main/java/com/netflix/appinfo/EurekaInstanceConfig.java
+https://github.com/Netflix/eureka/blob/master/eureka-client/src/main/java/com/netflix/discovery/EurekaClientConfig.java
+
+https://github.com/Netflix/eureka/tree/master/eureka-examples/conf
