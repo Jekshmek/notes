@@ -46,6 +46,8 @@ suites:
           eurekaHost: '192.168.235.61'
         pvp:
           chef-test: false
+          inst:
+            selected: ['es-01']
 
     # cps
 
