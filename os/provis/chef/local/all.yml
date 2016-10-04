@@ -99,3 +99,23 @@ suites:
         pvp:
           inst:
             selected: ['es-01']
+
+
+    # template
+    run_list:
+      - recipe[cb-template-service::first]
+    driver:
+      name: vagrant
+      customize: 
+        memory: 4096
+      network:
+        - ["private_network", {ip: "192.168.235.64"}]
+    attributes:
+      cb:
+        msa:
+          yumRepo: 'http://192.168.235.101:8081'
+          nexusRepo: 'http://192.168.235.101:8081/content/repositories'
+          # yumRepo: 'http://192.168.0.103:8080'
+          # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
+          eurekaHost: '192.168.235.61'
+          svcHost: '192.168.235.64'

@@ -13,6 +13,8 @@ usages:
 - parbolied2
 
 Articles:
+http://akmetiuk.com/blog/2016/09/30/learning-shapeless-hlists.html
+
 Bjarnason-
 http://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/
 
