@@ -1,3 +1,39 @@
+Presentations:
+Functional Programmer's Guide to Homotopy Type Theory
+https://www.youtube.com/watch?v=caSOTjr1z18
+
+- each type is a space, with points and paths
+- programs are points
+- points can be "literally the same" or connected by a path
+
+- Many types are discrete (Nat). There are no interesting paths there
+- Paths look like equality
+  refl
+    id : Path M M
+  sym
+    \alpha^-1 : Path N M
+  trans
+    \beta . \alpha : Path M P
+
+- Gotcha: Path are really "data" (structure, values),
+  They are not predicates, check, property.
+
+  There are structure on a type
+
+  In particulare - we can have 2 paths between 2 points.
+  They can be not literally the same
+
+  Homotopy (or continuous deformation) - is a path between paths
+
+  Path is the "morphism of groupoid" from the CT point of view.
+
+
+- Functions "secretly-continuous" act on path (not only on points).
+
+
+
+
+
 Fibration = Family of types
 
 Fibration (classically):
