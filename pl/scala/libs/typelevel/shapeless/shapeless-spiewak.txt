@@ -14,6 +14,7 @@ https://vimeo.com/13518456
 Spiewak - Roll Your Own Shapeless:
 https://www.youtube.com/watch?v=GKIfu1WtSz4
 https://www.youtube.com/watch?v=zKRNMyo3wzg
+https://www.youtube.com/watch?v=z3mQPcnbx-A
 
 trait HList {
     type Append[L <: HList] <: HList

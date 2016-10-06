@@ -102,8 +102,17 @@ http://arxiv.org/pdf/1212.5853v2.pdf
 http://category-theory.livejournal.com/33307.html?thread=415515#t415515
 2016/02/11(e)
 
+cubical TT:
+https://github.com/mortberg/cubicaltt
+
 Making a system simpler than DTs (using just an equality)
 2016/01/20
+
+https://www.reddit.com/r/haskell/comments/561muo/suggestion_the_more_experienced_typetheory/
+Shulman - HoTT - A Synthetic approacht to higher equalities
+https://arxiv.org/pdf/1601.05035v3.pdf
+http://www.bristol.ac.uk/arts/research/projects/homotopy-type-theory/
+http://philsci-archive.pitt.edu/11143/4/Does_HTT_Provide_a_Foundation_public.pdf
 
 Setoids-Groupoids
 exe 2016/02/14

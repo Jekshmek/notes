@@ -1,6 +1,7 @@
 Presentations:
 Functional Programmer's Guide to Homotopy Type Theory
 https://www.youtube.com/watch?v=caSOTjr1z18
+http://dlicata.web.wesleyan.edu/pubs/l16icfp/l16icfpslides.pdf
 
 - each type is a space, with points and paths
 - programs are points
@@ -29,6 +30,19 @@ https://www.youtube.com/watch?v=caSOTjr1z18
 
 
 - Functions "secretly-continuous" act on path (not only on points).
+
+// Applicative => Monad stuff
+
+- Path-related types do not have same elements
+-- but paths between types induce bijections
+    coe p : A -> B
+    coe p^-1 : B -> A
+    (mutually inverse)
+-- moving along a path might do some work (coersion might do smth.)
+
+- Voevodsky's univalence axiom:
+Conversely, bijections induce/create paths between types*
+---------------------------------------------------------
 
 
 
