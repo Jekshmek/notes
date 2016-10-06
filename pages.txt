@@ -11,18 +11,18 @@ Mospan - Netflix OSS Overview                       -   41:00 (of 1:18:44)
 Calderwood - Commander (SL DistrTransLog)           -   26:00 (of   42:54)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
+Turon - Rust - PL research in industry              -   20:00 (of   36:08)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Turon - Rust - PL research in industry              -   01:00 (of   36:08)
+
 
 Literature:
-Bykov - Chipolino                                   -   41:00 (of 1:12:28)
+Bykov - Chipolino                                   -   51:38 (of 1:12:28)
   https://vk.com/video-2048479_171463225
-Veller - Boris Strugatsky                           -   32:00 (of   40:26)
 Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -34,6 +34,7 @@ IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
 Bykov-Emigrants
   https://vk.com/video357599516_456239045           -   00:00
+Veller - Boris Strugatsky                           -   14:00 (of   41:22)
 
 Science Videos:
 Licata - A Functional Programmers Guide to HoTT     -   32:00 (of 1:00:34)
