@@ -1,11 +1,18 @@
 Tasks:
-gradle tasks
+-x <task-name>
+    exclude task name
+-q help --task clean
+    task usage info
+tasks
     list all the tasks
 dependencies
     list all the dependencies for all the configs
 compileJava - instance:w
 of JavaCompile class
 compileGroovy
+
+:common:compileJ
+    call compileJava for :common module (can be shortened to :compJ)
 
 processResources
 
