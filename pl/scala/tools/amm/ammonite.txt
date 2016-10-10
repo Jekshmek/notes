@@ -11,6 +11,7 @@ http://www.lihaoyi.com/Ammonite/#Ammonite-REPL
     http://www.lihaoyi.com/Ammonite/#Builtins
   http://www.lihaoyi.com/Ammonite/#ReplAPI
   http://www.lihaoyi.com/Ammonite/#Utilities
+    http://www.lihaoyi.com/Ammonite/#desugar
   http://www.lihaoyi.com/Ammonite/#Configuration
 
 http://www.lihaoyi.com/Ammonite/#ScalaScripts
