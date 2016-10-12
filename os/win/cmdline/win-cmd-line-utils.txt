@@ -1,4 +1,6 @@
 https://github.com/madhuakula/wincmdfu
+http://ss64.com/nt/
+http://pcsupport.about.com/od/commandlinereference/fl/cmd-commands.htm
 
 http://www.windows-commandline.com/2012/04/windows-7-run-commands.html
 http://www.windows-commandline.com/2011/03/windows-cmd-commands-reference.html
