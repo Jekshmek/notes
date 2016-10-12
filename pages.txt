@@ -1,4 +1,6 @@
 URLs:
+http://michele.sciabarra.com/2016/10/11/devops/alpine-docker-jdk-with-sbt-ammonite/
+  Download the requirements
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -25,11 +27,11 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
+Bykov-Voland1                                       -   43:00 (of 1:20:27)
+  https://vk.com/video238111554_456239454
 Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov-Voland1                                       -   10:00 (of 1:20:27)
-  https://vk.com/video238111554_456239454
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
 
