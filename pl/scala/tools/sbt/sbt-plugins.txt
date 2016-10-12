@@ -38,6 +38,12 @@ https://github.com/sbt/sbt-assembly
 
 docker:
 https://github.com/marcuslonnberg/sbt-docker
+
+http://michele.sciabarra.com/2016/09/19/devops/using-sbt-docker/
+  sbt-mosaico
+http://michele.sciabarra.com/2016/10/11/devops/alpine-docker-jdk-with-sbt-ammonite/
+https://github.com/sciabarra/Devops4Scala/tree/master/download-script
+
 http://www.slideshare.net/JontheBeach/scala-docker-and-testing-oh-my-mario-camou
 https://www.youtube.com/watch?v=Q1XqOLPhr-k
 https://velvia.github.io/Docker-Scala-Sbt/

@@ -26,3 +26,18 @@ lazy val ... = [Root]Project()...dependsOn(...)
 
 ProjectRef(file(...), "...")
 
+
+Sample:
+https://github.com/sciabarra/Devops4Scala/tree/master/download-script
+
+lazy val jdk1 = project.in(file("jdk1")).
+  enablePlugins(MosaicoDockerPlugin)
+
+lazy val jdk2 = project.in(file("jdk2")).
+  enablePlugins(MosaicoDockerPlugin)
+
+lazy val jdk3 = project.in(file("jdk3")).
+  enablePlugins(MosaicoDockerPlugin, MosaicoAmmonitePlugin)
+
+jdk1, jdk2, jdk3 - are dirs
+https://github.com/sciabarra/Devops4Scala/blob/master/download-script/jdk1/build.sbt

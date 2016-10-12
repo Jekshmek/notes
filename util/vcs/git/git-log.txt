@@ -63,7 +63,9 @@ git log
 
 
     -- file1 file2
-        by file
+        by file1 or file2
+    -- folder/subfolder
+        by subfolder
 
     -S"msg" [--patch]
     -G"<regex>"
