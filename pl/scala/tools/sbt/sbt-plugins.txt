@@ -29,6 +29,7 @@ https://github.com/sbt/sbt-boilerplate
 
 git:
 https://github.com/sbt/sbt-git
+https://github.com/sbt/sbt-git/blob/master/src/main/scala/com/typesafe/sbt/git/JGit.scala
 
 buildinfo:
 https://github.com/sbt/sbt-buildinfo
