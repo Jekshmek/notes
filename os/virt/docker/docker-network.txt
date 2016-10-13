@@ -1,6 +1,9 @@
 http://www.ibm.com/developerworks/linux/library/l-docker-network/index.html
 https://www.elastic.co/blog/docker-networking
 
+Presentations:
+http://www.slideshare.net/BadooDev/docker-networking-63521575
+
 /etc/sysconfig/docker-network
 #DOCKER_NETWORK_OPTIONS=-H fd:// -H tcp://0.0.0.0:2375
 DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'
