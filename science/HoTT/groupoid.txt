@@ -34,6 +34,7 @@ om - 2016/01/12
 
 Lambda-Cube of Henk/Morte
 http://www.msr-waypoint.net/en-us/um/people/simonpj/papers/henk.ps.gz
+http://rnyingma.synrc.com/publications/cat/Lambda%20Calculus/The%20Lambda%20Calculus.pdf
 2016/01/13
 2016/02/03
 http://zeit-raffer.livejournal.com/124513.html
@@ -144,6 +145,6 @@ Spievak - CT for scientists:
 https://github.com/zeitraffer/tex-cats/releases
 
 https://gitter.im/groupoid/om/archives/
-    2016/02/17
+    2016/02/20
 https://gitter.im/groupoid/exe/archives/
-    2016/02/18
+    2016/02/25
