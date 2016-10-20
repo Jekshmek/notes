@@ -19,14 +19,16 @@ Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Arkadiy Dobkin - Engineering EPAM Evolution         -   00:00 (of )
 
 
 Literature:
-Bykov-Voland 1                                      -   43:00 (of 1:20:27)
+Bykov-Voland 1                                      -   49:00 (of 1:20:27)
   https://vk.com/video238111554_456239454
 Bykov-Babel 2016                                    -   09:20 (of 1:19:28)
   https://vk.com/video238111554_456239490
 Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
+  https://vk.com/video-2048479_456239079
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
@@ -39,14 +41,14 @@ A working class introduction to HoTT                -   15:30 (of   28:53)
 Harper 2015 - 3                                     -   00:00 (of )
 
 Series:
-Linux Networking 03                                 -   01:00 (of   07:13)
+Linux Networking 04                                 -   01:00 (of 1:04:40)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 02                                        -   00:00 (of 1:48:57)
+Paschenko 03                                        -   57:30 (of 1:31:40)
 Negreev - 17-05-14                                  -   00:00 (of   50:58)
-Lakirev - Brak                                      -   00:00 (of 1:39:39)
+Lakirev - Brak                                      -   11:00 (of 1:39:39)
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)

@@ -357,6 +357,9 @@ error hanling
 
 by default, calling the onError() results to the stream shutdown.
 
+TESTING:
+https://www.infoq.com/articles/Testing-RxJava
+
 SAMPLES:
 
 XML parsing

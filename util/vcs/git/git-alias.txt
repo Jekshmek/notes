@@ -1,6 +1,9 @@
 https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git
 https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
 
+fzf-ones:
+https://github.com/fcsonline/dotfiles/blob/master/git/gitconfig
+
 Aliases:
 
 ~/.gitconfig
