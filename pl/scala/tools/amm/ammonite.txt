@@ -15,16 +15,18 @@ http://www.lihaoyi.com/Ammonite/#Ammonite-REPL
   http://www.lihaoyi.com/Ammonite/#Configuration
 
 http://www.lihaoyi.com/Ammonite/#ScalaScripts
-  http://www.lihaoyi.com/Ammonite/#ScriptImports
-    http://www.lihaoyi.com/Ammonite/#OtherScripts
-  http://www.lihaoyi.com/Ammonite/#Multi-stageScripts
-  http://www.lihaoyi.com/Ammonite/#ScriptArguments
-  http://www.lihaoyi.com/Ammonite/#MultipleMainMethods
+  http://www.lihaoyi.com/Ammonite/#ScriptFiles 
+    http://www.lihaoyi.com/Ammonite/#ScriptImports
+      http://www.lihaoyi.com/Ammonite/#OtherScripts
+    http://www.lihaoyi.com/Ammonite/#Multi-stageScripts
+    http://www.lihaoyi.com/Ammonite/#ScriptArguments
+    http://www.lihaoyi.com/Ammonite/#MultipleMainMethods
 
 http://www.lihaoyi.com/Ammonite/#Ammonite-Ops
   http://www.lihaoyi.com/Ammonite/#Paths
   http://www.lihaoyi.com/Ammonite/#Operations
     http://www.lihaoyi.com/Ammonite/#Chaining
+    http://www.lihaoyi.com/Ammonite/#ReadingResources
 
 http://www.lihaoyi.com/Ammonite/#Ammonite-Shell
 http://www.lihaoyi.com/Ammonite/#ShellBasics
@@ -55,6 +57,13 @@ $ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local
 
 
 ops:
+https://github.com/lihaoyi/Ammonite/blob/master/ops/src/main/scala/ammonite/ops/FileOps.scala
+
+https://github.com/lihaoyi/Ammonite/blob/master/ops/src/test/scala/test/ammonite/ops/ExampleTests.scala
+
+ls! wd/'dir2 |? (_.ext == "java") | read |> write! wd/'target/"bundled.java"
+ls.rec! pwd |? (_.ext == "scala") | read |> write! pwd/'target/'test/"omg.txt"
+
 http://www.lihaoyi.com/Ammonite/#CurrentWorkingDirectory
 
 import ammonite.ops._
@@ -64,6 +73,8 @@ val d: Path = pwd/'out
 rm! d
 mkdir! d
 write(d/"file1.txt", "I am cow")
+write.append(...)
+write.over(...)
 
 %.ls()
 ls!
