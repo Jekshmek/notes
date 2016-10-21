@@ -19,3 +19,11 @@ ammonite.shell.Configure(repl, wd)
 
 $ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local/bin/amm && amm
 
+
+!!! for good scripting !!!
+~/.ammonite/predefScript.sc
+
+interp.load.ivy("com.lihaoyi" %% "ammonite-shell" % ammonite.Constants.version)
+@
+import ammonite.shell._
+import ammonite.ops._

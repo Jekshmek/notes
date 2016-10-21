@@ -1,3 +1,6 @@
+Presentations:
+http://www.slideshare.net/maximnovak/rocksolid-shell-scripting-with-ammonite
+
 http://www.lihaoyi.com/Ammonite/#Extensions
 
 http://www.lihaoyi.com/Ammonite/#Ammonite-REPL
