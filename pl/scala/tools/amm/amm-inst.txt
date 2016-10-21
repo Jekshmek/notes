@@ -1,0 +1,21 @@
+aur/ammonite
+
+http://www.lihaoyi.com/Ammonite/#UnstableVersions
+
+To begin using Ammonite-Shell, simply download the default predef.sc
+to configure your REPL to be a usable systems shell
+before downloading the Ammonite-REPL executable (below):
+
+$ mkdir ~/.ammonite && curl -L -o ~/.ammonite/predef.sc https://git.io/v6r5y
+
+interp.load.ivy("com.lihaoyi" %% "ammonite-shell" % ammonite.Constants.version)
+@
+val shellSession = ammonite.shell.ShellSession()
+import shellSession._
+import ammonite.shell.PPrints._
+import ammonite.ops._
+import ammonite.shell._
+ammonite.shell.Configure(repl, wd)
+
+$ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local/bin/amm && amm
+
