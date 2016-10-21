@@ -20,7 +20,8 @@ ammonite.shell.Configure(repl, wd)
 $ sudo curl -L -o /usr/local/bin/amm https://git.io/viYun && chmod +x /usr/local/bin/amm && amm
 
 
-!!! for good scripting !!!
+Predef:
+https://github.com/lihaoyi/Ammonite/blob/master/internals-docs/predef.md
 ~/.ammonite/predefScript.sc
 
 interp.load.ivy("com.lihaoyi" %% "ammonite-shell" % ammonite.Constants.version)
