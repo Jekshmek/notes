@@ -8,7 +8,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Mustafaev - Gradle                                  - 1:16:00 (of 3:42:48)
 Sabin - Dublin Scala UG                             -   43:00 (of 1:31:27)
-Haller - Programming with Futures Lattices and Qui  -   28:30 (of   52:45)
+Haller - Programming with Futures Lattices and Qui  -   34:00 (of   52:45)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
@@ -20,8 +20,9 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
-Bykov-Voland 1                                      -   54:00 (of 1:20:27)
+Bykov-Voland 1                                      - 1:07:00 (of 1:20:27)
   https://vk.com/video238111554_456239454
+  https://vk.com/video238111554_456239455
 Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
   https://vk.com/video-2048479_456239079
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
@@ -44,14 +45,14 @@ Audio:
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
 Paschenko 05                                        -   00:00 (of 1:31:56)
 Negreev - Isihazm                                   -   00:00 (of 1:18:10)
-Lakirev - Brak                                      -   27:00 (of 1:39:39)
+Ivliev - 02                                         -   00:00 (of   49:25)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
+Razbor Poletov                                      - 118 29:00 (of 53:03)
 Bananas and Lens                                    - 36
-Razbor Poletov                                      - 117 00:00 (of 33:50)
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
 LXF                                                 - 199..207|3 Feb 2016
