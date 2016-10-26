@@ -7,8 +7,6 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Mustafaev - Gradle                                  - 1:16:00 (of 3:42:48)
-Sabin - Dublin Scala UG                             -   43:00 (of 1:31:27)
-Haller - Programming with Futures Lattices and Qui  -   34:00 (of   52:45)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
@@ -17,15 +15,17 @@ Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Merritt - DiscoverTypesFromStringsWithCatsAndShapel -   01:00 (of   18:03)
 
 
 Literature:
-Bykov-Voland 1                                      - 1:12:00 (of 1:20:27)
-  https://vk.com/video238111554_456239454
-  https://vk.com/video238111554_456239455
-Bykov - Grebenschikov                               -   21:30 (of 1:04:22)
+Bykov - Grebenschikov                               -   53:00 (of 1:04:22)
   https://vk.com/video-2048479_456239079
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
+Bykov-Voland 2                                      -   17:00 (of 1:09:16)
+  https://vk.com/video238111554_456239455
+Bykov - Chernyshevsky Code                          -   13:00 (of   56:28)
+  https://vk.com/video-2048479_456239128
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
@@ -43,7 +43,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
-Paschenko 05                                        -   00:00 (of 1:31:56)
+Paschenko 06                                        -   00:00 (of 2:15:49)
 Negreev - Isihazm                                   -   00:00 (of 1:18:10)
 Ivliev - 02                                         -   00:00 (of   49:25)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
