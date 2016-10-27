@@ -3,6 +3,11 @@ https://speakerdeck.com/w32blaster/precompilation-preferences-in-example-of-gwt
 http://www.slideshare.net/sefftinge/gwt-and-xtend
 https://speakerdeck.com/iawara/gwt-basics
 
+Tutorials:
+https://www.tutorialspoint.com/gwt/
+
+https://www.tutorialspoint.com/gwt/gwt_layout_panels.htm
+
 Vaadin:
 
 Errai:

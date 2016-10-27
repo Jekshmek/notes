@@ -10,12 +10,13 @@ Mustafaev - Gradle                                  - 1:16:00 (of 3:42:48)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
+Huehnken - Every you wanted about Pattern Matching  -   13:00 (of   45:54)
+Merritt - DiscoverTypesFromStringsWithCatsAndShapel -   09:00 (of   18:03)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   02:00 (of 1:25:24)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Merritt - DiscoverTypesFromStringsWithCatsAndShapel -   01:00 (of   18:03)
 
 
 Literature:
@@ -43,7 +44,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
-Paschenko 06                                        -   00:00 (of 2:15:49)
+Paschenko 07                                        -   00:00 (of 1:24:52)
 Negreev - Isihazm                                   -   00:00 (of 1:18:10)
 Ivliev - 02                                         -   00:00 (of   49:25)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
@@ -51,7 +52,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
-Razbor Poletov                                      - 118 29:00 (of 53:03)
+Razbor Poletov                                      - 118 36:00 (of 53:03)
 Bananas and Lens                                    - 36
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
