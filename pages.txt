@@ -9,9 +9,8 @@ Video:
 Mustafaev - Gradle                                  - 1:16:00 (of 3:42:48)
 Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
+Huehnken - Every you wanted about Pattern Matching  -   21:00 (of   45:54)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
-Huehnken - Every you wanted about Pattern Matching  -   13:00 (of   45:54)
-Merritt - DiscoverTypesFromStringsWithCatsAndShapel -   09:00 (of   18:03)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Dorofeev - Group Deprocrustination                  -   08:00 (of 1:43:49)
@@ -20,16 +19,18 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
-Bykov - Grebenschikov                               -   53:00 (of 1:04:22)
-  https://vk.com/video-2048479_456239079
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov-Voland 2                                      -   17:00 (of 1:09:16)
   https://vk.com/video238111554_456239455
-Bykov - Chernyshevsky Code                          -   13:00 (of   56:28)
-  https://vk.com/video-2048479_456239128
+Bykov - Chernyshevsky Code                          -   14:00 (of   56:28)
+  https://vk.com/video238111554_456239497
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
+German - Temp Avail                                 -   01:00 (of   52:01)
+  https://www.youtube.com/watch?v=PZfEH9-mocc
+Dolin - About                                       -   16:00 (of 1:3....)
+  https://www.youtube.com/watch?v=argftiwR_3A
 
 
 Science Videos:
@@ -43,21 +44,20 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 1                                       - 1:03:00 (of 2:23:16)
+Sonkina - D 1                                       - 1:18:00 (of 2:23:16)
+Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Paschenko 07                                        -   00:00 (of 1:24:52)
-Negreev - Isihazm                                   -   00:00 (of 1:18:10)
+Negreev - Ekhart                                    -   03:00 (of 1:32:04)
 Ivliev - 02                                         -   00:00 (of   49:25)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
-Razbor Poletov                                      - 118 36:00 (of 53:03)
+Razbor Poletov                                      - 118
 Bananas and Lens                                    - 36
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
-LXF                                                 - 199..207|3 Feb 2016
-52|LXF197 - escape the gui
 
 Books:
 SVM                                                 - 13..15..21..29
@@ -66,7 +66,3 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
-
-l - 691, 692 ???
-797, 798
-817, 829
