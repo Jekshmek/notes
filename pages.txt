@@ -22,8 +22,6 @@ Literature:
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov-Voland 2                                      -   17:00 (of 1:09:16)
   https://vk.com/video238111554_456239455
-Bykov - Chernyshevsky Code                          -   14:00 (of   56:28)
-  https://vk.com/video238111554_456239497
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
@@ -46,7 +44,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Sonkina - D 1                                       - 1:18:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
-Paschenko 07                                        -   00:00 (of 1:24:52)
+Paschenko 08                                        -   00:00 (of   54:40)
 Negreev - Ekhart                                    -   03:00 (of 1:32:04)
 Ivliev - 02                                         -   00:00 (of   49:25)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)

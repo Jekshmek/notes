@@ -1,8 +1,12 @@
 /var/lib/postgres/.psql_history
 
 cmd-line options
+    -h <dbhost>
+        connect to <dbhost> host
     -d <dbname>
         connect to <dbname> DB
+    -U <dbuser>
+        connect by <dbuser> user
 
 \?
     help
@@ -12,3 +16,5 @@ cmd-line options
     list databases
 \du
     list roles
+\i <file.sql>
+    execute script from file
