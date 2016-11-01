@@ -1,3 +1,7 @@
+https://svnkit.com/index.html
+https://wiki.svnkit.com/
+1.8.14
+
 <repositories>
     <repository>
         <id>SVNKit</id>
@@ -10,3 +14,8 @@
     <artifactId>svnkit</artifactId>
     <version>1.8.10</version>
 </dependency>
+
+
+https://mvnrepository.com/artifact/org.tmatesoft.svnkit/svnkit
+
+compile group: 'org.tmatesoft.svnkit', name: 'svnkit', version: '1.9.0-r10609-atlassian-hosted'
