@@ -6,10 +6,9 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Mustafaev - Gradle                                  - 1:16:00 (of 3:42:48)
-Scaredau - Spring Cloud and Netflix                 -   24:30 (of 2:26:09)
+Mustafaev - Gradle                                  - 1:30:00 (of 3:42:48)
+Scaredau - Spring Cloud and Netflix                 -   43:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Huehnken - Every you wanted about Pattern Matching  -   21:00 (of   45:54)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
@@ -20,11 +19,13 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
-Bykov-Voland 2                                      -   17:00 (of 1:09:16)
-  https://vk.com/video238111554_456239455
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
+Bykov - Semenov                                     -         (of 1:27:05)
+  https://vk.com/video238111554_456239487
+Bykov - Potter                                      -   04:00
+  https://www.youtube.com/watch?v=9E1PwM_GVu0
 German - Temp Avail                                 -   01:00 (of   52:01)
   https://www.youtube.com/watch?v=PZfEH9-mocc
 Dolin - About                                       -   16:00 (of 1:3....)
@@ -32,7 +33,7 @@ Dolin - About                                       -   16:00 (of 1:3....)
 
 
 Science Videos:
-Finster - A survey of Univalent Foundations         -   34:00 (of 1:34:13)
+Finster - A survey of Univalent Foundations         -   38:00 (of 1:34:13)
 A working class introduction to HoTT                -   15:30 (of   28:53)
 Harper 2015 - 3                                     -   00:00 (of )
 
@@ -42,11 +43,11 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 1                                       - 1:18:00 (of 2:23:16)
+Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Paschenko 08                                        -   00:00 (of   54:40)
 Negreev - Ekhart                                    -   03:00 (of 1:32:04)
-Ivliev - 02                                         -   00:00 (of   49:25)
+Ivliev - 03                                         -   00:00 (of   29:40)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)

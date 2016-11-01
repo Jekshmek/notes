@@ -1,0 +1,12 @@
+<repositories>
+    <repository>
+        <id>SVNKit</id>
+        <url>http://maven.tmatesoft.com/content/repositories/releases/</url>
+    </repository>
+</repositories>
+
+<dependency>
+    <groupId>org.tmatesoft.svnkit</groupId>
+    <artifactId>svnkit</artifactId>
+    <version>1.8.10</version>
+</dependency>
