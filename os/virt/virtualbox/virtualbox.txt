@@ -46,3 +46,7 @@ $sudo cat /etc/modules-load.d/linux44-virtualbox-guest-modules.conf
 vboxguest
 vboxsf
 vboxfideo
+
+/lib/modules/<...>
+/lib/modules/extra...
+

@@ -1,4 +1,3 @@
-https://wiki.manjaro.org/index.php?title=Install_Display_Managers
 https://wiki.manjaro.org/index.php?title=LXDM_Configuration
 Configure Lxdm
     https://forum.manjaro.org/index.php?topic=1537.0
@@ -30,4 +29,3 @@ theme=Industrial
 
 !!! Openbox theme
 ManjaroFlatDark
-
