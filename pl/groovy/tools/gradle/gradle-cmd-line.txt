@@ -8,3 +8,7 @@
     try to build sub-projects in separate threads
 -x, --exclude-task
     exclude the specified task
+-q
+:<taskName>
+-P<paramName>=<paramValue>
+    with param/prop

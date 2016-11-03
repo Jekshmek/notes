@@ -71,3 +71,10 @@ defaultTask 'afterTask'
 
 components
     build components (for Native plugins)
+
+Inputs/Outputs
+
+task.create('releaseNotes') {
+    inputs.file anotherTask
+    outputs.dir destDir
+}

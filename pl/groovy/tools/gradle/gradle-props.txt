@@ -1,0 +1,6 @@
+task areTestsExists {
+    if ([ file("${projectDir}}/src/test/java").listFiles() ].isEmpty()) {
+        ...
+    }
+    ...
+}

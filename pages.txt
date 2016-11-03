@@ -6,7 +6,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Mustafaev - Gradle                                  - 1:30:00 (of 3:42:48)
+Mustafaev - Gradle                                  - 2:30:00 (of 3:42:48)
 Scaredau - Spring Cloud and Netflix                 -   43:30 (of 2:26:09)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
@@ -18,14 +18,14 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
+Bykov - Potter                                      -   25:00
+  https://www.youtube.com/watch?v=9E1PwM_GVu0
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 IlfPetrov-Poem3                                     -   01:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
 Bykov - Semenov                                     -         (of 1:27:05)
   https://vk.com/video238111554_456239487
-Bykov - Potter                                      -   04:00
-  https://www.youtube.com/watch?v=9E1PwM_GVu0
 German - Temp Avail                                 -   01:00 (of   52:01)
   https://www.youtube.com/watch?v=PZfEH9-mocc
 Dolin - About                                       -   16:00 (of 1:3....)

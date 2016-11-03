@@ -27,3 +27,9 @@ dependencies {
 
 gradle :common:dependencies
     to list sub-project dependencies
+
+
+gradle.properties
+    lombokVersion = 1.14.4
+
+compile "org.projectlombok:lombok:$lombokVersion"
