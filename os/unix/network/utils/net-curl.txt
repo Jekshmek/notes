@@ -7,3 +7,6 @@ https://www.base64encode.org
 Resume:
 http://www.cyberciti.biz/faq/curl-command-resume-broken-download/
 -L -O -C - <url>
+
+Samples:
+curl -XPUT -k -u <usr>:<pwd> -T <filename> <url>/<filename>
