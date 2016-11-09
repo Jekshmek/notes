@@ -54,3 +54,9 @@ http://www.scala-sbt.org/release/docs/Datatype.html
 https://github.com/sbt/sbt-datatype
 
 https://github.com/sbt/sbinary
+
+bench:
+https://github.com/ktoso/sbt-jmh
+addSbtPlugin("pl.project13.scala" % "sbt-jmh" % "0.2.16")
+http://stackoverflow.com/questions/36293445/pass-jvm-arguments-to-jmh
+http://chariotsolutions.com/blog/post/microbenchmarking-scala-with-jmh/
