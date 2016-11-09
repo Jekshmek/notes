@@ -42,17 +42,17 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
+Paschenko 10                                        -   00:00 (of 1:45:11)
+Ivliev - 05                                         -   00:00 (of   40:10)
+Negreev - Ekhart                                    -   03:00 (of 1:32:04)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
-Paschenko 09                                        - 1:49:00 (of 2:04:44)
-Negreev - Ekhart                                    -   03:00 (of 1:32:04)
-Ivliev - 04                                         -   00:00 (of   36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
-Razbor Poletov                                      - 118
+Razbor Poletov                                      - 119 01:00 (of 2:12:50)
 Bananas and Lens                                    - 36
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
