@@ -9,6 +9,11 @@ http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
 Presentations:
 EPAM - Demin - Reactive Java
 
+Stine (+backpressure):
+http://www.slideshare.net/mstine/reactive-fault-tolerant-programming-with-hystrix-and-rxjava
+https://www.youtube.com/watch?v=sRJmjO5D3KE
+
+
 Operators:
 http://reactivex.io/documentation/operators.html
 
