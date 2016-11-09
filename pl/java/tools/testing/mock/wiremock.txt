@@ -1,0 +1,5 @@
+http://wiremock.org/
+https://github.com/tomakehurst/wiremock
+
+http://testdetective.com/rest-api-mocking-with-wiremock/
+https://dzone.com/articles/wiremock-mock-your-rest-apis
