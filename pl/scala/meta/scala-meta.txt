@@ -1,3 +1,7 @@
+Tutorial
+http://scalameta.org/tutorial/
+https://github.com/scalameta/tutorial
+
 download the amonite-shell (0.5.7)
 
 load.ivy("org.scalameta" && "scalameta" % "0.20.0")
