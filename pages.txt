@@ -6,8 +6,8 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Mustafaev - Gradle                                  - 3:00:00 (of 3:42:48)
-Scaredau - Spring Cloud and Netflix                 -   57:00 (of 2:26:09)
+Mustafaev - Gradle                                  - 3:11:00 (of 3:42:48)
+Scaredau - Spring Cloud and Netflix                 - 1:05:00 (of 2:26:09)
 Slisenka - DB Transaction Isolation and Locking     -   25:00 (of 1:25:24)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Dorofeev - Group Deprocrustination                  -   20:00 (of 1:43:49)
@@ -19,7 +19,7 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
-IlfPetrov-Poem3                                     -   43:00 (of 1:10:44)
+IlfPetrov-Poem3                                     - 1:00:00 (of 1:10:44)
   https://vk.com/video238111554_456239440
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -32,7 +32,7 @@ Dolin - About                                       -   16:00 (of 1:3....)
 
 
 Science Videos:
-Finster - A survey of Univalent Foundations         -   50:00 (of 1:34:13) Context, How Define, How use
+Finster - A survey of Univalent Foundations         - 1:05:00 (of 1:34:13) Context, How Define, How use
 A working class introduction to HoTT                -   15:30 (of   28:53)
 Harper 2015 - 3                                     -   00:00 (of )
 
@@ -43,7 +43,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 10                                        -   00:00 (of 1:45:11)
-Ivliev - 05                                         -   11:00 (of   40:10)
+Ivliev - 06                                         -   00:00 (of   40:44)
 Negreev - Ekhart                                    -   03:00 (of 1:32:04)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
@@ -52,7 +52,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
-Razbor Poletov                                      - 119 1:00:00 (of 2:12:50)
+Razbor Poletov                                      - 119 1:32:00 (of 2:12:50)
 Bananas and Lens                                    - 36
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
