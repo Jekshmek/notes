@@ -64,6 +64,8 @@ mappings
 shutdown
 heapdump
     returns a GZip compressed hprof heap dump file
+auto-config
+    auto configuration report
 
 
 Testing
