@@ -1,10 +1,8 @@
-Subscriber (like Barak Obama)
-    - subscribe/unsubscribe
-Observer (like Michele Obama)
-    - onNext/onError/onComplete
-
 https://github.com/Netflix/RxJava
 http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
+
+Books:
+Maglie - Reactive Java Programming
 
 Presentations:
 EPAM - Demin - Reactive Java
@@ -12,6 +10,12 @@ EPAM - Demin - Reactive Java
 Stine (+backpressure):
 http://www.slideshare.net/mstine/reactive-fault-tolerant-programming-with-hystrix-and-rxjava
 https://www.youtube.com/watch?v=sRJmjO5D3KE
+
+
+Subscriber (like Barak Obama)
+    - subscribe/unsubscribe
+Observer (like Michele Obama)
+    - onNext/onError/onComplete
 
 
 Operators:
