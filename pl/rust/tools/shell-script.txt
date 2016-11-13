@@ -1,0 +1,9 @@
+https://users.rust-lang.org/t/rust-for-shell-scripting-experiences-request/2628/3
+
+https://docs.rs/shells/0.2.0/shells/
+http://proksima.github.io/shells-doc/shells/index.html
+
+https://github.com/DanielKeep/cargo-script
+
+https://github.com/krdln/command-macros
+http://krdln.github.io/command-macros/command_macros/index.html

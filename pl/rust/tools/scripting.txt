@@ -1,0 +1,2 @@
+http://www.jonathanturner.org/2016/03/embedded-scripting-in-rust.html
+https://github.com/jonathandturner/rhai
