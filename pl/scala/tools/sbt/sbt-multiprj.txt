@@ -27,17 +27,61 @@ lazy val ... = [Root]Project()...dependsOn(...)
 ProjectRef(file(...), "...")
 
 
-Sample:
-https://github.com/sciabarra/Devops4Scala/tree/master/download-script
+Samples:
+https://github.com/underscoreio/shapeless-guide-code/blob/solutions/build.sbt
 
-lazy val jdk1 = project.in(file("jdk1")).
-  enablePlugins(MosaicoDockerPlugin)
+scalaOrganization in ThisBuild := "org.typelevel"
+scalaVersion      in ThisBuild := "2.11.8"
 
-lazy val jdk2 = project.in(file("jdk2")).
-  enablePlugins(MosaicoDockerPlugin)
+scalacOptions in Global ++= Seq(
+  "-deprecation",
+  "-encoding", "UTF-8",
+  "-unchecked",
+  "-feature",
+  "-Xlint",
+  "-Xfatal-warnings",
+  "-Ywarn-dead-code",
+  "-Yliteral-types"
+)
 
-lazy val jdk3 = project.in(file("jdk3")).
-  enablePlugins(MosaicoDockerPlugin, MosaicoAmmonitePlugin)
+libraryDependencies in Global ++= Seq(
+  "com.chuusai"   %% "shapeless" % "2.3.2",
+  "org.typelevel" %% "cats"      % "0.7.0",
+  "org.scalactic" %% "scalactic" % "2.2.6" % Test,
+  "org.scalatest" %% "scalatest" % "2.2.6" % Test
+)
 
-jdk1, jdk2, jdk3 - are dirs
-https://github.com/sciabarra/Devops4Scala/blob/master/download-script/jdk1/build.sbt
+lazy val common =
+  project.in(file("common"))
+
+lazy val representations =
+  project.in(file("representations")).dependsOn(common)
+
+lazy val csv =
+  project.in(file("csv")).dependsOn(common)
+
+lazy val literaltypes =
+  project.in(file("literaltypes")).dependsOn(common)
+
+lazy val json =
+  project.in(file("json")).dependsOn(common)
+
+lazy val numfields =
+  project.in(file("numfields")).dependsOn(common)
+
+lazy val random =
+  project.in(file("random")).dependsOn(common)
+
+lazy val migrations =
+  project.in(file("migrations")).dependsOn(common)
+
+lazy val root = project.in(file("."))
+  .aggregate(
+    representations,
+    csv,
+    literaltypes,
+    json,
+    numfields,
+    random,
+    migrations
+  )
