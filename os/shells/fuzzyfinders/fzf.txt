@@ -1,3 +1,5 @@
+https://github.com/junegunn/fzf
+
 releases:
 https://github.com/junegunn/fzf-bin
 
@@ -5,3 +7,10 @@ https://github.com/junegunn/fzf-bin
 
 /etc/profile.d/fzf-extras.bash
 
+fzf
+-i  case insensitive
++s  no sort
+-n1 comma-separated list of field index expressions for limiting search scope. 
+-e  exact
+-x  extended
+--no-extended
