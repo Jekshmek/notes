@@ -1,2 +1,16 @@
 https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter
 https://github.com/commercialhaskell/stack/wiki/Script-interpreter
+
+assoc .hs=Haskell
+ftype Haskell="C:\path\to\stack.exe" "%1" %*
+
+ #!/usr/bin/env stack
+  {- stack
+    --resolver lts-3.2
+    --install-ghc
+    runghc
+    --package base
+    --package turtle
+    --
+    -hide-all-packages
+  -}
