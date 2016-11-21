@@ -1,3 +1,7 @@
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/lang/Character.html
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/lang/CharSequence.html
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/lang/String.html
+
 def s = 'this is a string'
 assert s.getClass() == java.lang.String
 
