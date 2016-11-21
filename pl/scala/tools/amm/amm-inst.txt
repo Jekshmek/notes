@@ -2,8 +2,8 @@ aur/ammonite
 
 http://www.lihaoyi.com/Ammonite/#UnstableVersions
 
-stable (0.7.8):
-$ sudo curl -L -o /usr/local/bin/amm https://git.io/vP4Gw && sudo chmod +x /usr/local/bin/amm
+stable (0.8.0):
+$ sudo curl -L -o /usr/local/bin/amm https://git.io/vXVf5 && sudo chmod +x /usr/local/bin/amm
 
 To begin using Ammonite-Shell, simply download the default predef.sc
 to configure your REPL to be a usable systems shell

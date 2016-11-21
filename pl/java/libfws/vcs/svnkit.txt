@@ -1,6 +1,6 @@
 https://svnkit.com/index.html
 https://wiki.svnkit.com/
-1.8.14
+https://svnkit.com/javadoc/org/tmatesoft/svn/core/io/package-summary.html
 
 <repositories>
     <repository>
@@ -12,7 +12,7 @@ https://wiki.svnkit.com/
 <dependency>
     <groupId>org.tmatesoft.svnkit</groupId>
     <artifactId>svnkit</artifactId>
-    <version>1.8.10</version>
+    <version>1.8.14</version>
 </dependency>
 
 
