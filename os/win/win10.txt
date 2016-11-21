@@ -16,3 +16,6 @@ Check the windows update options and reschedule restart if necessary:
 
 Start
 Settings - Update & Security - Windows Update.
+
+WSL:
+https://github.com/RoliSoft/WSL-Distribution-Switcher
