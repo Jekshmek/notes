@@ -7,3 +7,13 @@ https://steffenschaefer.github.io/gwt-gradle-plugin/doc/latest/project_types
 https://steffenschaefer.github.io/gwt-gradle-plugin/doc/latest/dependencies
 https://steffenschaefer.github.io/gwt-gradle-plugin/doc/latest/configuration
 https://steffenschaefer.github.io/gwt-gradle-plugin/doc/latest/draft_war
+
+Samples:
+gradle --stop
+    rm -rf .gradle/
+
+gradle
+    clean
+    build
+    war
+    jettyRunWar

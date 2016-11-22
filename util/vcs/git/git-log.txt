@@ -100,3 +100,5 @@ git shortlog
 Samples:
 git log --author="Ihar Hancharenka" --oneline
 git log --pretty=format:"%h%x09%aN%x09%s"
+
+git log --name-status --diff-filter="ACDMRT" -1 -U <commit-hash>
