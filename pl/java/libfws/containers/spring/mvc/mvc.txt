@@ -1,0 +1,2 @@
+http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
+https://spring.io/guides/gs/serving-web-content/

@@ -1,2 +1,0 @@
-https://haskell-lang.org/tutorial/stack-script
-https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts

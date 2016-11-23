@@ -1,6 +1,12 @@
 https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter
 https://github.com/commercialhaskell/stack/wiki/Script-interpreter
 
+https://haskell-lang.org/tutorial/stack-script
+https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
+
+FP Complete - Scripting in Haskell
+https://www.youtube.com/watch?v=UVek-DEc_pQ
+
 assoc .hs=Haskell
 ftype Haskell="C:\path\to\stack.exe" "%1" %*
 
