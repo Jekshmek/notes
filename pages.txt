@@ -56,7 +56,7 @@ https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
 
 Books:
-Gurnell - The Type Astronaut's Guide to Shapelss    - 26..39..107
+Gurnell - The Type Astronaut's Guide to Shapelss    - 28..39..107
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
