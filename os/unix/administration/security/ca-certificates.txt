@@ -7,3 +7,11 @@ pacman -Ss ca-certificates ca-certificates-utils ca-certificates-cacert ca-certi
 ca-certificates-java
 man update-ca-trust
 
+centos-7:
+ca-certs package
+/etc/ssl/certs/
+/etc/pki/tls/certs/
+    ca-bundle.crt -> /etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+
+~/.curlrc
+cacert=/etc/ssl/certs/ca-bundle.crt

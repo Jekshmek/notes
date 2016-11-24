@@ -43,9 +43,13 @@ https://chocolatey.org/docs/getting-started#overriding-default-install-directory
    (although you can do the same with notepadplusplus as well).
 
 
-update
+update (deprecated)
     <pgk-name>
     chocolately
+
+upgrade
+    <pkg-name>
+    -y
 
 list
     -l
