@@ -3,6 +3,9 @@ com.google.gwt.user.client.ui.Grid
 https://www.tutorialspoint.com/gwt/gwt_grid_widget.htm
 
 com.google.gwt.user.cellview.client.DataGrid
+    extends AbstractCellTable (which also has a CellTable child)
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/cellview/client/DataGrid.html
+
 ? GUIUtils.fixDataGrid(dataGrid); // chrome-only
 
     interface SomeResources extends DataGrid.Resources {
@@ -39,6 +42,12 @@ SimplePager
 
 .web.admin.client.hierarchy.widgets.table.ResizableDataGrid ?
 ...IconGrid
+
+
+Columns:
+com.google.gwt.user.cellview.client.TextColumn<T>
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/cellview/client/TextColumn.html
+
 
 SO:
 http://stackoverflow.com/questions/7713218/gwt-2-4-datagrid-auto-set-column-width

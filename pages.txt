@@ -6,22 +6,23 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Scaredau - Spring Cloud and Netflix                 - 1:58:00 (of 2:26:09)
-Subramaniam - Reactive Programming                  - 1:32:00 (of 2:36:05)
+Scaredau - Spring Cloud and Netflix                 - 2:12:00 (of 2:26:09)
+Subramaniam - Reactive Programming                  - 1:42:00 (of 2:36:05)
+Odersky - From DOT to Dotty                         -   28:00 (of   54:55)
 Slisenka - DB Transaction Isolation and Locking     -   25:00 (of 1:25:24)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Dorofeev - Group Deprocrustination                  -   20:00 (of 1:43:49)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
-Odersky - From DOT to Dotty                         -   13:00 (of   54:55)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 
 Literature:
+Veller - Diletant Readings Strugatskie              - 1:37:00 (of 1:52:35)
 Bykov - IlfPetrov2016                               -   51:00 (of 1:19:47)
   https://vk.com/video238111554_456239532
-Valberg - Literature                                -   01:00 (of   37:02)
+Valberg - Literature                                -   06:00 (of   37:02)
   https://www.youtube.com/watch?v=lG-AsBWgRw0
 Zubov - Putin                                       -   20:00 (of   54:29)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
@@ -48,7 +49,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 14                                        -   00:00 (of 2:03:03)
 Ivliev - 09                                         -   00:00 (of   33:47)
-Negreev - Mormony                                   - 1:06:00 (of 1:35:37)
+Negreev - First                                     -   00:00 (of 1:04:56)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
