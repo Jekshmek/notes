@@ -45,9 +45,28 @@ http://stackoverflow.com/questions/12751690/gwt-docklayout-panel-in-uibinder
 DockPanel:
 https://www.tutorialspoint.com/gwt/gwt_dockpanel_widget.htm
 
-Grids:
-com.google.gwt.user.client.ui.Grid
-com.google.gwt.user.cellview.client.DataGrid
-com.google.gwt.gen2.table.override.client.Grid
-com.google.gwt.gen2.table.client.FixedWidthGrid
-? IconGrid
+
+CSS:
+import com.google.gwt.resources.client.ClientBundle;
+import com.google.gwt.resources.client.CssResource;
+
+public interface IconGridResources extends ClientBundle {
+    @Source("resources/IconGrid.css") 
+    IconGridResources.IconGridStyle iconGridStyle();
+    
+    interface IconGridStyle extends CssResource {
+        String container();
+        String item();
+        String itemLabel();
+    }
+}
+
+SafeHTML:
+http://stackoverflow.com/questions/13027460/gwt-safe-html-framework-when-to-use-and-why
+http://www.gwtproject.org/doc/latest/DevGuideSecuritySafeHtml.html
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/safehtml/shared/package-summary.html
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/safehtml/client/SafeHtmlTemplates.html
+
+Debug:
+ensureDebugId
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/client/ui/UIObject.html#ensureDebugId(com.google.gwt.dom.client.Element,%20java.lang.String)

@@ -28,3 +28,14 @@ https://confluence.atlassian.com/jira064/advanced-searching-720416661.html
 Assignee = "Valeriy Kotsyubynskyy" and Status = Open and Attachments is not empty
 text ~ "some text to search for"
 Summary ~ "some words"
+
+Widgets:
+Filter Results gadget
+https://jira.cbmain.clarabridge.com/jira/rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml
+
+Filters:
+Issues -> Filters
+https://confluence.atlassian.com/agile/jira-agile-user-s-guide/configuring-a-board/configuring-filters
+
+assignee = currentUser() AND resolution = Unresolved AND project != "zCMP - DEPRECATED" ORDER BY updatedDate DESC
+AND NOT status = closed
