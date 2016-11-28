@@ -1,3 +1,7 @@
 http://www.gwtproject.org/doc/latest/tutorial/RPC.html
+http://www.gwtproject.org/doc/latest/DevGuideServerCommunication.html
+http://www.gwtproject.org/doc/latest/DevGuideCodingBasicsDeferred.html
 
 http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/client/rpc/RemoteService.html
+
+http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/server/rpc/RemoteServiceServlet.html
