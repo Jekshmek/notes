@@ -50,6 +50,8 @@ http://www.slideshare.net/JontheBeach/scala-docker-and-testing-oh-my-mario-camou
 https://www.youtube.com/watch?v=Q1XqOLPhr-k
 https://velvia.github.io/Docker-Scala-Sbt/
 
+https://hackernoon.com/yet-another-sbt-docker-introduction-2d9fb99fe367
+
 datatype:
 http://www.scala-sbt.org/release/docs/Datatype.html
 https://github.com/sbt/sbt-datatype
