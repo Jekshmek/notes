@@ -1,3 +1,6 @@
+https://wiki.archlinux.org/index.php/Systemd-boot
+https://habrahabr.ru/company/centosadmin/blog/315706/
+
 At Grub menu press "e" and add:
 systemd.unit=multi-user.target
 
