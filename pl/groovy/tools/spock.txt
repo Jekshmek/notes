@@ -61,7 +61,8 @@ http://spockframework.github.io/spock/docs/1.0/extensions.html
 @AutoCleanup("dispose")
 @AutoCleanup(quiet = true)
 @Title("This is blah-blah spec") / @Narrative
-@Issue("http://jira-issue")
+@Issue("https://jira-issue")
+@Issue(["https://jira-iss1", "https://jira-iss2"])
 @Rule
 @Subject
     Indicates which objects/classes are the subjects of a specification.
