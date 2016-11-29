@@ -5,6 +5,8 @@ Articles:
 https://blog.pusher.com/top-tips-and-tools-for-optimising-haskell/
 -funfolding-use-threshold=16 -O2 -optc-O3
 
+https://www.stackbuilders.com/tutorials/haskell/ghc-optimization-and-fusion/
+
 
 Presentations:
 
