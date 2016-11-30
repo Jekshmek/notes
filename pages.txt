@@ -6,20 +6,20 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Subramaniam - Reactive Programming                  - 1:53:00 (of 2:36:05)
+Subramaniam - Reactive Programming                  - 2:00:00 (of 2:36:05)
 Odersky - From DOT to Dotty                         -   45:40 (of   54:55)
+Dorofeev - Group Deprocrustination                  -   30:00 (of 1:43:49)
+EPAM microservices accelerator                      -   26:00 (of 1:39:03)
 Slisenka - DB Transaction Isolation and Locking     -   25:00 (of 1:25:24)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Dorofeev - Group Deprocrustination                  -   20:00 (of 1:43:49)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
-EPAM microservices accelerator                      -   14:00 (of 1:39:03)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Skaredau - Microservices Architecture Overview      -   05:00 (of 1:10:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - IlfPetrov2016                               -   51:00 (of 1:19:47)
+Bykov - IlfPetrov2016                               - 1:15:00 (of 1:19:47)
   https://vk.com/video238111554_456239532
 Valberg - Literature                                -   27:00 (of   37:02)
   https://www.youtube.com/watch?v=aHZ4nzvP5Rc
@@ -32,7 +32,9 @@ Petrovsky - TBB                                     -   14:00 (of 1:01:20)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov-BabelNovels2016                               -   09:00 (of 1:19:31)
   https://vk.com/video238111554_456239531
-Bykov - Pushkin Dramaturky                          -   06:30 (of 1:19:37)
+Bykov - Pushkin Dramaturgy                          -   06:30 (of 1:19:37)
+Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
+  https://vk.com/video-2048479_456239163
 Bykov - Police Films                                -   04:00 (of   59:56)
   https://vk.com/video238111554_456239524
 Bykov - God Problem                                 -   04:00 (of 1:41:24)
@@ -41,7 +43,7 @@ Bykov - Pushking - Medny Vsadnik                    -   00:00 (of 1:00:48)
   https://vk.com/video-2048479_456239070
 
 Science Videos:
-Finster - A survey of Univalent Foundations         - 1:19:00 (of 1:34:13)
+Finster - A survey of Univalent Foundations         - 1:24:30 (of 1:34:13)
 A working class introduction to HoTT                -   15:30 (of   28:53)
 Harper 2015 - 3                                     -   00:00 (of )
 
@@ -52,7 +54,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 15                                        -   05:00 (of 1:40:59)
-Ivliev - 09                                         -   00:00 (of   33:47)
+Ivliev - 10                                         -   00:00 (of   42:01)
 Negreev - First                                     -   00:00 (of 1:04:56)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)

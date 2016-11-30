@@ -23,6 +23,9 @@ macro:
 https://github.com/groupoid/exe/blob/master/priv/Macro/macross-0/guidelines
 https://github.com/groupoid/exe/blob/master/priv/Macro/macro.new/guidelines
 
+Encodings:
+http://maxim.livejournal.com/492132.html
+
 church-encoding:
 om - 2016/01/12
     + Odersky+CT
