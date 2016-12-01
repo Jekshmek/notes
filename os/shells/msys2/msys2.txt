@@ -1,7 +1,6 @@
 http://sourceforge.net/projects/msys2/
 
 http://msys2.github.io/
-https://github.com/Alexpux/MSYS2-packages
 
 GHC on MSYS2:
 https://ghc.haskell.org/trac/ghc/wiki/Building/Preparation/Windows
@@ -31,12 +30,6 @@ pacman -S bash-completion vim git openssh dos2unix man-pages-posix
 mingw install:
 https://github.com/rust-lang/rust
 
-pacman -Sy pacman-mirrors
-
-# Choose one based on platform:
-$ pacman -S mingw-w64-i686-toolchain
-$ pacman -S mingw-w64-x86_64-toolchain
-
 $ pacman -S base-devel
 
 simplistic-way:
@@ -54,7 +47,6 @@ mingw-devel
 
 mintty:
 https://github.com/mavnn/mintty-colors-solarized
-
 
 
 
@@ -99,9 +91,3 @@ mkgroup -c > /etc/group
 
 slow bash-completion
 /etc/profile.d/bash_completion.sh
-
-
-Interesing packages
-mingw-w64-x86_64-ag
-    ag - the silver searcher
-    (? choco install ag)

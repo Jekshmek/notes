@@ -1,0 +1,18 @@
+https://github.com/Alexpux/MSYS2-packages
+https://github.com/Alexpux/MSYS2-packages/tree/master/mingw-w64-cross-conemu-git
+
+https://sourceforge.net/projects/msys2/files/REPOS/MSYS2/x86_64/
+
+
+Interesing packages
+mingw-w64-x86_64-ag
+    ag - the silver searcher
+    (? choco install ag)
+
+mingw-w64-cross-conemu-git
+
+pacman -Sy pacman-mirrors
+
+# Choose one based on platform:
+$ pacman -S mingw-w64-i686-toolchain
+$ pacman -S mingw-w64-x86_64-toolchain
