@@ -10,6 +10,7 @@ mingw-w64-x86_64-ag
     (? choco install ag)
 
 mingw-w64-cross-conemu-git
+mingw-w64-x86_64-icu
 
 pacman -Sy pacman-mirrors
 
