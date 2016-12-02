@@ -147,6 +147,9 @@ https://github.com/zraffer
 Spievak - CT for scientists:
 https://github.com/zeitraffer/tex-cats/releases
 
+Rust-CPS:
+http://maxim.livejournal.com/492713.html
+
 https://gitter.im/groupoid/om/archives/
     2016/02/20
 https://gitter.im/groupoid/exe/archives/
