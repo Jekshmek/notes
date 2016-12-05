@@ -26,4 +26,23 @@ mkgroup -c > /etc/group
 
 
 slow bash-completion
+/usr/share/bash-completion/bash_completion
 /etc/profile.d/bash_completion.sh
+
+~* is used inside /usr/share/bash-completion/bash_completion. Disabling it can solve the problem.
+
+--- /usr/share/bash-completion/bash_completion.org
++++ /usr/share/bash-completion/bash_completion
+@@ -542,9 +542,9 @@
+     elif [[ $1 == \'* ]]; then
+         # Leave out first character
+         printf -v $2 %s "${1:1}"
+-    elif [[ $1 == ~* ]]; then
+-        # avoid escaping first ~
+-        printf -v $2 ~%q "${1:1}"
++    #elif [[ $1 == ~* ]]; then
++    #    # avoid escaping first ~
++    #    printf -v $2 ~%q "${1:1}"
+     else
+         printf -v $2 %q "$1"
+     fi
