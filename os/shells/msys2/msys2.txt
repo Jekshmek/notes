@@ -1,6 +1,8 @@
 http://msys2.github.io/
 http://sourceforge.net/projects/msys2/
 
+http://sourceforge.net/projects/msys2/
+
 GHC on MSYS2:
 https://ghc.haskell.org/trac/ghc/wiki/Building/Preparation/Windows
 
