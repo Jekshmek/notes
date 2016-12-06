@@ -9,6 +9,7 @@ http://gatling.io/#/cheat-sheet/2.2.1
 https://github.com/lkishalmi/gradle-gatling-plugin
 https://github.com/buhe/gradle-gatling-plugin
 https://github.com/alphagov/gradle-gatling-plugin
+https://github.com/mraible/21-points/blob/master/gradle/gatling.gradle
 
 http://gatling.io/docs/2.2.1/http/index.html
 http://gatling.io/docs/2.2.1/http/http_protocol.html
