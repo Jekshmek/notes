@@ -1,8 +1,0 @@
-Boehm-Berarducci:
-https://github.com/Gabriel439/Haskell-Annah-Library/blob/master/src/Annah/Core.hs#L400-L503
-
-Vector
-https://gitter.im/groupoid/om/archives/2016/01/10 - 11
-
-List:
-http://sigil.place/talk/1/List/tail.annah

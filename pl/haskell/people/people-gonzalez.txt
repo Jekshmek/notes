@@ -192,6 +192,10 @@ generics:
 http://hackage.haskell.org/package/server-generic
 http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html
 
+Dhall - cfg:
+http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.html
+https://www.reddit.com/r/haskell/comments/5go3sb/dhall_a_nonturingcomplete_configuration_language/
+
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html

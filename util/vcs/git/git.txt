@@ -19,6 +19,10 @@ http://www.slideshare.net/chacon/getting-git
 http://www.infoq.com/presentations/A-Tale-of-Three-Trees
   working-dir, index/staging, repo/head
 
+Smith - Knowledge is Power
+http://www.slideshare.net/tarkasteve/knowledge-is-power-getting-out-of-trouble-by-understanding-git
+https://www.youtube.com/watch?v=sevc6668cQ0
+
 Ceatsheets:
 http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 
@@ -32,3 +36,4 @@ http://www.cs.cmu.edu/~soonhok/talks/20140519_Git.pdf
 
 man:
 git everyday
+

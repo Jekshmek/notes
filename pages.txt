@@ -6,9 +6,8 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+EPAM microservices accelerator                      - 1:17:00 (of 1:39:03)
 Dorofeev - Group Deprocrustination                  -   58:00 (of 1:43:49)
-EPAM microservices accelerator                      -   55:00 (of 1:39:03)
-Skaredau - Microservices Architecture Overview      -   53:00 (of 1:10:17)
 Slisenka - DB Transaction Isolation and Locking     -   25:00 (of 1:25:24)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
@@ -24,15 +23,13 @@ Bykov-BabelNovels2016                               -   31:00 (of 1:19:31)
   https://vk.com/video238111554_456239531
 Kaminskaya                                          -   25:00 (of 1:11:00)
   https://www.youtube.com/watch?v=7Fa8mhPRiYg
+Bykov - Stru                                        -   22:00 (of   53:53)
+  https://www.youtube.com/watch?v=3C-yUTBuNQA
 Bykov - Pushkin Dramaturgy                          -   21:30 (of 1:19:37)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Dolin - About                                       -   16:00 (of 1:3....)
   https://www.youtube.com/watch?v=argftiwR_3A
-Bykov - Fantastics                                  -   15:00 (of   59:58)
-  https://vk.com/video238111554_456239549
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov - Stru                                        -   09:00 (of   53:53)
-  https://www.youtube.com/watch?v=3C-yUTBuNQA
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
 Bykov - Police Films                                -   04:00 (of   59:56)
@@ -41,7 +38,6 @@ Bykov - Pushking - Medny Vsadnik                    -   00:00 (of 1:00:48)
   https://vk.com/video-2048479_456239070
 
 Science Videos:
-Finster - A survey of Univalent Foundations         - 1:29:00 (of 1:34:13)
 A working class introduction to HoTT                -   15:30 (of   28:53)
 Harper 2015 - 3                                     -   00:00 (of )
 
@@ -54,7 +50,7 @@ Audio:
 P2                                                  -   37:00 (of 2:04:57)
 Paschenko 16                                        -   00:00 (of 1:54:26)
 Sorokin - Family in Bible                           - 2:22:00 (of 3:39:34)
-Ivliev - 10                                         -   00:00 (of   42:01)
+Ivliev - 11                                         -   00:00 (of   42:16)
 Negreev - First                                     -   00:00 (of 1:04:56)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
@@ -63,7 +59,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 
 Tracking:
-Razbor Poletov                                      - 121 23:00 (of 2:32:01)
+Razbor Poletov                                      - 121 53:00 (of 2:32:01)
 Bananas and Lens                                    - 36
 https://www.fpcomplete.com/recent-content           - 2 May
 http://accu.org/index.php/journals/c78/             - 134
