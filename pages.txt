@@ -61,11 +61,11 @@ Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 Tracking:
 Razbor Poletov                                      - 121 53:00 (of 2:32:01)
 Bananas and Lens                                    - 36
-https://www.fpcomplete.com/recent-content           - 2 May
+https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
 
 Books:
-Gurnell - The Type Astronaut's Guide to Shapelss    - 43..50..107
+Gurnell - The Type Astronaut's Guide to Shapelss    - 44..50..107
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
