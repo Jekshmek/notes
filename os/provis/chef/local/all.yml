@@ -66,7 +66,12 @@ suites:
           nexus-repo: 'http://192.168.235.101:8081/content/repositories'
           # yum-repo: 'http://192.168.0.103:8080'
           # nexus-repo: 'http://192.168.0.103:8080/content/repositories'
-          eureka-host: '192.168.235.61'
+        eureka:
+          instanceZone: 'usZone'
+          availabilityZones: 'usZone,emeaZone'
+          us:
+            nodemap:
+              eur-us-1: '192.168.235.61'
         prediction:
           chef-test: false
 
