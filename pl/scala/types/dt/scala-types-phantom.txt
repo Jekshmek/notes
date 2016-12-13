@@ -1,3 +1,7 @@
+Seeberger - Phantom Types in Scala
+https://blog.codecentric.de/en/2016/02/phantom-types-scala
+https://github.com/hseeberger/demo-phantom-types
+
 Zhizhelev - Scala Type System in Applied Problems
 https://www.youtube.com/watch?v=Cr0j6eh8P7I
 
