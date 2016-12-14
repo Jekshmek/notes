@@ -1,4 +1,9 @@
+http://julien-truffaut.github.io/Monocle/
 https://github.com/julien-truffaut/Monocle
+
+Samples:
+https://julien-truffaut.github.io/jsonpath.pres
+https://github.com/julien-truffaut/jsonpath.pres
 
 Presentations:
 http://www.slideshare.net/IlanGodik/optics-with-monocle-modeling-the-part-and-the-whole
