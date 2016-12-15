@@ -14,18 +14,17 @@ Tasbolatov - Machine Learning with Python           -   14:00 (of 1:20:14)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
+Burmako - Scala Macro                               -   03:00 (of   45:00)
+  https://skillsmatter.com/skillscasts/9044-a-new-macro-system-for-scala
 
 Literature:
-Veller - Han                                        - 1:00:00 (of 1:12:24)
-  https://www.youtube.com/watch?v=tt_EYJ5VId4
-Veller - Psycho                                     -   43:00 (of 1:57:45)
+Veller - Psycho                                     - 1:20:00 (of 1:57:45)
+Bykov-BabelNovels2016                               -   48:00 (of 1:19:31)
+  https://vk.com/video238111554_456239531
 Veller - Diletant Reading                           -   34:00 (of 2:02:44)
   https://www.youtube.com/watch?v=SEauiE1j5js
-Zubov - Putin                                       -   51:35 (of   54:29)
 Zubov - 2                                           -   18:00 (of   19:50)
   https://www.youtube.com/watch?v=4k-4LPFW2Ac
-Bykov-BabelNovels2016                               -   31:00 (of 1:19:31)
-  https://vk.com/video238111554_456239531
 Zubov - Liberals                                    -   25:00 (of 1:51:34)
   https://www.youtube.com/watch?v=2HAC6PF41Uw
 Kaminskaya                                          -   25:00 (of 1:11:00)
@@ -61,7 +60,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 P2                                                  - 1:02:00 (of 2:04:57)
 Ivliev - 12                                         -   00:00 (of   49:57)
-Negreev - TeloHristovo                              -   00:00 (of 1:12:56)
+Negreev - Sh1                                       -   00:00 (of ?)
 Paschenko 19                                        -   00:00 (of 1:51:57)
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
