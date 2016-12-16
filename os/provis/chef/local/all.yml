@@ -128,3 +128,5 @@ suites:
           us:
             nodemap:
               eur-us-1: '192.168.235.61'
+        industryTemplate:
+          build: '1'
