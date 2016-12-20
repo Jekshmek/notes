@@ -1,0 +1,7 @@
+https://docs.chef.io/chef_vault.html
+https://github.com/chef/chef-vault
+https://blog.chef.io/2016/01/21/chef-vault-what-is-it-and-what-can-it-do-for-you/
+https://blog.chef.io/2013/09/19/managing-secrets-with-chef-vault/
+
+https://github.com/chef-cookbooks/chef-vault
+https://github.com/chef-cookbooks/chef-vault/blob/master/libraries/helpers.rb
