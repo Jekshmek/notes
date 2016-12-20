@@ -1,0 +1,1 @@
+https://github.com/sethvargo/chefspec/blob/master/lib/chefspec/api/http_request.rb
