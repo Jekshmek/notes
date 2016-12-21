@@ -1,9 +1,11 @@
 https://github.com/lostisland/faraday
 http://www.rubydoc.info/gems/faraday
 
-https://github.com/lostisland/faraday_middleware
-http://www.rubydoc.info/gems/faraday_middleware/
-http://mislav.net/2011/07/faraday-advanced-http/
+connection = Faraday.new("http://google.com/") do |faraday|
+  faraday.use MyMiddleware
+  faraday.adapter Faraday.default_adapter
+end
+
 
 http://zetcode.com/web/rubyfaraday/
 
@@ -18,6 +20,14 @@ http://www.rubydoc.info/github/lostisland/faraday/Faraday%2FConnection%3Aauthori
 https://github.com/lostisland/faraday/issues/144
 https://github.com/lostisland/faraday/issues/127
 https://github.com/lostisland/faraday/issues/597
+https://github.com/lostisland/faraday/issues/57
+https://github.com/lostisland/faraday/pull/60
+https://github.com/lostisland/faraday/issues/127
+
+https://github.com/lostisland/faraday/blob/master/lib/faraday/request.rb
+https://github.com/lostisland/faraday/blob/master/lib/faraday/request/authorization.rb
+https://github.com/lostisland/faraday/blob/master/lib/faraday/request/basic_authentication.rb
+https://github.com/lostisland/faraday/blob/master/lib/faraday/request/token_authentication.rb
 
 https://github.com/lostisland/faraday/blob/master/lib/faraday/connection.rb
 

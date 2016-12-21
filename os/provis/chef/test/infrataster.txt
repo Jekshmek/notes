@@ -80,3 +80,15 @@ cfg:
 ssl:
 http resource support ssl option which is passed to Faraday.new
 :ssl => {:verify => false}
+
+middleware:
+
+# Custom Faraday middleware
+  describe http('http://app.example.com', faraday_middleware: [
+    YourMiddleware,
+    [YourMiddleware, options]
+  ]) do
+    it "uses the middlewares" do
+      expect(response.status).to eq(200)
+    end
+  end

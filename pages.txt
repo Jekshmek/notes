@@ -9,7 +9,7 @@ Video:
 Dorofeev - Group Deprocrustination                  - 1:34:42 (of 1:43:49)
 Slisenka - DB Transaction Isolation and Locking     -   37:00 (of 1:25:24)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Burmako - Scala Macro                               -   16:00 (of   45:00)
+Burmako - Scala Macro                               -   23:00 (of   45:00)
   https://skillsmatter.com/skillscasts/9044-a-new-macro-system-for-scala
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 Tasbolatov - Machine Learning with Python           -   14:00 (of 1:20:14)
@@ -18,9 +18,11 @@ Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Kiyv                                        -   47:00 (of 1:00:53)
+Bykov - Kiyv                                        -   53:00 (of 1:00:53)
 Kaminskaya                                          -   47:00 (of 1:11:00)
   https://www.youtube.com/watch?v=7Fa8mhPRiYg
+Bykov - Invalids                                    -   33:00 (of 1:10:20)
+  https://vk.com/video238111554_456239573
 Zubov - Liberals                                    -   25:00 (of 1:51:34)
   https://www.youtube.com/watch?v=2HAC6PF41Uw
 Bykov - Pushkin Dramaturgy                          -   23:00 (of 1:19:37)
@@ -55,7 +57,7 @@ Audio:
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 P2                                                  - 1:06:00 (of 2:04:57)
 Ivliev - 13                                         -   00:00 (of   49:50)
-Negreev - Sh1                                       -   00:00 (of 1:46:38)
+Negreev - Sh2                                       -   00:00 (of 1:58:55)
 Paschenko 19                                        -   00:00 (of 1:51:57)
 Sorokin - Ways                                      -   34:00 (of 2:19:17)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
@@ -65,7 +67,7 @@ Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 Sorokin - A 2                                       -   00:00 (of ??)
 
 Tracking:
-Razbor Poletov                                      - 123 1:21:00 (of 2:04:53)
+Razbor Poletov                                      - 123
 Bananas and Lens                                    - 36
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
