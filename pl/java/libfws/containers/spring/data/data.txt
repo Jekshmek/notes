@@ -1,0 +1,7 @@
+http://docs.spring.io/spring-data/jdbc/docs/current/reference/html/
+http://docs.spring.io/spring-data/jdbc/docs/current/reference/htmlsingle/
+
+QueryDSL:
+http://docs.spring.io/spring-data/jdbc/docs/current/reference/html/core.querydsl.html
+https://github.com/querydsl/querydsl/tree/master/querydsl-sql-spring
+https://github.com/querydsl/querydsl/tree/master/querydsl-examples/querydsl-example-sql-spring

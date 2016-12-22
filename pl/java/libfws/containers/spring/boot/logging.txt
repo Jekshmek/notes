@@ -1,0 +1,4 @@
+logback:
+https://springframework.guru/using-yaml-in-spring-boot-to-configure-logback/
+https://springframework.guru/using-logback-spring-boot/
+https://springframework.guru/logback-configuration-using-groovy/
