@@ -21,6 +21,7 @@ git-lfs:
 	editor = vim
 	autocrlf = input
 	excludesfile = ~/.gitignore-global
+	excludesfile = ~/.gitignore_global
 [push]
 	default = tracking
 [branch]
@@ -30,3 +31,5 @@ git-lfs:
 username, email:
 http://alvinalexander.com/git/git-show-change-username-email-address
 
+ignoring:
+https://help.github.com/articles/ignoring-files/
