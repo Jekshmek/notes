@@ -1,0 +1,1 @@
+http://www.cakesolutions.net/teamblogs/improving-workflow-with-local-sbt-files
