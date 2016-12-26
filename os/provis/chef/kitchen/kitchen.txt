@@ -31,6 +31,9 @@ Kitchen:
         login
             login to the running test kitchen
 
+logging
+    -l debug
+
 defaults:
     --driver=kitchen-vagrant
 environments:
@@ -106,9 +109,6 @@ suites:
           log_level: ":info"
     excludes:
       - windows2012r2min
-
-plugins:
-https://github.com/test-kitchen/kitchen-vagrant
 
 driver:
   network:
