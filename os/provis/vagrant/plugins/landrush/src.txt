@@ -1,16 +1,3 @@
-https://github.com/vagrant-landrush/landrush
-
-Vagrant.configure("2") do |c|
-  c.landrush.enabled = true if Vagrant.has_plugin?("landrush")
-  c.landrush.guest_redirect_dns = false
-  #c.landrush.host_ip_address = '192.168.235.64'
-end
-
-https://developers.redhat.com/blog/2016/05/27/use-vagrant-landrush-to-add-dns-features-to-your-openshift-cdk-machine/
-http://askubuntu.com/questions/152593/command-line-to-list-dns-servers-used-by-my-system
-
-curl -XGET http://10.0.2.2:8080/content/repositories/releases/clarabridge/cb-deep-thought/1.1.0/
-
 SRC (at lib/):
 
 landrush.rb:
@@ -35,10 +22,6 @@ require 'landrush/version'
 require 'landrush-ip'
 
 lib/landrush/plugin.rb
-
-deprecated:
-vagrant-kvm
-
 
 landrush/store.rb:
 

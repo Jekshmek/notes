@@ -33,7 +33,7 @@ suites:
       name: vagrant
       vm_hostname: nlp-vector-provider.vagrant.test
       vagrantfiles:
-        - Vagrant-landrush.rb 
+        - ../../vagrant/landrush/landrush.rb 
       customize: 
         memory: 8192
         # memory: 15062
@@ -59,6 +59,9 @@ suites:
       - recipe[cb-prediction::kitchen-native]
     driver:
       name: vagrant
+      vm_hostname: nlp-prediction.vagrant.test
+      vagrantfiles:
+        - ../../vagrant/landrush/landrush.rb 
       customize: 
         memory: 4096
       network:
@@ -117,7 +120,7 @@ suites:
       name: vagrant
       vm_hostname: nlp-template.vagrant.test
       vagrantfiles:
-        - Vagrant-landrush.rb 
+        - ../../vagrant/landrush/landrush.rb 
       customize: 
         memory: 4096
       network:

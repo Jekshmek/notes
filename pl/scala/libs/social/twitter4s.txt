@@ -1,0 +1,2 @@
+https://danielasfregola.com/2015/12/07/twitter4s-a-scala-client-for-the-twitter-api/
+https://github.com/DanielaSfregola/twitter4s

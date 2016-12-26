@@ -1,4 +1,10 @@
+http://stackoverflow.com/questions/1261975/addressing-localhost-from-a-virtualbox-virtual-machine
+
 10.0.2.2
     ?? host
+
 10.0.2.3
-    ??
+http://serverfault.com/questions/453185/vagrant-virtualbox-dns-10-0-2-3-not-working
+
+DNS
+    natdnshostresolver1

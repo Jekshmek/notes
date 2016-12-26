@@ -1,4 +1,9 @@
+vagrant box
+    --help
+    update --box <box>
+
 atlas: 
+bento/centos-7.2
 bento/centos-6.7
 hfm4/centos7
 
