@@ -72,15 +72,3 @@ vagrant-lxc
 
 DNS:
 landrush
-https://github.com/vagrant-landrush/landrush
-
-Vagrant.configure("2") do |c|
-  c.landrush.enabled = true if Vagrant.has_plugin?("landrush")
-  c.landrush.guest_redirect_dns = false
-  #c.landrush.host_ip_address = '192.168.235.64'
-end
-
-
-deprecated:
-vagrant-kvm
-

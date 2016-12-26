@@ -1,7 +1,3 @@
-openvpn:
-openvpn-networkmanager
-http://askubuntu.com/questions/187511/how-can-i-use-a-ovpn-file-with-network-manager
-
 nmcli:
 http://www.unixmen.com/basics-networkmanager-command-line-tool-nmcli/
 
