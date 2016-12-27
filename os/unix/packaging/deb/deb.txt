@@ -1,0 +1,7 @@
+https://habrahabr.ru/post/40183/
+https://habrahabr.ru/post/78094/
+https://habrahabr.ru/post/72633/
+
+http://www.debian.org/doc/debian-policy/
+http://www.opennet.ru/docs/RUS/debian_pkg/deb.html
+https://wiki.ubuntu.com/PackagingGuide/Basic?action=show&redirect=HowToBuildDebianPackagesFromScratch/
