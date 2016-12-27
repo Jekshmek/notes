@@ -7,17 +7,15 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
+Kharkevich - Skype Bot                              -   16:00 (of   53:17)
+ScalaTest                                           -   15:00 (of 1:54:02)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 Tasbolatov - Machine Learning with Python           -   14:00 (of 1:20:14)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
-Kharkevich - Skype Bot                              -   07:00 (of   53:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Zubov - Liberals                                    - 1:45:00 (of 1:51:34)
-Veller - Paradoxes of Russia                        -   31:00 (of 1:09:38)
-Bykov - After Trifonov                              -   26:00 (of   54:58)
 Bykov - Pushkin Dramaturgy                          -   23:00 (of 1:19:37)
 Veller - Love 1                                     -   23:00 (of   43:38)
   https://www.youtube.com/watch?v=jvo0FeX6DUA
@@ -29,8 +27,6 @@ Dolin - About                                       -   16:00 (of 1:3....)
   https://www.youtube.com/watch?v=argftiwR_3A
 Stru - Oldi                                         -   14:00 (of 1:02:43)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov - USSR                                        -   08:00 (of   59:57)
-  https://vk.com/video238111554_456239587
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
 Bykov - Police Films                                -   04:00 (of   59:56)
@@ -51,7 +47,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
 P2                                                  - 1:06:00 (of 2:04:57)
-Ivliev - 13                                         -   00:00 (of   49:50)
+Ivliev - 14                                         -   00:00 (of   48:45)
 Negreev - Sh2                                       -   00:00 (of 1:58:55)
 Paschenko 2                                         -   00:00 (of 2:31:12)
 Osipov - 1                                          -   20:00 (of 1:09:28)
