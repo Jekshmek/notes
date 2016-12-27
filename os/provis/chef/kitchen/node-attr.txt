@@ -1,4 +1,7 @@
 http://www.hurryupandwait.io/blog/accessing-chef-node-attributes-from-kitchen-tests
+https://github.com/mwrock/export-node
+https://github.com/test-kitchen/busser-serverspec/issues/8
+https://github.com/test-kitchen/test-kitchen/issues/858
 
 suites:
   - name: my-suite
