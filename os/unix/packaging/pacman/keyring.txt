@@ -6,3 +6,6 @@ sudo pacman -Su
 sudo pacman-key --init
 sudo pacman-key --populate archlinux manjaro
 sudo pacman-key --refresh-keys
+
+https://bbs.archlinux.org/viewtopic.php?id=191954
+http://allanmcrae.com/2015/01/two-pgp-keyrings-for-package-management-in-arch-linux/
