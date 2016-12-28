@@ -56,6 +56,7 @@ suites:
 
     run_list:
       - recipe[cb-prediction::default]
+      - recipe[cb-prediction::export-node]
       - recipe[cb-prediction::kitchen-native]
     driver:
       name: vagrant
@@ -82,6 +83,8 @@ suites:
               eur-us-1: '192.168.235.61'
         prediction:
           chef-test: false
+          pvp-inst:
+            verify: ['es']
 
     # cps
 
@@ -115,7 +118,8 @@ suites:
     # template
     run_list:
       - recipe[cb-template-service::first]
-      - recipe[cb-prediction::kitchen-native]
+      - recipe[cb-template-service::export-node]
+      - recipe[cb-template-service::kitchen-native]
     driver:
       name: vagrant
       vm_hostname: nlp-template.vagrant.test

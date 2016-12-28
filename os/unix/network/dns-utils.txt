@@ -1,4 +1,7 @@
 DNS
+https://habrahabr.ru/post/303446/
+https://tools.ietf.org/html/rfc1912
+
 http://rosenberg.io/2014/08/08/docker-boot2docker-and-dns-resolution-of-containers.html
 
 /etc/nsswitch.conf
