@@ -1,1 +1,4 @@
 http://www.cakesolutions.net/teamblogs/improving-workflow-with-local-sbt-files
+
+classpath:
+http://stackoverflow.com/questions/25158689/how-to-add-custom-resource-directory-to-test-classpath-without-copying-the-files
