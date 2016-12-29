@@ -6,11 +6,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+ScalaTest                                           -   31:00 (of 1:54:02)
+Pavlenko - Making Java 8 more Functional            -   31:00 (of 1:11:42)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Kharkevich - Skype Bot                              -   22:30 (of   53:17)
-ScalaTest                                           -   21:00 (of 1:54:02)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
-Pavlenko - Making Java 8 more Functional            -   10:00 (of 1:11:42)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
@@ -24,11 +23,8 @@ Veller - Love 1                                     -   23:00 (of   43:38)
 Veller - Literature SelfKilling                     -   22:00 (of 3:09:15)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Stru - Oldi                                         -   19:00 (of 1:02:43)
-Veller - Q 2014                                     -   16:00 (of   54:19)
-  https://www.youtube.com/watch?v=rzoyzQOf1dw
 Dolin - About                                       -   16:00 (of 1:3....)
   https://www.youtube.com/watch?v=argftiwR_3A
-Veller - Maltus                                     -   12:00 (of   38:09)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
@@ -58,7 +54,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - Family 1                                  -   11:00 (of 3:39:34)
+Sorokin - Family 1                                  - 1:31:00 (of 3:39:34)
 Sorokin - A 2                                       -   00:00 (of ??)
 
 Tracking:

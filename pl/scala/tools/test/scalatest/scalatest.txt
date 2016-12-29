@@ -6,9 +6,6 @@ http://tudorzgureanu.com/whats-new-in-scalatest-3/
 samples:
 https://github.com/ScaleChain/scalechain/blob/master/scalechain-script/src/test/scala/io/scalechain/blockchain/script/ArithmeticSpec.scala
 
-matchers:
-http://www.scalatest.org/user_guide/using_matchers
-
 intercept:
 test("...") {
     intercept[NoSuchElementException] {
@@ -16,57 +13,7 @@ test("...") {
     }
 }
 
-Tagging:
-
-import org.scalates.Tag
-object SlowTest extends Tag("com.mycompany.tags.SlowTest")
-object DbTest extends Tag("com.mycompany.tags.DbTest")
-import org.scalatest.FlatSpec
-class ExampleSpec extends FlatSpec {
-    "The Scala language" must "add correctly" taggedAs(SlowTest) in {
-        val sum = 1 + 1
-        assert(sum === 2)
-    }
-    it must "subtract correctly" taggedAs(SlowTest, DbTest) in {
-        val diff = 4 - 1
-        assert(diff === 3)
-    }
-}
-
-sbt
-> testOnly *ExampleSpec -- -l com.mycompaty.tags.SlowTest // Exclude SlowTest-s
-
-Exceptions:
-
-an [IndexOutOfBoundsException] should be thrownBy s.charAt(-1)
-
-val thrown = the [IndexOutOfBoundsException] should be thrownBy s.charAt(-1)
-thrown.getMessage should equal ("String index out of range: -1") 
-
-the [ArithmeticException] thrown by 1 / 0 should have message "/by zero"
-the [IndexOutOfBoundsException] thrownBy {
-    s.charAt(-1)
-} should have message "String index out of range: -1"
-
-
-Mockito Sugar
-
-// First, create the mock object
-val mockCollaborator = mock[Collaborator]
-
-// Create the class under test and pass the mock to it
-classUnderTest = new ClassUnderTest
-classUnderTest.addListener(mock)
-
-// Use the class under test
-classUnderTest.addDocument("Document", new Array[Byte](0))
-classUnderTest.addDocument("Document", new Array[Byte](0))
-
-// Then verify the class under test used the mock object as expected
-verify(mockCollaborator).documentAdded("Document")
-verify(mockCollaborator, times(2)).documentChanged("Document")
-
-Inside
+Inside (? mockito sugar)
 
 // For example, given the following case classes:
 case class Address(street: String, city: String, state: String, zip: String)
@@ -87,14 +34,3 @@ inside (rec) { case Record(name, address, age) =>
     }
     age should be < 99
 }
-
-StreamlinedXml
-
-<summer><day></day><night>with logs of start</night></summer>
-
-xmlElem should equal(<summer>
-    <day></day>
-    <night>
-        with lots of start
-    </night>
-</summer>) (after being streamlined[Elem])

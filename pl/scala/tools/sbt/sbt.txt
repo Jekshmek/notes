@@ -25,9 +25,6 @@ Common Commands
     reload        - reload modified project description (build.sbt)
     update        - downloads dependencies
     compile       - compiles source
-    test          - runs tests
-    test:compile
-    test-only
 
     package       - creates a publishable jar file
     package-doc
@@ -44,8 +41,6 @@ Common Commands
     console
     console-quick - ... without compiling everything before
     console-procect ... for plugin dev
-    test:console
-    test:console-quick ... with test-dependencies
 
 Evaluation:
     eval
