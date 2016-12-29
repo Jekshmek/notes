@@ -1,11 +1,11 @@
+https://monix.io/
+
 https://gitter.im/monixio/monix/archives/
 2016/09/06
 
-https://monix.io/docs/2x/reactive/observable.html
-https://monix.io/docs/2x/reactive/consumer.html
-
 Presentations:
 https://monix.io/public/pdfs/Akka-Monix.pdf
+https://monix.io/public/pdfs/Monix-Task.pdf
 
 API:
 https://monix.io/api/2.0/index.html
@@ -14,10 +14,19 @@ src:
 
 Observable:
 https://monix.io/docs/2x/reactive/observable.html
+https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/Observable.scala
 
         .range(0, 10)
         .fromIterable(0 until 10)
+        .fromInputStream(...)
         .fromLinesReader(...)
+        .fromFuture(...)
+        .fromTask(...)
+        .tailRecM(...) ???
+        .fromStateAction(...)
+        .fromAsyncStateAction(...)
+
+https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/internal/builders/FutureAsObservable.scala
 
 
 Observer:
@@ -78,8 +87,8 @@ https://github.com/monixio/monix/blob/master/monix-execution/shared/src/main/sca
         implicit val scheduler = Scheduler.io(name="my-io", executionModel = SynchronousExecution)
         implicit val scheduler = Scheduler.singleThread(name="my-th", executionModel = SynchronousExecution)
 
-
 Task:
+https://monix.io/public/pdfs/Monix-Task.pdf
 https://monix.io/docs/2x/eval/task.html
     + reporter for scheduler
 monix-eval/shared/src/main/scala/monix/eval/Task.scala
@@ -87,3 +96,7 @@ monix-eval/shared/src/main/scala/monix/eval/Task.scala
 Coeval:
 https://monix.io/docs/2x/eval/coeval.html
 Coeval is a data type for controlling synchronous, possibly lazy evaluation, useful for describing lazy expressions and for controlling side-effects
+
+Future Utils:
+https://monix.io/docs/2x/execution/future-utils.html
+https://github.com/monix/monix/blob/master/monix-execution/shared/src/main/scala/monix/execution/FutureUtils.scala
