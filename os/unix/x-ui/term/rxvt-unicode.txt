@@ -70,3 +70,7 @@ http://funloop.org/post/2015-06-25-urxvt-plugins.html
 
 clipboard (std - selection-to-clipboard)
 copy selection to the clipboard each time it's made
+
+Mirrors:
+http://pkgs.fedoraproject.org/repo/pkgs/rxvt-unicode/
+http://pkgs.fedoraproject.org/repo/pkgs/rxvt-unicode/rxvt-unicode-9.22.tar.bz2/93782dec27494eb079467dacf6e48185/rxvt-unicode-9.22.tar.bz2
