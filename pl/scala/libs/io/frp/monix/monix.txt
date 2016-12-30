@@ -12,23 +12,6 @@ https://monix.io/api/2.0/index.html
 
 src:
 
-Observable:
-https://monix.io/docs/2x/reactive/observable.html
-https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/Observable.scala
-
-        .range(0, 10)
-        .fromIterable(0 until 10)
-        .fromInputStream(...)
-        .fromLinesReader(...)
-        .fromFuture(...)
-        .fromTask(...)
-        .tailRecM(...) ???
-        .fromStateAction(...)
-        .fromAsyncStateAction(...)
-
-https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/internal/builders/FutureAsObservable.scala
-
-
 Observer:
 https://github.com/monixio/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/Observer.scala
     + dump
