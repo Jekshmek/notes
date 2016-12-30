@@ -2,3 +2,5 @@ https://github.com/scala/scala-java8-compat
 https://github.com/scalaj/scalaj-collection
 
 http://www.scala-lang.org/api/current/#scala.collection.JavaConversions$
+
+//config.entrySet().asScala.foreach { log.info("e: {}", _) }
