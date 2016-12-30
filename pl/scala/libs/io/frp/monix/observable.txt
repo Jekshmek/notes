@@ -63,6 +63,14 @@ https://github.com/monix/monix/blob/master/monix-execution/shared/src/main/scala
 https://github.com/monix/monix/blob/master/monix-reactive/shared/src/test/scala/monix/reactive/internal/builders/FutureAsObservableSuite.scala
 https://github.com/monix/monix/blob/master/monix-eval/shared/src/test/scala/monix/eval/TaskAsyncSuite.scala
 
+  /** On execution, consumes the source observable
+    * with the given [[Consumer]], effectively transforming the
+    * source observable into a [[monix.eval.Task Task]].
+    */
+  def consumeWith[R](f: Consumer[A,R]): Task[R] =
+    f(self)
+
+
 
 
 https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/observables/ObservableLike.scala

@@ -6,8 +6,8 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-ScalaTest                                           -   31:00 (of 1:54:02)
-Pavlenko - Making Java 8 more Functional            -   31:00 (of 1:11:42)
+ScalaTest                                           - 1:12:00 (of 1:54:02)
+Pavlenko - Making Java 8 more Functional            -   43:00 (of 1:11:42)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
@@ -15,9 +15,7 @@ Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Pushkin Dramaturgy                          -   30:00 (of 1:19:37)
-Bykov - RebuildCuriosis                             -   28:00 (of   59:56)
-  https://vk.com/video-88143709_456240203
+Bykov - Pushkin Dramaturgy                          -   46:00 (of 1:19:37)
 Veller - Love 1                                     -   23:00 (of   43:38)
   https://www.youtube.com/watch?v=jvo0FeX6DUA
 Veller - Literature SelfKilling                     -   22:00 (of 3:09:15)
@@ -54,7 +52,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - Family 1                                  - 1:31:00 (of 3:39:34)
+Sorokin - Family 2                                  -   38:00 (of 3:55:02)
 Sorokin - A 2                                       -   00:00 (of ??)
 
 Tracking:

@@ -2,12 +2,16 @@ https://danielasfregola.com/2015/12/07/twitter4s-a-scala-client-for-the-twitter-
 https://github.com/DanielaSfregola/twitter4s
 
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/entities/Tweet.scala
+
+https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/entities/enums/Language.scala
+
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/http/clients/Client.scala
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/http/clients/rest/search/TwitterSearchClient.scala
 
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/http/unmarshalling/JsonSupport.scala
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/http/unmarshalling/CustomSerializers.scala
 https://github.com/DanielaSfregola/twitter4s/blob/master/src/main/scala/com/danielasfregola/twitter4s/http/unmarshalling/EnumSerializers.scala
+
 
 https://github.com/DanielaSfregola/twitter4s-demo
 https://github.com/DanielaSfregola/twitter4s-demo/blob/master/src/main/scala/rest/SearchAndSaveTweets.scala
