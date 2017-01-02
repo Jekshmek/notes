@@ -111,6 +111,14 @@ https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/
       catch { case NonFatal(ex) => Task.raiseError(ex) }
     }
 
+/** Suppress the duplicate elements emitted by the source Observable.
+  *
+  * WARNING: this requires unbounded buffering.
+  */
+  def distinct: Self[A] =
+    self.liftByOperator(new DistinctOperator[A])
+
+
 https://github.com/monix/monix/blob/master/monix-reactive/shared/src/test/scala/monix/reactive/internal/operators/MapTaskSuite.scala
 
 test("should be cancelable, test #4") { implicit s => // Scheduler
