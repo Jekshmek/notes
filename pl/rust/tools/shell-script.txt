@@ -1,9 +1,26 @@
 https://users.rust-lang.org/t/rust-for-shell-scripting-experiences-request/2628/3
 
+::std::process::Command
+
+https://doc.rust-lang.org/nightly/std/process/struct.Command.html
+https://doc.rust-lang.org/nightly/std/process/struct.Stdio.html
+https://doc.rust-lang.org/nightly/std/process/struct.Child.html
+
+https://github.com/jaredly/itreed/blob/master/lib/kernels/rust/src/compile.rs
+
+
 https://docs.rs/shells/0.2.0/shells/
+https://github.com/Proksima/shells
 http://proksima.github.io/shells-doc/shells/index.html
 
 https://github.com/DanielKeep/cargo-script
 
 https://github.com/krdln/command-macros
 http://krdln.github.io/command-macros/command_macros/index.html
+
+https://github.com/dropbox/rust-subprocess-communicate
+
+
+https://github.com/mgattozzi/pipers
+https://github.com/oconnor663/os_pipe.rs
+https://docs.rs/os_pipe/0.4.0/os_pipe/

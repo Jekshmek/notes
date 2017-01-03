@@ -1,0 +1,1 @@
+https://github.com/fuchsia-mirror/third_party-rust
