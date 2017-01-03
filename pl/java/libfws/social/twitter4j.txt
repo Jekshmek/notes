@@ -48,6 +48,33 @@ public interface TwitterResponse extends java.io.Serializable {
     int READ_WRITE_DIRECTMESSAGES = 3;
 }
 
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/internal-json/java/twitter4j/TwitterResponseImpl.java
+
+/*package*/ abstract class TwitterResponseImpl implements TwitterResponse, java.io.Serializable {
+    private static final long serialVersionUID = 7422171124869859808L;
+    private transient RateLimitStatus rateLimitStatus = null;
+    private final transient int accessLevel;
+
+    public TwitterResponseImpl() {
+        accessLevel = NONE;
+    }
+
+    public TwitterResponseImpl(HttpResponse res) {
+        this.rateLimitStatus = RateLimitStatusJSONImpl.createFromResponseHeader(res);
+        accessLevel = ParseUtil.toAccessLevel(res);
+    }
+
+    @Override
+    public RateLimitStatus getRateLimitStatus() {
+        return rateLimitStatus;
+    }
+
+    @Override
+    public int getAccessLevel() {
+        return accessLevel;
+    }
+}
+
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/account/GetRateLimitStatus.java
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/lambda/RateLimitLambda.java
 
@@ -59,3 +86,44 @@ public interface ResponseList<T> extends TwitterResponse, List<T> {
     @Override
     public RateLimitStatus getRateLimitStatus();
 }
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/internal-json/java/twitter4j/ResponseListImpl.java
+
+class ResponseListImpl<T> extends ArrayList<T> implements ResponseList<T> {
+    private static final long serialVersionUID = 9105950888010803544L;
+    private transient RateLimitStatus rateLimitStatus = null;
+    private transient int accessLevel;
+
+    ResponseListImpl(HttpResponse res) {
+        super();
+        init(res);
+    }
+
+    ResponseListImpl(int size, HttpResponse res) {
+        super(size);
+        init(res);
+    }
+
+    ResponseListImpl(RateLimitStatus rateLimitStatus, int accessLevel) {
+        super();
+        this.rateLimitStatus = rateLimitStatus;
+        this.accessLevel = accessLevel;
+    }
+
+    private void init(HttpResponse res) {
+        this.rateLimitStatus = RateLimitStatusJSONImpl.createFromResponseHeader(res);
+        accessLevel = ParseUtil.toAccessLevel(res);
+    }
+
+    @Override
+    public RateLimitStatus getRateLimitStatus() {
+        return rateLimitStatus;
+    }
+
+    @Override
+    public int getAccessLevel() {
+        return accessLevel;
+    }
+}
+
+? RateLimitStatusJSONImpl
