@@ -1,0 +1,61 @@
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/Twitter.java
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/TwitterImpl.java
+class TwitterImpl extends TwitterBaseImpl implements Twitter {
+
+  SearchResource search();
+
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/api/SearchResource.java
+
+samples:
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/search/SearchTweets.java
+
+public interface SearchResource {
+    QueryResult search(Query query) throws TwitterException;
+}
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/QueryResult.java
+
+public interface QueryResult extends TwitterResponse, java.io.Serializable {
+    long getSinceId();
+    long getMaxId();
+    String getRefreshURL();
+    int getCount();
+    double getCompletedIn();
+    String getQuery();
+    List<Status> getTweets();
+    // Returns a Query instance to fetch next page or null if there is no next page.
+    // @return Query instance to fetch next page
+    Query nextQuery();
+    // test if there is next page
+    // @return if there is next page
+    boolean hasNext();
+}
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/TwitterResponse.java
+
+public interface TwitterResponse extends java.io.Serializable {
+    // Returns the current rate limit status if available.
+    RateLimitStatus getRateLimitStatus();
+
+    // @return application permission model
+    // @see <a href="https://dev.twitter.com/pages/application-permission-model-faq#how-do-we-know-what-the-access-level-of-a-user-token-is">Application Permission Model FAQ - How do we know what the access level of a user token is?</a>
+    int getAccessLevel();
+
+    int NONE = 0;
+    int READ = 1;
+    int READ_WRITE = 2;
+    int READ_WRITE_DIRECTMESSAGES = 3;
+}
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/account/GetRateLimitStatus.java
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-examples/src/main/java/twitter4j/examples/lambda/RateLimitLambda.java
+
+
+??? usages
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/ResponseList.java
+
+public interface ResponseList<T> extends TwitterResponse, List<T> {
+    @Override
+    public RateLimitStatus getRateLimitStatus();
+}

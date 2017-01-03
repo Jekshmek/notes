@@ -22,6 +22,8 @@ https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/
 
   def fromAsyncStateAction[S, A](f: S => Task[(A, S)])(initialState: => S): Observable[A] = new builders.AsyncStateActionObservable(initialState, f)
 
+// ...
+  def fromLinesReader(in: BufferedReader): Observable[String] = new builders.LinesReaderObservable(in)
 
 https://github.com/monix/monix/blob/master/monix-reactive/shared/src/test/scala/monix/reactive/internal/builders/AsyncStateActionObservableSuite.scala
 
