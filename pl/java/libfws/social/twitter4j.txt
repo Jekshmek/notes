@@ -2,6 +2,52 @@ TODO: async to separate file
 
 https://github.com/yusuke/twitter4j/
 
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/test/java/twitter4j/SearchAPITest.java
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/TwitterException.java
+    @Override
+    public RateLimitStatus getRateLimitStatus() {
+        if (null == response) {
+            return null;
+        }
+        return JSONImplFactory.createRateLimitStatusFromResponseHeader(response);
+    }
+    ...
+    public int getRetryAfter() {
+        int retryAfter = -1;
+        if (this.statusCode == 400) {
+            RateLimitStatus rateLimitStatus = getRateLimitStatus();
+            if (rateLimitStatus != null) {
+                retryAfter = rateLimitStatus.getSecondsUntilReset();
+            }
+        } else if (this.statusCode == ENHANCE_YOUR_CLAIM) {
+            try {
+                String retryAfterStr = response.getResponseHeader("Retry-After");
+                if (retryAfterStr != null) {
+                    retryAfter = Integer.valueOf(retryAfterStr);
+                }
+            } catch (NumberFormatException ignore) {
+            }
+        }
+        return retryAfter;
+    }
+    ...
+    /**
+     * Tests if the exception is caused by rate limitation exceed
+     *
+     * @return if the exception is caused by rate limitation exceed
+     * @see <a href="https://dev.twitter.com/docs/rate-limiting">Rate Limiting | Twitter Developers</a>
+     * @since Twitter4J 2.1.2
+     */
+    public boolean exceededRateLimitation() {
+        return (statusCode == 400 && getRateLimitStatus() != null) // REST API
+                || (statusCode == ENHANCE_YOUR_CLAIM) // Streaming API
+                || (statusCode == TOO_MANY_REQUESTS); // API 1.1
+    }
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/api/HelpResources.java
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-async/src/main/java/twitter4j/api/HelpResourcesAsync.java
+    getRateLimitStatus
+
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/Twitter.java
 public interface Twitter extends java.io.Serializable,
     OAuthSupport,
@@ -55,6 +101,16 @@ class TwitterImpl extends TwitterBaseImpl implements Twitter {
     @Override
     public SearchResource search() {
         return this;
+    }
+    ...
+    @Override
+    public Map<String, RateLimitStatus> getRateLimitStatus() throws TwitterException {
+        return factory.createRateLimitStatuses(get(conf.getRestBaseURL() + "application/rate_limit_status.json"));
+    }
+
+    @Override
+    public Map<String, RateLimitStatus> getRateLimitStatus(String... resources) throws TwitterException {
+        return factory.createRateLimitStatuses(get(conf.getRestBaseURL() + "application/rate_limit_status.json?resources=" + StringUtil.join(resources)));
     }
     ...
 }
@@ -241,7 +297,8 @@ https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/test/java/twi
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/internal-json/java/twitter4j/JSONImplFactory.java
 class JSONImplFactory implements ObjectFactory {
     ...
-
+    createRateLimitStatusFromResponseHeader
+    ...
 }
 
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/TwitterObjectFactory.java
@@ -351,6 +408,8 @@ class AsyncTwitterImpl extends TwitterBaseImpl implements AsyncTwitter {
     ...
 }
 
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-async/src/test/java/twitter4j/AsyncTwitterTest.java
+
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-async/src/main/java/twitter4j/TwitterListener.java
 public interface TwitterListener {
     ...
@@ -361,3 +420,74 @@ public interface TwitterListener {
 }
 
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-async/src/main/java/twitter4j/TwitterAdapter.java
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/TwitterBaseImpl.java
+
+abstract class TwitterBaseImpl implements TwitterBase, java.io.Serializable, OAuthSupport, OAuth2Support, HttpResponseListener {
+    private static final String WWW_DETAILS = "See http://twitter4j.org/en/configuration.html for details. See and register at http://apps.twitter.com/";
+    private static final long serialVersionUID = -7824361938865528554L;
+
+    Configuration conf;
+    private transient String screenName = null;
+    private transient long id = 0;
+
+    transient HttpClient http;
+    private List<RateLimitStatusListener> rateLimitStatusListeners = new ArrayList<RateLimitStatusListener>(0);
+
+    ObjectFactory factory;
+
+    Authorization auth;
+    ...
+    @Override
+    public void addRateLimitStatusListener(RateLimitStatusListener listener) {
+        rateLimitStatusListeners.add(listener);
+    }
+    ...
+    @Override
+    public void onRateLimitReached(final Consumer<RateLimitStatusEvent> action) {
+        rateLimitStatusListeners.add(new RateLimitStatusListener() {
+            @Override
+            public void onRateLimitStatus(RateLimitStatusEvent event) {
+            }
+
+            @Override
+            public void onRateLimitReached(RateLimitStatusEvent event) {
+                action.accept(event);
+            }
+        });
+    }
+    ...
+    @Override
+    public void httpResponseReceived(HttpResponseEvent event) {
+        if (rateLimitStatusListeners.size() != 0) {
+            HttpResponse res = event.getResponse();
+            TwitterException te = event.getTwitterException();
+            RateLimitStatus rateLimitStatus;
+            int statusCode;
+            if (te != null) {
+                rateLimitStatus = te.getRateLimitStatus();
+                statusCode = te.getStatusCode();
+            } else {
+                rateLimitStatus = JSONImplFactory.createRateLimitStatusFromResponseHeader(res);
+                statusCode = res.getStatusCode();
+            }
+            if (rateLimitStatus != null) {
+                RateLimitStatusEvent statusEvent
+                        = new RateLimitStatusEvent(this, rateLimitStatus, event.isAuthenticated());
+                if (statusCode == ENHANCE_YOUR_CLAIM
+                        || statusCode == SERVICE_UNAVAILABLE
+                        || statusCode == TOO_MANY_REQUESTS) {
+                    // EXCEEDED_RATE_LIMIT_QUOTA is returned by Rest API
+                    // SERVICE_UNAVAILABLE is returned by Search API
+                    for (RateLimitStatusListener listener : rateLimitStatusListeners) {
+                        listener.onRateLimitStatus(statusEvent);
+                        listener.onRateLimitReached(statusEvent);
+                    }
+                } else {
+                    for (RateLimitStatusListener listener : rateLimitStatusListeners) {
+                        listener.onRateLimitStatus(statusEvent);
+                    }
+                }
+            }
+        }
+    }
