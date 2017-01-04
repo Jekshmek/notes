@@ -1,5 +1,9 @@
 TODO: async to separate file
 
+portions:
+http://stackoverflow.com/a/17888091/932090
+http://stackoverflow.com/questions/18800610/how-to-retrieve-more-than-100-results-using-twitter4j
+
 https://github.com/yusuke/twitter4j/
 
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/test/java/twitter4j/SearchAPITest.java
