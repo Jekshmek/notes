@@ -1,5 +1,5 @@
 scala.util.Try
-http://www.scala-lang.org/archives/downloads/distrib/files/nightly/docs/library/index.html#scala.util.Try
+http://www.scala-lang.org/files/archive/nightly/docs/library/index.html#scala.util.Try
 
 http://mauricio.github.io/2014/02/17/scala-either-try-and-the-m-word.html
 

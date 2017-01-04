@@ -43,6 +43,25 @@ https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twi
                 || (statusCode == ENHANCE_YOUR_CLAIM) // Streaming API
                 || (statusCode == TOO_MANY_REQUESTS); // API 1.1
     }
+    ...
+}
+
+scala:
+    try {
+        ...
+    } catch {
+        case e: TwitterException => {
+            flag = false
+            if (e.exceededRateLimitation()) {
+                val retryAfter = e.getRetryAfter()
+                log.warn("retry after: {}", retryAfter)
+            } else {
+                log.error(e.getMessage(), e)
+            }
+        }
+        case t: Throwable => { log.error(t.getMessage(), t) }
+    }
+
 
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/api/HelpResources.java
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-async/src/main/java/twitter4j/api/HelpResourcesAsync.java
@@ -123,6 +142,8 @@ public interface SearchResource {
     QueryResult search(Query query) throws TwitterException;
 }
 
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/Query.java
+
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/QueryResult.java
 
 public interface QueryResult extends TwitterResponse, java.io.Serializable {
@@ -183,6 +204,10 @@ https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/internal-json
         return accessLevel;
     }
 }
+
+https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/main/java/twitter4j/Status.java
+    String getText();
+    boolean isRetweet();
 
 https://github.com/yusuke/twitter4j/blob/master/twitter4j-core/src/internal-json/java/twitter4j/RateLimitStatusJSONImpl.java
 /*package*/ final class RateLimitStatusJSONImpl implements RateLimitStatus, java.io.Serializable {
@@ -491,3 +516,6 @@ abstract class TwitterBaseImpl implements TwitterBase, java.io.Serializable, OAu
             }
         }
     }
+
+tutorials:
+https://github.com/jasonbaldridge/twitter4j-tutorial/tree/master/src/main/scala
