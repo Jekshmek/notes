@@ -152,3 +152,7 @@ TaskAsObservable.scala
 FutureAsObservable.scala
 AsyncStateActionObservable.scala
 
+creating observables:
+https://github.com/monix/monix/blob/master/monix-reactive/shared/src/main/scala/monix/reactive/internal/builders/IteratorAsObservable.scala
+RepeatOneObservable
+? unsafeSubscribeFn
