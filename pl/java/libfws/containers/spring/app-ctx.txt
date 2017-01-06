@@ -1,0 +1,46 @@
+Why:
+    ServiceLocator
+    PropertiesLocator
+    Injection
+
+
+Application model:
+
+public class FirstService
+    @Autowired
+    public Singleton singleton;
+    @Autowired
+    public Prototype prototype;
+}
+
+public class SecondService
+    @Autowired
+    public Singleton singleton;
+    @Autowired
+    public Prototype prototype;
+}
+
+public class Singleton {
+}
+
+public class Prototype {
+}
+
+public class FactoryBean  {
+}
+
+public class Factory {
+    public static FactoryBean factoryMethod() {
+        return new FactoryBean();
+    }
+}
+
+xml-config
+    <context:annotation-config/>
+    <bean id="firstService" class="..."/> // constructor-arg
+    <bean id="secondService" class="..."/>
+    <bean id="singleton" class="..."/>
+    <bean id="prototype" class="..."
+        scope="prototype"/>
+    <bean id="factoryBean" class="..."
+        factory-method="factoryMethod"/>

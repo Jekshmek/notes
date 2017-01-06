@@ -1,4 +1,10 @@
 URLs:
+https://www.reddit.com/r/rust/?count=976&before=t3_57vj5b
+  This week in servo 81
+https://www.reddit.com/r/rust/?count=975&after=t3_57scme
+https://this-week-in-rust.org/blog/archives/index.html
+  2
+
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -6,11 +12,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-ScalaTest                                           - 1:26:00 (of 1:54:02)
+ScalaTest                                           - 1:35:00 (of 1:54:02)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Sema - ReactJS introduction                         -   08:30 (of   45:05)
+Dzunovich - Diving into Spring App Context Part 1   -   05:00 (of 1:21:28)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
@@ -52,7 +59,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - Family 2                                  -   38:00 (of 3:55:02)
+Sorokin - Family 2                                  - 1:28:00 (of 3:55:02)
 Sorokin - A 2                                       -   00:00 (of ??)
 
 Tracking:

@@ -3,3 +3,5 @@ warning: be sure to add `$CARGO_HOME/.cargo/bin` to your PATH to be able to run 
 cargo
     install --list
         list installed crates/packages
+    new --bin <prj-name>
+    build [--release]
