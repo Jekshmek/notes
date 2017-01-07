@@ -1,0 +1,7 @@
+https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
+
+codegen:
+https://github.com/serde-rs/syntex
+
+controlflow:
+https://github.com/erickt/stateful

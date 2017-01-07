@@ -1,7 +1,6 @@
 URLs:
 https://www.reddit.com/r/rust/?count=976&before=t3_57vj5b
   This week in servo 81
-https://www.reddit.com/r/rust/?count=975&after=t3_57scme
 https://this-week-in-rust.org/blog/archives/index.html
   2
 

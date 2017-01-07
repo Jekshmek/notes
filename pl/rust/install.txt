@@ -19,3 +19,7 @@ https://github.com/Manishearth/rust-clippy/issues/964
 http://stackoverflow.com/questions/27676206/installing-cargo-on-windows-with-rust-from-msys2
 
 https://habrahabr.ru/post/280790/
+
+
+Build:
+https://github.com/fuchsia-mirror/third_party-rust
