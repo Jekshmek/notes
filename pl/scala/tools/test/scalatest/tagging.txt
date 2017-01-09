@@ -13,5 +13,7 @@ class ExampleSpec extends FlatSpec {
     }
 }
 
+class ...Spec extends Tag("tagName")
+
 sbt
 > testOnly *ExampleSpec -- -l com.mycompaty.tags.SlowTest // Exclude SlowTest-s

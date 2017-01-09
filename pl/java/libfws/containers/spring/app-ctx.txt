@@ -44,3 +44,61 @@ xml-config
         scope="prototype"/>
     <bean id="factoryBean" class="..."
         factory-method="factoryMethod"/>
+
+AppCtx-s:
+ApplicationContext ctx = new ClassPathXmlApplicationContext("spring-config-10.xml");
+
+FirstService firstService = ctx.getBean(FirstService.class);
+
+
+annotation-config:
+
+@Component("mixedBean")
+public class MixedConfigurationBean {
+    public int value;
+
+    public MixedConfigurationBean() {
+    }
+
+    public MixedConfigurationBean(int value) {
+        this.value = value;
+    }
+}
+
+<context:component-scan
+    base-package="...beans.mixed"/>
+    
+<bean id="mixedBean"
+    class="...beans.mixed.MixedConfigurationBean">
+    <constructor-arg type="int" value="1"/>
+</bean>
+
+In this case - XML-config wins. Flawless victory
+INFO: Overriding bean definition for bean 'mixedBean' with a different definition:
+1
+
+java-config:
+
+@Configuration
+public class ScopesConfig11 {
+    @Bean
+    public FirstService firstService() {
+        return new FirstService();
+    }
+    @Bean
+    public SecondService secondService() {
+        return new SecondService();
+    }
+    @Bean
+    public Singleton singleton() {
+        return new Singleton();
+    }
+    @Bean
+    @Scope(BeanDefinition.SCOPE_PROTOTYPE)
+    public Prototype prototype() {
+        return new Prototype();
+    }
+}
+
+ApplicationContext ctx = new AnnotationConfigApplicationContext(ScopesConfig11.class);
+...
