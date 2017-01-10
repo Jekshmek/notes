@@ -102,3 +102,58 @@ public class ScopesConfig11 {
 
 ApplicationContext ctx = new AnnotationConfigApplicationContext(ScopesConfig11.class);
 ...
+
+
+Lookup 1 (dirty)
+
+@Autowired
+private ApplicationContext ctx;
+
+private UserAction getUserAction(String email) {
+    UserAction result = ctx.getBean(UserAction.class);
+    result.email = email;
+    return result;
+}
+
+Lookup 2
+
+private UserAction getUserAction(String email) {
+    UserAction result = buildUserAction();
+    result.email = email;
+    return result;
+}
+
+public UserAction buildUserAction() { return null; }
+
+<bean id="userService" class="...beans.userservice.UserService">
+    <lookup-method name="buildUserAction" bean="userAction/>
+<bean>
+
+<bean id="userAction" class="...beans.userservice.UserAction" scope="prototype" />
+
+Lookup (java-config)
+
+... getUserAction ...
+@Lookup
+public UserAction buildUserAction() { return null }
+
+@Config
+// !!! lookup methods cannot get replaced on beans, returned from factory methods where we cannot dynamically provide a sublass for them
+@ComponentScan("...beans.userservice")
+public class ScopesConfig21 {
+    @Bean
+    public UserService userService() {
+        return new UserService();
+    }
+    @Bean
+    @Scope(BeanDefinition.SCOPE_PROTOTYPE)
+    public UserAction userAction() {
+        return new UserAction();
+    }
+}
+
+...
+@Component
+public class UserService {
+    ...
+}
