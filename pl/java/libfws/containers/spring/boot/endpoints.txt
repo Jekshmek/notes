@@ -1,0 +1,15 @@
+env
+manage
+trace
+    last 100 or so req/resp
+dump
+   thread dump 
+liquibase or flyway
+logfile
+mappings
+    list all the @RequestMapping paths declared in your application
+shutdown
+heapdump
+    returns a GZip compressed hprof heap dump file
+auto-config
+    auto configuration report
