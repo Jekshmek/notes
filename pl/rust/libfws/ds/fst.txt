@@ -1,0 +1,3 @@
+https://crates.io/crates/fst
+https://docs.rs/fst/0.1.35/fst/
+https://github.com/BurntSushi/fst

@@ -8,3 +8,6 @@ grep = { version = "0.1.4", path = "grep" }
 
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml
+
+discussions:
+https://users.rust-lang.org/t/target-os-architecture-environment-as-a-crate-property/7748/11

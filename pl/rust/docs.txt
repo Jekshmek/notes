@@ -22,8 +22,5 @@ Blogs:
 http://blog.pnkfx.org/
 http://www.smallcultfollowing.com/babysteps/
 
-
-Features:
-
-BorrowChecker:
-http://always-learning.timmcnamara.nz/2016/10/15/borrow-checker-escape-hatches/
+Internals:
+https://internals.rust-lang.org/

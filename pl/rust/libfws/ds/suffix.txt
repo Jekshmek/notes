@@ -1,0 +1,3 @@
+https://crates.io/crates/suffix
+https://github.com/BurntSushi/suffix
+https://docs.rs/suffix/1.0.0/suffix/
