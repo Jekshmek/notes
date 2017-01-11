@@ -1,6 +1,6 @@
 URLs:
-https://www.reddit.com/r/rust/?count=951&before=t3_58qc8k
-  My first Rust app
+https://www.reddit.com/r/rust/?count=926&before=t3_59a9a1
+  Our slides for Donut.js
 https://this-week-in-rust.org/blog/archives/index.html
   2-163
 
