@@ -1,0 +1,10 @@
+[target.'cfg(windows)'.dependencies]
+kernel32-sys = "0.2.2"
+winapi = "0.2.8"
+
+[dependencies]
+env_logger = { version = "0.3", default-features = false }
+grep = { version = "0.1.4", path = "grep" }
+
+samples:
+https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml

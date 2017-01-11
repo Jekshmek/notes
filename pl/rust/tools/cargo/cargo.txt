@@ -4,4 +4,4 @@ cargo
     install --list
         list installed crates/packages
     new --bin <prj-name>
-    build [--release]
+    build [--release] --features 'simd-accel avx-accel'
