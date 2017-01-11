@@ -175,3 +175,8 @@ type Cat i = i -> i -> Type  -- Type is a synonym for *
 
 class Vacuous (p :: Cat i) (a :: i)
 instance Vacuous p a
+
+TypeApplication:
+https://ghc.haskell.org/trac/ghc/wiki/TypeApplication
+https://kseo.github.io//posts/2017-01-08-visible-type-application-ghc8.html
+https://www.reddit.com/r/haskell/comments/5msuno/kwangs_haskell_blog_visible_type_application_in/
