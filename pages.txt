@@ -1,6 +1,6 @@
 URLs:
-https://www.reddit.com/r/rust/?count=926&before=t3_59a9a1
-  Our slides for Donut.js
+https://www.reddit.com/r/rust/?count=901&before=t3_59jqsh
+  Corrode
 https://this-week-in-rust.org/blog/archives/index.html
   2-163
 
