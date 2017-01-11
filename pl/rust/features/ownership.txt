@@ -1,4 +1,9 @@
+https://doc.rust-lang.org/stable/book/ownership.html
+
 http://always-learning.timmcnamara.nz/2016/10/15/borrow-checker-escape-hatches/
 
 https://github.com/m-labs/rust-managed
 https://crates.io/crates/managed
+
+samples:
+https://www.reddit.com/r/rust/comments/58yukd/if_rust_ensures_that_there_is_exactly_one_binding/
