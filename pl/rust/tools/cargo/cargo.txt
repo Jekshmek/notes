@@ -5,3 +5,6 @@ cargo
         list installed crates/packages
     new --bin <prj-name>
     build [--release] --features 'simd-accel avx-accel'
+    update
+    install-update -a
+        https://www.reddit.com/r/rust/comments/5a21b8/cargoupdate_check_for_updates_to_your/

@@ -157,3 +157,128 @@ public class ScopesConfig21 {
 public class UserService {
     ...
 }
+
+
+init-n:
+* Reading bean def-s and populating them into BeanFactory
+* Calling BeanFactoryPostProcessors
+
+* Instantiating bean object
+* Calling BeanPostProcessor::postProcessBeforeInitialization
+* Initializating object (init-method, @PostConstruct)
+* Calling BeanPostProcessor::postProcessAfterInitialization
+
+public class HelloWorldBPP implements BeanPostProcessor {
+    @Override
+    public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeanException {
+        System.out.println("hello pre : " + beanName + " is " + bean.getClass());
+        return bean;
+    }
+    @Override
+    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeanException {
+        System.out.println("hello post : " + beanName + " is " + bean.getClass());
+        return bean;
+    }
+}
+
+// Procies instances of given class and intercepting its methods
+public class ProxyBPP implements BeanPostProcessor {
+    @Override
+    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeanException {
+        System.out.println("Post : " + beanName + " is " + bean.getClass());
+
+        if (Service.class.isAssignableFrom(bean.getClass())) {
+            return (Service) Proxy.newProxyInstance(
+                Service.class.getClassLoader(),
+                new Class [] { Service.class },
+                new InvocationHandler() {
+                    @Override
+                    public Object invode(Object proxy, Method method, Object [] args) throws Throwable {
+                        System.out.println("Calling method " + method.getName());
+                        return method.invoke(bean, args);
+                    }
+                });
+        }
+        return bean;
+    }
+}
+
+public class ServiceImpl implements Service {
+    @Override
+    public void printSomething() {
+        System.out.println("Something");
+    }
+}
+
+@Configuration
+public class BPPConfig2 {
+    @Bean
+    public BeanPostProcessor proxyBPP() {
+        return new ProxyBPP();
+    }
+    @Bean
+    public BeanPostProcessor helloWorldBPP() {
+        return new HelloWorldBPP();
+    }
+    @Bean
+    public Service printService() {
+        return new PrintServiceImpl();
+    }
+}
+
+pre: pringService is class ...beans.ServiceImpl
+hello pre: pringService is class ...beans.ServiceImpl
+Post: pringService is class ...beans.ServiceImpl
+hello post: pringService is class ...beans.ServiceImpl
+Calling method printSomething
+Something
+
+// Multiple annotation postprocessors
+
+public class DashboardService {
+    @LogThisMethod
+    @SendEmail
+    public void saveDashboard() {
+    }
+}
+
+@Aspect
+public class SendEmailAspect {
+    @Before("@annotation(SendEmail)")
+    public void logBefore(JoinPoint joinPoint) {
+        System.out.println("Sending email");
+    }
+}
+
+public class LogThisBPP implements BeanPostProcessor {
+    @Override
+    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeanException {
+        for (Method method : bean.getClass().getDeclaredMethods()) {
+            if (method.isAnnotationPresent(LogThisMethod.class)) {
+                ProxyFactory factory = new ProxyFactory();
+                factory.setSuperClass(bean.getClass());
+                factory.setFilter(new MethodFilter() {
+                    @Override
+                    public boolean isHandled(Method m) {
+                        return m.isAnnotationPresent(LogThisMethod.class);
+                    }
+                });
+                Class<?> clazz = factory.createClass();
+                MethodHandler handler = new MethodHandler() {
+                    @Override
+                    public Object invoke(Object self, Method overridden, Method forwarder, Object [] args) throws Throwable {
+                        System.out.println("Logging method");
+                        Method beanMethod = bean.getClass().getMethod(
+                            overridden.getName(),
+                            overridden.getParameterTypes());
+                        return beanMethod.invode(bean, args);
+                    }
+                };
+                Object intance = clazz.newInstance();
+                ((ProxyObject) instance).setHandler(handler);
+                return instance;
+            }
+        }
+        return bean;
+    }
+}

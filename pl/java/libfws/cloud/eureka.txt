@@ -27,3 +27,29 @@ Base on this value zone affinity filter check if services from the same zone or 
    (default 0.8)
 3. instanceCount - circuitBreakerTrippedCount should be great or equal then .zoneAffinity.minAvailableServers property values for client Ribbon instance
   (default 2)
+
+
+registryFetchIntervalSeconds
+https://github.com/Netflix/eureka/blob/master/eureka-client/src/main/java/com/netflix/discovery/shared/Applications.java
+The registry information is fetched from eureka server as specified in ...
+
+https://github.com/Netflix/eureka/blob/master/eureka-client/src/main/java/com/netflix/discovery/DefaultEurekaClientConfig.java
+
+https://github.com/spring-cloud/spring-cloud-netflix/issues/373
+Eureka client maintain a cache of the registry information.
+This cache is refreshed every 30 seconds by default ('eureka.client.registryFetchIntervalSeconds`).
+So again, it may take another 30s before a client decides to refresh its local cache and discover newly registered instances.
+
+
+instanceInfoReplicationIntervalSeconds
+
+https://github.com/Netflix/eureka/blob/master/eureka-client/src/main/java/com/netflix/discovery/EurekaClient.java
+
+Once registered, the eureka client will invoke the
+ * {@link HealthCheckCallback} in intervals specified by
+ * {@link EurekaClientConfig#getInstanceInfoReplicationIntervalSeconds()}.
+
+
+initialInstanceInfoReplicationIntervalSeconds
+https://github.com/spring-cloud/spring-cloud-netflix/issues/373
+This parameter controls the initial delay before the client transmits changes made to the InstanceInfo (like the UP/DOWN status).
