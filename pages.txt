@@ -1,6 +1,7 @@
 URLs:
 https://www.reddit.com/r/rust/?count=801&before=t3_5bgnqv
   The Rust fun poster
+  .. PlanetKit week 3
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163
@@ -21,7 +22,7 @@ Sema - ReactJS introduction                         -   08:30 (of   45:05)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Veller - Literature SelfKilling                     - 2:43:00 (of 3:09:15)
+Veller - Literature SelfKilling                     - 2:50:00 (of 3:09:15)
 Volkova 2                                           -   00:00 (of 1:28:48)
 Bykov - Lermontov                                   -   45:00 (of   52:30)
 Bykov - Piknik 2                                    -   16:00 (of 1:06:30)
