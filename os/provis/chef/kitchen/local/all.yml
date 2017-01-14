@@ -105,11 +105,11 @@ suites:
           nexusRepo: 'http://192.168.235.101:8081/content/repositories'
           # yumRepo: 'http://192.168.0.103:8080'
           # nexusRepo: 'http://192.168.0.103:8080/content/repositories'
-          # eurekaHost: '192.168.235.61'
+          eurekaHost: '192.168.235.69'
         cps:
           chef-test: false
-          yumRepo: 'http://192.168.235.101:8081'
-          nexusRepo: 'http://192.168.235.101:8081/content/repositories/releases'
+          #yumRepo: 'http://192.168.235.101:8081'
+          #nexusRepo: 'http://192.168.235.101:8081/content/repositories/releases'
         pvp:
           inst:
             selected: ['es-01']
