@@ -5,5 +5,14 @@ http://always-learning.timmcnamara.nz/2016/10/15/borrow-checker-escape-hatches/
 https://github.com/m-labs/rust-managed
 https://crates.io/crates/managed
 
+https://ricardomartins.cc/2016/06/08/interior-mutability
+
 samples:
 https://www.reddit.com/r/rust/comments/58yukd/if_rust_ensures_that_there_is_exactly_one_binding/
+
+need weak reference counting for graphs with cycles in it. Here's how to do a generic binary tree in Rust.
+
+enum Node<T> {
+    Leaf(T),
+    Inner(Box<Node<T>>, Box<Node<T>>),
+}

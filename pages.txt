@@ -1,7 +1,7 @@
 URLs:
-https://www.reddit.com/r/rust/?count=701&before=t3_5d2nmx
-  Tock embed os 9
-  Traits derived in errors
+https://www.reddit.com/r/rust/?count=601&before=t3_5ek5c5
+  24 d - hound
+  Coeffects - the next big
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163
