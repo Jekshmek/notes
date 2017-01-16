@@ -22,7 +22,9 @@ https://github.com/krdln/command-macros
 http://krdln.github.io/command-macros/command_macros/index.html
 
 https://github.com/dropbox/rust-subprocess-communicate
+
 https://crates.io/crates/subprocess
+https://docs.rs/subprocess/0.1.4/subprocess/struct.Pipeline.html
 
 
 https://github.com/mgattozzi/pipers
