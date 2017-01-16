@@ -1,7 +1,7 @@
 URLs:
-https://www.reddit.com/r/rust/?count=601&before=t3_5ek5c5
-  24 d - hound
-  Coeffects - the next big
+https://www.reddit.com/r/rust/?count=600&after=t3_5g5ta7
+  Flow is a tail like tool that can group and filter out data
+  How to speed up the Rust compiler some more
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163
