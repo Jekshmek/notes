@@ -1,4 +1,2 @@
 https://habrahabr.ru/company/tuthost/blog/150433/
 https://habrahabr.ru/post/252529/
-
-https://github.com/OpenFeign/feign/pull/54
