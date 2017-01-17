@@ -1,3 +1,6 @@
+https://danielkeep.github.io/tlborm/book/README.html
+https://github.com/DanielKeep/tlborm/
+
 https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
 
 codegen:
