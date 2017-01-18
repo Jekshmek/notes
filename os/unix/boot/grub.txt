@@ -1,6 +1,8 @@
 https://wiki.archlinux.org/index.php/GRUB#Generating_main_configuration_file
 https://wiki.manjaro.org/index.php?title=Grub-Customizer
 
+http://www.unixmen.com/fix-shutdown-power-computer-ubuntu-14-04/
+
 Themes:
 /etc/default/grub
 GRUB_THEME="/usr/share/grub/themes/starfield/theme.txt"
@@ -11,3 +13,5 @@ http://www.thelinuxguy.nl/how-tos/how-to-change-the-grub2-theme-on-archlinux/
 https://github.com/Generator/Grub2-themes#faq
 https://github.com/Generator/Grub2-themes
 
+Background:
+/usr/share/grub/background.png
