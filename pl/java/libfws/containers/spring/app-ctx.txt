@@ -380,3 +380,60 @@ public class HelloWorldBFPP implements BeanFactoryPostProcessor {
         }
     }
 }
+
+// BeanFactoryPostProcessor should be static in appropriate config !
+// BFPP should be created very early in lifecycle of ApplicationContext
+
+@Configuration
+public class BFPPConfig1 {
+    @Bean
+    public static BeanFactoryPostProcessor helloWorldBFPP() {
+        return new HelloWorldBFPP();
+    }
+    @Bean
+    public BeanPostProcessor helloWorldBPP() {
+        return new HelloWorldBPP();
+    }
+    @Bean
+    public Service printService() {
+        return new ServiceImpl();
+    }
+}
+
+// ExtensionBeanFactoryPostProcessor
+
+public class ExtensionDeployer {
+    @Autowired
+    private List<Extension> extensions;
+
+    public void deployExtensions() {
+        extensions.forEach((extension) -> {
+            System.out.println("Deploying " + extension.getClass());
+        });
+    }
+}
+// We want our users to provide their own implementations of Extension class
+
+
+public class ExtensionBFPP implements BeanFactoryPostProcessor {
+    @Override
+    public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansExtension {
+        List<Class<? extends Extension>> extensionClasses = parseClasspath();
+        for (Class<? extends Extension> extensionClass : extensionClasses) {
+            try {
+                beanFactory.registerSingleton(extensionClass.getName(), extensionClass.newInstance());
+            } catch (Exception e) {
+                System.out.println("Failed to register extension " + extensionClass.getName());
+                e.printStackTrace();
+            }
+        }
+    }
+
+    @SuppressWarning("unchecked")
+    private List<Class<? extends Extension>> parseClasspath() {
+        return Lists.newArrayList(SimpleExtension.class);
+    }
+
+    public static class SimpleExtension extends Extension {
+    }
+}
