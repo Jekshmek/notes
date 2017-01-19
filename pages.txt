@@ -15,13 +15,13 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 Video:
 Dzunovich - Diving into Spring App Context Part 1   -   42:00 (of 1:21:28)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Sema - ReactJS introduction                         -   16:00 (of   45:05)
+Sema - ReactJS introduction                         -   22:00 (of   45:05)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Veller - Love 2                                     -   00:00 (of   39:20)
+Veller - Love 2                                     -   02:00 (of   39:20)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Svarts 1                                    -   06:00 (of 1:15:02)
