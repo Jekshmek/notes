@@ -52,8 +52,13 @@ rustup
 
             [overrides]
             "/data/wrk/prj/cargo/s1" = "nightly-x86_64-unknown-linux-gnu"
+    component
+        add
+            rust-src
+                -> ~/.rustup/toolchains/<your-toolchain>/lib/rustlib/src/rust/src
+        ??
 
-    ? target|component|which|doc|man|set|completions
+    ? target|which|doc|man|set|completions
 
 shorthands:
 rustc +nightly foo.rs

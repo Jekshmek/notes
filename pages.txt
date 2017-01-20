@@ -1,8 +1,7 @@
 URLs:
-https://www.reddit.com/r/rust/?count=300&after=t3_5l1ly7
-  My thoughts on Rust in 2017, Response to Steve Klabniks Post
-  Proposing the Rust Bookshelf
-  "Rust Programming for Beginners" on Udemy
+https://www.reddit.com/r/rust/?count=200&after=t3_5mhhnm
+  An Alternative to LLVM: libFirm
+  Just getting started with Rust
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-165
@@ -22,12 +21,12 @@ React - FrontCamp                                   -   09:00 (of 2:01:48)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Veller - Love 2                                     -   02:00 (of   39:20)
-Bykov - WhatIfNot                                   -   38:00 (of 1:32:43)
+Komarovo                                            -   10:00
+  https://vk.com/video3323004_171321898
+Bykov - Svarts 1                                    -   51:00 (of 1:15:02)
+  https://vk.com/video-2048479_171117993
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov - Svarts 1                                    -   06:00 (of 1:15:02)
-  https://vk.com/video-2048479_171117993
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
 Bykov - Police Films                                -   05:00 (of   59:56)
@@ -48,9 +47,9 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 1                                       - 1:34:00 (of 2:23:16)
+Sonkina - D 1                                       - 2:06:00 (of 2:23:16)
+P2                                                  - 1:20:00 (of 2:04:57)
 Negreev - 2                                         -   00:00 (of 1:28:28)
-P2                                                  - 1:06:00 (of 2:04:57)
 Ivliev - 3                                          -   00:00 (of   33:07)
 Paschenko 5                                         -   00:00 (of 2:56:08)
 Osipov - 1                                          -   20:00 (of 1:09:28)

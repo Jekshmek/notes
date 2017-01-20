@@ -27,11 +27,20 @@ https://github.com/dropbox/rust-subprocess-communicate
 https://crates.io/crates/subprocess
 https://docs.rs/subprocess/0.1.4/subprocess/struct.Pipeline.html
 
+https://crates.io/crates/tokio-process
+https://github.com/alexcrichton/tokio-process
+https://docs.rs/tokio-process/0.2.0/tokio_process/
 
+
+https://crates.io/crates/pipers
 https://github.com/mgattozzi/pipers
+https://docs.rs/pipers/1.0.1/pipers/
 
 duct-os-pipe:
 https://github.com/oconnor663/duct.rs
 https://github.com/oconnor663/os_pipe.rs
 https://docs.rs/os_pipe/0.4.0/os_pipe/
 http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stderr
+
+Samples:
+https://github.com/uutils/coreutils
