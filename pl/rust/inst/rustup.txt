@@ -1,0 +1,37 @@
+https://github.com/rust-lang-nursery/rustup.rs
+    curl https://sh.rustup.rs -sSf | sh
+https://win.rustup.rs/
+    immediately downloads rust
+
+Current installation options:
+
+   default host triple: x86_64-unknown-linux-gnu
+     default toolchain: stable
+  modify PATH variable: no
+
+
+info: syncing channel updates for 'stable-x86_64-unknown-linux-gnu'
+info: downloading component 'rustc'
+ 47.1 MiB /  47.1 MiB (100 %)   2.9 MiB/s ETA:   0 s                
+info: downloading component 'rust-std'
+ 56.8 MiB /  56.8 MiB (100 %)   2.8 MiB/s ETA:   0 s                
+info: downloading component 'cargo'
+  4.0 MiB /   4.0 MiB (100 %) 950.6 KiB/s ETA:   0 s                
+info: installing component 'rustc'
+info: installing component 'rust-std'
+info: installing component 'cargo'
+info: default toolchain set to 'stable'
+
+  stable installed - rustc 1.14.0 (e8a012324 2016-12-16)
+
+
+Rust is installed now. Great!
+
+To get started you need Cargo's bin directory in your PATH environment 
+variable.
+
+To configure your current shell run source /data/wrk/.cargo/env
+
+cat /data/wrk/.cargo/env
+export PATH="/data/wrk/.cargo/bin:$PATH"
+

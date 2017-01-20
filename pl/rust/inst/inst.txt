@@ -1,9 +1,8 @@
 https://www.rust-lang.org/en-US/install.html
 https://doc.rust-lang.org/book/getting-started.html
 
-https://github.com/rust-lang-nursery/rustup.rs
-https://win.rustup.rs/
-    immediately downloads rust
+warning: be sure to add `$CARGO_HOME/.cargo/bin` to your PATH to be able to run the installed binaries
+
 
 pacman -Ss rust:
 mingw64/mingw-w64-x86_64-rust 1.13.0-1
