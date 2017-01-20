@@ -33,7 +33,8 @@ rustup
         upgrade-data
     show
     update|install
-        <toolchain:stable|beta|nightly|version>
+        [toolchain:stable|beta|nightly|version]
+        by default - updates ? all toolchains
     default
         <toolchain>
     toolchain
@@ -42,3 +43,18 @@ rustup
             <toolchain>
     run
         <toolchain> cmd
+    override
+        set <toolchain>
+            directory overrides at $RUSTUP_HOME/settings.toml
+
+            telemetry = false
+            version = "12"
+
+            [overrides]
+            "/data/wrk/prj/cargo/s1" = "nightly-x86_64-unknown-linux-gnu"
+
+    ? target|component|which|doc|man|set|completions
+
+shorthands:
+rustc +nightly foo.rs
+rustup run nightly bash
