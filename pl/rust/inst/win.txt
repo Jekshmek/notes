@@ -1,0 +1,4 @@
+https://habrahabr.ru/post/280790/
+
+Build:
+https://github.com/fuchsia-mirror/third_party-rust
