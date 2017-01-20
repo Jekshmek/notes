@@ -1,6 +1,7 @@
 URLs:
 https://www.reddit.com/r/rust/?count=300&after=t3_5l1ly7
   My thoughts on Rust in 2017, Response to Steve Klabniks Post
+  Proposing the Rust Bookshelf
   "Rust Programming for Beginners" on Udemy
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
@@ -22,6 +23,7 @@ Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
 Veller - Love 2                                     -   02:00 (of   39:20)
+Bykov - WhatIfNot                                   -   38:00 (of 1:32:43)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Svarts 1                                    -   06:00 (of 1:15:02)
@@ -55,8 +57,9 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - Family 2                                  - 1:28:00 (of 3:55:02)
 Sorokin - A 2                                       -   00:00 (of ??)
+Sorokin - Family 1                                  -   00:00 (of 3:39:34)
+Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 
 Tracking:
 Razbor Poletov                                      - 124
