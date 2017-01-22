@@ -57,8 +57,12 @@ rustup
             rust-src
                 -> ~/.rustup/toolchains/<your-toolchain>/lib/rustlib/src/rust/src
         ??
+    target
+        add
+            x86_64-unknown-linux-musl
+        ??
 
-    ? target|which|doc|man|set|completions
+    ? which|doc|man|set|completions
 
 shorthands:
 rustc +nightly foo.rs

@@ -4,7 +4,10 @@ cargo
     install --list
         list installed crates/packages
     new --bin <prj-name>
-    build [--release] --features 'simd-accel avx-accel'
+    build
+        [-v]
+        [--release] --features 'simd-accel avx-accel'
+        --target x86_64-unknown-linux-musl
     update
     install-update -a
         https://www.reddit.com/r/rust/comments/5a21b8/cargoupdate_check_for_updates_to_your/
