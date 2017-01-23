@@ -1,0 +1,43 @@
+Scope iface
+Creating custom scope
+Threading scopes
+
+public class MyScope implements Scope {
+    @Override
+    public Object get(String name, ObjectFactory<?> objectFactory) {
+    }
+    @Override
+    public Object remove(String name) {
+    }
+    @Override
+    public void registerDestructionCallback(String name, Runable callback) {
+    }
+    @Override
+    public Object resolveContextualObject(String key) {
+    }
+    @Override
+    public String getConversationId() {
+    }
+}
+
+// Singleton
+
+private Map<String, Object> singletons = new ConcurrentHashMap<>();
+
+@Override
+public Object get(String name, ObjectFactory<?> objectFactory) {
+    Object result = singletons.get(name)
+    if (result == null) {
+        result = objectFactory.getObject();
+        singletons.put(name, result);
+    }
+    return result;
+}
+
+// Prototype
+@Override
+public Object get(String name, ObjectFactory<?> objectFactory) {
+    return objectFactory.getObject();
+}
+
+They could look like this. But there is no actual implementation for those scopes.

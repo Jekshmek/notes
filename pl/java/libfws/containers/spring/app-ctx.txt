@@ -437,3 +437,18 @@ public class ExtensionBFPP implements BeanFactoryPostProcessor {
     public static class SimpleExtension extends Extension {
     }
 }
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(BFPPConfig2.class)
+ExtensionDeployer extensionDeployer = ctx.getBean(ExtensionDeployer.class);
+extensionDeployer.deployExtensions()
+
+//Output
+Deploying class ...spring.postprocessor.ExtensionBFPP$SimpleExtension
+
+// Conclusion
+1. BFPPs are needed for BeanDefinition metadata postprocessing
+    * addmin method overrides
+    * change bean definition properties
+    * etc
+2. BFPPs are needed for customizing list of beans before their creation
