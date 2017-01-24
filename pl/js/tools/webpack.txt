@@ -1,2 +1,8 @@
 presentations:
 https://www.infoq.com/presentations/4-concepts-webpack
+
+entry
+output
+loaders
+    - return compilations
+plugins

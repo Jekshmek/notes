@@ -1,5 +1,11 @@
 https://doc.rust-lang.org/book/ffi.html
 http://jakegoulding.com/rust-ffi-omnibus/
 
+bindgen:
+https://crates.io/crates/bindgen
+https://www.reddit.com/r/rust/comments/5pr3t9/heads_up_yamakakyrustbindgen_and_servorustbindgen/
+http://fitzgeraldnick.com/2016/12/14/using-libbindgen-in-build-rs.html
+https://github.com/fitzgen/libbindgen-tutorial-bzip2-sys
+
 samples:
 https://github.com/rust-lang/regex/tree/master/regex-capi

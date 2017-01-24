@@ -1,2 +1,8 @@
 https://doc.rust-lang.org/book/testing.html
 http://rustbyexample.com/meta/test.html
+
+cargo
+    test
+        --lib <name>
+        --bin <name>
+        --test <name>
