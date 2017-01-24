@@ -1,7 +1,9 @@
 URLs:
-https://www.reddit.com/r/rust/?count=100&after=t3_5ockg8
-  Accord: data validation library for Rust
-  Rust virtual machine and JIT compiler for eBPF programs
+https://www.reddit.com/r/rust/?count=100&after=t3_5oca8m
+  [Noob]What have I gotten myself into??
+  Rocket: JSON Web Tokens & Access Roles
+  Ferris Makes Emulators Ep.015 - Mapping the VSU
+  ocl:errors on using an openCL kernel with local memory
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-165
@@ -51,7 +53,7 @@ Audio:
 Sonkina - D 1                                       - 2:06:00 (of 2:23:16)
 P2                                                  - 1:20:00 (of 2:04:57)
 Negreev - 2                                         -   00:00 (of 1:28:28)
-Ivliev - 3                                          -   00:00 (of   33:07)
+Ivliev - 4                                          -   00:00 (of   35:38)
 Paschenko 6                                         -   00:00 (of   47:27)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
@@ -62,7 +64,7 @@ Sorokin - Family 1                                  -   00:00 (of 3:39:34)
 Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 
 Tracking:
-Razbor Poletov                                      - 124
+Razbor Poletov                                      - 125 38:00 (of 2:26:19)
 Bananas and Lens                                    - 36
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
