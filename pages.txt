@@ -1,9 +1,4 @@
 URLs:
-https://www.reddit.com/r/rust/?count=100&after=t3_5oca8m
-  [Noob]What have I gotten myself into??
-  Rocket: JSON Web Tokens & Access Roles
-  Ferris Makes Emulators Ep.015 - Mapping the VSU
-  ocl:errors on using an openCL kernel with local memory
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-165
@@ -16,16 +11,14 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Dzunovich - Diving into Spring App Context Part 1   -   47:00 (of 1:21:28)
-Sema - ReactJS introduction                         -   33:00 (of   45:05)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
 Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Stru died fantastics left                           -   00:00 (of   38:43)
   https://www.youtube.com/watch?v=0xPSnBzqX7w
-Komarovo                                            -   10:00
-  https://vk.com/video3323004_171321898
 Bykov - Svarts 1                                    -   51:00 (of 1:15:02)
   https://vk.com/video-2048479_171117993
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
