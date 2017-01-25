@@ -55,7 +55,7 @@ Sorokin - Family 1                                  -   00:00 (of 3:39:34)
 Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 
 Tracking:
-Razbor Poletov                                      - 125 38:00 (of 2:26:19)
+Razbor Poletov                                      - 125 2:10:00 (of 2:26:19)
 Bananas and Lens                                    - 36
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
