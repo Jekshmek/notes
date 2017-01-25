@@ -16,3 +16,8 @@ https://github.com/erickt/stateful
 
 quasi-quoting:
 https://github.com/dtolnay/quote
+
+
+declarative
+- macro_rules!
+- macro (macro by example for 2.0 or just a declarative macro)

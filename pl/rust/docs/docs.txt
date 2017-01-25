@@ -1,6 +1,3 @@
-Book:
-https://doc.rust-lang.org/book/
-
 Guides:
 http://faq.sealedabstract.com/rust/
 

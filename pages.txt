@@ -1,5 +1,7 @@
 URLs:
-https://habrahabr.ru/post/319066/
+https://doc.rust-lang.org/book/getting-started.html#anatomy-of-a-rust-program
+http://words.steveklabnik.com/an-overview-of-macros-in-rust
+  macro_rules
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-166
 
@@ -10,9 +12,9 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
+Anastassov - Artificial Neural Networks             -   54:00 (of 1:29:24)
 Dzunovich - Diving into Spring App Context Part 1   -   47:00 (of 1:21:28)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-Kuzin - React - Flux + Redux                        -   15:02 (of   35:37)
 React - FrontCamp                                   -   09:00 (of 2:01:48)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
@@ -43,7 +45,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Sonkina - D 1                                       - 2:06:00 (of 2:23:16)
 P2                                                  - 1:20:00 (of 2:04:57)
-Negreev - 2                                         -   00:00 (of 1:28:28)
+Negreev - 3                                         -   00:00 (of 1:37:05)
 Ivliev - 4                                          -   00:00 (of   35:38)
 Paschenko 6                                         -   00:00 (of   47:27)
 Osipov - 1                                          -   20:00 (of 1:09:28)
@@ -55,7 +57,7 @@ Sorokin - Family 1                                  -   00:00 (of 3:39:34)
 Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 
 Tracking:
-Razbor Poletov                                      - 125 2:10:00 (of 2:26:19)
+Razbor Poletov                                      - 125
 Bananas and Lens                                    - 36
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
