@@ -1,0 +1,8 @@
+articles:
+https://www.reddit.com/r/rust/comments/5pxgka/howto_optimize_rust_programs_on_linux/
+https://jbendig.github.io/fix-rs/2017/01/24/how-to-optimize-rust-programs-on-linux/
+https://llogiq.github.io/2015/07/15/profiling.html
+
+cache:
+https://developers.redhat.com/blog/2014/03/10/determining-whether-an-application-has-poor-cache-performance-2/
+http://stackoverflow.com/questions/12601474/what-are-perf-cache-events-meaning

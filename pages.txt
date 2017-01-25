@@ -1,7 +1,7 @@
 URLs:
 https://habrahabr.ru/post/319066/
 https://this-week-in-rust.org/blog/archives/index.html
-  2-163-165
+  2-163-166
 
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms

@@ -1,5 +1,10 @@
+book:
 https://danielkeep.github.io/tlborm/book/README.html
 https://github.com/DanielKeep/tlborm/
+
+articles:
+http://words.steveklabnik.com/an-overview-of-macros-in-rust
+https://www.reddit.com/r/rust/comments/5pxdpk/an_overview_of_macros_in_rust/
 
 https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
 
@@ -8,3 +13,6 @@ https://github.com/serde-rs/syntex
 
 controlflow:
 https://github.com/erickt/stateful
+
+quasi-quoting:
+https://github.com/dtolnay/quote

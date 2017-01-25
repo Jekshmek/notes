@@ -1,2 +1,5 @@
 rustc
     --explain E0038
+
+plugins:
+https://github.com/llogiq/flamer

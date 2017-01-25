@@ -7,6 +7,7 @@ https://users.rust-lang.org/t/rust-for-shell-scripting-experiences-request/2628/
 
 ::std::process::Command
 
+https://doc.rust-lang.org/std/os/unix/process/trait.CommandExt.html#tymethod.before_exec
 https://doc.rust-lang.org/nightly/std/process/struct.Command.html
 https://doc.rust-lang.org/nightly/std/process/struct.Stdio.html
 https://doc.rust-lang.org/nightly/std/process/struct.Child.html
