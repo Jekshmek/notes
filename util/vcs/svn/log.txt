@@ -1,8 +1,10 @@
-log:
+log
     -l 5
         last 5 commits only
     -vl 5
         -//- verbose
+
+    URL[@REV] 
 
 svn log -vr BASE:HEAD
 

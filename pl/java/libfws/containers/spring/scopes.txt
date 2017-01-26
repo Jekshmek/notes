@@ -35,9 +35,170 @@ public Object get(String name, ObjectFactory<?> objectFactory) {
 }
 
 // Prototype
+
 @Override
 public Object get(String name, ObjectFactory<?> objectFactory) {
     return objectFactory.getObject();
 }
 
 They could look like this. But there is no actual implementation for those scopes.
+
+
+// Custom Scope implementation
+
+public class CustomScope implements Scope {
+    private Map<String, Object> storage = new ConcurrentHashMap<String, Object>();
+
+    @Override
+    public Object get(String name, ObjectFactory<?> objectFactory) {
+        Object object = storage.get(name);
+        if (object == null) {
+            object = objectFactory.getObject();
+            storage.put(name, object);
+        }
+        return object;
+    }
+
+    @Override
+    public Object remove(String name) {
+        return storage.remove(name);
+    }
+    ...
+}
+
+@Configuration
+public class CustomScopeConfig {
+    @Bean
+    public CustomScope customScope() {
+        return new CustomScope();
+    }
+
+    @Bean
+    public CustomScopeConfigurer customScopeConfigurer(CustomScope customScope) { // ? CustomScopeConfigurer is a native Spring ?
+        CustomScopeConfigurer configurer = new CustomScopeConfigurer();
+
+        Map<String, Object> scopes = Maps.newHashMap();
+        scopes.put("custom", customScope);
+        configurer.setScopes(scopes);
+
+        return configurer;
+    }
+
+    @Bean
+    @Scope("custom")
+    public Logger logger() {
+        return new Logger();
+    }
+}
+
+// 2-nd way to do this:
+ConfigurableListableBeanFactory::registerScope
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(CustomScopeConfig.class);
+
+Logger logger = ctx.getBean(Logger.class);
+System.out.println(logger);
+
+CustomScope customScope = ctx.getBean(CustomScope.class);
+customScope.remove(logger);
+
+logger = ctx.getBean(Logger.class);
+System.out.println(logger);
+
+// Output
+...scopes.entity.Logger@6a472554
+...scopes.entity.Logger@7ff2a664
+
+// Problem
+
+What about injection? We need proxy!
+What about handling multiple beans of the same scope?
+
+// 1-st problem solution is simple:
+
+// Config
+@Bean
+@Scope(value="custom", proxyMode=ScopedProxyMode.TARGET_CLASS)
+public Logger logger() {
+    return new Logger();
+}
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(CustomScopeConfig2.class);
+
+Logger logger = ctx.getBean(Logger.class);
+System.out.println(logger);
+System.out.println(logger.getClass());
+
+// Output
+...scopes.entity.Logger@184cf7cf
+class ...scopes.entity.Logger$$EnhancerBySpringCGLIB$$103d1ffd
+
+Now proxying will be handled by CGLib (which is able to override classes and not only interfaces)
+(JDK can only create proxy for i-faces)
+
+
+// 2-nd problem solution:
+
+public class ScopeWrapper implements BeanFactoryPostProcessor {
+    private Scope scope;
+    private String scopeName;
+
+    private List<String> scopeBeanDefinitions;
+
+    public ScopeWrapper(Scope scope, String scopeName) {
+        this.scope = scope;
+        this.scopeName = scopeName;
+    }
+
+    @Override
+    public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {
+        scopeBeanDefinitions = Lists.newArrayList(beanFactory.getBeanDefinitionNames()).stream()
+            .filter(beanDefinitionName -> {
+                BeanDefinition beanDefinition = beanFactory.getBeanDefinition(beanDefinitionName);
+                return scopeName.equals(beanDefinition.getScope());
+            })
+            .collect(Collectors.toList());
+    }
+
+    public void clear() {
+        for (String beanDefinitionName : scopeBeanDefinitions) {
+            scope.remove(beanDefinitionName);
+        }
+    }
+}
+
+@Configuration
+public class ScopeWrapperConfig {
+    public CustomScope customScope() {...}
+    public ScopeWrapper customScopeWrapper(CustomScope customScope) {...}
+    public CustomScopeConfigurer simpleThreadScopeConfigurer(CustomScope customScope) {...}
+    public Logger logger() {...}
+    public Service service() {...}
+}
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(ScopeWrapperConfig.class);
+
+Logger logger = ctx.getBean(Logger.class);
+System.out.println(logger);
+Service service = ctx.getBean(Service.class);
+System.out.println(service);
+
+ScopeWrapper scopeWrapper = ctx.getBean(ScopeWrapper.class);
+scopeWrapper.clear();
+
+logger = ctx.getBean(Logger.class);
+System.out.println(logger);
+service = ctx.getBean(Service.class);
+System.out.println(service);
+
+// Output
+...scopes.entity.Logger@5762806e
+...scopes.entity.Service@17c386de
+...scopes.entity.Logger@5af97850
+...scopes.entity.Service@5ef60048
+
+// Problem
+I have http-interface application. And it's multithreaded. I need the Request scope.

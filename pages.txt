@@ -2,7 +2,6 @@ URLs:
 https://doc.rust-lang.org/book/getting-started.html#compiling-and-running-are-separate-steps
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-166
-
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -10,21 +9,18 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Anastassov - Artificial Neural Networks             -   54:00 (of 1:29:24)
-Dzunovich - Diving into Spring App Context Part 1   -   47:00 (of 1:21:28)
+Dzunovich - Diving into Spring App Context Part 1   -   55:00 (of 1:21:28)
 ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
-React - FrontCamp                                   -   09:00 (of 2:01:48)
+React - FrontCamp                                   -   20:00 (of 2:01:48)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Svarts 1                                    -   51:00 (of 1:15:02)
+Bykov - Svarts 1                                    -   59:00 (of 1:15:02)
   https://vk.com/video-2048479_171117993
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
-Bykov - Police Films                                -   05:00 (of   59:56)
-  https://vk.com/video238111554_456239524
 Bykov - Pushking - Medny Vsadnik                    -   00:00 (of 1:00:48)
   https://vk.com/video-2048479_456239070
 Kaminskaya 2                                        -   00:00 (of)
@@ -41,16 +37,16 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 1                                       - 2:06:00 (of 2:23:16)
+Sonkina - D 2                                       -   25:00 (of 1:47:07)
 P2                                                  - 1:20:00 (of 2:04:57)
 Negreev - 3                                         -   00:00 (of 1:37:05)
 Ivliev - 4                                          -   00:00 (of   35:38)
 Paschenko 6                                         -   00:00 (of   47:27)
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Skuratovskaya - Manipulations                       -   18:00 (of 2:36:56)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
+Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - A 2                                       -   00:00 (of ??)
+Sorokin - A 1                                       -   00:00 (of ??)
 Sorokin - Family 1                                  -   00:00 (of 3:39:34)
 Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 

@@ -452,3 +452,5 @@ Deploying class ...spring.postprocessor.ExtensionBFPP$SimpleExtension
     * change bean definition properties
     * etc
 2. BFPPs are needed for customizing list of beans before their creation
+
+!!! check scopes.txt here !!!
