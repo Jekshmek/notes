@@ -1,0 +1,2 @@
+articles:
+http://blog.piston.rs/2017/01/26/a-brief-teaser-about-composable-parallel-stream-processing-with-rayon/
