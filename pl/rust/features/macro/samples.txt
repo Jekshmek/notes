@@ -1,0 +1,14 @@
+https://www.reddit.com/r/rust/comments/5q7ssv/long_list_of_externs/
+
+macro_rules! externs {
+    ( $( $x:ident ),* ) => {
+        $(
+            extern crate $x;
+        )*
+    };
+}
+
+externs![rocket, rocket_contrib, serde_json, 
+chrono, dotenv, postgres, r2d2, 
+r2d2_postgres, r2d2_diesel, tera, 
+serde_derive, toml, glob];
