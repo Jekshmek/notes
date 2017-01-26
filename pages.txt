@@ -1,7 +1,5 @@
 URLs:
-https://doc.rust-lang.org/book/getting-started.html#anatomy-of-a-rust-program
-http://words.steveklabnik.com/an-overview-of-macros-in-rust
-  macro_rules
+https://doc.rust-lang.org/book/getting-started.html#compiling-and-running-are-separate-steps
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-166
 

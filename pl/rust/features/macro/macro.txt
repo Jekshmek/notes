@@ -1,4 +1,5 @@
 book:
+https://doc.rust-lang.org/book/macros.html
 https://danielkeep.github.io/tlborm/book/README.html
 https://github.com/DanielKeep/tlborm/
 
@@ -21,3 +22,13 @@ https://github.com/dtolnay/quote
 declarative
 - macro_rules!
 - macro (macro by example for 2.0 or just a declarative macro)
+procedural:
+https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
+
+1.1
+https://github.com/rust-lang/rfcs/blob/master/text/1681-macros-1.1.md
+https://github.com/dtolnay/syn
+https://github.com/dtolnay/quote
+
+2.0
+https://github.com/rust-lang/rfcs/pull/1584
