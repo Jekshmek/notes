@@ -16,3 +16,5 @@ https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 https://about.gitlab.com/2016/04/11/tutorial-securing-your-gitlab-pages-with-tls-and-letsencrypt/
 
 https://www.linkedin.com/pulse/free-https-hosting-gitlab-lets-encrypt-amr-elsekilly
+
+https://gitlab-pages-custom-domain-lets-encrypt.info/
