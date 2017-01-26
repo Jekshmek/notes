@@ -33,12 +33,17 @@ https://github.com/alexcrichton/tokio-process
 https://docs.rs/tokio-process/0.2.0/tokio_process/
 
 
+pipers:
 https://crates.io/crates/pipers
 https://github.com/mgattozzi/pipers
 https://docs.rs/pipers/1.0.1/pipers/
+https://www.reddit.com/r/rust/comments/5jxap3/announcing_pipers_a_small_library_to_pipe/
 
-duct-os-pipe:
+duct:
 https://github.com/oconnor663/duct.rs
+duct uses os_pipe internally
+
+os_pipe:
 https://github.com/oconnor663/os_pipe.rs
 https://docs.rs/os_pipe/0.4.0/os_pipe/
 http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stderr
