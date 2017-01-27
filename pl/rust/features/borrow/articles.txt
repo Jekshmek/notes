@@ -1,6 +1,8 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html
+http://nercury.github.io/rust/guide/2015/01/19/ownership.html
+
 https://m-decoster.github.io//2017/01/16/fighting-borrowchk/
 http://always-learning.timmcnamara.nz/2016/10/15/borrow-checker-escape-hatches/
 https://ricardomartins.cc/2016/06/08/interior-mutability
