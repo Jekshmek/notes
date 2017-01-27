@@ -1,3 +1,6 @@
+[[bin]]
+name = "abc"
+
 [target.'cfg(windows)'.dependencies]
 kernel32-sys = "0.2.2"
 winapi = "0.2.8"
@@ -6,10 +9,25 @@ winapi = "0.2.8"
 env_logger = { version = "0.3", default-features = false }
 grep = { version = "0.1.4", path = "grep" }
 
+[build-dependencies.tango]
+git = "https://github.com/pnkfelix/tango"
+
 [lib]
 crate-type = ["dylib"]
 cdylib
     https://github.com/rust-lang/rust/issues/34493
+
+[features]
+default = ["color"]
+color = ["ansi_term"]
+debug = []
+travis = ["nightly", "lints"]
+unstable = ["lints"]
+lints = ["clippy", "nightly"]
+nightly = []
+
+[profile.release]
+lto = true
 
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml

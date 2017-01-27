@@ -1,0 +1,29 @@
+articles:
+http://www.objc.io/issue-10/ip-tcp-http.html
+https://habrahabr.ru/post/320428/
+
+Wiki:
+https://wiki.archlinux.org/index.php/Network_configuration
+
+Manuals
+http://www.debian.org/doc/manuals/debian-reference/ch05.en.html
+
+Yandex-Savin:
+http://youtu.be/ZNZUeyeS5R0
+http://youtu.be/WJUOnLlLQdM
+
+Courses:
+intuit
+https://www.youtube.com/user/Intuitube
+http://www.intuit.ru/studies/courses/3688/930/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7IX9zmmGbviuX-ZZaDmhhwU
+http://www.intuit.ru/studies/courses/524/380/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7KKEd9ig8rRUquMm5SJ2lM9
+http://www.intuit.ru/studies/courses/489/345/info
+https://www.youtube.com/playlist?list=PLDrmKwRSNx7KtPpeB5EFk0XlbhodREKFC
+
+Linux Network means:
+http://www.intuit.ru/studies/courses/681/537/info
+
+  http://www.intuit.ru/studies/courses/37/37/lecture/1106
+http://www.intuit.ru/studies/courses/2/2/info

@@ -1,0 +1,3 @@
+rust and go:
+http://rust.fastmail.com.user.fm/2017/01/rust-and-go/
+https://www.reddit.com/r/rust/comments/5qdg0d/rust_and_go/

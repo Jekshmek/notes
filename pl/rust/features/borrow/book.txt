@@ -1,0 +1,2 @@
+https://doc.rust-lang.org/book/ownership.html
+https://doc.rust-lang.org/book/choosing-your-guarantees.html

@@ -50,3 +50,4 @@ http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stder
 
 Samples:
 https://github.com/uutils/coreutils
+https://github.com/sighol/tree-rs

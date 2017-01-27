@@ -1,0 +1,13 @@
+https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
+
+http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html
+https://m-decoster.github.io//2017/01/16/fighting-borrowchk/
+http://always-learning.timmcnamara.nz/2016/10/15/borrow-checker-escape-hatches/
+https://ricardomartins.cc/2016/06/08/interior-mutability
+
+nll (non-lexical lifetymes):
+http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
+
+reddit:
+https://www.reddit.com/r/rust/comments/5q9zov/help_lifetime_issues_with_fn_returning_an_array/
+https://www.reddit.com/r/rust/comments/5qds4p/is_there_a_paperoverview_of_how_the_rust_borrow/

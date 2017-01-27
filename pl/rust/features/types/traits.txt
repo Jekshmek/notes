@@ -1,0 +1,4 @@
+articles:
+http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/
+https://www.reddit.com/r/rust/comments/5qd3me/lowering_rust_traits_to_logic/
+https://internals.rust-lang.org/t/blog-series-lowering-rust-traits-to-logic/4673

@@ -11,3 +11,6 @@ http://www.cyberciti.biz/faq/curl-command-resume-broken-download/
 
 Samples:
 curl -XPUT -k -u <usr>:<pwd> -T <filename> <url>/<filename>
+
+curl
+    -I, --head
