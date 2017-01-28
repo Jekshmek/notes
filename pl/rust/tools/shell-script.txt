@@ -14,6 +14,8 @@ https://doc.rust-lang.org/nightly/std/process/struct.Child.html
 
 https://github.com/jaredly/itreed/blob/master/lib/kernels/rust/src/compile.rs
 
+?
+https://github.com/faradayio/cage/blob/master/src/command_runner.rs
 
 https://docs.rs/shells/0.2.0/shells/
 https://github.com/Proksima/shells
@@ -25,13 +27,23 @@ http://krdln.github.io/command-macros/command_macros/index.html
 
 https://github.com/dropbox/rust-subprocess-communicate
 
-https://crates.io/crates/subprocess
-https://docs.rs/subprocess/0.1.4/subprocess/struct.Pipeline.html
 
+tokio-process:
 https://crates.io/crates/tokio-process
 https://github.com/alexcrichton/tokio-process
 https://docs.rs/tokio-process/0.2.0/tokio_process/
 
+pipers:
+https://crates.io/crates/pipers
+https://github.com/mgattozzi/pipers
+https://docs.rs/pipers/1.0.1/pipers/
+https://www.reddit.com/r/rust/comments/5jxap3/announcing_pipers_a_small_library_to_pipe/
+
+super:
+
+subprocess:
+https://crates.io/crates/subprocess
+https://docs.rs/subprocess/0.1.4/subprocess/struct.Pipeline.html
 
 duct:
 https://crates.io/crates/duct
@@ -44,12 +56,7 @@ https://crates.io/crates/os_pipe
 https://docs.rs/os_pipe/0.4.0/os_pipe/
 http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stderr
 
-pipers:
-https://crates.io/crates/pipers
-https://github.com/mgattozzi/pipers
-https://docs.rs/pipers/1.0.1/pipers/
-https://www.reddit.com/r/rust/comments/5jxap3/announcing_pipers_a_small_library_to_pipe/
 
-Samples:
+samples:
 https://github.com/uutils/coreutils
 https://github.com/sighol/tree-rs

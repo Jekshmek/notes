@@ -1,4 +1,21 @@
+https://www.reddit.com/r/rust/comments/5jxap3/announcing_pipers_a_small_library_to_pipe/
+https://docs.rs/duct/0.6.0/duct/
+https://docs.rs/duct/0.6.0/duct/struct.Expression.html
+https://doc.rust-lang.org/nightly/std/process/struct.Output.html
+
+!!! need to check the piping experimentally !!!
+
 https://github.com/oconnor663/duct.rs/blob/master/src/lib.rs
+    run -> Result<Output> (.. stdout: Vec<u8>)
+    stdout_capture
+        The captured bytes will be available on the stdout field of the std::process::Output object returned by run or wait.
+    stdout_to_stderr
+
+    !!!
+    exec_pipe (for piped commands)
+    https://doc.rust-lang.org/std/thread/
+        std::thread::spawn(move || { ... }); // ??? moving-closure without params
+        // google for the "Rust Essentials" book
 
 // enums defined below
 use ExpressionInner::*;

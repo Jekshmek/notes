@@ -1,3 +1,33 @@
+https://www.reddit.com/r/rust/comments/5k4mb1/announcing_os_pipe/
+
+os_pipe lets you open anonymous pipes, usually for doing fancy things with child processes.
+The std::process API supports basic pipelines like
+    foo | bar
+, but for fun stuff like
+    (foo && bar) | baz or foo 2>&1
+you need pipes of your own.
+The docs include a full example of joining the stdout and stderr of a child process like that,
+but here's the most important bit:
+
+let mut child = Command::new("foo");
+let Pipe { reader, writer } = pipe()?;
+child.stdout(stdio_from_file(writer.try_clone()?));
+child.stderr(stdio_from_file(writer));
+
+Setting up pipelines like this isn't particularly convenient, and it's prone to deadlocks,
+because you have to be sure all the write ends are closed in the parent and the child before you read.
+There's a higher level library (duct) on its way to handle these details for you.
+
+I'm writing this on the heels of /u/mgattozzi's pipers announcement yesterday,
+another library for setting up child process pipelines. 'Tis the season!
+
+
+https://docs.rs/os_pipe/0.4.0/os_pipe/#example
+    !!! available both for PipeReader and PipeWriter !!!
+    try_clone()
+
+
+
 pub fn pipe() -> io::Result<(PipeReader, PipeWriter)> {
     ...
 }
