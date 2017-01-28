@@ -1,3 +1,5 @@
 articles:
 https://mgattozzi.com/diesel-powered-rocket
 https://github.com/mgattozzi/mgattozzi
+
+http://blog.stephanbuys.com/2017/01/rocket-rocks-using-fromformvalue-traits.html
