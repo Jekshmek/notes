@@ -1,5 +1,7 @@
 TRPL:
 https://doc.rust-lang.org/book/
+https://doc.rust-lang.org/nightly/book/
+https://github.com/rust-lang/rust/tree/master/src/doc/book
 
 Blandy - Why Rust:
 http://www.oreilly.com/programming/free/files/why-rust.pdf
