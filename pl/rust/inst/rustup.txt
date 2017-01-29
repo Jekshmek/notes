@@ -44,16 +44,20 @@ fs:
 
 rustup
     [cmd] -h, --help
+    show
     self
         update
         uninstall
         upgrade-data
-    show
     update|install
         [toolchain:stable|beta|nightly|version]
         by default - updates ? all toolchains
     default
         <toolchain>
+        
+        $RUSTUP_HOME/settings.toml:
+        default_toolchain = "stable-x86_64-unknown-linux-gnu"
+
     toolchain
         list
         uninstall
