@@ -1,0 +1,1 @@
+https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html

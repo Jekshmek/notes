@@ -1,0 +1,3 @@
+https://brson.github.io/fireflowers/
+
+https://www.reddit.com/r/rust/comments/5qrxq8/devils_advocate_why_should_i_use_rust_instead_of/

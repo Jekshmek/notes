@@ -1,0 +1,7 @@
+https://gitter.im/rust-lang/rust
+
+Any IRC listed in
+https://www.rust-lang.org/community.html
+
+https://users.rust-lang.org
+

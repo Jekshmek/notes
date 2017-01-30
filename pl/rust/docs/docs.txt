@@ -1,4 +1,5 @@
 https://doc.rust-lang.org/
+https://doc.rust-lang.org/beta/
 https://doc.rust-lang.org/nightly/
 
 Guides:
