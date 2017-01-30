@@ -202,3 +202,95 @@ System.out.println(service);
 
 // Problem
 I have http-interface application. And it's multithreaded. I need the Request scope.
+
+/// org.springframework.context.support.SimpleThreadScope
+
+private final ThreadLocal<Map<String, Object>> threadScope =
+    new NamedThreadLocal<Map<String, Object>>("SimpleThreadScope") {
+        @Override
+        protected Map<String, Object> initialValue() {
+            return new HashMap<String, Object>();
+        }
+    }
+
+@Override
+public Object get(String name, ObjectFactory<?> objectFactory) {
+    Map<String, Object> scope = this.threadScope.get();
+    Object object = scope.get(name);
+    if (object == null) {
+        object = objectFactory.getObject();
+        scope.put(name, object);
+    }
+    return object;
+}
+
+@Override
+public Object remove(String name) {
+    Map<String, Object> scope = this.threadScope.get();
+    return scope.remove(name);
+}
+
+// 1. get() - populates bean in ThreadLocal map
+// 2. remove() - removes bean from ThreadLocal map
+
+// Thread scope logging
+
+// Model
+public class Logger {
+    private List<String> events;
+    public Logger() {
+        this.events = Lists.newArrayList();
+    }
+    public void addEvent(String event) {
+        this.events.add(event);
+    }
+    public List<String> getEvents() {
+        return this.events;
+    }
+}
+
+// Config
+@Configuration
+public class SimpleThreadScopeConfig {
+    @Bean
+    public SimpleThreadScope simpleThreadScope() {
+        return new SimpleThreadScope();
+    }
+    @Bean
+    public CustomScopeConfigurer simpleThreadScopeConfigurer(SimpleThreadScope simpleThreadScope) {
+        CustomScopeConfigurer configurer = new CustomScopeConfigurer();
+        Map <String, Object> scopes = Maps.newHashMap();
+        scopes.put("thread", simpleThreadScope);
+        configurer.setScope(scopes)
+        return configurer;
+    }
+    @Bean
+    @Scope(value="thread", proxyMode=ScopedProxyMode.TARGET_CLASS)
+    public Logger logger() {
+        return new Logger();
+    }
+}
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(SimpleThreadScopeConfig.class);
+
+Runnable r = () -> {
+    Logger logger = ctx.getBean(Logger.class);
+    logger.addEvent("Hello, i'm thread " + Thread.currentThread().getId());
+    System.out.println(logger.getEvents());
+};
+
+new Thread(r).start();
+new Thread(r).start();
+
+// Output
+[Hello, i'm thread 12]
+[Hello, i'm thread 11]
+
+// Problem
+What about thread pools???
+
+
+// Thread pool and thread scope
+
+

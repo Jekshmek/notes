@@ -195,6 +195,8 @@ http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html
 Dhall - cfg:
 http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.html
 https://www.reddit.com/r/haskell/comments/5go3sb/dhall_a_nonturingcomplete_configuration_language/
+http://www.haskellforall.com/2017/01/typed-nix-programming-using-dhall.html
+https://hackage.haskell.org/package/dhall-nix
 
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
