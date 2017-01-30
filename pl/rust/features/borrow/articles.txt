@@ -10,6 +10,9 @@ https://ricardomartins.cc/2016/06/08/interior-mutability
 nll (non-lexical lifetymes):
 http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
 
+2015:
+https://chrismorgan.info/blog/rust-ownership-the-hard-way.html 
+
 reddit:
 https://www.reddit.com/r/rust/comments/5q9zov/help_lifetime_issues_with_fn_returning_an_array/
 https://www.reddit.com/r/rust/comments/5qds4p/is_there_a_paperoverview_of_how_the_rust_borrow/

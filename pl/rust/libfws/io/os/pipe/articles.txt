@@ -1,0 +1,2 @@
+http://rustbyexample.com/std_misc/process/pipe.html
+https://www.reddit.com/r/rust/comments/5jw2wa/looking_for_the_easiest_way_to_spawn_a_process/

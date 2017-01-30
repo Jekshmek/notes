@@ -1,0 +1,6 @@
+https://crates.io/crates/mio
+https://docs.rs/mio/0.6.1/mio/
+https://github.com/carllerche/mio
+
+presentations:
+https://www.youtube.com/watch?v=CjQjEMw-snk
