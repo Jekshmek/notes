@@ -3,3 +3,10 @@ rustc
 
 plugins:
 https://github.com/llogiq/flamer
+
+crates:
+https://crates.io/crates/rustc_version
+https://crates.io/crates/rustc_version_runtime
+https://crates.io/crates/rustc_info
+https://crates.io/crates/version_check
+https://crates.io/crates/cargo-when

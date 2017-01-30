@@ -12,9 +12,10 @@ https://doc.rust-lang.org/nightly/std/process/struct.Command.html
 https://doc.rust-lang.org/nightly/std/process/struct.Stdio.html
 https://doc.rust-lang.org/nightly/std/process/struct.Child.html
 
-https://github.com/jaredly/itreed/blob/master/lib/kernels/rust/src/compile.rs
+std::io::process::CreatePipe
+http://aturon.github.io/stability-dashboard/std/io/process/struct.Process.html
 
-?
+? (too low-level and os-specific)
 https://github.com/faradayio/cage/blob/master/src/command_runner.rs
 
 https://docs.rs/shells/0.2.0/shells/
@@ -22,10 +23,14 @@ https://github.com/Proksima/shells
 http://proksima.github.io/shells-doc/shells/index.html
 
 
+https://crates.io/crates/command-macros
 https://github.com/krdln/command-macros
 http://krdln.github.io/command-macros/command_macros/index.html
+    a lot of operators inside a macro-arg supported
 
+? (use mio::deprecated::PipeReader)
 https://github.com/dropbox/rust-subprocess-communicate
+    https://github.com/alexcrichton/mio-named-pipes
 
 
 tokio-process:

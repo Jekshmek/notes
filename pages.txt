@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/book/guessing-game.html#set-up
+https://doc.rust-lang.org/book/guessing-game.html#generating-a-secret-number
 https://github.com/rust-lang/book
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-166

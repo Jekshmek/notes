@@ -1,0 +1,2 @@
+presentations:
+https://www.infoq.com/presentations/kafka-spring

@@ -1,5 +1,9 @@
 #![no_std]
 
+prelude:
+https://doc.rust-lang.org/std/prelude/
+https://doc.rust-lang.org/std/io/prelude/
+
 RefCounting:
 https://doc.rust-lang.org/nightly/std/rc/
 https://doc.rust-lang.org/nightly/std/sync/struct.Arc.html
@@ -9,3 +13,4 @@ https://doc.rust-lang.org/std/sync/struct.Arc.html
 
 Ref-Deref:
 https://doc.rust-lang.org/nightly/core/ops/trait.Deref.html
+
