@@ -1,3 +1,5 @@
+http://landinghub.visualstudio.com/visual-cpp-build-tools
+
 https://habrahabr.ru/post/280790/
 
 Build:
