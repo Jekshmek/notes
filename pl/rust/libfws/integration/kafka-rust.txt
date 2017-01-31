@@ -1,0 +1,3 @@
+https://crates.io/crates/kafka
+https://spicavigo.github.io/kafka-rust/kafka/index.html
+https://github.com/spicavigo/kafka-rust

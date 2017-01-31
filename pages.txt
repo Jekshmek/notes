@@ -1,7 +1,7 @@
 URLs:
 http://rust-lang.github.io/book/ch02-00-guessing-game-tutorial.html#Comparing-the-Guess-to-the-Secret-Number
 https://this-week-in-rust.org/blog/archives/index.html
-  2-163-166
+  2-163-167
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
