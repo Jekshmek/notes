@@ -1,4 +1,7 @@
 TRPL:
+https://rust-lang.github.io/book/
+https://github.com/rust-lang/book
+
 https://doc.rust-lang.org/book/
 https://doc.rust-lang.org/nightly/book/
 https://github.com/rust-lang/rust/tree/master/src/doc/book

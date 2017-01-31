@@ -1,2 +1,4 @@
 https://doc.rust-lang.org/book/ownership.html
 https://doc.rust-lang.org/book/choosing-your-guarantees.html
+
+http://rust-lang.github.io/book/ch04-01-what-is-ownership.html
