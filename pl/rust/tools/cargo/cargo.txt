@@ -10,6 +10,7 @@ cargo
         [--release] --features 'simd-accel avx-accel'
         --target x86_64-unknown-linux-musl
     update
+        figure out all the latest versions and try to update (Cargo.lock)
     install-update -a
         https://www.reddit.com/r/rust/comments/5a21b8/cargoupdate_check_for_updates_to_your/
     test [--no-build]
