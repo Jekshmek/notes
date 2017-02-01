@@ -1,2 +1,5 @@
 win:
 https://sherryummen.in/2016/09/02/debugging-rust-on-windows-using-visual-studio-code/
+
+presentations:
+https://bitshifter.github.io/rr+rust/#1

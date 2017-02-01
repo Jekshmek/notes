@@ -32,8 +32,13 @@ unstable = ["lints"]
 lints = ["clippy", "nightly"]
 nightly = []
 
+[profile.dev]
+opt-level = 0
+debug = true
+
 [profile.release]
 lto = true
+debug = false
 
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml

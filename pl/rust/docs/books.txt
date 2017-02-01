@@ -14,3 +14,7 @@ http://feederio.com/files/book/14853357981385_30cfdedd0fe9372c2505f762cb70d575.p
 
 Portinc Cpp to Rust:
 https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/setting_up_rust/
+
+TooManyLists:
+http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/
+https://github.com/rust-unofficial/too-many-lists

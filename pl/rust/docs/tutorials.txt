@@ -1,0 +1,13 @@
+Lerning Rust:
+https://www.gitbook.com/book/dumindu/learning-rust/details
+https://medium.com/learning-rust
+https://medium.com/learning-rust/rust-basics-e73304ab35c7#.nuzo24dka
+https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f#.m5edlabuq
+https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e#.7rw8kgcwg
+
+Rust101:
+https://www.ralfj.de/projects/rust-101/
+https://www.ralfj.de/projects/rust-101/main.html
+https://git.ralfj.de/rust-101.git
+https://github.com/RalfJung/rust-101
+https://github.com/RalfJung/rust-101/tree/master/src
