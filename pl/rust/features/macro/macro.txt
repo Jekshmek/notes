@@ -9,6 +9,9 @@ https://www.reddit.com/r/rust/comments/5pxdpk/an_overview_of_macros_in_rust/
 
 https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
 
+courses:
+http://cis198-2016s.github.io/slides/13/#1
+
 codegen:
 https://github.com/serde-rs/syntex
 
