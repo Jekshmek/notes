@@ -1,0 +1,2 @@
+articles:
+http://cglab.ca/%7Eabeinges/blah/rust-reuse-and-recycle/

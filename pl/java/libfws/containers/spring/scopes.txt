@@ -293,4 +293,137 @@ What about thread pools???
 
 // Thread pool and thread scope
 
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(SimpleThreadScopeConfig.class);
+
+Runnable r = () -> {
+    Logger logger = ctx.getBean(Logger.class);
+    logger.addEvent("Hello, i'm thread " + Thread.currentThread().getId());
+};
+
+ExecutorService executor = Executors.newSingleThreadExecutor();
+
+executor.execute(r);
+executor.shutdown();
+executor.awaitTermination(10, TimeUnit.SECONDS);
+
+System.out.println(ctx.getBean(Logger.class).getEvents());
+
+// Output
+[]
+
+// Problem
+Thread pool thread is not associated with the current thread.
+
+
+// Wrap Runnable and Callable
+
+private Callable<?> wrapCallable(Callable<?> callable) {
+    Map<String, Object> callingThreadContext = scope.getCurrentThreadContext();
+    return () -> {
+        scope.replaceContext(callingThreadContext);
+        try {
+            return callable.call();
+        } finally {
+            scope.removeContext();
+        }
+    }
+}
+
+private Runnable wrapRunnable(Runnable runnable) {
+    Map<String, Object> callingThreadContext = scope.getCurrentThreadContext();
+    return () -> {
+        scope.replaceContext(callingThreadContext);
+        try {
+            return runnable.run();
+        } finally {
+            scope.removeContext();
+        }
+    }
+}
+
+// from the Spring src:
+
+public void replaceContext(Map<Spring, Object> context) {
+    this.threadScope.set(context);
+}
+public void removeContext() {
+    this.threadScope.remove();
+}
+public Map<String, Object> getCurrentThreadContext() {
+    return this.threadScope.get();
+}
+
+// AssociatableExecutorFactory
+
+@SuppressWarnings({"rawtypes", "unchecked"})
+public ExecutorService wrap(ExecutorService executor) {
+    //
+    // 1. Proxying ExecutorService
+    //
+    return (ExecutorService) Proxy.newProxyInstance(
+        ExecutorService.class.getClassLoader(),
+        new Class[] { ExecutorService.class },
+        new InvocationHandler() {
+            @Override
+            public Object invoke(Object proxy, Method method, Object [] args) throws Throwable {
+                if (args != null) {
+                    //
+                    // 2. Iterate over the arguments of the method call
+                    //
+                    for (int i = 0; i < args.length; ++i) {
+                        //
+                        // 3. Wrap collection or single object
+                        //
+                        if (Collection.class.isAssibnableFrom(arg.getClass())) {
+                            args[i] = ((Collection) arg).stream().map((listItem) -> {
+                                return tryToWrapSingleObject(listItem);
+                            })
+                            .collect(Collectors.toList());
+                        } else {
+                            args[i] = tryToWrapSingleObject(arg);
+                        }
+                    }
+                }
+                return method.invoke(executor, args);
+            }
+
+            private Object tryToWrapSingleObject(Object arg) {
+                if (Callable.class.isAssignableFrom(arg.getClass())) {
+                    return wrapCallable((Callable) arg);
+                } else if (Runnable.class.isAssignableFrom(arg.getClass())) {
+                    return wrapRunnable((Runnable) arg);
+                } else {
+                    return arg;
+                }
+            }
+
+            private Callable<?> wrapCallable(Callable<?> callable) { ... }
+            private Runnable wrapRunnable(Runnable runnable) { ... }
+        }
+    );
+}
+
+// Thread pool and thread scope
+
+// Runner
+ApplicationContext ctx = new AnnotationConfigApplicationContext(AssociatableThreadScopeConfig.class);
+
+Runnable r = () -> {
+    Logger logger = ctx.getBean(Logger.class);
+    logger.addEvent("Hello, i'm thread " + Thread.currentThread().getId());
+};
+
+AssociatableExecutorFactory executorFactory = ctx.getBean(AssociatableExecutorFactory.class);
+ExecutorService executor = executorFactory.wrap(Executors.newSingleThreadExecutor());
+
+executor.execute(r);
+executor.shutdown();
+executor.awaitTermination(10, TimeUnit.SECONDS);
+
+System.out.println(ctx.getBean(Logger.class).getEvents());
+
+// Output
+[Hello, i'm thread 11]
+Current thread is 1
 

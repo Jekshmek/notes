@@ -9,13 +9,11 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Dzunovich - Diving into Spring App Context Part 1   - 1:01:00 (of 1:21:28)
-ReactJS Architectural Concept (Kyiv)                -   23:00 (of 2:33:09)
+Dzunovich - Diving into Spring App Context Part 1   - 1:06:00 (of 1:21:28)
+ReactJS Architectural Concept (Kyiv)                -   24:00 (of 2:33:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Svarts 3                                    -   03:00 (of 1:09:16)
-  https://vk.com/video-2048479_171151635
 Lemzakov - Fantastics 2014                          -   07:00 (of 1:24:47)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -39,7 +37,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Sonkina - D 2                                       -   25:00 (of 1:47:07)
 P2                                                  - 1:20:00 (of 2:04:57)
-Negreev - 3                                         -   00:00 (of 1:37:05)
+Negreev - 4                                         -   00:00 (of 1:19:11)
 Ivliev - 5                                          -   00:00 (of   49:28)
 Paschenko 7                                         -   00:00 (of   34:43)
 Osipov - 1                                          -   20:00 (of 1:09:28)

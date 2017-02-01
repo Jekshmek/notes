@@ -5,3 +5,5 @@ https://www.rust-lang.org/community.html
 
 https://users.rust-lang.org
 
+VK-Rust:
+https://vk.com/videos-75161087
