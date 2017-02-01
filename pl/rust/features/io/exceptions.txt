@@ -1,2 +1,5 @@
 ?-operator
 https://github.com/rust-lang/rfcs/blob/master/text/0243-trait-based-exception-handling.md
+
+unwrap, expect
+https://www.reddit.com/r/rust/comments/5rbage/the_practicability_of_unwrap_function/

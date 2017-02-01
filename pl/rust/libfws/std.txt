@@ -14,3 +14,5 @@ https://doc.rust-lang.org/std/sync/struct.Arc.html
 Ref-Deref:
 https://doc.rust-lang.org/nightly/core/ops/trait.Deref.html
 
+primitives:
+https://doc.rust-lang.org/std/primitive.str.html
