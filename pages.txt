@@ -9,11 +9,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Dzunovich - Diving into Spring App Context Part 1   - 1:06:00 (of 1:21:28)
+Dzunovich - Diving into Spring App Context Part 1   - 1:12:00 (of 1:21:28)
 ReactJS Architectural Concept (Kyiv)                -   24:00 (of 2:33:09)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Bykov - Single 2017 01 20                           - 1:04:00 (of 1:39:40)
+  https://www.youtube.com/watch?v=Wo6ayO6hw3g
 Lemzakov - Fantastics 2014                          -   07:00 (of 1:24:47)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -35,7 +37,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 2                                       -   25:00 (of 1:47:07)
+Sonkina - D 3                                       -   02:00 (of 1:55:23)
 P2                                                  - 1:20:00 (of 2:04:57)
 Negreev - 4                                         -   00:00 (of 1:19:11)
 Ivliev - 5                                          -   00:00 (of   49:28)
@@ -55,6 +57,7 @@ http://accu.org/index.php/journals/c78/             - 134
 
 Books:
 Gurnell - The Type Astronaut's Guide to Shapelss    - 97..105
+Kleppmann - Making Sence of Stream Processing       -  9..
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)

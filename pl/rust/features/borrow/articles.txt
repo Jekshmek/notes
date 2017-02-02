@@ -28,3 +28,4 @@ https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2016/04/2
 reddit:
 https://www.reddit.com/r/rust/comments/5q9zov/help_lifetime_issues_with_fn_returning_an_array/
 https://www.reddit.com/r/rust/comments/5qds4p/is_there_a_paperoverview_of_how_the_rust_borrow/
+https://www.reddit.com/r/rust/comments/5rkquz/why_can_we_assign_to_a_field_of_an_instance_of_a/

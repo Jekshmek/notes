@@ -427,3 +427,60 @@ System.out.println(ctx.getBean(Logger.class).getEvents());
 [Hello, i'm thread 11]
 Current thread is 1
 
+
+// Readl HTTP server application case
+
+//
+// 1. Define scope
+//
+@Configuration
+private static class Config {
+    @Bean @Scope("request") public Logger logger() ...
+    @Bean public RequestScope requestScope() ...
+    @Bean CustomScopeConfigurere requestScope() ...
+    ...
+}
+//
+// 2. Create request filter
+//
+private static class RequestFilter {
+    @Autowired
+    private ScopeWrapper requestScopeWrapper;
+
+    public void filterRequest(Object request) {
+        requestScopeWrapper.clear();
+        requestScopeWrapper.getScope().put("request", request);
+    }
+}
+//
+// 3. Create response filter
+//
+private static class ResponseFilter {
+    @Autowired
+    private Logger logger;
+    @Autowired
+    private Object request; // this will be proxy
+
+    public void filterResponse(Object response) {
+        System.out.println(logger.getEvents());
+    }
+}
+//
+// 4. Inject your "request" scope bean
+//
+private static class UserService {
+    @Autowired
+    private Logger logger; // this will be proxy
+
+    public void registerUser(Object user) {
+        // login
+        logger.addEvent("User " + user + " was registered.");
+    }
+}
+
+
+// Conclusion
+
+1. Custom scopes are needed to modify bean lifetime
+2. Always think about concurrency, when creating custom scopes
+3. Reuse Spring infrastructure to create custom scopes

@@ -159,3 +159,19 @@ Spock (at settings.gradle) change the "build.gradle" names to "spring.name" i.e.
 Conditions:
 PollingConditions
 AsyncConditions
+
+
+Deep Collections Comparison:
+
+    def collectMaps(e) {
+        e.with{
+            if (it instanceof Map) {
+                [it] + it.values().collect{ collectMaps(it) }
+            } else if (it instanceof Collection) {
+                it.collect{ collectMaps(it) }
+            } else {
+                []
+            }
+        }.flatten()
+    }
+

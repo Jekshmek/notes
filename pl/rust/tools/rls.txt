@@ -1,0 +1,1 @@
+https://github.com/KalitaAlexey/vscode-rust/pull/56
