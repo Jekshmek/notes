@@ -1,2 +1,5 @@
 tokio-process:
 https://github.com/alexcrichton/tokio-process/pull/1
+
+samples:
+https://www.rubdos.be/rust/2017/02/01/implementing-htsp-in-rust.html

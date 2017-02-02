@@ -27,14 +27,6 @@ addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.2")
 boilerplate (tuple/functions):
 https://github.com/sbt/sbt-boilerplate
 
-git:
-https://github.com/sbt/sbt-git
-https://github.com/sbt/sbt-git/blob/master/src/main/scala/com/typesafe/sbt/git/JGit.scala
-https://github.com/ScalaWilliam/git-watch/blob/master/build.sbt
-
-buildinfo:
-https://github.com/sbt/sbt-buildinfo
-
 assembly:
 https://github.com/sbt/sbt-assembly
 

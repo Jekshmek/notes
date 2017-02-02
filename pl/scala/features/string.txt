@@ -1,0 +1,4 @@
+interpolation:
+http://docs.scala-lang.org/overviews/core/string-interpolation.htl
+http://www.scala-lang.org/api/2.12.0/scala/StringContext.html
+http://stackoverflow.com/questions/22643036/scala-runtime-string-interpolation-formatting

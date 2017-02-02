@@ -1,2 +1,4 @@
+http://underscore.io/books/shapeless-guide/
+
 https://github.com/underscoreio/shapeless-guide
 https://github.com/underscoreio/shapeless-guide-code
