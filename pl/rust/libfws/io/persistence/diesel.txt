@@ -1,0 +1,2 @@
+http://docs.diesel.rs/diesel/index.html
+http://diesel.rs/guides/getting-started/

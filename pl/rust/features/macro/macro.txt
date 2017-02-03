@@ -1,5 +1,7 @@
 book:
 https://doc.rust-lang.org/book/macros.html
+https://doc.rust-lang.org/book/procedural-macros.html
+
 https://danielkeep.github.io/tlborm/book/README.html
 https://github.com/DanielKeep/tlborm/
 

@@ -1,0 +1,4 @@
+search:
+https://crates.io/crates/twoway
+https://crates.io/crates/jetscii
+https://crates.io/crates/odds

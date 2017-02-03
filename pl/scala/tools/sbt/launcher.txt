@@ -19,3 +19,9 @@ fi
 
 # Call with INTERNAL_OPTS followed by SBT_OPTS (or DEFAULT_OPTS). java aways takes the last option when duplicate.
 exec java ${INTERNAL_OPTS} ${SBT_OPTS:-${DEFAULT_OPTS}} -jar $SBT_LAUNCHER "$@"
+
+
+alternatively:
+#!/bin/bash
+SBT_OPTS="-Xms512M -Xmx1536M -Xss1M -XX:+CMSClassUnloadingEnabled"
+java $SBT_OPTS -jar `pwd -P`/bin/sbt-launch.jar "$@"
