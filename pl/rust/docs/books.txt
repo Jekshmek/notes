@@ -6,6 +6,8 @@ https://doc.rust-lang.org/book/
 https://doc.rust-lang.org/nightly/book/
 https://github.com/rust-lang/rust/tree/master/src/doc/book
 
+https://killercup.github.io/trpl-ebook/
+
 Blandy - Why Rust:
 http://www.oreilly.com/programming/free/files/why-rust.pdf
 https://www.reddit.com/r/cpp/comments/3kkgfz/why_rust_brief_introduction_but_good_for_c/

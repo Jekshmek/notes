@@ -3,3 +3,6 @@ https://sherryummen.in/2016/09/02/debugging-rust-on-windows-using-visual-studio-
 
 presentations:
 https://bitshifter.github.io/rr+rust/#1
+
+gdb:
+https://sourceware.org/gdb/current/onlinedocs/gdb/Rust.html
