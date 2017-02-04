@@ -1,0 +1,2 @@
+concurrent hash map:
+https://docs.rs/chashmap/0.1.2/chashmap/
