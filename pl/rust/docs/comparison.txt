@@ -1,3 +1,6 @@
+http://www.rust-compare.com/site/index.html
+https://github.com/wspeirs/rust-compare
+
 rust and go:
 http://rust.fastmail.com.user.fm/2017/01/rust-and-go/
 https://www.reddit.com/r/rust/comments/5qdg0d/rust_and_go/
