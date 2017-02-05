@@ -1,10 +1,20 @@
 http://diesel.rs/
 
-http://docs.diesel.rs/diesel/index.html
+articles:
+http://siciarz.net/24-days-rust-diesel/
+https://medium.com/@sgrif/announcing-diesel-a-safe-extensible-orm-and-query-builder-for-rust-fdf57966a16c
+https://hackernoon.com/comparing-diesel-and-rust-postgres-97fd8c656fdd
+https://news.ycombinator.com/item?id=11045412
 
+docs:
+http://docs.diesel.rs/diesel/index.html
+http://docs.diesel.rs/diesel/associations/index.html
+
+guide:
 http://diesel.rs/guides/getting-started/
 https://github.com/diesel-rs/diesel/tree/v0.10.0/examples
 
+code:
 https://github.com/diesel-rs/diesel
 https://github.com/diesel-rs/diesel/blob/master/CHANGELOG.md
 
@@ -14,7 +24,6 @@ diesel
         setup
         reset
     print-schema
-
 
 
 schema samples:
