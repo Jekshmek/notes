@@ -20,6 +20,7 @@ aur:
     postgresql-git
 
 sudo -u postgres initdb /var/lib/postgres/data
+### su -l postgres -c 'initdb --locale en_US.UTF-8 -E UTF8 -D /var/lib/postgres/data'
 ...
 WARNING: enabling "trust" authentication for local connections
 You can change this by editing pg_hba.conf or using the option -A, or
