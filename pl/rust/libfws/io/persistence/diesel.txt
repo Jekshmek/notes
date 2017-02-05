@@ -1,2 +1,32 @@
+http://diesel.rs/
+
 http://docs.diesel.rs/diesel/index.html
+
 http://diesel.rs/guides/getting-started/
+https://github.com/diesel-rs/diesel/tree/v0.10.0/examples
+
+https://github.com/diesel-rs/diesel
+
+diesel
+    -h
+    database
+        setup
+        reset
+    print-schema
+
+
+
+schema samples:
+??? what a table! macro is ???
+
+table! {
+    posts (id) {
+        id -> Int4,
+        title -> Varchar,
+        body -> Text,
+        published -> Bool,
+    }
+}
+
+src/schema.rs
+infer_schema!("dotenv:DATABASE_URL");

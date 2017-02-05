@@ -23,3 +23,8 @@ cargo
     search
         https://github.com/Byron/crates-io-cli-rs
         ?
+    doc
+    deadlinks
+        to show dead links
+    test
+        --test-threads=1

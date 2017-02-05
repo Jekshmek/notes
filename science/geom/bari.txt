@@ -1,5 +1,6 @@
 http://nponeccop.livejournal.com/543867.html
 http://nponeccop.livejournal.com/543588.html
+http://nponeccop.livejournal.com/544752.html
 
 barycenter:
 https://en.wikipedia.org/wiki/Barycentric_coordinate_system
@@ -36,3 +37,7 @@ http://www.slideshare.net/vladimiryaschuk1/ss-16982751
 mass-geom
 bibl-kvant-61
 http://www.nehudlit.ru/books/detail737744.html
+
+
+code samples:
+https://github.com/streamcode9/svg-time-series
