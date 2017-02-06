@@ -1,3 +1,6 @@
+https://www.infoq.com/news/2017/02/rust-115-custom-derive
+https://github.com/rust-lang/rfcs/blob/master/text/1681-macros-1.1.md
+
 https://crates.io/crates/derive_more
 https://github.com/JelteF/derive_more
 

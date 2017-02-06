@@ -3,3 +3,20 @@ https://github.com/rust-lang/rfcs/blob/master/text/0243-trait-based-exception-ha
 
 unwrap, expect
 https://www.reddit.com/r/rust/comments/5rbage/the_practicability_of_unwrap_function/
+
+samples:
+https://www.reddit.com/r/rust/comments/5s7uu1/trivialities_about_early_returning_an_option/
+
+/// Like try, but for iterators that return `Option<Result<_, _>>`.
+macro_rules! itry {
+    ($e:expr) => {
+        match $e {
+            Ok(v) => v,
+            Err(err) => return Some(Err(From::from(err))),
+        }
+    }
+}
+
+try_opt!, option_try!, otry!
+unwrap_or_return! (mac-crate)
+https://doc.rust-lang.org/std/ops/trait.Carrier.html
