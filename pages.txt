@@ -14,6 +14,7 @@ Kotlin development with pleasure                    -   13:00 (of 1:11:06)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Bykov - Single 3 Feb                                -   21:00 (of 1:41:27)
 Bykov - Kuraev                                      -   07:00 (of 1:43:25)
 https://vk.com/video-2048479_169578519              -   01:00 (of   23:22)
 Lemzakov - Fantastics 2014                          -   40:00 (of 1:24:47)
@@ -58,7 +59,7 @@ http://accu.org/index.php/journals/c78/             - 134
 
 Books:
 Gurnell - The Type Astronaut's Guide to Shapelss    - 103..107
-Kleppmann - Making Sence of Stream Processing       -  9..
+Kleppmann - Making Sence of Stream Processing       - 14..
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
