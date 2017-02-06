@@ -11,6 +11,7 @@ http://www.well-typed.com/blog/2015/07/checked-exceptions/
 http://www.reddit.com/r/haskell/comments/3f9ycj/lightweight_checked_exceptions_in_haskell/
 
 FP Complete:
+https://www.fpcomplete.com/blog/2017/02/monadmask-vs-monadbracket
 https://www.reddit.com/r/haskell/comments/5bkqf1/exceptions_best_practices_in_haskell/
 https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 http://www.reddit.com/r/haskell/comments/35sk6w/best_practices_for_using_exceptions_an_fp/
