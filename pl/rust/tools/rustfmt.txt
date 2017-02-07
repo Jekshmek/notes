@@ -1,0 +1,2 @@
+https://github.com/rust-lang-nursery/rustfmt
+https://medium.com/@fredrikanderzon/rust-code-style-and-rustfmt-4f69fbd87c18

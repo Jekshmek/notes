@@ -2,3 +2,13 @@ articles:
 http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/
 https://www.reddit.com/r/rust/comments/5qd3me/lowering_rust_traits_to_logic/
 https://internals.rust-lang.org/t/blog-series-lowering-rust-traits-to-logic/4673
+
+conservative_impl_trait:
+https://www.reddit.com/r/rust/comments/5sir9i/thoughts_on_conservative_impl_trait/
+
+specialization:
+http://aturon.github.io/blog/2017/02/06/specialization-and-coherence/
+http://smallcultfollowing.com/babysteps/blog/2016/10/24/supporting-blanket-impls-in-specialization/
+http://smallcultfollowing.com/babysteps/blog/2016/09/29/distinguishing-reuse-from-override/
+http://smallcultfollowing.com/babysteps/blog/2016/09/24/intersection-impls/
+https://internals.rust-lang.org/t/blog-post-intersection-impls/4129

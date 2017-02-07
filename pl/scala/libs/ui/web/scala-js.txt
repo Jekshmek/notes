@@ -17,5 +17,17 @@ https://github.com/MetaStack-pl/MetaRx
 workbench:
 https://github.com/lihaoyi/workbench
 
+scalajs-react:
+https://japgolly.github.io/scalajs-react/
+https://github.com/japgolly/scalajs-react
+
+monadic-html:
+https://olivierblanvillain.github.io/monadic-html/examples/
+https://github.com/OlivierBlanvillain/monadic-html
+
 scla-js-dom:
 https://github.com/scala-js/scala-js-dom/blob/master/src/main/scala/org/scalajs/dom/svg.scala
+
+slacajs-bundler
+https://scalacenter.github.io/scalajs-bundler/index.html
+https://github.com/scalacenter/scalajs-bundler

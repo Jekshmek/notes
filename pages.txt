@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch03-02-data-types.html#Integer-Types
+http://rust-lang.github.io/book/ch03-03-how-functions-work.html
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-167
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
@@ -58,8 +58,8 @@ https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
 
 Books:
-Gurnell - The Type Astronaut's Guide to Shapelss    - 103..107
-Kleppmann - Making Sence of Stream Processing       - 14..
+Gurnell - The Type Astronaut's Guide to Shapelss    - 104..107
+Kleppmann - Making Sence of Stream Processing       - 17..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
