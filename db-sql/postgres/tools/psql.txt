@@ -1,3 +1,5 @@
+https://www.postgresql.org/docs/current/static/app-psql.html
+
 /var/lib/postgres/.psql_history
 
 cmd-line options:
@@ -22,11 +24,19 @@ $ psql "service=myservice sslmode=require"
 $ psql postgresql://dbmaster:5433/mydb?sslmode=require
 
 
-
 \?
     help
 \q
     quit
+
+\! <cmd>
+\pwd
+\cd <dir>
+    d:/clb/src/platform/cmp
+
+\conninfo
+    print connection info
+
 \r or \reset
     Resets (clears) the query buffer.
 \l[+] or \list[+] [ pattern ]
@@ -60,11 +70,32 @@ $ psql postgresql://dbmaster:5433/mydb?sslmode=require
     http://stackoverflow.com/questions/15644152/list-tables-in-a-postgresql-schema
     \dt <role>.*
 
+\d[S+] [ pattern ]
+    For each relation (table, view, index, sequence, or foreign table) or composite type matching the pattern,
+    show all columns, their types, the tablespace (if not the default) and any special attributes such as NOT NULL or defaults.
+    Associated indexes, constraints, rules, and triggers are also shown. For foreign tables, the associated foreign server is shown as well.
+    ("Matching the pattern" is defined in Patterns below.)
+    For some types of relation, \d shows additional information for each column: column values for sequences,
+    indexed expression for indexes and foreign data wrapper options for foreign tables.
+
+    The command form \d+ is identical, except that more information is displayed: any comments associated with the columns of the table are shown,
+    as is the presence of OIDs in the table, the view definition if the relation is a view, a non-default replica identity setting.
+
+    By default, only user-created objects are shown; supply a pattern or the S modifier to include system objects.
+
+    Note: If \d is used without a pattern argument, it is equivalent to \dtvsE which will show a list of all visible tables, views, sequences and foreign tables.
+    This is purely a convenience measure.
+
 \i <file.sql>
     execute script from file
 
-Help
+
+help:
   \? [commands]          show help on backslash commands
   \? options             show help on psql command-line options
   \? variables           show help on special variables
   \h [NAME]              help on syntax of SQL commands, * for all commands
+
+
+search_path:
+set search_path to 'win_ss';

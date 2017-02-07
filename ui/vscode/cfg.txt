@@ -1,0 +1,10 @@
+cfg:
+https://code.visualstudio.com/docs/customization/userandworkspace
+C:/Users/<>/AppData/Roaming/Code/
+    User/
+        keybindings.json
+        settings.json
+    storage.json
+
+https://code.visualstudio.com/docs/supporting/faq#_how-do-i-opt-out-of-vs-code-autoupdates
+https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting

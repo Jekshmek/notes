@@ -1,0 +1,9 @@
+C+S+P
+    Command Palette
+
+C+S+B
+    Build Debug
+C+S+R
+    Run Debug
+C+S+X
+    Extensions

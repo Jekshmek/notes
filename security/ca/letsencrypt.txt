@@ -9,6 +9,8 @@ https://habrahabr.ru/post/301558/
 https://habrahabr.ru/post/279695/
 https://habrahabr.ru/post/244037/
 
+https://www.unixmen.com/encrypt-apache-webserver-centos-7/
+
 Presentations:
 https://air.mozilla.org/introduction-to-lets-encrypt/
 
