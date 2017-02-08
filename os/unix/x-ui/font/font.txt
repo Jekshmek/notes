@@ -15,5 +15,9 @@ http://sourcefoundry.org/hack/
 powerline:
 https://github.com/stefano-meschiari/dotemacs/blob/master/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
 
+source code pro:
+https://github.com/adobe-fonts/source-code-pro
+http://adobe-fonts.github.io/source-code-pro/
+
 commercial:
 Pragmata Pro

@@ -154,3 +154,14 @@ tsdiscon
 shutdown /l
     log off
 
+Font and ClearType
+cttune.exe
+http://karpolan.com/software/cleartype-switch/
+http://www.thewindowsclub.com/disable-font-smoothing-windows
+http://superuser.com/questions/737922/how-to-improve-subpixel-hinting-in-windows-7
+http://forum.oszone.net/thread-118411.html
+HKCU\Control Panel\Desktop
+    -FontSmoothing
+    -FontSmoothingGamma
+    -FontSmoothingOrientation
+    -FontSmoothingType

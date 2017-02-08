@@ -9,13 +9,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-ReactJS Architectural Concept (Kyiv)                - 1:18:30 (of 2:33:09)
-Kotlin development with pleasure                    -   32:00 (of 1:11:06)
+ReactJS Architectural Concept (Kyiv)                - 1:46:00 (of 2:33:09)
+Kotlin development with pleasure                    -   52:00 (of 1:11:06)
+Stewart - Thinking Inside the Container             -   21:00 (of   51:33)
+Kafka                                               -   37:00
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
-Kafka                                               -   22:00 (-40:00)
 
 Literature:
-Bykov - Single 3 Feb                                - 1:30:00 (of 1:41:27)
+Bykov - Papa and Patriarh                           -   27:00 (of 1:40:58)
+Bykov - Makar                                       -   09:00 (of   46:42)
 Bykov - Kuraev                                      -   07:00 (of 1:43:25)
 https://vk.com/video-2048479_169578519              -   01:00 (of   23:22)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
@@ -41,7 +43,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Sonkina - D 3                                       -   02:00 (of 1:55:23)
 P2                                                  - 1:20:00 (of 2:04:57)
-Negreev - 4                                         -   00:00 (of 1:19:11)
+Negreev - 5                                         -   00:00 (of 1:32:37)
 Ivliev - 6                                          -   00:00 (of   34:57)
 Paschenko 9                                         -   00:00 (of )
 Osipov - 1                                          -   20:00 (of 1:09:28)

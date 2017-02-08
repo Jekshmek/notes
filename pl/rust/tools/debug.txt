@@ -6,3 +6,6 @@ https://bitshifter.github.io/rr+rust/#1
 
 gdb:
 https://sourceware.org/gdb/current/onlinedocs/gdb/Rust.html
+
+online:
+http://rust.godbolt.org/
