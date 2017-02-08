@@ -1,2 +1,6 @@
 https://users.rust-lang.org/t/rust-roadmap-tracker/9231/3
 https://github.com/rust-lang/rust-roadmap
+
+2017:
+https://blog.rust-lang.org/2017/02/06/roadmap.html
+https://www.reddit.com/r/haskell/comments/5shoyu/rusts_2017_roadmap_increase_developer_productivity/

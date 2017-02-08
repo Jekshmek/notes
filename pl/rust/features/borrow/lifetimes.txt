@@ -1,0 +1,1 @@
+https://users.rust-lang.org/t/lifetime-specifier-question/6295/8

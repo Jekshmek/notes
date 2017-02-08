@@ -13,5 +13,8 @@ http://www.thelinuxguy.nl/how-tos/how-to-change-the-grub2-theme-on-archlinux/
 https://github.com/Generator/Grub2-themes#faq
 https://github.com/Generator/Grub2-themes
 
+tutorials:
+http://rus-linux.net/MyLDP/boot/GRUB2-full-tutorial.html
+
 Background:
 /usr/share/grub/background.png

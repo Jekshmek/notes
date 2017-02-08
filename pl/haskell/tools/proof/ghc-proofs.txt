@@ -1,0 +1,2 @@
+https://www.reddit.com/r/haskell/comments/5siftn/code_equivalences_embedded_in_haskell_source_and/
+https://github.com/nomeata/ghc-proofs
