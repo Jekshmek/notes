@@ -1,9 +1,6 @@
 rustc
     --explain E0038
 
-plugins:
-https://github.com/llogiq/flamer
-
 crates:
 https://crates.io/crates/rustc_version
 https://crates.io/crates/rustc_version_runtime
