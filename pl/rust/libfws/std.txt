@@ -17,6 +17,10 @@ https://doc.rust-lang.org/nightly/core/ops/trait.Deref.html
 primitives:
 https://doc.rust-lang.org/std/primitive.str.html
 
+num:
+https://doc.rust-lang.org/std/num/index.html
+https://doc.rust-lang.org/std/num/struct.Wrapping.html
+
 ops:
 https://doc.rust-lang.org/std/ops/index.html
 

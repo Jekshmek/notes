@@ -1,0 +1,2 @@
+https://github.com/ngrx/ngrx.github.io
+https://www.infoq.com/articles/angular-component-communication

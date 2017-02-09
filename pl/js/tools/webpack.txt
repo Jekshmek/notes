@@ -1,6 +1,11 @@
 presentations:
 https://www.infoq.com/presentations/4-concepts-webpack
 
+video
+Kantor - webpack screencast
+http://learn.javascript.ru/screencast/webpack
+https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn
+
 entry
 output
 loaders

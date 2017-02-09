@@ -13,6 +13,3 @@ https://marketplace.visualstudio.com/items?itemName=webfreak.debug
 
 GDB
 https://sourceforge.net/projects/tdm-gcc/?source=typ_redirect
-
-whatsnew:
-https://code.visualstudio.com/updates/v1_9

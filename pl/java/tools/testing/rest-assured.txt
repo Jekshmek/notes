@@ -1,2 +1,4 @@
-https://code.google.com/p/rest-assured/
+http://rest-assured.io/
+https://github.com/rest-assured/rest-assured
+https://techbeacon.com/efficient-api-testing-how-get-started-rest-assured
 

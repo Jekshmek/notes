@@ -1,1 +1,4 @@
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
+
+samples:
+http://rust.fastmail.com.user.fm/2017/02/rusty-buffers/
