@@ -1,1 +1,3 @@
 https://doc.rust-lang.org/std/process/struct.Stdio.html
+
+let mut stdout = child.stdout.as_mut().expect("unable to open stdout of child");
