@@ -1,7 +1,7 @@
 URLs:
 http://blog.predanie.ru/article/molchaniya-skortseze-o-chem-sporyat-hristianstvo-i-yazychestvo/
 http://blog.predanie.ru/article/hram-kak-poliklinika/
-http://rust-lang.github.io/book/ch03-05-control-flow.html#Repetition-with-Loops
+http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Variable-Scope
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-168
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
@@ -60,8 +60,8 @@ https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
 
 Books:
-Gurnell - The Type Astronaut's Guide to Shapelss    - 106..107
-Kleppmann - Making Sence of Stream Processing       - 30..172
+Gurnell - The Type Astronaut's Guide to Shapelss    - 107..107
+Kleppmann - Making Sence of Stream Processing       - 40..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
