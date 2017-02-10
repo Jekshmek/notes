@@ -48,6 +48,9 @@ debug = false
 build-dependencies:
 http://doc.crates.io/build-script.html#build-dependencies
 
+workspaces:
+http://doc.crates.io/manifest.html#the-workspace-section
+
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml
 

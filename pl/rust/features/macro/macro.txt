@@ -27,7 +27,9 @@ https://github.com/dtolnay/quote
 declarative
 - macro_rules!
 - macro (macro by example for 2.0 or just a declarative macro)
+
 procedural:
+https://habrahabr.ru/post/321564/
 https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
 
 1.1
