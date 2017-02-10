@@ -6,6 +6,6 @@ datadir=d:\dev\utils\pgsql\data
 disable-stackbuilder=yes
 
 superpassword=PGSQL-123
+servicepassword=PGSQL-123
 
 servicename=posgresql-x64
-

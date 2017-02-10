@@ -28,3 +28,11 @@ cargo
         to show dead links
     test
         --test-threads=1
+
+
+$CARGO_HOME/.cargo/
+    bin/
+    registry/
+        cache/
+        index/ - tons of stuff
+        src/

@@ -45,6 +45,9 @@ debug = true
 lto = true
 debug = false
 
+build-dependencies:
+http://doc.crates.io/build-script.html#build-dependencies
+
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml
 

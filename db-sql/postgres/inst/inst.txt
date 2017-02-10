@@ -33,18 +33,6 @@ Success. You can now start the database server using:
 sudo -u postgres createuser --superuser $USER
 createuser -s -U $USER
 
-
-inst-win:
-http://www.enterprisedb.com/docs/en/9.3/pginstguide/Table%20of%20Contents.htm
-
-http://stackoverflow.com/questions/22193927/how-to-install-postgresql-on-windows-using-command-prompt
-
-
-postgresql-<ver>-windows-x64.exe --optionfile <full-path-to-cfg>
-
-Cmd-line installation options:
-http://www.enterprisedb.com/docs/en/9.3/pginstguide/PostgreSQL_Installation_Guide-12.htm
-
 cfg:
 /usr/lib/systemd/system/postgresql.service
 ...
@@ -54,11 +42,14 @@ postgres-owned:
 /var/lib/posgres/data/postgresql.conf
 /var/lib/posgres/data/pg_hba.conf
 
-# TYPE  DATABASE        USER            ADDRESS                 METHOD
+# IPv4 local connections:
+host    all             all             127.0.0.1/32            md5
+host    all             all             0.0.0.0/0               md5
+#host    all             all             10.9.0.0/24             md5
+#host    all             all             10.9.202.193/32         md5
+# IPv6 local connections:
+host    all             all             ::1/128                 md5
 
 # "local" is for Unix domain socket connections only
 local   all             all                                     trust
-# IPv4 local connections:
-host    all             all             127.0.0.1/32            trust
-# IPv6 local connections:
-host    all             all             ::1/128  
+

@@ -1,4 +1,26 @@
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
 
+Deref-trait:
+https://doc.rust-lang.org/std/ops/trait.Deref.html
+
 samples:
 http://rust.fastmail.com.user.fm/2017/02/rusty-buffers/
+
+pub struct Buffer { vec: Vec<u8> }
+
+impl Buffer {
+    pub fn new() -> Buffer { Buffer { vec: Vec::new(), } }
+
+    pub fn buf<'a: 'b, 'b>(&'a mut self, more: &'b [u8]) -> Buf<'b> {
+        if self.vec.is_empty() {
+            Buf::Empty(&mut self.vec, more)
+        } else {
+            self.vec.extend_from_slice(more);
+            Buf::Some(&mut self.vec)
+        }
+    }
+}
+
+The lifetimes (<'a: 'b, 'b>) are a bit gnarly because the compiler must be told that
+the returned Buf has the same lifetime as the input buffer
+which may be shorter than the lifetime of the Buffer.

@@ -1,2 +1,3 @@
+https://github.com/KalitaAlexey/vscode-rust
 https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust
 https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
