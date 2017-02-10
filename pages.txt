@@ -1,4 +1,6 @@
 URLs:
+http://blog.predanie.ru/article/molchaniya-skortseze-o-chem-sporyat-hristianstvo-i-yazychestvo/
+http://blog.predanie.ru/article/hram-kak-poliklinika/
 http://rust-lang.github.io/book/ch03-05-control-flow.html#Repetition-with-Loops
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-168
@@ -14,8 +16,8 @@ Kafka                                               -   37:00
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Bykov - Bella                                       -   02:00 (of   21:49)
 Bykov - Papa and Patriarh                           -   27:00 (of 1:40:58)
-Bykov - Makar                                       -   24:00 (of   46:42)
 Bykov - Kuraev                                      -   07:00 (of 1:43:25)
 https://vk.com/video-2048479_169578519              -   01:00 (of   23:22)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
