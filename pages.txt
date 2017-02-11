@@ -60,7 +60,6 @@ https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 134
 
 Books:
-Gurnell - The Type Astronaut's Guide to Shapelss    - 107..107
 Kleppmann - Making Sence of Stream Processing       - 40..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
