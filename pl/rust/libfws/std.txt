@@ -27,3 +27,10 @@ https://doc.rust-lang.org/std/ops/index.html
 sync:
 https://doc.rust-lang.org/stable/std/sync/
 http://www.cs.brandeis.edu/%7Ecs146a/rust/doc-02-21-2015/nightly/std/sync/struct.TaskPool.html
+
+path:
+https://doc.rust-lang.org/std/path/
+
+iter:
+https://doc.rust-lang.org/std/iter/index.html
+https://doc.rust-lang.org/std/iter/trait.Iterator.html

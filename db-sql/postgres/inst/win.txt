@@ -16,10 +16,10 @@ postgresql-<ver>-windows-x64.exe --optionfile <full-path-to-cfg>
 Cmd-line installation options:
 http://www.enterprisedb.com/docs/en/9.3/pginstguide/PostgreSQL_Installation_Guide-12.htm
 
- --unattendedmodeui 
+--unattendedmodeui 
 --mode unattended --superpassword PGSQL-123 --servicepassword PGSQL-123 --prefix d:/dev/utils/pgsql --datadir d:/dev/utils/pgsql/data --serverport 5432
 
---optionfile d:\dev\notes\db-sql\postgres\.cfg\pgcfg
+--optionfile ...\.cfg\pgcfg
 
 scripts\serverctl.vbs
 installer\
