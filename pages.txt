@@ -1,5 +1,4 @@
 URLs:
-http://blog.predanie.ru/article/molchaniya-skortseze-o-chem-sporyat-hristianstvo-i-yazychestvo/
 http://blog.predanie.ru/article/hram-kak-poliklinika/
 http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Variable-Scope
 https://this-week-in-rust.org/blog/archives/index.html
