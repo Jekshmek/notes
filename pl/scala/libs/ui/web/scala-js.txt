@@ -3,7 +3,8 @@ http://www.scala-js.org/doc/
 http://www.scala-js.org/tutorial/
 http://www.scala-js.org/tutorial/basic/
 
-https://github.com/sjrd/scala-js-example-app
+articles:
+http://scalapro.net/designing-facades-in-scala-js/
 
 sbt-scalajs:
 http://www.scala-js.org/doc/project/
@@ -31,3 +32,6 @@ https://github.com/scala-js/scala-js-dom/blob/master/src/main/scala/org/scalajs/
 slacajs-bundler
 https://scalacenter.github.io/scalajs-bundler/index.html
 https://github.com/scalacenter/scalajs-bundler
+
+samples:
+https://github.com/sjrd/scala-js-example-app
