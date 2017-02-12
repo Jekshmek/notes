@@ -1,5 +1,6 @@
 rustc
     --explain E0038
+    --release -- -Z print-type-sizes
 
 crates:
 https://crates.io/crates/rustc_version
