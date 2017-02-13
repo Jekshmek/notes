@@ -59,7 +59,3 @@ http://stackoverflow.com/questions/13027460/gwt-safe-html-framework-when-to-use-
 http://www.gwtproject.org/doc/latest/DevGuideSecuritySafeHtml.html
 http://www.gwtproject.org/javadoc/latest/com/google/gwt/safehtml/shared/package-summary.html
 http://www.gwtproject.org/javadoc/latest/com/google/gwt/safehtml/client/SafeHtmlTemplates.html
-
-Debug:
-ensureDebugId
-http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/client/ui/UIObject.html#ensureDebugId(com.google.gwt.dom.client.Element,%20java.lang.String)
