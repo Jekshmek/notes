@@ -1,6 +1,6 @@
 URLs:
 http://blog.predanie.ru/article/hram-kak-poliklinika/
-http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Variable-Scope
+http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Memory-and-Allocation
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-168
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/

@@ -1,3 +1,11 @@
+https://en.wikibooks.org/wiki/Git/Internal_structure
+A commit is reachable if it is pointed to by a branch, tag or reflog entry,
+or is a parent of a commit which is reachable.
+A tree is correspondingly reachable if it is pointed to by a reachable commit,
+and a blob is reachable if it is pointed to by a reachable tree.
+Other commit/tree/blob objects are unreachable,
+and are not really serving any purpose beyond taking up space.
+
 Interesting:
 
 Types of git objects:
@@ -46,4 +54,3 @@ References:
 Branches:
 - reference to the latest commit on that specific branch
   HEAD alias - reference to the latest commit on the current branch
-
