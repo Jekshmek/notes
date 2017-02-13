@@ -161,7 +161,7 @@ http://www.thewindowsclub.com/disable-font-smoothing-windows
 http://superuser.com/questions/737922/how-to-improve-subpixel-hinting-in-windows-7
 http://forum.oszone.net/thread-118411.html
 HKCU\Control Panel\Desktop
-    -FontSmoothing
-    -FontSmoothingGamma
-    -FontSmoothingOrientation
-    -FontSmoothingType
+    -FontSmoothing                2
+    -FontSmoothingGamma           0  (7d0 - 2000)
+    -FontSmoothingOrientation     1
+    -FontSmoothingType            2

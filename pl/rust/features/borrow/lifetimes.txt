@@ -1,3 +1,5 @@
+https://chrismorgan.info/blog/rust-ownership-the-hard-way.html
+
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
 
 Deref-trait:

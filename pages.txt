@@ -1,6 +1,5 @@
 URLs:
-http://blog.predanie.ru/article/hram-kak-poliklinika/
-http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Memory-and-Allocation
+http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Ownership-and-Functions
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-168
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
@@ -54,12 +53,12 @@ Sorokin - Family 1                                  -   00:00 (of 3:39:34)
 Sorokin - Family 2                                  -   00:00 (of 3:55:02)
 
 Tracking:
-Razbor Poletov                                      - 125
+Razbor Poletov                                      - 126 - 55:00 (of 2:35:03)
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
-http://accu.org/index.php/journals/c78/             - 134
+http://accu.org/index.php/journals/c78/             - 137
 
 Books:
-Kleppmann - Making Sence of Stream Processing       - 40..172
+Kleppmann - Making Sence of Stream Processing       - 51..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)

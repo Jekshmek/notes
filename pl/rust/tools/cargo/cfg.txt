@@ -45,6 +45,10 @@ debug = true
 lto = true
 debug = false
 
+dependencies:
+http://doc.crates.io/specifying-dependencies.html
+http://doc.crates.io/specifying-dependencies.html#specifying-dependencies-from-git-repositories
+
 build-dependencies:
 http://doc.crates.io/build-script.html#build-dependencies
 
