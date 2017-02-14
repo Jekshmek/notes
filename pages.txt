@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch04-01-what-is-ownership.html#Ownership-and-Functions
+http://rust-lang.github.io/book/ch04-02-references-and-borrowing.html#Mutable-References
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-168
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
@@ -58,7 +58,7 @@ https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
-Kleppmann - Making Sence of Stream Processing       - 51..172
+Kleppmann - Making Sence of Stream Processing       - 62..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
