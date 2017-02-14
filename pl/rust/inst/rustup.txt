@@ -39,6 +39,8 @@ export PATH="/data/wrk/.cargo/bin:$PATH"
 vars
 RUSTUP_HOME (~/.rustup)
 
+RUSTUP_DIST_SERVER=https://dev-static.rust-lang.org rustup update nightly
+
 fs:
 ~/.rustup
 
