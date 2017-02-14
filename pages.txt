@@ -9,13 +9,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-ReactJS Architectural Concept (Kyiv)                - 1:56:00 (of 2:33:09)
-Kafka                                               -   37:00
+WebPack Intro                                       -   11:00 (of 1:23:46)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Bella                                       -   02:00 (of   21:49)
-Bykov - Papa and Patriarh                           -   27:00 (of 1:40:58)
+Bykov - Papa and Patriarh                           - 1:10:00 (of 1:40:58)
+Bykov - Bella                                       -   10:00 (of   21:49)
 Bykov - Kuraev                                      -   07:00 (of 1:43:25)
 https://vk.com/video-2048479_169578519              -   01:00 (of   23:22)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
@@ -42,18 +41,17 @@ Audio:
 Sonkina - D 3                                       -   02:00 (of 1:55:23)
 P2                                                  - 1:20:00 (of 2:04:57)
 Negreev - 5                                         -   00:00 (of 1:32:37)
-Ivliev - 6                                          -   00:00 (of   34:57)
-Paschenko 9                                         -   00:00 (of )
+Ivliev - 7                                          -   00:00 (of   40:52)
+Paschenko 10                                        -   00:00 (of   56:58)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
 Sorokin - A 4                                       -   00:00 (of 1:15:47)
-Sorokin - Family 1                                  -   00:00 (of 3:39:34)
-Sorokin - Family 2                                  -   00:00 (of 3:55:02)
+Sorokin - T 1-1                                     -   10:00 (of   48:35)
 
 Tracking:
-Razbor Poletov                                      - 126 - 55:00 (of 2:35:03)
+Razbor Poletov                                      - 126
 https://www.schoolofhaskell.com/recent-content      - 7 Dec
 http://accu.org/index.php/journals/c78/             - 137
 

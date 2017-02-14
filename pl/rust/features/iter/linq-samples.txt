@@ -1,6 +1,8 @@
 https://gist.github.com/leonardo-m/6e9315a57fe9caa893472c2935e9d589
 https://users.rust-lang.org/t/some-c-linq-samples-to-rust/9429
 
+https://www.reddit.com/r/rust/comments/5nzjlo/equivalent_of_linqs_defaultifempty/
+
 // Port of the C# 101 LINQ Samples rewritten into Apple's Swift 3.
 
 #![feature(ordering_chaining, step_by)]

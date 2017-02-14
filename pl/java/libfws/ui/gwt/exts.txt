@@ -1,4 +1,16 @@
 https://dev.arcbees.com/gwtchosen/
 
+Download https://jcenter.bintray.com/com/arcbees/gwtchosen/3.0.1/gwtchosen-3.0.1.jar
+Download https://jcenter.bintray.com/com/google/guava/guava-gwt/18.0/guava-gwt-18.0.jar
+Download https://jcenter.bintray.com/com/arcbees/gss/gsss/1.0/gsss-1.0.jar
+Download https://jcenter.bintray.com/com/gwtplatform/gwtp-dispatch-rest/1.4/gwtp-dispatch-rest-1.4.jar
+Download https://jcenter.bintray.com/com/gwtplatform/gwtp-dispatch-common-client/1.4/gwtp-dispatch-common-client-1.4.jar
+Download https://jcenter.bintray.com/com/gwtplatform/gwtp-dispatch-rest-shared/1.4/gwtp-dispatch-rest-shared-1.4.jar
+Download https://jcenter.bintray.com/com/google/gwt/inject/gin/2.1.2/gin-2.1.2.jar
+Download https://jcenter.bintray.com/com/github/nmorel/gwtjackson/gwt-jackson/0.6.1/gwt-jackson-0.6.1.jar
+Download https://jcenter.bintray.com/com/gwtplatform/gwtp-clients-common/1.4/gwtp-clients-common-1.4.jar
+Download https://jcenter.bintray.com/com/gwtplatform/gwtp-dispatch-common-shared/1.4/gwtp-dispatch-common-shared-1.4.jar
+
+
 https://dev.arcbees.com/gquery/
 https://github.com/gwtquery

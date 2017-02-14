@@ -1,6 +1,12 @@
 https://github.com/Netflix/RxJava
 http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
+
+articles:
+https://www.infoq.com/articles/rxjava2-by-example
 https://zeroturnaround.com/rebellabs/rxjava-for-easy-concurrency-and-backpressure/
+
+eMag:
+http://www.infoq.com/resource/minibooks/emag-reactive-programming-java/en/pdf/InfoQ-Reactive-Programming-in-Java-eMag.pdf
 
 Books:
 Maglie - Reactive Java Programming
