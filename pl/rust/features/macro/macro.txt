@@ -30,6 +30,7 @@ declarative
 
 procedural:
 https://habrahabr.ru/post/321564/
+https://habrahabr.ru/post/321620/
 https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
 
 1.1
