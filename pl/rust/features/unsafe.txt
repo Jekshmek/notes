@@ -6,3 +6,6 @@ http://smallcultfollowing.com/babysteps/blog/2016/09/12/thoughts-on-trusting-typ
 http://smallcultfollowing.com/babysteps/blog/2016/10/02/observational-equivalence-and-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2017/02/01/unsafe-code-and-shared-references/
+
+http://blog.regehr.org/archives/1467
+https://www.reddit.com/r/rust/comments/5u3vrq/undefined_behavior_unsafe_programming/

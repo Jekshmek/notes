@@ -1,0 +1,11 @@
+https://crates.io/crates/error-chain
+https://docs.rs/error-chain/0.9.0/error_chain/
+https://github.com/brson/error-chain
+
+https://crates.io/crates/derive-error-chain
+https://docs.rs/derive-error-chain/0.9.0/derive_error_chain/
+https://github.com/Arnavion/derive-error-chain
+
+https://docs.rs/error-chain/0.9.0/error_chain/macro.quick_main.html
+
+https://www.reddit.com/r/rust/comments/5u0vkk/nice_error_handling_in_rust/
