@@ -14,3 +14,19 @@ Download https://jcenter.bintray.com/com/gwtplatform/gwtp-dispatch-common-shared
 
 https://dev.arcbees.com/gquery/
 https://github.com/gwtquery
+
+gwtp
+https://www.murrayc.com/permalink/2016/02/24/gwtp-modelviewpresenter-for-gwt-with-ginguice-dependency-injection/
+
+http://www.slideshare.net/Arcbees/presentations
+http://www.slideshare.net/Arcbees/how-to-improve-your-productivity-using-gwtp
+http://www.slideshare.net/Arcbees/gwtcon-2015-best-development-practices-for-gwt-web-applications
+
+http://www.slideshare.net/christiangoudreau/mvp-with-gwt-and-gwtp
+http://www.slideshare.net/poseidonJM/architecting-gw-tapplicationgwtplatform
+
+
+
+GWT Polymer
+http://www.slideshare.net/dodotis/introducing-gwt-polymer
+http://www.slideshare.net/dodotis/rock-gwt-uis-with-polymer-elements

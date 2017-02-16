@@ -1,0 +1,4 @@
+ffprobe
+ffplay
+
+https://www.unixmen.com/hacking-ffmpeg-python-one/

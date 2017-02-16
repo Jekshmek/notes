@@ -1,0 +1,4 @@
+https://crates.io/crates/typenum
+http://paholg.com/typenum/typenum/index.html
+http://paholg.com/project/typenum/
+https://github.com/paholg/typenum

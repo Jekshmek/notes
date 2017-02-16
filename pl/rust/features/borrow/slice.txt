@@ -1,3 +1,5 @@
+http://rust-lang.github.io/book/ch04-03-slices.html
+
 https://doc.rust-lang.org/std/primitive.slice.html
 https://doc.rust-lang.org/std/slice/
 

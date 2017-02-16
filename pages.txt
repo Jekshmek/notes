@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch04-03-slices.html#String-Slices
+http://rust-lang.github.io/book/ch05-00-structs.html
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-169
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/

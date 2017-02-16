@@ -1,0 +1,4 @@
+http://hoverfly.io/
+https://docs.hoverfly.io/en/stable/index.html
+
+http://www.ontestautomation.com/creating-stubs-using-the-hoverfly-java-dsl/
