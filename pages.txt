@@ -13,10 +13,8 @@ WebPack Intro                                       -   40:00 (of 1:23:46)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Neznaika                                    -   45:00 (of   53:11)
-  https://vk.com/video238111554_456239669
+Bykov - Kuraev                                      - 1:31:00 (of 1:43:25)
 Bykov - Single 10 Feb                               -   22:00 (of 1:45:37)
-Bykov - Kuraev                                      -   09:00 (of 1:43:25)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
@@ -57,7 +55,7 @@ http://accu.org/index.php/journals/c78/             - 137
 
 Books:
 Blandy - Why Rust                                   - 6..18..42..53
-Kleppmann - Making Sence of Stream Processing       - 72..172
+Kleppmann - Making Sence of Stream Processing       - 74..81..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
