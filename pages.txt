@@ -54,10 +54,15 @@ http://accu.org/index.php/journals/c78/             - 137
 
 Books:
 Blandy - Why Rust                                   - 6..18..42..53
-Kleppmann - Making Sence of Stream Processing       - 74..81..172
+Kleppmann - Making Sence of Stream Processing       - 77..81..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
+
+Mahesh Balakrishnan, Dahlia Malkhi, Ted Wobber, et al.: “Tango: Distributed Data
+Structures over a Shared Log,” at 24th ACM Symposium on Operating Systems Principles
+(SOSP), pages 325–340, November 2013. doi:10.1145/2517349.2522732
+https://developers.google.com/closure/templates/
