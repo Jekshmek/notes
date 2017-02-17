@@ -4,3 +4,4 @@ https://doc.rust-lang.org/beta/nomicon/send-and-sync.html
 
 articles:
 http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/
+https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html

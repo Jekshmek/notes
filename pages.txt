@@ -36,8 +36,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Sonkina - D 3                                       -   02:00 (of 1:55:23)
-P2                                                  - 1:20:00 (of 2:04:57)
+P2                                                  - 1:46:00 (of 2:04:57)
 Negreev - 6                                         -   00:00 (of 1:30:35)
 Ivliev - 7                                          -   00:00 (of   40:52)
 Paschenko 10                                        -   00:00 (of   56:58)
@@ -50,7 +49,7 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 
 Tracking:
 Razbor Poletov                                      - 126
-https://www.schoolofhaskell.com/recent-content      - 7 Dec
+https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
