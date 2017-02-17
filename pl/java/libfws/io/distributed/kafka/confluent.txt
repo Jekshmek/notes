@@ -1,0 +1,12 @@
+https://www.confluent.io/
+https://github.com/confluentinc
+
+https://www.confluent.io/product/kafka-streams/
+https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
+
+http://www.slideshare.net/SparkSummit/building-realtime-data-pipelines-with-kafka-connect-and-spark-streaming-by-ewen-cheslackpostava
+https://www.youtube.com/watch?v=wMLAlJimPzk
+https://github.com/confluentinc/strata-tutorials
+
+http://docs.confluent.io/2.0.0/connect/index.html
+https://www.confluent.io/blog/announcing-kafka-connect-building-large-scale-low-latency-data-pipelines/
