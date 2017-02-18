@@ -65,4 +65,6 @@ cpp - iterator category/tag-dispatching
 Mahesh Balakrishnan, Dahlia Malkhi, Ted Wobber, et al.: “Tango: Distributed Data
 Structures over a Shared Log,” at 24th ACM Symposium on Operating Systems Principles
 (SOSP), pages 325–340, November 2013. doi:10.1145/2517349.2522732
+
 https://developers.google.com/closure/templates/
+https://www.reddit.com/r/rust/comments/5umwlm/talkslides_from_rustdc_trylearn_clap/
