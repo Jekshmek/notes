@@ -1,0 +1,7 @@
+https://crates.io/crates/encoding
+https://lifthrasiir.github.io/rust-encoding/encoding/index.html
+https://github.com/lifthrasiir/rust-encoding
+
+https://crates.io/crates/encoding_rs
+https://docs.rs/encoding_rs/0.4.0/encoding_rs/
+https://github.com/hsivonen/encoding_rs
