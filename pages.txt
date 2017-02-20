@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch05-01-method-syntax.html
+http://rust-lang.github.io/book/ch06-01-defining-an-enum.html#enum-values
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-169
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
