@@ -53,7 +53,8 @@ http://doc.crates.io/specifying-dependencies.html#specifying-dependencies-from-g
 build-dependencies:
 http://doc.crates.io/build-script.html#build-dependencies
 
-workspaces:
+workspaces, multi-crates:
+https://users.rust-lang.org/t/what-is-the-idiomatic-way-to-manage-a-project-with-multiple-crates/6683
 http://doc.crates.io/manifest.html#the-workspace-section
 
 samples:
