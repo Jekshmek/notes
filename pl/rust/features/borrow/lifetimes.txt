@@ -26,3 +26,7 @@ impl Buffer {
 The lifetimes (<'a: 'b, 'b>) are a bit gnarly because the compiler must be told that
 the returned Buf has the same lifetime as the input buffer
 which may be shorter than the lifetime of the Buffer.
+
+NLL (Non-lexical lifetimes)
+http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
+http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/
