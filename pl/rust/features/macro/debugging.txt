@@ -1,0 +1,8 @@
+https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/
+
+cargo-expand
+
+$ # expanded code relies on some internal rust features:
+$ echo '#![feature(box_syntax, test, fmt_internals)]' > tests/derive-enum-unit-expanded.rs
+$ cargo expand --test derive-enum-struct > tests/derive-enum-struct-expanded.rs
+$ cargo test --test derive-enum-struct-expanded

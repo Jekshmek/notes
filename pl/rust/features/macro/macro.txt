@@ -38,5 +38,11 @@ https://github.com/rust-lang/rfcs/blob/master/text/1681-macros-1.1.md
 https://github.com/dtolnay/syn
 https://github.com/dtolnay/quote
 
+1.2
+https://www.reddit.com/r/rust/comments/5v7s7h/macros_12_rfc_fasttrack_to_stabilize_functionlike/
+https://github.com/rust-lang/rfcs/pull/1913
+https://github.com/SimonSapin/rfcs/blob/ea572265da96e19c57668c436973deded18f8dfd/text/0000-macros-1.2.md
+
 2.0
 https://github.com/rust-lang/rfcs/pull/1584
+
