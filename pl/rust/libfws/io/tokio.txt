@@ -3,3 +3,5 @@ https://github.com/alexcrichton/tokio-process/pull/1
 
 samples:
 https://www.rubdos.be/rust/2017/02/01/implementing-htsp-in-rust.html
+https://www.reddit.com/r/rust/comments/5vfgt1/feedbacks_on_writing_asynchronous_http_server/
+https://blog.guillaume-gomez.fr/articles/2017-02-22+Rust+asynchronous+HTTP+server+with+tokio+and+hyper

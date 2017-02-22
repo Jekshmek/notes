@@ -46,10 +46,10 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 
 Tracking:
 Razbor Poletov                                      - 126
+https://this-week-in-rust.org/blog/archives/index.html
+  2-163-170
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
-https://this-week-in-rust.org/blog/archives/index.html
-  2-163-169
 
 Books:
 Blandy - Why Rust                                   - 8..18..42..53
