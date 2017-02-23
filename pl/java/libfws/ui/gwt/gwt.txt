@@ -1,15 +1,3 @@
-Presentations:
-https://speakerdeck.com/w32blaster/precompilation-preferences-in-example-of-gwt
-http://www.slideshare.net/sefftinge/gwt-and-xtend
-https://speakerdeck.com/iawara/gwt-basics
-
-Tutorials:
-https://www.tutorialspoint.com/gwt/
-
-https://www.tutorialspoint.com/gwt/gwt_layout_panels.htm
-
-Vaadin:
-
 Errai:
 http://erraiframework.org/
 https://docs.jboss.org/author/display/ERRAI/Errai+UI
@@ -21,7 +9,6 @@ https://github.com/gwtbootstrap/gwt-bootstrap/issues/448
 
 https://github.com/gwtbootstrap3/gwtbootstrap3
 http://stackoverflow.com/questions/22836186/gwt-bootstrap-vs-gwtbootstrap3
-
 
 Layouts:
 http://www.gwtproject.org/doc/latest/DevGuideUiPanels.html
