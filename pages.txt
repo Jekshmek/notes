@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch06-02-match.html
+http://rust-lang.github.io/book/ch07-01-mod-and-the-filesystem.html
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -54,7 +54,7 @@ http://accu.org/index.php/journals/c78/             - 137
 
 Books:
 Blandy - Why Rust                                   - 8..18..42..53
-Kleppmann - Making Sence of Stream Processing       - 101..110..133..172
+Kleppmann - Making Sence of Stream Processing       - 111..117..133..172
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)

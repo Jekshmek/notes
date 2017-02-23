@@ -1,4 +1,2 @@
-Sysdig:
 http://www.sysdig.org/
 https://github.com/draios/sysdig
-

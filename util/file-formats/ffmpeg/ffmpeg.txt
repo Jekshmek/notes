@@ -2,3 +2,4 @@ ffprobe
 ffplay
 
 https://www.unixmen.com/hacking-ffmpeg-python-one/
+https://www.unixmen.com/hack-ffmpeg-python-part-two/
