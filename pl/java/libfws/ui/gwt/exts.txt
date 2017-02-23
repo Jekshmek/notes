@@ -30,3 +30,6 @@ http://www.slideshare.net/poseidonJM/architecting-gw-tapplicationgwtplatform
 GWT Polymer
 http://www.slideshare.net/dodotis/introducing-gwt-polymer
 http://www.slideshare.net/dodotis/rock-gwt-uis-with-polymer-elements
+
+resty-gwt
+https://github.com/resty-gwt/resty-gwt
