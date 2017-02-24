@@ -8,11 +8,12 @@ https://developers.google.com/closure/templates/
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  -   21:00 (of 1:29:20)
+Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  -   30:00 (of 1:29:20)
 Denisov - Groovy for Java developers 1              -   20:00 (ol   57:07)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Bykov-Feb24                                         -   01:00 (of 1:45:54)
 Bykov - Problem of the God                          -   07:00 (of 1:41:24)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -38,12 +39,12 @@ Audio:
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Ivliev - 8                                          -   00:00 (of   44:12)
 Paschenko 11                                        -   00:00 (of 2:52:42)
-Desnitsky 1                                         -   28:00 (of 1:44:13)
+Desnitsky 1                                         - 1:18:00 (of 1:44:13)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 Shlyahtin - Bysantine Poesy                         -   01:00 (of 1:09:14)
-Sorokin - A 5                                       -   31:00 (of 1:14:56)
+Sorokin - A 5                                       -   00:00 (of 1:22:21)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 
 Tracking:

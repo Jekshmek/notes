@@ -16,6 +16,8 @@ https://ricardomartins.cc/2016/06/08/interior-mutability
 nll (non-lexical lifetymes):
 http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
 
+https://hackernoon.com/why-im-dropping-rust-fd1c32986c88
+
 2015:
 http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/
 https://chrismorgan.info/blog/rust-ownership-the-hard-way.html 
