@@ -55,7 +55,7 @@ https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
-Blandy - Why Rust                                   - 10..18..22..40..42..53
+Blandy - Why Rust                                   - 11..18..22..40..42..53
 Kleppmann - Making Sence of Stream Processing       - 120..133..172
 Kafka - The Definition Guide                        - 14..
 SVM                                                 - 13..15..21..29
