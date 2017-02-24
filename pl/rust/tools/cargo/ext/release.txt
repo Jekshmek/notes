@@ -1,0 +1,2 @@
+https://crates.io/crates/cargo-release
+https://github.com/sunng87/cargo-release

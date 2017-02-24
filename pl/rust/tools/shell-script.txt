@@ -65,5 +65,7 @@ http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stder
 samples:
 https://github.com/uutils/coreutils
 https://github.com/uutils/coreutils/blob/master/src/tee/tee.rs
+https://github.com/redox-os/coreutils
+https://github.com/redox-os/coreutils/blob/master/src/bin/tee.rs
 
 https://github.com/sighol/tree-rs

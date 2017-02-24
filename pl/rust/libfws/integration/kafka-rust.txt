@@ -1,3 +1,8 @@
 https://crates.io/crates/kafka
 https://spicavigo.github.io/kafka-rust/kafka/index.html
 https://github.com/spicavigo/kafka-rust
+
+https://crates.io/crates/rdkafka
+https://github.com/fede1024/rust-rdkafka
+
+https://github.com/edenhill/librdkafka

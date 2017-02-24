@@ -1,0 +1,4 @@
+https://crates.io/crates/lazycell
+http://indiv0.github.io/lazycell/lazycell/
+https://github.com/indiv0/lazycell
+https://www.reddit.com/r/rust/comments/5vs9rt/lazycell_a_rust_library_providing_a_lazilyfilled/

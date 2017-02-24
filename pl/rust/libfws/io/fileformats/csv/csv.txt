@@ -1,0 +1,3 @@
+https://crates.io/crates/csv
+http://burntsushi.net/rustdoc/csv/
+https://github.com/BurntSushi/rust-csv

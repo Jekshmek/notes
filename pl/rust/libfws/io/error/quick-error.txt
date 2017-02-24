@@ -1,0 +1,3 @@
+https://crates.io/crates/quick-error
+http://tailhook.github.io/quick-error/quick_error/index.html
+https://github.com/tailhook/quick-error
