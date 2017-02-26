@@ -1,0 +1,3 @@
+https://crates.io/crates/chan
+http://burntsushi.net/rustdoc/chan/
+https://github.com/BurntSushi/chan
