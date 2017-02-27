@@ -23,6 +23,10 @@
 * [Some Optimizations Are More Important Than Others] (http://www.drdobbs.com/cpp/some-optimizations-are-more-important-th/240159684)
 * [An Important Move Optimization Is Nearly Invisible] (http://www.drdobbs.com/cpp/an-important-move-optimization-is-nearly/240160031)
 
+### Perfect forwarding
+
+* [Perfect forwarding in c++] (https://agop.me/post/perfect-forwarding-cpp-11.html)
+
 ## Presentations
 
 * [Tambe - C++11 Idioms] (http://www.slideshare.net/SumantTambe/c11-idioms-silicon-valley-code-camp-2012)
