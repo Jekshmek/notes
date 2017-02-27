@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch07-02-controlling-visibility-with-pub.html
+http://rust-lang.github.io/book/ch07-03-importing-names-with-use.html
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
