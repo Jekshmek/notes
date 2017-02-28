@@ -1,4 +1,5 @@
 URLs:
+https://news.tut.by/economics/533183.html
 http://rust-lang.github.io/book/ch08-01-vectors.html
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
@@ -13,7 +14,6 @@ Denisov - Groovy for Java developers 1              -   20:00 (ol   57:07)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov-Feb24                                         -   25:00 (of 1:45:54)
 Bykov - Problem of the God                          -   07:00 (of 1:41:24)
 Bykov - Beilis                                      -   19:00 (of 1:11:37)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -37,7 +37,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
-Ivliev - 8                                          -   00:00 (of   44:12)
+Ivliev - 9                                          -   00:00 (of   43:21)
 Paschenko 12                                        -   00:00 (of 1:00:38)
 Desnitsky 1                                         - 1:18:00 (of 1:44:13)
 Osipov - 1                                          -   20:00 (of 1:09:28)
@@ -49,7 +49,7 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 S1                                                  -   20:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 126
+Razbor Poletov                                      - 127
 https://this-week-in-rust.org/blog/archives/index.html
   2-163-170
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
