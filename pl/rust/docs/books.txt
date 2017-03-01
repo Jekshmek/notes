@@ -6,7 +6,11 @@ https://doc.rust-lang.org/book/
 https://doc.rust-lang.org/nightly/book/
 https://github.com/rust-lang/rust/tree/master/src/doc/book
 
+https://doc.rust-lang.org/nightly/unstable-book/
+
 https://killercup.github.io/trpl-ebook/
+
+https://users.rust-lang.org/t/the-bookshelf-is-largely-implemented-please-check-out-the-new-docs/9715
 
 Blandy - Why Rust:
 http://www.oreilly.com/programming/free/files/why-rust.pdf
