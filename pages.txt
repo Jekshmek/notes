@@ -10,7 +10,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  -   36:00 (of 1:29:20)
-Gonzales - Data science APIs in Haskell             -   09:00 (of 1:03:50)
+Gonzales - Data science APIs in Haskell             -   11:00 (of 1:03:50)
 Denisov - Groovy for Java Developers and Testers    -   07:00 (of   58:30)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
