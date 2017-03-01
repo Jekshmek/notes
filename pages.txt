@@ -50,8 +50,7 @@ S1                                                  -   20:00 (of )
 
 Tracking:
 Razbor Poletov                                      - 127
-https://this-week-in-rust.org/blog/archives/index.html
-  2-163-170
+This week in rust                                   - 171
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
 
