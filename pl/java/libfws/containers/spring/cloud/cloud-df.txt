@@ -1,0 +1,8 @@
+http://cloud.spring.io/spring-cloud-dataflow/
+
+https://github.com/spring-cloud/spring-cloud-dataflow
+https://github.com/spring-cloud/spring-cloud-dataflow/tree/master/spring-cloud-dataflow-docs
+
+http://docs.spring.io/spring-cloud-dataflow-server-cloudfoundry/docs/1.1.0.RELEASE/reference/htmlsingle/
+
+!!! web-app has a good svg elems !!!

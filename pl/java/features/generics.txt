@@ -1,3 +1,6 @@
+https://advancedweb.hu/2016/05/03/java_variance/
+https://www.infoq.com/presentations/java-generics
+
 Matorin - Tricky Java Generics
 
 PECS (Producer-extends, consumer-super)

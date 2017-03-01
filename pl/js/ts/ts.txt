@@ -1,0 +1,2 @@
+http://definitelytyped.org/
+https://github.com/DefinitelyTyped/DefinitelyTyped
