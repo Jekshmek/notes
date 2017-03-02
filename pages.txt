@@ -1,11 +1,9 @@
 URLs:
 http://rust-lang.github.io/book/ch08-02-strings.html
-https://news.tut.by/economics/533183.html
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
-https://developers.google.com/closure/templates/
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
@@ -40,7 +38,7 @@ Audio:
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Ivliev - 9                                          -   00:00 (of   43:21)
 Paschenko 12                                        -   00:00 (of 1:00:38)
-Desnitsky 1                                         - 1:18:00 (of 1:44:13)
+Desnitsky 2                                         -   00:00 (of 1:37:38)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Mikhailov - Aborigeny                               -   05:00 (of 1:54:15)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)

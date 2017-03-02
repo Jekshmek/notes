@@ -11,6 +11,8 @@ https://avro.apache.org/version_control.html
 https://github.com/apache/avro
 
 articles:
+https://www.ctheu.com/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry/
+
 http://aseigneurin.github.io/2016/03/04/kafka-spark-avro-producing-and-consuming-avro-messages.html
 http://www.ibm.com/developerworks/ru/library/bd-avrohadoop/
 

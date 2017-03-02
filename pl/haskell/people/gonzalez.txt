@@ -1,6 +1,8 @@
 Talks:
 Gabriel Gonzales - 2017 - Data science APIs in Haskell
     https://www.youtube.com/watch?v=pXjBcoe3M2s
+Gabriel Gonzales - 2017 - Applied category theory and abstract algebra
+    https://www.youtube.com/watch?v=WsA7GtUQeB8
 
 Ecosystem:
 http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html
