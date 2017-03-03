@@ -1,5 +1,5 @@
 URLs:
-http://rust-lang.github.io/book/ch08-03-hash-maps.html#creating-a-new-hash-map
+http://rust-lang.github.io/book/ch09-01-unrecoverable-errors-with-panic.html
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Machine Learning Algorithms
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/

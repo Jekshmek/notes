@@ -1,3 +1,5 @@
+articles:
+https://dev.to/buntine/aha-understanding-lifetimes-in-rust
 https://chrismorgan.info/blog/rust-ownership-the-hard-way.html
 
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
@@ -26,6 +28,20 @@ impl Buffer {
 The lifetimes (<'a: 'b, 'b>) are a bit gnarly because the compiler must be told that
 the returned Buf has the same lifetime as the input buffer
 which may be shorter than the lifetime of the Buffer.
+
+explanation
+https://gist.github.com/eddyb/1ebf928307a44ea64f6e
+'a is a lifetime parameter.
+Generic functions and types in Rust can have both type parameters and lifetime paramters  
+Lifetime parameters are used to track how long data behind references is valid for  
+You need them when storing references in structures or enums that you define  
+For example, holding a vector of string slices requires you to do the following:
+    struct BagOfStrings<'a> { strings: Vec<&'a str> }
+without the 'a parameter, Rust would not be able to distinguish between
+    BagOfStrings<'static>
+        which may contain only `&'static str` (e.g. string literals) and
+    BagOfStrings<'some_stack_scope>
+        which may have `&str`'s pointing into a `String` on the stack  
 
 NLL (Non-lexical lifetimes)
 http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
