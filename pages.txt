@@ -45,7 +45,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 Sorokin - A 7                                       -   00:00 (of 1:17:00)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
-S1                                                  -   20:00 (of )
+S1                                                  -   42:00 (of )
 
 Tracking:
 Razbor Poletov                                      - 127
