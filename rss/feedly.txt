@@ -4,3 +4,6 @@ http://feedly.com/#preferences
 
 http://feedly.com/#opml
 http://feedly.com/#cortex
+
+?
+    keyboard shortcuts
