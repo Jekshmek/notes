@@ -57,6 +57,9 @@ workspaces, multi-crates:
 https://users.rust-lang.org/t/what-is-the-idiomatic-way-to-manage-a-project-with-multiple-crates/6683
 http://doc.crates.io/manifest.html#the-workspace-section
 
+err-processing
+panic = 'abort'
+
 samples:
 https://github.com/BurntSushi/ripgrep/blob/master/Cargo.toml
 

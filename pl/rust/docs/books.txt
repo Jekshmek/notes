@@ -1,5 +1,6 @@
 TRPL:
 https://rust-lang.github.io/book/
+https://rust-lang.github.io/book/second-edition/
 https://github.com/rust-lang/book
 
 https://doc.rust-lang.org/book/
