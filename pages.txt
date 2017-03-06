@@ -1,5 +1,7 @@
 URLs:
 https://rust-lang.github.io/book/second-edition/ch09-02-recoverable-errors-with-result.html#matching-on-different-errors
+https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
+  Training examples
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Important aspects when dealing with Machine Learning
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -8,15 +10,17 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  -   40:00 (of 1:29:20)
-Denisov - Groovy for Java Developers                -   00:00 (of   57:30)
-Gonzales - Data science APIs in Haskell             -   33:00 (of 1:03:50)
+Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  - 1:11:00 (of 1:29:20)
+Gonzales - Data science APIs in Haskell             -   46:00 (of 1:03:50)
+Denisov - Groovy for Java Developers                -   10:00 (of   57:30)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Feb 17                                      -   42:00 (of 1:42:39)
-Kuraev - Hristos Boleet Hristianami                 -   31:00 (of 2:41:01)
-Kublanovsky                                         -   24:00 (of 1:11:55)
+Kuraev - Hristos Boleet Hristianami                 - 1:17:40 (of 2:41:01)
+Bykov - Feb 17                                      - 1:00:00 (of 1:42:39)
+Bykov - Irteniev and Bossart                        -   42:00 (of 1:42:36)
+  https://vk.com/video238111554_456239676
+Kublanovsky                                         -   38:00 (of 1:11:55)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
@@ -38,8 +42,8 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Burmistrovy                                         -   20:00 (of 2:11:25)
+Paschenko 13                                        -   00:00 (of 2:38:38)
 Ivliev - 9                                          -   00:00 (of   43:21)
-Paschenko 12                                        -   00:00 (of 1:00:38)
 Desnitsky 3                                         -   00:00 (of 1:14:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
