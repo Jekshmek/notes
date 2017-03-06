@@ -1,0 +1,2 @@
+3.4
+https://jaxenter.com/gradle-3-4-improves-support-for-building-java-applications-131937.html
