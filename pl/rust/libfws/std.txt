@@ -34,3 +34,6 @@ https://doc.rust-lang.org/std/path/
 iter:
 https://doc.rust-lang.org/std/iter/index.html
 https://doc.rust-lang.org/std/iter/trait.Iterator.html
+
+xargo:
+https://github.com/japaric/xargo

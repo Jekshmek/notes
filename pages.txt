@@ -1,7 +1,7 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch09-02-recoverable-errors-with-result.html#matching-on-different-errors
+https://rust-lang.github.io/book/second-edition/ch09-02-recoverable-errors-with-result.html#shortcuts-for-panic-on-error-unwrap-and-expect
 https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
-  Training examples
+  Background: borrowing
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Important aspects when dealing with Machine Learning
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/

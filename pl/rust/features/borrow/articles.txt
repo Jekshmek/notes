@@ -1,6 +1,7 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 2017:
+https://bryce.fisher-fleig.org/blog/strategies-for-returning-references-in-rust/
 http://phaazon.blogspot.com.by/2017/02/lifetimes-limits-self-borrowing-and.html
 https://www.reddit.com/r/rust/comments/5siiir/lifetimes_limits_self_borrowing_and_dropchecker/
 
