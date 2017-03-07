@@ -22,6 +22,9 @@ gpg
 gpg-ssh:
 https://incenp.org/notes/2015/gnupg-for-ssh-authentication.html
 
+clients:
+pass/passmenu
+
 Problems:
 https://www.gnupg.org/documentation/manuals/gnupg/Common-Problems.html
 
