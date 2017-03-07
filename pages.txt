@@ -1,7 +1,7 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch09-02-recoverable-errors-with-result.html#propagating-errors
+https://rust-lang.github.io/book/second-edition/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-
 https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
-  Message Passing
+  Locks
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
   Important aspects when dealing with Machine Learning
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -10,15 +10,14 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Bogoevici-StreamProcessAtScaleWithSpringXDAndKafka  - 1:11:00 (of 1:29:20)
-Gonzales - Data science APIs in Haskell             -   46:00 (of 1:03:50)
-Denisov - Groovy for Java Developers                -   10:00 (of   57:30)
+Denisov - Groovy for Java Developers                -   30:00 (of   57:30)
+Koltsov - Tokio                                     -   16:00 (of 1:05:21)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
 Kuraev - Hristos Boleet Hristianami                 - 1:17:40 (of 2:41:01)
-Bykov - Feb 17                                      - 1:00:00 (of 1:42:39)
-Bykov - Irteniev and Bossart                        -   42:00 (of 1:42:36)
+Bykov - Feb 17                                      - 1:11:00 (of 1:42:39)
+Bykov - Irteniev and Bossart                        - 1:10:00 (of 1:42:36)
   https://vk.com/video238111554_456239676
 Kublanovsky                                         -   38:00 (of 1:11:55)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -43,7 +42,7 @@ Audio:
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Burmistrovy                                         -   20:00 (of 2:11:25)
 Paschenko 13                                        -   00:00 (of 2:38:38)
-Ivliev - 9                                          -   00:00 (of   43:21)
+Ivliev - 10                                         -   00:00 (of   47:58)
 Desnitsky 3                                         -   00:00 (of 1:14:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
@@ -52,15 +51,14 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 S1                                                  -   42:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 127
+Razbor Poletov                                      - 128 - 13:00 (of 1:01:28)
 This week in rust                                   - 171
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
 Blandy - Why Rust                                   - 11..18..22..40..42..53
-Kleppmann - Making Sence of Stream Processing       - 165..170..172
-Kafka - The Definition Guide                        - 14..
+Narkhede - Kafka The Definitive Guide               - 14..
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
