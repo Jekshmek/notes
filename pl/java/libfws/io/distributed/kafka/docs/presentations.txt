@@ -1,0 +1,4 @@
+2017:
+https://www.infoq.com/presentations/kafka-spring
+https://www.youtube.com/watch?v=l8V6PkVV1Ec
+

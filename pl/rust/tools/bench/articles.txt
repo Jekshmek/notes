@@ -1,1 +1,2 @@
+https://llogiq.github.io/2017/03/06/lifetime.html
 https://llogiq.github.io/2015/06/16/bench.html

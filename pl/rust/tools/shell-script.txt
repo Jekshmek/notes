@@ -61,6 +61,8 @@ https://crates.io/crates/os_pipe
 https://docs.rs/os_pipe/0.4.0/os_pipe/
 http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stderr
 
+clonablechild:
+https://github.com/faern/clonablechild
 
 samples:
 https://github.com/uutils/coreutils

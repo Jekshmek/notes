@@ -1,6 +1,9 @@
 https://doc.rust-lang.org/book/ffi.html
 http://jakegoulding.com/rust-ffi-omnibus/
 
+articles:
+http://fitzgeraldnick.com/2017/03/07/what-the-ffi.html
+
 bindgen:
 https://crates.io/crates/bindgen
 https://www.reddit.com/r/rust/comments/5pr3t9/heads_up_yamakakyrustbindgen_and_servorustbindgen/
