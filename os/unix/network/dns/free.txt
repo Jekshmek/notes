@@ -22,3 +22,16 @@ https://gitlab-pages-custom-domain-lets-encrypt.info/
 
 paid:
 support.by
+
+gh-pages:
+http://stackoverflow.com/questions/23375422/how-to-setup-github-pages-to-redirect-dns-requests-from-subdomain-e-g-www-to
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+
+https://habrahabr.ru/post/323430/
+CNAME:
+pretty-house.ru
+
+# 2 github IP addresses:
+@ A 192.30.252.153
+@ A 192.30.252.154
+www CNAME *your-github-account*.github.io.
