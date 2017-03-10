@@ -1,0 +1,19 @@
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+Navigate
+C-B
+    Go to Declaration
+A-F7
+    Edit|Find|Find Usages
+
+Debugging
+
+C-F8
+    Toggle Breakpoint
+C-S-F8
+    View Breakpoints
+
+Compile and Run
+
+F9
+    Debug/Resume
