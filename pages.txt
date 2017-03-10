@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch09-03-to-panic-or-not-to-panic.html
+https://rust-lang.github.io/book/second-edition/ch10-00-generics.html#removing-duplication-by-extracting-a-function
 https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
   Thread safety and “Send”
 https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/
