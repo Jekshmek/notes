@@ -2,3 +2,6 @@ async:
 https://mgattozzi.com/hyper-async
 https://www.reddit.com/r/rust/comments/5qewfu/building_an_asynchronous_hyper_server/
 https://github.com/mgattozzi/mgattozzi/blob/master/src/client/app/posts/hyper-async.md
+
+https://mgattozzi.com/hyper-client
+https://www.reddit.com/r/rust/comments/5yh7u0/how_to_use_hyper_asynchronously/
