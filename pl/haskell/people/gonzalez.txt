@@ -210,6 +210,9 @@ http://www.haskellforall.com/2017/02/program-json-and-yaml-with-dhall.html
 https://hackage.haskell.org/package/dhall-json
 https://github.com/Gabriel439/Haskell-Dhall-JSON-Library
 
+dhall-rs:
+https://github.com/nanotech/dhall-rs
+
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html
