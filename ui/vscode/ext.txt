@@ -2,3 +2,5 @@ https://code.visualstudio.com/docs/setup/additional-components
 
 ~/.vscode/extensions
 
+scala-lsp:
+https://marketplace.visualstudio.com/items?itemName=dragos.scala-lsp
