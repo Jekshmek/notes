@@ -5,6 +5,8 @@ C-B
     Go to Declaration
 A-F7
     Edit|Find|Find Usages
+C-F12
+    Navigate|File Structure
 
 Debugging
 
