@@ -46,3 +46,4 @@ https://www.reddit.com/r/rust/comments/5q9zov/help_lifetime_issues_with_fn_retur
 https://www.reddit.com/r/rust/comments/5qds4p/is_there_a_paperoverview_of_how_the_rust_borrow/
 https://www.reddit.com/r/rust/comments/5rkquz/why_can_we_assign_to_a_field_of_an_instance_of_a/
 https://www.reddit.com/r/rust/comments/5sa4wo/use_fnlike_reference_in_generic_parameter/
+https://www.reddit.com/r/rust/comments/5ny09j/tips_to_not_fight_the_borrow_checker/
