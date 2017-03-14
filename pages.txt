@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch10-02-traits.html#implementing-a-trait-on-a-type
+https://rust-lang.github.io/book/second-edition/ch10-03-lifetime-syntax.html#lifetimes-prevent-dangling-references
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
@@ -7,11 +7,9 @@ http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predan
 
 Video:
 Denisov - Groovy for Java Developers                -   37:00 (of   57:30)
-Koltsov - Tokio                                     -   35:00 (of 1:05:21)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Mar 10                                      -   35:40 (of 1:48:56)
 Kuraev - Hristos Boleet Hristianami                 - 1:30:32 (of 2:41:01)
 Bykov - Irteniev and Bossart                        - 1:10:00 (of 1:42:36)
   https://vk.com/video238111554_456239676
@@ -37,10 +35,11 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
+Bykov - Mar10                                       -   50:00 (of 1:48:56)
 Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Burmistrovy                                         -   20:00 (of 2:11:25)
 Paschenko 14                                        -   00:00 (of 1:19:42)
-Ivliev - 10                                         -   00:00 (of   47:58)
+Ivliev - 11                                         -   00:00 (of   43:07)
 Desnitsky 3                                         -   27:00 (of 1:14:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
@@ -49,7 +48,7 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 S1                                                  -   42:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 129 - 1:04:00 (of 3:31:13)
+Razbor Poletov                                      - 129
 This week in rust                                   - 172
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
