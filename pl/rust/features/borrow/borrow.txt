@@ -1,0 +1,1 @@
+&*foo to "reborrow" it, without consuming the mutable reference.
