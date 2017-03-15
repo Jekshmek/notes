@@ -5,7 +5,7 @@ https://www.postgresql.org/docs/current/static/app-psql.html
 cmd-line options:
     -h <dbhost>
         connect to <dbhost> host
-    -d <dbname>
+!!! -d <dbname>
         connect to <dbname> DB
     -U <dbuser>
         connect by <dbuser> user

@@ -1,0 +1,13 @@
+http://spekframework.org/
+http://spekframework.org/docs/latest/
+
+https://github.com/JetBrains/spek
+
+https://bintray.com/jetbrains/spek/spek
+
+articles:
+https://medium.com/@juanchosaravia/keddit-part-9-unit-test-with-kotlin-mockito-spek-76709812e3b6
+
+presentations:
+https://www.slideshare.net/rfletcher/testing-with-kotlin
+https://www.slideshare.net/BLStream/kotlin-spek-and-tests
