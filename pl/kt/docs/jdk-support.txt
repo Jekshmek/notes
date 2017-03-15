@@ -2,6 +2,8 @@
 kotlin-stdlib
 kotlin-stdlib-jre8
 
+https://www.linkedin.com/pulse/from-java-8-kotlin-aliaksandr-liakh
+
 so:
 http://stackoverflow.com/documentation/kotlin/707/java-8-stream-equivalents
 
