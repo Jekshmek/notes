@@ -6,10 +6,11 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Denisov - Groovy for Java Developers                -   37:00 (of   57:30)
+Terentieva - API Testing with Groovy based framework-   06:00 (of   53:44)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
+Bykov - Dragunski                                   -   53:00 (of 1:20:21)
 Kuraev - Hristos Boleet Hristianami                 - 1:30:32 (of 2:41:01)
 Bykov - Irteniev and Bossart                        - 1:10:00 (of 1:42:36)
   https://vk.com/video238111554_456239676
@@ -43,13 +44,13 @@ Ivliev - 11                                         -   00:00 (of   43:07)
 Desnitsky 3                                         -   27:00 (of 1:14:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
-Sorokin - A 8                                       -   00:00 (of 1:15:18)
+Sorokin - A 9                                       -   00:00 (of 1:23:23)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 S1                                                  -   42:00 (of )
 
 Tracking:
 Razbor Poletov                                      - 129
-This week in rust                                   - 172
+This week in rust                                   - 173
 https://www.schoolofhaskell.com/recent-content      - 15 Feb
 http://accu.org/index.php/journals/c78/             - 137
 
