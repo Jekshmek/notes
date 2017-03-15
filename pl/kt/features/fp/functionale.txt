@@ -1,0 +1,3 @@
+https://github.com/MarioAriasC/funKTionale
+
+https://speakerdeck.com/marioariasc/functional-programming-in-kotlin-with-funktionale-2

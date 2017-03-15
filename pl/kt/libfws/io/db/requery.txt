@@ -1,0 +1,3 @@
+https://github.com/requery/requery
+
+https://github.com/requery/requery/wiki/Gradle-&-Annotation-processing
