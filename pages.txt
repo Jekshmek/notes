@@ -6,12 +6,11 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Terentieva - API Testing with Groovy based framework-   06:00 (of   53:44)
+Terentieva - API Testing with Groovy based framework-   15:00 (of   53:44)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Dragunski                                   -   53:00 (of 1:20:21)
-Kuraev - Hristos Boleet Hristianami                 - 1:30:32 (of 2:41:01)
+Kuraev - Hristos Boleet Hristianami                 - 1:43:00 (of 2:41:01)
 Bykov - Irteniev and Bossart                        - 1:10:00 (of 1:42:36)
   https://vk.com/video238111554_456239676
 Kublanovsky                                         -   38:00 (of 1:11:55)
@@ -36,8 +35,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Bykov - Mar10                                       -   50:00 (of 1:48:56)
-Kuraev - Hristos Boleet Hristianami                 -   42:40 (of 2:41:01)
 Burmistrovy                                         -   20:00 (of 2:11:25)
 Paschenko 14                                        -   00:00 (of 1:19:42)
 Ivliev - 11                                         -   00:00 (of   43:07)

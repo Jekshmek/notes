@@ -3,6 +3,7 @@ https://github.com/alexcrichton/tokio-process/pull/1
 
 articles:
 http://asquera.de/blog/2017-03-01/the-future-with-futures/
+https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34
 
 samples:
 https://www.rubdos.be/rust/2017/02/01/implementing-htsp-in-rust.html

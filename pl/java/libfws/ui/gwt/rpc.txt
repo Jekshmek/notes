@@ -6,6 +6,9 @@ http://www.gwtproject.org/doc/latest/DevGuideCodingBasicsDeferred.html
 
 https://www.tutorialspoint.com/gwt/gwt_rpc_communication.htm
 
+protocol:
+https://docs.google.com/document/d/1eG0YocsYYbNAtivkLtcaiEE5IOF5u4LUol8-LL0TIKU/edit
+
 Service:
 http://www.gwtproject.org/javadoc/latest/com/google/gwt/user/client/rpc/RemoteService.html
 

@@ -1,5 +1,11 @@
 https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
 
+Editing
+C-I
+    Implement method
+C-O
+    Override method
+
 Navigate
 C-B
     Go to Declaration

@@ -17,6 +17,7 @@ https://github.com/requery/requery/blob/master/requery/src/main/java/io/requery/
 
 https://github.com/requery/requery/blob/master/requery/src/main/java/io/requery/sql/Configuration.java
 https://github.com/requery/requery/tree/master/requery/src/main/java/io/requery/sql/platform
+https://github.com/requery/requery/blob/master/requery/src/main/java/io/requery/sql/platform/Oracle.java
 
 https://github.com/requery/requery/blob/master/requery-processor/src/main/resources/META-INF/services/javax.annotation.processing.Processor
     io.requery.processor.EntityProcessor
