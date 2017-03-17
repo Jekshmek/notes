@@ -6,16 +6,17 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Terentieva - API Testing with Groovy based framework-   15:00 (of   53:44)
+Antonau - Classloading and Classloaders             -   01:00 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
 Kuraev - Hristos Boleet Hristianami                 - 1:43:00 (of 2:41:01)
-Bykov - Irteniev and Bossart                        - 1:10:00 (of 1:42:36)
+Bykov - Pozner                                      -   44:30 (of 1:45:50)
+Bykov - Solzhenitsyn                                -   01:00 (of   50:47)
   https://vk.com/video238111554_456239676
 Kublanovsky                                         -   38:00 (of 1:11:55)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
-Bykov - Yound Father                                -   04:00 (of 1:03:59)
+Bykov - Young Father                                -   04:00 (of 1:03:59)
   https://vk.com/video238111554_456239682
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
@@ -40,7 +41,7 @@ Ivliev - 11                                         -   00:00 (of   43:07)
 ?Desnitsky 3                                         -   27:00 (of 1:14:04)
 Sorokin - A 9                                       -   00:00 (of 1:23:23)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
-Burmistrovy                                         -   20:00 (of 2:11:25)
+Burmistrovy                                         - 1:47:00 (of 2:11:25)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 S1                                                  -   42:00 (of )
