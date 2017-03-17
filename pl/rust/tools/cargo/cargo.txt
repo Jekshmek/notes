@@ -1,10 +1,13 @@
 warning: be sure to add `$CARGO_HOME/.cargo/bin` to your PATH to be able to run the installed binaries
 
 cargo
+    --version [--verbose]
     install --list
         list installed crates/packages
     new <prj-name>
         --bin
+    check
+        check without codegen (faster)
     build
         [-v]
         [--release] --features 'simd-accel avx-accel'
