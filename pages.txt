@@ -54,7 +54,7 @@ http://accu.org/index.php/journals/c78/             - 137
 
 Books:
 Blandy - Why Rust                                   - 17..18..22..40..42..53
-Narkhede - Kafka The Definitive Guide               - 33..53..223
+Narkhede - Kafka The Definitive Guide               - 34..53..223
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
