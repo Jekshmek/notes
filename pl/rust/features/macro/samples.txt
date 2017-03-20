@@ -1,3 +1,5 @@
+https://github.com/DenisKolodin/match_cast
+
 https://ameo.link/blog/writing-a-hashmap-to-struct-procedural-macro-in-rust/
 
 https://www.reddit.com/r/rust/comments/5q7ssv/long_list_of_externs/
