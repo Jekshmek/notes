@@ -1,18 +1,19 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch10-03-lifetime-syntax.html#thinking-in-terms-of-lifetimes
+https://rust-lang.github.io/book/second-edition/ch10-03-lifetime-syntax.html#lifetime-annotations-in-method-definitions
+https://www.martinfowler.com/articles/consumerDrivenContracts.html#ExtensionPoints
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
-Antonau - Classloading and Classloaders             -   01:00 (of 1:11:17)
+Antonau - Classloading and Classloaders             -   10:00 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
 Kuraev - Hristos Boleet Hristianami                 - 1:43:00 (of 2:41:01)
-Bykov - Pozner                                      - 1:05:00 (of 1:45:50)
-Bykov - Solzhenitsyn                                -   01:00 (of   50:47)
+Bykov - Ulitskaya                                   -   31:00 (of 1:39:18)
+Bykov - Solzhenitsyn                                -   02:00 (of   50:47)
   https://vk.com/video238111554_456239676
 Kublanovsky                                         -   38:00 (of 1:11:55)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
@@ -36,7 +37,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 14                                        -   19:00 (of 1:19:42)
+Paschenko 15                                        -   00:00 (of 2:26:36)
 Ivliev - 11                                         -   00:00 (of   43:07)
 ?Desnitsky 3                                         -   27:00 (of 1:14:04)
 Sorokin - A 9                                       -   00:00 (of 1:23:23)

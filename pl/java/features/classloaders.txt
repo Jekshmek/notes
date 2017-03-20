@@ -1,0 +1,5 @@
+Bootstrap ($JAVA_HOME/jre/lib/rt.jar)
+Extension ($JAVA_HOME/jre/lib/ext/*.jar)
+System    ($CLASSPAT)
+
+User-based classloaders inherit the System-one
