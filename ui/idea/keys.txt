@@ -5,6 +5,8 @@ C-I
     Implement method
 C-O
     Override method
+C-S-Space
+    SmartType completion
 
 Navigate
 C-B
