@@ -4,6 +4,9 @@ https://chrismorgan.info/blog/rust-ownership-the-hard-way.html
 
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
 
+reddit:
+https://www.reddit.com/r/rust/comments/3tfsz1/im_reading_the_book_the_lifetimes_part_is_very/
+
 Deref-trait:
 https://doc.rust-lang.org/std/ops/trait.Deref.html
 
