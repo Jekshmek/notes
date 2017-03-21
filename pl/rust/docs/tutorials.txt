@@ -11,3 +11,6 @@ https://www.ralfj.de/projects/rust-101/main.html
 https://git.ralfj.de/rust-101.git
 https://github.com/RalfJung/rust-101
 https://github.com/RalfJung/rust-101/tree/master/src
+
+A Gentle Rust Tutorial:
+https://github.com/stevedonovan/gentle-intro
