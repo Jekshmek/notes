@@ -1,0 +1,2 @@
+book:
+http://alignedleft.com/work/d3-book

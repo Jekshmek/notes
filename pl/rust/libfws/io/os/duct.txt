@@ -3,6 +3,17 @@ https://docs.rs/duct/0.6.0/duct/
 https://docs.rs/duct/0.6.0/duct/struct.Expression.html
 https://doc.rust-lang.org/nightly/std/process/struct.Output.html
 
+https://www.reddit.com/r/rust/comments/5h08jb/merge_child_process_stdout_and_stderr/
+http://stackoverflow.com/questions/41019780/merge-child-process-stdout-and-stderr
+http://stackoverflow.com/questions/29458970/how-do-i-prefix-command-stdout-with-stdout-and-sterr
+https://github.com/rust-lang/rfcs/issues/871
+
+The "right way" to do something like this, which duct is doing for you under the covers,
+is to create a double-ended OS pipe and pass the write end of it to both stdout and stderr.
+The standard library's Command class supports this sort of thing in general because Stdio implements FromRawFd,
+but unfortunately the standard library doesn't expose a way to create pipes.
+I've written another library called os_pipe to do this inside of duct, and if you want you can use it directly.
+
 !!! need to check the piping experimentally !!!
 
 https://github.com/oconnor663/duct.rs/blob/master/src/lib.rs

@@ -4,7 +4,6 @@ https://www.martinfowler.com/articles/consumerDrivenContracts.html#BreakingChang
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
-http://blog.predanie.ru/article/spor_o_rozanove_sluchivshiysya_na_portale_predanie/
 
 Video:
 Antonau - Classloading and Classloaders             -   21:00 (of 1:11:17)
@@ -35,9 +34,9 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
+?Desnitsky 3                                         -   27:00 (of 1:14:04)
 Paschenko 15                                        -   00:00 (of 2:26:36)
 Ivliev - 12                                         -   00:00 (of   37:52)
-?Desnitsky 3                                         -   27:00 (of 1:14:04)
 Sorokin - A 9                                       -   00:00 (of 1:23:23)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Burmistrovy                                         - 1:47:00 (of 2:11:25)
@@ -47,12 +46,11 @@ S1                                                  -   42:00 (of )
 
 Tracking:
 Razbor Poletov                                      - 129
-This week in rust                                   - 173
-https://www.schoolofhaskell.com/recent-content      - 15 Feb
+This week in rust                                   - 174
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
-Blandy - Why Rust                                   - 17..18..22..40..42..53
+Blandy - Why Rust                                   - 18..22..40..42..53
 Narkhede - Kafka The Definitive Guide               - 37..53..223
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..

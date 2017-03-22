@@ -33,3 +33,5 @@ fn main() {
 
     assert_eq!(res, b"etc\n");
 }
+
+https://www.reddit.com/r/rust/comments/38jhva/piping_string_to_child_process_stdin/
