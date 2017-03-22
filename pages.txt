@@ -6,12 +6,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Antonau - Classloading and Classloaders             -   21:00 (of 1:11:17)
+Antonau - Classloading and Classloaders             -   32:30 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Kuraev - Hristos Boleet Hristianami                 - 2:25:00 (of 2:41:01)
-Bykov - Solzhenitsyn                                -   02:00 (of   50:47)
+Kuraev - Hristos Boleet Hristianami                 - 2:36:00 (of 2:41:01)
+Bykov - Serebrennikov                               -   40:00 (of 1:28:41)
+Bykov - Solzhenitsyn                                -   29:00 (of   50:47)
 Kublanovsky                                         -   38:00 (of 1:11:55)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Young Father                                -   04:00 (of 1:03:59)
@@ -34,10 +35,9 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-?Desnitsky 3                                         -   27:00 (of 1:14:04)
 Paschenko 15                                        -   00:00 (of 2:26:36)
 Ivliev - 12                                         -   00:00 (of   37:52)
-Sorokin - A 9                                       -   00:00 (of 1:23:23)
+Sorokin - A 10                                      -   00:00 (of 1:24:45)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Burmistrovy                                         - 1:47:00 (of 2:11:25)
 Osipov - 1                                          -   20:00 (of 1:09:28)
