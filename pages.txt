@@ -10,7 +10,6 @@ Antonau - Classloading and Classloaders             -   32:30 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Kuraev - Hristos Boleet Hristianami                 - 2:36:00 (of 2:41:01)
 Bykov - Serebrennikov                               -   40:00 (of 1:28:41)
 Bykov - Solzhenitsyn                                -   29:00 (of   50:47)
 Kublanovsky                                         -   38:00 (of 1:11:55)
