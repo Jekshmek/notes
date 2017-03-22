@@ -30,6 +30,9 @@ cargo
     deadlinks
         to show dead links
     test
+        --help
+        -- --help
+            options after -- go to the testing binary
         --test-threads=1
 
 
