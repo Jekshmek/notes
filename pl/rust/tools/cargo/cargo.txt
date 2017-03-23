@@ -29,11 +29,16 @@ cargo
     doc
     deadlinks
         to show dead links
-    test
+    test [test-name-or-substr]
         --help
-        -- --help
-            options after -- go to the testing binary
         --test-threads=1
+        --
+            options after -- go to the testing binary
+            --help
+            --nocapture
+                disable output capture behaviour (it's also usefull to set --test-threads to 1)
+            --ignored
+                test only ignored
 
 
 $CARGO_HOME/.cargo/
