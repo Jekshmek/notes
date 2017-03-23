@@ -1,6 +1,7 @@
 URLs:
+http://stackoverflow.com/questions/9043711/adding-hyperlink-in-gwt-celltable/9047295
 https://rust-lang.github.io/book/second-edition/ch11-03-test-organization.html#unit-tests
-https://www.martinfowler.com/articles/consumerDrivenContracts.html#Consumer-drivenContracts
+https://www.martinfowler.com/articles/consumerDrivenContracts.html#ConsumerContracts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
@@ -18,7 +19,7 @@ Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
 Bykov - Pushking - Medny Vsadnik                    -   00:00 (of 1:00:48)
   https://vk.com/video-2048479_456239070
-Kaminskaya 2                                        -   12:00 (of 1:31:10)
+Kaminskaya 2                                        -   47:00 (of 1:31:10)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
