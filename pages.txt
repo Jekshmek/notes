@@ -49,7 +49,7 @@ This week in rust                                   - 174
 http://accu.org/index.php/journals/c78/             - 137
 
 Books:
-Blandy - Why Rust                                   - 18..22..40..42..53
+Blandy - Why Rust                                   - 23..40..42..53
 Narkhede - Kafka The Definitive Guide               - 38..53..223
 SVM                                                 - 13..15..21..29
 HoTT                                                - 6..13..17..25..30..59..
