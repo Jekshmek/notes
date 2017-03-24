@@ -1,0 +1,1 @@
+https://github.com/starkat99/appveyor-rust/blob/master/appveyor.yml
