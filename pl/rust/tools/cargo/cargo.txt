@@ -31,6 +31,7 @@ cargo
         to show dead links
     test [test-name-or-substr]
         --help
+        --test test-name-or-substr
         --test-threads=1
         --
             options after -- go to the testing binary

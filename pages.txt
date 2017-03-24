@@ -1,16 +1,16 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch11-03-test-organization.html#integration-tests
-https://www.martinfowler.com/articles/consumerDrivenContracts.html#ConsumerContracts
+https://rust-lang.github.io/book/second-edition/ch11-03-test-organization.html#submodules-in-integration-tests
+https://www.martinfowler.com/articles/consumerDrivenContracts.html#Consumer-drivenContracts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
-Antonau - Classloading and Classloaders             -   45:00 (of 1:11:17)
+Antonau - Classloading and Classloaders             -   59:00 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Kublanovsky                                         -   38:00 (of 1:11:55)
+Bykov - Mar24                                       -   23:00 (of 1:45:19)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Young Father                                -   04:00 (of 1:03:59)
   https://vk.com/video238111554_456239682
@@ -32,14 +32,11 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Filonik - Ty Dorog v Ochah Moih                     -   43:00 (of 1:25:55)
 Paschenko 15                                        -   00:00 (of 2:26:36)
 Ivliev - 12                                         -   00:00 (of   37:52)
 Sorokin - A 10                                      -   00:00 (of 1:24:45)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
-Burmistrovy                                         - 1:47:00 (of 2:11:25)
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Skuratovskaya - Manipulations                       -   01:00 (of 2:36:56)
 S1                                                  -   42:00 (of )
 
 Tracking:
