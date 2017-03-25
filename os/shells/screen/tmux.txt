@@ -1,1 +1,2 @@
 http://www.defstartup.org/2016/11/29/tmux-cheatsheet.html
+https://leanpub.com/the-tao-of-tmux/read
