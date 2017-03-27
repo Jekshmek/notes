@@ -1,0 +1,44 @@
+Guide:
+https://docs.gradle.org/current/userguide/native_software.html
+
+DesignDocs:
+https://github.com/gradle/gradle/blob/master/design-docs/done/continuous-delivery-for-c-plus-plus.md
+
+model {
+    toolChains {
+        //Explicit configuration of Visual Studio installation directory
+        visualCpp(VisualCpp) {
+            installDir "D:/Programs/Microsoft Visual Studio 10.0"
+        }
+    }
+}
+
+API:
+https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/toolchain/NativeToolChain.html
+https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/toolchain/VisualCpp.html
+
+Tasks:
+
+components
+    list "build components" (for Native plugins)
+
+Source sets
+    C++ source 'cld2:cpp'
+        srcDir: src\cld2\internal
+        includes: debug.cc, generated_ulscript.cc, ...
+
+Binaries
+    Shared library 'cld2:sharedLibrary'
+        build using task: :cld2SharedLibrary
+        build type: build type 'release'
+        flavor: flavor 'default'
+        target platform: platform 'windows_x86'
+        tool chain: Tool chain 'visualCpp' (Visual Studio)
+        shared library file: build\libs\cld2\shared\cld2.dll
+    Static library 'cld2:staticLibrary'
+        build using task: :cld2StaticLibrary
+        build type: build type 'release'
+        flavor: flavor 'default'
+        target platform: platform 'windows_x86'
+        tool chain: Tool chain 'visualCpp' (Visual Studio)
+        static library file: build\libs\cld2\static\cld2.lib

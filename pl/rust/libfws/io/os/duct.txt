@@ -1,6 +1,11 @@
+https://crates.io/crates/duct
+https://docs.rs/duct/0.8.1/duct/
+https://github.com/oconnor663/duct.rs
+
 https://www.reddit.com/r/rust/comments/5jxap3/announcing_pipers_a_small_library_to_pipe/
-https://docs.rs/duct/0.6.0/duct/
-https://docs.rs/duct/0.6.0/duct/struct.Expression.html
+https://www.reddit.com/r/rust/comments/618jvw/announcing_duct_a_child_process_library_thats/
+
+https://docs.rs/duct/0.8.1/duct/struct.Expression.html
 https://doc.rust-lang.org/nightly/std/process/struct.Output.html
 
 https://www.reddit.com/r/rust/comments/5h08jb/merge_child_process_stdout_and_stderr/

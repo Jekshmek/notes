@@ -69,8 +69,6 @@ productFlavors
 ant.importBuild 'build.xml'
 defaultTask 'afterTask'
 
-components
-    build components (for Native plugins)
 
 Inputs/Outputs
 

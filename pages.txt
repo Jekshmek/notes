@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch12-00-an-io-project.html
+https://rust-lang.github.io/book/second-edition/ch12-01-accepting-command-line-arguments.html
 https://www.martinfowler.com/articles/consumerDrivenContracts.html#Consumer-drivenContracts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
@@ -10,7 +10,7 @@ Antonau - Classloading and Classloaders             -   59:00 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
-Bykov - Mar24                                       -   23:00 (of 1:45:19)
+Bykov - Mar24                                       - 1:32:00 (of 1:45:19)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Young Father                                -   04:00 (of 1:03:59)
   https://vk.com/video238111554_456239682
@@ -32,7 +32,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 15                                        -   00:00 (of 2:26:36)
+Paschenko 16                                        -   00:00 (of 1:53:42)
 Ivliev - 12                                         -   00:00 (of   37:52)
 Sorokin - A 10                                      -   00:00 (of 1:24:45)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
@@ -40,7 +40,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 S1                                                  -   42:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 129
+Razbor Poletov                                      - 130 45:00 (of 1:42:37)
 This week in rust                                   - 174
 http://accu.org/index.php/journals/c78/             - 137
 
