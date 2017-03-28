@@ -1,9 +1,8 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch12-01-accepting-command-line-arguments.html
+https://rust-lang.github.io/book/second-edition/ch12-02-reading-a-file.html
 https://www.martinfowler.com/articles/consumerDrivenContracts.html#Consumer-drivenContracts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
-http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Video:
 Antonau - Classloading and Classloaders             -   59:00 (of 1:11:17)
@@ -43,12 +42,12 @@ Tracking:
 Razbor Poletov                                      - 130 45:00 (of 1:42:37)
 This week in rust                                   - 174
 http://accu.org/index.php/journals/c78/             - 137
+http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Blandy - Why Rust                                   - 25..40..42..53
-Narkhede - Kafka The Definitive Guide               - 41..53..223
+Blandy - Why Rust                                   - 26..40..42..53
+Narkhede - Kafka The Definitive Guide               - 44..53..223
 SVM                                                 - 13..15..21..29
-HoTT                                                - 6..13..17..25..30..59..
 OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring

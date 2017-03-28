@@ -1,4 +1,5 @@
 articles:
+http://www.jonathanturner.org/2017/03/rust-in-windows.html
 https://habrahabr.ru/post/280790/
 http://stevenmurawski.com/powershell/2016/08/rustify/
 https://mobiarch.wordpress.com/2015/06/16/rust-using-visual-studio-code/
