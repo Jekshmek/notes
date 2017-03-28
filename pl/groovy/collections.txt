@@ -1,3 +1,5 @@
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/Collection.html
+
 def nums = [3, 1, 4, 1, 5, 9]
 assert nums.class.name == java.util.ArrayList
 // !!! not an ArrayList<Integer>

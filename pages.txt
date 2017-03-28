@@ -5,7 +5,6 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Antonau - Classloading and Classloaders             -   59:00 (of 1:11:17)
 Krasovskaya - Conflict Management                   -   01:00 (of 2:03:03)
 
 Literature:
@@ -32,7 +31,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 16                                        -   00:00 (of 1:53:42)
-Ivliev - 12                                         -   00:00 (of   37:52)
+Ivliev - 13                                         -   00:00 (of   42:38)
 Sorokin - A 10                                      -   00:00 (of 1:24:45)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)

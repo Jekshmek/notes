@@ -1,3 +1,5 @@
+https://docs.gradle.org/current/dsl/org.gradle.api.Project.html
+
 task areTestsExists {
     if ([ file("${projectDir}}/src/test/java").listFiles() ].isEmpty()) {
         ...

@@ -18,6 +18,12 @@ https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/toolchain/Nati
 https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/toolchain/VisualCpp.html
 https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/util/PatternFilterable.html
 
+DSL:
+https://docs.gradle.org/current/dsl/org.gradle.nativeplatform.SharedLibraryBinarySpec.html
+
+src:
+gradle\subprojects\platform-native
+
 Tasks:
 
 SharedLibrary and StaticLibrary tasks are lifecycle tasks - such task does not define outputs but is a kind of task that is used to define dependency on it.
