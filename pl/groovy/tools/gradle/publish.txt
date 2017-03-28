@@ -1,0 +1,7 @@
+https://discuss.gradle.org/t/publishing-resolving-a-native-library-from-an-external-repository/12460
+https://github.com/martinda/gradle-ivy-transitive-dep-study
+
+https://github.com/gradle/gradle/blob/master/design-docs/publication-model.md
+https://github.com/gradle/gradle/blob/master/design-docs/continuous-delivery-for-c-plus-plus.md#story-publish-and-resolve-shared-libraries
+
+https://android.jlelse.eu/the-complete-guide-to-creating-an-android-library-46628b7fc879
