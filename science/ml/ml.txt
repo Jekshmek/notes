@@ -4,3 +4,4 @@ http://www.infoq.com/resource/minibooks/emag-handle-data-science/en/pdf/The-Info
 intro:
 Kirk - Thoughtful Machine Learning with Python
 Dean - Big Data Mining and Machine Learning
+Muller - Introduction to Machine Learning with Python

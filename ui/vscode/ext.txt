@@ -4,3 +4,10 @@ https://code.visualstudio.com/docs/setup/additional-components
 
 scala-lsp:
 https://marketplace.visualstudio.com/items?itemName=dragos.scala-lsp
+
+cpptools:
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+
+VisualRust:
+https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
+https://github.com/PistonDevelopers/VisualRust
