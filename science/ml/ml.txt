@@ -5,3 +5,7 @@ intro:
 Kirk - Thoughtful Machine Learning with Python
 Dean - Big Data Mining and Machine Learning
 Muller - Introduction to Machine Learning with Python
+
+yandex-trainings:
+https://www.youtube.com/playlist?list=PLTlO6nV_TaGAN8fJksD5QMbURRbTIQS4u
+https://events.yandex.ru/events/ds/

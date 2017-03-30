@@ -1,0 +1,5 @@
+presentations:
+https://www.slideshare.net/denisizmaylov/coreos-kubernetes
+
+fleet (now they recommend cubernetes):
+https://github.com/coreos/fleet

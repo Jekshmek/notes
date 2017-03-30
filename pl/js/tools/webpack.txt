@@ -1,5 +1,6 @@
 presentations:
 https://www.infoq.com/presentations/4-concepts-webpack
+https://www.slideshare.net/denisizmaylov/webpack-7
 
 video
 Kantor - webpack screencast
