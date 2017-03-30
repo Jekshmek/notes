@@ -1,2 +1,5 @@
 http://arne-mertz.de/2016/11/modern-c-features-variadic-templates/
 http://cppisland.com/?p=194
+
+Dewharst - Variadic CRTP
+http://stevedewhurst.com/once_weakly/once-weakly20170328/once-weakly20170328.pdf
