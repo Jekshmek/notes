@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch12-03-improving-error-handling-and-modularity.html
+https://rust-lang.github.io/book/second-edition/ch12-03-improving-error-handling-and-modularity.html#separation-of-concerns-for-binary-projects
 https://www.martinfowler.com/articles/consumerDrivenContracts.html#ProviderContracts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
@@ -43,8 +43,8 @@ http://accu.org/index.php/journals/c78/             - 137
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Blandy - Why Rust                                   - 27..40..42..53
-Narkhede - Kafka The Definitive Guide               - 45..53..223
+Blandy - Why Rust                                   - 29..40..42..53
+Narkhede - Kafka The Definitive Guide               - 46..53..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 

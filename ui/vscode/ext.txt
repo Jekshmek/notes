@@ -5,8 +5,10 @@ https://code.visualstudio.com/docs/setup/additional-components
 scala-lsp:
 https://marketplace.visualstudio.com/items?itemName=dragos.scala-lsp
 
-cpptools:
+cpp:
+https://code.visualstudio.com/docs/languages/cpp
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 
 VisualRust:
 https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust

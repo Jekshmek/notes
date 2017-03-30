@@ -1,0 +1,8 @@
+https://www.slideshare.net/aalmiray/making-the-most-of-your-gradle-build-67689406
+
+subdirs.eachDir { dir ->
+    File buildFile = new File(dir, "${dir.name}.gradle")
+    if (buildFile.exists() {
+        include "${name}/${dir.name}"
+    }
+}

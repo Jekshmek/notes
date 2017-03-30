@@ -4,6 +4,7 @@ https://letsencrypt.org/how-it-works/
 https://letsencrypt.org/getting-started/
 
 Articles:
+https://habrahabr.ru/post/325230/
 https://habrahabr.ru/post/318952/
 https://habrahabr.ru/post/301558/
 https://habrahabr.ru/post/279695/

@@ -76,3 +76,6 @@ task.create('releaseNotes') {
     inputs.file anotherTask
     outputs.dir destDir
 }
+
+publish
+publishToMavenLocal puTML

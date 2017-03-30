@@ -1,1 +1,2 @@
 https://doc.rust-lang.org/nightly/reference/
+https://github.com/rust-lang-nursery/reference

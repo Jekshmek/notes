@@ -1,0 +1,15 @@
+http://eventuate.io/
+http://eventuate.io/whyeventdriven.html
+http://eventuate.io/gettingstarted.html
+http://eventuate.io/docs/javav2/maven-gradle-config.html
+
+http://chrisrichardson.net/learnmicroservices.html
+https://www.slideshare.net/chris.e.richardson
+
+https://github.com/eventuate-local/eventuate-local
+http://eventuate.io/docs/
+http://eventuate.io/docs/javadoc/0.16.0.RELEASE/
+
+http://eventuate.io/exampleapps.html
+https://github.com/cer/event-sourcing-examples/
+https://github.com/cer/event-sourcing-examples/wiki/DeveloperGuide

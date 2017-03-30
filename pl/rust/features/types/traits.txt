@@ -12,3 +12,6 @@ http://smallcultfollowing.com/babysteps/blog/2016/10/24/supporting-blanket-impls
 http://smallcultfollowing.com/babysteps/blog/2016/09/29/distinguishing-reuse-from-override/
 http://smallcultfollowing.com/babysteps/blog/2016/09/24/intersection-impls/
 https://internals.rust-lang.org/t/blog-post-intersection-impls/4129
+
+trait problems:
+https://www.reddit.com/r/rust/comments/620m1v/never_hearing_the_trait_x_cannot_be_made_into_an/
