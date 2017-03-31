@@ -1,2 +1,4 @@
 https://habrahabr.ru/company/ruvds/blog/324756/
 https://codefresh.io/blog/java_docker_pipeline/
+
+https://developers.redhat.com/blog/2017/03/14/java-inside-docker/
