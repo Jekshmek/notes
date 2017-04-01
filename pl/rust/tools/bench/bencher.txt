@@ -1,0 +1,3 @@
+https://crates.io/crates/bencher
+https://docs.rs/bencher/*/bencher/index.html
+https://github.com/bluss/bencher/
