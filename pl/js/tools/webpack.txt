@@ -2,6 +2,9 @@ presentations:
 https://www.infoq.com/presentations/4-concepts-webpack
 https://www.slideshare.net/denisizmaylov/webpack-7
 
+articles:
+https://www.keycdn.com/blog/webpack/
+
 video
 Kantor - webpack screencast
 http://learn.javascript.ru/screencast/webpack

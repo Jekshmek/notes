@@ -1,21 +1,24 @@
-Articles:
+resources:
+https://vasanthk.gitbooks.io/react-bits/
+https://github.com/vasanthk/react-bits
+
+articles:
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 
-Presentations:
+presentations:
 Kosenko - ReactJs - Introduction to the library 
 good history...
-
 Nauck-2014-ReactJS-KeepSimple
 https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
 
-Tutorials:
+tutorials:
 https://facebook.github.io/react/docs/tutorial.html
 https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 
-CheatSheets:
+cheatsheets:
 http://ricostacruz.com/cheatsheets/react.html
 
-Important:
+important:
 React - Flux + Redux by Denys Kuzin
 
 Properties aren't intended to be changed - redrow everething

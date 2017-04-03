@@ -1,9 +1,15 @@
 https://github.com/Reactive-Extensions/RxJS
 (http://reactivex.io/)
 
+books:
 http://xgrommx.github.io/rx-book/
 
+articles:
+https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56
+https://www.infoq.com/articles/rxjs-get-started-operators
+
+cheatsheets:
 DZone - RxJS cheatcheet.pdf
 
-https://www.infoq.com/articles/rxjs-get-started-operators
+ref:
 http://reactivex.io/documentation/operators.html
