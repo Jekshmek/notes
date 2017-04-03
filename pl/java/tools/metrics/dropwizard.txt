@@ -11,3 +11,11 @@ http://metrics.dropwizard.io/3.2.2/getting-started.html
 https://www.stubbornjava.com/posts/monitoring-your-jvm-with-dropwizard-metrics
 https://github.com/dropwizard/metrics/blob/master/metrics-jvm/src/main/java/io/dropwizard/metrics/jvm/MemoryUsageGaugeSet.java
 https://github.com/dropwizard/metrics/blob/master/metrics-jvm/src/test/java/io/dropwizard/metrics/jvm/MemoryUsageGaugeSetTest.java
+
+https://www.stubbornjava.com/posts/monitoring-your-jvm-with-dropwizard-metrics
+
+servlet:
+https://ivanursul.com/monitoring-your-spring-application-using-dropwizard-metrics-module/
+
+starter:
+http://jansipke.nl/getting-metrics-from-the-java-virtual-machine-jvm/
