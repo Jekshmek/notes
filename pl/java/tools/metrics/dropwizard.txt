@@ -1,0 +1,13 @@
+http://metrics.dropwizard.io
+
+https://dropwizard.github.io/metrics
+https://github.com/dropwizard/metrics
+
+https://blog.openshift.com/day-13-dropwizard-the-awesome-java-rest-server-stack/
+
+http://metrics.dropwizard.io/3.2.2/getting-started.html
+
+
+https://www.stubbornjava.com/posts/monitoring-your-jvm-with-dropwizard-metrics
+https://github.com/dropwizard/metrics/blob/master/metrics-jvm/src/main/java/io/dropwizard/metrics/jvm/MemoryUsageGaugeSet.java
+https://github.com/dropwizard/metrics/blob/master/metrics-jvm/src/test/java/io/dropwizard/metrics/jvm/MemoryUsageGaugeSetTest.java

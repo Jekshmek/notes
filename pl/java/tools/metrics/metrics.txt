@@ -1,7 +1,1 @@
-dropwizard, codahale, yammer:
-
-https://dropwizard.github.io/metrics
-https://github.com/dropwizard/metrics
-
-http://metrics.codahale.com/
-https://github.com/codahale/metrics
+yammer:
