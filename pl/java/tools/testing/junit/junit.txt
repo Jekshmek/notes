@@ -1,0 +1,9 @@
+http://junit.org/junit5/
+
+https://github.com/junit-team/junit5/
+https://github.com/junit-team/junit5/milestones/
+
+http://junit.org/junit5/docs/current/user-guide/#writing-tests-repeated-tests
+http://junit.org/junit5/docs/current/api/org/junit/jupiter/api/Assertions.html
+
+http://stackoverflow.com/questions/tagged/junit5
