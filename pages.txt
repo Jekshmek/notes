@@ -30,14 +30,14 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 17.1                                      -   00:00 (of   10:40)
-Ivliev - 13                                         -   00:00 (of   42:38)
+Ivliev - 14                                         -   00:00 (of   42:08)
 Sorokin - A 11                                      -   00:00 (of 1:28:41)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 S1                                                  - 1:07:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 131 41:00 (of 2:45:13)
+Razbor Poletov                                      - 131
 Bananas and Lens                                    - 37  20:00 (of   49:18)
 This week in rust                                   - 175
 http://accu.org/index.php/journals/c78/             - 137
