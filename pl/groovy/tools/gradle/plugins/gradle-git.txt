@@ -1,6 +1,11 @@
 https://amirnoel.wordpress.com/2016/03/09/adding-git-commit-information-to-java-jar-manifest-using-gradle/
 
 https://github.com/ajoberstar/gradle-git
+https://github.com/ajoberstar/gradle-git/wiki/Release%20Plugins
+https://github.com/ajoberstar/gradle-git/wiki/SemVer%20Support
+
+api:
+http://ajoberstar.org/gradle-git/docs/groovydoc/org/ajoberstar/gradle/git/release/opinion/Strategies.html
 
 https://github.com/ajoberstar/grgit
 

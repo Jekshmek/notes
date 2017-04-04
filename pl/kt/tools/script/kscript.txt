@@ -1,0 +1,2 @@
+https://github.com/holgerbrandl/kscript
+http://holgerbrandl.github.io/kotlin/2016/12/02/mini_programs_with_kotlin.html

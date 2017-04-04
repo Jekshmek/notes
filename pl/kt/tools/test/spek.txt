@@ -11,3 +11,6 @@ https://medium.com/@juanchosaravia/keddit-part-9-unit-test-with-kotlin-mockito-s
 presentations:
 https://www.slideshare.net/rfletcher/testing-with-kotlin
 https://www.slideshare.net/BLStream/kotlin-spek-and-tests
+
+issues:
+https://github.com/JetBrains/spek/issues/195
