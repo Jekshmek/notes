@@ -17,6 +17,9 @@ Valeev - JPoing 2016
 Paumard - Java 8 Streams and Collectors Patterns
 http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performances-and-parallelization
 
+Books:
+Gonzalez - Mastering Concurrency Programming with Java 8
+
 Characteristics:
 SIZED
 SUBSIZED

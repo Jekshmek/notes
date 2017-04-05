@@ -4,6 +4,9 @@ https://www.slideshare.net/denisizmaylov/webpack-7
 
 articles:
 https://www.keycdn.com/blog/webpack/
+https://medium.com/webpack
+https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923
+https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783
 
 video
 Kantor - webpack screencast

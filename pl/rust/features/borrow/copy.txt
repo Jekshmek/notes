@@ -1,1 +1,5 @@
 https://doc.rust-lang.org/std/marker/trait.Copy.html
+
+https://medium.com/@theburningmonk/rust-memory-safety-without-garbage-collector-d6a25b23c036
+
+Copy inherits from Clone

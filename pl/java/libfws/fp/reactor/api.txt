@@ -4,23 +4,3 @@ Reactor Core 3.0.6.RELEASE
 
 src:
 https://github.com/reactor/reactor-core
-
-schedulers:
-https://projectreactor.io/docs/core/release/api/reactor/core/scheduler/Schedulers.html
-https://github.com/reactor/reactor-core/blob/master/src/main/java/reactor/core/scheduler/Schedulers.java
-
-https://github.com/reactor/lite-rx-api-hands-on/blob/master/src/test/java/io/pivotal/literx/Part11BlockingToReactive.java
-
-/**
- * Learn how to call blocking code from Reactive one with adapted concurrency strategy for
- * blocking code that produces or receives data.
- *
- * For those who know RxJava:
- *  - RxJava subscribeOn = Reactor subscribeOn
- *  - RxJava observeOn = Reactor publishOn
- *
- * @author Sebastien Deleuze
- * @see Flux#subscribeOn(Scheduler)
- * @see Flux#publishOn(Scheduler) // !!! need to start from this
- * @see Schedulers
- */
