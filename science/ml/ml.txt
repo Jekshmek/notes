@@ -9,3 +9,12 @@ Muller - Introduction to Machine Learning with Python
 yandex-trainings:
 https://www.youtube.com/playlist?list=PLTlO6nV_TaGAN8fJksD5QMbURRbTIQS4u
 https://events.yandex.ru/events/ds/
+
+articles:
+https://habrahabr.ru/company/spbifmo/blog/276479/
+https://habrahabr.ru/post/270449/
+https://habrahabr.ru/company/spbifmo/blog/277511/
+https://habrahabr.ru/company/spbifmo/blog/277153/
+https://habrahabr.ru/company/spbifmo/blog/278069/
+https://habrahabr.ru/company/parallels/blog/317994/
+https://habrahabr.ru/company/microsoft/blog/317512/
