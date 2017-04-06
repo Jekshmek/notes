@@ -45,7 +45,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
 Blandy - Why Rust                                   - 35..40..42..53
-Narkhede - Kafka The Definitive Guide               - 51..53..223
+Narkhede - Kafka The Definitive Guide               - 53..73..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
