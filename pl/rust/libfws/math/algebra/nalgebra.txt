@@ -2,6 +2,7 @@ http://nalgebra.org/
 http://nalgebra.org/changelog/
 http://nalgebra.org/quick_reference/
 http://nalgebra.org/rustdoc/nalgebra/index.html
+http://nalgebra.org/vectors_and_matrices/
 
 https://crates.io/crates/nalgebra
 https://github.com/sebcrozet/nalgebra

@@ -1,0 +1,7 @@
+https://crates.io/crates/ndarray
+https://bluss.github.io/rust-ndarray/master/ndarray/index.html
+https://github.com/bluss/rust-ndarray
+
+https://crates.io/crates/ndarray-linalg
+https://docs.rs/ndarray-linalg/0.3.0/ndarray_linalg/
+https://github.com/termoshtt/ndarray-linalg

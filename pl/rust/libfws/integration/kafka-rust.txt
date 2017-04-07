@@ -6,3 +6,6 @@ https://crates.io/crates/rdkafka
 https://github.com/fede1024/rust-rdkafka
 
 https://github.com/edenhill/librdkafka
+
+samples:
+https://github.com/rabbitstack/cubostratusc

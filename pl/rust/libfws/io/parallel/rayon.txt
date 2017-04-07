@@ -1,2 +1,3 @@
 articles:
+http://smallcultfollowing.com/babysteps/blog/2017/04/06/rayon-0-7-released/
 http://blog.piston.rs/2017/01/26/a-brief-teaser-about-composable-parallel-stream-processing-with-rayon/
