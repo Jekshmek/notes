@@ -1,6 +1,9 @@
 http://www.infoq.com/presentations/java8-evolution
 http://www.slideshare.net/jpaumard/50-new-things-you-can-do-with-java-8
 
+books:
+Konda - All about Java 8 Lambdas
+
 java.util.function
     Function
     Supplier

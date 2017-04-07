@@ -19,6 +19,7 @@ http://www.slideshare.net/jpaumard/java-8-streams-collectors-patterns-performanc
 
 Books:
 Gonzalez - Mastering Concurrency Programming with Java 8
+Konda - All about Java 8 Lambdas
 
 Characteristics:
 SIZED
