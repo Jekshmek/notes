@@ -7,6 +7,8 @@ C-O
     Override method
 C-S-Space
     SmartType completion
+A-Ins
+    Generate getters/setters
 
 Navigate
 C-B
