@@ -99,3 +99,6 @@ help:
 
 search_path:
 set search_path to 'win_ss';
+
+client_encoding:
+set client_encoding to 'UTF8';
