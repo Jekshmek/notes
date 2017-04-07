@@ -1,2 +1,5 @@
 Stanford - NLP with DL (Winter 2017)
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+Deep Learning for NLP at Oxford with Deep Mind 2017 
+https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
