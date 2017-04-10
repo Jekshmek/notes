@@ -12,6 +12,7 @@ video
 Kantor - webpack screencast
 http://learn.javascript.ru/screencast/webpack
 https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn
+https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
 
 entry
 output
