@@ -1,0 +1,4 @@
+https://github.com/ajoberstar/semver-vcs
+https://github.com/ajoberstar/reckon
+
+https://github.com/ajoberstar/reckon/blob/master/reckon-core/src/main/groovy/org/ajoberstar/reckon/core/Reckoner.java

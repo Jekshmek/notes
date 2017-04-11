@@ -1,15 +1,18 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch13-01-closures.html#closures-can-reference-their-environment
+https://rust-lang.github.io/book/second-edition/ch13-02-iterators.html#the-iterator-trait
 https://robinwieruch.de/redux-mobx-confusion/#difference
-https://www.martinfowler.com/articles/consumerDrivenContracts.html#Implementation
+https://www.martinfowler.com/articles/consumerDrivenContracts.html#Benefits
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Krasovskaya - Conflict Management                   - 1:38:00 (of 2:03:03)
+Linux OS and CLI for DevOps_2 2                     -   00:00 (of 1:05:24)
 
 Literature:
-Bykov - Shpalikov                                   -   14:00 (of   57:54)
+Bykov - Vasserman                                   -   32:00 (of   54:55)
+Bykov - Guseva                                      -   10:00 (of   48:38)
+Bykov - Butuzova                                    -   04:00 (of   45:36)
+Bykov - Trifonov                                    -   01:00 (of   29:09)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
@@ -32,7 +35,7 @@ Audio:
 Milchik - Oshevenskoe                               -   37:00 (of 1:40:31)
 Ionova - Lazur                                      -   11:00 (of 1:59:50)
 Paschenko 17.3                                      -   00:00 (of   54:15)
-Ivliev - 14                                         -   00:00 (of   42:08)
+Ivliev - 15                                         -   00:00 (of   44:34)
 Sorokin - A 12                                      -   00:00 (of 1:27:26)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
