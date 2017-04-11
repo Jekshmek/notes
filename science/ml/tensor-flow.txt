@@ -1,3 +1,6 @@
 https://github.com/deepmind/sonnet
 
 https://github.com/tensorflow/ecosystem
+
+pvs-check:
+https://habrahabr.ru/company/pvs-studio/blog/326256/
