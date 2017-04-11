@@ -1,1 +1,3 @@
 https://github.com/deepmind/sonnet
+
+https://github.com/tensorflow/ecosystem

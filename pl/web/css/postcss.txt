@@ -15,3 +15,6 @@ plugins:
 http://postcss.parts/
 
 https://vk.com/postcss
+
+hamster:
+https://habrahabr.ru/post/326136/

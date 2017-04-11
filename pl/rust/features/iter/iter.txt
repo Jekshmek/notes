@@ -1,5 +1,12 @@
+articles:
+http://xion.io/post/code/rust-for-loop.html
+http://xion.io/post/code/rust-iter-patterns.html
+
 https://www.reddit.com/r/rust/comments/5piytc/how_to_create_custom_filters/
 
 https://github.com/archer884/iter-or
 
 https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust
+
+api:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html

@@ -4,6 +4,7 @@ https://github.com/vasanthk/react-bits
 
 articles:
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+https://habrahabr.ru/post/326162/
 
 presentations:
 Kosenko - ReactJs - Introduction to the library 
@@ -17,31 +18,3 @@ https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 
 cheatsheets:
 http://ricostacruz.com/cheatsheets/react.html
-
-important:
-React - Flux + Redux by Denys Kuzin
-
-Properties aren't intended to be changed - redrow everething
-State - intended to be changed
-
-Lifecycle (Initial Render, Props Change, State Change, Component Unmount)
-
-!!! a lot of obsolete stuff !!!
-Mixins are deprecated (according to the ES6)
-
-Smart and dump components
-
-data flows down
-events flows up
-
-top-level component is [not-visual] acts likes a controller
-
-Flux is a save 3-weel MVC
-one-way events is a normal, non-revolutional
-
------
-REDUX
------
-
-https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
-https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4
