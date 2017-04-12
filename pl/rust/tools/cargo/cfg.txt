@@ -56,6 +56,16 @@ http://doc.crates.io/build-script.html#build-dependencies
 workspaces, multi-crates:
 https://users.rust-lang.org/t/what-is-the-idiomatic-way-to-manage-a-project-with-multiple-crates/6683
 http://doc.crates.io/manifest.html#the-workspace-section
+https://github.com/PumpkinDB/PumpkinDB/blob/master/Cargo.toml
+
+[workspace]
+members = [
+  "./pumpkinscript",
+  "./pumpkindb_engine",
+  "./pumpkindb_server",
+  "./pumpkindb_term",
+  "./tests/doctests"
+]
 
 err-processing
 panic = 'abort'

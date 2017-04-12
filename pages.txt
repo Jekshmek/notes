@@ -43,7 +43,7 @@ S1                                                  - 1:23:00 (of 2:38:25)
 Tracking:
 Razbor Poletov                                      - 131
 Bananas and Lens                                    - 37
-This week in rust                                   - 176
+This week in rust                                   - 177
 http://accu.org/index.php/journals/c78/             - 137
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 

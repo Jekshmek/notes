@@ -9,8 +9,11 @@ cargo
     check
         check without codegen (faster)
     build
-        [-v]
-        [--release] --features 'simd-accel avx-accel'
+        [-v] --verbose
+        --all
+        [--release]
+        --features 'simd-accel avx-accel'
+        --features="experimental"
         --target x86_64-unknown-linux-musl
     update
         figure out all the latest versions and try to update (Cargo.lock)

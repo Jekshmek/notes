@@ -1,0 +1,5 @@
+travis:
+https://github.com/PumpkinDB/PumpkinDB/blob/master/.travis.yml
+
+appveyor:
+https://github.com/PumpkinDB/PumpkinDB/blob/master/appveyor.yml
