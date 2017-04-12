@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch13-02-iterators.html#all-sorts-of-iterator-adaptors
+https://rust-lang.github.io/book/second-edition/ch13-03-improving-our-io-project.html#removing-a-clone-by-using-an-iterator
 https://robinwieruch.de/redux-mobx-confusion/#difference
 https://www.martinfowler.com/articles/consumerDrivenContracts.html#Benefits
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -9,7 +9,9 @@ Video:
 Linux OS and CLI for DevOps_2 2                     -   00:00 (of 1:05:24)
 
 Literature:
-Valberg - Amalteya                                  -   12:00 (of   47:49)
+Valberg - Amalteya                                  -   16:00 (of   47:49)
+Lebedi - Look from Today                            -   08:00 (of   23:23)
+Valberg - Lebedi - Film                             -   07:00 (of   41:53)
 Bykov - Guseva                                      -   10:00 (of   48:38)
 Bykov - Butuzova                                    -   04:00 (of   45:36)
 Bykov - Trifonov                                    -   01:00 (of   29:09)
