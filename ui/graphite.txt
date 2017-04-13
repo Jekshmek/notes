@@ -1,0 +1,3 @@
+https://github.com/graphite-project/graphite-web
+https://graphite.readthedocs.io/en/latest/releases/1_0_0.html
+http://www.opennet.ru/opennews/art.shtml?num=46365

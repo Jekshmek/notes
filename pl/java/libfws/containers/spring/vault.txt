@@ -1,0 +1,6 @@
+http://projects.spring.io/spring-vault/
+https://github.com/spring-projects/spring-vault
+https://github.com/mp911de/spring-cloud-vault-config-samples
+http://docs.spring.io/spring-vault/docs/1.0.0.RELEASE/reference/html/
+
+https://spring.io/blog/2017/04/12/spring-vault-1-0-goes-ga

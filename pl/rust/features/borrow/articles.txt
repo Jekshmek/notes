@@ -5,6 +5,8 @@ https://medium.com/@theburningmonk/rust-memory-safety-without-garbage-collector-
 https://bryce.fisher-fleig.org/blog/strategies-for-returning-references-in-rust/
 http://phaazon.blogspot.com.by/2017/02/lifetimes-limits-self-borrowing-and.html
 https://www.reddit.com/r/rust/comments/5siiir/lifetimes_limits_self_borrowing_and_dropchecker/
+https://www.reddit.com/r/rust/comments/653vhu/prolonging_temporaries_in_rust/
+http://manishearth.github.io/blog/2017/04/13/prolonging-temporaries-in-rust/
 
 http://nercury.github.io/c++/intro/2017/01/22/cpp-for-rust-devs.html
 http://nercury.github.io/rust/guide/2015/01/19/ownership.html

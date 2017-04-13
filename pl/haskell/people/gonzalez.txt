@@ -204,14 +204,21 @@ http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.htm
 https://www.reddit.com/r/haskell/comments/5go3sb/dhall_a_nonturingcomplete_configuration_language/
 http://www.haskellforall.com/2017/01/typed-nix-programming-using-dhall.html
 https://hackage.haskell.org/package/dhall-nix
+https://hackage.haskell.org/package/dhall-1.2.0/docs/Dhall-Tutorial.html
 
 dhall-json:
 http://www.haskellforall.com/2017/02/program-json-and-yaml-with-dhall.html
 https://hackage.haskell.org/package/dhall-json
 https://github.com/Gabriel439/Haskell-Dhall-JSON-Library
 
-dhall-rs:
+dhall-bash:
+http://www.haskellforall.com/2017/04/use-dhall-to-configure-bash-programs.html
+https://hackage.haskell.org/package/dhall-bash
+https://github.com/Gabriel439/Haskell-Dhall-Bash-Library
+
+dhall-other-pls:
 https://github.com/nanotech/dhall-rs
+https://github.com/missingfaktor/dhall-scala
 
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html

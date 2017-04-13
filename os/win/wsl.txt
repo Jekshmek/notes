@@ -1,0 +1,4 @@
+WSL:
+https://github.com/RoliSoft/WSL-Distribution-Switcher
+
+https://habrahabr.ru/post/326432/

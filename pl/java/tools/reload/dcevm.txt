@@ -8,6 +8,8 @@ http://hotswapagent.org/
 http://www.hotswapagent.org/quick-start
 https://github.com/HotswapProjects/HotswapAgent
 
+https://github.com/dmitry-zhuravlev/hotswap-agent-intellij-plugin
+
 articles
 http://habrahabr.ru/post/236075/
 https://habrahabr.ru/post/325700/
