@@ -104,6 +104,10 @@ Stru-PopytkaKBegstvu
     2 problemy : Teorija vospitaniya i Teorija progressa
 Stru-GadkieLebedi
     a bit in (2017-04-07) about Spektorsky
+Stru-Misc
+    2017-04-14-odin-0005
+        Banev - about Irony and Zhalost
+        VGV - Proisshestvie v Maloi Peshi - lyudi ispytannye irrationalnostiyu
 
 Uaild
 Dostoevsky

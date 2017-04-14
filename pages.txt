@@ -1,7 +1,7 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch13-03-improving-our-io-project.html#making-code-clearer-with-iterator-adaptors
+https://rust-lang.github.io/book/second-edition/ch13-04-performance.html
 https://robinwieruch.de/redux-mobx-confusion/#difference
-https://www.martinfowler.com/articles/consumerDrivenContracts.html#Benefits
+https://www.martinfowler.com/articles/consumerDrivenContracts.html#Liabilities
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -9,6 +9,7 @@ Video:
 Linux OS and CLI for DevOps_2 2                     -   00:00 (of 1:05:24)
 
 Literature:
+2017-04-14-odin-0005                                -   11:00 (of 1:39:51)
 Valberg - Lebedi - Film                             -   18:00 (of   41:53)
 Valberg - Amalteya                                  -   16:00 (of   47:49)
 Lebedi - Look from Today                            -   08:00 (of   23:23)
