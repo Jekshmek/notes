@@ -2,3 +2,6 @@ WSL:
 https://github.com/RoliSoft/WSL-Distribution-Switcher
 
 https://habrahabr.ru/post/326432/
+https://binkley.blogspot.com.by/2017/04/wsl-first-experiences.html
+
+https://github.com/mintty/wsltty
