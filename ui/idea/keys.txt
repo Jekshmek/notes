@@ -11,6 +11,9 @@ A-Ins
     Generate getters/setters
 
 Navigate
+C-S-A
+    ???
+    Find any arbitrary function by name
 C-B
     Go to Declaration
 A-F7
