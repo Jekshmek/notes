@@ -1,0 +1,6 @@
+https://github.com/facebookincubator/create-react-app
+https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md
+
+articles:
+https://github.com/tuchk4/awesome-create-react-app
+https://habrahabr.ru/company/plarium/blog/326520/
