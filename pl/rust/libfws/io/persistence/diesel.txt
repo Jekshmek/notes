@@ -43,3 +43,6 @@ table! {
 
 src/schema.rs
 infer_schema!("dotenv:DATABASE_URL");
+
+install:
+cargo install diesel_cli --no-default-features --features postgres
