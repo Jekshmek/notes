@@ -13,5 +13,9 @@ https://api.rocket.rs/rocket_codegen/index.html
 2FA:
 https://skinkade.github.io/rocket-auth-demo/
 
+multipart:
+https://www.reddit.com/r/rust/comments/65ikab/help_with_rocket_abonandermultipart/
+http://stackoverflow.com/questions/43424982/how-to-parse-multipart-forms-using-abonander-multipart-with-rocket
+
 whatsnew:
 https://rocket.rs/news/2017-02-06-version-0.2/

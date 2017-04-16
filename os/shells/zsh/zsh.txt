@@ -3,6 +3,9 @@ man zsh-lovers
 https://wiki.archlinux.org/index.php/zsh
 http://zsh.sourceforge.net/Doc/Release/index-frame.html
 
+articles:
+https://habrahabr.ru/post/326580/
+
 1. zsh cmd-line options
 
 -l, --login
