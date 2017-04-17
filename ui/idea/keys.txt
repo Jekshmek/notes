@@ -11,6 +11,8 @@ A-Ins
     Generate getters/setters
 
 Navigate
+C-A-Left
+    Navigate back
 C-S-A
     ???
     Find any arbitrary function by name

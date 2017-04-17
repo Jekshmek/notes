@@ -104,6 +104,16 @@ Stru-PopytkaKBegstvu
     2 problemy : Teorija vospitaniya i Teorija progressa
 Stru-GadkieLebedi
     a bit in (2017-04-07) about Spektorsky
+Stru-Ludeny
+    (Ludens, SDVG - skuchno is-sa skorosti)
+    Criterias:
+        otsutstvie straha pered novym, neponyatnym
+        skorost
+        otsutstvie uzkoi specializacii, informoemkost
+        ne zavodyat accountov v socialnyh setyah
+    !!! V Arkanar sbegayut iz mira poludnya (total slezhka, specsluzhby) !!!
+    https://www.youtube.com/watch?v=ndfdJbuo_ds 
+    https://www.youtube.com/watch?v=v94UKc5sJtc
 Stru-Misc
     2017-04-14-odin-0005
         Banev - about Irony and Zhalost
@@ -203,6 +213,7 @@ Writers (fantasts):
     Djachenko's
     Nataliya Vladimirovna Ignatova (https://www.youtube.com/watch?v=0xPSnBzqX7w)
         https://fantlab.ru/autor498
+    Anya Starobinets
 
 Pairs:
     Esenin - Vysotsky
