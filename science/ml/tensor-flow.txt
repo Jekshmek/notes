@@ -4,3 +4,6 @@ https://github.com/tensorflow/ecosystem
 
 pvs-check:
 https://habrahabr.ru/company/pvs-studio/blog/326256/
+
+articles:
+https://habrahabr.ru/post/326650/

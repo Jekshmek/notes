@@ -1,0 +1,2 @@
+http://mmhelloworld.github.io/blog/2017/01/06/introducing-idris-on-the-jvm-and-an-idris-android-example/
+https://github.com/mmhelloworld/idris-jvm

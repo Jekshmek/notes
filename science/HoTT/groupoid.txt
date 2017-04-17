@@ -24,6 +24,7 @@ https://github.com/groupoid/exe/blob/master/priv/Macro/macross-0/guidelines
 https://github.com/groupoid/exe/blob/master/priv/Macro/macro.new/guidelines
 
 Encodings:
+http://maxim.livejournal.com/517371.html
 http://maxim.livejournal.com/492132.html
 
 church-encoding:
@@ -154,3 +155,4 @@ https://gitter.im/groupoid/om/archives/
     2016/02/20
 https://gitter.im/groupoid/exe/archives/
     2016/02/25
+https://gitter.im/groupoid/coq/archives/
