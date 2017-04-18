@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch14-02-publishing-to-crates-io.html
+https://rust-lang.github.io/book/second-edition/ch14-02-publishing-to-crates-io.html#before-publishing-a-new-crate
 https://blog.predanie.ru/article/pasha-moiseya-i-pasha-hrista/
 https://robinwieruch.de/redux-mobx-confusion/#learningCurve
 https://martinfowler.com/articles/richardsonMaturityModel.html
@@ -50,7 +50,7 @@ http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
 Blandy - Why Rust                                   - 45..48..52
-Narkhede - Kafka The Definitive Guide               - 62..73..223
+Narkhede - Kafka The Definitive Guide               - 63..73..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
