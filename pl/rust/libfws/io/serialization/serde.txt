@@ -1,3 +1,14 @@
+https://serde.rs/
+https://crates.io/crates/serde
+https://docs.serde.rs/serde/
+https://github.com/serde-rs/serde
+
+https://crates.io/crates/serde-value
+http://arcnmx.github.io/serde-value/serde_value/
+https://github.com/arcnmx/serde-value
+
+https://github.com/sfackler/serde-transcode
+
 https://serde.rs/attributes.html#field-attributes
 
 issues:

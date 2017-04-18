@@ -4,6 +4,9 @@ https://github.com/groupoid/exe/blob/master/doc/
     encoding.pdf
     identity.pdf
 
+Inductive Types Cagegorical Semantics:
+https://www.youtube.com/watch?v=UjjuCRlS-bA
+
 Misc:
 Dybjer - Inductive Families
 http://www.cse.chalmers.se/~peterd/papers/Inductive_Families.pdf

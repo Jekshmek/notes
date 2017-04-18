@@ -3,6 +3,7 @@ https://www.infoq.com/presentations/4-concepts-webpack
 https://www.slideshare.net/denisizmaylov/webpack-7
 
 articles:
+http://tutorialzine.com/2017/04/learn-webpack-in-15-minutes/
 https://www.keycdn.com/blog/webpack/
 https://medium.com/webpack
 https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923
