@@ -9,6 +9,10 @@ C-S-Space
     SmartType completion
 A-Ins
     Generate getters/setters
+C-Space
+    Comment out code block with //
+C-S-Space
+    Comment out code block with /*...*/
 
 Navigate
 C-A-Left
@@ -34,3 +38,8 @@ Compile and Run
 
 F9
     Debug/Resume
+
+Help
+
+S-F1
+    External Help

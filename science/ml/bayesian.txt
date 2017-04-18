@@ -1,0 +1,3 @@
+bayesian:
+https://habrahabr.ru/company/yandex/blog/321434/
+http://bayesiandeeplearning.org/
