@@ -1,1 +1,5 @@
 http://typelevel.org/
+
+Reese - A Tail of TwoTails: The Second Act
+https://www.youtube.com/watch?v=vpQeKp7tkEw
+https://wheaties.github.io/Presentations/NEScala2017/index.html
