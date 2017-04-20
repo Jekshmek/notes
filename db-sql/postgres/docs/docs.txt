@@ -1,4 +1,5 @@
+https://postgrespro.ru/docs/
 https://postgrespro.ru/docs/postgresql/9.6/
 
-articles:
-http://www.sai.msu.su/~megera/postgres/talks/what_is_postgresql.html
+wiki:
+https://wiki.postgresql.org/wiki/Main_Page

@@ -21,6 +21,15 @@ grep = { version = "0.1.4", path = "grep" }
 clippy = {version = "0.0.*", optional = true}
 libc = "*"
 
+[dependencies.grpc]
+git = "https://github.com/stepancheg/grpc-rust.git"
+ 
+[dependencies.jemallocator]
+git = "https://github.com/busyjay/jemallocator.git"
+branch = "dev"
+features = ["profiling"]
+optional = true
+
 [build-dependencies.tango]
 git = "https://github.com/pnkfelix/tango"
 

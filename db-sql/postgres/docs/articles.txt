@@ -1,0 +1,2 @@
+http://www.sai.msu.su/~megera/postgres/talks/what_is_postgresql.html
+https://habrahabr.ru/post/263541/

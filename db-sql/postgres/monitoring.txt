@@ -1,0 +1,3 @@
+https://postgrespro.ru/docs/postgresql/9.6/monitoring-stats
+https://habrahabr.ru/company/okmeter/blog/311028/
+https://postgrespro.ru/blog/301/111807
