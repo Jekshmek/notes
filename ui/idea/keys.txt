@@ -13,6 +13,8 @@ C-Space
     Comment out code block with //
 C-S-Space
     Comment out code block with /*...*/
+C-P
+    list of valid params
 
 Navigate
 C-A-Left

@@ -1,0 +1,3 @@
+https://deeplearning4j.org/recurrentnetwork
+https://habrahabr.ru/post/326966/
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/

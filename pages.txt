@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch14-02-publishing-to-crates-io.html#before-publishing-a-new-crate
+https://rust-lang.github.io/book/second-edition/ch15-00-smart-pointers.html
 https://blog.predanie.ru/article/pasha-moiseya-i-pasha-hrista/
 https://robinwieruch.de/redux-mobx-confusion/#learningCurve
 https://martinfowler.com/articles/richardsonMaturityModel.html
@@ -7,10 +7,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Linux OS and CLI for DevOps_2 2                     -   31:00 (of 1:05:24)
+Linux OS and CLI for DevOps_2 2                     -   40:00 (of 1:05:24)
 
 Literature:
-Valberg - Lebedi - Film                             -   28:00 (of   41:53)
+Valberg - Stalker 2                                 -   01:00 (of   31:23)
 Bykov - Guseva                                      -   10:00 (of   48:38)
 Bykov - Butuzova                                    -   04:00 (of   45:36)
 Bykov - Trifonov                                    -   01:00 (of   29:09)
@@ -45,12 +45,12 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Tracking:
 Razbor Poletov                                      - 132
 Bananas and Lens                                    - 37
-This week in rust                                   - 177
+This week in rust                                   - 178
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Blandy - Why Rust                                   - 45..48..52
+Blandy - Why Rust                                   - 48..52
 Narkhede - Kafka The Definitive Guide               - 63..73..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)

@@ -17,6 +17,9 @@ https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting
 https://wiki.archlinux.org/index.php/PulseAudio/Examples
 https://bbs.archlinux.org/viewtopic.php?id=164868
 
+http://www.opennet.ru/tips/3014_pulseaudio_sound_audio_linux.shtml
+http://0pointer.de/blog/projects/pulse-glitch-free.html
+
 /etc/pulse/default.pa
 ~/.config/pulse/default.pa
 ### Automatically load driver modules for Bluetooth hardware
