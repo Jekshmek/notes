@@ -13,3 +13,10 @@ https://serde.rs/attributes.html#field-attributes
 
 issues:
 https://www.reddit.com/r/rust/comments/5u1q5e/incompatibility_between_serde_derive_and_rustc/
+
+lifetimes:
+https://serde.rs/lifetimes.html
+
+unit-testing:
+https://serde.rs/unit-testing.html
+https://docs.serde.rs/serde_test/
