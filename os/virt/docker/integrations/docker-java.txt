@@ -3,3 +3,8 @@ https://codefresh.io/blog/java_docker_pipeline/
 http://blog.jelastic.com/2017/04/13/java-ram-usage-in-containers-top-5-tips-not-to-lose-your-memory/
 
 https://developers.redhat.com/blog/2017/03/14/java-inside-docker/
+
+https://blogs.oracle.com/developers/official-docker-image-for-oracle-java-and-the-openjdk-roadmap-for-containers
+
+OpenJDK:
+https://hub.docker.com/_/openjdk/
