@@ -1,0 +1,4 @@
+presentations
+2017
+Bernard - Bean Validation 2.0
+https://www.youtube.com/watch?v=pNmzT4K9aTw

@@ -19,3 +19,29 @@ https://habrahabr.ru/company/spbifmo/blog/277153/
 https://habrahabr.ru/company/spbifmo/blog/278069/
 https://habrahabr.ru/company/parallels/blog/317994/
 https://habrahabr.ru/company/microsoft/blog/317512/
+
+courses:
+Kovalevski - only last 3 videos
+https://www.youtube.com/playlist?list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
+CMTV
+https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
+ComputerScienceCenter 2016 - ML
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
+ComputerScienceCenter 2017 - ML
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
+Brovko - NNs 2016
+https://www.youtube.com/playlist?list=PLwwk4BHih4fjZmSEwx_RcR1na6cQiV90z
+MailRu2015 - DataMining
+https://www.youtube.com/playlist?list=PLrCZzMib1e9pXgyJ8Y9Io4AocGy66pj1X
+MailRu2014 - DataMining
+https://www.youtube.com/playlist?list=PLrCZzMib1e9pyyrqknouMZbIPf4l3CwUP
+Shad2014 - Vorontsov
+https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
+Shad2012 - Vorontsov
+https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
+
+presentations:
+
+2016
+Bylygin - Fold NNs
+https://www.youtube.com/watch?v=4HSfxFHLTKY

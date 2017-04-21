@@ -4,3 +4,8 @@ https://github.com/simonbasle/reactor-by-example
 https://spring.io/blog/2016/02/09/reactive-spring
 https://spring.io/blog/2016/03/11/reactor-core-3-0-becomes-a-unified-reactive-foundation-on-java-8
 https://spring.io/blog/2016/04/19/understanding-reactive-types
+
+presentations:
+2017:
+Long - Reactive Spring
+https://www.youtube.com/watch?v=zVNIZXf4BG8

@@ -1,0 +1,4 @@
+presentations:
+2017
+Tsang - gRPC 101 for Java Developers
+https://www.youtube.com/watch?v=DU-q5kOf2Rc
