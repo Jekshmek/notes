@@ -10,3 +10,8 @@ https://habrahabr.ru/company/microsoft/blog/313318/
 https://habrahabr.ru/company/microsoft/blog/314934/
 
 https://explosion.ai/blog/deep-learning-formula-nlp
+
+presentations:
+2017
+https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941
+https://www.youtube.com/watch?v=S4vL355capU

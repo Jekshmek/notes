@@ -45,3 +45,13 @@ presentations:
 2016
 Bylygin - Fold NNs
 https://www.youtube.com/watch?v=4HSfxFHLTKY
+Sapunov - NN architecture intro
+https://www.slideshare.net/grigorysapunov/presentations
+https://www.slideshare.net/grigorysapunov/highload-2016
+https://www.slideshare.net/profyclub_ru/intento-69013506
+
+algo lists:
+http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+https://chatbotsmagazine.com/machine-learning-neural-networks-and-algorithms-5c0711eb8f9a
+https://www.linkit.nl/knowledge-base/234/Machine_learning_neural_networks_and_algorithms
+https://datafloq.com/read/12-algorithms-every-data-scientist-should-know/2024#datascience
