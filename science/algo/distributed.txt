@@ -1,1 +1,4 @@
 https://landing.google.com/sre/book/index.html
+
+Bonner - From Microlits to Microsystems
+https://www.infoq.com/presentations/microservices-principles-2017
