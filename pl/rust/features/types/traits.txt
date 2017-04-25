@@ -15,3 +15,7 @@ https://internals.rust-lang.org/t/blog-post-intersection-impls/4129
 
 trait problems:
 https://www.reddit.com/r/rust/comments/620m1v/never_hearing_the_trait_x_cannot_be_made_into_an/
+
+chalk:
+http://aturon.github.io/blog/2017/04/24/negative-chalk/
+https://www.reddit.com/r/rust/comments/67bwkv/negative_reasoning_in_chalk_aaron_turon/

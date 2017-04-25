@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch15-00-smart-pointers.html
+https://rust-lang.github.io/book/second-edition/ch15-01-box.html
 https://blog.predanie.ru/article/pasha-moiseya-i-pasha-hrista/
 https://robinwieruch.de/redux-mobx-confusion/#learningCurve
 https://martinfowler.com/articles/richardsonMaturityModel.html
@@ -49,8 +49,8 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Blandy - Why Rust                                   - 48..52
-Narkhede - Kafka The Definitive Guide               - 66..73..223
+Blandy - Why Rust                                   - 49..52
+Narkhede - Kafka The Definitive Guide               - 67..73..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
