@@ -9,6 +9,7 @@ cpp:
 https://code.visualstudio.com/docs/languages/cpp
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
+https://blogs.msdn.microsoft.com/vcblog/2017/04/25/visual-studio-code-cc-extension-april-2017-update/
 
 VisualRust:
 https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
