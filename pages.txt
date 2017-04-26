@@ -1,8 +1,7 @@
 URLs:
 https://rust-lang.github.io/book/second-edition/ch15-01-box.html
-https://blog.predanie.ru/article/pasha-moiseya-i-pasha-hrista/
-https://robinwieruch.de/redux-mobx-confusion/#learningCurve
 https://martinfowler.com/articles/richardsonMaturityModel.html
+https://robinwieruch.de/redux-mobx-confusion/#learningCurve
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
