@@ -7,3 +7,6 @@ http://junit.org/junit5/docs/current/user-guide/#writing-tests-repeated-tests
 http://junit.org/junit5/docs/current/api/org/junit/jupiter/api/Assertions.html
 
 http://stackoverflow.com/questions/tagged/junit5
+
+org.junit.Assume
+Assume.assumeFalse(SystemUtils.IS_OS_MAC_OSX);
