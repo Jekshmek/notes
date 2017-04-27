@@ -1,0 +1,5 @@
+https://github.com/fizzed/blaze
+https://github.com/fizzed/blaze/blob/master/docs/CONFIG.md
+https://github.com/fizzed/blaze/blob/master/docs/BASIC.md
+https://github.com/fizzed/blaze/blob/master/docs/SSH.md
+https://github.com/fizzed/blaze/blob/master/docs/HTTP.md

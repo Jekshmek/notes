@@ -1,6 +1,9 @@
 https://projectlombok.org/
 https://projectlombok.org/changelog.html
 
+articles:
+https://www.ibm.com/developerworks/library/j-lombok/
+
 Logging:
 https://projectlombok.org/features/Log.html
 
