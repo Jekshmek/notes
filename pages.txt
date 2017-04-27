@@ -1,7 +1,8 @@
 URLs:
 https://rust-lang.github.io/book/second-edition/ch15-02-deref.html
-https://martinfowler.com/articles/richardsonMaturityModel.html
+https://martinfowler.com/articles/richardsonMaturityModel.html#level1
 https://robinwieruch.de/redux-mobx-confusion/#learningCurve
+  Redux or MobX for Newcomers?
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -9,6 +10,7 @@ Video:
 Linux OS and CLI for DevOps_2 2                     -   50:00 (of 1:05:24)
 
 Literature:
+Prashkevich                                         -   10:00 (of 1:05:14)
 Bykov - Guseva                                      -   10:00 (of   48:38)
 Bykov - Butuzova                                    -   04:00 (of   45:36)
 Bykov - Trifonov                                    -   01:00 (of   29:09)
@@ -34,13 +36,13 @@ Audio:
 Milchik - Oshevenskoe                               -   37:00 (of 1:40:31)
 Ionova - Lazur                                      -   11:00 (of 1:59:50)
 Paschenko 19.1                                      -   00:00 (of 1:44:40)
-Ivliev - 16                                         -   00:00 (of   42:53)
+Ivliev - 17                                         -   00:00 (of   35:35)
 Sorokin - Context 2                                 -   00:00 (of 1:12:28)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 
 Tracking:
-Razbor Poletov                                      - 133 10:00 (of 3:00:55)
+Razbor Poletov                                      - 133
 Bananas and Lens                                    - 37
 This week in rust                                   - 178
 http://accu.org/index.php/journals/c78/             - 138
