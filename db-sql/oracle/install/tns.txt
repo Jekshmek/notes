@@ -1,7 +1,5 @@
-
 TNS names (!!! how to set-up real host name?):
-  D:\dev\Utils\oracle\product\11.2.0\dbhome_1\NETWORK\ADMIN\tnsnames.ora 
-
+  $ORA_HOME/NETWORK/ADMIN/tnsnames.ora 
 
 IHORCL =
   (DESCRIPTION =
