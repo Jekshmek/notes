@@ -1,6 +1,10 @@
 http://openjdk.java.net/projects/code-tools/jmh/
 http://hg.openjdk.java.net/code-tools/jmh
 
+presentations:
+https://www.infoq.com/presentations/java-performance-testing
+https://www.youtube.com/watch?v=W-8ztoH7Ku4
+
 blog:
 http://shipilev.net/blog/2014/nanotrusting-nanotime/
 

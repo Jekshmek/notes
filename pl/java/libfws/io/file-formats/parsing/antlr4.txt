@@ -37,3 +37,6 @@ lexer grammar CommonLexerRules;
 LibExpr.g4:
 grammar LibExpr;
 import CommonLexerRules;
+
+gradle plugin:
+https://github.com/melix/antlr4-gradle-plugin
