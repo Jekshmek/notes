@@ -1,1 +1,6 @@
 https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf
+
+http://neuralnetworksanddeeplearning.com/
+
+Manning - Trask - Grokking Deep Learning
+https://iamtrask.github.io/
