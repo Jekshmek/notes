@@ -1,1 +1,8 @@
 https://github.com/BurntSushi/cargo-benchcmp
+
+cargo
+    bench
+    benchcmp
+
+http://sunjay.ca/2017/04/27/rust-benchmark-comparison-travis
+https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/

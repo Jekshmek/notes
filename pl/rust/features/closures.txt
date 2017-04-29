@@ -1,1 +1,8 @@
 https://www.reddit.com/r/rust/comments/5pr3ft/polymorphic_closures/
+
+worker = spawn(move {
+    worker_loop(worker_rx, worker_tx);
+});
+
+move - move means captare it's env-vars (worker_rx, worker_tx)
+by moving them into the closure value, not by borrowing them
