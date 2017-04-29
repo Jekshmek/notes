@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch15-02-deref.html#implicit-deref-coercions-with-functions-and-methods
+https://rust-lang.github.io/book/second-edition/ch15-03-drop.html
 https://martinfowler.com/articles/richardsonMaturityModel.html#level1
 https://robinwieruch.de/redux-mobx-confusion/#learningCurve
   Redux or MobX for Newcomers?
@@ -7,9 +7,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Trubitsyn - Monitoring for development environments -   01:00 (of 1:03:03)
+Trubitsyn - Monitoring for development environments -   11:00 (of 1:03:03)
 
 Literature:
+Bykov - Aksenov Trifonov                            -   11:45 (of   44:18)
 Bykov - Guseva                                      -   22:00 (of   48:38)
 Bykov - Butuzova                                    -   04:00 (of   45:36)
 Bykov - Trifonov                                    -   01:00 (of   29:09)

@@ -2,6 +2,20 @@ https://rust-lang.github.io/book/second-edition/ch15-00-smart-pointers.html
 
 Deref-trait:
 https://doc.rust-lang.org/std/ops/trait.Deref.html
+https://doc.rust-lang.org/std/ops/trait.DerefMut.html
+Similar to how we use the Deref trait to override * on &Ts, there is also a DerefMut trait for overriding * on &mut T
+
+Rust does deref coercion when it finds types and trait implementations in three cases:
+
+From &T to &U
+    when T: Deref<Target=U>.
+From &mut T to &mut U
+    when T: DerefMut<Target=U>.
+From &mut T to &U
+    when T: Deref<Target=U>.
+
+The reason that the Deref trait is important to the smart pointer pattern is that smart pointers can then be treated like regular references and used in places that expect regular references. We don't have to redefine methods and functions to take smart pointers explicitly, for example
+
 
 Box<T>
     for allocating vals on the heap
