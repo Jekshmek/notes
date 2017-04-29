@@ -1,0 +1,11 @@
+https://www.tutorialspoint.com/plsql/plsql_dbms_output.htm
+
+? get_lines
+
+set serveroutput on;
+
+-- does not eq to above
+-- DBMS_OUTPUT.ENABLE(buffer_size => NULL);
+
+dbms_output.enable(1000000);
+dbms_output.put_line('some message');
