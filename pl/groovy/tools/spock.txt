@@ -5,6 +5,8 @@ articles:
 http://jakubdziworski.github.io/java/groovy/spock/2016/05/14/spock-cheatsheet.html
 
 Presentations/Talks:
+http://codepipes.com/presentations/spock-vs-junit.pdf
+    http://blog.codepipes.com/testing/spock-vs-junit.html
 https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/01-intro.md
 https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/04-gems.md
 https://github.com/spockframework/spock-talks/blob/master/talks/next-level/src/slides/05-future.md

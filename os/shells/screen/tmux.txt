@@ -1,2 +1,6 @@
 http://www.defstartup.org/2016/11/29/tmux-cheatsheet.html
 https://leanpub.com/the-tao-of-tmux/read
+
+cheatsheets:
+https://habrahabr.ru/post/327630/
+https://habrahabr.ru/post/126996/
