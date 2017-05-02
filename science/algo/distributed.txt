@@ -1,4 +1,10 @@
+Books:
 https://landing.google.com/sre/book/index.html
+Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
 
+Presentations:
 Bonner - From Microlits to Microsystems
 https://www.infoq.com/presentations/microservices-principles-2017
+
+https://jpoint.ru/talks/crdt-conflict-free-synchronization-in-distributed-systems/
+https://assets.contentful.com/oxjq45e8ilak/bpJiv5zh16ek6OK22s6wu/371941ccbf133048ec11b9a996edd8b2/Andrey_Ershov._Resolve_conflicts_better__than_Cassandra.pdf

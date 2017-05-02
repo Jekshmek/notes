@@ -1,12 +1,13 @@
 URLs:
 https://rust-lang.github.io/book/second-edition/ch15-04-rc.html
+http://alexmagin38.livejournal.com/19670.html
 https://martinfowler.com/articles/richardsonMaturityModel.html#level2
 https://robinwieruch.de/redux-mobx-confusion/#anotherSolution
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Trubitsyn - Monitoring for development environments -   11:00 (of 1:03:03)
+Trubitsyn - Monitoring for development environments -   21:00 (of 1:03:03)
 
 Literature:
 Bykov - Nekrasova                                   -   21:00 (of   43:27)
@@ -33,7 +34,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Milchik - Oshevenskoe                               -   37:00 (of 1:40:31)
 Ionova - Lazur                                      -   11:00 (of 1:59:50)
-Paschenko 19.1                                      -   00:00 (of 1:44:40)
+Paschenko 19.2                                      -   00:00 (of 2:03:37)
 Ivliev - 17                                         -   00:00 (of   35:35)
 Sorokin - Context 3                                 -   00:00 (of 1:27:17)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
