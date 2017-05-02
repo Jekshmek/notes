@@ -13,13 +13,17 @@ https://killercup.github.io/trpl-ebook/
 
 https://users.rust-lang.org/t/the-bookshelf-is-largely-implemented-please-check-out-the-new-docs/9715
 
+Nomicon:
+https://doc.rust-lang.org/nomicon/
+https://github.com/rust-lang-nursery/nomicon
+
 Blandy - Why Rust:
 http://www.oreilly.com/programming/free/files/why-rust.pdf
 https://www.reddit.com/r/cpp/comments/3kkgfz/why_rust_brief_introduction_but_good_for_c/
 http://feederio.com/book/46/why-rust
 http://feederio.com/files/book/14853357981385_30cfdedd0fe9372c2505f762cb70d575.pdf
 
-Portinc Cpp to Rust:
+Porting Cpp to Rust:
 https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/setting_up_rust/
 
 TooManyLists:

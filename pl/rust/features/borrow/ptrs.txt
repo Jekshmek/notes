@@ -16,6 +16,16 @@ From &mut T to &U
 
 The reason that the Deref trait is important to the smart pointer pattern is that smart pointers can then be treated like regular references and used in places that expect regular references. We don't have to redefine methods and functions to take smart pointers explicitly, for example
 
+Drop-trait:
+https://doc.rust-lang.org/std/ops/trait.Drop.html
+
+    std::mem::drop - to drop some object earlier
+pub mod std {
+    pub mod mem {
+        pub fn drop<T>(x: T) { } // just takes an ownership
+    }
+}
+
 
 Box<T>
     for allocating vals on the heap
