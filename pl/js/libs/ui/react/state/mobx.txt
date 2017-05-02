@@ -1,0 +1,25 @@
+https://mobx.js.org/
+https://github.com/mobxjs/mobx-react
+
+tutorials:
+https://github.com/markerikson/react-redux-links/blob/master/mobx-tutorials.md
+https://mobx.js.org/getting-started.html
+https://www.robinwieruch.de/mobx-react/
+
+api:
+https://mobx.js.org/refguide/api.html
+
+articles:
+https://robinwieruch.de/redux-mobx-confusion/
+https://benmccormick.org/2017/01/09/mobx-first-impressions/
+https://habrahabr.ru/post/282578/
+https://habrahabr.ru/post/324388/
+https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
+https://hashnode.com/post/redux-vs-mobx-by-example-part-i-intro-and-exploring-redux-cito5m0nn0sssxi53c7zq7jpr
+https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228
+
+presentations:
+http://slides.com/mattruby/deck#/
+
+whats new:
+https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443
