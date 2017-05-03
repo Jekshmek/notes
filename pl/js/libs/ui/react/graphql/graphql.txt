@@ -9,6 +9,3 @@ http://graphql.org/blog/
 
 samples:
 https://developer.github.com/early-access/graphql/
-
-articles:
-https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
