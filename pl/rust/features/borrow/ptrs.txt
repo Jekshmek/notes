@@ -31,6 +31,7 @@ Box<T>
     for allocating vals on the heap
 Rc<T>
     refcounted type, so data can have multiple owners
+    ! single-thread-only ! we can only read immutable refs of T
 RefCell<T>
     isn't a smart-ptr itself, but manages access to the smart pointers Ref
 RefMut

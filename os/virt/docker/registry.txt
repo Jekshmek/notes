@@ -1,0 +1,1 @@
+https://jsosic.wordpress.com/2017/01/23/deleting-images-from-docker-registry/
