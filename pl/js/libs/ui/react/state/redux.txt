@@ -31,3 +31,6 @@ presentations:
 2016
 Abramove - The Redux Journey
 https://www.youtube.com/watch?v=uvAXVMwHJXU
+
+books:
+http://bpxl-labs.github.io/redux-handbook/

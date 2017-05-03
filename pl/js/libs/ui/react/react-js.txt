@@ -1,6 +1,8 @@
 resources:
 https://vasanthk.gitbooks.io/react-bits/
 https://github.com/vasanthk/react-bits
+https://github.com/markerikson/react-redux-links
+https://github.com/markerikson/react-redux-links/blob/master/react-redux-architecture.md
 
 articles:
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
