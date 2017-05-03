@@ -9,7 +9,6 @@ Video:
 Trubitsyn - Monitoring for development environments -   36:00 (of 1:03:03)
 
 Literature:
-Bykov - Trifonov                                    -   01:00 (of   29:09)
 Bykov - Efron 1                                     -   12:00 (of 1:20:42)
 Bykov - Diletant Readings Poesy                     -   05:00 (of 1:34:56)
   https://vk.com/video-2048479_456239163
@@ -45,7 +44,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 71..73..223
+Narkhede - Kafka The Definitive Guide               - 73..101..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
