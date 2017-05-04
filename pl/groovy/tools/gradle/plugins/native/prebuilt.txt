@@ -1,0 +1,11 @@
+https://github.com/gradle/gradle/tree/master/subprojects/platform-native/src/main/java/org/gradle/nativeplatform/internal/prebuilt
+
+https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/PrebuiltStaticLibraryBinary.html
+https://docs.gradle.org/current/javadoc/org/gradle/nativeplatform/PrebuiltSharedLibraryBinary.html
+
+https://discuss.gradle.org/t/how-do-i-specify-different-include-paths-for-a-prebuiltlibrary-on-a-native-c-application/10684
+https://discuss.gradle.org/t/how-do-i-link-a-c-library-with-another-library-file-that-i-know-the-path-of/7241
+https://discuss.gradle.org/t/how-to-add-a-native-prebuilt-library-with-multiple-binary-files/4211
+
+https://github.com/gradle/gradle/blob/master/subprojects/docs/src/samples/native-binaries/prebuilt/build.gradle
+https://gist.github.com/ph0b/418132cb2f3f03a5534c

@@ -3,6 +3,54 @@ https://docs.gradle.org/current/userguide/native_software.html
 
 DesignDocs:
 https://github.com/gradle/gradle/blob/master/design-docs/done/continuous-delivery-for-c-plus-plus.md
+? cpp-lib ?
+#story-allow-library-binaries-to-be-used-as-input-to-executable-binaries
+
+? SharedLibraryBinary ?
+NativeBinaries
+??? NativeBinary.lib(Object)
+// import org.gradle.platform.base.Binary;
+
+import org.gradle.platform.base.Binary;
+import org.gradle.nativeplatform.platform.NativePlatform;
+
+/**
+ * Represents a particular binary artifact.
+ */
+@Incubating
+public interface NativeBinary extends Binary {
+    /**
+     * The {@link org.gradle.nativeplatform.Flavor} that this binary was built with.
+     */
+    Flavor getFlavor();
+
+    /**
+     * Returns the {@link org.gradle.nativeplatform.platform.NativePlatform} that this binary is targeted to run on.
+     */
+    NativePlatform getTargetPlatform();
+
+    /**
+     * Returns the {@link org.gradle.nativeplatform.BuildType} used to construct this binary.
+     */
+    BuildType getBuildType();
+}
+
+package org.gradle.nativeplatform;
+
+@Incubating
+public interface NativeLibraryBinary extends NativeBinary {
+    FileCollection getHeaderDirs();
+    FileCollection getLinkFiles();
+    FileCollection getRuntimeFiles();
+}
+
+import org.gradle.platform.base.Library;
+
+@Incubating
+public interface NativeLibrary extends Library {
+}
+
+
 
 model {
     toolChains {

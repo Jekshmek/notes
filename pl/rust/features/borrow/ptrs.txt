@@ -34,5 +34,6 @@ Rc<T>
     ! single-thread-only ! we can only read immutable refs of T
 RefCell<T>
     isn't a smart-ptr itself, but manages access to the smart pointers Ref
+    like a Box<T>, but follows "interior mutability" pattern
 RefMut
     to enforce the borrowing rules at runtime instead of compile time
