@@ -64,3 +64,6 @@ Core Types:
 
 task ... { ... }
 Note: closure - is just a last parameter to the task-method per the groovy syntax
+
+misc os stuff
+targetPlatform.operatingSystem.windows

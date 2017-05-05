@@ -1,1 +1,3 @@
-dumpbin /EXPORTS lib-name.dll
+dumpbin
+    /symbols
+    /exports lib-name.dll

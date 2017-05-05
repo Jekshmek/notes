@@ -1,0 +1,6 @@
+subprojects/
+	native/
+	platform-native/
+		src/main/java/org/gradle/nativeplatform/toolchain/internal/msvcpp/CCompiler.java
+	language-native/
+	testing-native/
