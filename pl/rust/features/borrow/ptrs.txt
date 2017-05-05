@@ -33,7 +33,19 @@ Rc<T>
     refcounted type, so data can have multiple owners
     ! single-thread-only ! we can only read immutable refs of T
 RefCell<T>
+    https://rust-lang.github.io/book/second-edition/ch15-05-interior-mutability.html
     isn't a smart-ptr itself, but manages access to the smart pointers Ref
     like a Box<T>, but follows "interior mutability" pattern
-RefMut
+        fn borrow() -> Ref<T>
+            &r.borrow()
+        fn borrow_mut() -> RefMut<T>
+            &mut r.borrow_mut()
+            // these 2 types impl Deref-trait, Drop trait,
+            // track the borrow dynamically
+    If we don't check borrow rules at runtime, we will end up with:
+        panicked at 'already borrowed: BorrowMutError
+Cell<T>
+    is similar to RefCell<T>, but insetead of giving references to the inner value, the value is copied in and out of the Cell<T>.
+    Note: Mutex<T> offers interior mutability that is safe to use across threads
+RefMut<T>
     to enforce the borrowing rules at runtime instead of compile time
