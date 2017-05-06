@@ -7,6 +7,8 @@ Video:
 Trubitsyn - How to monitor applications in datacent -   01:00 (of 58:56)
 
 Literature:
+Bykov - Radio                                       -   02:00 (of   41:43)
+  https://vk.com/video-2048479_456239278
 Bykov - Efron 1                                     -   48:00 (of 1:20:42)
   https://vk.com/video-2048479_171082100
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
@@ -23,8 +25,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Milchik - Oshevenskoe                               -   37:00 (of 1:40:31)
-Ionova - Lazur                                      -   11:00 (of 1:59:50)
+Ionova - Lazur                                      -   22:00 (of 1:59:50)
 Paschenko 19.2                                      -   00:00 (of 2:03:37)
 Ivliev - 18                                         -   00:00 (of   29:22)
 Sorokin - Context 4                                 -   00:00 (of 1:15:13)
