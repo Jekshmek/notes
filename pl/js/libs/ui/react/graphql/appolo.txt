@@ -4,3 +4,7 @@ http://dev.apollodata.com/core/
 https://www.learnapollo.com/
 
 https://github.com/sysgears/apollo-fullstack-starter-kit
+
+articles:
+https://www.youtube.com/playlist?list=PL_JISN7x1Ku8Q5wFmHhT4NlOOrsoR6-wv
+https://github.com/nikitamarcius/graphql-authentication-register-profile

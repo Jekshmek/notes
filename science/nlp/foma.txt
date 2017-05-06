@@ -29,3 +29,5 @@ if test -f /usr/local/lib/libfoma.so.0; then rm  /usr/local/lib/libfoma.so.0; fi
 cd /usr/local/lib; ln -s libfoma.so.0.9.18 libfoma.so; cd /usr/local/lib;	\
     ln -s libfoma.so.0.9.18 libfoma.so.0; (ldconfig || true)		\
 >/dev/null 2>&1; \
+
+// fomalib.h
