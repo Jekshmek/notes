@@ -1,6 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch15-06-reference-cycles.html#prevent-reference-cycles-turn-an-rct-into-a-weakt
-https://vk.com/dlbykov?w=wall-2048479_80149%2Fall
+https://rust-lang.github.io/book/second-edition/ch16-01-threads.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -40,7 +39,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 77..101..223
+Narkhede - Kafka The Definitive Guide               - 78..101..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 

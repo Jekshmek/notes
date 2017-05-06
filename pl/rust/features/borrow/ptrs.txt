@@ -47,5 +47,6 @@ RefCell<T>
 Cell<T>
     is similar to RefCell<T>, but insetead of giving references to the inner value, the value is copied in and out of the Cell<T>.
     Note: Mutex<T> offers interior mutability that is safe to use across threads
-RefMut<T>
-    to enforce the borrowing rules at runtime instead of compile time
+Weak<T>
+    For situation which have cycles, but only one direction expresses ownership.
+    upgrade/downgrade

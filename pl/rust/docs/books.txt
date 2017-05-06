@@ -29,3 +29,7 @@ https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/setting_up_rust/
 TooManyLists:
 http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/
 https://github.com/rust-unofficial/too-many-lists
+
+Cookbook:
+https://brson.github.io/rust-cookbook/
+https://github.com/brson/rust-cookbook
