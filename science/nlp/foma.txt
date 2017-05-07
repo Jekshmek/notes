@@ -1,3 +1,6 @@
+https://github.com/hfst/hfst/blob/master/back-ends/foma/
+https://github.com/hfst/hfst/blob/master/back-ends/foma/fomalib.h
+
 https://github.com/mhulden/foma
 https://bitbucket.org/mhulden/foma/downloads/
 
@@ -12,7 +15,10 @@ https://aur.archlinux.org/packages/foma/
 
 http://foma.sourceforge.net/dokuwiki/doku.php?id=wiki:morphtutorial
 
+wiki:
+https://en.wikipedia.org/wiki/Foma_(software)
 http://wiki.apertium.org/wiki/Foma
+
 http://www.aclweb.org/anthology/E/E09/E09-2008.pdf
 http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/
 http://clt.gu.se/sites/clt.gu.se/files/mkp/clttutorial.pdf
