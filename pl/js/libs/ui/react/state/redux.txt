@@ -19,10 +19,8 @@ top-level component is [not-visual] acts likes a controller
 Flux is a save 3-weel MVC
 one-way events is a normal, non-revolutional
 
------
-REDUX
------
-
+articles:
+https://habrahabr.ru/post/328152/
 https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4
 https://robinwieruch.de/redux-mobx-confusion
