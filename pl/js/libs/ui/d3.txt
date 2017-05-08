@@ -1,2 +1,5 @@
 book:
 http://alignedleft.com/work/d3-book
+
+d3-express
+https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
