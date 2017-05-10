@@ -1,3 +1,9 @@
 articles:
 https://geektimes.ru/post/287696/
 https://habrahabr.ru/post/318970/
+
+CNNs:
+http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+https://arxiv.org/abs/1408.5882
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+    https://github.com/dennybritz/cnn-text-classification-tf

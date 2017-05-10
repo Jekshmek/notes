@@ -31,31 +31,6 @@ _uid    The _type and _id concatenated together as "type#id"
 config:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/setup-configuration.html
 
-Docs:
-
-https://speakerdeck.com/kimchy/elasticsearch-big-data-search-analytics
-https://www.youtube.com/watch?v=lpZ6ZajygDY
-
-http://exploringelasticsearch.com/overview.html
-
-https://www.found.no/foundation/elasticsearch-from-the-bottom-up/
-https://www.found.no/foundation/elasticsearch-in-production/
-https://www.found.no/foundation/sizing-elasticsearch/
-https://www.found.no/foundation/optimizing-elasticsearch-searches/
-
-
-http://www.slideshare.net/clintongormley/scaling-realtime-search-and-analytics-with-elasticsearch
-http://www.slideshare.net/clintongormley/down-and-dirty-with-elasticsearch
-http://www.slideshare.net/sematext/scaling-massive-elasticsearch-clusters
-
-http://www.slideshare.net/foundsearch/elasticsearch-in-production-london-version
-
-
-Tips:
-
-https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
-
-
 
 CAT API:
 http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/cat.html
