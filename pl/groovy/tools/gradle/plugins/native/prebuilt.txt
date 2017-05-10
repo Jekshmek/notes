@@ -36,3 +36,24 @@ https://github.com/gradle/gradle/blob/master/subprojects/docs/src/samples/native
             }
         }
     }
+
+    repositories {
+        libs(PrebuiltLibraries) {
+            zlib_win {
+                def libName = "zlib"
+                def userHome = System.getProperty("user.home")
+                // conan install zlib/1.2.11@lasote/stable -b -s arch="x86_64" -s build_type="Release" -s compiler="Visual Studio" -s compiler.runtime="MT" -s compiler.version="10" -s os="Windows" -o shared="True" 
+                // shared="False"
+                def packageHash = 'deeef9847bd36121da67dea498a190a923f6c7a0'
+                def baseDir = "${userHome}/.conan/data/${libName}/1.2.11/lasote/stable/package/${packageHash}"
+                headers.srcDir "${baseDir}/include"
+                //binaries.withType(StaticLibraryBinary) {
+                //    staticLibraryFile = file("${baseDir}/lib/${libName}static.lib")
+                //}
+                binaries.withType(SharedLibraryBinary) {
+                    sharedLibraryFile = file("${baseDir}/bin/${libName}.dll")
+                    sharedLibraryLinkFile = file("${baseDir}/lib/${libName}.lib")
+                }
+            }
+        }
+    }

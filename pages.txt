@@ -2,11 +2,13 @@ URLs:
 https://rust-lang.github.io/book/second-edition/ch16-01-threads.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
+https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-filipa-k-dika/
 
 Video:
-Trubitsyn - How to monitor applications in datacent -   01:00 (of 58:56)
+Trubitsyn - How to monitor applications in datacent -   13:00 (of 58:56)
 
 Literature:
+Bykov - Single                                      - 1:14:00 (of 1:36:08)
 Bykov - Efron 2                                     -   09:00 (of 1:29:53)
   https://vk.com/video-2048479_171082447
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
@@ -26,7 +28,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Ionova - Lazur                                      -   22:00 (of 1:59:50)
-Paschenko 19.2                                      -   00:00 (of 2:03:37)
+Paschenko 20.1                                      -   00:00 (of 1:42:17)
 Ivliev - 18                                         -   00:00 (of   29:22)
 Sorokin - Context 4                                 -   00:00 (of 1:15:13)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
@@ -34,8 +36,8 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 
 Tracking:
 Razbor Poletov                                      - 133
-Bananas and Lens                                    - 37
-This week in rust                                   - 180
+Bananas and Lens                                    - 38
+This week in rust                                   - 181
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
