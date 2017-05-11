@@ -6,17 +6,14 @@ https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-fili
     God and Psychosis
 
 Video:
-Trubitsyn - How to monitor applications in datacent -   13:00 (of 58:56)
+Trubitsyn - How to monitor applications in datacent -   30:00 (of 58:56)
 
 Literature:
-Bykov - Single                                      - 1:18:00 (of 1:36:08)
-Bykov - Efron 2                                     -   09:00 (of 1:29:53)
-  https://vk.com/video-2048479_171082447
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
-Malishevsky - VGV                                   -   30:00 (of 2:15:07)
+Malishevsky - VGV                                   -   34:00 (of 2:15:07)
   https://www.youtube.com/watch?v=T59UWzxkFsQ
 
 Science Videos:
@@ -30,7 +27,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Ionova - Lazur                                      -   22:00 (of 1:59:50)
 Paschenko 20.1                                      -   00:00 (of 1:42:17)
-Ivliev - 18                                         -   00:00 (of   29:22)
+Ivliev - 19                                         -   00:00 (of   33:15)
 Sorokin - Context 4                                 -   00:00 (of 1:15:13)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
@@ -43,7 +40,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 79..101..223
+Narkhede - Kafka The Definitive Guide               - 83..101..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 

@@ -4,3 +4,4 @@ subprojects/
 		src/main/java/org/gradle/nativeplatform/toolchain/internal/msvcpp/CCompiler.java
 	language-native/
 	testing-native/
+
