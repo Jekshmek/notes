@@ -1,7 +1,1 @@
-Presentations:
-http://thetoeb.de/2016/08/30/modern-cmake-presentation/
-https://docs.google.com/presentation/d/18fY0zDtJCMUW5WdY2ZOfKtvb7lXEbBPFe_I6MNJC0Qw/preview#slide=id.g15c79ae86d_0_55
-https://github.com/toeb/moderncmake/blob/master/Modern%20CMake.pdf
-https://www.slideshare.net/DanielPfeifer1/cmake-48475415
-
-https://github.com/toeb/moderncmake
+https://cmake.org

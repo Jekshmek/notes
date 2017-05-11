@@ -1,0 +1,4 @@
+https://cmake.org/cmake/help/latest/release/index.html
+
+https://blog.kitware.com/cmake-3-8-1-available-for-download/
+https://blog.kitware.com/cmake-3-8-0-available-for-download/

@@ -2,6 +2,7 @@ https://github.com/Netflix/RxJava
 http://techblog.netflix.com/2013/02/rxjava-netflix-api.html
 
 articles:
+https://habrahabr.ru/company/badoo/blog/328434/
 https://www.infoq.com/articles/rxjava2-by-example
 https://zeroturnaround.com/rebellabs/rxjava-for-easy-concurrency-and-backpressure/
 
@@ -12,6 +13,11 @@ Books:
 Maglie - Reactive Java Programming
 
 Presentations:
+Wharton - 2016 - Exploring RxJava 2 for Android
+https://habrahabr.ru/company/badoo/blog/328434/
+https://www.youtube.com/watch?v=htIXKI5gOQU
+https://gotocon.com/cph-2016/presentations/show_talk.jsp?oid=7706
+
 EPAM - Demin - Reactive Java
 
 Stine (+backpressure):

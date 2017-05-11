@@ -1,0 +1,4 @@
+http://preshing.com/20170511/how-to-build-a-cmake-based-project/
+https://github.com/preshing/CMakeDemo
+http://aosabook.org/en/cmake.html
+http://rachid.koucha.free.fr/tech_corner/cmake_manual.html
