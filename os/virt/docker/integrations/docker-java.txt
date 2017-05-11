@@ -8,3 +8,8 @@ https://blogs.oracle.com/developers/official-docker-image-for-oracle-java-and-th
 
 OpenJDK:
 https://hub.docker.com/_/openjdk/
+
+presentations:
+2017:
+https://www.youtube.com/watch?v=yHLAaA4gPxw
+https://www.slideshare.net/Docker/docker-for-java-developers-fabiane-pardon-and-arun-gupta

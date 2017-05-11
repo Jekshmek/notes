@@ -1,1 +1,4 @@
 http://www.javaworld.com/article/2860079/scripting-jvm-languages/invokedynamic-101.html
+
+http://openjdk.java.net/jeps/303
+https://habrahabr.ru/post/328240/

@@ -2,6 +2,8 @@ http://www.ibm.com/developerworks/linux/library/l-docker-network/index.html
 https://www.elastic.co/blog/docker-networking
 
 Presentations:
+https://www.slideshare.net/MadhuVenugopal2/dcus17-docker-networking-deep-dive
+https://www.slideshare.net/Docker/docker-networking-in-production-at-visa-sasi-kannappan-visa-and-mark-church-docker
 http://www.slideshare.net/BadooDev/docker-networking-63521575
 
 /etc/sysconfig/docker-network
