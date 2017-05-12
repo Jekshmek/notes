@@ -11,7 +11,9 @@ http://www.slideshare.net/BadooDev/docker-networking-63521575
 DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'
 
 docker network
-    create --driver=... [--label=...] net-name
+    ls
+    rm <network-name>
+    create -d --driver=... [--label=...] net-name
         for overlay-driver we need external KV-storage (like a consul) --kv-store=consul:host:port
 
     connect <net-name> <container-name>

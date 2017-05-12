@@ -6,9 +6,11 @@ https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-fili
     God and Psychosis
 
 Video:
-Trubitsyn - How to monitor applications in datacent -   30:00 (of 58:56)
+Bruner - Docker Mutli-host Networking               -   01:00 (of   50:37)
 
 Literature:
+Bykov - Slavic Radio                                -   00:00 (of)
+  https://vk.com/video-2048479_456239279
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -25,12 +27,12 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Ionova - Lazur                                      -   22:00 (of 1:59:50)
 Paschenko 20.1                                      -   00:00 (of 1:42:17)
 Ivliev - 19                                         -   00:00 (of   33:15)
-Sorokin - Context 4                                 -   00:00 (of 1:15:13)
+Sorokin - Context 5                                 -   00:00 (of 1:17:05)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
+Ionova - Lazur                                      -   22:00 (of 1:59:50)
 
 Tracking:
 Razbor Poletov                                      - 133
