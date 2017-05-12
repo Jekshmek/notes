@@ -11,6 +11,10 @@ https://github.com/sfackler/serde-transcode
 
 https://serde.rs/attributes.html#field-attributes
 
+zero-copy:
+https://users.rust-lang.org/t/serde-and-serde-json-1-0-0-released/10466
+https://www.reddit.com/r/rust/comments/6albr0/serde_compared_to_the_fastest_c_json_library/
+
 issues:
 https://www.reddit.com/r/rust/comments/5u1q5e/incompatibility_between_serde_derive_and_rustc/
 
