@@ -1,3 +1,5 @@
+Kmetiuk - 2017:
+http://akmetiuk.com/posts/2017-05-12-implicits.html
 Patridge:
 http://www.slideshare.net/nkpart/scala-implicits
 Wyatt:
