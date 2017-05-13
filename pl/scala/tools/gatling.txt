@@ -4,7 +4,7 @@ https://github.com/gatling/gatling
 http://gatling.io/docs/2.2.1/whats_new/2.2.html
 http://gatling.io/#/docs/talks
 http://gatling.io/docs/2.2.1/advanced_tutorial.html
-http://gatling.io/#/cheat-sheet/2.2.1
+http://gatling.io/docs/current/cheat-sheet/
 
 https://github.com/lkishalmi/gradle-gatling-plugin
 https://github.com/buhe/gradle-gatling-plugin
@@ -22,11 +22,11 @@ http://gatling.io/docs/2.2.1/general/scenario.html
 http://gatling.io/docs/2.2.1/session/feeder.html
 http://gatling.io/docs/2.2.1/general/assertions.html
 
-Articles:
+articles:
 http://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/
 https://habrahabr.ru/company/tinkoff/blog/323316/
 
-Presentations:
+presentations:
 http://www.slideshare.net/xebia/testworks-conf-performance-testing-made-easy-with-gatling-guillaume-corre
 
 sbt plugin:
@@ -115,3 +115,7 @@ Feeders
 
 sbt-gatling:
 http://gatling.io/docs/2.2.1/extensions/sbt_plugin.html
+
+conf:
+https://github.com/gatling/gatling/blob/master/gatling-core/src/main/resources/gatling-defaults.conf#L78
+http://gatling.io/docs/current/http/http_protocol/#connection-sharing

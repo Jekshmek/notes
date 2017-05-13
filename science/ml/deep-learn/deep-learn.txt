@@ -15,3 +15,6 @@ presentations:
 2017
 https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941
 https://www.youtube.com/watch?v=S4vL355capU
+
+articles:
+https://hackernoon.com/tagged/deep-learning
