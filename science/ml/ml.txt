@@ -5,14 +5,10 @@ http://www.ebooks-share.net/ebook/machine-learning-the-new-ai-the-mit-press-esse
 https://k2s.cc/file/e5f7db0866cd3
 Mueller - Introduction to Machine Learning with Python
 http://www.ebooks-share.net/ebook/introduction-to-machine-learning-with-python
-Brink - Real World Machine Learning
-http://uploaded.net/file/w2dztrzz/1617291927.pdf
 
 2012:
 Harrington - ML in action
 http://uploaded.net/file/45my2omb
-Mohri - Foundations of ML
-https://tezfiles.com/file/8ea1a978c7bf3
 ?Conway - ML for Hackers
 
 https://www.infoq.com/minibooks/emag-handle-data-science
