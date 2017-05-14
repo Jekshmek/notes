@@ -3,8 +3,6 @@ ToDown:
 Alpadyn - Machine Learning: The New AI
 http://www.ebooks-share.net/ebook/machine-learning-the-new-ai-the-mit-press-essential-knowledge-series
 https://k2s.cc/file/e5f7db0866cd3
-Mueller - Introduction to Machine Learning with Python
-http://www.ebooks-share.net/ebook/introduction-to-machine-learning-with-python
 
 2012:
 Harrington - ML in action
