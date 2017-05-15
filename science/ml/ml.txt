@@ -1,16 +1,8 @@
-ToDown:
-2016:
-Alpadyn - Machine Learning: The New AI
-http://www.ebooks-share.net/ebook/machine-learning-the-new-ai-the-mit-press-essential-knowledge-series
-https://k2s.cc/file/e5f7db0866cd3
-
-2012:
-?Conway - ML for Hackers
-
 https://www.infoq.com/minibooks/emag-handle-data-science
 http://www.infoq.com/resource/minibooks/emag-handle-data-science/en/pdf/The-InfoQ-eMag-Getting-a-Handle-on-Data-Science.pdf
 
 intro:
+Alpadyn - Machine Learning (mostly textual)
 Kirk - Thoughtful Machine Learning with Python
 Dean - Big Data Mining and Machine Learning
 Muller - Introduction to Machine Learning with Python
