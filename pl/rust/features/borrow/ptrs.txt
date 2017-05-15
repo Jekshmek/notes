@@ -50,3 +50,7 @@ Cell<T>
 Weak<T>
     For situation which have cycles, but only one direction expresses ownership.
     upgrade/downgrade
+MutexGuard<T>
+    for mutexes
+Arc<T>
+    Atomic reference counting

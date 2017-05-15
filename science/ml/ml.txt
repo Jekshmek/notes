@@ -5,8 +5,6 @@ http://www.ebooks-share.net/ebook/machine-learning-the-new-ai-the-mit-press-esse
 https://k2s.cc/file/e5f7db0866cd3
 
 2012:
-Harrington - ML in action
-http://uploaded.net/file/45my2omb
 ?Conway - ML for Hackers
 
 https://www.infoq.com/minibooks/emag-handle-data-science
@@ -17,6 +15,7 @@ Kirk - Thoughtful Machine Learning with Python
 Dean - Big Data Mining and Machine Learning
 Muller - Introduction to Machine Learning with Python
 Soares - Neural Network Programming with Java
+Harrington - Machine Learning in Action
 
 yandex-trainings:
 https://www.youtube.com/playlist?list=PLTlO6nV_TaGAN8fJksD5QMbURRbTIQS4u
