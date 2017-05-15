@@ -17,7 +17,14 @@ https://www.youtube.com/watch?v=fTUwdXUFfI8
 Real-time Twitter Sentiment Analytics with TensorFlow and Spring Cloud Dataflow
 https://www.youtube.com/watch?v=QzF2Iii4s5c
 
-Lists:
+lists:
 2016
 Hvass - TensorFlow Tutorial
 https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
+
+books:
+2017:
+Geron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
+2016:
+Abrahams - TensorFlow For Machine Intelligence
+Bonnin - Building Machine Learning Projects with TensorFlow
