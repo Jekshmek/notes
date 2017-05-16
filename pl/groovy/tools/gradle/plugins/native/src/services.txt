@@ -89,3 +89,38 @@ subprojects\process-services\src\main\java\org\gradle\process\internal\health\me
 subprojects\internal-integ-testing\src\main\groovy\org\gradle\integtests\fixtures\jvm\InstalledJvmLocator.java
 
 NativeServices.instance.get(WindowsRegistry)
+--
+
+org.gradle.api.internal.tasks.testing.worker.ForkingTestClassProcessor
+
+import org.gradle.api.internal.classpath.ModuleRegistry;
+
+            moduleRegistry.getModule("gradle-native").getImplementationClasspath().getAsURLs(),
+
+
+package org.gradle.internal.service.scopes;
+
+public class BuildScopeServices extends DefaultServiceRegistry {
+    public static BuildScopeServices forSession(BuildSessionScopeServices sessionServices) {
+        return new BuildScopeServices(sessionServices);
+    }
+
+    protected BuildScopeServices(ServiceRegistry parent, StartParameter startParameter) {
+        this(new BuildSessionScopeServices(parent, startParameter, ClassPath.EMPTY));
+    }
+
+    private BuildScopeServices(final BuildSessionScopeServices sessionServices) {
+        super(sessionServices);
+        addProvider(new BuildScanConfigServices());
+        register(new Action<ServiceRegistration>() {
+            public void execute(ServiceRegistration registration) {
+                for (PluginServiceRegistry pluginServiceRegistry : sessionServices.getAll(PluginServiceRegistry.class)) {
+                    pluginServiceRegistry.registerBuildServices(registration); // !!! call of registerBuildServices
+                }
+            }
+        });
+    }
+    ...
+}
+
+
