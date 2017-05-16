@@ -19,3 +19,7 @@ Shad2012 - Vorontsov
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
 http://course.fast.ai/
+
+Oxford
+2017:
+https://github.com/oxford-cs-deepnlp-2017/lectures
