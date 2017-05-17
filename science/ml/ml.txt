@@ -9,6 +9,7 @@ Dean - Big Data Mining and Machine Learning
 Muller - Introduction to Machine Learning with Python
 Soares - Neural Network Programming with Java
 Harrington - Machine Learning in Action
+Sugomori - Java DL Essentials (very good begin on DL)
 
 yandex-trainings:
 https://www.youtube.com/playlist?list=PLTlO6nV_TaGAN8fJksD5QMbURRbTIQS4u

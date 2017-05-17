@@ -1,0 +1,14 @@
+https://buckbuild.com/
+https://github.com/facebook/buck
+
+https://buckbuild.com/setup/getting_started.html
+
+https://buckbuild.com/concept/what_makes_buck_so_fast.html
+https://buckbuild.com/about/performance_tuning.html
+
+articles:
+https://hackernoon.com/7-reasons-to-use-buck-build-5b44d7413585
+https://medium.com/@buckaroo.pm/yes-perhaps-a-better-title-would-be-tip-for-writing-c-c-libraries-discovered-after-porting-300-eceb5adcfd3f
+
+presentations:
+https://buckbuild.com/presentations/index.html
