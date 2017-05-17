@@ -1,6 +1,7 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 2017:
+https://zee-nix.blogspot.com.by/2017/05/rust-memory-management.html
 https://kasma1990.gitlab.io/2017/05/07/ownership-controls-mutability/
 https://medium.com/@theburningmonk/rust-memory-safety-without-garbage-collector-d6a25b23c036
 https://bryce.fisher-fleig.org/blog/strategies-for-returning-references-in-rust/

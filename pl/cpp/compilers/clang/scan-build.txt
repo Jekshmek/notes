@@ -1,0 +1,13 @@
+https://clang-analyzer.llvm.org/
+https://clang-analyzer.llvm.org/scan-build.html
+
+    scan-build [clang|gcc] -c a.c
+
+https://clang-analyzer.llvm.org/installation.html
+
+checkers:
+https://clang-analyzer.llvm.org/available_checks.html
+https://clang-analyzer.llvm.org/release_notes.html
+
+https://clang-analyzer.llvm.org/annotations.html
+https://clang-analyzer.llvm.org/faq.html
