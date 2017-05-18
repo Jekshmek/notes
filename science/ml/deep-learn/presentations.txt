@@ -1,0 +1,5 @@
+2017
+https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941
+Kavalerov - Foldable NeuralNets (good historical overview)
+https://www.slideshare.net/IvanKavalerov/ss-71241578
+https://www.youtube.com/watch?v=S4vL355capU

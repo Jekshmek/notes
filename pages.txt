@@ -1,10 +1,9 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch17-02-trait-objects.html
+https://rust-lang.github.io/book/second-edition/ch17-02-trait-objects.html#implementations-of-the-trait-from-us-or-library-users
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-filipa-k-dika/
-    From Gnosticism to Orthodoxy
-https://github.com/felixrieseberg/windows-development-environment#package-management-chocolatey
+    god veka seho i Christos
 
 Video:
 Bruner - Docker Mutli-host Networking               -   30:00 (of   50:37)
