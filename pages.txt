@@ -1,16 +1,14 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch17-02-trait-objects.html#implementations-of-the-trait-from-us-or-library-users
+https://rust-lang.github.io/book/second-edition/ch17-03-oo-design-patterns.html#defining-post-and-creating-a-new-instance-in-the-draft-state
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-filipa-k-dika/
     god veka seho i Christos
 
 Video:
-Bruner - Docker Mutli-host Networking               -   30:00 (of   50:37)
+Bruner - Docker Mutli-host Networking               -   43:00 (of   50:37)
 
 Literature:
-Bykov - Slavic Radio                                -   35:00 (of 1:14:53)
-  https://vk.com/video-2048479_456239279
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)

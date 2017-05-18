@@ -1,3 +1,6 @@
+books:
+https://rust-lang.github.io/book/second-edition/ch17-02-trait-objects.html
+
 articles:
 http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/
 https://www.reddit.com/r/rust/comments/5qd3me/lowering_rust_traits_to_logic/
@@ -19,3 +22,6 @@ https://www.reddit.com/r/rust/comments/620m1v/never_hearing_the_trait_x_cannot_b
 chalk:
 http://aturon.github.io/blog/2017/04/24/negative-chalk/
 https://www.reddit.com/r/rust/comments/67bwkv/negative_reasoning_in_chalk_aaron_turon/
+
+marker-traits:
+Sized, Send, Sync
