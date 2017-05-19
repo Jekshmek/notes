@@ -1,5 +1,6 @@
 https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf
 
+Nielsen - Neural Networks and Deep Learing (? intro ?)
 http://neuralnetworksanddeeplearning.com/
 
 Manning - Trask - Grokking Deep Learning

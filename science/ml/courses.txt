@@ -1,14 +1,26 @@
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+
+2017:
+Oxford
+https://github.com/oxford-cs-deepnlp-2017/lectures
+ComputerScienceCenter 2017 - ML
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
+
+2016:
+Howard - Practical DL for coders
+https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
+    http://course.fast.ai/
+    https://github.com/fastai/courses
+    http://wiki.fast.ai/index.php/Main_Page
+Brovko - NNs 2016
+https://www.youtube.com/playlist?list=PLwwk4BHih4fjZmSEwx_RcR1na6cQiV90z
+ComputerScienceCenter 2016 - ML
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
+
 Kovalevski - only last 3 videos
 https://www.youtube.com/playlist?list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
 CMTV
 https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
-ComputerScienceCenter 2016 - ML
-https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
-ComputerScienceCenter 2017 - ML
-https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
-Brovko - NNs 2016
-https://www.youtube.com/playlist?list=PLwwk4BHih4fjZmSEwx_RcR1na6cQiV90z
 MailRu2015 - DataMining
 https://www.youtube.com/playlist?list=PLrCZzMib1e9pXgyJ8Y9Io4AocGy66pj1X
 
@@ -22,8 +34,3 @@ https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Shad2012 - Vorontsov
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
-http://course.fast.ai/
-
-Oxford
-2017:
-https://github.com/oxford-cs-deepnlp-2017/lectures
