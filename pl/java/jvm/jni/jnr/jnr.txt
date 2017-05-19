@@ -26,3 +26,15 @@ https://github.com/jnr/jnr-ffi/issues/65
 
 pointers:
 http://stackoverflow.com/questions/26199515/callback-closure-with-jnr-taking-a-pointer-argument
+import jnr.ffi.Memory;
+import jnr.ffi.Pointer;
+import jnr.ffi.Runtime;
+
+annotations:
+import jnr.ffi.annotations...
+* Out
+* Transient
+
+
+samples:
+https://github.com/jnr/jnr-ffi-examples

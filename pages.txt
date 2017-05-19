@@ -6,9 +6,10 @@ https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-fili
     Christian optics
 
 Video:
-Bruner - Docker Mutli-host Networking               -   43:00 (of   50:37)
+Salnikau - Gradle Kotlin                            -   04:00 (of   45:25)
 
 Literature:
+Single20170519                                      -   42:00 (of 1:48:28)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -31,7 +32,8 @@ Ivliev - 20                                         -   00:00 (of   39:43)
 Sorokin - Context 6                                 -   00:00 (of 1:13:10)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Ionova - Lazur                                      -   22:00 (of 1:59:50)
+Ionova - Lazur                                      - 1:06:00 (of 1:59:50)
+	1:54 - song
 
 Tracking:
 Razbor Poletov                                      - 134

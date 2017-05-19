@@ -12,7 +12,6 @@ git tag -a <tag-name> <rev-hash>
 git tag -d <tag-name>
     delete a tag
 
-
 git show <tag-name>
     view a tag commit log
 
@@ -29,4 +28,4 @@ git push --tags <remote-branch>
 
 git push <remote-branch> :<tag-name>
     push nothing to tag-name at remote-branch
-
+    Note: use refs/tags/<tag-name> if tag has the same name as on of the branch
