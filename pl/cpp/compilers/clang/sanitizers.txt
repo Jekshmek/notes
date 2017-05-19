@@ -15,3 +15,6 @@ http://clang.llvm.org/docs/LeakSanitizer.html
 
 
 http://clang.llvm.org/docs/index.html
+
+llvm-symbolizer (part of the llvm, not a clang):
+http://llvm.org/docs/CommandGuide/llvm-symbolizer.html
