@@ -1,0 +1,7 @@
+2017:
+Gorner - Tensorflow and DL - without a PhD
+https://www.youtube.com/watch?v=qyvlt7kiQoI
+https://www.youtube.com/watch?v=u4alGiomYP4
+https://www.youtube.com/watch?v=fTUwdXUFfI8
+Real-time Twitter Sentiment Analytics with TensorFlow and Spring Cloud Dataflow
+https://www.youtube.com/watch?v=QzF2Iii4s5c

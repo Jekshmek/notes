@@ -1,0 +1,5 @@
+2017:
+Geron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
+2016:
+Abrahams - TensorFlow For Machine Intelligence
+Bonnin - Building Machine Learning Projects with TensorFlow
