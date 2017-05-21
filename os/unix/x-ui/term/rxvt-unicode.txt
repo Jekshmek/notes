@@ -1,6 +1,14 @@
 inst:
 yaourt -S rxvt-unicode-patched gtk2-perl urxvt-tabbedex urxvt-perls
 
+aur:
+https://aur.archlinux.org/packages/rxvt-unicode-patched/
+
+dist:
+rxvt-unicode-9.22.tar.bz2
+https://ftp.osuosl.org/pub/blfs/conglomeration/rxvt-unicode/rxvt-unicode-9.22.tar.bz2
+https://ftp.osuosl.org/pub/blfs/conglomeration/rxvt-unicode/$_pkgname-$pkgver.tar.bz2
+
 http://www.askapache.com/linux/rxvt-xresources.html
 http://zenux.ru/articles/48/
 
