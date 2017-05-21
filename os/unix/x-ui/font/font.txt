@@ -8,10 +8,6 @@ fc-cat, ...
 collections:
 https://github.com/ryanoasis/nerd-fonts
 
-ttf-hack
-https://github.com/chrissimpkins/Hack#desktop-installation
-http://sourcefoundry.org/hack/
-
 powerline:
 https://github.com/stefano-meschiari/dotemacs/blob/master/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
 

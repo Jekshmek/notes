@@ -1,0 +1,12 @@
+aur:
+ttf-hack:
+
+https://github.com/chrissimpkins/Hack#desktop-installation
+http://sourcefoundry.org/hack/
+
+hack-powerline:
+
+aur:
+ttf-hack-powerline-git
+
+https://github.com/chrissimpkins/Hack/issues/1

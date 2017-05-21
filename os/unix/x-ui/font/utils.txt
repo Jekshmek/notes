@@ -1,0 +1,15 @@
+xfd:
+
+aur:
+xorg-xfd
+
+xfd -fa <font>
+
+fc-query:
+
+fc-query <font>.ttf
+
+charmap:
+
+aur:
+gucharmap
