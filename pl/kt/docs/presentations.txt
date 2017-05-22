@@ -3,3 +3,5 @@ Hariri - Kotlin 102
 https://www.youtube.com/watch?v=a7QpoMj2uIA
 10 Kotlin Tricks in 10ish minutes
 https://www.youtube.com/watch?v=0sPzDwS55wM
+Breslav - Introduction to Kotlin at Google I/O
+https://www.youtube.com/watch?v=X1RVYt2QKQE
