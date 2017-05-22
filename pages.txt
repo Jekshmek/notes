@@ -3,7 +3,7 @@ https://rust-lang.github.io/book/second-edition/ch17-03-oo-design-patterns.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-filipa-k-dika/
-    Christian optics
+    Black Iron Prison
 
 Video:
 Salnikau - Gradle Kotlin                            -   04:00 (of   45:25)
