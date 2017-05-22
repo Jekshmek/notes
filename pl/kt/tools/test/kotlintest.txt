@@ -1,1 +1,6 @@
 https://github.com/kotlintest/kotlintest
+
+{ ... }.config(invocations = 20, threads = 4, tags = setOf(ElasticSearch, Windows))
+
+-DincludeTags=Windows,ElasticSearch
+-DexcludeTags=Windows
