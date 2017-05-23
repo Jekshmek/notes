@@ -11,10 +11,10 @@ Video:
 Salnikau - Gradle Kotlin                            -   25:00 (of   45:25)
 
 Literature:
+Bykov-Deniskiny                                     -   52:00 (of 1:16:06)
 Bykov - Sobchak                                     -   14:00 (of 1:26:30)
 Bykov-Vishnevsky                                    -   12:00 (of   40:46)
 Bykov-Olshansky                                     -   05:00 (of   41:21)
-Bykov-Deniskiny                                     -   01:00 (of 1:16:06)
 Malyshevsky-Piknik                                  -   49:00 (of 1:52:31)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
