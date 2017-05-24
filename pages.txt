@@ -8,12 +8,10 @@ https://blog.predanie.ru/article/psihoterapiya-rukobludie-i-molitva-zapiski-psih
 http://www.pravmir.ru/ottsa-aleksandra-ubili-i-zhizn-ostanovilas-1/
 
 Video:
-Salnikau - Gradle Kotlin                            -   25:00 (of   45:25)
+Dyagilev - Introduction to Spark                    -   13:00 (of 1:37:54)
 
 Literature:
-Bykov-Deniskiny                                     -   58:00 (of 1:16:06)
-Bykov - Sobchak                                     -   14:00 (of 1:26:30)
-Bykov-Vishnevsky                                    -   12:00 (of   40:46)
+Bykov - Sobchak                                     -   22:00 (of 1:26:30)
 Bykov-Olshansky                                     -   05:00 (of   41:21)
 Malyshevsky-Piknik                                  -   49:00 (of 1:52:31)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
@@ -35,7 +33,7 @@ Audio:
 Desnitsky                                           -   50:00 (of 1:39:49)
 Paschenko 21.2                                      -   00:00 (of 1:48:54)
 Ivliev - 20                                         -   00:00 (of   39:43)
-Sorokin - Context 6                                 -   00:00 (of 1:13:10)
+Sorokin - Context 7                                 -   00:00 (of 1:33:10)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Ionova - Lazur                                      - 1:06:00 (of 1:59:50)
