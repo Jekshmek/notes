@@ -1,11 +1,11 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch18-02-refutability.html
+https://rust-lang.github.io/book/second-edition/ch18-03-pattern-syntax.html#ignoring-remaining-parts-of-a-value-with-
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
-https://blog.predanie.ru/article/fantasticheskoe-bogoslovie-tresh-teologiya-filipa-k-dika/
-    Android electroships
 https://blog.predanie.ru/article/kak-uderzhat-pashalnuyu-radost-7-sovetov-sebe/
+  Realise
 https://blog.predanie.ru/article/psihoterapiya-rukobludie-i-molitva-zapiski-psihoterapevta/
+http://www.pravmir.ru/ottsa-aleksandra-ubili-i-zhizn-ostanovilas-1/
 
 Video:
 Salnikau - Gradle Kotlin                            -   25:00 (of   45:25)
@@ -49,7 +49,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 97..101..223
+Narkhede - Kafka The Definitive Guide               - 103..121..141..163..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
