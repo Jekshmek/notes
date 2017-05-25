@@ -1,1 +1,9 @@
 https://jsosic.wordpress.com/2017/01/23/deleting-images-from-docker-registry/
+
+API:
+https://docs.docker.com/registry/spec/api/
+
+curl -k -XGET .../v2/_catalog | jq .
+
+curl -k -XGET ... /v2/<grp>/<name>/tags/list | jq .
+curl -k -XGET ... /v2/<grp>/<name>/manifests/<tag> | jq .
