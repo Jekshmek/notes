@@ -1,0 +1,3 @@
+Downey - Think Bayes
+Barber - Bayesian Reasoning and Machine Learning
+    math and big

@@ -1,0 +1,2 @@
+http://dconf.org/2017/talks/alexandrescu.pdf
+https://www.youtube.com/watch?v=29h6jGtZD-U

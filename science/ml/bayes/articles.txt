@@ -2,14 +2,5 @@ bayesian:
 https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
-presentations:
-2015
-Vetrov - Big Data Math
-https://www.youtube.com/watch?v=lkh7bLUc30g
-
 workshop 2016:
 https://www.youtube.com/channel/UC_LBLWLfKk5rMKDOHoO7vPQ
-
-books:
-Barber - Bayesian Reasoning and Machine Learning
-    math and big

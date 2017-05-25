@@ -1,0 +1,12 @@
+https://frama-c.com/acsl.html
+
+https://github.com/acsl-language/acsl
+
+tutorial:
+https://frama-c.com/download/acsl-tutorial.pdf
+https://frama-c.com/acsl_tutorial_index.html
+
+spec:
+https://frama-c.com/download/acsl.pdf
+https://frama-c.com/download/acsl_1.12.pdf
+https://frama-c.com/download/frama-c-acsl-implementation.pdf

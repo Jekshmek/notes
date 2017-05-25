@@ -1,0 +1,7 @@
+frama-c
+    -value-h
+        help
+    -slevel 10
+        the precision of the value analysis
+    -val main.c
+        value analysis plugin
