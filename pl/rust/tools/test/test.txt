@@ -10,3 +10,6 @@ mod tests {
 
 reddit:
 https://www.reddit.com/r/rust/comments/5jbezo/testing_frameworks/
+
+vars:
+RUST_TEST_THREADS=1
