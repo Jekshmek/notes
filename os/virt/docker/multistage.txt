@@ -1,0 +1,1 @@
+https://blog.xebialabs.com/2017/05/25/multi-stage-docker-image-build-for-java-applications/
