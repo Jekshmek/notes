@@ -1,0 +1,7 @@
+https://istio.io
+
+presentations:
+https://www.infoq.com/news/2017/05/istio
+
+talks:
+https://istio.io/talks/istio_talk_gluecon_2017.pdf

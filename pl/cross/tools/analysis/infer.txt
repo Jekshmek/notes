@@ -1,0 +1,16 @@
+http://fbinfer.com/
+https://github.com/facebook/infer
+
+http://fbinfer.com/docs/getting-started.html
+
+https://github.com/facebook/infer/releases
+https://github.com/facebook/infer/blob/master/INSTALL.md
+
+http://fbinfer.com/docs/linters.html
+http://fbinfer.com/docs/linters-bug-types.html
+http://fbinfer.com/docs/limitations.html
+
+articles:
+https://www.infoq.com/news/2015/06/facebook-infer
+https://code.facebook.com/posts/277643589367408/al-a-new-declarative-language-for-detecting-bugs-with-infer
+https://www.infoq.com/news/2017/05/facebook-al-infer-static-checker
