@@ -1,4 +1,8 @@
 2017:
+Reis - Functional Streams with Kafka
+https://www.slideshare.net/LuisMiguelReis2/functional-streams-with-kafka-a-comparison-between-akkastreams-and-fs2
+https://www.youtube.com/watch?v=fwQMdxYPRIo
+
 https://www.infoq.com/presentations/kafka-spring
 https://www.youtube.com/watch?v=l8V6PkVV1Ec
 
