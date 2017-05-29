@@ -6,10 +6,10 @@ https://blog.predanie.ru/article/psihoterapiya-rukobludie-i-molitva-zapiski-psih
 https://blog.predanie.ru/article/navufej-i-renovatsiya/
 
 Video:
-Dyagilev - Introduction to Spark                    -   39:00 (of 1:37:54)
+Dyagilev - Introduction to Spark                    -   50:00 (of 1:37:54)
 
 Literature:
-Single20170526                                      -   20:00 (of 1:51:12)
+Bykov - Vorobei                                     -   18:00 (of 1:18:12)
 Bykov - Sobchak                                     -   22:00 (of 1:26:30)
 Bykov-Olshansky                                     -   05:00 (of   41:21)
 Malyshevsky-Piknik                                  -   49:00 (of 1:52:31)
@@ -29,8 +29,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Desnitsky                                           - 1:35:00 (of 1:51:46)
-Paschenko 21.2                                      -   00:00 (of 1:48:54)
+Paschenko 23.1                                      -   00:00 (of 1:38:37)
 Ivliev - 20                                         -   00:00 (of   39:43)
 Sorokin - Context 7                                 -   00:00 (of 1:33:10)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)

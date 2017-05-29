@@ -28,6 +28,11 @@ https://habrahabr.ru/company/parallels/blog/317994/
 https://habrahabr.ru/company/microsoft/blog/317512/
 
 algo lists:
+http://distill.pub/
+https://github.com/distillpub
+http://distill.pub/guide
+https://github.com/distillpub/template
+
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://chatbotsmagazine.com/machine-learning-neural-networks-and-algorithms-5c0711eb8f9a
 https://www.linkit.nl/knowledge-base/234/Machine_learning_neural_networks_and_algorithms
