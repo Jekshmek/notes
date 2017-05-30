@@ -1,1 +1,5 @@
 https://blog.gradle.org/kotlin-scripting-update
+
+https://gradle.github.io/gradle-script-kotlin-docs/api/
+
+https://github.com/gradle/gradle-script-kotlin/releases/tag/v0.9.0
