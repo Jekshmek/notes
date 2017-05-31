@@ -171,9 +171,6 @@ May 31 09:45:26 ihdesk pppd[4478]: primary   DNS address 10.6.0.6
 May 31 09:45:26 ihdesk pppd[4478]: secondary DNS address 10.6.0.16
 May 31 09:45:26 ihdesk root[4559]: ip-up 00-dns
 May 31 09:45:26 ihdesk root[4561]: ip-up 01-route ppp0  38400 10.6.60.149 10.6.60.0 217.21.63.8 IFNAME: ppp0 ipparam: 217.21.63.8
-May 31 09:45:28 ihdesk sudo[4054]: pam_unix(sudo:session): session closed for user root
-May 31 09:45:31 ihdesk sudo[4599]:    iharh : TTY=pts/0 ; PWD=/home/iharh ; USER=root ; COMMAND=/usr/bin/journalctl -b
-May 31 09:45:31 ihdesk sudo[4599]: pam_unix(sudo:session): session opened for user root by (uid=0)
 
 $ ip r
 default dev ppp0 proto static scope link metric 50 
@@ -198,3 +195,48 @@ $ ip a
     link/ppp 
     inet 10.6.60.149 peer 10.6.60.0/32 scope global ppp0
        valid_lft forever preferred_lft forever
+
+
+good:
+$ ip r
+default dev ppp0 proto static scope link metric 50 
+default via 192.168.0.1 dev enp2s0 proto static metric 100 
+10.6.60.0 dev ppp0 proto kernel scope link src 10.6.60.98 
+192.168.0.0/24 dev enp2s0 proto kernel scope link src 192.168.0.103 
+217.21.63.8 via 192.168.0.1 dev enp2s0 src 192.168.0.103  # !!!
+
+May 31 09:53:11 ihdesk sudo[1063]:    iharh : TTY=pts/0 ; PWD=/home/iharh ; USER=root ; COMMAND=/usr/bin/pon epam
+May 31 09:53:12 ihdesk kernel: PPP generic driver version 2.4.2
+May 31 09:53:11 ihdesk sudo[1063]: pam_unix(sudo:session): session opened for user root by (uid=0)
+May 31 09:53:11 ihdesk pppd[1070]: pppd 2.4.7 started by root, uid 0
+May 31 09:53:11 ihdesk sudo[1063]: pam_unix(sudo:session): session closed for user root
+May 31 09:53:11 ihdesk pppd[1070]: Using interface ppp0
+May 31 09:53:11 ihdesk pppd[1070]: Connect: ppp0 <--> /dev/pts/1
+May 31 09:53:11 ihdesk pptp[1071]: anon log[main:pptp.c:333]: The synchronous pptp option is NOT activated
+May 31 09:53:11 ihdesk pptp[1111]: anon log[ctrlp_rep:pptp_ctrl.c:258]: Sent control packet type is 1 'Start-Control-Connection-Request'
+May 31 09:53:11 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:758]: Received Start Control Connection Reply
+May 31 09:53:11 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:792]: Client connection established.
+May 31 09:53:12 ihdesk pptp[1111]: anon log[ctrlp_rep:pptp_ctrl.c:258]: Sent control packet type is 7 'Outgoing-Call-Request'
+May 31 09:53:12 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:877]: Received Outgoing Call Reply.
+May 31 09:53:12 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:916]: Outgoing call established (call ID 0, peer's call ID 42701).
+May 31 09:53:13 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:980]: PPTP_SET_LINK_INFO received from peer_callid 53114
+May 31 09:53:13 ihdesk pptp[1111]: anon log[ctrlp_disp:pptp_ctrl.c:983]:   send_accm is 00000000, recv_accm is FFFFFFFF
+May 31 09:53:13 ihdesk pptp[1111]: anon warn[ctrlp_disp:pptp_ctrl.c:986]: Non-zero Async Control Character Maps are not supported!
+May 31 09:53:13 ihdesk pppd[1070]: CHAP authentication succeeded
+May 31 09:53:13 ihdesk kernel: PPP BSD Compression module registered
+May 31 09:53:13 ihdesk kernel: PPP Deflate Compression module registered
+May 31 09:53:13 ihdesk pppd[1070]: not replacing existing default route via 192.168.0.1
+May 31 09:53:13 ihdesk pppd[1070]: Cannot determine ethernet address for proxy ARP
+May 31 09:53:13 ihdesk systemd-networkd[795]: ppp0: Gained carrier
+May 31 09:53:13 ihdesk pppd[1070]: local  IP address 10.6.60.98
+May 31 09:53:13 ihdesk pppd[1070]: remote IP address 10.6.60.0
+May 31 09:53:13 ihdesk pppd[1070]: primary   DNS address 10.6.0.6
+May 31 09:53:13 ihdesk pppd[1070]: secondary DNS address 10.6.0.16
+May 31 09:53:13 ihdesk root[1256]: ip-up 00-dns
+May 31 09:53:13 ihdesk root[1258]: ip-up 01-route ppp0  38400 10.6.60.98 10.6.60.0 217.21.63.8 IFNAME: ppp0 ipparam: 217.21.63.8
+
+
+May 31 09:53:13 ihdesk kernel: PPP BSD Compression module registered
+May 31 09:53:13 ihdesk kernel: PPP Deflate Compression module registered
+
+http://cateee.net/lkddb/web-lkddb/PPP_BSDCOMP.html
