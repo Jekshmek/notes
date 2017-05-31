@@ -1,1 +1,6 @@
 http://blog.burntsushi.net/rust-error-handling/
+
+?-operator
+https://www.reddit.com/r/rust/comments/6e9bvb/extend_to_operate_over_other_types_rfc_has_been/
+Try-trait
+https://github.com/rust-lang/rfcs/pull/1859

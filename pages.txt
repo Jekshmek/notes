@@ -2,13 +2,12 @@ URLs:
 https://rust-lang.github.io/book/second-edition/ch19-01-unsafe-rust.html#implementing-an-unsafe-trait
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
-https://www.youtube.com/watch?v=IpuNWricqts
 
 Video:
 Dyagilev - Introduction to Spark                    - 1:01:00 (of 1:37:54)
 
 Literature:
-Bykov-GippiusMerezhkovsky                           - 1:10:00 (of 1:19:58)
+Bykov-Efimov                                        -   05:00 (of   44:39)
 Malyshevsky-Piknik                                  -   49:00 (of 1:52:31)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -26,7 +25,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 23.1                                      -   00:00 (of 1:38:37)
 Ivliev - 22                                         -   00:00 (of   41:00)
-Sorokin - Context 7                                 -   00:00 (of 1:33:10)
+Sorokin - Context 8                                 -   00:00 (of 1:16:34)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Ionova - Lazur                                      -   42:00 (of 2:)
