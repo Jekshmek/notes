@@ -1,0 +1,16 @@
+https://crates.io/crates/nom
+http://rust.unhandledexpression.com/nom/
+
+https://github.com/Geal/nom
+
+http://rust.unhandledexpression.com/nom/home.html
+http://rust.unhandledexpression.com/nom/making_a_new_parser_from_scratch.html
+http://rust.unhandledexpression.com/nom/error_management.html
+http://rust.unhandledexpression.com/nom/how_nom_macros_work.html
+
+https://fnordig.de/2015/07/16/omnomnom-parsing-iso8601-dates-using-nom/
+
+2017:
+https://air.mozilla.org/hands-on-parsing-in-rust-toronto-rust-meetup/
+https://mystor.github.io/rust_meetup_20170530/#/
+https://github.com/jdm/nom-workshop-exercises
