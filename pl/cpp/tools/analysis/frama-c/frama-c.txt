@@ -6,5 +6,9 @@ https://github.com/Frama-C/Frama-C-snapshot
 
 http://blog.frama-c.com/
 
-http://frama-c.com/try_out.html
-http://frama-c.com/try_out_overview.html
+wiki:
+https://en.wikipedia.org/wiki/Frama-C
+https://bts.frama-c.com/dokuwiki/doku.php?id=mantis:frama-c:start
+
+so:
+https://stackoverflow.com/tags/frama-c/
