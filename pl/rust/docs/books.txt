@@ -33,3 +33,5 @@ https://github.com/rust-unofficial/too-many-lists
 Cookbook:
 https://brson.github.io/rust-cookbook/
 https://github.com/brson/rust-cookbook
+still need a lot of help:
+https://internals.rust-lang.org/t/rust-libz-blitz/5184/47

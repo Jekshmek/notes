@@ -28,10 +28,6 @@ quasi-quoting:
 https://github.com/dtolnay/quote
 
 
-declarative
-- macro_rules!
-- macro (macro by example for 2.0 or just a declarative macro)
-
 procedural:
 https://habrahabr.ru/post/321564/
 https://habrahabr.ru/post/321620/
@@ -47,6 +43,9 @@ https://www.reddit.com/r/rust/comments/5v7s7h/macros_12_rfc_fasttrack_to_stabili
 https://github.com/rust-lang/rfcs/pull/1913
 https://github.com/SimonSapin/rfcs/blob/ea572265da96e19c57668c436973deded18f8dfd/text/0000-macros-1.2.md
 
-2.0
+2.0 (declarative)
 https://github.com/rust-lang/rfcs/pull/1584
-
+https://github.com/rust-lang/rfcs/blob/master/text/1584-macros.md
+https://github.com/rust-lang/rust/pull/40847
+- macro_rules!
+- macro (macro by example for 2.0 or just a declarative macro)
