@@ -1,0 +1,1 @@
+runas /netonly /user:<usr> "svn co --username=<usr> --password=<pwd> ... --depth immediates"
