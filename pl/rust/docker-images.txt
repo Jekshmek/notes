@@ -1,0 +1,7 @@
+https://www.reddit.com/r/rust/comments/6ehs5y/continuously_updated_rust_docker_image_for_stable/
+
+https://hub.docker.com/r/corey/rust-alpine/
+https://github.com/frewsxcv/docker-rust-alpine
+
+https://github.com/TomasTomecek/rust-container
+https://hub.docker.com/r/tomastomecek/rust/tags/

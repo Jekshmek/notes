@@ -1,9 +1,17 @@
-http://types.cs.washington.edu/checker-framework/
-http://www.slideshare.net/iwanowww/formal-verification-in-java-by-shura-iline-vladimir-ivanov-jeeconf-2013-kiev-ukraine
+https://checkerframework.org/
+https://github.com/typetools/checker-framework
 
-http://types.cs.washington.edu/checker-framework/current/checker-framework-manual.html
+tutorial:
+https://checkerframework.org/tutorial/
+
+manual:
+https://checkerframework.org/manual/
+https://checkerframework.org/manual/checker-framework-manual.pdf
 
 presentations:
 2017
 https://www.youtube.com/watch?v=-1jjJf5C-Fc
 https://www.youtube.com/watch?v=uS-QAv400ps
+
+2013:
+http://www.slideshare.net/iwanowww/formal-verification-in-java-by-shura-iline-vladimir-ivanov-jeeconf-2013-kiev-ukraine

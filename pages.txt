@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch19-02-advanced-lifetimes.html#lifetime-subtyping
+https://rust-lang.github.io/book/second-edition/ch19-02-advanced-lifetimes.html#lifetime-bounds
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 

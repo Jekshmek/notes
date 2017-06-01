@@ -1,3 +1,6 @@
+books:
+https://rust-lang.github.io/book/second-edition/ch19-02-advanced-lifetimes.html
+
 articles:
 https://dev.to/buntine/aha-understanding-lifetimes-in-rust
 https://chrismorgan.info/blog/rust-ownership-the-hard-way.html
