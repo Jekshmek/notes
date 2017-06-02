@@ -1,0 +1,7 @@
+https://crates.io/crates/quickcheck
+https://crates.io/crates/quickcheck_macros
+https://crates.io/crates/quickcheck_seedable
+
+http://burntsushi.net/rustdoc/quickcheck/
+
+https://github.com/BurntSushi/quickcheck
