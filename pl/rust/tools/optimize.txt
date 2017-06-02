@@ -1,4 +1,5 @@
 articles:
+https://llogiq.github.io/2017/06/01/perf-pitfalls.html
 https://www.reddit.com/r/rust/comments/5pxgka/howto_optimize_rust_programs_on_linux/
 https://jbendig.github.io/fix-rs/2017/01/24/how-to-optimize-rust-programs-on-linux/
 https://llogiq.github.io/2015/07/15/profiling.html
