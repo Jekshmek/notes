@@ -1,0 +1,10 @@
+http://way-cooler.org/
+
+https://github.com/way-cooler/way-cooler
+
+http://way-cooler.org/docs/
+http://way-cooler.org/blog/
+http://way-cooler.org/download/
+
+aur:
+https://aur.archlinux.org/packages/way-cooler/
