@@ -1,1 +1,4 @@
 https://speakerdeck.com/hywan/hello-rust-an-overview
+
+2017:
+http://slides.com/liujunfeng/deck/fullscreen#/6
