@@ -1,2 +1,5 @@
 https://www.reddit.com/r/scala/comments/3nd4cr/dotty_exploring_the_future_of_scala/
 http://scalaworld2015.d-d.me/#/
+
+articles:
+https://habrahabr.ru/post/330112/
