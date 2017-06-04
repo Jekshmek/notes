@@ -5,3 +5,8 @@ http mocking
 https://crates.io/crates/mockito
 http://lipanski.github.io/mockito/docs/mockito/index.html
 https://github.com/lipanski/mockito
+
+double:
+https://crates.io/crates/double
+https://docs.rs/double
+https://github.com/DonaldWhyte/double
