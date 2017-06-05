@@ -21,6 +21,8 @@ C-A-Left
     Navigate back
 C-S-Bakcspace
     Navigate to the last editing place
+A-Up/Down
+    Navigate to prev/next method
 C-A-Up/Down
     Navigate to prev/next compiler error
 S-F2
@@ -41,6 +43,8 @@ F3, S-F3
 
 Debugging
 
+F8
+    Step Over
 C-F8
     Toggle Breakpoint
 C-S-F8
