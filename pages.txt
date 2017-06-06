@@ -1,5 +1,5 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch19-03-advanced-traits.html#fully-qualified-syntax-for-disambiguation
+https://rust-lang.github.io/book/second-edition/ch19-03-advanced-traits.html#supertraits-to-use-one-traits-functionality-within-another-trait
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
