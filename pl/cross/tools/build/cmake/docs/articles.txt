@@ -1,3 +1,8 @@
+2017
+Idiomatic CMake
+https://www.reddit.com/r/cpp/comments/6fm38k/idiomatic_cmake/
+https://asmbits.blogspot.com.by/2017/06/idiomatic-cmake.html
+
 http://preshing.com/20170511/how-to-build-a-cmake-based-project/
 https://github.com/preshing/CMakeDemo
 http://aosabook.org/en/cmake.html

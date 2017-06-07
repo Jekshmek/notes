@@ -1,3 +1,7 @@
+2017:
+https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
+https://www.youtube.com/watch?v=bsXLMQ6WgIk
+
 http://thetoeb.de/2016/08/30/modern-cmake-presentation/
 https://github.com/toeb/moderncmake
 https://github.com/toeb/moderncmake/blob/master/Modern%20CMake.pdf
