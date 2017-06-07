@@ -3,11 +3,10 @@ https://github.com/requery/requery/blob/master/requery-kotlin/src/main/kotlin/io
 https://github.com/requery/requery
 https://libraries.io/github/requery/requery
 
-https://github.com/requery/requery/wiki/Kotlin
-https://github.com/requery/requery/wiki/Gradle-&-Annotation-processing
-
 wiki:
 https://github.com/requery/requery/wiki/Using-the-EntityStore-interface
+https://github.com/requery/requery/wiki/Kotlin
+https://github.com/requery/requery/wiki/Gradle-&-Annotation-processing
 
 api:
 http://requery.github.io/javadoc/io/requery/reactivex/ReactiveEntityStore.html
