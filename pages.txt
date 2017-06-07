@@ -37,7 +37,7 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Tracking:
 Razbor Poletov                                      - 134
 Bananas and Lens                                    - 38
-This week in rust                                   - 184
+This week in rust                                   - 185
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
