@@ -1,3 +1,4 @@
+https://blog.rust-lang.org/2017/06/08/Rust-1.18.html
 https://www.reddit.com/r/rust/comments/5roiq7/announcing_rust_115/
 https://blog.rust-lang.org/2017/02/02/Rust-1.15.html
 https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1150-2017-02-02
