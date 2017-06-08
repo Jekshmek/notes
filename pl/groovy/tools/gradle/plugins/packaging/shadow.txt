@@ -1,0 +1,2 @@
+Shadow (fat jar):
+https://github.com/johnrengelman/shadow/
