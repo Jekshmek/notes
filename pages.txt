@@ -8,7 +8,7 @@ Novik - Spark 2015 - 1                              -   01:00 (of 1:16:44)
 Kuncak - Tools for Verified Scala                   -   01:00 (of   51:44)
 
 Literature:
-Malishevsky-Lebedi                                  - 1:11:00 (of 2:34:25)
+Malishevsky-Lebedi                                  - 1:15:00 (of 2:34:25)
 Bykov - Medinsky                                    -   14:00 (of   43:54)
 Bykov - Kortnev                                     -   11:00 (of   44:49)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
