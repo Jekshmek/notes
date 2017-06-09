@@ -7,3 +7,10 @@ curl -k -XGET .../v2/_catalog | jq .
 
 curl -k -XGET ... /v2/<grp>/<name>/tags/list | jq .
 curl -k -XGET ... /v2/<grp>/<name>/manifests/<tag> | jq .
+
+curl -sSfk "https://docker-registry.clarabridge.net:5000/v2/<grp>/<name>/tags/list" | jq '.tags | length'
+
+curl -sSfk "https://docker-registry.clarabridge.net:5000/v2/_catalog" | jq '.repositories[]' | tr -d '"' | while read -r tag; do
+	COUNT=$(curl -sSfk "https://docker-registry.clarabridge.net:5000/v2/$tag/tags/list" | jq '.tags | length')
+	echo "$tag $COUNT"
+done
