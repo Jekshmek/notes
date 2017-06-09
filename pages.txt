@@ -5,12 +5,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 
 Video:
 Novik - Spark 2015 - 1                              -   01:00 (of 1:16:44)
-Kuncak - Tools for Verified Scala                   -   01:00 (of   51:44)
+Kuncak - Tools for Verified Scala                   -   21:00 (of   51:44)
 
 Literature:
-Malishevsky-Lebedi                                  - 1:15:00 (of 2:34:25)
+Single2017.06.09                                    -   18:00 (of 1:46:19)
+Malishevsky-Lebedi                                  - 1:34:00 (of 2:34:25)
 Bykov - Medinsky                                    -   14:00 (of   43:54)
-Bykov - Kortnev                                     -   11:00 (of   44:49)
+Bykov - Kortnev                                     -   13:00 (of   44:49)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -31,7 +32,7 @@ Ivliev - 23                                         -   00:00 (of   39:33)
 Sorokin - Context 8                                 -   00:00 (of 1:20:20)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Perevezentsev                                       -   17:00 (of 2:02:17)
+Perevezentsev                                       - 1:01:00 (of 2:02:17)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 
 Tracking:
