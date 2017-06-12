@@ -28,7 +28,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 24.1                                      -   00:00 (of   37:12)
+Paschenko 24.2                                      -   01:00 (of   47:26)
 Ivliev - 23                                         -   00:00 (of   39:33)
 Sorokin - Context 8                                 -   00:00 (of 1:20:20)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
