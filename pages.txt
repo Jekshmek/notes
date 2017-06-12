@@ -1,17 +1,15 @@
 URLs:
-https://rust-lang.github.io/book/second-edition/ch19-04-advanced-types.html#type-aliases-create-type-synonyms
+https://doc.rust-lang.org/stable/book/second-edition/ch19-05-advanced-functions-and-closures.html#function-pointers
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
 Novik - Spark 2015 - 1                              -   01:00 (of 1:16:44)
-Kuncak - Tools for Verified Scala                   -   21:00 (of   51:44)
+Kuncak - Tools for Verified Scala                   -   30:00 (of   51:44)
 
 Literature:
-Single2017.06.09                                    -   30:00 (of 1:46:19)
-Bykov-MasterMargarita                               -   01:00 (of 1:05:13)
-Malishevsky-Lebedi                                  - 1:34:00 (of 2:34:25)
-Bykov - Medinsky                                    -   37:00 (of   43:54)
+Malishevsky-Lebedi                                  - 2:01:00 (of 2:34:25)
+Malishevsky-Ulis1                                   -   01:00 (of 1:34:35)
 Bykov - Kortnev                                     -   13:00 (of   44:49)
 Kaminskaya 3                                        -   00:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -28,7 +26,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 24.2                                      -   01:00 (of   47:26)
+Paschenko 27.1                                      -   00:00 (of   08:45)
 Ivliev - 23                                         -   00:00 (of   39:33)
 Sorokin - Context 8                                 -   00:00 (of 1:20:20)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
@@ -44,7 +42,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 124..141..163..191..223
+Narkhede - Kafka The Definitive Guide               - 129..141..163..191..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
