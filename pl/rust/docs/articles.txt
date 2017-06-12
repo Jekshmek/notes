@@ -1,5 +1,6 @@
 2017:
 https://beachape.com/blog/2017/05/24/rust-from-scala/
+http://eao197.blogspot.com.by/2017/06/progc-rust-rust.html
 
 2016:
 http://www.jonathanturner.org/2016/01/rust-and-blub-paradox.html
