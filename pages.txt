@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/stable/book/second-edition/ch19-05-advanced-functions-and-closures.html#returning-closures
+https://doc.rust-lang.org/nomicon/safe-unsafe-meaning.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
