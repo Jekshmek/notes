@@ -1,4 +1,19 @@
+http://site.mockito.org/
+https://github.com/mockito/mockito
+
+tutorials:
+http://www.vogella.com/tutorials/Mockito/article.html
+
 presentations
 2017
 Faber - Great tools for engineers: even cleaner tests with Mockito 2
 https://www.youtube.com/watch?v=Rl7g0duuDkU
+
+wiki:
+https://github.com/mockito/mockito/wiki
+
+RefCards:
+https://dzone.com/refcardz/mockito
+
+Samples:
+http://static.javadoc.io/org.mockito/mockito-core/2.8.9/org/mockito/Mockito.html
