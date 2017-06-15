@@ -2,3 +2,11 @@ https://speakerdeck.com/hywan/hello-rust-an-overview
 
 2017:
 http://slides.com/liujunfeng/deck/fullscreen#/6
+
+2016:
+http://pnkfelix.github.io/presentations/rust-marcomms-agency-day-2016/slides.html
+http://pnkfelix.github.io/presentations/rustfest-berlin-2016/slides.html
+
+2015:
+http://pnkfelix.github.io/curry-on2015.html#/
+https://www.youtube.com/watch?v=Q7lQCgnNWU0

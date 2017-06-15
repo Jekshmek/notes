@@ -1,11 +1,15 @@
 articles:
 
+2017:
+https://gankro.github.io/blah/only-in-rust/
+    https://www.reddit.com/r/rust/comments/6h81cx/bugs_youll_probably_only_have_in_rust/
+http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/
+http://smallcultfollowing.com/babysteps/blog/2017/02/01/unsafe-code-and-shared-references/
+
 http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
 http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2016/09/12/thoughts-on-trusting-types-and-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2016/10/02/observational-equivalence-and-unsafe-code/
-http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/
-http://smallcultfollowing.com/babysteps/blog/2017/02/01/unsafe-code-and-shared-references/
 
 http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/
 

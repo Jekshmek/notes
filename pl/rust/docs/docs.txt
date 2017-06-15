@@ -5,19 +5,8 @@ https://doc.rust-lang.org/nightly/
 Guides:
 http://faq.sealedabstract.com/rust/
 
-Tutorials:
-https://github.com/nrc/r4cppp
-http://featherweightmusings.blogspot.com.by/search/label/rust-for-c
-
 Reference:
 https://doc.rust-lang.org/reference.html
-
-Presentations:
-http://pnkfelix.github.io/curry-on2015.html#/
-https://www.youtube.com/watch?v=Q7lQCgnNWU0
-
-http://pnkfelix.github.io/presentations/rust-marcomms-agency-day-2016/slides.html
-http://pnkfelix.github.io/presentations/rustfest-berlin-2016/slides.html
 
 Blogs:
 http://blog.pnkfx.org/

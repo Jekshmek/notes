@@ -14,3 +14,8 @@ https://github.com/RalfJung/rust-101/tree/master/src
 
 A Gentle Rust Tutorial:
 https://github.com/stevedonovan/gentle-intro
+
+Rust for C++:
+https://github.com/nrc/r4cppp
+http://featherweightmusings.blogspot.com.by/search/label/rust-for-c
+
