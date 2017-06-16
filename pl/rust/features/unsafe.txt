@@ -15,3 +15,8 @@ http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-fo
 
 http://blog.regehr.org/archives/1467
 https://www.reddit.com/r/rust/comments/5u3vrq/undefined_behavior_unsafe_programming/
+
+book:
+https://doc.rust-lang.org/nomicon/working-with-unsafe.html
+    unsafe does more than pollute a whole function: it pollutes a whole module.
+    Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.

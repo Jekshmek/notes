@@ -2,14 +2,6 @@ https://www.confluent.io/
 http://docs.confluent.io/current/
 https://github.com/confluentinc
 
-Kafka Streams:
-https://www.confluent.io/product/kafka-streams/
-https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
-https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/
-Kafka Streams vs Flink:
-https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/
-https://www.confluent.io/blog/real-time-stream-processing-the-next-step-for-apache-flink/
-
 http://www.slideshare.net/SparkSummit/building-realtime-data-pipelines-with-kafka-connect-and-spark-streaming-by-ewen-cheslackpostava
 https://www.youtube.com/watch?v=wMLAlJimPzk
 https://github.com/confluentinc/strata-tutorials
