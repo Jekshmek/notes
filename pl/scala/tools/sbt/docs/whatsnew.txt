@@ -1,0 +1,1 @@
+http://developer.lightbend.com/blog/2017-06-15-sbt-1-0-beta2/
