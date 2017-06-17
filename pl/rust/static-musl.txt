@@ -7,3 +7,6 @@ clux/muslrust:stable
 
 Nickol - Taking Rust to Production: Lessons Learned from the Habitat Project
 https://www.youtube.com/watch?v=zAXbPnfTJg4
+
+https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html
+https://stackoverflow.com/questions/32762102/why-do-rust-programs-use-so-much-more-memory-than-the-c-haskell-and-ocaml-versi
