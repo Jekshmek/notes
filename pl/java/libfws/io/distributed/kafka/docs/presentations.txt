@@ -1,4 +1,6 @@
 2017:
+Stopford - Power of the Log: LSM and Append Only Data Structures
+https://www.infoq.com/presentations/lsm-append-data-structures
 Reis - Functional Streams with Kafka
 https://www.slideshare.net/LuisMiguelReis2/functional-streams-with-kafka-a-comparison-between-akkastreams-and-fs2
 https://www.youtube.com/watch?v=fwQMdxYPRIo
