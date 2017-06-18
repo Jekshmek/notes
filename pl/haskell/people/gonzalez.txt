@@ -198,6 +198,9 @@ generics:
 http://hackage.haskell.org/package/server-generic
 http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html
 
+Dhall - template:
+http://www.haskellforall.com/2017/06/dhall-is-now-template-engine.html
+
 Dhall - cfg:
 http://www.haskellforall.com/2017/02/the-curry-howard-correspondence-between.html
 http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.html
