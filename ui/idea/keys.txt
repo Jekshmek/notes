@@ -32,6 +32,8 @@ C-S-A
     Find any arbitrary function by name
 C-B
     Go to Declaration
+C-A-S-N
+    Navigate|Symbol
 A-F7
     Edit|Find|Find Usages
 C-F12
