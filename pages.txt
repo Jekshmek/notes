@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/nomicon/other-reprs.html
+https://doc.rust-lang.org/nomicon/references.html#paths
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 

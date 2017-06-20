@@ -1,4 +1,9 @@
 2017
+MailRu - ML fundamentals and DL
+https://www.youtube.com/watch?v=db0Qxm8E2qE
+Soshnikov - Practical intro to NN and DL
+https://www.youtube.com/watch?v=uaBp0uiLvKQ
+
 https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941
 Kavalerov - Foldable NeuralNets (good historical overview)
 https://www.slideshare.net/IvanKavalerov/ss-71241578
