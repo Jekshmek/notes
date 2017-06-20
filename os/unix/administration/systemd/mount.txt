@@ -1,2 +1,5 @@
 http://www.theregister.co.uk/2016/08/22/systemd_adds_filesystem_mount_tool/
 http://www.opennet.ru/opennews/art.shtml?num=45012
+
+automount:
+https://habrahabr.ru/post/331240/
