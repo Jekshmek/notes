@@ -1,4 +1,5 @@
 2017:
+https://habrahabr.ru/post/331280/
 https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 http://frozenfractal.com/blog/2017/2/10/10-cool-things-about-kotlin/
 https://habrahabr.ru/company/mailru/blog/329294/
