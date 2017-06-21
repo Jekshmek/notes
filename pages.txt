@@ -35,7 +35,7 @@ Somov - nz                                          -   01:00 (of   43:08)
 Tracking:
 Razbor Poletov                                      - 137 38:00 (of 49:58)
 Bananas and Lens                                    - 38
-This week in rust                                   - 186
+This week in rust                                   - 187
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
