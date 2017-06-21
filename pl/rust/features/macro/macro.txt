@@ -1,9 +1,11 @@
 book:
-https://doc.rust-lang.org/book/macros.html
-https://doc.rust-lang.org/book/procedural-macros.html
+https://doc.rust-lang.org/stable/book/first-edition/macros.html
+https://doc.rust-lang.org/stable/book/first-edition/procedural-macros.html
 
+https://danielkeep.github.io/tlborm/book/index.html
 https://danielkeep.github.io/tlborm/book/README.html
 https://github.com/DanielKeep/tlborm/
+https://danielkeep.github.io/practical-intro-to-macros.html
 
 articles:
 http://words.steveklabnik.com/an-overview-of-macros-in-rust
