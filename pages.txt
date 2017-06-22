@@ -4,9 +4,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Novik - Spark 2015 - 2                              -   00:00 (of 1:18:46)
+Novik - Spark 2015 - 2                              -   15:00 (of 1:18:46)
 
 Literature:
+Bykov-Barschevsky                                   -   19:00 (of   51:42)
 Malishevsky-Luzhin                                  -   36:00 (of 2:40:09)
 Kaminskaya 3                                        -   26:00 (of 1:27:06)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
