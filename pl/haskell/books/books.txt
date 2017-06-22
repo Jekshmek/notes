@@ -1,0 +1,2 @@
+2016:
+Thomasson - Haskell High Performance Programming

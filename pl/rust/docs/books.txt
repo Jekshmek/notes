@@ -35,3 +35,7 @@ https://brson.github.io/rust-cookbook/
 https://github.com/brson/rust-cookbook
 still need a lot of help:
 https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
+
+Published:
+Kaihlavirta - Mastering Rust
+https://www.packtpub.com/application-development/mastering-rust
