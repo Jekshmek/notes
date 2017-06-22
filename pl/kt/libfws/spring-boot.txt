@@ -1,0 +1,2 @@
+http://www.baeldung.com/spring-boot-kotlin
+https://auth0.com/blog/developing-restful-apis-with-kotlin/
