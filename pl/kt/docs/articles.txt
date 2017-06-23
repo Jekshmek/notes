@@ -9,6 +9,7 @@ https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-2-324a4a50b70
 https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-3-3bf6e0dbf0a4
 
 https://hackernoon.com/5-small-things-you-probably-dont-know-about-kotlin-255261940de6
+https://hackernoon.com/kotlin-a-deeper-look-8569d4da36f
 
 https://medium.com/@piotr.slesarew/dsl-builder-in-kotlin-be5816ba3ca7
 

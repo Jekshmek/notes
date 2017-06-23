@@ -1,0 +1,10 @@
+https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+
+2017:
+Deleuze - Functional Web Applications with Spring and Kotlin
+https://speakerdeck.com/sdeleuze/functional-web-applications-with-spring-and-kotlin
+https://vimeo.com/221399691
+
+WebFlux:
+https://speakerdeck.com/sdeleuze/spring-framework-5-dot-0-themes-and-trends
+https://speakerdeck.com/sdeleuze/reactive-spring
