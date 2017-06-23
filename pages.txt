@@ -4,7 +4,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Novik - Spark 2015 - 2                              -   15:00 (of 1:18:46)
+Novik - Spark 2015 - 2                              -   30:00 (of 1:18:46)
 
 Literature:
 Bykov-Barschevsky                                   -   19:00 (of   51:42)
@@ -30,7 +30,7 @@ Sorokin - Context 11                                -   00:00 (of 1:13:58)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
-Somov - nz                                          -   01:00 (of   43:08)
+Ogorodnikov                                         - 1:15:00 (of 2:05:17)
 
 Tracking:
 Razbor Poletov                                      - 137
