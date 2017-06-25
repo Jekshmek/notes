@@ -1,0 +1,10 @@
+http://json-b.net/
+http://json-b.net/getting-started.html
+http://json-b.net/users-guide.html
+http://json-b.net/javadocs.html
+
+Kornilov - 2017 - JSON Support in Java EE 8
+https://www.youtube.com/watch?v=tJgbFkTemfI
+
+http://json-b.net/download.html
+https://github.com/eclipse/yasson
