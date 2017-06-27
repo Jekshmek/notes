@@ -29,3 +29,6 @@ git push --tags <remote-branch>
 git push <remote-branch> :<tag-name>
     push nothing to tag-name at remote-branch
     Note: use refs/tags/<tag-name> if tag has the same name as on of the branch
+
+git fetch --tags
+    fetch tags from remote
