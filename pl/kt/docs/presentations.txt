@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=a7QpoMj2uIA
 https://www.youtube.com/watch?v=0sPzDwS55wM
 Breslav - Introduction to Kotlin at Google I/O
 https://www.youtube.com/watch?v=X1RVYt2QKQE
+
+2016:
+Ibragimov - The Darkside of Kotlin (ru)
+https://www.youtube.com/watch?v=fZXQjy8sdok

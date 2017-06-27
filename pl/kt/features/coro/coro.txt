@@ -3,4 +3,7 @@ presentations:
 Elizarov - Introduction to Kotlin coroutines
 https://vimeo.com/221264980/b3ac7f9001
 
+http://slides.com/ruslanibragimov/deep-in-async-computations#/
+https://www.youtube.com/watch?v=9b89HxJ2bjU
+
 https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md#state-machines

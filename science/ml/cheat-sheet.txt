@@ -4,3 +4,5 @@ Keras, NumPy, Pandas, SciPy, Mathplotlib, Scikit-learn,
 Ggplot2, PySpark, RStudio
 
 https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
+https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6

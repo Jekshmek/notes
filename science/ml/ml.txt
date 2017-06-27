@@ -33,6 +33,8 @@ https://github.com/distillpub
 http://distill.pub/guide
 https://github.com/distillpub/template
 
+https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 https://chatbotsmagazine.com/machine-learning-neural-networks-and-algorithms-5c0711eb8f9a
 https://www.linkit.nl/knowledge-base/234/Machine_learning_neural_networks_and_algorithms
