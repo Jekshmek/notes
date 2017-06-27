@@ -1,0 +1,2 @@
+https://tour.dlang.org/
+https://tour.dlang.org/tour/ru/welcome/welcome-to-d

@@ -1,5 +1,6 @@
 URLs:
 https://doc.rust-lang.org/nomicon/subtyping.html#variance
+  Box and Vec are...
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
