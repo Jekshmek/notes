@@ -1,0 +1,2 @@
+glibc:
+https://github.com/gliderlabs/docker-alpine/issues/11
