@@ -1,0 +1,5 @@
+2017:
+Ilyenko - GraphQL a type system for your API
+https://olegilyenko.github.io/presentation-graphql-type-system-for-your-api
+https://www.youtube.com/watch?v=K779SIVNLNg
+    http://sangria-graphql.org/
