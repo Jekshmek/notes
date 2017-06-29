@@ -14,3 +14,4 @@ https://fnordig.de/2015/07/16/omnomnom-parsing-iso8601-dates-using-nom/
 https://air.mozilla.org/hands-on-parsing-in-rust-toronto-rust-meetup/
 https://mystor.github.io/rust_meetup_20170530/#/
 https://github.com/jdm/nom-workshop-exercises
+http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
