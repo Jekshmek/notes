@@ -1,0 +1,6 @@
+https://sagiegurari.github.io/cargo-make/
+
+https://crates.io/crates/cargo-make
+https://sagiegurari.github.io/cargo-make/api/cargo_make/index.html
+
+https://github.com/sagiegurari/cargo-make
