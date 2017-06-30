@@ -1,0 +1,2 @@
+2.4
+https://blogs.msdn.microsoft.com/typescript/2017/06/27/announcing-typescript-2-4/
