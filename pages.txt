@@ -1,5 +1,6 @@
 URLs:
-https://doc.rust-lang.org/nomicon/dropck.html#an-escape-hatch
+https://doc.rust-lang.org/nomicon/borrow-splitting.html
+  Iterators
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
