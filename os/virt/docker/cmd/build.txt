@@ -1,4 +1,5 @@
 docker
     build
+        --build-arg
         --squash
         --compress

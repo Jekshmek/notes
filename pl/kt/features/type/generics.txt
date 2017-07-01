@@ -1,1 +1,3 @@
 https://kotlinlang.org/docs/reference/generics.html
+
+https://blog.simon-wirtz.de/generic-types-and-variance-in-kotlin-compared-to-java/

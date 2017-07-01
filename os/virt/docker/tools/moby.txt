@@ -2,3 +2,17 @@ https://mobyproject.org/
 https://github.com/moby/moby
 
 https://blog.docker.com/2017/04/introducing-the-moby-project/
+https://habrahabr.ru/company/flant/blog/329136/
+
+components:
+runC
+containerd
+  https://habrahabr.ru/company/flant/blog/325358/o
+  https://github.com/docker/containerd
+  https://github.com/docker/containerd/blob/master/design/architecture.md
+opencontainers
+  https://www.opencontainers.org/
+  https://github.com/opencontainers/runtime-spec
+linuxkit:
+  https://blog.docker.com/2017/04/introducing-linuxkit-container-os-toolkit/
+  https://github.com/linuxkit/linuxkit
