@@ -16,3 +16,5 @@ https://blog.simon-wirtz.de/function-literals-with-receiver-quick-introduction/
 samples:
 https://github.com/sepatel/tekniq
 https://github.com/Kotlin/kotlinx.html
+https://github.com/qwertukg/SeleniumBuilder
+https://github.com/mikaelhg/ksoup
