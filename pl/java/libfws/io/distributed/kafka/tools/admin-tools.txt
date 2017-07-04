@@ -1,0 +1,7 @@
+kafka-topic.sh
+    most topic operations
+kafka-config.sh
+    config changes
+
+    --zookeper
+    --config
