@@ -56,6 +56,9 @@ samples:
 https://github.com/jnr/jnr-ffi-examples
 
 test:
+MemoryIOTest
+    allocateDirect/allocate
+
 https://github.com/jnr/jnr-ffi/tree/master/libtest
 
 void ptr_set_array_element(@Out Pointer[] array, int index, Pointer value);
