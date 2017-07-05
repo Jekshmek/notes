@@ -3,6 +3,7 @@
 ## Articles
 
 * [Allain - C++11 - Lambda Closures, the Definitive Guide] (http://www.cprogramming.com/c++11/c++11-lambda-closures.html)
+* [Lambda + shared ptr = memory leak] (http://floating.io/2017/07/lambda-shared_ptr-memory-leak)
 
 ## Presentations
 

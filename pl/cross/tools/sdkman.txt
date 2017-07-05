@@ -1,0 +1,13 @@
+sdk
+    h[elp]
+    v[ersion]
+
+    selfupdate [force]
+    flush <candidates|broadcast|archives|temp>
+
+    list [package]
+
+    i[nstall] <package [ver]>
+    unsinstall|rm <package [ver]>
+
+    outdated <package>
