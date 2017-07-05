@@ -1,5 +1,9 @@
+articles:
+2017:
+https://springframework.guru/what-is-new-with-spring-framework-5/
 https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 
+presentations:
 2017:
 Deleuze - Functional Web Applications with Spring and Kotlin
 https://speakerdeck.com/sdeleuze/functional-web-applications-with-spring-and-kotlin

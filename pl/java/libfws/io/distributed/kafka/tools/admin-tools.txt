@@ -5,3 +5,9 @@ kafka-config.sh
 
     --zookeper
     --config
+    --disable-rack-aware
+    --if-not-exists
+    --if-exists
+
+samples:
+kafka-topics.sh --zookeeper <zk-connect> --create --topic <topic-name> --replication-factor <int> --partitions <int>

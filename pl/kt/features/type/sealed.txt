@@ -1,1 +1,2 @@
+https://blog.simon-wirtz.de/sealed-classes-kotlin-explanation/
 https://medium.com/@philipesteiff/kotlin-what-is-a-sealed-classe-1e535c416519
