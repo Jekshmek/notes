@@ -1,17 +1,17 @@
 URLs:
-https://doc.rust-lang.org/nomicon/coercions.html
-  coercion site
+https://doc.rust-lang.org/nomicon/transmutes.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Novik - Spark 2015 - 3                              -   33:00 (of 1:54:56)
+Novik - Spark 2015 - 3                              -   50:00 (of 1:54:56)
 
 Literature:
-Psoi - Seminar                                      -   11:00 (of 1:50:42)
+Bykov - Harms                                       -   34:00 (of 1:43:36)
+  https://vk.com/video-2048479_171036527
+Psoi - Seminar                                      -   43:00 (of 1:50:42)
   https://www.youtube.com/watch?v=7d8AE6tC22o
-Malishevsky-Luzhin                                  - 1:04:00 (of 2:40:09)
-Kaminskaya 3                                        -   26:00 (of 1:27:06)
+Kaminskaya 4.2                                      -   13:00 (of 1:25:52)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -27,7 +27,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 30                                        -   00:00 (of 1:47:48)
-Ivliev - 26                                         -   00:00 (of   35:20)
+Ivliev - 27                                         -   00:00 (of   38:24)
 Sorokin - Context 12                                -   00:00 (of 1:09:27)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
