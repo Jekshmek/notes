@@ -12,3 +12,6 @@ https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations
 https://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data/
 https://www.confluent.io/blog/stream-data-platform-1/
 https://www.confluent.io/blog/stream-data-platform-2/
+
+Exactly-once delivery:
+https://habrahabr.ru/post/332448/
