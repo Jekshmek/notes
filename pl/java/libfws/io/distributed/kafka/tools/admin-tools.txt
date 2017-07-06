@@ -20,3 +20,10 @@ kafka-topics.sh --zookeeper <zk-connect> --create --topic <topic-name> --replica
         --topics-with-overrides
         --under-replicated-partitions
         --unavailable-partitions
+
+kafka-consumer-groups.sh
+    --zookeeper <zk> # for old consumer-groups
+    --bootstrap-server <kafka.host:9092/kafka-cluster> # for new consumer-groups
+        --list
+        --describe <grp>
+
