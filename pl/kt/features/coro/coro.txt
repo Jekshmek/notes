@@ -6,6 +6,12 @@ https://vimeo.com/221264980/b3ac7f9001
 http://slides.com/ruslanibragimov/deep-in-async-computations#/
 https://www.youtube.com/watch?v=9b89HxJ2bjU
 
+
+articles:
+2017:
+https://blog.simon-wirtz.de/kotlin-coroutines-guide/
+
+
 tutorials:
 https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
 
