@@ -1,6 +1,7 @@
 https://www.cs.washington.edu/tr/2015/03/UW-CSE-15-03-02.pdf
 
 http://plv.mpi-sws.org/rustbelt/
+https://www.ralfj.de/blog/2017/07/08/rustbelt.html
 https://air.mozilla.org/rust-paris-meetup-35-2017-01-19/
 
 https://www.reddit.com/r/rust/comments/5ybrcj/linear_types_for_lowlevel_languages_some_history/
