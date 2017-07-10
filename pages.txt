@@ -4,15 +4,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Novik - Spark 2015 - 3                              - 1:30:00 (of 1:54:56)
+Novik - Spark 2015 - 3                              - 1:46:00 (of 1:54:56)
 
 Literature:
 Bykov - Linch                                       -   00:00 (of 1:05:56)
-Bykov - Harms                                       -   51:00 (of 1:43:36)
-  https://vk.com/video-2048479_171036527
-Psoi - Seminar                                      -   43:00 (of 1:50:42)
+Bykov - Charlie                                     -   03:00 (of 1:14:04)
+  https://vk.com/video-2048479_171036679
+Psoi - Seminar                                      -   46:00 (of 1:50:42)
   https://www.youtube.com/watch?v=7d8AE6tC22o
-Kaminskaya 6                                        -   16:00 (of 1:22:23)
+Kaminskaya 6                                        -   24:00 (of 1:22:23)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -27,7 +27,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 30                                        -   00:00 (of 1:47:48)
+Paschenko 32a                                       -   00:00 (of   53:08)
 Ivliev - 27                                         -   00:00 (of   38:24)
 Sorokin - Context 13                                -   00:00 (of 1:12:57)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
