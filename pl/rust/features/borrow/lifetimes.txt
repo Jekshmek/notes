@@ -48,8 +48,10 @@ without the 'a parameter, Rust would not be able to distinguish between
         which may have `&str`'s pointing into a `String` on the stack  
 
 NLL (Non-lexical lifetimes)
+https://github.com/nikomatsakis/nll-rfc/
 https://github.com/rust-lang/rust-roadmap/issues/16
 http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
 http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/
 http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/
 https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
+http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/
