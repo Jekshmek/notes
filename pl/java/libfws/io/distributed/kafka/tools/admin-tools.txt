@@ -27,3 +27,13 @@ kafka-consumer-groups.sh
         --list
         --describe <grp>
 
+
+kafka-run-class.sh
+    Run a java-class in appropriate environment
+
+    kafka.tools.ExportZkOffsets --zkconnect zoo1.example.com:2181/kafka-cluster --group testgroup --output-file offsets
+
+kafka-config.sh
+    per-topic, per-client or overrides
+
+    --zookeeper <zk> --alter --entity-type topics --entity-name <topic-name> --add-config <key>=<value>[,<key>=<value>...]

@@ -9,3 +9,6 @@ http://neuralnetworksanddeeplearning.com/
 Manning - Trask - Grokking Deep Learning
 https://iamtrask.github.io/
 Sugomori - Deep Learning Essentials
+
+Popular and Short (java)
+Gibson - Deep Learning ER
