@@ -7,7 +7,7 @@ Video:
 Spark Basics 1 3                                    -   06:00 (of 1:47:52)
 
 Literature:
-Bykov - Bulgakov                                    -   42:00 (of   56:07)
+Bykov - Bulgakov                                    -   43:00 (of   56:07)
 Bykov - Linch                                       -   00:00 (of 1:05:56)
 Bykov - Charlie                                     -   09:00 (of 1:14:04)
   https://vk.com/video-2048479_171036679
@@ -30,7 +30,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 32a                                       -   00:00 (of   53:08)
 Ivliev - 28                                         -   00:00 (of   36:39)
-Sorokin - Context 13                                -   00:00 (of 1:12:57)
+Sorokin - Context 13                                -   28:00 (of 1:12:57)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
@@ -44,7 +44,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 175..191..223
+Narkhede - Kafka The Definitive Guide               - 176..191..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
