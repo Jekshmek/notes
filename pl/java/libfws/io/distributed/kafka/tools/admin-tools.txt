@@ -39,4 +39,8 @@ kafka-config.sh
     --zookeeper <zk> --alter --entity-type topics --entity-name <topic-name> --add-config <key>=<value>[,<key>=<value>...]
     ... retention.ms=3600000
     --zookeeper <zk> --alter --entity-type clients --entyty-name <client-id> --add-config <key>=<value>[,<key>=<value>...]
+    ... --describe
+        describe the default overrides
+    --alter ... --detete-config retention.ms
+        delete a config-override
 
