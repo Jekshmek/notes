@@ -1,6 +1,2 @@
 articles:
 http://cglab.ca/%7Eabeinges/blah/rust-reuse-and-recycle/
-
-container cheatsheet:
-https://www.reddit.com/r/rust/comments/66t56s/rust_container_cheat_sheet/
-https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p
