@@ -8,9 +8,9 @@ Spark Basics 1 3                                    -   22:00 (of 1:47:52)
 
 Literature:
 Bykov - Linch                                       -   00:00 (of 1:05:56)
-Bykov - Nekrasov                                    -   09:00 (of   27:42)
-Bykov - Andreev                                     -   31:00 (of   55:08)
-Bykov - Charlie                                     -   09:00 (of 1:14:04)
+Bykov - Nekrasov                                    -   19:00 (of   27:42)
+Bykov - Bunin                                       -   22:00 (of   46:26)
+Bykov - Charlie                                     -   20:00 (of 1:14:04)
   https://vk.com/video-2048479_171036679
 Psoi - Seminar                                      -   46:00 (of 1:50:42)
   https://www.youtube.com/watch?v=7d8AE6tC22o
@@ -35,7 +35,8 @@ Sorokin - Context 14                                -   00:00 (of 1:09:17)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
-Chernov                                             -   37:00 (of 2:02:45)
+Chernov                                             - 1:32:00 (of 2:02:45)
+Kosintseva                                          -   57:00 (of 1:37:51)
 
 Tracking:
 Razbor Poletov                                      - 138
@@ -51,3 +52,4 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
+https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+2T2017/course/
