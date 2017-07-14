@@ -6,6 +6,10 @@ https://github.com/junit-team/junit5/milestones/
 http://junit.org/junit5/docs/current/user-guide/#writing-tests-repeated-tests
 http://junit.org/junit5/docs/current/api/org/junit/jupiter/api/Assertions.html
 
+articles:
+https://www.ibm.com/developerworks/java/library/j-introducing-junit5-part1-jupiter-api/index.html
+https://www.ibm.com/developerworks/library/j-introducing-junit5-part2-vintage-jupiter-extension-model/index.html
+
 http://stackoverflow.com/questions/tagged/junit5
 
 org.junit.Assume
