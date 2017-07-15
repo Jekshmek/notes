@@ -50,3 +50,4 @@ kafka-preferred-replica-election.sh
 kafka-reassign-partitions.sh
     --zookeper <zk> --topics-to-move-json-file topics.json --brokers-list 0,1
         generate a set of partition moves
+    --verify --reassignment-json-file reassing.json

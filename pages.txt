@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/nomicon/leaking.html
+https://doc.rust-lang.org/nomicon/leaking.html#drain
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -44,7 +44,7 @@ http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 181..191..223
+Narkhede - Kafka The Definitive Guide               - 183..191..223
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
