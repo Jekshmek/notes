@@ -27,6 +27,10 @@ http://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-d
 https://habrahabr.ru/company/tinkoff/blog/323316/
 
 presentations:
+2017:
+Ludwikowski - Gatling Distiled
+https://www.youtube.com/watch?v=gbDfkk-C4Aw
+
 http://www.slideshare.net/xebia/testworks-conf-performance-testing-made-easy-with-gatling-guillaume-corre
 
 sbt plugin:

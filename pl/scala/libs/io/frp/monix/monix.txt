@@ -3,10 +3,6 @@ https://monix.io/
 https://gitter.im/monixio/monix/archives/
 2016/09/06
 
-Presentations:
-https://monix.io/public/pdfs/Akka-Monix.pdf
-https://monix.io/public/pdfs/Monix-Task.pdf
-
 API:
 https://monix.io/api/2.0/index.html
 

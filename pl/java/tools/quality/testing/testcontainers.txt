@@ -1,0 +1,5 @@
+https://www.testcontainers.org/
+https://github.com/testcontainers/testcontainers-java
+
+https://www.slideshare.net/rich.north/testcontainers-geekout-ee-2017-presentation
+https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/

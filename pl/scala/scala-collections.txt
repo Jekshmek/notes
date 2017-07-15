@@ -1,5 +1,7 @@
 Articles:
 https://pavelfatin.com/scala-collections-tips-and-tricks/
+https://habrahabr.ru/post/333362/
+
 Odersky - Fighting Bit Rot with Types
 
 Scala WAT - collections:
