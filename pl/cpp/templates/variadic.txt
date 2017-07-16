@@ -3,3 +3,5 @@ http://cppisland.com/?p=194
 
 Dewharst - Variadic CRTP
 http://stevedewhurst.com/once_weakly/once-weakly20170328/once-weakly20170328.pdf
+
+https://vittorioromeo.info/index/blog/zeroalloc_continuations_p2.html
