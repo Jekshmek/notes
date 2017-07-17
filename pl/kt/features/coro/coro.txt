@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=9b89HxJ2bjU
 
 articles:
 2017:
+http://blog.alexnesterov.com/post/kotlin-coroutines-and-spring-5/
 https://blog.simon-wirtz.de/kotlin-coroutines-guide/
 
 
