@@ -32,6 +32,9 @@ kafka-run-class.sh
     Run a java-class in appropriate environment
 
     kafka.tools.ExportZkOffsets --zkconnect zoo1.example.com:2181/kafka-cluster --group testgroup --output-file offsets
+    kafka.tools.DumpLogSegments --files 000123.log
+        --print-data-log
+        --index-sanity-check
 
 kafka-config.sh
     per-topic, per-client or overrides
@@ -51,3 +54,5 @@ kafka-reassign-partitions.sh
     --zookeper <zk> --topics-to-move-json-file topics.json --brokers-list 0,1
         generate a set of partition moves
     --verify --reassignment-json-file reassing.json
+
+kafka-replica-verrification.sh
