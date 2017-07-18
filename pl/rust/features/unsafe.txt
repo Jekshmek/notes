@@ -1,6 +1,7 @@
 articles:
 
 2017:
+https://www.ralfj.de/blog/2017/07/17/types-as-contracts.html
 https://gankro.github.io/blah/only-in-rust/
     https://www.reddit.com/r/rust/comments/6h81cx/bugs_youll_probably_only_have_in_rust/
 http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/

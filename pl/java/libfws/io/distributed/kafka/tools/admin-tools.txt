@@ -56,3 +56,16 @@ kafka-reassign-partitions.sh
     --verify --reassignment-json-file reassing.json
 
 kafka-replica-verrification.sh
+    --broker-list <host1,host2,...> --topic-white-list 'my-.*'
+
+kafka-console-consumer.sh
+    --zookeeper # for old clients
+    --new-consumer-flag --broker-list <br1,br2,...> # for new clients
+        --topic ... --whitelist ... --blacklist ...
+        --consumer-config CONFIGFILE
+        --consumer-property <key>=<val>
+        --formatter CLASSNAME
+        --max-messages NUM
+        --partition NUM
+
+kafka-console-producer.sh

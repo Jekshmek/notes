@@ -2,5 +2,9 @@ http://blog.burntsushi.net/rust-error-handling/
 
 ?-operator
 https://www.reddit.com/r/rust/comments/6e9bvb/extend_to_operate_over_other_types_rfc_has_been/
+
+https://github.com/rust-lang/rfcs/blob/master/text/1937-ques-in-main.md
+https://github.com/rust-lang/rfcs/pull/1937
+
 Try-trait
 https://github.com/rust-lang/rfcs/pull/1859
