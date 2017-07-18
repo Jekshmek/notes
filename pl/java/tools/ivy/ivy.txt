@@ -1,6 +1,31 @@
 Terminology:
 http://ant.apache.org/ivy/history/latest-milestone/terminology.html
 
+module can have multiple artifacts
+
+    <configurations>
+        ...
+        <conf name="exe"/>
+    </configurations>
+
+    <dependencies>
+        ...
+        <dependency org="Clarabridge" name="build_morph" e:platform="${target.platform}" rev="latest.integration" conf="exe->lib" ext="${executable.suffix}" transitive="false" />
+        ...
+    </dependencies>
+
+        <dependency org="Clarabridge" name="FactTuner" e:platform="${target.platform}" rev="latest.integration" conf="dependency-exe->publish" transitive="true">
+            <include type="exe" />
+        </dependency>
+
+    ...
+        <ivy:retrieve pattern="${target.dir}/${target.platform}/lib/[artifact].[ext]" conf="lib" type="lib" sync="true"/>
+        <ivy:retrieve pattern="${target.dir}/${target.platform}/lib/[artifact].[ext]" conf="exe" type="exe" sync="false"/>
+
+
+
+
+
 Articles:
 http://olmex.blogspot.in/2012/04/ivy-beginners-guide.html
 http://olmexsoftdocs.appspot.com/
