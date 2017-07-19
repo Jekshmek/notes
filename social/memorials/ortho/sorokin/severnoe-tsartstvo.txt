@@ -58,3 +58,5 @@ Assiriya v eto vremya gotovila pohod na Egipet.
 Ni severnoe ni yuzhnoe tsartsvo ne bylo nadezhnym soyuznikov (lovirovali vplot do poznego porazheniya Egipta).
 
 Asiriyski tsar likvidiroval severnoe tsarstvo kak gosudarstvo (zhiteli byli razbrosany po bolshoi teritorii).
+
+    -> yuzhnoe-tsarstvo.txt
