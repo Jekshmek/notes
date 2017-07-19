@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/41164426/cpu-faster-than-gpu-on-prettytensor-demo-shakespeare-py
+https://stackoverflow.com/questions/37751739/tensorflow-code-optimization-strategy/37774430#37774430
