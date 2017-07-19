@@ -1,2 +1,3 @@
 https://stackoverflow.com/questions/41164426/cpu-faster-than-gpu-on-prettytensor-demo-shakespeare-py
 https://stackoverflow.com/questions/37751739/tensorflow-code-optimization-strategy/37774430#37774430
+https://stackoverflow.com/questions/33956956/counter-on-gpu-insanely-slow-compared-to-default-counter

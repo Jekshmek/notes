@@ -1,0 +1,4 @@
+https://crates.io/crates/printpdf
+https://docs.rs/printpdf
+https://sharazam.github.io/printpdf/
+https://github.com/sharazam/printpdf
