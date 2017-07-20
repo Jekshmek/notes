@@ -1,1 +1,2 @@
 https://github.com/xd009642/tarpaulin
+https://xd009642.github.io/2017/07/20/introducting-tarpaulin.html
