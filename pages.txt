@@ -30,13 +30,13 @@ Sorokin - Context 15                                -   00:00 (of 1:02:45)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
-Shteinman - 1                                       -   01:00 (of 1:17:22)
+Shteinman - 1                                       - 1:07:00 (of 1:17:22)
 Sorokin - Psaltir                                   -   04:00 (of 1:50:00)
 
 Tracking:
 Razbor Poletov                                      - 138
 Bananas and Lens                                    - 38
-This week in rust                                   - 190
+This week in rust                                   - 191
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
