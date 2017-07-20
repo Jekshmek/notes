@@ -1,0 +1,5 @@
+http://ostree.readthedocs.io/en/latest/
+https://github.com/projectatomic/rpm-ostree
+
+https://www.opennet.ru/opennews/art.shtml?num=37750
+https://blog.verbum.org/2013/08/26/ostree-v2013-6-released/

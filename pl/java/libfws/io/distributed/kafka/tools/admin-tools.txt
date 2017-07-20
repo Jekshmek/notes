@@ -68,9 +68,6 @@ kafka-console-consumer.sh
         --max-messages NUM
         --partition NUM
 
-kafka-console-producer.sh
-
-
 Check the offset:
 kafka-console-consumer.sh
     --zookeeper <zk> --topic __consumer_offsets --formatter 'kafka.coordinator.GroupMetadataManager$OffsetsMessageFormatter' --max-messages 1
@@ -78,3 +75,11 @@ kafka-console-consumer.sh
 [my-group-name,my-topic,0]::[OffsetMetadata[481690879,NO_METADATA],CommitTime
 1479708539051,ExpirationTime 1480313339051]
 Processed a total of 1 messages
+
+kafka-console-producer.sh
+    --line-reader <classname> # kafka.common.MessageReader
+    --broker-list <br-list> --topic <topic-name>
+    --producer-config <conf-file> --producer-property <key>=<val>
+    --key-serializer <classname> --value-serializer <classname>
+    --compression-codec <none|gzip|snappy|lz4>
+    --sync

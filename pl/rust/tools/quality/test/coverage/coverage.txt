@@ -1,0 +1,3 @@
+https://jbp.io/2017/07/19/measuring-test-coverage-of-rust-programs
+https://github.com/roblabla/cargo-travis
+https://users.rust-lang.org/t/howto-generating-a-branch-coverage-report/8524/3
