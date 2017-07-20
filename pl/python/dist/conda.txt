@@ -27,6 +27,9 @@ conda
     list
         -n <env-name>
 
+    update
+        --all --yes
+
 win:
 activate py35
 
