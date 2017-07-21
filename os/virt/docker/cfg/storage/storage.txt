@@ -25,6 +25,11 @@ https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/
 # lvcreate -l 100%FREE -n lvdocdata vgdocker
 # lsblk
 
+xvdc                     202:32   0  200G  0 disk
+|- docker-thinpool_tmeta 253:0    0    2G  0 lvm
+|-- docker-thinpool      253:2    0  190G  0 lvm
+|- docker-thinpool_tdata 253:1    0  190G  0 lvm
+|-- docker-thinpool      253:2    0  190G  0 lvm
 
 ISSUES:
 
