@@ -12,7 +12,10 @@ DeviceMapper:
 https://docs.docker.com/engine/userguide/storagedriver/device-mapper-driver/
 
 -s devicemapper
+# direct-mode
 --storage-opt dm.datadev=/dev/vgdocker/lvdocdata --storage-opt dm.metadatadev=/dev/vgdocker/lvdocmeta
+# loopback-mode
+--data-root /data/wrk/docker-data
 
 # pvcreate /dev/xvdf1
 # vgextend centos /dev/xvdf1   # centos - volume group
