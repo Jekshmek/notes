@@ -2,6 +2,9 @@ presentations:
 2017:
 Elizarov - Introduction to Kotlin coroutines
 https://vimeo.com/221264980/b3ac7f9001
+Elizarov - Lock-Free Algorithms for Kotlin Coroutines
+https://www.youtube.com/watch?v=W2dOOBN1OQI
+https://www.youtube.com/watch?v=iQsN_IDUTSc
 
 http://slides.com/ruslanibragimov/deep-in-async-computations#/
 https://www.youtube.com/watch?v=9b89HxJ2bjU

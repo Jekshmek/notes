@@ -1,0 +1,6 @@
+https://docs.docker.com/introduction/understanding-docker/
+
+http://paislee.io/how-to-automate-docker-deployments/
+http://www.netpatch.ru/research/docker/2014/03.24-linux-docker-practical-guide.html
+http://www.radcortez.com/get-into-docker/
+http://middlewaresnippets.blogspot.com.by/2015/08/spring-boot-and-docker.html

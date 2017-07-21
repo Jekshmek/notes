@@ -210,7 +210,7 @@ To make the Docker daemon only accept connections from clients providing a certi
      
     [Service]
     Type=notify
-    #ExecStart=/usr/bin/docker daemon -H fd://
+    #ExecStart=/usr/bin/dockerd -H fd://
     ExecStart=/usr/bin/docker -d --tlsverify --tlscacert=/opt/docker/certs/ca/ca.pem --tlscert=/opt/docker/certs/server/server-cert.pem --tlskey=/opt/docker/certs/server/server-key.pem -H=0.0.0.0:2376
     MountFlags=slave
     LimitNOFILE=1048576
