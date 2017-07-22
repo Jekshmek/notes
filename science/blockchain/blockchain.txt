@@ -1,2 +1,3 @@
 articles:
+https://habrahabr.ru/company/everydaytools/blog/333576/
 https://habrahabr.ru/company/bitfury/blog/332438/

@@ -1,3 +1,7 @@
 2017
+
+https://www.youtube.com/watch?v=6ewlhP-k1fA
+https://www.slideshare.net/SanderMak/java-9-modularity-in-action
+
 Reinhold - Migrating to Modules
 https://www.youtube.com/watch?v=czhSo8rotC4
