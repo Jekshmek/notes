@@ -1,0 +1,4 @@
+https://www.ibm.com/developerworks/linux/library/l-lpic1-107-3/index.html
+
+timedatectl
+    set-ntp true

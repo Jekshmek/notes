@@ -12,3 +12,6 @@ Sugomori - Deep Learning Essentials
 
 Popular and Short (java)
 Gibson - Deep Learning ER
+
+Deng - 2014 - Deep Learning: Methods and Applications
+https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf#

@@ -1,0 +1,5 @@
+https://crates.io/crates/adhesion
+https://docs.rs/adhesion
+https://github.com/ErichDonGubler/adhesion-rs
+
+https://www.reddit.com/r/rust/comments/6ooinu/adhesionrs_v020_contract_programming_in_rust_with/
