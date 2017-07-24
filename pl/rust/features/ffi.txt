@@ -1,4 +1,5 @@
 https://doc.rust-lang.org/book/ffi.html
+https://doc.rust-lang.org/nomicon/ffi.html
 http://jakegoulding.com/rust-ffi-omnibus/
 
 articles:
