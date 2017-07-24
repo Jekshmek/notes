@@ -1,8 +1,12 @@
 https://blog.rust-lang.org/2017/07/20/Rust-1.19.html
+http://www.opennet.ru/opennews/art.shtml?num=46900
+
 https://blog.rust-lang.org/2017/06/08/Rust-1.18.html
-https://www.reddit.com/r/rust/comments/5roiq7/announcing_rust_115/
+
 https://blog.rust-lang.org/2017/02/02/Rust-1.15.html
-https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1150-2017-02-02
+https://www.reddit.com/r/rust/comments/5roiq7/announcing_rust_115/
 
 https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591
 https://gist.github.com/chriskrycho/8097713374a166fc3482ac64e81c0952
+
+https://github.com/rust-lang/rust/blob/master/RELEASES.md

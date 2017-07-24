@@ -1,0 +1,2 @@
+https://github.com/arturbosch/detekt
+https://medium.com/@annayan/writing-custom-lint-rules-for-your-kotlin-project-with-detekt-653e4dbbe8b9
