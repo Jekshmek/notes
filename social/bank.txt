@@ -1,2 +1,6 @@
 IBAN/BIC/ISO 20022
 https://news.mail.ru/economics/30273078/
+
+http://www.nbrb.by/Legislation/documents/P_440.pdf
+
+28-sym IBAN

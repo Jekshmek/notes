@@ -11,6 +11,9 @@ https://github.com/sfackler/serde-transcode
 
 https://serde.rs/attributes.html#field-attributes
 
+https://github.com/dtolnay/erased-serde
+https://www.reddit.com/r/rust/comments/6pgyy1/serde_trait_objects_work_again/
+
 zero-copy:
 https://users.rust-lang.org/t/serde-and-serde-json-1-0-0-released/10466
 https://www.reddit.com/r/rust/comments/6albr0/serde_compared_to_the_fastest_c_json_library/

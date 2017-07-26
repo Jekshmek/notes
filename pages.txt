@@ -36,7 +36,7 @@ Sorokin - Psaltir                                   - 1:13:00 (of 1:50:00)
 Tracking:
 Razbor Poletov                                      - 139 - 2:00:00 (of 2:38:25)
 Bananas and Lens                                    - 38
-This week in rust                                   - 191
+This week in rust                                   - 192
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
