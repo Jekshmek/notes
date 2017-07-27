@@ -1,0 +1,4 @@
+https://github.com/intuit/karate
+https://semaphoreci.com/community/tutorials/testing-a-java-spring-boot-rest-api-with-karate
+
+? gradle-support
