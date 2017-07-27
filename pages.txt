@@ -4,9 +4,10 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Spark Basics 2 3                                    - 1:31:00 (of 1:40:59)
+Spark Overview                                      -   02:00 (of 1:19:09)
 
 Literature:
+Bykov - Lit and State                               -   38:00 (of   46:21)
 Malyshevski - Turgenev                              -   13:00 (of 2:39:03)
 Kaminskaya 6                                        -   31:00 (of 1:22:23)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -25,7 +26,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 33.1                                      -   00:00 (of   16:25)
 Ivliev - 30                                         -   00:00 (of   39:00)
-Sorokin - Context 15                                -   00:00 (of 1:02:45)
+Sorokin - Context 16                                -   00:00 (of 1:13:31)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
@@ -33,7 +34,7 @@ Savenkov                                            -   28:00 (of 2:04:45)
 Sorokin - Psaltir                                   - 1:13:00 (of 1:50:00)
 
 Tracking:
-Razbor Poletov                                      - 139 - 2:00:00 (of 2:38:25)
+Razbor Poletov                                      - 139 - 2:10:00 (of 2:38:25)
 Bananas and Lens                                    - 38
 This week in rust                                   - 192
 http://accu.org/index.php/journals/c78/             - 138
