@@ -1,7 +1,26 @@
 https://docs.docker.com/userguide/dockervolumes/
+https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
+https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host
 
 docker run --volume-driver=...
     flocker, glusterfs, nfs, rexray
+
+    -v /src/webapp:/webapp:ro
+    [MacOnly] -v /src/webapp:/webapp:cached
+
+docker volume
+    ls -q --f[ilter] 'name=<feature-name>'
+    rm ...
+    create -d convoy --opt o=size=20GB my-named-volume
+
+
+docker service create
+    --name ...
+    --mount type=volume,source=...,destination=/tmp
+
+
+Local:
+https://github.com/CWSpear/local-persist
 
 Convoy:
 https://github.com/rancher/convoy

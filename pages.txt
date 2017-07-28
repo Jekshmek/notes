@@ -7,6 +7,7 @@ Video:
 Spark Overview                                      -   02:00 (of 1:19:09)
 
 Literature:
+2017-07-28-odin-0005                                - 1:45:00 (of 2:36:35)
 Malyshevski - Turgenev                              -   13:00 (of 2:39:03)
 Kaminskaya 6                                        -   31:00 (of 1:22:23)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -29,11 +30,12 @@ Sorokin - Context 16                                -   00:00 (of 1:13:31)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
-Savenkov                                            -   28:00 (of 2:04:45)
-Sorokin - Psaltir                                   - 1:13:00 (of 1:50:00)
+Savenkov                                            - 1:02:00 (of 2:04:45)
+Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
+Shteiman - Iklings                                  -   11:00 (of 1:52:17)
 
 Tracking:
-Razbor Poletov                                      - 139 - 2:10:00 (of 2:38:25)
+Razbor Poletov                                      - 139
 Bananas and Lens                                    - 38
 This week in rust                                   - 192
 http://accu.org/index.php/journals/c78/             - 138
