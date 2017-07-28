@@ -1,1 +1,3 @@
 https://github.com/starkat99/appveyor-rust/blob/master/appveyor.yml
+
+https://github.com/PumpkinDB/PumpkinDB/blob/master/appveyor.yml
