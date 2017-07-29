@@ -26,3 +26,6 @@ Coeval is a data type for controlling synchronous, possibly lazy evaluation, use
 Future Utils:
 https://monix.io/docs/2x/execution/future-utils.html
 https://github.com/monix/monix/blob/master/monix-execution/shared/src/main/scala/monix/execution/FutureUtils.scala
+
+Tagless Final:
+http://www.beyondthelines.net/programming/introduction-to-tagless-final/

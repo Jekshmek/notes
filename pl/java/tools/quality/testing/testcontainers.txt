@@ -1,5 +1,24 @@
 https://www.testcontainers.org/
 https://github.com/testcontainers/testcontainers-java
 
-https://www.slideshare.net/rich.north/testcontainers-geekout-ee-2017-presentation
+articles:
+2017:
 https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
+https://medium.com/@bsideup/testing-your-docker-containers-with-testcontainers-and-groovy-3b9ef97ad1c2
+https://github.com/bsideup/testing-docker-images-with-testcontainers
+2016:
+https://rnorth.org/better-junit-selenium-testing-with-docker-and-testcontainers
+https://rnorth.org/fun-with-disque-java-and-spinach
+https://rnorth.org/junit-integration-testing-with-docker-and-testcontainers
+
+presentations:
+https://www.slideshare.net/rich.north/testcontainers-geekout-ee-2017-presentation
+https://vimeo.com/222501136
+
+docs:
+http://testcontainers.viewdocs.io/testcontainers-java/
+
+samples:
+https://github.com/testcontainers/testcontainers-java-examples
+
+https://github.com/testcontainers/testcontainers-java/blob/master/modules/postgresql/src/main/java/org/testcontainers/containers/PostgreSQLContainer.java
