@@ -1,0 +1,2 @@
+http://cpython-core-tutorial.readthedocs.io/en/latest/
+https://github.com/haypo/cpython_core_tutorial

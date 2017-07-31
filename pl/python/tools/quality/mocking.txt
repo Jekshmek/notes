@@ -1,0 +1,2 @@
+https://blog.fugue.co/2016-02-11-python-mocking-101.html
+https://blog.fugue.co/2017-07-18-revisiting-unit-testing-and-mocking-in-python.html
