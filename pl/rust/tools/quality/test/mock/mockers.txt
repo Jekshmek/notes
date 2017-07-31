@@ -1,0 +1,3 @@
+https://crates.io/crates/mockers
+https://github.com/kriomant/mockers/blob/master/doc/guide.md
+https://github.com/kriomant/mockers
