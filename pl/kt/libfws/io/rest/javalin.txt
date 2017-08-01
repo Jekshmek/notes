@@ -1,2 +1,6 @@
 https://javalin.io/
 https://github.com/tipsy/javalin
+
+https://javalin.io/tutorials/gradle-setup
+
+https://javalin.io/tutorials/html-forms-example-kotlin

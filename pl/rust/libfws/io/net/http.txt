@@ -1,0 +1,2 @@
+https://github.com/carllerche/http
+https://users.rust-lang.org/t/announcing-the-http-crate/12123
