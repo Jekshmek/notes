@@ -1,3 +1,6 @@
 2017:
+Stoyanchev - ServletVsReactiveStacksIn5UseCases
+https://www.infoq.com/presentations/servlet-reactive-stack
+
 Long - Reactive Spring
 https://www.youtube.com/watch?v=zVNIZXf4BG8

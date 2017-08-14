@@ -1,6 +1,7 @@
 http://diesel.rs/
 
 articles:
+https://hackernoon.com/grokking-diesel-652cb8886a3
 http://siciarz.net/24-days-rust-diesel/
 https://medium.com/@sgrif/announcing-diesel-a-safe-extensible-orm-and-query-builder-for-rust-fdf57966a16c
 https://hackernoon.com/comparing-diesel-and-rust-postgres-97fd8c656fdd

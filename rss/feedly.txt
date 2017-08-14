@@ -7,3 +7,6 @@ http://feedly.com/#cortex
 
 ?
     keyboard shortcuts
+
+What's New:
+https://blog.feedly.com/organize-sources/
