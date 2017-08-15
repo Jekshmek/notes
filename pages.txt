@@ -38,7 +38,7 @@ Shteiman - Iklings                                  -   11:00 (of 1:52:17)
 Tracking:
 Razbor Poletov                                      - 139
 Bananas and Lens                                    - 38
-This week in rust                                   - 192
+This week in rust                                   - 193
 http://accu.org/index.php/journals/c78/             - 138
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
