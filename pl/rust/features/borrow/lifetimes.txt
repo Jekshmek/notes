@@ -55,3 +55,6 @@ http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-us
 http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/
 https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
 http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/
+
+https://www.reddit.com/r/rust/comments/6r730x/the_nonlexical_lifetimes_rfc_was_just_opened_up/
+https://github.com/rust-lang/rfcs/pull/2094
