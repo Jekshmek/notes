@@ -34,10 +34,15 @@ http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/
 https://github.com/rust-unofficial/too-many-lists
 
 Cookbook:
+https://rust-lang-nursery.github.io/rust-cookbook/
+https://github.com/rust-lang-nursery/rust-cookbook
 https://brson.github.io/rust-cookbook/
 https://github.com/brson/rust-cookbook
 still need a lot of help:
 https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
+
+RBE:
+https://rustbyexample.com/
 
 Published:
 Kaihlavirta - Mastering Rust
