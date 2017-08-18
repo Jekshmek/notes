@@ -1,6 +1,10 @@
 https://habrahabr.ru/company/ruvds/blog/324756/
 https://codefresh.io/blog/java_docker_pipeline/
+
+RAM usage, limits:
 http://blog.jelastic.com/2017/04/13/java-ram-usage-in-containers-top-5-tips-not-to-lose-your-memory/
+https://blog.csanchez.org/2017/05/31/running-a-jvm-in-a-container-without-getting-killed/
+https://dzone.com/articles/running-a-jvm-in-a-container-without-getting-kille
 
 https://developers.redhat.com/blog/2017/03/14/java-inside-docker/
 
