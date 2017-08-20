@@ -1,6 +1,8 @@
 presentations:
 2017:
-Elizarov - Introduction to Kotlin coroutines
+Elizarov - Kotlin Coroutines Reloaded
+https://www.youtube.com/watch?v=3xalVUY69Ok
+Elizarov - Introduction to Kotlin Coroutines
 https://vimeo.com/221264980/b3ac7f9001
 Elizarov - Lock-Free Algorithms for Kotlin Coroutines
 https://www.youtube.com/watch?v=W2dOOBN1OQI

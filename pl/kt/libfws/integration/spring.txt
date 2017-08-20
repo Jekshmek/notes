@@ -1,5 +1,6 @@
 articles:
 2017:
+https://blog.simon-wirtz.de/spring-webflux-with-kotlin-reactive-web/
 https://spring.io/blog/2017/08/01/spring-framework-5-kotlin-apis-the-functional-way
 https://springframework.guru/what-is-new-with-spring-framework-5/
 https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
