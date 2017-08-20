@@ -28,6 +28,10 @@ unit-testing:
 https://serde.rs/unit-testing.html
 https://docs.serde.rs/serde_test/
 
+json-to-serde:
+https://transform.now.sh/json-to-rust-serde
+http://vestera.as/json_typegen/
+
 issues:
 https://www.reddit.com/r/rust/comments/6o1p46/serde_state_stateful_serde_deserialization/
 https://github.com/serde-rs/serde/issues/194
