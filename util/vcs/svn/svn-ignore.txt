@@ -1,2 +1,0 @@
-svn ps svn:ignore "gradle.properties" .
-svn pg svn:ignore .

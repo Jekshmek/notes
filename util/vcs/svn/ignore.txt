@@ -1,0 +1,4 @@
+svn pg svn:ignore .
+svn ps
+    svn:ignore "gradle.properties" .
+    svn:ignore -F ignorelist .
