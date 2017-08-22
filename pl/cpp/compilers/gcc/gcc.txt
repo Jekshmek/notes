@@ -6,14 +6,5 @@ http://stackoverflow.com/questions/344317/where-does-gcc-look-for-c-and-c-header
 
 /usr/include/c++/4.4.7/bits
 
-
-OPTIONS:
-
-- optimization:
--O3
--fomit-frame-pointer
--funroll-all-loops
-
-
 TLB
     translation lookahead buffer

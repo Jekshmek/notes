@@ -1,0 +1,4 @@
+- optimization:
+-O3
+-fomit-frame-pointer
+-funroll-all-loops
