@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/nomicon/vec-zsts.html
+https://doc.rust-lang.org/nomicon/ffi.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 

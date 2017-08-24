@@ -1,2 +1,18 @@
 web-mvc-test:
 https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
+
+simple-default:
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class DemoApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}

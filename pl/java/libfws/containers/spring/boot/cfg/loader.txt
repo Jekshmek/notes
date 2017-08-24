@@ -1,0 +1,3 @@
+https://docs.spring.io/spring-boot/docs/current/reference/html/executable-jar.html#executable-jar-property-launcher-features
+
+https://stackoverflow.com/questions/15930782/call-java-jar-myfile-jar-with-additional-classpath-option

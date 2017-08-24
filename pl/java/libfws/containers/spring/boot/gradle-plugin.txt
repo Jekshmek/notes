@@ -1,3 +1,6 @@
+tasks:
+bootRun
+
 https://spring.io/blog/2017/04/05/spring-boot-s-new-gradle-plugin
 
 ref:
