@@ -1,3 +1,12 @@
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html
+
+2017:
+http://www.springboottutorial.com/integration-testing-for-spring-boot-rest-services
+2016:
+https://moelholm.com/2016/10/22/spring-boot-separating-tests/
+2015:
+http://www.frommknecht.net/spring-spock-docker-integration/
+
 web-mvc-test:
 https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
 

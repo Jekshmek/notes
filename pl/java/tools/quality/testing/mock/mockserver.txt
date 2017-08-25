@@ -1,0 +1,10 @@
+http://www.mock-server.com/
+https://github.com/jamesdbloom/mockserver
+
+https://mvnrepository.com/artifact/org.mock-server
+https://mvnrepository.com/artifact/org.mock-server/mockserver
+https://mvnrepository.com/artifact/org.mock-server/mockserver-core
+https://mvnrepository.com/artifact/org.mock-server/mockserver-client
+https://mvnrepository.com/artifact/org.mock-server/mockserver-logging
+https://mvnrepository.com/artifact/org.mock-server/mockserver-netty
+https://mvnrepository.com/artifact/org.mock-server/mockserver-integration-testing

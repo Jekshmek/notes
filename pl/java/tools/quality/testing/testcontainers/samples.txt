@@ -1,0 +1,13 @@
+https://github.com/testcontainers/testcontainers-java-examples
+
+gradle-based:
+https://github.com/bsideup/javaagent-boilerplate
+https://github.com/bsideup/javaagent-boilerplate/blob/master/src/test/java/support/GroovyTestApp.java
+https://github.com/bsideup/javaagent-boilerplate/blob/master/src/test/java/support/BasicTestApp.java
+https://github.com/bsideup/javaagent-boilerplate/blob/master/src/test/java/AgentTest.java
+
+https://hub.docker.com/r/zeroturnaround/groovy/~/dockerfile/
+FROM java:8
+
+simple-alpine-file-copy:
+https://github.com/testcontainers/testcontainers-java/blob/master/core/src/test/java/org/testcontainers/utility/DirectoryTarResourceTest.java
