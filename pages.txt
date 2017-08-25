@@ -4,11 +4,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 1                           - 1:03:00 (of 2:01:44)
-Goetz-PatternMatching                               -   41:00 (of   53:35)
+Sultanau - Spark Basics 1                           - 1:26:00 (of 2:01:44)
+Goetz-PatternMatching                               -   46:00 (of   53:35)
 
 Literature:
-Bykov-Krylov                                        -   20:00 (of 1:10:46)
+Bykov-Hofman                                        -   05:00 (of   54:09)
+  https://vk.com/video-2048479_456239068
 Malyshevski - Isumrud Town                          -   02:00 (of 2:03:18)
 Kaminskaya 7                                        -   40:00 (of 1:16:25)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -31,7 +32,7 @@ Sorokin - Context 18                                -   00:00 (of 1:23:58)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
-Savenkov                                            - 1:17:00 (of 2:04:45)
+Savenkov                                            - 1:30:00 (of 2:04:45)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Shteiman - Inklings                                 -   00:00 (of   47:49)
 

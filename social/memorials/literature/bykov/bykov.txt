@@ -115,6 +115,7 @@ Pairs:
     Gorky - Vladimir Maximov/Samsonov
     Turgenev - ?Nabokov
     Leonid Andreev - Lyudmila Petrushevskaya
+    Gorenshtein - Geddiss
 
 Bards
     Alexey Paperny

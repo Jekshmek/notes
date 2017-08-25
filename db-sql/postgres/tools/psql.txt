@@ -26,6 +26,9 @@ $ psql postgresql://dbmaster:5433/mydb?sslmode=require
 !!!
 \l
 \dn
+    list schemas
+\d <table>
+    describe table
 !!!
 
 \?
