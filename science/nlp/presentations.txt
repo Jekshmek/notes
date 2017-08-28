@@ -1,0 +1,6 @@
+2017:
+Harrison - NLP made easy in Python
+https://www.youtube.com/watch?v=hwkDjBDtKDM
+2016:
+Harrison - Modern NLP in Python
+https://www.youtube.com/watch?v=6zm9NC9uRkk
