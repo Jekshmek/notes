@@ -1,2 +1,6 @@
 SSL:
 https://github.com/OpenFeign/feign/pull/54
+
+src:
+https://github.com/OpenFeign/feign/blob/master/core/src/main/java/feign/Response.java
+    toString() - for tracing
