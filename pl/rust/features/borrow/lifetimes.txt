@@ -10,6 +10,7 @@ https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
 reddit:
 https://www.reddit.com/r/rust/comments/3tfsz1/im_reading_the_book_the_lifetimes_part_is_very/
 https://www.reddit.com/r/rust/comments/64zhjo/why_do_we_need_explicit_lifetimes/
+https://www.reddit.com/r/rust/comments/6w0r0m/lifetimes_of_structs/
 
 samples:
 http://rust.fastmail.com.user.fm/2017/02/rusty-buffers/

@@ -1,4 +1,5 @@
 2017:
+http://www.rust-tutorials.com/RustConf17/
 Matsakis - Rust - Putting Ownership to Use
 https://www.youtube.com/watch?v=wXoY91w4Agk
 

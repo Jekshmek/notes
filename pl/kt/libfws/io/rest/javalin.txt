@@ -5,3 +5,4 @@ https://javalin.io/tutorials/gradle-setup
 
 https://javalin.io/tutorials/html-forms-example-kotlin
 https://javalin.io/tutorials/email-sending-example-kotlin
+https://javalin.io/tutorials/auth-example
