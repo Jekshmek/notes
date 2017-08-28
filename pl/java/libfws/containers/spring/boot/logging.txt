@@ -1,3 +1,5 @@
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html
+
 logback:
 https://springframework.guru/using-yaml-in-spring-boot-to-configure-logback/
 https://springframework.guru/using-logback-spring-boot/

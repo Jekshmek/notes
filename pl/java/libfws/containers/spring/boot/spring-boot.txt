@@ -23,6 +23,8 @@ shell:
 
 CommandLineRunner:
 http://nixmash.com/java/using-spring-boot-commandlinerunner/
+http://howtodoinjava.com/spring/spring-boot/command-line-runner-interface-example/
+    -Drun.arguments="k1=v1,k2=v2,..."
 
 
 class to remotely-debug:
