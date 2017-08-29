@@ -4,7 +4,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 1                           - 1:41:00 (of 2:01:44)
+Sultanau - Spark Basics 2                           -   00:00 (of 2:06:03)
 
 Literature:
 Bykov-WinToEur                                      -   05:00 (of 1:04:04)
@@ -25,7 +25,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 1.2                                       -   00:00 (of   23:10)
-Ivliev - 32                                         -   00:00 (of   40:53)
+Ivliev - 33                                         -   00:00 (of   41:02)
 Sorokin - Context 18                                -   00:00 (of 1:23:58)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
