@@ -1,5 +1,11 @@
 https://www.testcontainers.org/usage/dockerfile.html
 
+src:
+https://github.com/testcontainers/testcontainers-java/blob/master/core/src/main/java/org/testcontainers/containers/GenericContainer.java
+
+https://github.com/testcontainers/testcontainers-java/blob/master/core/src/main/java/org/testcontainers/containers/FailureDetectingExternalResource.java
+    public class FailureDetectingExternalResource implements TestRule
+
 @Rule
 public GenericContainer server = new GenericContainer(
     new ImageFromDockerfile()
