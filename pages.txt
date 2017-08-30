@@ -26,7 +26,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 1.2                                       -   00:00 (of   23:10)
 Ivliev - 33                                         -   00:00 (of   41:02)
-Sorokin - Context 18                                -   00:00 (of 1:23:58)
+Sorokin - Context 18                                - 1:01:00 (of 1:23:58)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
