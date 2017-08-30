@@ -1,4 +1,4 @@
-http://kotlinlang.org/docs/reference/using-gradle.html
+https://kotlinlang.org/docs/reference/using-gradle.html
 https://kotlinlang.org/docs/reference/compatibility.html
 
 https://plugins.gradle.org/plugin/org.jetbrains.kotlin.kapt
