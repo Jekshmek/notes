@@ -1,0 +1,2 @@
+http://www.opencodez.com/java/quartz-scheduler-with-spring-boot.htm
+https://github.com/pavansolapure/opencodez-samples/tree/master/quartz-demo

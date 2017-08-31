@@ -1,0 +1,8 @@
+http://pitest.org/
+https://github.com/hcoles/pitest
+
+http://pitest.org/quickstart/
+
+http://gradle-pitest-plugin.solidsoft.info/
+
+http://pitest.org/quickstart/mutators/
