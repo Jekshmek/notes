@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/nomicon/ffi.html#the-nullable-pointer-optimization
+https://doc.rust-lang.org/book/second-edition/ch20-01-single-threaded.html#a-single-threaded-web-server
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -42,7 +42,6 @@ http://accu.org/index.php/journals/c78/             - 140
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
 Books:
-Narkhede - Kafka The Definitive Guide               - 223..224
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
