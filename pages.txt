@@ -8,7 +8,7 @@ Sultanau - Spark Basics 2                           -   00:00 (of 2:06:03)
 
 Literature:
 Bykov-WinToEur                                      -   05:00 (of 1:04:04)
-Malyshevski - Isumrud Town                          - 1:06:00 (of 2:03:18)
+Malyshevski - Isumrud Town                          - 1:25:00 (of 1:07:34)
 Kaminskaya 8                                        -   00:00 (of )
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -26,7 +26,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 1.2                                       -   00:00 (of   23:10)
 Ivliev - 33                                         -   00:00 (of   41:02)
-Sorokin - Context 18                                - 1:01:00 (of 1:23:58)
+Sorokin - Context 18                                - 1:17:00 (of 1:23:58)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
