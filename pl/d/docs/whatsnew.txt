@@ -1,1 +1,5 @@
 https://wiki.dlang.org/Vision/2017H2
+
+2.
+.076
+http://www.opennet.ru/opennews/art.shtml?num=47120
