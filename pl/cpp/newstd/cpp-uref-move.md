@@ -37,3 +37,6 @@
 
 * [RSDN - Vladimirov - C++ Feeling Away - Features of the new Language Standard] (http://www.rsdn.ru/article/cpp/Cpp11NewStd.xml)
 
+## C++17 related
+
+* [Revzyn - Value Categories in C++17] (https://medium.com/@barryrevzin/value-categories-in-c-17-f56ae54bccbe)
