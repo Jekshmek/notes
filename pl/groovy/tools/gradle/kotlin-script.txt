@@ -1,6 +1,7 @@
 https://blog.gradle.org/kotlin-scripting-update
 
 https://gradle.github.io/gradle-script-kotlin-docs/api/
+https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
 https://github.com/gradle/gradle-script-kotlin
 ->
@@ -31,3 +32,10 @@ class DocumentationPlugin : Plugin<Project> {
 }
 
 data class Book(val name: String, var sourceFile: File)
+
+???
+plugins {
+    `kotlin-dsl`
+}
+
+defaultTasks("hello")

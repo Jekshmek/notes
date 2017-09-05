@@ -1,0 +1,12 @@
+Kirk - Thoughtful Machine Learning with Python
+Kubat - An Introduction to Machine Learning (short)
+Alpadyn - Machine Learning (mostly textual)
+Dean - Big Data Mining and Machine Learning
+Muller - Introduction to Machine Learning with Python
+Soares - Neural Network Programming with Java
+Harrington - Machine Learning in Action
+
+Very good begin on DL:
+Beysolow - Introduction to Deep Learning Using R
+Sugomori - Java DL Essentials 
+https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
