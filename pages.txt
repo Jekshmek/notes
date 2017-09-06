@@ -1,17 +1,16 @@
 URLs:
-https://doc.rust-lang.org/book/second-edition/ch20-01-single-threaded.html#validating-the-request-and-selectively-responding
+https://doc.rust-lang.org/book/second-edition/ch20-02-slow-requests.html#simulating-a-slow-request-in-the-current-server-implementation
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 2                           -   36:00 (of 2:06:03)
+Sultanau - Spark Basics 2                           -   55:00 (of 2:06:03)
 
 Literature:
-01-moissei                                          -   05:00 (of   26:18)
-Malishevsky - Kafka                                 - 1:42:00 (of 2:10:42)
-Malishevsky - Pushkin                               - 1:22:00 (of 2:11:40)
+02-samuil                                           -   18:00 (of   26:00)
+Malishevsky - Pushkin                               - 1:47:00 (of 2:11:40)
 Malishevsky - Gamsun                                -   42:00 (of 2:14:00)
-Bykov - Lermontov                                   -   11:00 (of   52:30)
+Bykov - Nekrasov                                    -   00:00 (of   49:27)
   https://www.youtube.com/playlist?list=PLJQdy_SVymBP9L_48RZw6grzPAA7Ah3YA
 Kaminskaya 9                                        -   09:00 (of 1:25:36)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -30,7 +29,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 1.4                                       -   00:00 (of 1:00:26)
 Ivliev - 34                                         -   00:00 (of   34:39)
-Sorokin - Context 18                                - 1:17:00 (of 1:23:58)
+Sorokin - Context 20                                -   00:00 (of 1:12:44)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
