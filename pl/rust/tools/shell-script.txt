@@ -71,3 +71,4 @@ https://github.com/redox-os/coreutils
 https://github.com/redox-os/coreutils/blob/master/src/bin/tee.rs
 
 https://github.com/sighol/tree-rs
+http://mattgathu.github.io/writing-cli-app-rust/

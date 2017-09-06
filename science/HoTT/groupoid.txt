@@ -158,6 +158,6 @@ https://gitter.im/groupoid/om/archives/
     2016/02/20
 https://gitter.im/groupoid/exe/archives/
     2016/02/25
-    ...2017/04/28
+    ...2017/06/30
 https://gitter.im/groupoid/coq/archives/
-    2017/04/28
+    2017/06/13

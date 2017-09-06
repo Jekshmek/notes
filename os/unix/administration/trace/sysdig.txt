@@ -1,0 +1,32 @@
+https://www.sysdig.org
+https://github.com/draios/sysdig
+
+https://www.sysdig.org/install/
+manjaro: community/sysdig
+
+Getting Started with sysdig
+https://www.youtube.com/watch?v=UJ4wVrbP-Q8
+https://www.youtube.com/channel/UCDbiexphNqm5BkSFpQuxRAA/videos
+
+blog:
+https://sysdig.com/blog/announcing-sysdig/
+https://sysdig.com/blog/csysdig-explained-visually/
+https://sysdig.com/blog/announcing-csysdig-strace-htop-lua-container-support/
+https://sysdig.com/blog/let-light-sysdig-adds-container-visibility/
+https://sysdig.com/blog/troubleshooting-containers-when-theyre-gone/
+
+wiki:
+https://www.sysdig.org/wiki/
+https://www.sysdig.org/wiki/sysdig-overview/
+https://www.sysdig.org/wiki/chisels-overview/
+https://www.sysdig.org/wiki/chisels-user-guide/
+https://www.sysdig.org/wiki/csysdig-view-format-reference/
+https://github.com/draios/sysdig/wiki
+https://github.com/draios/sysdig/wiki/Tracers
+https://github.com/draios/sysdig/wiki/csysdig-View-Format-Reference
+
+https://www.sysdig.org/wiki/sysdig-examples/
+
+man:
+https://github.com/draios/sysdig/blob/dev/userspace/sysdig/man/sysdig.md
+https://github.com/draios/sysdig/blob/dev/userspace/sysdig/man/csysdig.md
