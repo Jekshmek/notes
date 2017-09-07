@@ -7,9 +7,13 @@ presentations:
 Long - 2017 - Spring Web Flux Reactive Client
 https://www.youtube.com/watch?v=leZdgr-O4LE
 
+doc:
+https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/web/webflux.adoc
+
 ref:
 http://docs.spring.io/spring-framework/docs/5.0.x/spring-framework-reference/html/web-reactive.html
-http://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/htmlsingle/#web-reactive-feature-overview
+https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/htmlsingle/#web-reactive-feature-overview
+https://docs.spring.io/spring/docs/5.0.x/spring-framework-reference/web.html#web-reactive
 
 artifacts:
 http://mvnrepository.com/artifact/org.springframework/spring-webflux

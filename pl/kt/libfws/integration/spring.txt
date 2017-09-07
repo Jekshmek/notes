@@ -1,6 +1,7 @@
 articles:
 2017:
 https://blog.simon-wirtz.de/spring-webflux-with-kotlin-reactive-web/
+https://dzone.com/articles/spring-webflux-with-kotlin-reactive-web
 https://spring.io/blog/2017/08/01/spring-framework-5-kotlin-apis-the-functional-way
 https://springframework.guru/what-is-new-with-spring-framework-5/
 https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
@@ -14,6 +15,9 @@ https://vimeo.com/221399691
 https://www.slideshare.net/SiarheiKrukau/spring-5-kotlin
 https://github.com/madhead/playgrounds/tree/master/sprink5
 https://www.youtube.com/watch?v=tBnRIZkVg-Q
+
+doc:
+https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/kotlin.adoc
 
 WebFlux:
 https://speakerdeck.com/sdeleuze/spring-framework-5-dot-0-themes-and-trends

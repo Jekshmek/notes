@@ -1,1 +1,3 @@
+https://crates.io/crates/askama
+https://docs.rs/askama
 https://github.com/djc/askama
