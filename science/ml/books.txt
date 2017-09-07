@@ -2,4 +2,5 @@ intro:
 Grigorev - Mastering Java for Data Science
 
 misc books review:
+https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
