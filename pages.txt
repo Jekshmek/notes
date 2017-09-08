@@ -4,7 +4,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 2                           -   55:00 (of 2:06:03)
+Sultanau - Spark Basics 2                           - 1:10:00 (of 2:06:03)
 
 Literature:
 03-david                                            -   00:00 (of   26:05)
