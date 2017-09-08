@@ -1,5 +1,5 @@
 URLs:
-https://doc.rust-lang.org/book/second-edition/ch20-02-slow-requests.html#simulating-a-slow-request-in-the-current-server-implementation
+https://doc.rust-lang.org/book/second-edition/ch20-03-designing-the-interface.html#compiler-driven-development-to-get-the-api-compiling
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
