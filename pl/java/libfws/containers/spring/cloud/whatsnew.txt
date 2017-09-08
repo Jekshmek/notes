@@ -1,0 +1,4 @@
+https://spring.io/blog/2017/08/29/spring-cloud-edgware-m1-is-now-available
+
+http://cloud.spring.io/spring-cloud-static/Edgware.M1
+http://cloud.spring.io/spring-cloud-static/Edgware.M1/#_eurekaclient_without_jersey

@@ -15,6 +15,8 @@ cargo
         --features 'simd-accel avx-accel'
         --features="experimental"
         --target x86_64-unknown-linux-musl
+    rustc
+        --release -- -C target-cpu=skylake
     update
         figure out all the latest versions and try to update (Cargo.lock)
     install-update -a
