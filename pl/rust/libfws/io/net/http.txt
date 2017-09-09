@@ -1,2 +1,6 @@
-https://github.com/carllerche/http
+https://crates.io/crates/http/
+https://docs.rs/http
+https://github.com/hyperium/http
+
 https://users.rust-lang.org/t/announcing-the-http-crate/12123
+
