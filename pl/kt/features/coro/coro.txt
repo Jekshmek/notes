@@ -16,6 +16,8 @@ articles:
 2017:
 http://blog.alexnesterov.com/post/kotlin-coroutines-and-spring-5/
 https://dzone.com/articles/approaching-kotlin-coroutines-concurrent-programmi
+http://akarnokd.blogspot.com.by/2017/09/rxjava-vs-kotlin-coroutines-quick-look.html
+http://akarnokd.blogspot.com.by/2017/09/rewriting-rxjava-with-kotlin-coroutines.html
 
 https://blog.simon-wirtz.de/kotlin-coroutines-guide/
 https://habrahabr.ru/company/alfa/blog/336228/

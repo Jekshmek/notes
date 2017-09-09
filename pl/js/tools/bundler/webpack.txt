@@ -20,3 +20,6 @@ output
 loaders
     - return compilations
 plugins
+
+HMR
+https://webpack.js.org/concepts/hot-module-replacement/
