@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=u4alGiomYP4
 https://www.youtube.com/watch?v=fTUwdXUFfI8
 Real-time Twitter Sentiment Analytics with TensorFlow and Spring Cloud Dataflow
 https://www.youtube.com/watch?v=QzF2Iii4s5c
+
+2016:
+CS224D Lecture 7 - Introduction to TensorFlow !!!
+https://www.youtube.com/watch?v=l6K-MFgIEjc

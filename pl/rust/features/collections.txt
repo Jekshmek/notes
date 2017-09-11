@@ -1,0 +1,2 @@
+2017:
+https://medium.com/journey-to-rust/collections-d159244197f1

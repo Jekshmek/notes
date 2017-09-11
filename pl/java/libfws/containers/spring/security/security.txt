@@ -1,1 +1,5 @@
 http://www.devglan.com/faq/spring-security-example-spring-boot
+
+2017:
+Stateless auth using Spring Security and JWT (JJWT)
+https://habrahabr.ru/post/337600/
