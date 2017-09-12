@@ -1,3 +1,8 @@
+Articles:
+https://runnable.com/docker/introduction-to-docker-compose
+https://runnable.com/docker/advanced-docker-compose-configuration
+https://runnable.com/docker/docker-compose-networking
+
 install:
 https://github.com/docker/compose/releases
 
@@ -7,6 +12,15 @@ sudo mv docker-compose /usr/local/bin/
 
 compose-file:
 https://docs.docker.com/compose/compose-file/
+
+docker-compose.yml and docker-compose.override.yml
+    -f file1.yml -f file2.yml
+
+    env-vars...
+        ports:
+            - "${EXTERNAL_PORT}:5000"
+            - "#EXTERNAL_PORT:5000"
+            # $$... to skip env-vars processing
 
 somename:
   build: folder/
@@ -27,5 +41,29 @@ somename:
   volumes:
     - /var/run/docker.sock:/run/docker.sock
 
+? dns, dns_search
+healthcheck
+extends
+
 compose-env:
 https://docs.docker.com/compose/env-file/
+
+compose
+    -p <project-name>, $COMPOSE_PROJECT_NAME
+
+tools:
+https://github.com/vishnubob/wait-for-it
+    services:
+        web:
+            ...
+            depends_on:
+                - db
+            entrypoint: "./wait-for-it.sh db:5432"
+
+cmd-line
+    docker
+        service
+            ls
+        stack
+            deploy
+                --compose-file ...
