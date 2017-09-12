@@ -7,7 +7,7 @@ https://habrahabr.ru/company/flant/blog/329136/
 components:
 runC
 containerd
-  https://habrahabr.ru/company/flant/blog/325358/o
+  https://habrahabr.ru/company/flant/blog/325358/
   https://github.com/docker/containerd
   https://github.com/docker/containerd/blob/master/design/architecture.md
 opencontainers

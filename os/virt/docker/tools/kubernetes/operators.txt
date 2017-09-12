@@ -1,0 +1,4 @@
+https://habrahabr.ru/company/flant/blog/326414/
+
+https://github.com/CrunchyData/postgres-operator
+https://habrahabr.ru/post/301370/

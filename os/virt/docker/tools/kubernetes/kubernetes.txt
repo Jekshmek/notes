@@ -1,3 +1,5 @@
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 51|LXF204 - kubernetes
 
 edX course:
@@ -7,7 +9,3 @@ minikube:
 https://github.com/kubernetes/minikube
 aur - minikube
 https://habrahabr.ru/company/flant/blog/333470/
-
-kubectl:
-https://habrahabr.ru/company/flant/blog/333956/
-https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/

@@ -1,2 +1,5 @@
 https://github.com/pingcap/grpc-rs
 https://github.com/stepancheg/grpc-rust
+
+https://pingcap.github.io/blog/2017/09/12/futuresandgrpc/
+https://air.mozilla.org/bay-area-rust-meetup-august-2017/
