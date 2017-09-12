@@ -3,6 +3,7 @@ Thompson - The Craft of FP (Lazy - 337/354, Time and Space - 413/430)
 Marlow - ... beginning
 
 Articles:
+https://www.fpcomplete.com/blog/2017/09/all-about-strictness
 http://eax.me/lazy-evaluation/
 http://users.aber.ac.uk/afc/stricthaskell.html
 http://habrahabr.ru/post/131910/
