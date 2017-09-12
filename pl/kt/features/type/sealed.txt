@@ -1,2 +1,5 @@
+https://kotlinlang.org/docs/reference/sealed-classes.html
+
 https://blog.simon-wirtz.de/sealed-classes-kotlin-explanation/
 https://medium.com/@philipesteiff/kotlin-what-is-a-sealed-classe-1e535c416519
+https://medium.com/bbc-design-engineering/kotlin-an-exploration-of-sealed-classes-21e52ae75678
