@@ -6,9 +6,10 @@ https://runnable.com/docker/docker-compose-networking
 install:
 https://github.com/docker/compose/releases
 
-curl -L https://github.com/docker/compose/releases/download/1.7.1/docker-compose-`uname -s`-`uname -m` > docker-compose
-chmod +x docker-compose
-sudo mv docker-compose /usr/local/bin/
+pyinstaller:
+https://github.com/docker/compose/blob/master/script/build/windows.ps1
+https://github.com/docker/compose/blob/master/script/build/linux-entrypoint
+https://github.com/docker/compose/blob/master/docker-compose.spec
 
 compose-file:
 https://docs.docker.com/compose/compose-file/
@@ -48,8 +49,6 @@ extends
 compose-env:
 https://docs.docker.com/compose/env-file/
 
-compose
-    -p <project-name>, $COMPOSE_PROJECT_NAME
 
 tools:
 https://github.com/vishnubob/wait-for-it
@@ -59,11 +58,3 @@ https://github.com/vishnubob/wait-for-it
             depends_on:
                 - db
             entrypoint: "./wait-for-it.sh db:5432"
-
-cmd-line
-    docker
-        service
-            ls
-        stack
-            deploy
-                --compose-file ...
