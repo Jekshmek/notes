@@ -1,4 +1,5 @@
 Articles:
+https://habrahabr.ru/company/jugru/blog/337534/
 http://iteratrlearning.com/java9/2016/08/06/java9-streams.html
 
 http://stackoverflow.com/questions/32859038/java-8-list-to-map-with-stream

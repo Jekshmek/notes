@@ -1,0 +1,7 @@
+https://vibed.org/
+https://github.com/vibe-d/vibe.d
+https://github.com/vibe-d/vibe-core
+
+https://vibed.org/docs
+
+https://github.com/vibe-d/vibe.d/wiki

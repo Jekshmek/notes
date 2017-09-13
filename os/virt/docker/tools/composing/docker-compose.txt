@@ -58,3 +58,8 @@ https://github.com/vishnubob/wait-for-it
             depends_on:
                 - db
             entrypoint: "./wait-for-it.sh db:5432"
+
+addons:
+https://github.com/dnephin/compose-addons
+https://github.com/dnephin/compose-addons#dcao-include
+https://github.com/docker/compose/issues/318

@@ -1,0 +1,4 @@
+https://github.com/Netflix/Hystrix
+
+2017:
+https://habrahabr.ru/post/337864/
