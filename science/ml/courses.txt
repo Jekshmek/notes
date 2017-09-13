@@ -12,8 +12,10 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
     http://course.fast.ai/
     https://github.com/fastai/courses
     http://wiki.fast.ai/index.php/Main_Page
-Brovko - NNs 2016
+Stepik - Brovko - NNs 2016
+https://stepik.org/course/401
 https://www.youtube.com/playlist?list=PLwwk4BHih4fjZmSEwx_RcR1na6cQiV90z
+
 ComputerScienceCenter 2016 - ML
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
 
