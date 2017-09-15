@@ -1,3 +1,9 @@
+https://hub.docker.com/_/rust/
+
+
+https://github.com/mcandre/docker-rustup
+https://hub.docker.com/r/mcandre/docker-rustup/
+
 https://www.reddit.com/r/rust/comments/6ehs5y/continuously_updated_rust_docker_image_for_stable/
 
 https://hub.docker.com/r/corey/rust-alpine/

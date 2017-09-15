@@ -20,3 +20,10 @@ Family 2
 Internal:
     http://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-v-sorokina-zhivaya-psaltir-den-za-dnem/ 
     http://predanie.ru/sorokin-vladimir-vladimirovich/kak-slyshat-boga/
+
+Predanie:
+http://predanie.ru/sorokin-vladimir-vladimirovich/
+Listened:
+    http://predanie.ru/sorokin-vladimir-vladimirovich/eshatologicheskaya-glubina-zaveta/
+
+    http://predanie.ru/sorokin-vladimir-vladimirovich/istoriko-kulturnyy-kontekst-vethogo-zaveta/
