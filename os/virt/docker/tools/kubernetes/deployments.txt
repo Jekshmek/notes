@@ -1,0 +1,1 @@
+Declarative opertations description agaist a group of pods

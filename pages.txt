@@ -6,13 +6,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 Video:
 Sultanau - Spark Basics 3                           -   02:00 (of 3:00:32)
 Shasholko - A first glimpse at Java 9               -   01:00 (of 1:33:23)
+Grebennikov - Kubernetes                            -   17:00 (of)
 
 Literature:
-06-elisey                                           -   00:00 (of   26:03)
-Malishevsky - Lermontov                             -   52:00 (of 3:31:36)
-Bykov - Tolstoy                                     -   30:30 (of   44:54)
+07-isaya                                            -   00:00 (of   26:21)
+Malishevsky - Lermontov                             - 1:00:00 (of 3:31:36)
+Malishevsky - DeUnamuno                             - 1:19:00 (of 2:20:04)
+Bykov - Dostoevsky                                  -   00:00 (of   50:23)
   https://www.youtube.com/playlist?list=PLJQdy_SVymBP9L_48RZw6grzPAA7Ah3YA
-Kaminskaya 11                                       -   17:00 (of 1:13:30)
+Kaminskaya 11                                       -   32:00 (of 1:13:30)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL

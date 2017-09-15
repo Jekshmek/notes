@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+    name: hello
+spec:
+    containers:
+    - name: hello
+      image: busybox
+      imagePullPolicy: Never # don't check updates from DockerHub
+      command:
+      - sleep
+      - "60"
