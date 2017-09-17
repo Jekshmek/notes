@@ -17,6 +17,7 @@ https://github.com/madhead/playgrounds/tree/master/sprink5
 https://www.youtube.com/watch?v=tBnRIZkVg-Q
 
 doc:
+https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/kotlin.html
 https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/kotlin.adoc
 
 WebFlux:
