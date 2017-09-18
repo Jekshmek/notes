@@ -72,5 +72,3 @@ https://github.com/redox-os/coreutils/blob/master/src/bin/tee.rs
 
 https://github.com/sighol/tree-rs
 http://mattgathu.github.io/writing-cli-app-rust/
-
-https://www.2daygeek.com/exa-a-modern-replacement-for-ls-command-linux/
