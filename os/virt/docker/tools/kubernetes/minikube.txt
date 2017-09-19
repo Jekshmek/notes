@@ -1,0 +1,7 @@
+https://github.com/kubernetes/minikube
+
+https://kubernetes.io/docs/tasks/tools/install-minikube/
+https://github.com/kubernetes/minikube/releases
+AUR minikube
+
+https://kubernetes.io/docs/getting-started-guides/minikube/

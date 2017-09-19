@@ -2,3 +2,8 @@ Fiedel - From Research to Production with TensorFlow Serving
 https://www.youtube.com/watch?v=sqYdlSF0BI8
 
 https://github.com/tensorflow/serving/tree/master/tensorflow_serving/tools/docker
+
+https://www.tensorflow.org/serving/serving_inception
+
+whatsnew:
+https://developers.googleblog.com/2017/07/tensorflow-serving-10.html

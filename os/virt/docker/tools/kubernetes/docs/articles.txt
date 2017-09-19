@@ -1,0 +1,6 @@
+2017:
+https://habrahabr.ru/company/microsoft/blog/337626/
+https://habrahabr.ru/company/microsoft/blog/337708/
+
+http://colinsalmcorner.com/post/devops-with-kubernetes-and-vsts-part-1
+http://colinsalmcorner.com/post/devops-with-kubernetes-and-vsts-part-2
