@@ -1,0 +1,4 @@
+Logical group of PODs
+New pods are added dynamically
+Dead-ones are removed
+Single point of contact

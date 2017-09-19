@@ -1,6 +1,11 @@
 intro:
 Grigorev - Mastering Java for Data Science
 
+lists:
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books
+https://proglib.io/p/machine-learning-free-books-list/
+
 misc books review:
 https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
