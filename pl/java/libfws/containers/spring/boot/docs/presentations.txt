@@ -1,0 +1,10 @@
+Bhave - 2017 - A sneak peak into Spring Boot 2.0
+https://vimeo.com/233816622
+
+Syer - Bootiful Applications with Spring Boot
+https://speakerdeck.com/snicoll/bootiful-applications-with-spring-boot
+
+Bootiful Microservices
+http://zeroturnaround.com/rebellabs/building-bootiful%C2%AD-microservices-with-spring-cloud-by-josh-long/
+
+http://www.slideshare.net/chris.e.richardson/developing-and-deploying-spring-boot-applications-with-docker-oakjug
