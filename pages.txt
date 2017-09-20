@@ -6,14 +6,15 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 3                           -   38:00 (of 3:00:32)
-Shasholko - A first glimpse at Java 9               -   18:00 (of 1:33:23)
-Grebennikov - Kubernetes                            -   41:00 (of 1:11:26)
+Sultanau - Spark Basics 3                           -   56:00 (of 3:00:32)
+Shasholko - A first glimpse at Java 9               -   38:00 (of 1:33:23)
 
 Literature:
 08-ieremiya                                         -   00:00 (of   26:14)
-Malishevsky - Lermontov                             - 2:33:00 (of 3:31:36)
-Bykov - Dostoevsky                                  -   36:00 (of   50:23)
+Malishevsky - Lermontov                             -   01:00 (of 1:38:44)
+Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
+Bykov - Podzemka                                    -   26:00 (of 1:51:11)
+Bykov - Dostoevsky                                  -   38:00 (of   50:23)
   https://www.youtube.com/playlist?list=PLJQdy_SVymBP9L_48RZw6grzPAA7Ah3YA
 Kaminskaya 11                                       -   32:00 (of 1:13:30)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
