@@ -1,20 +1,20 @@
 URLs:
-http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/#linked-lists-waste-less-space
+http://cglab.ca/%7Eabeinges/blah/too-many-lists/book/first-layout.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jul 7
+  Jul 15
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 3                           -   56:00 (of 3:00:32)
-Shasholko - A first glimpse at Java 9               -   38:00 (of 1:33:23)
+Sultanau - Spark Basics 3                           - 1:15:00 (of 3:00:32)
+Shasholko - A first glimpse at Java 9               -   55:00 (of 1:33:23)
 
 Literature:
 08-ieremiya                                         -   00:00 (of   26:14)
 Malishevsky - Lermontov                             -   01:00 (of 1:38:44)
 Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
-Bykov - Podzemka                                    -   26:00 (of 1:51:11)
-Bykov - Dostoevsky                                  -   38:00 (of   50:23)
+Bykov - Karamazov                                   -   19:00 (of   50:54)
+Bykov - ChehovGorky                                 -   00:00 (of   46:45)
   https://www.youtube.com/playlist?list=PLJQdy_SVymBP9L_48RZw6grzPAA7Ah3YA
 Kaminskaya 11                                       -   32:00 (of 1:13:30)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
@@ -35,6 +35,7 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
+Filonik                                             -   16:00 (of 2:53:43)
 
 Tracking:
 Razbor Poletov                                      - 140

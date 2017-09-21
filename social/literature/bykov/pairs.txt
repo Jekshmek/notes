@@ -1,6 +1,5 @@
 Pushkin - Pasternak (?Mayak)
 Esenin - Vysotsky
-Dostoevsky - Solzhenitsyn
 Batyushkov - Slutsky/Mandelshtam
 Zhukovsky - Blok
 Blok - Okudjava
@@ -9,6 +8,8 @@ Nekrasov - Tvardovsky
     Tvardovsky: Stranstvuyuschie i Rabotayushie (rastvoryayutsya v poryve artelnogo truda, dlya snyatiya existentialnoy problematiki)
         Novizna - stavka na intelligenciyu
     Esenin/Mayak (piyanstvo/kartezhnichestvo)
+Dostoevsky - Solzhenitsyn
+Chernyshevsky - Andrei Sinyavsky
 Lermontov - Gumilev
 Gorky - Vladimir Maximov/Samsonov/Prilepin
 Turgenev - ?Nabokov
