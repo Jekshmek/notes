@@ -4,6 +4,7 @@ cargo
     --version [--verbose]
     install --list
         list installed crates/packages
+        --git https://github.com/org/name
     new <prj-name>
         --bin
     check

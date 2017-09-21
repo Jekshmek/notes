@@ -3,3 +3,18 @@ http://blog.docker.com/2013/07/docker-desktop-your-desktop-over-ssh-running-insi
 #spikes/max/builder
 https://github.com/gregwebs/ghc-docker-dev/blob/master/Dockerfile
 
+webex:
+http://blog.michelemattioni.me/2016/02/09/how-to-get-webex-running-on-an-ubuntu-smoothly/
+
+https://github.com/blues-man/docker-webex
+https://hub.docker.com/r/bluesmanyo/webex/
+
+https://github.com/mbessler/ff32-webex
+https://hub.docker.com/r/mbessler/ff32-webex/
+
+https://hub.docker.com/r/dnk8n/docker-webex/
+http://nickapos.blogspot.com.by/2016/10/getting-webex-to-run-on-linux.html
+
+https://github.com/yohanakh/webex-docker
+
+https://www.snip2code.com/Snippet/1402918/Join-Webex-meeting-using-in-Docker

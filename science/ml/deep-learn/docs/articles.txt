@@ -1,3 +1,6 @@
+2017
+https://habrahabr.ru/company/mailru/blog/338248/ (review of achievements)
+
 2015
 Walker - Deep Convolutional Neural Networks
 http://www.doc.ic.ac.uk/%7Empd37/theses/DeepEEG_IanWalker2015.pdf

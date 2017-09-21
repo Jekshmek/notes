@@ -1,0 +1,2 @@
+https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
+http://blog.xebia.com/create-the-smallest-possible-docker-container/
