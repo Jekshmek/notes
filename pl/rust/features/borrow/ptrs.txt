@@ -29,6 +29,7 @@ pub mod std {
 
 Box<T>
     for allocating vals on the heap
+    https://doc.rust-lang.org/std/boxed/
 Rc<T>
     refcounted type, so data can have multiple owners
     ! single-thread-only ! we can only read immutable refs of T
