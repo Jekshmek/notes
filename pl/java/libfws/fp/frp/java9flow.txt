@@ -1,2 +1,6 @@
+articles:
 http://akarnokd.blogspot.com.by/2017/09/java-9-flow-api-mapping-asynchronously.html
 http://akarnokd.blogspot.com.by/2017/09/java-9-flow-api-ordered-merge.html
+
+books:
+Jog - Reactive Programming with Java 9

@@ -1,6 +1,3 @@
-TaskRunner:
-Grunt.js (http://gruntjs.com/)
-
 Macro:
 http://sweetjs.org/
 https://github.com/mozilla/sweet.js
