@@ -10,7 +10,7 @@ Sultanau - Spark Basics 3                           - 1:38:00 (of 3:00:32)
 Shasholko - A first glimpse at Java 9               - 1:20:00 (of 1:33:23)
 
 Literature:
-Bykov - Rap                                         -   41:00 (of 1:15:09)
+Bykov - Rap                                         -   47:00 (of 1:15:09)
 08-ieremiya                                         -   00:00 (of   26:14)
 Malishevsky - Lermontov                             -   01:00 (of 1:38:44)
 Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
