@@ -10,3 +10,4 @@ ScriptableObject.putProperty(scope, "log", LOG);
 ScriptableObject.putProperty(scope, "name", name);
 ...
 
+https://stackoverflow.com/questions/11616630/json-stringify-avoid-typeerror-converting-circular-structure-to-json/
