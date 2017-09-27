@@ -223,6 +223,9 @@ dhall-other-pls:
 https://github.com/nanotech/dhall-rs
 https://github.com/missingfaktor/dhall-scala
 
+dhall-strictness:
+http://www.haskellforall.com/2017/09/type-driven-strictness.html
+
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html
