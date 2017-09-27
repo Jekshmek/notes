@@ -2,5 +2,8 @@ bayesian:
 https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
+naive bayes:
+https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+
 workshop 2016:
 https://www.youtube.com/channel/UC_LBLWLfKk5rMKDOHoO7vPQ
