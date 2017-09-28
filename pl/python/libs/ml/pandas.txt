@@ -1,0 +1,5 @@
+http://pandas.pydata.org/
+https://github.com/pandas-dev/pandas
+
+presentations:
+https://www.slideshare.net/dyakonov/pandas-54795658

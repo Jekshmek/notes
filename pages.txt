@@ -1,7 +1,7 @@
 URLs:
 http://cglab.ca/~abeinges/blah/too-many-lists/book/second-option.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Sep 11
+  Sep 15
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 

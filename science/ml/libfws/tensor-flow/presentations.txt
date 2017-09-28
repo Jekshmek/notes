@@ -1,4 +1,6 @@
 2017:
+Edureka - Intro to TF
+https://www.youtube.com/watch?v=uh2Fh6df7Lg
 Dean - TensorFlow with XLA
 https://autodiff-workshop.github.io/slides/JeffDean.pdf
 Gorner - Tensorflow and DL - without a PhD
