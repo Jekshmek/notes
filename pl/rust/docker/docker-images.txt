@@ -12,3 +12,5 @@ https://github.com/frewsxcv/docker-rust-alpine
 
 https://github.com/TomasTomecek/rust-container
 https://hub.docker.com/r/tomastomecek/rust/tags/
+
+https://github.com/rust-lang-nursery/docker-rust

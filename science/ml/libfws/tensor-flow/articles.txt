@@ -1,4 +1,5 @@
 https://habrahabr.ru/post/326650/
+https://habrahabr.ru/company/ods/blog/324898/
 
 pvs-check:
 https://habrahabr.ru/company/pvs-studio/blog/326256/

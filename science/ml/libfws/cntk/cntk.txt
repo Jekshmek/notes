@@ -1,0 +1,3 @@
+2017:
+https://docs.microsoft.com/en-us/cognitive-toolkit/reasons-to-switch-from-tensorflow-to-cntk
+https://habrahabr.ru/company/microsoft/blog/336552/
