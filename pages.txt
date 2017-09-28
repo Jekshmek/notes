@@ -1,21 +1,20 @@
 URLs:
 http://cglab.ca/~abeinges/blah/too-many-lists/book/second-option.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Sep 6
+  Sep 11
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Sultanau - Spark Basics 3                           - 2:17:00 (of 3:00:32)
+Sultanau - Spark Basics 3                           - 2:36:00 (of 3:00:32)
 
 Literature:
-Bykov - Medinsky                                    -   21:00 (of   57:00)
-08-ieremiya                                         -   00:00 (of   26:14)
-Malishevsky - Lermontov                             -   01:00 (of 1:38:44)
+09-iesekiil                                         -   00:00 (of   26:15)
+Malishevsky - Lermontov                             -   24:00 (of 1:38:44)
 Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
-Bykov - ChehovGorky                                 -   13:00 (of   46:45)
+Bykov - ChehovGorky                                 -   22:00 (of   46:45)
   https://www.youtube.com/playlist?list=PLJQdy_SVymBP9L_48RZw6grzPAA7Ah3YA
-Kaminskaya 11                                       -   50:00 (of 1:13:30)
+Kaminskaya 12                                       -   02:00 (of 1:09:05)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -34,7 +33,7 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
-Shteinman                                           -   15:00 (of 1:45:56)
+Shteinman                                           -   46:00 (of 1:45:56)
 
 Tracking:
 Razbor Poletov                                      - 140
