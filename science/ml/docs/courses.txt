@@ -5,6 +5,8 @@ Oxford
 https://github.com/oxford-cs-deepnlp-2017/lectures
 ComputerScienceCenter 2017 - ML
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
+CMU
+https://www.youtube.com/playlist?list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa
 
 2016:
 Howard - Practical DL for coders
