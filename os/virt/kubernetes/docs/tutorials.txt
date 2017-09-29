@@ -1,0 +1,2 @@
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+https://docs.bitnami.com/kubernetes/get-started-kubernetes/

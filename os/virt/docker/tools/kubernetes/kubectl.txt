@@ -1,4 +1,0 @@
-https://habrahabr.ru/company/flant/blog/333956/
-https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
-
-https://kubernetes.io/docs/tasks/tools/install-kubectl/
