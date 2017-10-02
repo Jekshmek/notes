@@ -7,7 +7,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 
 Video:
 Sultanau - Spark Basics 3                           - 2:46:00 (of 3:00:32)
-https://events.epam.com/events/sec-2017/talks/4277  -   22:00 (of   52:02)
+https://events.epam.com/events/sec-2017/talks/4277  -   30:00 (of   52:02)
 
 Literature:
 2017-09-29-odin-0005                                - 1:35:00 (of 1:45:27)
