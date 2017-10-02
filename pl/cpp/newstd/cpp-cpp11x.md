@@ -12,6 +12,7 @@
 * Gregorie - Professional Cpp 3rd ed
 * Gottschling - Discovering Modern C++
 * Rao - Teach Yourself Cpp in One Hour a Day
+* Roth - Clean Cpp
 
 ### Please, share the following Books if you have
 
