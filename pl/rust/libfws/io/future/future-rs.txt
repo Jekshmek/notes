@@ -1,0 +1,4 @@
+https://gist.github.com/Diggsey/6f924bf3f741bcdffd240faee102fe92
+https://www.reddit.com/r/rust/comments/73l6na/looking_into_the_future_a_post_explaining_how/
+
+https://github.com/alexcrichton/futures-rs/issues/129
