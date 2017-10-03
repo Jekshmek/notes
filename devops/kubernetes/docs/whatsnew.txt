@@ -1,1 +1,3 @@
+https://habrahabr.ru/company/flant/blog/338230/
 http://blog.kubernetes.io/2017/09/kubernetes-18-security-workloads-and.html
+https://github.com/kubernetes/features/blob/master/release-1.8/release-notes-draft.md

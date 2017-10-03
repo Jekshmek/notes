@@ -2,7 +2,7 @@ https://docs.docker.com/reference/run/
 
 --security-opt
 --restart
-    no/on-failure/always
+    no/on-failure/always/unless-stopped 
 
 Constraints:
 --cpu-shares

@@ -16,6 +16,7 @@ articles:
 https://quip.com/1TYDAdJowAgJ
 https://www.codeproject.com/Articles/1185089/An-Introduction-to-Kubernetes-with-Minikube
 https://medium.com/@claudiopro/getting-started-with-kubernetes-via-minikube-ada8c7a29620
+    https://habrahabr.ru/company/flant/blog/333470/
 http://www.bogotobogo.com/DevOps/DevOps-Kubernetes-1-Running-Kubernetes-Locally-via-Minikube.php
 
 minikube

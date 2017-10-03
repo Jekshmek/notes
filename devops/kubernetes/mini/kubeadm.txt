@@ -1,0 +1,2 @@
+https://kubernetes.io/docs/admin/kubeadm/
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/

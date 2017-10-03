@@ -1,7 +1,0 @@
-http://docs.rancher.com/os/
-http://docs.rancher.com/rancher/v1.5/en/
-http://docs.rancher.com/os/quick-start-guide/
-
-https://github.com/rancher/os
-
-http://www.opennet.ru/opennews/art.shtml?num=46370
