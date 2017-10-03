@@ -1,18 +1,14 @@
-http://www.freenom.com/ru/termsandconditions.html
-9824797722
+https://help.github.com/articles/about-supported-custom-domains/
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+https://help.github.com/articles/securing-your-github-pages-site-with-https/
+https://gist.github.com/coolaj86/e07d42f5961c68fc1fc8
 
 https://habrahabr.ru/post/304600/
 
 https://blog.jeaye.com/2016/03/01/github-pages-https/
 
-https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
-https://gist.github.com/coolaj86/e07d42f5961c68fc1fc8
-
-https://developer.ubuntu.com/en/blog/2016/02/17/how-host-your-static-site-https-github-pages-and-cloudflare/
-
 https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
-https://help.github.com/articles/about-supported-custom-domains/
-https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+    https://github.com/sheharyarn/sheharyarn.github.io/blob/master/CNAME
 
 https://about.gitlab.com/2016/04/11/tutorial-securing-your-gitlab-pages-with-tls-and-letsencrypt/
 
@@ -25,7 +21,6 @@ support.by
 
 gh-pages:
 http://stackoverflow.com/questions/23375422/how-to-setup-github-pages-to-redirect-dns-requests-from-subdomain-e-g-www-to
-https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 https://habrahabr.ru/post/323430/
 CNAME:

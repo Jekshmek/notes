@@ -1,0 +1,7 @@
+https://htmlacademy.ru/blog/99-github-as-hosting
+https://htmlacademy.ru/blog/48-how-to-register-domain
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+    https://help.github.com/articles/troubleshooting-custom-domains/
+
+https://help.github.com/articles/setting-up-an-apex-domain/
