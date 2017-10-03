@@ -1,0 +1,3 @@
+2017:
+https://dev.to/living_syn/calling-rust-from-c-6hk
+https://www.reddit.com/r/rust/comments/73wc4h/writing_rust_to_call_from_net/
