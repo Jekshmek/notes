@@ -1,0 +1,8 @@
+AUR
+    kubeadm-bin, kubeadm-git
+
+kubeadm
+    init
+    reset
+    join
+        --token=<some token> <master-ip-addr>

@@ -1,0 +1,2 @@
+AUR
+    kompose-bin - translate docker-compose files to k8s resources

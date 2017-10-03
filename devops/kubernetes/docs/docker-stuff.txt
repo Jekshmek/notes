@@ -6,6 +6,13 @@ docker ps --format 'table {{.Image}}t{{.Status}}'
 interesting containers:
 kubectl get pods --namespace=kube-system
 
+minicube pods:
+kube-addon-manager-minikube   1/1       Running   1          3d
+kube-dns-910330662-4tt1g      3/3       Running   3          3d
+kubernetes-dashboard-9tlvz    1/1       Running   2          3d
+
+other pods:
+
 fluentd-gcp
     cluster logs -> Google Cloud Logging service
 node-problem-detector
