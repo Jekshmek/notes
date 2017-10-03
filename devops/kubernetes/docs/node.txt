@@ -1,0 +1,6 @@
+vars:
+KUBE_GCE_INSTANCE_PREFIX
+    node name prefix (kubernetes-)
+
+kubernetes-master
+    master node name

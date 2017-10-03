@@ -31,7 +31,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 1.7                                       -   00:00 (of   55:37)
-Ivliev - 37                                         -   00:00 (of   37:27)
+Ivliev - 37                                         -   24:00 (of   37:27)
 Sorokin - Context 23                                -   01:00 (of 1:05:50)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
