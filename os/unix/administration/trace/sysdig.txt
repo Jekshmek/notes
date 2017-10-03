@@ -8,6 +8,9 @@ Getting Started with sysdig
 https://www.youtube.com/watch?v=UJ4wVrbP-Q8
 https://www.youtube.com/channel/UCDbiexphNqm5BkSFpQuxRAA/videos
 
+articles:
+https://habrahabr.ru/company/selectel/blog/222839/
+
 blog:
 https://sysdig.com/blog/announcing-sysdig/
 https://sysdig.com/blog/csysdig-explained-visually/
