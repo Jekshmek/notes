@@ -11,7 +11,7 @@ Intro to Java 9                                     -   01:00 (of   53:28)
 https://events.epam.com/events/sec-2017/talks/4373  -   11:00 (of   54:09)
 
 Literature:
-Bykov - July                                        -   35:00 (of 1:13:25)
+Bykov - July                                        -   40:00 (of 1:13:25)
 Bykov - Colba                                       -   05:00 (of 1:00:00)
   https://vk.com/video-2048479_456239322
 09-iesekiil                                         -   00:00 (of   26:15)
