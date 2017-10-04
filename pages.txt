@@ -6,7 +6,9 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Intro to Java 9                                     -   01:00 (of 53:28)
+Zinoviev - Intro to Spark                           -   16:00 (of 2:25:07)
+Intro to Java 9                                     -   01:00 (of   53:28)
+https://events.epam.com/events/sec-2017/talks/4373  -   11:00 (of   54:09)
 
 Literature:
 Bykov - Colba                                       -   05:00 (of 1:00:00)
@@ -14,7 +16,6 @@ Bykov - Colba                                       -   05:00 (of 1:00:00)
 09-iesekiil                                         -   00:00 (of   26:15)
 Malishevsky - Lermontov                             -   40:00 (of 1:38:44)
 Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
-Bykov - Proizvod                                    -   22:00 (of   44:31)
 Kaminskaya 12                                       -   02:00 (of 1:09:05)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
