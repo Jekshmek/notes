@@ -22,6 +22,7 @@ http://akarnokd.blogspot.com/2017/09/interoperation-between-rxjava-and.html
 
 https://blog.simon-wirtz.de/kotlin-coroutines-guide/
 https://habrahabr.ru/company/alfa/blog/336228/
+https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9
 
 
 tutorials:
