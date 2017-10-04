@@ -1,0 +1,4 @@
+https://github.com/killercup/assert_cli
+https://docs.rs/assert_cli
+
+https://mattgathu.github.io/testing-rust-cli-apps/

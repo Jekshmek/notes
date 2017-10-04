@@ -1,0 +1,4 @@
+https://gcc.godbolt.org/
+https://github.com/mattgodbolt/compiler-explorer
+https://github.com/dobokirisame/CompilerExplorer
+https://www.youtube.com/watch?v=I2cKVRzJhS0

@@ -29,7 +29,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 1.7                                       -   00:00 (of   55:37)
 Ivliev - 38                                         -   00:00 (of   40:42)
-Sorokin - Context 23                                -   01:00 (of 1:05:50)
+Sorokin - Context 24                                -   00:00 (of 1:11:22)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
@@ -38,7 +38,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Tracking:
 Razbor Poletov                                      - 141 47:00 (of 2:11:32)
 Bananas and Lens                                    - 39
-This week in rust                                   - 201
+This week in rust                                   - 202
 http://accu.org/index.php/journals/c78/             - 140
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
