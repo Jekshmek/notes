@@ -3,6 +3,8 @@ rustup target install i686-unknown-linux-musl
 cargo build --target=i686-unknown-linux-musl --release
 
 docker:
+ekidd/rust-musl-builder:stable
+ekidd/rust-musl-builder:nightly
 clux/muslrust:stable
 https://github.com/clux/muslrust/
 

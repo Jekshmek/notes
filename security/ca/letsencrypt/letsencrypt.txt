@@ -3,7 +3,12 @@ https://letsencrypt.org/about/
 https://letsencrypt.org/how-it-works/
 https://letsencrypt.org/getting-started/
 
+manual-mode:
+https://certbot.eff.org/docs/using.html#manual
+
 Articles:
+https://habrahabr.ru/post/270273/
+
 https://habrahabr.ru/post/325230/
 https://habrahabr.ru/post/318952/
 https://habrahabr.ru/post/301558/
@@ -17,10 +22,6 @@ https://air.mozilla.org/introduction-to-lets-encrypt/
 
 Automation:
 https://habrahabr.ru/post/304174/
-
-certbot:
-https://github.com/certbot/certbot
-https://certbot.eff.org/docs/using.html
 
 hostings:
 https://community.letsencrypt.org/t/web-hosting-who-support-lets-encrypt/6920
