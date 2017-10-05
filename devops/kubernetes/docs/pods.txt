@@ -1,3 +1,5 @@
+A logical group of containers that we can replicate, schedule, and balance service endpoints across
+
 apiVersion: v1
 kind: Pod
 metadata:
