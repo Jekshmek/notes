@@ -1,2 +1,5 @@
 https://kubernetes.io/docs/concepts/storage/volumes/
+
+persistent:
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+https://www.youtube.com/watch?v=E8uGIeiaaUQ

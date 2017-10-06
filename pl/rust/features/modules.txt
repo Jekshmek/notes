@@ -1,3 +1,9 @@
+2017:
+https://medium.com/@tak2siva/rust-modules-explained-96809931bbbf
+    https://github.com/tak2siva/rust_module_example
 https://medium.com/journey-to-rust/modules-220f7657b806
+
+books:
+https://rustbyexample.com/mod/split.html
 
 https://internals.rust-lang.org/t/revisiting-rust-s-modules-part-2/5700

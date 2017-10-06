@@ -6,6 +6,7 @@ https://habrahabr.ru/company/flant/blog/329136/
 
 components:
 runC
+linuxkit
 containerd
   https://habrahabr.ru/company/flant/blog/325358/
   https://github.com/docker/containerd
@@ -13,6 +14,3 @@ containerd
 opencontainers
   https://www.opencontainers.org/
   https://github.com/opencontainers/runtime-spec
-linuxkit:
-  https://blog.docker.com/2017/04/introducing-linuxkit-container-os-toolkit/
-  https://github.com/linuxkit/linuxkit

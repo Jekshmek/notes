@@ -1,1 +1,6 @@
 https://medium.com/@buckaroo.pm/a-tour-of-c-17-if-constexpr-3ea62f62ff65
+
+2017:
+Deane and Jason Turner - constexpr ALL the Things!
+https://www.youtube.com/watch?v=PJwd4JLYJJY
+https://github.com/CppCon/CppCon2017/blob/master/Presentations/constexpr%20ALL%20the%20things/constexpr%20ALL%20the%20things%20-%20Jason%20Turner%20and%20Ben%20Deane%20-%20CppCon%202017.pdf
