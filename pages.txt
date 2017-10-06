@@ -1,17 +1,17 @@
 URLs:
-http://cglab.ca/~abeinges/blah/too-many-lists/book/third-layout.html
+http://cglab.ca/~abeinges/blah/too-many-lists/book/third-basics.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Okt 5
-https://vk.com/topic-138477641_34886254
+  Okt 6
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Zinoviev - Intro to Spark 1                         -   38:00 (of 2:25:07)
+Zinoviev - Intro to Spark 1                         -   55:00 (of 2:25:07)
 Intro to Java 9                                     -   01:00 (of   53:28)
-https://events.epam.com/events/sec-2017/talks/4373  -   11:00 (of   54:09)
+https://events.epam.com/events/sec-2017/talks/4373  -   20:00 (of   54:09)
 
 Literature:
+2017-10-06-odin-0005                                -   52:00 (of 1:45:23)
 Bykov - Colba                                       -   05:00 (of 1:00:00)
   https://vk.com/video-2048479_456239322
 10-daniil                                           -   00:00 (of   26:32)
@@ -36,10 +36,10 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
-chernov-kuda-ushli-monahi                           -   47:00 (of 1:52:31)
+chapnin-radikalizm                                  -   12:00 (of 2:31:49)
 
 Tracking:
-Razbor Poletov                                      - 142   12:00 (of 1:40:20)
+Razbor Poletov                                      - 142   23:00 (of 1:40:20)
 Bananas and Lens                                    - 39
 This week in rust                                   - 202
 http://accu.org/index.php/journals/c78/             - 140
