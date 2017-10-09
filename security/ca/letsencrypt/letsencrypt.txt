@@ -1,19 +1,29 @@
 https://letsencrypt.org/
+https://letsencrypt.org/docs/
 https://letsencrypt.org/about/
 https://letsencrypt.org/how-it-works/
 https://letsencrypt.org/getting-started/
 
+forum:
+https://community.letsencrypt.org/
+
 manual-mode:
 https://certbot.eff.org/docs/using.html#manual
+https://flinhong.github.io/front-end/lets-encrypt-with-gitlab-pages/
 
 Articles:
-https://habrahabr.ru/post/270273/
-
-https://habrahabr.ru/post/325230/
-https://habrahabr.ru/post/318952/
-https://habrahabr.ru/post/301558/
-https://habrahabr.ru/post/279695/
 https://habrahabr.ru/post/244037/
+https://habrahabr.ru/post/270273/
+https://habrahabr.ru/post/279695/
+
+nginx and SNI:
+https://habrahabr.ru/post/318952/
+https://www.alexeykopytko.com/2017/free-ssl-from-letsencrypt/
+nginx and bitrix:
+https://habrahabr.ru/post/301558/
+
+ciphers:
+https://habrahabr.ru/post/325230/
 
 https://www.unixmen.com/encrypt-apache-webserver-centos-7/
 
