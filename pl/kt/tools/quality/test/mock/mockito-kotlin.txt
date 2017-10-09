@@ -1,0 +1,3 @@
+https://github.com/nhaarman/mockito-kotlin
+
+https://medium.com/@fabiocarballo/improve-your-tests-with-kotlin-in-android-pt-2-f3594e5e7bfd
