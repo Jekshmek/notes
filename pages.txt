@@ -17,8 +17,7 @@ Korotich                                            -   05:00 (of 1:04:59)
 Kelov - Debelaya Sonka                              -   20:00 (of   47:10)
   https://www.youtube.com/watch?v=QIhJSn0dnXM
 10-daniil                                           -   00:00 (of   26:32)
-Malishevsky - Lermontov                             - 1:15:00 (of 1:38:44)
-Malishevsky - DeUnaMuno                             -   02:00 (of 1:50:41)
+Malishevsky - DeUnaMuno                             -   10:00 (of 1:50:41)
 Kaminskaya 12                                       -   02:00 (of 1:09:05)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -43,7 +42,7 @@ chapnin-radikalizm                                  -   12:00 (of 2:31:49)
 Tracking:
 Razbor Poletov                                      - 142
 Bananas and Lens                                    - 39
-This week in rust                                   - 202
+This week in rust                                   - 203
 http://accu.org/index.php/journals/c78/             - 140
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
