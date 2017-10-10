@@ -1,0 +1,28 @@
+PJAC:
+https://github.com/porunov/acme_client
+https://github.com/porunov/acme_client/releases/
+https://github.com/porunov/acme_client/wiki
+https://github.com/porunov/acme_client/wiki/Usage
+
+https://github.com/porunov/acme_client/wiki/Command-reference
+
+https://github.com/porunov/acme_client/wiki/Get-a-certificate-for-multiple-domains
+https://github.com/porunov/acme_client/wiki/Renew-a-certificate-for-multiple-domains
+
+java -jar acme_client.jar --command authorize-domains -a /etc/pjac/account.key
+  -w /etc/pjac/workdir/ -d example.com -d www.example.com -d admin.example.com
+  -d www.admin.example.com --well-known-dir /var/www/.well-known/acme-challenge
+  --one-dir-for-well-known
+
+old:
+https://github.com/zero11it/acme-client
+
+libraries:
+
+https://shredzone.org/maven/acme4j/
+https://github.com/shred/acme4j
+    CHALLENGE_TYPE - HTTP (Challenge)
+
+org.shredzone.acme4j.ClientTest
+
+https://github.com/shred/acme4j/blob/master/acme4j-example/src/main/java/org/shredzone/acme4j/ClientTest.java
