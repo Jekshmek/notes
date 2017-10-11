@@ -4,6 +4,8 @@ https://letsencrypt.org/about/
 https://letsencrypt.org/how-it-works/
 https://letsencrypt.org/getting-started/
 
+https://letsencrypt.org/docs/rate-limits/
+
 forum:
 https://community.letsencrypt.org/
 
@@ -35,3 +37,6 @@ https://habrahabr.ru/post/304174/
 
 hostings:
 https://community.letsencrypt.org/t/web-hosting-who-support-lets-encrypt/6920
+
+subdomains:
+https://community.letsencrypt.org/t/can-i-use-letsencrypt-in-more-than-one-subdomain/16588
