@@ -1,7 +1,7 @@
 URLs:
-http://cglab.ca/~abeinges/blah/too-many-lists/book/third-arc.html
+http://cglab.ca/~abeinges/blah/too-many-lists/book/fourth-layout.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Okt 10
+  Okt 11
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 

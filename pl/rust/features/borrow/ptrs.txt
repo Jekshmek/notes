@@ -54,4 +54,16 @@ Weak<T>
 MutexGuard<T>
     for mutexes
 Arc<T>
-    Atomic reference counting
+    Atomic reference counting (just like Rc)
+A type is
+    Send, if it is safe to move to another thread
+    Sync, if it is safe to share between multiple threads
+        That is, if T is Sync, &T is Send
+    (safe here means it is impossible to cause data races)
+
+2 major classes of interior mutability:
+    Cells, only work in a single-threaded context)
+    Locks, work in a multi-threaded context
+
+Rc<T> just uses a cell (not thread-safe)
+Arc<T> uses an atomic (thread-safe)

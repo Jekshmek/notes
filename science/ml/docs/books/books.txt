@@ -14,6 +14,7 @@ https://habrahabr.ru/company/mailru/blog/333862/
 Myuller - Intro to ML using Python ru
 Raschka - Python Machine Learning ru
 Bonaccorzo - Machine Learning Algorithms
+https://jakevdp.github.io/PythonDataScienceHandbook/
 
 ? !!!
 Rashid - Make your own Neural Network
