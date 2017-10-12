@@ -8,6 +8,9 @@ ekidd/rust-musl-builder:nightly
 clux/muslrust:stable
 https://github.com/clux/muslrust/
 
+https://github.com/messense/rust-musl-cross
+https://github.com/richfelker/musl-cross-make
+
 Nickol - Taking Rust to Production: Lessons Learned from the Habitat Project
 https://www.youtube.com/watch?v=zAXbPnfTJg4
 
