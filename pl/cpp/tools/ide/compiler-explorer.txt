@@ -2,3 +2,6 @@ https://gcc.godbolt.org/
 https://github.com/mattgodbolt/compiler-explorer
 https://github.com/dobokirisame/CompilerExplorer
 https://www.youtube.com/watch?v=I2cKVRzJhS0
+
+articles:
+https://habrahabr.ru/post/339962/
