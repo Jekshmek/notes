@@ -1,0 +1,1 @@
+https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/
