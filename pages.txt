@@ -11,12 +11,9 @@ Intro to Java 9                                     -   01:00 (of   53:28)
 https://events.epam.com/events/sec-2017/talks/4373  -   40:00 (of   54:09)
 
 Literature:
-Bykov-Dante                                         -   10:00 (of   57:59)
-Uzefovich - What To Read                            -   08:00 (of   26:04)
-Korotich                                            -   05:00 (of 1:04:59)
+Bykov-Dante                                         -   18:00 (of   57:59)
+Korotich                                            -   06:00 (of 1:04:59)
   https://www.youtube.com/watch?v=J2pDxmURZAo
-Kelov - Debelaya Sonka                              -   20:00 (of   47:10)
-  https://www.youtube.com/watch?v=QIhJSn0dnXM
 10-daniil                                           -   00:00 (of   26:32)
 Malishevsky - Bely                                  -   00:00 (of 1:57:50)
 Kaminskaya 12                                       -   02:00 (of 1:09:05)
