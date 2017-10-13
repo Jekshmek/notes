@@ -37,9 +37,9 @@ RefCell<T>
     https://rust-lang.github.io/book/second-edition/ch15-05-interior-mutability.html
     isn't a smart-ptr itself, but manages access to the smart pointers Ref
     like a Box<T>, but follows "interior mutability" pattern
-        fn borrow() -> Ref<T>
+        fn borrow<'a>(&'a self) -> Ref<'a, T>
             &r.borrow()
-        fn borrow_mut() -> RefMut<T>
+        fn borrow_mut<'a>(&'a self) -> RefMut<'a, T>
             &mut r.borrow_mut()
             // these 2 types impl Deref-trait, Drop trait,
             // track the borrow dynamically
