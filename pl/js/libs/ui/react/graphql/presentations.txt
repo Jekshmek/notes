@@ -1,4 +1,6 @@
 2017:
+Daigle - GitGub's GraphQL Future
+https://www.infoq.com/presentations/github-graphql
 Ilyenko - GraphQL a type system for your API
 https://olegilyenko.github.io/presentation-graphql-type-system-for-your-api
 https://www.youtube.com/watch?v=K779SIVNLNg
