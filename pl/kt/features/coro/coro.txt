@@ -24,6 +24,8 @@ https://blog.simon-wirtz.de/kotlin-coroutines-guide/
 https://habrahabr.ru/company/alfa/blog/336228/
 https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9
 
+https://habrahabr.ru/post/339618/
+
 
 tutorials:
 https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
