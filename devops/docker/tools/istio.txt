@@ -7,4 +7,5 @@ talks:
 https://istio.io/talks/istio_talk_gluecon_2017.pdf
 
 articles:
+https://habrahabr.ru/company/jugru/blog/340442/
 http://techgenix.com/linkerd-kubernetes/
