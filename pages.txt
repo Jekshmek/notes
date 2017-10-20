@@ -1,5 +1,5 @@
 URLs:
-http://cglab.ca/~abeinges/blah/too-many-lists/book/fourth-iteration.html#iter
+http://cglab.ca/~abeinges/blah/too-many-lists/book/fifth.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Okt 19
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -10,6 +10,7 @@ Zinoviev - Intro to Spark 2                         -   42:00 (of 2:03:07)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
+2017-10-20-odin-0005                                -   21:00 (of 1:45:34)
 Korotich                                            -   32:00 (of 1:04:59)
   https://www.youtube.com/watch?v=J2pDxmURZAo
 Malishevsky - Shakespere                            -   49:00 (of 2:08:20)
@@ -34,7 +35,6 @@ Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
-Gaginsky                                            - 1:21:00 (of 1:39:15)
 
 Tracking:
 Razbor Poletov                                      - 142
