@@ -1,4 +1,13 @@
 http://hoverfly.io/
 https://docs.hoverfly.io/en/stable/index.html
 
+http://hoverfly-java.readthedocs.io/en/latest/index.html
+http://hoverfly-java.readthedocs.io/en/latest/pages/quickstart/quickstart.html
+http://hoverfly-java.readthedocs.io/en/latest/pages/corefunctionality/corefunctionality.html
+
 http://www.ontestautomation.com/creating-stubs-using-the-hoverfly-java-dsl/
+
+hoverfly-junit5:
+https://github.com/SpectoLabs/hoverfly-java/tree/master/junit5
+http://hoverfly-java.readthedocs.io/en/latest/pages/junit5/junit5.html
+https://specto.io/blog/2017/10/19/hoverfly-java-is-now-junit-5-ready/

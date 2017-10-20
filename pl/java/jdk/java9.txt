@@ -1,0 +1,4 @@
+multi-release jar files
+http://openjdk.java.net/jeps/238
+
+http://kto.so/2017/09/30/the-practical-truth-about-multi-release-jars/
