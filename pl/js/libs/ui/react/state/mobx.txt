@@ -10,6 +10,7 @@ api:
 https://mobx.js.org/refguide/api.html
 
 articles:
+https://habrahabr.ru/post/340592/
 https://habrahabr.ru/company/yandex/blog/339054/
 https://robinwieruch.de/redux-mobx-confusion/
 https://benmccormick.org/2017/01/09/mobx-first-impressions/
