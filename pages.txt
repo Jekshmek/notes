@@ -11,7 +11,7 @@ Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
 Bykov - Chehov                                      -   50:00 (of 1:11:34)
-Satanovsky - Stru                                   -   12:00 (of   42:34)
+Satanovsky - Stru                                   -   13:00 (of   42:34)
   https://www.youtube.com/watch?v=bqjUWEmcDiY
 Korotich                                            -   32:00 (of 1:04:59)
   https://www.youtube.com/watch?v=J2pDxmURZAo
