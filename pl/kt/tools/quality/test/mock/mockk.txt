@@ -1,0 +1,2 @@
+http://mockk.io/
+https://github.com/oleksiyp/mockk

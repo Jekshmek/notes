@@ -1,5 +1,6 @@
 2017:
 https://habrahabr.ru/company/oleg-bunin/blog/334530/
+https://habrahabr.ru/post/340792/
 
 
 https://hackernoon.com/tagged/machine-learning
