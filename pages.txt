@@ -6,11 +6,12 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Zinoviev - Intro to Spark 2                         - 1:28:00 (of 2:03:07)
+Zinoviev - Intro to Spark 2                         - 1:51:00 (of 2:03:07)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
-Bykov - Chehov                                      -   50:00 (of 1:11:34)
+Bykov - Agora                                       -   36:00 (of 1:00:06)
+  https://vk.com/video-2048479_456239351
 Satanovsky - Stru                                   -   13:00 (of   42:34)
   https://www.youtube.com/watch?v=bqjUWEmcDiY
 Korotich                                            -   32:00 (of 1:04:59)
