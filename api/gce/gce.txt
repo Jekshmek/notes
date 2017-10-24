@@ -5,8 +5,32 @@ https://cloud.google.com/shell/docs/examples
 ???
 https://cloud.google.com/sdk/auth_success
 
+tutorial
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+p2:
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
+p4:
+https://www.youtube.com/watch?v=-13yIXiyFAs
+p5:
+https://www.youtube.com/watch?v=6wlzeDaIGtw
+
+
+
+credentials:
+https://support.google.com/googleapi/answer/6158857
+oauth2:
+https://support.google.com/googleapi/answer/6158849
+
+gcloud auth application-default print-access-token 
+https://developers.google.com/accounts/docs/application-default-credentials
+
+
 nlp:
 https://cloud.google.com/natural-language/
+https://cloud.google.com/natural-language/docs/basics
+
+nlp-auth:
+https://console.developers.google.com/apis/api/language.googleapis.com/overview?project=google.com:cloudsdktool
 
 https://cloudplatform.googleblog.com/2016/07/the-latest-for-Cloud-customers-machine-learning-and-west-coast-expansion.html
 
@@ -21,7 +45,51 @@ https://cloud.google.com/natural-language/docs/reference/rpc/google.rpc
 gcloud
     --help
         print help
+    auth
+        application-default
+            print-access-token
     components
         list|update|install|reinstall|remove|restore
     organisations
     products
+
+shell-completion:
+/etc/bash_completion.d/google-cloud-sdk
+/opt/google-cloud-sdk/completion.bash.inc
+/opt/google-cloud-sdk/completion.zsh.inc
+
+language:
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/__init__.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/__init__.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/language_v1_client.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/language_v1_messages.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/resources.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1beta2/
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1beta2/__init__.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1beta2/language_v1beta2_client.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1beta2/language_v1beta2_messages.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1beta2/resources.py
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language_v1.json
+/opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language_v1beta2.json
+
+
+properties:
+lib/surface/projects/create.py 
+
+
+/opt/google-cloud-sdk/lib/googlecloudsdk/core/properties.py 
+
+# Try to parse the command line flags at import time to see if someone provided
+# the --configuration flag.  If they did, this could affect the value of the
+# properties defined in that configuration.  Since some libraries (like logging)
+# use properties at startup, we want to use the correct configuration for that.
+
+/opt/google-cloud-sdk/properties
+[core]
+disable_usage_reporting = True
+
+
+vars:
+export GOOGLE_APPLICATION_CREDENTIALS=/home/.../apikey.json 
