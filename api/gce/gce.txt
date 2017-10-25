@@ -52,6 +52,27 @@ gcloud
         list|update|install|reinstall|remove|restore
     organisations
     products
+    [beta] ml
+        language
+            --help
+            analyze-entities
+            analyze-entity-sentiment
+            analyze-sentiment
+            analyze-syntax
+
+GCLOUD WIDE FLAGS
+    These flags are available to all commands:
+        --help
+        --account
+        --configuration
+        --flatten
+        --format
+        --log-http
+        --project
+        --quiet
+        --trace-token
+        --user-output-enabled
+        --verbosity
 
 shell-completion:
 /etc/bash_completion.d/google-cloud-sdk
