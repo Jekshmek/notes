@@ -10,13 +10,11 @@ Zinoviev - Intro to Spark 2                         - 1:51:00 (of 2:03:07)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
-Satanovsky - Stru                                   -   15:00 (of   42:34)
-  https://www.youtube.com/watch?v=bqjUWEmcDiY
 Korotich                                            -   32:00 (of 1:04:59)
   https://www.youtube.com/watch?v=J2pDxmURZAo
 Malishevsky - Shakespere                            - 1:07:00 (of 2:08:20)
 Malishevsky - Nautilus                              -   12:00 (of 1:56:50)
-Apostols 01-SimonPetr                               -   00:00 (of )
+Apostols 01-SimonPetr                               -   00:00 (of   26:31)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Kaminskaya 18                                       -   03:00 (of 1:09:18)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
