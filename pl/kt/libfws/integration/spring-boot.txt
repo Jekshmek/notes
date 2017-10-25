@@ -1,3 +1,6 @@
 http://www.baeldung.com/spring-boot-kotlin
 https://auth0.com/blog/developing-restful-apis-with-kotlin/
 https://moelholm.com/2017/03/12/spring-boot-hello-world-kotlin/
+
+spring-boot-graph-ql:
+https://blog.pusher.com/writing-graphql-service-using-kotlin-spring-boot/

@@ -1,0 +1,1 @@
+https://github.com/graphql-java/graphql-spring-boot

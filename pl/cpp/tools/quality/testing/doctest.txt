@@ -1,1 +1,13 @@
-doctest
+https://github.com/onqtam/doctest
+
+presentations:
+2017:
+Kirilov - Mix Tests and Production Code with Doctest
+https://www.youtube.com/watch?v=eH1CxEC29l8
+http://slides.com/onqtam/2017_cppcon_doctest#
+
+// doctest_proxy.h
+
+#define test_case   DOCTEST_TEST_CASE
+...
+// other short-lowercased macros

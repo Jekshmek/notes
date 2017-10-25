@@ -10,9 +10,7 @@ Zinoviev - Intro to Spark 2                         - 1:51:00 (of 2:03:07)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
-Bykov - Agora                                       -   36:00 (of 1:00:06)
-  https://vk.com/video-2048479_456239351
-Satanovsky - Stru                                   -   13:00 (of   42:34)
+Satanovsky - Stru                                   -   15:00 (of   42:34)
   https://www.youtube.com/watch?v=bqjUWEmcDiY
 Korotich                                            -   32:00 (of 1:04:59)
   https://www.youtube.com/watch?v=J2pDxmURZAo
@@ -34,7 +32,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 1.10                                      -   00:00 (of 2:44:18)
 Ivliev - 40                                         -   38:00 (of   37:10)
-Sorokin - Context 25                                -   00:00 (of 1:01:12)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
@@ -43,7 +40,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Tracking:
 Razbor Poletov                                      - 142
 Bananas and Lens                                    - 39
-This week in rust                                   - 203
+This week in rust                                   - 205
 http://accu.org/index.php/journals/c78/             - 140
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dijkstra/ewd316/ewd316_2.html
 
