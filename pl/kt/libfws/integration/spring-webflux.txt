@@ -1,0 +1,8 @@
+https://tech.io/playgrounds/8594/spring-5---dedicated-kotlin-features
+
+
+https://github.com/spring-projects/spring-framework/tree/master/spring-webflux/src/main/kotlin/org/springframework/web/reactive/function/client
+
+https://github.com/spring-projects/spring-framework/tree/master/spring-webflux/src/main/kotlin/org/springframework/web/reactive/function/server
+
+https://github.com/spring-projects/spring-framework/blob/master/spring-webflux/src/main/kotlin/org/springframework/web/reactive/function/server/RouterFunctionDsl.kt
