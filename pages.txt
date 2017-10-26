@@ -6,7 +6,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Zinoviev - Intro to Spark 3                         -   01:00 (of 1:25:53)
+Zinoviev - Intro to Spark 3                         -   09:00 (of 1:25:53)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
