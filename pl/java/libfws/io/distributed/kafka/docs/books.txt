@@ -1,4 +1,7 @@
-Kleppmann - Making Sence of Stream Processing
+Kleppmann
+https://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data/
+
+Making Sence of Stream Processing
 http://feederio.com/book/45/making-sense-of-stream-processing
 http://feederio.com/files/book/14853356701531_77737a5f174e5a213e749ddbdfbb82a5.pdf
 
