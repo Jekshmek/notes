@@ -1,0 +1,6 @@
+https://stryker-mutator.github.io/
+https://github.com/stryker-mutator/stryker
+https://github.com/stryker-mutator/stryker-cli
+
+https://habrahabr.ru/post/341094/
+https://github.com/taxnuke/mutation-testing-demo
