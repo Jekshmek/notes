@@ -18,3 +18,6 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 ? !!!
 Rashid - Make your own Neural Network
+
+Haykin - 2006 - NNs A Comprehensive Foundation 2nd ed ru:
+https://vk.com/doc4004138_437978172?hash=94fdf55b4f6cd5552c&dl=b59d78cf03e2c0dc47

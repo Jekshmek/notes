@@ -8,6 +8,9 @@ https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
 CMU
 https://www.youtube.com/playlist?list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa
 https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_
+Shamin - MIAN
+http://www.mathnet.ru/conf1243
+https://www.youtube.com/playlist?list=PLEaWFQiR5rGP2lbmBaybBWmBqvM6XlknL
 
 2016:
 Howard - Practical DL for coders
@@ -41,3 +44,5 @@ https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
 Vorontsov:
 http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf
+ML - step to digital economy:
+https://www.youtube.com/watch?v=H5waFQ1ARF8
