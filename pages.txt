@@ -1,20 +1,22 @@
-virtualbox Version : 5.2.0-1
 URLs:
+http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/#problem-case-3-conditional-control-flow-across-functions
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Okt 30
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Zinoviev - Intro to Spark 3                         -   09:00 (of 1:25:53)
+Zinoviev - Intro to Spark 3                         -   29:00 (of 1:25:53)
 Intro to Java 9                                     -   01:00 (of   53:28)
+Kafka Summit                                        -   15:00 (of 1:08:40)
 
 Literature:
-2017-10-27-odin-0005                                - 1:33:00 (of 1:39:33)
+Russian Philosophy - Stru                           -   02:00 (of   15:21)
+  https://vk.com/video-74289480_456240966
 Malishevsky - Nautilus                              -   12:00 (of 1:56:50)
 Apostols 01-SimonPetr                               -   05:00 (of   26:31)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 19                                       -   04:00 (of   59:04)
+Kaminskaya 19                                       -   24:00 (of   59:04)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
