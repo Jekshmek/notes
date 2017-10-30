@@ -1,8 +1,7 @@
 virtualbox Version : 5.2.0-1
 URLs:
-http://cglab.ca/~abeinges/blah/too-many-lists/book/infinity-double-single.html
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Okt 23
+  Okt 30
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
@@ -11,7 +10,7 @@ Zinoviev - Intro to Spark 3                         -   09:00 (of 1:25:53)
 Intro to Java 9                                     -   01:00 (of   53:28)
 
 Literature:
-2017-10-27-odin-0005                                -   32:00 (of 1:39:33)
+2017-10-27-odin-0005                                - 1:33:00 (of 1:39:33)
 Malishevsky - Nautilus                              -   12:00 (of 1:56:50)
 Apostols 01-SimonPetr                               -   05:00 (of   26:31)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
@@ -27,7 +26,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 1.10                                      -   00:00 (of 2:44:18)
+Paschenko 1.10                                      - 1:37:00 (of 2:44:18)
 Ivliev - 40                                         -   38:00 (of   37:10)
 Sorokin - T 1-1                                     -   10:00 (of   48:35)
 Osipov - 1                                          -   20:00 (of 1:09:28)
@@ -36,7 +35,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Kuropatkina - monahi 1                              -   00:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 143 11:00 (of 2:18:47)
+Razbor Poletov                                      - 143 43:00 (of 2:18:47)
 Bananas and Lens                                    - 39
 This week in rust                                   - 205
 http://accu.org/index.php/journals/c78/             - 140

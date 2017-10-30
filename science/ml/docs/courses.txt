@@ -11,6 +11,10 @@ https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_
 Shamin - MIAN
 http://www.mathnet.ru/conf1243
 https://www.youtube.com/playlist?list=PLEaWFQiR5rGP2lbmBaybBWmBqvM6XlknL
+OpenDataScience - ML Course
+https://github.com/Yorko/mlcourse_open
+https://habrahabr.ru/company/ods/blog/334960/
+https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg
 
 2016:
 Howard - Practical DL for coders

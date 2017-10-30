@@ -1,2 +1,4 @@
 http://mockk.io/
 https://github.com/oleksiyp/mockk
+
+https://habrahabr.ru/post/341202/
