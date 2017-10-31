@@ -38,7 +38,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Kuropatkina - monahi 1                              -   00:00 (of )
 
 Tracking:
-Razbor Poletov                                      - 143 43:00 (of 2:18:47)
+Razbor Poletov                                      - 143 51:00 (of 2:18:47)
 Bananas and Lens                                    - 39
 This week in rust                                   - 205
 http://accu.org/index.php/journals/c78/             - 140
