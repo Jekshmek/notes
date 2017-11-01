@@ -1,9 +1,7 @@
 URLs:
-https://blog.predanie.ru/article/imeet-li-russkaya-revolyutsiya-religioznyj-smysl/
-  Property
-http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/#defining-the-nll-analysis
+http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/#location-aware-subtyping-constraints
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Okt 31
+  Nov 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
