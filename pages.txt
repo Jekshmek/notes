@@ -6,7 +6,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Zinoviev - Intro to Spark 3                         - 1:00:00 (of 1:25:53)
+Zinoviev - Intro to Spark 3                         - 1:17:00 (of 1:25:53)
 Intro to Java 9                                     -   01:00 (of   53:28)
 Kafka Summit                                        -   33:00 (of 1:08:40)
 
@@ -15,7 +15,7 @@ Golding                                             -   15:00 (Of   25:41)
 Malishevsky - Nautilus                              -   53:00 (of 1:56:50)
 02-Andrei-Pervozvanny                               -   01:00 (of   25:39)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 20                                       -   09:00 (of 1:01:37)
+Kaminskaya 20                                       -   53:00 (of 1:01:37)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -33,10 +33,10 @@ Sorokin - B 1                                       -   05:00 (of   46:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
-Kuropatkina - monahi 1                              -   00:00 (of )
+Kuropatkina - 500 let 2                             -   00:00 (of   59:57)
 
 Tracking:
-Razbor Poletov                                      - 143 51:00 (of 2:18:47)
+Razbor Poletov                                      - 143 1:10:00 (of 2:18:47)
 Bananas and Lens                                    - 39
 This week in rust                                   - 206
 http://accu.org/index.php/journals/c78/             - 140
