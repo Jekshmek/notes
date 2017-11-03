@@ -33,7 +33,7 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 
 Tracking:
-Razbor Poletov                                      - 143 2:11:00 (of 2:18:47)
+Razbor Poletov                                      - 143
 Bananas and Lens                                    - 39
 This week in rust                                   - 206
 http://accu.org/index.php/journals/c78/             - 140
