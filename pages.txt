@@ -1,7 +1,7 @@
 URLs:
-http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#the-problem-wed-like-to-solve
+http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#code-we-would-not-accept
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 2
+  Nov 3
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
