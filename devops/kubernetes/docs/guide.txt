@@ -1,1 +1,3 @@
 https://kubernetes.io/docs/getting-started-guides/scratch/
+
+http://kubernetesbyexample.com/

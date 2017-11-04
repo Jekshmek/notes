@@ -1,2 +1,45 @@
 https://kubernetes.io/docs/admin/kubeadm/
+
+AUR
+kubectl-bin
+    /usr/bin/kubectl
+kubeadm-bin
+    /usr/bin/kubeadm
+    /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+kubelet-bin
+    /usr/bin/kubelet
+    /lib/systemd/system/kubelet.service
+
+    sudo systemctl enable kubelet.service
+
+!!!
+https://blog.alexellis.io/kubernetes-in-10-minutes/
+    swapoff
+http://docker-k8s-lab.readthedocs.io/en/latest/kubernetes/kubeadm.html
+https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
+
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+https://blog.heptio.com/how-to-start-creating-kubernetes-clusters-like-a-pro-kubeadm-phases-heptioprotip-2bdce58b530d
+https://habrahabr.ru/company/southbridge/blog/334846/
+https://crondev.com/kubernetes-installation-kubeadm/
+https://crondev.com/kubernetes-upgrade-kubeadm/
+
+? kubernetes-cni 
+
+https://github.com/kubernetes/kubeadm
+
+https://github.com/kubernetes/kubeadm/blob/master/docs/design/design_v1.8.md
+
+issues
+cluster upgrade:
+https://github.com/kubernetes/features/issues/296
+https://github.com/kubernetes/community/pull/825
+https://github.com/kubernetes/kubernetes/pull/48899
+https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
+
+kubeadm
+    alpha phase <cmd>
+    init
+        --dry-run
+???
+--token-ttl 0
