@@ -1,0 +1,2 @@
+https://fasttext.cc/
+https://github.com/facebookresearch/fastText
