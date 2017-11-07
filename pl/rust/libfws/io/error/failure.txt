@@ -1,0 +1,5 @@
+https://boats.gitlab.io/failure/doc/failure/
+https://boats.gitlab.io/failure/
+
+https://github.com/withoutboats/failure
+https://github.com/withoutboats/derive-fail
