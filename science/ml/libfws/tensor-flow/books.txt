@@ -1,6 +1,7 @@
 2017:
 Geron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
 Hope - Learning TensorFlow
+Zaccone - Deep Learning with TensorFlow
 
 2016:
 Abrahams - TensorFlow For Machine Intelligence
