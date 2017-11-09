@@ -1,20 +1,18 @@
 URLs:
-http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#how-to-implement-it
+http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#two-phase-lifetimes
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 3
+  Nov 9
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 
 Video:
-Intro to Java 9                                     -   15:00 (of   53:28)
-Kafka Summit                                        - 1:00:00 (of 1:08:40)
+Intro to Java 9                                     -   31:00 (of   53:28)
 
 Literature:
-Bykov-LA                                            -   55:00 (of 1:22:21)
-Malishevsky - Nautilus                              - 1:22:00 (of 1:56:50)
+Malishevsky-LOR1                                    -   03:00 (of 1:51:08)
 03-Iakovy                                           -   00:00 (of   26:52)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 1                                        -   21:00 (of 1:14:50)
+Kaminskaya 2                                        -   01:00 (of 1:26:59)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -27,7 +25,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 1.11                                      -   00:00 (of   47:30)
-Ivliev - 41                                         -   00:00 (of   39:04)
+Ivliev - 42                                         -   00:00 (of   38:17)
 Sorokin - B 1                                       -   05:00 (of   46:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
