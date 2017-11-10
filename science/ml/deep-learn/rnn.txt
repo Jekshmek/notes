@@ -3,3 +3,6 @@ https://habrahabr.ru/post/326966/
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 http://ofir.io/Neural-Language-Modeling-From-Scratch/
+
+understanding hidden memories of RNNs
+https://arxiv.org/pdf/1710.10777.pdf

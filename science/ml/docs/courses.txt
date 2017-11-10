@@ -17,6 +17,8 @@ https://habrahabr.ru/company/ods/blog/334960/
 https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg
 Kashnitsky:
 https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+Abbakumov (ru) - R-based:
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 
 2016:
 Howard - Practical DL for coders

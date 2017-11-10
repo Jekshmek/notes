@@ -16,6 +16,10 @@ Raschka - Python Machine Learning ru
 Bonaccorzo - Machine Learning Algorithms
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
+Statistics:
+Unpingco - Python for Probability, Statistics and Machine Learning
+https://vk.com/doc4004138_453239844?hash=abd1387c870bafb957&dl=370437fe6fbaa611e1
+
 ? !!!
 Rashid - Make your own Neural Network
 

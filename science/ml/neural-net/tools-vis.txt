@@ -1,0 +1,7 @@
+RNNVis:
+https://github.com/myaooo/RNNVis
+https://arxiv.org/pdf/1710.10777.pdf
+
+LSTMVis:
+http://lstm.seas.harvard.edu/
+https://github.com/HendrikStrobelt/LSTMVis

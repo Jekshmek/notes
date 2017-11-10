@@ -4,5 +4,7 @@ https://habrahabr.ru/company/ods/blog/324898/
 pvs-check:
 https://habrahabr.ru/company/pvs-studio/blog/326256/
 
+white-paper:
+https://arxiv.org/pdf/1603.04467.pdf
 tour-of-tf
 https://arxiv.org/pdf/1610.01178.pdf
