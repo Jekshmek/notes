@@ -1,5 +1,5 @@
 URLs:
-http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#two-phase-lifetimes
+http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/#why-i-do-not-want-to-support-discontinuous-borrows
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Nov 10
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
