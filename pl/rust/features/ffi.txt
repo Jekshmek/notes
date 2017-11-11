@@ -1,5 +1,6 @@
 articles:
 http://fitzgeraldnick.com/2017/03/07/what-the-ffi.html
+https://medium.com/@andoriyu/forbidden-diaries-of-pandemonium-part-1-tips-for-calling-c-from-rust-3b9667f07398
 
 books:
 https://doc.rust-lang.org/book/ffi.html
