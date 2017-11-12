@@ -1,3 +1,6 @@
 Downey - Think Bayes
 Barber - Bayesian Reasoning and Machine Learning
     math and big
+Bayesian Methods for Hackers
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
