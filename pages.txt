@@ -9,7 +9,7 @@ Video:
 Intro to Java 9                                     -   31:00 (of   53:28)
 
 Literature:
-2017-11-10-odin-0005                                -   34:00 (of 1:46:47)
+2017-11-10-odin-0005                                -   52:00 (of 1:46:47)
 Malishevsky-LOR1                                    -   03:00 (of 1:51:08)
 03-Iakovy                                           -   00:00 (of   26:52)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
@@ -25,7 +25,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Audio:
-Paschenko 1.11                                      -   00:00 (of   47:30)
+Paschenko 2.                                        -   00:00 (of)
 Ivliev - 42                                         -   00:00 (of   38:17)
 Sorokin - B 2                                       -   43:00 (of   46:04)
 Osipov - 1                                          -   20:00 (of 1:09:28)
