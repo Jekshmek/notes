@@ -6,14 +6,14 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Batalov                                             -   00:00 (of)
-  https://vk.com/video269086088_171380832
+Rostocky                                            -   40:00 (of 1:33:07)
+  https://vk.com/video269086088_171380830
 
 Literature:
-Malishevsky-LOR3                                    -   00:00 (of )
-03-Iakovy                                           -   00:00 (of   26:52)
+Malishevsky-LOR3                                    -   01:00 (of 2:01:41)
+04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 3                                        -   00:00 (of 1:01:41)
+Kaminskaya 5                                        -   06:00 (of 1:10:16)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
