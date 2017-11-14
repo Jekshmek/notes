@@ -1,5 +1,5 @@
 URLs:
-http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/#the-prototype
+http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/#appendix-what-the-proposal-wont-fix
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Nov 11
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -10,7 +10,7 @@ Batalov                                             -   00:00 (of)
   https://vk.com/video269086088_171380832
 
 Literature:
-Malishevsky-LOR2                                    -   01:00 (of 1:30:21)
+Malishevsky-LOR2                                    -   04:00 (of 1:30:21)
 03-Iakovy                                           -   00:00 (of   26:52)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Kaminskaya 3                                        -   00:00 (of 1:01:41)
