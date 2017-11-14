@@ -1,0 +1,23 @@
+https://github.com/KDE/heaptrack
+
+https://userbase.kde.org/Heaptrack
+https://userbase.kde.org/Heaptrack/Build/Ubuntu_16.04
+https://download.kde.org/stable/heaptrack/1.0.0/src/
+
+git://anongit.kde.org/heaptrack
+
+https://www.kdab.com/heaptrack-v1-0-0-release/
+
+community/heaptrack
+/usr/bin/
+    heaptrack
+    heaptrack_gui
+    heaptrack_print
+/usr/include/
+    heaptrack_api.h
+/usr/lib/heaptrack/
+    libexec/heaptrack_interpret
+    libheaptrack_inject.so
+    libheaptrack_preload.so
+/usr/share/applications/
+    org.kde.heaptrack.desktop
