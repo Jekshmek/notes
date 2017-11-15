@@ -49,8 +49,13 @@ without the 'a parameter, Rust would not be able to distinguish between
         which may have `&str`'s pointing into a `String` on the stack  
 
 NLL (Non-lexical lifetimes)
+https://rust-lang.github.io/rfcs/2094-nll.html
+https://github.com/rust-lang/rfcs/blob/master/text/2094-nll.md
+
+https://github.com/rust-lang/rfcs/pull/2094
+https://github.com/rust-lang/rust/pull/45538
+
 https://github.com/rust-lang/rust/issues/44928
-    https://github.com/rust-lang/rfcs/pull/2094
     https://www.reddit.com/r/rust/comments/739n4u/nonlexical_lifetimes_rfc_was_just_merged/
     https://www.reddit.com/r/rust/comments/73cehd/how_to_reason_about_nlls/
 https://github.com/nikomatsakis/nll-rfc/
@@ -65,9 +70,7 @@ https://github.com/nikomatsakis/borrowck
 https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
 
 https://www.reddit.com/r/rust/comments/6r730x/the_nonlexical_lifetimes_rfc_was_just_opened_up/
-https://github.com/rust-lang/rfcs/pull/2094
 
-https://github.com/rust-lang/rust/pull/45538
 
 ArgumentLifetimes:
 https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md

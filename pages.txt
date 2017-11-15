@@ -1,16 +1,17 @@
 URLs:
-http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/#appendix-what-the-proposal-wont-fix
-https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 11
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
+https://vk.com/mashinnoe_obuchenie_ai_big_data
+  Nov 15
 
 Video:
 Rostocky                                            - 1:20:00 (of 1:33:07)
   https://vk.com/video269086088_171380830
+Belkovsky                                           -   26:00 (of 1:41:34)
 
 Literature:
-Malishevsky-LOR3                                    -   01:00 (of 2:01:41)
+Bykov-Bely                                          -   14:00 (of 1:00:04)
+Malishevsky-LOR3                                    - 1:16:00 (of 2:01:41)
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Kaminskaya 5                                        -   06:00 (of 1:10:16)
@@ -31,7 +32,7 @@ Sorokin - B 4                                       -   00:00 (of)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
-shteynman-ip                                        -   31:00 (of 2:38:19)
+shteynman-ip                                        - 1:03:00 (of 2:38:19)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
 chernov-uzy                                         -   02:00 (of 1:29:41)
 
