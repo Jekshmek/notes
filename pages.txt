@@ -27,7 +27,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 2.1                                       -   00:00 (of   30:22)
 Ivliev - 43                                         -   00:00 (of)
-Sorokin - B 2                                       -   43:00 (of   46:04)
+Sorokin - B 3                                       -   35:00 (of   45:56)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
@@ -38,7 +38,7 @@ chernov-uzy                                         -   02:00 (of 1:29:41)
 Tracking:
 Razbor Poletov                                      - 143
 Bananas and Lens                                    - 39
-This week in rust                                   - 207
+This week in rust                                   - 208
 http://accu.org/index.php/journals/c78/             - 140
 
 Books:
