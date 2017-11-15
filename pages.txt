@@ -6,7 +6,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 
 Video:
-Rostocky                                            -   56:00 (of 1:33:07)
+Rostocky                                            - 1:20:00 (of 1:33:07)
   https://vk.com/video269086088_171380830
 
 Literature:
