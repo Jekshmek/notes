@@ -1,7 +1,9 @@
+Goodfellow:
 http://www.deeplearningbook.org/
 http://www.deeplearningbook.org/lecture_slides.html
 https://medium.com/towards-data-science/deep-learning-chapter-6-deep-feedforward-networks-d0e40758b555
 https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf
+https://vk.com/doc4004138_453543210?hash=d0d54a46d0a742445b
 
 Nielsen - Neural Networks and Deep Learing (? intro ?)
 http://neuralnetworksanddeeplearning.com/

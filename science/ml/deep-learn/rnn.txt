@@ -6,3 +6,8 @@ http://ofir.io/Neural-Language-Modeling-From-Scratch/
 
 understanding hidden memories of RNNs
 https://arxiv.org/pdf/1710.10777.pdf
+
+presentations:
+2017:
+Recurrent Neural Networks (DLAI D7L1 2017 UPC Deep Learning for Artificial Intelligence)
+https://www.youtube.com/watch?v=N3DzDnzL19U
