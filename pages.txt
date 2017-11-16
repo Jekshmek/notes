@@ -2,17 +2,15 @@ URLs:
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 15
+  Nov 16
 
 Video:
 Belkovsky                                           -   26:00 (of 1:41:34)
 
 Literature:
-Bykov-Bely                                          -   14:00 (of 1:00:04)
-Malishevsky-LOR3                                    - 1:16:00 (of 2:01:41)
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 5                                        -   06:00 (of 1:10:16)
+Kaminskaya 5                                        -   50:00 (of 1:10:16)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL

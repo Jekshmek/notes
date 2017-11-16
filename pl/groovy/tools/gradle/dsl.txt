@@ -1,5 +1,6 @@
 API:
 https://docs.gradle.org/current/dsl/org.gradle.api.Project.html
+https://docs.gradle.org/current/dsl/org.gradle.api.artifacts.Configuration.html
 
 src:
 https://github.com/gradle/gradle/blob/master/subprojects/docs/src/docs/dsl/dsl.xml

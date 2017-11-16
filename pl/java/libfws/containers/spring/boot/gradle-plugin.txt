@@ -4,10 +4,13 @@ bootRun
 https://spring.io/blog/2017/04/05/spring-boot-s-new-gradle-plugin
 
 ref:
-http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/gradle-plugin/reference/
+https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-gradle-plugin.html
 
 api:
 http://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/gradle-plugin/api/
+
+dsl-configuration:
+https://docs.gradle.org/current/dsl/org.gradle.api.artifacts.Configuration.html
 
 issues:
 https://github.com/spring-projects/spring-boot/issues?utf8=%E2%9C%93&q=label%3A%22theme%3A%20gradle-plugin%22
