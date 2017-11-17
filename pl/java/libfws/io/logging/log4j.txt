@@ -1,2 +1,4 @@
 config:
 -Dlog4j.configuration=jfx.properties
+
+https://wiki.apache.org/logging-log4j/Log4jXmlFormat
