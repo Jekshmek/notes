@@ -3,12 +3,13 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Nov 16
+amway.ru - eSpring
+cpp - iterator category/tag-dispatching
 
 Video:
 Belkovsky                                           -   26:00 (of 1:41:34)
 
 Literature:
-2017-11-17-odin-0005                                -   47:00 (of 1:46:28)
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Kaminskaya 5                                        -   50:00 (of 1:10:16)
@@ -30,8 +31,7 @@ Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
-chernov-uzy                                         -   02:00 (of 1:29:41)
-Markova - bomzhi                                    -   55:00 (of 1:31:25)
+chernov-uzy                                         -   31:00 (of 1:29:41)
 
 Tracking:
 Razbor Poletov                                      - 143
@@ -44,6 +44,3 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-
-amway.ru - eSpring
-cpp - iterator category/tag-dispatching
