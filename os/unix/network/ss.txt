@@ -1,0 +1,3 @@
+ss - another util to investigate sockets
+
+ss -nlp | grep 8080

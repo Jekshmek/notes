@@ -1,3 +1,26 @@
 https://docs.spring.io/spring-boot/docs/current/reference/html/executable-jar.html#executable-jar-property-launcher-features
 
 https://stackoverflow.com/questions/15930782/call-java-jar-myfile-jar-with-additional-classpath-option
+
+BOOT-INF
+    classes
+        user-stuff-classes
+    lib
+        -//-
+
+META-INF/MANIFEST.MF
+
+Manifest-Version: 1.0
+Start-Class: com.clarabridge.fxservice.App
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 1.5.8.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+
+
+org/springframework/boot/loader
+    ...
+    JarLauncher.class
+    ...
+
+? loader.properties
