@@ -1,0 +1,5 @@
+https://github.com/solo-io/squash
+
+https://github.com/solo-io/squash/blob/master/docs/getting-started.md
+
+https://www.solo.io/single-post/2017/08/22/Technical-introduction-to-Squash

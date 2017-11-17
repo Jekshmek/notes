@@ -1,5 +1,9 @@
-https://boats.gitlab.io/failure/doc/failure/
+https://crates.io/crates/failure
+
 https://boats.gitlab.io/failure/
+https://boats.gitlab.io/failure/doc/failure/
 
 https://github.com/withoutboats/failure
 https://github.com/withoutboats/derive-fail
+
+https://boats.gitlab.io/blog/post/2017-11-16-announcing-failure/
