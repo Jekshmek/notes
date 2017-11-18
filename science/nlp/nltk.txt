@@ -1,0 +1,10 @@
+http://www.nltk.org
+https://github.com/nltk/nltk
+
+http://www.nltk.org/book/
+
+http://www.nltk.org/book/ch08.html
+https://habrahabr.ru/post/340404/
+https://habrahabr.ru/post/340574/
+https://habrahabr.ru/post/342162/
+http://www.nltk.org/book/ch08.html

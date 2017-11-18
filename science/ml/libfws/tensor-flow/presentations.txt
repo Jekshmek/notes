@@ -1,4 +1,7 @@
 2017:
+https://aiukraine.com/session/e-volyutsiya-tensorflow-onlajn-doklad/
+https://aiukraine.com/wp-content/uploads/2017/10/1_8-Simbirsky.pdf
+https://www.youtube.com/watch?v=lccPTe3coyk
 Edureka - Intro to TF
 https://www.youtube.com/watch?v=uh2Fh6df7Lg
 Dean - TensorFlow with XLA

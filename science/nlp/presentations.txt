@@ -1,4 +1,7 @@
 2017:
+Nikolenko - DeepLearning for NLP
+https://aiukraine.com/speaker/sergej-nikolenko/
+https://www.youtube.com/watch?v=akpiJiu3Quo
 Harrison - NLP made easy in Python
 https://www.youtube.com/watch?v=hwkDjBDtKDM
 2016:

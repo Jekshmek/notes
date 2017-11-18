@@ -1,0 +1,11 @@
+https://vk.com/apiclub
+https://vk.com/dev/publications
+
+https://vk.com/dev/manuals
+
+https://vk.com/dev/SDK
+https://vk.com/dev/Java_SDK
+https://github.com/VKCOM/vk-api-schema
+
+https://vk.com/dev/streaming_api
+https://vk.com/dev/streaming_api_docs
