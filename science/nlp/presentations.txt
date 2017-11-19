@@ -4,6 +4,8 @@ https://aiukraine.com/speaker/sergej-nikolenko/
 https://www.youtube.com/watch?v=akpiJiu3Quo
 Harrison - NLP made easy in Python
 https://www.youtube.com/watch?v=hwkDjBDtKDM
+Burtsev - Using DL for solving NLP Problems
+https://vk.com/doc260654063_440321195
 2016:
 Harrison - Modern NLP in Python
 https://www.youtube.com/watch?v=6zm9NC9uRkk
