@@ -11,6 +11,8 @@ https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/s
 PropertiesLauncher:
 https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/loader/PropertiesLauncher.html
 https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-tools/spring-boot-loader/src/main/java/org/springframework/boot/loader/PropertiesLauncher.java
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-tools/spring-boot-loader/src/main/java/org/springframework/boot/loader/LaunchedURLClassLoader.java
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-tools/spring-boot-loader/src/main/java/org/springframework/boot/loader/jar/Handler.java
 https://docs.spring.io/spring-boot/docs/2.0.0.M1/gradle-plugin/reference/html/#packaging-executable-configuring-properties-launcher
 
 org/springframework/boot/loader
