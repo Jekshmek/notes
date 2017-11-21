@@ -1,0 +1,7 @@
+https://docs.gitlab.com/ee/ci/README.html
+
+https://docs.gitlab.com/ee/ci/docker/using_docker_build.html
+https://docs.gitlab.com/ee/user/project/integrations/kubernetes.html
+
+https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/
+

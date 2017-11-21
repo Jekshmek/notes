@@ -1,0 +1,461 @@
+{
+  "activeProfiles": [],
+  "propertySources": [
+    {
+      "name": "server.ports",
+      "properties": {
+        "local.management.port": {
+          "value": 9090
+        },
+        "local.server.port": {
+          "value": 8080
+        }
+      }
+    },
+    {
+      "name": "servletContextInitParams",
+      "properties": {}
+    },
+    {
+      "name": "systemProperties",
+      "properties": {
+        "java.runtime.name": {
+          "value": "Java(TM) SE Runtime Environment"
+        },
+        "java.protocol.handler.pkgs": {
+          "value": "org.springframework.boot.loader"
+        },
+        "sun.boot.library.path": {
+          "value": "/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/amd64"
+        },
+        "java.vm.version": {
+          "value": "25.151-b12"
+        },
+        "java.vm.vendor": {
+          "value": "Oracle Corporation"
+        },
+        "java.vendor.url": {
+          "value": "http://java.oracle.com/"
+        },
+        "path.separator": {
+          "value": ":"
+        },
+        "java.vm.name": {
+          "value": "Java HotSpot(TM) 64-Bit Server VM"
+        },
+        "file.encoding.pkg": {
+          "value": "sun.io"
+        },
+        "user.country": {
+          "value": "US"
+        },
+        "sun.java.launcher": {
+          "value": "SUN_STANDARD"
+        },
+        "sun.os.patch.level": {
+          "value": "unknown"
+        },
+        "PID": {
+          "value": "10230"
+        },
+        "java.vm.specification.name": {
+          "value": "Java Virtual Machine Specification"
+        },
+        "user.dir": {
+          "value": "/data/wrk/clb/fx/fxservice"
+        },
+        "java.runtime.version": {
+          "value": "1.8.0_151-b12"
+        },
+        "java.awt.graphicsenv": {
+          "value": "sun.awt.X11GraphicsEnvironment"
+        },
+        "java.endorsed.dirs": {
+          "value": "/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/endorsed"
+        },
+        "os.arch": {
+          "value": "amd64"
+        },
+        "java.io.tmpdir": {
+          "value": "/tmp"
+        },
+        "line.separator": {
+          "value": "\n"
+        },
+        "java.vm.specification.vendor": {
+          "value": "Oracle Corporation"
+        },
+        "os.name": {
+          "value": "Linux"
+        },
+        "sun.jnu.encoding": {
+          "value": "UTF-8"
+        },
+        "spring.beaninfo.ignore": {
+          "value": "true"
+        },
+        "java.library.path": {
+          "value": "build/libs/shared"
+        },
+        "java.specification.name": {
+          "value": "Java Platform API Specification"
+        },
+        "java.class.version": {
+          "value": "52.0"
+        },
+        "sun.management.compiler": {
+          "value": "HotSpot 64-Bit Tiered Compilers"
+        },
+        "os.version": {
+          "value": "4.9.61-3-MANJARO"
+        },
+        "user.home": {
+          "value": "/home/iharh"
+        },
+        "user.timezone": {
+          "value": "Europe/Minsk"
+        },
+        "java.awt.printerjob": {
+          "value": "sun.print.PSPrinterJob"
+        },
+        "loader.system": {
+          "value": "true"
+        },
+        "file.encoding": {
+          "value": "UTF-8"
+        },
+        "java.specification.version": {
+          "value": "1.8"
+        },
+        "java.class.path": {
+          "value": "build/libs/fxservice.jar"
+        },
+        "user.name": {
+          "value": "iharh"
+        },
+        "loader.path": {
+          "value": "build/libs/shared"
+        },
+        "java.vm.specification.version": {
+          "value": "1.8"
+        },
+        "sun.java.command": {
+          "value": "build/libs/fxservice.jar"
+        },
+        "java.home": {
+          "value": "/home/iharh/.sdkman/candidates/java/8u151-oracle/jre"
+        },
+        "sun.arch.data.model": {
+          "value": "64"
+        },
+        "user.language": {
+          "value": "en"
+        },
+        "java.specification.vendor": {
+          "value": "Oracle Corporation"
+        },
+        "awt.toolkit": {
+          "value": "sun.awt.X11.XToolkit"
+        },
+        "java.vm.info": {
+          "value": "mixed mode"
+        },
+        "java.version": {
+          "value": "1.8.0_151"
+        },
+        "java.ext.dirs": {
+          "value": "/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/ext:/usr/java/packages/lib/ext"
+        },
+        "loader.debug": {
+          "value": "true"
+        },
+        "sun.boot.class.path": {
+          "value": "/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/resources.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/rt.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/sunrsasign.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/jsse.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/jce.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/charsets.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/lib/jfr.jar:/home/iharh/.sdkman/candidates/java/8u151-oracle/jre/classes"
+        },
+        "java.awt.headless": {
+          "value": "true"
+        },
+        "java.vendor": {
+          "value": "Oracle Corporation"
+        },
+        "file.separator": {
+          "value": "/"
+        },
+        "java.vendor.url.bug": {
+          "value": "http://bugreport.sun.com/bugreport/"
+        },
+        "sun.io.unicode.encoding": {
+          "value": "UnicodeLittle"
+        },
+        "sun.cpu.endian": {
+          "value": "little"
+        },
+        "sun.cpu.isalist": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "name": "systemEnvironment",
+      "properties": {
+        "PATH": {
+          "value": "/home/iharh/.zplug/bin:/data/wrk/.cargo/bin:/home/iharh/.sdkman/candidates/java/current/bin:/home/iharh/.sdkman/candidates/gradle/current/bin:/opt/google-cloud-sdk/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+          "origin": "System Environment Property \"PATH\""
+        },
+        "XAUTHORITY": {
+          "value": "/home/iharh/.Xauthority",
+          "origin": "System Environment Property \"XAUTHORITY\""
+        },
+        "INVOCATION_ID": {
+          "value": "bbf10d164d814187bea5d1d1f1318136",
+          "origin": "System Environment Property \"INVOCATION_ID\""
+        },
+        "SDKMAN_VERSION": {
+          "value": "5.5.13+272",
+          "origin": "System Environment Property \"SDKMAN_VERSION\""
+        },
+        "ZPLUG_SHALLOW": {
+          "value": "true",
+          "origin": "System Environment Property \"ZPLUG_SHALLOW\""
+        },
+        "ZPLUG_PROTOCOL": {
+          "value": "HTTPS",
+          "origin": "System Environment Property \"ZPLUG_PROTOCOL\""
+        },
+        "DBUS_SESSION_BUS_ADDRESS": {
+          "value": "unix:path=/run/user/1000/bus",
+          "origin": "System Environment Property \"DBUS_SESSION_BUS_ADDRESS\""
+        },
+        "JOURNAL_STREAM": {
+          "value": "8:1964",
+          "origin": "System Environment Property \"JOURNAL_STREAM\""
+        },
+        "CLOUDSDK_PYTHON": {
+          "value": "python2",
+          "origin": "System Environment Property \"CLOUDSDK_PYTHON\""
+        },
+        "MAIL": {
+          "value": "/var/spool/mail/iharh",
+          "origin": "System Environment Property \"MAIL\""
+        },
+        "STACK_CONFIG": {
+          "value": "/home/iharh/.stack/config.yaml",
+          "origin": "System Environment Property \"STACK_CONFIG\""
+        },
+        "MOZ_PLUGIN_PATH": {
+          "value": "/usr/lib/mozilla/plugins",
+          "origin": "System Environment Property \"MOZ_PLUGIN_PATH\""
+        },
+        "COLORTERM": {
+          "value": "rxvt-xpm",
+          "origin": "System Environment Property \"COLORTERM\""
+        },
+        "RUSTUP_HOME": {
+          "value": "/data/wrk/.rustup",
+          "origin": "System Environment Property \"RUSTUP_HOME\""
+        },
+        "SDKMAN_DIR": {
+          "value": "/home/iharh/.sdkman",
+          "origin": "System Environment Property \"SDKMAN_DIR\""
+        },
+        "LOGNAME": {
+          "value": "iharh",
+          "origin": "System Environment Property \"LOGNAME\""
+        },
+        "PWD": {
+          "value": "/data/wrk/clb/fx/fxservice",
+          "origin": "System Environment Property \"PWD\""
+        },
+        "CARGO_HOME": {
+          "value": "/data/wrk/.cargo",
+          "origin": "System Environment Property \"CARGO_HOME\""
+        },
+        "WINDOWID": {
+          "value": "37748976",
+          "origin": "System Environment Property \"WINDOWID\""
+        },
+        "VAGRANT_HOME": {
+          "value": "/data/wrk/.vagrant.d",
+          "origin": "System Environment Property \"VAGRANT_HOME\""
+        },
+        "SHELL": {
+          "value": "/usr/bin/zsh",
+          "origin": "System Environment Property \"SHELL\""
+        },
+        "OLDPWD": {
+          "value": "/home/iharh",
+          "origin": "System Environment Property \"OLDPWD\""
+        },
+        "ZSH": {
+          "value": "/home/iharh/.zplug/repos/robbyrussell/oh-my-zsh",
+          "origin": "System Environment Property \"ZSH\""
+        },
+        "GTK_MODULES": {
+          "value": "canberra-gtk-module",
+          "origin": "System Environment Property \"GTK_MODULES\""
+        },
+        "ZPLUG_EXTERNAL": {
+          "value": "/home/iharh/.zplug/init.zsh",
+          "origin": "System Environment Property \"ZPLUG_EXTERNAL\""
+        },
+        "CLOUDSDK_PYTHON_ARGS": {
+          "value": "-S",
+          "origin": "System Environment Property \"CLOUDSDK_PYTHON_ARGS\""
+        },
+        "GOOGLE_CLOUD_SDK_HOME": {
+          "value": "/opt/google-cloud-sdk",
+          "origin": "System Environment Property \"GOOGLE_CLOUD_SDK_HOME\""
+        },
+        "COLORFGBG": {
+          "value": "12;default;8",
+          "origin": "System Environment Property \"COLORFGBG\""
+        },
+        "LS_COLORS": {
+          "value": "no=00:fi=00:di=36:ln=35:pi=30;44:so=35;44:do=35;44:bd=33;44:cd=37;44:or=05;37;41:mi=05;37;41:ex=01;31:*.cmd=01;31:*.exe=01;31:*.com=01;31:*.bat=01;31:*.reg=01;31:*.app=01;31:*.txt=32:*.org=32:*.md=32:*.mkd=32:*.h=32:*.c=32:*.C=32:*.cc=32:*.cpp=32:*.cxx=32:*.objc=32:*.sh=32:*.csh=32:*.zsh=32:*.el=32:*.vim=32:*.java=32:*.pl=32:*.pm=32:*.py=32:*.rb=32:*.hs=32:*.php=32:*.htm=32:*.html=32:*.shtml=32:*.erb=32:*.haml=32:*.xml=32:*.rdf=32:*.css=32:*.sass=32:*.scss=32:*.less=32:*.js=32:*.coffee=32:*.man=32:*.0=32:*.1=32:*.2=32:*.3=32:*.4=32:*.5=32:*.6=32:*.7=32:*.8=32:*.9=32:*.l=32:*.n=32:*.p=32:*.pod=32:*.tex=32:*.bmp=33:*.cgm=33:*.dl=33:*.dvi=33:*.emf=33:*.eps=33:*.gif=33:*.jpeg=33:*.jpg=33:*.JPG=33:*.mng=33:*.pbm=33:*.pcx=33:*.pdf=33:*.pgm=33:*.png=33:*.PNG=33:*.ppm=33:*.pps=33:*.ppsx=33:*.ps=33:*.svg=33:*.svgz=33:*.tga=33:*.tif=33:*.tiff=33:*.xbm=33:*.xcf=33:*.xpm=33:*.xwd=33:*.xwd=33:*.yuv=33:*.aac=33:*.au=33:*.flac=33:*.mid=33:*.midi=33:*.mka=33:*.mp3=33:*.mpa=33:*.mpeg=33:*.mpg=33:*.ogg=33:*.ra=33:*.wav=33:*.anx=33:*.asf=33:*.avi=33:*.axv=33:*.flc=33:*.fli=33:*.flv=33:*.gl=33:*.m2v=33:*.m4v=33:*.mkv=33:*.mov=33:*.MOV=33:*.mp4=33:*.mp4v=33:*.mpeg=33:*.mpg=33:*.nuv=33:*.ogm=33:*.ogv=33:*.ogx=33:*.qt=33:*.rm=33:*.rmvb=33:*.swf=33:*.vob=33:*.webm=33:*.wmv=33:*.doc=31:*.docx=31:*.rtf=31:*.dot=31:*.dotx=31:*.xls=31:*.xlsx=31:*.ppt=31:*.pptx=31:*.fla=31:*.psd=31:*.7z=1;35:*.apk=1;35:*.arj=1;35:*.bin=1;35:*.bz=1;35:*.bz2=1;35:*.cab=1;35:*.deb=1;35:*.dmg=1;35:*.gem=1;35:*.gz=1;35:*.iso=1;35:*.jar=1;35:*.msi=1;35:*.rar=1;35:*.rpm=1;35:*.tar=1;35:*.tbz=1;35:*.tbz2=1;35:*.tgz=1;35:*.tx=1;35:*.war=1;35:*.xpi=1;35:*.xz=1;35:*.z=1;35:*.Z=1;35:*.zip=1;35:*.ANSI-30-black=30:*.ANSI-01;30-brblack=01;30:*.ANSI-31-red=31:*.ANSI-01;31-brred=01;31:*.ANSI-32-green=32:*.ANSI-01;32-brgreen=01;32:*.ANSI-33-yellow=33:*.ANSI-01;33-bryellow=01;33:*.ANSI-34-blue=34:*.ANSI-01;34-brblue=01;34:*.ANSI-35-magenta=35:*.ANSI-01;35-brmagenta=01;35:*.ANSI-36-cyan=36:*.ANSI-01;36-brcyan=01;36:*.ANSI-37-white=37:*.ANSI-01;37-brwhite=01;37:*.log=01;32:*~=01;32:*#=01;32:*.bak=01;36:*.BAK=01;36:*.old=01;36:*.OLD=01;36:*.org_archive=01;36:*.off=01;36:*.OFF=01;36:*.dist=01;36:*.DIST=01;36:*.orig=01;36:*.ORIG=01;36:*.swp=01;36:*.swo=01;36:*,v=01;36:*.gpg=34:*.gpg=34:*.pgp=34:*.asc=34:*.3des=34:*.aes=34:*.enc=34:*.sqlite=34:",
+          "origin": "System Environment Property \"LS_COLORS\""
+        },
+        "SHLVL": {
+          "value": "2",
+          "origin": "System Environment Property \"SHLVL\""
+        },
+        "SDKMAN_CURRENT_API": {
+          "value": "https://api.sdkman.io/2",
+          "origin": "System Environment Property \"SDKMAN_CURRENT_API\""
+        },
+        "ZPLUG_THREADS": {
+          "value": "16",
+          "origin": "System Environment Property \"ZPLUG_THREADS\""
+        },
+        "ZPLUG_USE_CACHE": {
+          "value": "true",
+          "origin": "System Environment Property \"ZPLUG_USE_CACHE\""
+        },
+        "JAVA_HOME": {
+          "value": "/home/iharh/.sdkman/candidates/java/current",
+          "origin": "System Environment Property \"JAVA_HOME\""
+        },
+        "TERM": {
+          "value": "xterm-256color",
+          "origin": "System Environment Property \"TERM\""
+        },
+        "XFILESEARCHPATH": {
+          "value": "/usr/dt/app-defaults/%L/Dt",
+          "origin": "System Environment Property \"XFILESEARCHPATH\""
+        },
+        "LANG": {
+          "value": "en_US.UTF-8",
+          "origin": "System Environment Property \"LANG\""
+        },
+        "XDG_SESSION_ID": {
+          "value": "c1",
+          "origin": "System Environment Property \"XDG_SESSION_ID\""
+        },
+        "GRADLE_HOME": {
+          "value": "/home/iharh/.sdkman/candidates/gradle/current",
+          "origin": "System Environment Property \"GRADLE_HOME\""
+        },
+        "ZPLUG_HOME": {
+          "value": "/home/iharh/.zplug",
+          "origin": "System Environment Property \"ZPLUG_HOME\""
+        },
+        "DISPLAY": {
+          "value": ":0",
+          "origin": "System Environment Property \"DISPLAY\""
+        },
+        "STACK_ROOT": {
+          "value": "/data/wrk/.stack",
+          "origin": "System Environment Property \"STACK_ROOT\""
+        },
+        "CLOUDSDK_ROOT_DIR": {
+          "value": "/opt/google-cloud-sdk",
+          "origin": "System Environment Property \"CLOUDSDK_ROOT_DIR\""
+        },
+        "ZPLUG_FILTER": {
+          "value": "fzf-tmux:fzf:peco:percol:zaw",
+          "origin": "System Environment Property \"ZPLUG_FILTER\""
+        },
+        "SDKMAN_CANDIDATES_DIR": {
+          "value": "/home/iharh/.sdkman/candidates",
+          "origin": "System Environment Property \"SDKMAN_CANDIDATES_DIR\""
+        },
+        "_": {
+          "value": "/home/iharh/.sdkman/candidates/java/current/bin/java",
+          "origin": "System Environment Property \"_\""
+        },
+        "SDKMAN_LEGACY_API": {
+          "value": "https://api.sdkman.io/1",
+          "origin": "System Environment Property \"SDKMAN_LEGACY_API\""
+        },
+        "DESKTOP_SESSION": {
+          "value": "/usr/bin/openbox-session",
+          "origin": "System Environment Property \"DESKTOP_SESSION\""
+        },
+        "SDKMAN_PLATFORM": {
+          "value": "Linux64",
+          "origin": "System Environment Property \"SDKMAN_PLATFORM\""
+        },
+        "USER": {
+          "value": "iharh",
+          "origin": "System Environment Property \"USER\""
+        },
+        "DESKTOP_STARTUP_ID": {
+          "value": "openbox/urxvt/1298-0-ihdesk_TIME462957",
+          "origin": "System Environment Property \"DESKTOP_STARTUP_ID\""
+        },
+        "GTK2_RC_FILES": {
+          "value": "/home/iharh/.gtkrc-2.0",
+          "origin": "System Environment Property \"GTK2_RC_FILES\""
+        },
+        "XDG_SEAT": {
+          "value": "seat0",
+          "origin": "System Environment Property \"XDG_SEAT\""
+        },
+        "EDITOR": {
+          "value": "vim",
+          "origin": "System Environment Property \"EDITOR\""
+        },
+        "NLSPATH": {
+          "value": "/usr/dt/lib/nls/msg/%L/%N.cat",
+          "origin": "System Environment Property \"NLSPATH\""
+        },
+        "XDG_RUNTIME_DIR": {
+          "value": "/run/user/1000",
+          "origin": "System Environment Property \"XDG_RUNTIME_DIR\""
+        },
+        "XDG_VTNR": {
+          "value": "7",
+          "origin": "System Environment Property \"XDG_VTNR\""
+        },
+        "HOME": {
+          "value": "/home/iharh",
+          "origin": "System Environment Property \"HOME\""
+        }
+      }
+    },
+    {
+      "name": "applicationConfig: [classpath:/application.yml]",
+      "properties": {
+        "server.port": {
+          "value": 8080,
+          "origin": "class path resource [application.yml]:2:9"
+        },
+        "management.server.port": {
+          "value": 9090,
+          "origin": "class path resource [application.yml]:5:11"
+        },
+        "management.server.security.enabled": {
+          "value": false,
+          "origin": "class path resource [application.yml]:7:16"
+        },
+        "management.endpoints.web.base-path": {
+          "value": "/application",
+          "origin": "class path resource [application.yml]:10:18"
+        },
+        "endpoints.env.enabled": {
+          "value": true,
+          "origin": "class path resource [application.yml]:13:14"
+        }
+      }
+    }
+  ]
+}

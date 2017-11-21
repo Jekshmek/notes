@@ -1,8 +1,9 @@
 URLs:
+http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 18
+  Nov 20
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -14,7 +15,7 @@ Literature:
 LeninPoland                                         -   38:00 (of   41:00)
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 6                                        -   00:00 (of )
+Kaminskaya 7                                        -   00:00 (of )
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -27,7 +28,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 
 Audio:
 Paschenko 2.2                                       -   00:00 (of 1:04:30)
-Ivliev - 43                                         -   00:00 (of)
+Ivliev - 44                                         -   00:00 (of)
 Sorokin - B 4                                       -   00:00 (of)
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)

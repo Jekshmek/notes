@@ -4,6 +4,7 @@ http://superuser.com/questions/161722/how-to-list-imported-symbols-in-elf-execut
 
 readelf
     -d
+        dynamic section (imported symbols)
 
     -s
     -Ws
