@@ -1,6 +1,9 @@
 presentations:
 https://www.infoq.com/presentations/4-concepts-webpack
 https://www.slideshare.net/denisizmaylov/webpack-7
+2017:
+Ivanov - WebPack bundle internals ru
+https://www.youtube.com/watch?v=jE1ibm037Fo
 
 articles:
 https://habrahabr.ru/post/339590/

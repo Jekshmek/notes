@@ -14,3 +14,29 @@ aphyr-jepsen:
 https://aphyr.com/posts/333-serializability-linearizability-and-locality
 https://aphyr.com/posts/313-strong-consistency-models
 https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions
+
+Kleppmann:
+2015 - Designing Data Intensive Applications
+
+grischenko:
+https://vimeo.com/196172281
+https://vk.com/gritzko
+https://github.com/gritzko
+https://twitter.com/gritzko
+    https://github.com/gritzko/swarm
+    http://swarmjs.github.io/
+    https://www.youtube.com/watch?v=1ddm7WCMclA
+    https://gritzko.gitbooks.io/swarm-the-protocol/content/
+
+    https://github.com/gritzko/ron
+    https://www.youtube.com/watch?v=fb6UnKVkwVA
+    https://github.com/gritzko/swarm-ron-docs
+
+Heather Miller:
+https://www.youtube.com/watch?v=eAcDWcaezXY
+https://github.com/papers-we-love/pwlconf-info/blob/master/2017/heather-miller/what-happened-to-distributed-pls.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.147.3932&rep=rep1&type=pdf
+
+alex pi:
+https://medium.com/@ifesdjeen
+https://twitter.com/ifesdjeen
