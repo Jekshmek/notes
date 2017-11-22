@@ -8,7 +8,6 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Grischenko - Monolits                               -   30:00 (of   43:33)
 Pashkevich - OAuth 2                                -   15:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 

@@ -29,6 +29,7 @@ https://twitter.com/gritzko
     https://gritzko.gitbooks.io/swarm-the-protocol/content/
 
     https://github.com/gritzko/ron
+    https://www.youtube.com/watch?v=pq8OnTUPck4
     https://www.youtube.com/watch?v=fb6UnKVkwVA
     https://github.com/gritzko/swarm-ron-docs
 
