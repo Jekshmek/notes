@@ -1,5 +1,5 @@
 URLs:
-http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
+https://ru-bykov.livejournal.com/3182762.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -8,6 +8,7 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
+Grischenko - Monolits                               -   30:00 (of   43:33)
 Pashkevich - OAuth 2                                -   15:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
@@ -30,7 +31,8 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Audio:
 Paschenko 2.2                                       -   00:00 (of 1:04:30)
 Ivliev - 44                                         -   00:00 (of)
-Sorokin - B 4                                       -   00:00 (of)
+Sorokin - B 5                                       -   00:00 (of)
+http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
@@ -39,7 +41,7 @@ Andrei Dudarev                                      -   08:00 (of 1:58:16)
 Tracking:
 Razbor Poletov                                      - 143
 Bananas and Lens                                    - 39
-This week in rust                                   - 208
+This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
 
 Books:
