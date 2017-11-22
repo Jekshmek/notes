@@ -16,3 +16,10 @@ tasks.withType(JavaCompile) { JavaCompile t ->
     t.systemProperty "java.library.path", file("./src/main/resources/META-INF/opencv-2.4.9/windows_bin/x64")
     t.options        "java.library.path", file("./src/main/resources/META-INF/opencv-2.4.9/windows_bin/x64")
 }
+
+project properties:
+https://docs.gradle.org/current/userguide/writing_build_scripts.html
+https://docs.gradle.org/current/userguide/java_plugin.html
+projectDir
+buildDir
+libsDir

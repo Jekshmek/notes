@@ -4,7 +4,9 @@ loader.path
     coma-separated-list of additional cp entries
 loader.system
 loader.properties
-    ?
+    loader.system=true
+    loader.path=build/libs/shared
+    java.library.path=build/libs/shared
 
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-tools/spring-boot-loader/src/main/java/org/springframework/boot/loader
 
