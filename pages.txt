@@ -1,4 +1,5 @@
 URLs:
+1.10
 https://ru-bykov.livejournal.com/3182762.html
 https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -9,33 +10,27 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Pashkevich - OAuth 2                                -   15:00 (of   45:19)
+Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
-Literature:
+Lit:
 Malishevsky - ?
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 8                                        -   00:00 (of )
+Kaminskaya 9                                        -   00:00 (of 1:18:57)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
+Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 
-Series:
-Linux Networking 04                                 -   06:00 (of 1:04:40)
-Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
-???Python Fundamentals                              -   0301
-
-Audio:
-Strelov                                             - 1:01:00 (of )
+Ortho:
 Paschenko 2.2                                       -   00:00 (of 1:04:30)
 Ivliev - 44                                         -   00:00 (of)
 Sorokin - B 5                                       -   00:00 (of)
 http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
 
@@ -44,6 +39,11 @@ Razbor Poletov                                      - 143
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
+
+Series:
+Linux Networking 04                                 -   06:00 (of 1:04:40)
+Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
+???Python Fundamentals                              -   0301
 
 Books:
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

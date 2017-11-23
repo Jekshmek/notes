@@ -1,0 +1,57 @@
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java
+
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-docs/src/main/asciidoc/spring-boot-features.adoc#web-environment
+Web Environment:
+A SpringApplication attempts to create the right type of ApplicationContext on your behalf. By default, an AnnotationConfigApplicationContext or
+AnnotationConfigServletWebServerApplicationContext is used, depending on whether you are developing a web application or not.
+
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-tools/spring-boot-loader/src/it/executable-props-lib/src/main/java/org/springframework/boot/launcher/it/props/EmbeddedJarStarter.java
+
+public final class EmbeddedJarStarter {
+    public static void main(String[] args) throws Exception {
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(SpringConfiguration.class);
+        context.getBean(SpringConfiguration.class).run(args);
+        context.close();
+    }
+}
+
+SpringConfiguration.java
+@Configuration
+@ComponentScan
+public class SpringConfiguration implements InitializingBean {
+    private String message = "Jar";
+    @Override
+    public void afterPropertiesSet() throws IOException {
+        Properties props = new Properties();
+        props.load(new ClassPathResource("application.properties").getInputStream());
+        String value = props.getProperty("message");
+        if (value!=null) {
+            this.message = value;
+        }
+    }
+    public void run(String... args) {
+        System.err.println("Hello Embedded " + this.message + "!");
+    }
+}
+
+@Configuration
+@ComponentScan('com.clarabridge.services')
+class WebConfiguration {
+    
+    @Bean
+    @Autowired
+    public ForeignClass beanName(Service service) {
+        return new ForeignClass(service);
+    }
+
+}
+
+@Configuration ??? @Component
+Exporter {
+    @PostConstruct
+    @PreDestroy
+}
+
+@Autowired, @Inject, @Resource, and @Value annotations are handled by Spring BeanPostProcessor implementations
+which in turn means that you cannot apply these annotations within your own BeanPostProcessor or BeanFactoryPostProcessor types (if any).
+These types must be 'wired up' explicitly via XML or using a Spring @Bean method.
