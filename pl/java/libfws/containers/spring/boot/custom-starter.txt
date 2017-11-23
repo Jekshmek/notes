@@ -1,3 +1,7 @@
+2017:
+JavaJam - Tolkachev, Gorelikov - Why write a custom starter
+https://www.youtube.com/watch?v=CNVlhnO4UzE
+
 A full Spring Boot starter for a library may contain the following components:
 * The autoconfigure module that contains the auto-configuration code.
 * The starter module that provides a dependency to the autoconfigure module as well

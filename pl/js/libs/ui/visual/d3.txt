@@ -7,3 +7,9 @@ https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
 britecharts:
 http://eventbrite.github.io/britecharts/
 https://github.com/eventbrite/britecharts/
+
+nvd3:
+http://nvd3.org/
+
+galery:
+https://bl.ocks.org/

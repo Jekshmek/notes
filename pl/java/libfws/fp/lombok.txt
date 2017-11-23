@@ -4,7 +4,17 @@ https://projectlombok.org/changelog.html
 articles:
 https://www.ibm.com/developerworks/library/j-lombok/
 
-Logging:
+https://github.com/franzbecker/gradle-lombok
+installLombok
+verifyLombok
+
+config:
+https://projectlombok.org/features/configuration
+
+features:
+https://projectlombok.org/features/all
+
+logging:
 https://projectlombok.org/features/Log.html
 
 import lombok.extern.slf4j.Slf4j;
@@ -16,6 +26,9 @@ https://projectlombok.org/features/Synchronized.html
 
 @SneakyThrows
 https://projectlombok.org/features/SneakyThrows.html
+
+@Cleanup
+https://projectlombok.org/features/Cleanup
 
 val
 https://projectlombok.org/features/val.html

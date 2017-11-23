@@ -1,2 +1,5 @@
+2017:
+Extreme Gradient Boosting with R
+https://www.youtube.com/watch?v=woVTNwRrFHE
 2016:
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/

@@ -6,6 +6,12 @@ Heaton - Applications of Deep Neural Networks
 https://sites.wustl.edu/jeffheaton/t81-558/
 https://github.com/jeffheaton/t81_558_deep_learning
 https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
+NTU MiuLab
+https://www.youtube.com/channel/UCyB2RBqKbxDPGCs1PokeUiA/videos
+Choo - cs231n
+https://www.youtube.com/playlist?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl
+Data Science Courses - Ghodsi
+https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB
 
 2016:
 http://www.asozykin.ru/courses/nnpython

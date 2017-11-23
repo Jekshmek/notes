@@ -29,7 +29,6 @@ https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
 Stepik - Brovko - NNs 2016
 https://stepik.org/course/401
 https://www.youtube.com/playlist?list=PLwwk4BHih4fjZmSEwx_RcR1na6cQiV90z
-
 ComputerScienceCenter 2016 - ML
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
 
@@ -37,6 +36,14 @@ Kovalevski - only last 3 videos
 https://www.youtube.com/playlist?list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
 CMTV
 https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
+
+RUDN - Kantor - Data Mining in Action !!!
+http://datamininginaction.ru/
+https://vk.com/data_mining_in_action
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
+https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/
+
+
 MailRu2015 - DataMining
 https://www.youtube.com/playlist?list=PLrCZzMib1e9pXgyJ8Y9Io4AocGy66pj1X
 
