@@ -1,3 +1,5 @@
+https://blog.rust-lang.org/2017/11/22/Rust-1.22.html
+
 https://blog.rust-lang.org/2017/10/12/Rust-1.21.html
 
 https://blog.rust-lang.org/2017/07/20/Rust-1.19.html
