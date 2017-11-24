@@ -5,3 +5,4 @@ http://ktor.io/getting-started
 https://github.com/Kotlin/ktor
 
 https://www.bignerdranch.com/blog/want-kotlin-on-the-server-do-ktor/
+https://blog.simon-wirtz.de/web-app-kotlin-ktor/
