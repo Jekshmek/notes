@@ -1,1 +1,9 @@
+https://crates.io/crates/pest
+https://docs.rs/pest
+https://crates.io/crates/pest_derive
+https://docs.rs/pest_derive
+https://crates.io/crates/pest_grammars
+https://docs.rs/pest_grammars
+
 https://github.com/pest-parser/pest
+https://github.com/dbrgn/pest.vim
