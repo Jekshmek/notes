@@ -1,7 +1,7 @@
 rustc
     --explain E0038
     --release -- -Z print-type-sizes
-    -O --emit asm src/main.rs -C llvm-args=-x86-asm-syntax=intel
+    -O --emit [asm|llvm-ir] src/main.rs -C llvm-args=-x86-asm-syntax=intel
     -Z time-passes
         time for each of the compiler steps
 
