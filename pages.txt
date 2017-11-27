@@ -13,11 +13,12 @@ Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
 Lit:
+Bykov - GranatBraslet                               -   18:00 (of   27:38)
 Malishevsky - ?
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 9                                        -   00:00 (of 1:18:57)
+Kaminskaya 10                                       -   00:00 (of 1:18:57)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -34,7 +35,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
 
 Tracking:
-Razbor Poletov                                      - 143
+Razbor Poletov                                      - 145 25:00 (of 53:24)
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
