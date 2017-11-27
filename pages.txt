@@ -13,7 +13,7 @@ Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
 Lit:
-2017-11-24-odin-0006                                -   55:00 (of 1:45:45)
+2017-11-24-odin-0006                                - 1:35:00 (of 1:45:45)
 Malishevsky - ?
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
@@ -26,7 +26,7 @@ Volkova 2                                           -   00:00 (of 1:28:48)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 
 Ortho:
-Paschenko 2.2                                       -   00:00 (of 1:04:30)
+Paschenko 2.3                                       -   00:00 (of)
 Ivliev - 44                                         -   00:00 (of)
 Sorokin - B 5                                       -   00:00 (of)
 http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/

@@ -1,3 +1,6 @@
+articles:
+https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb
+https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-di-part-i-f5cc4e5ad878
 http://habrahabr.ru/company/ncloudtech/blog/274025/
 
 presentations:
