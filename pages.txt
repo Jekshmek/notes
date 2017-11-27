@@ -35,7 +35,7 @@ Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
 
 Tracking:
-Razbor Poletov                                      - 145 25:00 (of 53:24)
+Razbor Poletov                                      - 145 35:00 (of 53:24)
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
