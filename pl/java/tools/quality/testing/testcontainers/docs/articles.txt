@@ -1,4 +1,5 @@
 2017:
+https://habrahabr.ru/company/jugru/blog/343298/
 https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
     https://github.com/bsideup/javaagent-boilerplate
 https://medium.com/@bsideup/testing-your-docker-containers-with-testcontainers-and-groovy-3b9ef97ad1c2

@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 25
+  Nov 27
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
