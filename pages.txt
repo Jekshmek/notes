@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 27
+  Nov 28
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -13,8 +13,8 @@ Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
 Lit:
-Bykov - GranatBraslet                               -   18:00 (of   27:38)
-Malishevsky - DeBor                                 - 1:00:00 (of 1:38:10)
+Bykov-Gogol                                         -   35:00 (of   48:09)
+Malishevsky -
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
