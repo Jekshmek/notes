@@ -3,6 +3,8 @@ https://kotlinlang.org/docs/reference/type-safe-builders.html
 
 presentations:
 2017:
+Petrenko - Kotlin DSLs in 42 min
+https://www.youtube.com/watch?v=gPH9XnvpoXE
 https://bkug.by/wp-content/uploads/2017/06/DSL-BKUG.pdf
 https://www.youtube.com/watch?v=xIoHJlXziXk
 https://www.youtube.com/watch?v=gPH9XnvpoXE

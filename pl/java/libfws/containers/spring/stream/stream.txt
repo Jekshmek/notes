@@ -1,0 +1,4 @@
+presentations:
+2017:
+Pilimon - Event Sourcing and CQRS with Spring Stream
+https://www.youtube.com/watch?v=eqPMmotEfsA

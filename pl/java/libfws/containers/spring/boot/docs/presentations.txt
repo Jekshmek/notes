@@ -1,4 +1,10 @@
-Bhave - 2017 - A sneak peak into Spring Boot 2.0
+2017:
+Borisov, Tolkachev - Boot yourself, Spring is coming
+https://www.youtube.com/watch?v=OYO_r2bfX7U
+Nicol - Spring Boot 2 Web Applications
+https://www.youtube.com/watch?v=SXDFkTrLK2I
+https://www.youtube.com/watch?v=Q-9bUsrLVpI
+Bhave - A sneak peak into Spring Boot 2.0
 https://vimeo.com/233816622
 
 Syer - Bootiful Applications with Spring Boot

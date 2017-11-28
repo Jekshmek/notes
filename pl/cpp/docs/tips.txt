@@ -1,0 +1,2 @@
+https://abseil.io/tips/
+https://github.com/abseil/

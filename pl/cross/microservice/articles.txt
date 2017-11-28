@@ -1,0 +1,5 @@
+https://www.nginx.com/blog/tag/microservices-architecture/
+
+https://www.nginx.com/blog/introduction-to-microservices/
+https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
+https://www.nginx.com/blog/building-microservices-inter-process-communication/

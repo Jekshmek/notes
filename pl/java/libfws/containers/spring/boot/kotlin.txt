@@ -1,1 +1,5 @@
 https://blog.pusher.com/getting-started-rest-kotlin-using-spring-boot/
+
+2017:
+Heckler, Deleuze - From Spring Boot 1 in Java to Spring Boot 2 in Kotlin
+https://www.youtube.com/watch?v=MUa_Yp2KbBI

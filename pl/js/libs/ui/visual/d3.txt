@@ -1,6 +1,11 @@
 book:
 http://alignedleft.com/work/d3-book
 
+presentations:
+2017:
+Dirksen - D3 js - Easy and flexible data visualisation using Web standards
+https://www.youtube.com/watch?v=rJp_GDtLKjo
+
 d3-express
 https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
 

@@ -1,5 +1,11 @@
 http://www.devglan.com/faq/spring-security-example-spring-boot
 
+presentations:
+2017:
+Gasimov - Secured REST Microservices with Spring Cloud
+https://www.youtube.com/watch?v=dq4RzFdm1Y0
+
+articles:
 2017:
 Stateless auth using Spring Security and JWT (JJWT)
 https://habrahabr.ru/post/337600/

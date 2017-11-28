@@ -232,6 +232,11 @@ http://www.haskellforall.com/2017/10/why-do-our-programs-need-to-read-input.html
 dhall-semver:
 http://www.haskellforall.com/2017/11/semantic-integrity-checks-are-next.html
 
+nix-diff:
+https://hackage.haskell.org/package/nix-diff
+https://github.com/Gabriel439/nix-diff
+http://www.haskellforall.com/2017/11/compare-nix-derivations-using-nix-diff.html
+
 Misc:
 http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html
 http://www.haskellforall.com/2015/09/how-to-make-your-haskell-code-more.html

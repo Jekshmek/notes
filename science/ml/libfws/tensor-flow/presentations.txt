@@ -1,4 +1,6 @@
 2017:
+Gorner - TF, DL and modern RNN arch without a PhD
+https://www.youtube.com/watch?v=pzOzmxCR37I
 https://aiukraine.com/session/e-volyutsiya-tensorflow-onlajn-doklad/
 https://aiukraine.com/wp-content/uploads/2017/10/1_8-Simbirsky.pdf
 https://www.youtube.com/watch?v=lccPTe3coyk

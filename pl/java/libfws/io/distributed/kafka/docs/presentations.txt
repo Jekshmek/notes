@@ -1,4 +1,6 @@
 2017:
+Ward - Introduction to Apache Kafka
+https://www.youtube.com/watch?v=UEg40Te8pnE
 Stopford - Power of the Log: LSM and Append Only Data Structures
 https://www.infoq.com/presentations/lsm-append-data-structures
 Reis - Functional Streams with Kafka

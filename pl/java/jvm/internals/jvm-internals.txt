@@ -3,6 +3,9 @@ JVM Internals:
 Doug Hawkins:
 http://www.slideshare.net/dougqh
 http://www.slideshare.net/dougqh/jvm-mechanics-when-does-the
+2017:
+JVM Mechanics
+https://www.youtube.com/watch?v=htwv78eb4TU
 
 Hotspot:
 http://www.oracle.com/technetwork/java/whitepaper-135217.html
