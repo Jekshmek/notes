@@ -1,0 +1,2 @@
+https://docs.rs/smallvec
+https://github.com/servo/rust-smallvec
