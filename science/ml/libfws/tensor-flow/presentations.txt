@@ -1,4 +1,6 @@
 2017:
+Sletten - Introduction to TensorFlow
+https://www.youtube.com/watch?v=FQ660T4uu7k
 Gorner - TF, DL and modern RNN arch without a PhD
 https://www.youtube.com/watch?v=pzOzmxCR37I
 https://aiukraine.com/session/e-volyutsiya-tensorflow-onlajn-doklad/

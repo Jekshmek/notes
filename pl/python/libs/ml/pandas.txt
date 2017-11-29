@@ -6,6 +6,9 @@ https://towardsdatascience.com/how-to-learn-pandas-108905ab4955
 https://tomaugspurger.github.io/modern-1-intro
 
 presentations:
+2017:
+Caudron - Introduction To Data Analytics With Pandas
+https://www.youtube.com/watch?v=5XGycFIe8qE
 https://www.slideshare.net/dyakonov/pandas-54795658
 
 sheat-sheets:

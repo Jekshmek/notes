@@ -10,3 +10,7 @@ Very good begin on DL:
 Beysolow - Introduction to Deep Learning Using R
 Sugomori - Java DL Essentials 
 https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
+
+IPython vis-n:
+https://www.youtube.com/watch?v=5ThZst_U4HA
+https://github.com/aterrel/pydata101
