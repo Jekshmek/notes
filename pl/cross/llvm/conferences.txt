@@ -1,0 +1,4 @@
+DevMtg
+2017:
+https://www.youtube.com/playlist?list=PL_R5A0lGi1ADRlI51k7qV9gw1N4DBNUUW
+http://www.llvm.org/devmtg/2017-10/

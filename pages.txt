@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 29
+  Nov 30
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -33,6 +33,7 @@ http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slush
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
+Vospitanie                                          -   09:00 (of 2:04:05)
 
 Tracking:
 Razbor Poletov                                      - 145

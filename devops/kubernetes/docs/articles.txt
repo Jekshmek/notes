@@ -1,6 +1,10 @@
 2017:
+https://habrahabr.ru/company/flant/blog/331188/
+https://habrahabr.ru/company/flant/blog/342658/
+https://habrahabr.ru/company/flant/blog/342822/
 https://habrahabr.ru/company/microsoft/blog/337626/
 https://habrahabr.ru/company/microsoft/blog/337708/
 
+https://github.com/jamiehannaford/what-happens-when-k8s
 http://colinsalmcorner.com/post/devops-with-kubernetes-and-vsts-part-1
 http://colinsalmcorner.com/post/devops-with-kubernetes-and-vsts-part-2

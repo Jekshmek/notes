@@ -1,0 +1,10 @@
+tour of llvm sources:
+https://blog.regehr.org/archives/1453
+https://habrahabr.ru/post/343344/
+
+https://github.com/llvm-mirror/llvm/blob/release_39/docs/LangRef.rst
+https://raw.githubusercontent.com/llvm-mirror/llvm/release_39/docs/LangRef.rst
+
+articles:
+https://habrahabr.ru/post/277717/
+https://habrahabr.ru/post/267239/
