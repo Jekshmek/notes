@@ -12,3 +12,5 @@ dependencies {
     testRuntime '...cglib-nodep...'
     runtime 'com.h2database:h2:<ver>'
 }
+
+// jvmArgs = [ '-Xmx1024M', '-Xss10M' ]
