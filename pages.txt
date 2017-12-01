@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Nov 30
+  Dec 1
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -13,7 +13,7 @@ Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
 Lit:
-Bykov-Money                                         -   55:00 (of 1:46:58)
+2017-12-01-odin-0007                                -   40:00 (of 1:42:12)
 Malishevsky -
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
@@ -33,7 +33,6 @@ http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slush
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
-Vospitanie                                          -   09:00 (of 2:04:05)
 Chenov                                              - 1:15:00 (of 3:03:04)
 
 Tracking:

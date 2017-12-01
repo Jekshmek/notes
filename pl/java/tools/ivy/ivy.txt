@@ -1,5 +1,16 @@
-Terminology:
+terminology:
 http://ant.apache.org/ivy/history/latest-milestone/terminology.html
+
+tutorials:
+http://ant.apache.org/ivy/history/latest-milestone/tutorial.html
+
+reference:
+http://ant.apache.org/ivy/history/latest-milestone/reference.html
+
+ant-tasks:
+http://ant.apache.org/ivy/history/latest-milestone/ant.html
+http://ant.apache.org/ivy/history/latest-milestone/use/retrieve.html
+
 
 module can have multiple artifacts
 
@@ -28,7 +39,7 @@ module can have multiple artifacts
 
 Articles:
 http://olmex.blogspot.in/2012/04/ivy-beginners-guide.html
-http://olmexsoftdocs.appspot.com/
+http://www.codetab.org/apache-ivy-tutorial/
 
 Configurations:
 http://ant.apache.org/ivy/history/latest-milestone/ivyfile/configurations.html

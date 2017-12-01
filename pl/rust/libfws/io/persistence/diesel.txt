@@ -13,6 +13,7 @@ http://docs.diesel.rs/diesel/associations/index.html
 
 guide:
 http://diesel.rs/guides/getting-started/
+http://diesel.rs/guides/schema-in-depth/
 https://github.com/diesel-rs/diesel/tree/v0.10.0/examples
 
 code:

@@ -1,3 +1,4 @@
 articles:
+https://habrahabr.ru/post/343622/
 https://www.viva64.com/en/b/0533/
 https://habrahabr.ru/company/pvs-studio/blog/340014/

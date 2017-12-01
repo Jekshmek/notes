@@ -12,6 +12,9 @@ Choo - cs231n
 https://www.youtube.com/playlist?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl
 Data Science Courses - Ghodsi
 https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB
+MIT - Class 24 - 9.520/6.860 - Statistical Learning Theory and Applications
+http://www.mit.edu/~9.520/fall17/
+https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f
 
 2016:
 http://www.asozykin.ru/courses/nnpython

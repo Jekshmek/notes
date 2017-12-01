@@ -1,4 +1,6 @@
 2017:
+Podpolyaka - ML 101 ru
+https://www.youtube.com/watch?v=RtgpPMZu_TY
 Nvidia - How to become a Data Scientist
 https://www.youtube.com/watch?v=IkAX8fb7vYQ
 https://www.asozykin.ru/assets/presentations/nvidia_pavt.pdf
