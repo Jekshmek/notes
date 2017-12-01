@@ -13,7 +13,7 @@ Pashkevich - OAuth 2                                -   30:00 (of   45:19)
   https://events.epam.com/events/itweek-spring-2016/talks/1026
 
 Lit:
-2017-12-01-odin-0007                                -   40:00 (of 1:42:12)
+2017-12-01-odin-0007                                -   52:00 (of 1:42:12)
 Malishevsky -
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
