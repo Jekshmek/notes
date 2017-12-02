@@ -10,6 +10,11 @@ NTU MiuLab
 https://www.youtube.com/channel/UCyB2RBqKbxDPGCs1PokeUiA/videos
 Choo - cs231n
 https://www.youtube.com/playlist?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl
+
+http://cs231n.stanford.edu/
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+http://cs231n.stanford.edu/syllabus.html
+
 Data Science Courses - Ghodsi
 https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB
 MIT - Class 24 - 9.520/6.860 - Statistical Learning Theory and Applications

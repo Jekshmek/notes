@@ -1,0 +1,12 @@
+http://webassembly.org/
+http://webassembly.org/roadmap/
+https://github.com/webassembly/design
+
+docs:
+https://developer.mozilla.org/en-US/docs/WebAssembly
+
+guide:
+http://webassembly.org/getting-started/developers-guide/
+
+browser support:
+https://www.infoq.com/news/2017/12/webassembly-browser-support

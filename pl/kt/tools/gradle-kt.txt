@@ -9,6 +9,8 @@ https://kotlinlang.org/docs/reference/compatibility.html
 https://plugins.gradle.org/plugin/org.jetbrains.kotlin.kapt
 https://github.com/griffio/dagger2-kotlin
 
+https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl/
+
 fat-jar:
 
 dependencies {
