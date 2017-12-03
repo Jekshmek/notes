@@ -1,2 +1,6 @@
 https://japaric.github.io/criterion.rs/criterion/
+https://japaric.github.io/criterion.rs/book/getting_started.html
+
 https://github.com/japaric/criterion.rs
+
+https://www.reddit.com/r/rust/comments/7h6ml2/announcing_criterionrs_010_statisticsbased/
