@@ -5,3 +5,8 @@ https://habrahabr.ru/company/ods/blog/322076/
 2017:
 Funke - Machine Learning with sklearn, Linear Regression
 https://www.youtube.com/watch?v=IKla1wD_DlQ
+
+multi-dimensional regression:
+http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%9B%D0%A0
+https://habrahabr.ru/post/343752/
+https://habrahabr.ru/post/333426/

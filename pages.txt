@@ -4,16 +4,16 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 1
+  Dec 4
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Pashkevich - OAuth 2                                -   30:00 (of   45:19)
-  https://events.epam.com/events/itweek-spring-2016/talks/1026
+Shramkov - Introduction to OAuth 2.0                -   00:00 (of)
+  https://videoportal.epam.com/video/lZoDYRO6
 
 Lit:
-2017-12-01-odin-0007                                -   52:00 (of 1:42:12)
+Veller-NonFiction                                   -   07:00 (of   58:29)
 Malishevsky -
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
@@ -26,7 +26,7 @@ Volkova 2                                           -   00:00 (of 1:28:48)
 Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 
 Ortho:
-Paschenko 2.3                                       -   00:00 (of)
+Paschenko 2.5                                       -   00:00 (of 1:32:54)
 Ivliev - 45                                         -   00:00 (of   38:32)
 Sorokin - B 6                                       -   00:00 (of)
 http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
