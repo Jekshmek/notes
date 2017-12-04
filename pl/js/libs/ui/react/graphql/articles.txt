@@ -5,6 +5,7 @@ https://medium.freecodecamp.com/the-steady-rise-of-graphql-27b14e938164
 https://facebook.github.io/relay/docs/thinking-in-graphql.html
 
 2017:
+https://habrahabr.ru/post/343872/
 https://www.infoq.com/articles/turbocharge-react-graphql
 
 tonsky-critique:
