@@ -9,12 +9,11 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Shramkov - Introduction to OAuth 2.0                -   00:00 (of)
+Shramkov - Introduction to OAuth 2.0                -   15:00 (of   46:40)
   https://videoportal.epam.com/video/lZoDYRO6
 
 Lit:
-Veller-NonFiction                                   -   07:00 (of   58:29)
-Malishevsky -
+Malishevsky - DeUnamuno - Sanches                   - 1:30:00 (of 1:50:48)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI

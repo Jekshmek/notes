@@ -4,6 +4,7 @@ bootRun
 https://spring.io/blog/2017/04/05/spring-boot-s-new-gradle-plugin
 
 ref:
+https://docs.spring.io/spring-boot/docs/2.0.0.BUILD-SNAPSHOT/gradle-plugin/reference/html/
 https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-gradle-plugin.html
 
 api:
