@@ -11,10 +11,13 @@ https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com
     entryPoint, user, workingDir
 
     task createDockerfile(type: Dockerfile) {
-        //destFile = project.file('build/docker/Dockerfile')
+        // destFile = project.file('build/docker/Dockerfile')
         from 'docker-registry.clarabridge.net:5000/cb_plat/cb-java:8u152'
     }
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/tasks/image/DockerBuildImage.groovy
+
+repository!!!
+https://github.com/nebula-plugins/nebula-docker-plugin/wiki
 
 api:
 http://bmuschko.github.io/gradle-docker-plugin/docs/groovydoc/overview-summary.html
