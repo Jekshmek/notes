@@ -3,3 +3,6 @@ Nikolenko - Bayes inference fundamentals
 https://www.lektorium.tv/course/30976
 https://www.youtube.com/watch?v=dVm6LKr9rLY
 https://logic.pdmi.ras.ru/~sergey/teaching/mlkfu14/01-intro.pdf
+
+courses:
+https://www.coursera.org/learn/bayesian-statistics

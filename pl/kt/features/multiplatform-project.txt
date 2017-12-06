@@ -1,0 +1,2 @@
+http://kotlinlang.org/docs/reference/multiplatform.html
+https://www.infoq.com/news/2017/11/kotlin-1.2-released

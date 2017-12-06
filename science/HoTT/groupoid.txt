@@ -1,3 +1,10 @@
+http://groupoid.space/
+https://github.com/groupoid/groupoid.space/
+http://groupoid.space/team.html
+
+https://github.com/groupoid/infinity
+http://groupoid.space/mltt/types/
+
 exe:
 https://github.com/groupoid/exe/blob/master/doc/
     proposal.pdf
@@ -110,8 +117,6 @@ http://arxiv.org/pdf/1212.5853v2.pdf
 http://category-theory.livejournal.com/33307.html?thread=415515#t415515
 2016/02/11(e)
 
-cubical TT:
-https://github.com/mortberg/cubicaltt
 
 Making a system simpler than DTs (using just an equality)
 2016/01/20
@@ -143,6 +148,42 @@ Paradoxes
 http://liamoc.net/posts/2015-09-10-girards-paradox.html
 om 2016/02/16
 
+CoC, CIC:
+http://www.lfcs.inf.ed.ac.uk/reports/90/ECS-LFCS-90-118/ECS-LFCS-90-118.pdf
+http://www4.di.uminho.pt/~mjf/pub/SFV-CIC-2up.pdf
+
+DTs:
+http://cs.swan.ac.uk/~cspt/DependentTypes.pdf
+good intro to DTs
+    https://pages.lip6.fr/Pierre-Evariste.Dagand/stuffs/thesis-2011-phd/thesis.pdf
+
+HoTT:
+https://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf
+
+??? CT book ???
+https://henrychern.files.wordpress.com/2017/10/27.pdf
+
+cubical TT:
+https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/
+http://dlicata.web.wesleyan.edu/pubs/lb14cubical/lb14cubes-oxford.pdf
+http://www.cse.chalmers.se/~coquand/rules7.pdf
+https://groupoid.space/tex/cub/Cubical%20Type%20Theory.pdf
+https://nponeccop.livejournal.com/581276.html
+https://arxiv.org/abs/1611.02108
+https://github.com/sspeight93/Papers/blob/master/Impredicative%20Encodings%20of%20Inductive%20Types%20in%20HoTT.pdf
+http://www.cse.chalmers.se/~coquand/equality.pdf
+http://groupoid.space/mltt/inductive/
+http://groupoid.space/mltt/types/
+
+Anders Mortberg
+https://github.com/mortberg/cubicaltt
+https://github.com/mortberg/cubicaltt/tree/master/lectures
+https://github.com/mortberg/cubicaltt/pull/86
+http://www.cs.cmu.edu/~amoertbe/
+http://www.cs.cmu.edu/~amoertbe/thesis/index.html
+http://www.cs.cmu.edu/~amoertbe/thesis/thesis.pdf
+
+
 people
 http://zeit-raffer.livejournal.com/
     2015 Nov 1
@@ -154,6 +195,10 @@ https://github.com/zeitraffer/tex-cats/releases
 Rust-CPS:
 http://maxim.livejournal.com/492713.html
 
+github:
+https://github.com/groupoid/groupoid.space
+
+gitter:
 https://gitter.im/groupoid/om/archives/
     2016/02/20
 https://gitter.im/groupoid/exe/archives/
@@ -161,3 +206,7 @@ https://gitter.im/groupoid/exe/archives/
     ...2017/06/30
 https://gitter.im/groupoid/coq/archives/
     2017/06/13
+
+telegram:
+https://t.me/groupoid
+    2017/12/06
