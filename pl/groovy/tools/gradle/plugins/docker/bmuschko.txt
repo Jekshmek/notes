@@ -1,6 +1,9 @@
 bmuschko gradle-docker-plugin:
-gradle-docker-plugin\src\main\groovy\com\bmuschko\gradle\docker\utils\DockerThreadContextClassLoader.groovy 
 
+https://github.com/bmuschko/gradle-docker-plugin
+https://github.com/bmuschko/gradle-docker-plugin/blob/master/RELEASE_NOTES.md
+
+image:
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/tasks/image/Dockerfile.groovy
     instruction
         ? arg ?
@@ -15,12 +18,16 @@ https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com
         from 'docker-registry.clarabridge.net:5000/cb_plat/cb-java:8u152'
     }
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/tasks/image/DockerBuildImage.groovy
+https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/tasks/image/DockerPushImage.groovy
 
 repository!!!
 https://github.com/nebula-plugins/nebula-docker-plugin/wiki
 
 api:
 http://bmuschko.github.io/gradle-docker-plugin/docs/groovydoc/overview-summary.html
+
+misc:
+gradle-docker-plugin\src\main\groovy\com\bmuschko\gradle\docker\utils\DockerThreadContextClassLoader.groovy 
 
 samples:
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/DockerJavaApplicationPlugin.groovy
@@ -36,6 +43,8 @@ https://github.com/bmuschko/gradle-docker-plugin/issues/399
 https://github.com/docker-java/docker-java
 
 com.github.docker-java:docker-java:1.4.0
+user.home
+    docker-java.properties
 
 
 com.github.dockerjava.core.DockerClientBuilder
@@ -44,3 +53,16 @@ com.github.dockerjava.core.DockerClientBuilder
 https://github.com/bmuschko/gradle-docker-plugin/issues/96
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
 
+
+registry:
+https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/functTest/groovy/com/bmuschko/gradle/docker/AbstractDockerRemoteApiTaskFunctionalTest.groovy
+docker {
+    url = 'tcp://remote.docker.com:2375'
+    certPath = new File('${customCertPath.canonicalPath}')
+    registryCredentials {
+        url = 'https://some.registryCredentials.com/'
+        username = 'johnny'
+        password = 'pwd'
+        email = 'john.doe@gmail.com'
+    }
+}

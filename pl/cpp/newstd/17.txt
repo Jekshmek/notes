@@ -1,3 +1,6 @@
+https://www.iso.org/standard/68564.html
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4700.pdf
+
 articles:
 https://habrahabr.ru/post/343622/
 https://www.viva64.com/en/b/0533/
