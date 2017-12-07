@@ -200,9 +200,9 @@ https://github.com/groupoid/groupoid.space
 
 gitter:
 https://gitter.im/groupoid/om/archives/
-    2016/02/20
+    2016/03/08
 https://gitter.im/groupoid/exe/archives/
-    2016/02/25
+    2016/03/25
     ...2017/06/30
 https://gitter.im/groupoid/coq/archives/
     2017/06/13
