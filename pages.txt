@@ -14,16 +14,17 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Shramkov - Introduction to OAuth 2.0                -   15:00 (of   46:40)
+QA                                                  -   01:00 (of   54:32)
+Shramkov - Introduction to OAuth 2.0                -   35:00 (of   46:40)
   https://videoportal.epam.com/video/lZoDYRO6
 
 Lit:
-2017-12-08-odin-0005                                -   22:00 (of 1:46:06)
-Malishevsky - DeUnamuno - Sanches                   - 1:30:00 (of 1:50:48)
+Grad                                                -   45:00 (of 1:15:43)
+Malishevsky - DeUnaMuno - Piece at War              -   00:00 (of 2:12:58)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 11                                       -   00:00 (of)
+Kaminskaya 13                                       -   00:00 (of 1:18:29)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
