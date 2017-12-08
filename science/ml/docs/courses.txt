@@ -1,6 +1,10 @@
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 
 2017:
+Shamin:
+https://www.youtube.com/channel/UCwUntaFteJeGbyDgF9eN_tw
+https://www.youtube.com/playlist?list=PLEaWFQiR5rGP2lbmBaybBWmBqvM6XlknL
+https://www.youtube.com/playlist?list=PLEaWFQiR5rGNfZJia5f5Fwk2Wzx1SyusF
 Oxford
 https://github.com/oxford-cs-deepnlp-2017/lectures
 ComputerScienceCenter 2017 - ML

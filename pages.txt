@@ -17,6 +17,8 @@ Video:
 QA                                                  -   01:00 (of   54:32)
 Shramkov - Introduction to OAuth 2.0                -   35:00 (of   46:40)
   https://videoportal.epam.com/video/lZoDYRO6
+Shamin - nonstrict sets                             -   15:00 (of   46:54)
+  https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
 Grad                                                -   45:00 (of 1:15:43)
