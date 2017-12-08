@@ -1,6 +1,6 @@
 URLs:
 https://ru-bykov.livejournal.com/3187176.html
-Lemm
+Lemm - 3
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2016.11
 Bunin
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2017.07
@@ -9,7 +9,7 @@ Kuprin:
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 7
+  Dec 8
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -18,6 +18,7 @@ Shramkov - Introduction to OAuth 2.0                -   15:00 (of   46:40)
   https://videoportal.epam.com/video/lZoDYRO6
 
 Lit:
+2017-12-08-odin-0005                                -   22:00 (of 1:46:06)
 Malishevsky - DeUnamuno - Sanches                   - 1:30:00 (of 1:50:48)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
@@ -37,7 +38,6 @@ http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slush
 Osipov - 1                                          -   20:00 (of 1:09:28)
 Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
-Chernov                                             - 2:50:00 (of 3:03:04)
 
 Tracking:
 Razbor Poletov                                      - 148
