@@ -9,7 +9,7 @@ Kuprin:
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 8
+  Dec 9
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
