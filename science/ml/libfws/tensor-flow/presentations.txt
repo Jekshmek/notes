@@ -1,4 +1,8 @@
 2017:
+Fullwood - A gentle introduction to deep learning with TensorFlow
+https://www.youtube.com/watch?v=5e0TbyCkbCY
+https://github.com/michelleful/PyCon2017
+https://speakerdeck.com/pycon2017/michelle-fullwood-a-gentle-introduction-to-deep-learning-with-tensorflow
 Sletten - Introduction to TensorFlow
 https://www.youtube.com/watch?v=FQ660T4uu7k
 Gorner - TF, DL and modern RNN arch without a PhD
