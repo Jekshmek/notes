@@ -1,8 +1,6 @@
 URLs:
 https://ru-bykov.livejournal.com/3187176.html
-Lemm - 4
-  http://www.limonow.de/myfavorites/DB_DILETANT.html#2016.11
-Bunin
+Bunin - 2
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2017.07
 Kuprin:
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2012.12
@@ -14,19 +12,17 @@ amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-QA                                                  -   01:00 (of   54:32)
-Shramkov - Introduction to OAuth 2.0                -   35:00 (of   46:40)
-  https://videoportal.epam.com/video/lZoDYRO6
+QA                                                  -   16:00 (of   54:32)
 Shamin - nonstrict sets                             -   15:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Grad                                                -   45:00 (of 1:15:43)
+Malishevsky-Draizer                                 - 1:30:00 (of 1:55:58)
 Malishevsky - DeUnaMuno - Piece at War              -   00:00 (of 2:12:58)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 13                                       -   00:00 (of 1:18:29)
+Kaminskaya 14                                       -   01:00 (of 1:16:52)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL

@@ -1,0 +1,3 @@
+https://crates.io/crates/static_assertions
+https://docs.rs/static_assertions
+https://github.com/nvzqz/static-assertions-rs
