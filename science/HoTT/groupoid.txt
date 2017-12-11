@@ -156,6 +156,7 @@ DTs:
 http://cs.swan.ac.uk/~cspt/DependentTypes.pdf
 good intro to DTs
     https://pages.lip6.fr/Pierre-Evariste.Dagand/stuffs/thesis-2011-phd/thesis.pdf
+http://smc2014.univ-lyon1.fr/lib/exe/fetch.php?media=msc-hott1.pdf
 
 HoTT:
 https://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf
@@ -200,10 +201,9 @@ https://github.com/groupoid/groupoid.space
 
 gitter:
 https://gitter.im/groupoid/om/archives/
-    2016/05/04
+    2016/07/01
 https://gitter.im/groupoid/exe/archives/
-    2016/05/04
-    ...2017/06/30
+    2016/07/01
 https://gitter.im/groupoid/coq/archives/
     2017/06/13
 
