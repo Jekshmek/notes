@@ -2,3 +2,6 @@ Downey - Think Stats
 http://greenteapress.com/thinkstats/thinkstats.pdf
 
 Bruce - Practical Statistics for Data Scientists: 50 Essential Concepts
+
+Shipunov ... R
+https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf

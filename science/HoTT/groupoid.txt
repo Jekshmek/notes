@@ -153,6 +153,8 @@ http://www.lfcs.inf.ed.ac.uk/reports/90/ECS-LFCS-90-118/ECS-LFCS-90-118.pdf
 http://www4.di.uminho.pt/~mjf/pub/SFV-CIC-2up.pdf
 
 DTs:
+http://math.andrej.com/wp-content/uploads/2017/12/Spartan-Type-Theory.pdf
+    https://arxiv.org/pdf/1711.01477.pdf
 http://cs.swan.ac.uk/~cspt/DependentTypes.pdf
 good intro to DTs
     https://pages.lip6.fr/Pierre-Evariste.Dagand/stuffs/thesis-2011-phd/thesis.pdf
