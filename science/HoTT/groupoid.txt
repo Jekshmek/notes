@@ -144,6 +144,9 @@ http://vst.cs.princeton.edu/download/
 http://vst.cs.princeton.edu/download/VC.pdf
 https://github.com/PrincetonUniversity/VST
 
+coq:
+https://math-comp.github.io/mcb/book.pdf
+
 Paradoxes
 http://liamoc.net/posts/2015-09-10-girards-paradox.html
 om 2016/02/16
@@ -159,6 +162,20 @@ http://cs.swan.ac.uk/~cspt/DependentTypes.pdf
 good intro to DTs
     https://pages.lip6.fr/Pierre-Evariste.Dagand/stuffs/thesis-2011-phd/thesis.pdf
 http://smc2014.univ-lyon1.fr/lib/exe/fetch.php?media=msc-hott1.pdf
+gambino:
+http://www.cs.le.ac.uk/events/mgs2009/courses/gambino/lecturenotes-gambino.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/
+http://www1.maths.leeds.ac.uk/~pmtng/lecture1.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/lecture2.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/lecture3.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/lecture4.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/Research/Lectures/lecture1.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/Research/Lectures/lecture2.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/Research/Lectures/lecture3.pdf
+http://www1.maths.leeds.ac.uk/~pmtng/Research/Lectures/lecture4.pdf
+http://smc2014.univ-lyon1.fr/lib/exe/fetch.php?media=msc-hott1.pdf
+http://smc2014.univ-lyon1.fr/lib/exe/fetch.php?media=msc-hott3.pdf
+http://smc2014.univ-lyon1.fr/lib/exe/fetch.php?media=msc-hott4.pdf
 
 HoTT:
 https://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf
@@ -203,9 +220,9 @@ https://github.com/groupoid/groupoid.space
 
 gitter:
 https://gitter.im/groupoid/om/archives/
-    2016/07/01
+    2017/01/08
 https://gitter.im/groupoid/exe/archives/
-    2016/07/01
+    2017/11/07
 https://gitter.im/groupoid/coq/archives/
     2017/06/13
 
