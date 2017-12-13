@@ -10,3 +10,7 @@ http://webassembly.org/getting-started/developers-guide/
 
 browser support:
 https://www.infoq.com/news/2017/12/webassembly-browser-support
+
+2017:
+Zimin - EPAM Ryazan - Meet WebAssembly
+https://www.youtube.com/watch?v=JO-L1s2Y5W0

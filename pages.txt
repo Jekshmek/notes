@@ -1,25 +1,24 @@
 URLs:
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:defining_common_behavior
 https://ru-bykov.livejournal.com/3187176.html
-Bunin - 3
-  http://www.limonow.de/myfavorites/DB_DILETANT.html#2017.07
-Kuprin:
+Kuprin - 1:
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2012.12
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 12
+  Dec 13
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
 Video:
-Sidarenka - Authorization using OAuth               -   01:00 (of   39:29)
-QA                                                  -   30:00 (of   54:32)
+Sidarenka - Authorization using OAuth               -   15:00 (of   39:29)
+QA                                                  -   35:00 (of   54:32)
 Shamin - nonstrict sets                             -   15:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Weller - Moscow vs Piter                            - 1:39:00 (of 1:49:46)
-Malishevsky - Folkner                               -   00:00 (of 2:03:48)
+Weller - Han                                        -   05:00 (of   55:51)
+Malishevsky - Folkner                               - 1:11:00 (of 2:03:48)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
@@ -32,11 +31,11 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 
 Ortho:
 Paschenko 2.6                                       -   00:00 (of)
+  http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 47                                         -   00:00 (of   37:15)
 Sorokin - B 8                                       -   00:00 (of)
-http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
+  http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Soroking - Kak slyshat Boga 1                       -   04:00 (of 1:29:18)
 Andrei Dudarev                                      -   08:00 (of 1:58:16)
 
 Tracking:

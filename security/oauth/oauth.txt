@@ -19,3 +19,21 @@ https://habrahabr.ru/company/hh/blog/278957/
 ratpack-oauth:
 https://github.com/uris77/ratpack-oauth-example
 
+request:
+...?
+    client_id=...
+    &redirect_uri=...
+    &response_type=code
+
+response:
+    302 Location: "<redirect_uri>?code=...."
+    Now the client app should quickly (~10s) exchange the auth-code to access-token
+
+access-token request:
+POST <...>/get_token
+    Authorization: "Basic" + base64encode(<client_id> + ":" + <client_secret>)
+    Content-Type: application/x-www-form-urlencoded
+    Body:
+        redirect_uri=....
+        &grant_type=authorization_code
+        &code=...
