@@ -1,16 +1,52 @@
 Vavilov:
+English For Mathematicians (22 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAUf_zZ4KK3Pb7hJdjjq5p7x
 Higher algebra (101-102):
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAWNayB696aQFTPcP6HiIC1c
-Kats-Mudi algebras:
+Kats-Mudi algebras (10 lec):
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAW7gbTfK_wv59ntSf3wk-Gt
-Kartano-type algebras:
+Kartano-type algebras (13 lec):
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAVcpejH2bH59iC_jeq6pUuq
-Exceptional objects in algebra and geometry:
+Exceptional objects in algebra and geometry (15 lec):
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXhkBhfyCMZEhLj5mieAvXZ
+Domino Tilings:
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
+Hopf Algebras and Galois Theory (14 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAXMUxpt73hlqQ6Bh7DyUA5A
+Finite Lee Groups (2 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAU3Wlxkj6QLWxQiALcMrXjD
+Modular representations of Finite Groups (16 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAX9pauME5QO9nyuivZBOyKA
+High Laws of Composition (11 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAVAONqkAJ7UuOx6dY0y0CY2
+Jacobian Conjecture (12 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAUdo3ulN0pukSyfQgANvHhB
+Clinford Algebras and Spinor Groups (10 lec):
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAUujm2E5tfShA2NLK_P53VP
 
 Savvateev:
-100 lessons:
+https://www.youtube.com/user/muraenko/playlists
+100 math lessons (58 lec):
 https://www.youtube.com/playlist?list=PLlh_pleAsftshEYRYymzrleEMAZIT6Xgv
+100 basic math questions (77 lec):
+https://www.youtube.com/playlist?list=PL8n_ZHoHDPESLDJN2NJivDYLNGtpJEBoy
+Algebra for All (5 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9VXtZa0ZiWdbp0oqOw1AteC
+https://www.youtube.com/playlist?list=PLgqZ7cC8KvvalUCmi4iaeA48K8AiVq3pZ
+Math for Humanitarians (4 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9UWe6jjGkNEe7da2wCJyxI0
+NonEuklid Geom (8 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9VS-cQTxqecNtQ_yQ5A1FCJ
+Group Theory (8 lec):
+https://www.youtube.com/playlist?list=PLgqZ7cC8KvvZcMjXYLP53SaXCG35hF_E8
+Galois Theory (10 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9VWebUfw4uOlut1ZaoFjFcb
+Math to Economists (12 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9Un_0t1kj0yzg9Fqe3Jjjol
+Fermat Theorem (9 lec):
+https://www.youtube.com/playlist?list=PLgEpoT7yAl9XgSQcTuUEyriQyLu1dEy_B
+Visual Representation of Newton Binome:
+https://www.youtube.com/playlist?list=PLgqZ7cC8KvvZzdT4vV9VUwOle7nhf9gd3
 
 Petrov:
 Algebra - 2016 (63 lec)
