@@ -13,3 +13,4 @@ https://github.com/eclipse/yasson
 
 https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-1/index.html
 https://www.ibm.com/developerworks/library/j-javaee8-json-binding-2/index.html
+https://www.ibm.com/developerworks/library/j-javaee8-json-binding-3/index.html

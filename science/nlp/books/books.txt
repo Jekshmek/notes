@@ -1,3 +1,5 @@
 2017:
 Goldberg - Neural Network Methods in Natural Language Processing
 https://www.amazon.com/gp/product/1627052984/ref=s9u_simh_gw_i4
+Jurafsky - Speech and Language Processing
+https://web.stanford.edu/~jurafsky/slp3/

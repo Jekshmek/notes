@@ -16,6 +16,7 @@ https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
 https://github.com/gradle/kotlin-dsl/tree/master/samples
 
 samples:
+https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl
 https://techdev.io/en/developer-blog/building-a-fat-jar-with-gradle-script-kotlin
 https://discuss.kotlinlang.org/t/gradle-script-kotlin-how-to-configure-asciidoctor-plugin/2458
 
