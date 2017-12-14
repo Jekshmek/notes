@@ -24,3 +24,30 @@ subprojects {
         }
     }
 }
+
+project-specific behaviour for particular project
+
+project(':bluewhale').hello {
+    doLast {
+        println "bla-bla"
+    }
+}
+
+configure(subprojects.findAll {it.name != 'tropicalFish'}) {
+    hello {
+        doLast {
+            println '- I love to spend time in the arctic waters.'
+        }
+    }
+}
+
+subprojects {
+    hello {
+        doLast {println "- I depend on water"}
+        afterEvaluate { Project project ->
+            if (project.arctic) { doLast {
+                println '- I love to spend time in the arctic waters.' }
+            }
+        }
+    }
+}

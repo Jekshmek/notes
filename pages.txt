@@ -1,5 +1,5 @@
 URLs:
-https://docs.gradle.org/current/userguide/multi_project_builds.html#sub:adding_specific_behavior
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:execution_rules_for_multi_project_builds
 https://ru-bykov.livejournal.com/3187176.html
 Kuprin - 2:
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2012.12
