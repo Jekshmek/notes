@@ -9,3 +9,6 @@ articles:
 2017:
 Stateless auth using Spring Security and JWT (JJWT)
 https://habrahabr.ru/post/337600/
+
+whats new:
+https://www.infoq.com/news/2017/12/Spring-Security-5.0.0

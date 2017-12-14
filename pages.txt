@@ -1,7 +1,7 @@
 URLs:
 https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:defining_common_behavior
 https://ru-bykov.livejournal.com/3187176.html
-Kuprin - 1:
+Kuprin - 2:
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2012.12
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
@@ -36,10 +36,9 @@ Ivliev - 47                                         -   00:00 (of   37:15)
 Sorokin - B 8                                       -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Osipov - 1                                          -   20:00 (of 1:09:28)
-Andrei Dudarev                                      -   08:00 (of 1:58:16)
 
 Tracking:
-Razbor Poletov                                      - 148
+Razbor Poletov                                      - 149 16:00 (of 1:33:49)
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
