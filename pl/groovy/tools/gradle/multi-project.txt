@@ -9,3 +9,18 @@ https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-ii-
 
 guides:
 https://spring.io/guides/gs/multi-module/
+
+allprojects {
+    task hello {
+        doLast { task ->
+            println "I'm $task.project.name"
+        }
+    }
+}
+subprojects {
+    hello { // do not need task, append stuff to existing taksk
+        doLast {
+            println "- I depend on water"
+        }
+    }
+}

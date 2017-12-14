@@ -68,3 +68,5 @@ Note: closure - is just a last parameter to the task-method per the groovy synta
 
 misc os stuff
 targetPlatform.operatingSystem.windows
+
+allprojects.each ...

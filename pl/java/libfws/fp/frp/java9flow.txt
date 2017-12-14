@@ -1,4 +1,5 @@
 articles:
+http://akarnokd.blogspot.com.by/2017/12/java-9-flow-api-multicasting-via.html
 http://akarnokd.blogspot.com.by/2017/09/java-9-flow-api-mapping-asynchronously.html
 http://akarnokd.blogspot.com.by/2017/09/java-9-flow-api-ordered-merge.html
 http://akarnokd.blogspot.com.by/2017/09/java-9-flow-api-switching-threads.html
