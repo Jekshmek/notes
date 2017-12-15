@@ -6,3 +6,5 @@ presentations:
 2017
 Tsang - gRPC 101 for Java Developers
 https://www.youtube.com/watch?v=DU-q5kOf2Rc
+https://assets.contentful.com/oxjq45e8ilak/7CGH6GNuCcImU868GQceCW/9fb016b961ff5e8dbd5555fd5faea9e8/Alex_Borysov_gRPC_Joker.pdf
+https://www.youtube.com/watch?v=zPbaKUIcFx0

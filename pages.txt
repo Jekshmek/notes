@@ -1,12 +1,12 @@
 URLs:
-https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:execution_rules_for_multi_project_builds
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:project_jar_dependencies
 https://ru-bykov.livejournal.com/3187176.html
-Kuprin - 2:
+Kuprin - 3:
   http://www.limonow.de/myfavorites/DB_DILETANT.html#2012.12
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 14
+  Dec 15
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -35,10 +35,9 @@ Paschenko 2.6                                       -   00:00 (of)
 Ivliev - 47                                         -   00:00 (of   37:15)
 Sorokin - B 8                                       -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Osipov - 1                                          -   20:00 (of 1:09:28)
 
 Tracking:
-Razbor Poletov                                      - 149 54:00 (of 1:33:49)
+Razbor Poletov                                      - 149 1:15:00 (of 1:33:49)
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140

@@ -2,3 +2,5 @@
 North - TestContainers
 https://www.slideshare.net/rich.north/testcontainers-geekout-ee-2017-presentation
 https://vimeo.com/222501136
+Egorov - TestContainers
+https://www.youtube.com/watch?v=PEVVvZOt7bY

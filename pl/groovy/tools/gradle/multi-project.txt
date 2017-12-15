@@ -51,3 +51,8 @@ subprojects {
         }
     }
 }
+
+evaluation-order:
+evaluationDependsOn(':producer')
+evaluationDependsOnChildren()
+

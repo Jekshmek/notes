@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=tBwu0NoVA7k
+https://assets.contentful.com/oxjq45e8ilak/2qqNOURoqkMcI06mG4WCcQ/cc0986af2e0c1d5d99960c6133ad1d6b/Carlos_Sanchez_Using_Kubernetes_for_Continuous_Integration_and_Continuous_Delivery.pdf

@@ -14,3 +14,7 @@ http://stackoverflow.com/questions/tagged/junit5
 
 org.junit.Assume
 Assume.assumeFalse(SystemUtils.IS_OS_MAC_OSX);
+
+extensions:
+https://assets.contentful.com/oxjq45e8ilak/40Mz5ZQSD6UICmKckoMqMg/0e0c6957f06d254cc311ceb27bf5f777/MarcPhilipp-JUnit5Extensions__1_.pdf
+https://www.youtube.com/watch?v=r-8EGXMFJaw

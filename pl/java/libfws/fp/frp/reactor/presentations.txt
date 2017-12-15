@@ -1,6 +1,8 @@
 2017:
 Stoyanchev - ServletVsReactiveStacksIn5UseCases
 https://www.infoq.com/presentations/servlet-reactive-stack
+Gorelikov - Reactive System Design
+https://www.youtube.com/watch?v=tjp8pTOyiWg
 
 Long - Reactive Spring
 https://www.youtube.com/watch?v=zVNIZXf4BG8
