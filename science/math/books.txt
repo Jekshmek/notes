@@ -1,2 +1,5 @@
 Courant Robbins - What is Mathematics
 https://drive.google.com/file/d/0B8pVGDOkmwgFdXZmaWpHLUJ3Tk0/view
+
+Strang - Calculus:
+https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf

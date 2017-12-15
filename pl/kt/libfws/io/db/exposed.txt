@@ -1,5 +1,7 @@
 https://github.com/jetbrains/Exposed
 https://bintray.com/kotlin/exposed/exposed/view#
 
+https://github.com/JetBrains/Exposed/wiki
+
 oracle:
 https://github.com/JetBrains/Exposed/pull/62

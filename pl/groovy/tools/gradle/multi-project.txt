@@ -56,3 +56,55 @@ evaluation-order:
 evaluationDependsOn(':producer')
 evaluationDependsOnChildren()
 
+
+Project lib dependencies:
+
+settings.gradle:
+include 'api', 'shared', 'services:personService'
+
+build.gradle
+...
+project(':services:personService') {
+    dependencies {
+        compile project(':shared'), project(':api')
+    }
+}
+
+
+more fine-grain dependencies control:
+
+subprojects {
+    apply plugin: 'java'
+    group = 'org.gradle.sample'
+    version = '1.0'
+}
+
+project(':api') {
+    configurations {
+        spi
+    }
+    dependencies {
+        compile project(':shared')
+    }
+    task spiJar(type: Jar) {
+        baseName = 'api-spi'
+        from sourceSets.main.output
+        include('org/gradle/sample/api/**')
+    }
+    artifacts {
+        spi spiJar
+    }
+}
+
+project(':services:personService') {
+    dependencies {
+        compile project(':shared')
+        compile project(path: ':api', configuration: 'spi')
+        testCompile "junit:junit:4.12", project(':api')
+    }
+}
+
+// The Java plugin adds per default a jar to your project libraries which contains all the classes.
+// In this example we create an additional library containing only the interfaces of the “api” project.
+// We assign this library to a new dependency configuration.
+// For the person service we declare that the project should be compiled only against the “api” interfaces but tested with all classes from “api”
