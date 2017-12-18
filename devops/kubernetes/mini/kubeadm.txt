@@ -1,11 +1,12 @@
 https://kubernetes.io/docs/admin/kubeadm/
+https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
 AUR
-kubectl-bin
-    /usr/bin/kubectl
-kubeadm-bin
+kubeadm-bin (kubeadm-git)
     /usr/bin/kubeadm
     /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
+kubectl-bin
+    /usr/bin/kubectl
 kubelet-bin
     /usr/bin/kubelet
     /lib/systemd/system/kubelet.service
@@ -38,8 +39,11 @@ https://github.com/kubernetes/kubernetes/pull/48899
 https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
 
 kubeadm
-    alpha phase <cmd>
     init
         --dry-run
+    reset
+    join
+        --token=<some token> <master-ip-addr>
+    alpha phase <cmd>
 ???
 --token-ttl 0

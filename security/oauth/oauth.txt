@@ -37,3 +37,37 @@ POST <...>/get_token
         redirect_uri=....
         &grant_type=authorization_code
         &code=...
+
+response:
+{
+    "access_token": "Jz.....cuaos-",
+    "token_type": "bearer,
+    "expires_in": 3600,
+    "refresh_token": "AOi...RFlA-",
+    "xoauth_yahoo_guid": "JT...OCE"
+}
+
+now we can use the obtained access_token:
+
+GET https://social.yahooapis.com/v1/me/guid
+    ?format=json
+    &access_token=Jz...cuaos-
+
+response:
+{
+    "guid" : {
+        "value": "P2AY...JW7P",
+        "uri": "https://social.yahooapis.com/v1/me/guid"
+    }
+}
+
+And, finally, we can use the obtained value with the access_token for further actions:
+
+GET https://social.yahooapis.com/v1/user/P2AY...JW7p/profile
+    ?format=json
+    &access_token=Jz...cuaos-
+    
+response:
+{
+    // user profile info goes here
+}
