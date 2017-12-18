@@ -64,6 +64,11 @@ https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Shad2012 - Vorontsov
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
+2010:
+MIT - Windton - 6.034 Artificial Intelligence
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
 Vorontsov:
 http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf
 ML - step to digital economy:

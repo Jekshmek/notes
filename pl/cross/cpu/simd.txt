@@ -3,3 +3,9 @@ https://www.youtube.com/watch?v=w5Z4JlMJ1VQ
 https://github.com/hainest/Presentations/tree/master/CppCon2016
 https://github.com/CppCon/CppCon2016/blob/master/Presentations/Improving%20Performance%20Through%20Compiler%20Switches/Improving%20Performance%20Through%20Compiler%20Switches%20-%20Tim%20Haines%20-%20CppCon%202016.pdf
 https://www.reddit.com/r/cpp/comments/54uquh/cppcon_2016_tim_haines_improving_performance/
+
+hadmade hero:
+https://www.youtube.com/playlist?list=PLEMXAbCVnmY5qGQB96s7Vysr1nJcX_BW_
+https://www.youtube.com/watch?v=YnnTb0AQgYM
+https://www.youtube.com/watch?v=1CVmlnhgT3g
+https://www.youtube.com/watch?v=ucZLbYLTmd0
