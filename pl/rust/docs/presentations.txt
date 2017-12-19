@@ -1,6 +1,8 @@
 https://speakerdeck.com/hywan/hello-rust-an-overview
 
 2017:
+https://www.slideshare.net/nikomatsakis/rust-reach-further
+    https://www.youtube.com/watch?v=ksirw1v5gXk
 http://slides.com/liujunfeng/deck/fullscreen#/6
 
 2016:

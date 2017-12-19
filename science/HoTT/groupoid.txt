@@ -197,16 +197,20 @@ http://groupoid.space/mltt/types/
 
 Anders Mortberg
 https://github.com/mortberg/cubicaltt
-https://github.com/mortberg/cubicaltt/tree/master/lectures
 https://github.com/mortberg/cubicaltt/pull/86
 http://www.cs.cmu.edu/~amoertbe/
 http://www.cs.cmu.edu/~amoertbe/thesis/index.html
 http://www.cs.cmu.edu/~amoertbe/thesis/thesis.pdf
-
+https://github.com/mortberg/cubicaltt/tree/master/lectures
+https://arxiv.org/pdf/1611.02108.pdf
+http://www.cse.chalmers.se/~coquand/mod1.pdf
+https://arxiv.org/abs/1401.7807
+HoTT - single existing form-n of equality for equivalent object
+It (HoTT) has a model in Kan-cubical-sets,
+    CTT - is a formalization of this model with CurryHoward
+        as extensional-MLTT with tricky-equality
 
 people
-http://zeit-raffer.livejournal.com/
-    2015 Nov 1
 https://github.com/zraffer
 
 Spievak - CT for scientists:
@@ -228,4 +232,6 @@ https://gitter.im/groupoid/coq/archives/
 
 telegram:
 https://t.me/groupoid
-    2017/12/07
+2017/12/18
+    F - practical applications of HoTT
+    12/19
