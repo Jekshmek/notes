@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 18
+  Dec 19
 amway.ru - eSpring
 cpp - iterator category/tag-dispatching
 
@@ -14,13 +14,12 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Malishevsky - Mamleev                               - 1:34:00 (of 2:01:10)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Folkner                               - 1:11:00 (of 2:03:48)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 16                                       -   00:00 (of 1:03:11)
+Kaminskaya 16                                       -   13:00 (of 1:03:11)
   https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -30,12 +29,12 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   28:00 (of 1:01:05)
 Ortho:
 Paschenko 2.7                                       -   00:00 (of)
   http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 47                                         -   00:00 (of   37:15)
+Ivliev - 48                                         -   00:00 (of)
 Sorokin - B 8                                       -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 
 Tracking:
-Razbor Poletov                                      - 149 1:15:00 (of 1:33:49)
+Razbor Poletov                                      - 149
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140

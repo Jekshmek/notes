@@ -1,4 +1,6 @@
 2017:
+Jay - Deep Learning Concepts
+https://www.youtube.com/playlist?list=PLX-LrBk6h3wQKdrSyGZeN9m4I3n_bDmzg
 UPC/Barcelona TECH - DLAI
 https://telecombcn-dl.github.io/2017-dlai/
 https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd

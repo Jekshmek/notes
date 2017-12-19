@@ -5,6 +5,8 @@ Shamin:
 https://www.youtube.com/channel/UCwUntaFteJeGbyDgF9eN_tw
 https://www.youtube.com/playlist?list=PLEaWFQiR5rGP2lbmBaybBWmBqvM6XlknL
 https://www.youtube.com/playlist?list=PLEaWFQiR5rGNfZJia5f5Fwk2Wzx1SyusF
+Jay - Deep Learning Concepts
+https://www.youtube.com/playlist?list=PLX-LrBk6h3wQKdrSyGZeN9m4I3n_bDmzg
 Oxford
 https://github.com/oxford-cs-deepnlp-2017/lectures
 ComputerScienceCenter 2017 - ML
@@ -24,6 +26,7 @@ https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
 Abbakumov (ru) - R-based:
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 MailRu - Neural Nets in ML
+https://habrahabr.ru/company/mailru/blog/344982/.com.-neyronnye-seti-v-mashi
 https://www.youtube.com/playlist?list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP
 https://vk.com/videos-75410445?section=album_3
 
