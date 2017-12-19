@@ -10,6 +10,9 @@ https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-ii-
 guides:
 https://spring.io/guides/gs/multi-module/
 
+buildSrc:
+    can only be located for the root-project
+
 allprojects {
     task hello {
         doLast { task ->
@@ -108,3 +111,10 @@ project(':services:personService') {
 // In this example we create an additional library containing only the interfaces of the “api” project.
 // We assign this library to a new dependency configuration.
 // For the person service we declare that the project should be compiled only against the “api” interfaces but tested with all classes from “api”
+
+gra -a :api:build
+        -a - to use cached jars to resolve any project lib dependencies
+    api:buildNeeded
+        to test all the dependent projects as well
+    api:buildDependents
+        also test all the projects, dependent on :api
