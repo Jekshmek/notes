@@ -7,7 +7,7 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 cpp - iterator category/tag-dispatching
 
 Video:
-Sidarenka - Authorization using OAuth               -   30:00 (of   39:29)
+Onopko - OAuth 2                                    -   00:00 (of   38:10)
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
@@ -17,8 +17,8 @@ Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 04-Ioann                                            -   00:00 (of   26:03)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Kaminskaya 17                                       -   33:00 (of 1:39:59)
-  https://www.youtube.com/playlist?list=PLgvuWaHSkzOURyshHsN1V2lmgFstE0qZp
+Kaminskaya - Cabaret                                -   53:00 (of 1:04:00)
+  https://www.youtube.com/watch?v=RMv24GJw5w4
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
