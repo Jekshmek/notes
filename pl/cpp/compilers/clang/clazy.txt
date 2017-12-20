@@ -1,0 +1,2 @@
+https://github.com/KDE/clazy
+https://docs.kdab.com/analysis/qt5/clazy.html

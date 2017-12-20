@@ -1,0 +1,3 @@
+https://github.com/pypa/pipenv
+https://docs.pipenv.org/
+https://www.kennethreitz.org/essays/a-better-pip-workflow

@@ -1,0 +1,8 @@
+https://gcc.gnu.org/onlinedocs/gcc-4.8.3/gcc/Debugging-Options.html#Debugging-Options
+
+-fsanitize=[address|thread]
+
+https://developers.redhat.com/blog/2014/12/02/address-and-thread-sanitizers-gcc/
+
+https://code.google.com/archive/p/data-race-test/wikis/ThreadSanitizer.wiki
+https://github.com/google/sanitizers
