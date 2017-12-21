@@ -26,6 +26,7 @@ https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
 Abbakumov (ru) - R-based:
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 MailRu - Neural Nets in ML
+https://habrahabr.ru/company/ods/blog/344044/
 https://habrahabr.ru/company/mailru/blog/344982/.com.-neyronnye-seti-v-mashi
 https://www.youtube.com/playlist?list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP
 https://vk.com/videos-75410445?section=album_3

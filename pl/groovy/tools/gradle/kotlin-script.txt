@@ -1,3 +1,6 @@
+misc:
+https://github.com/rohanprabhu/kotlin-dsl-gradle-jooq-plugin
+
 https://blog.gradle.org/kotlin-scripting-update
 
 https://gradle.github.io/gradle-script-kotlin-docs/api/

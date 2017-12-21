@@ -1,5 +1,9 @@
 Apache Kafka support
 
+http://projects.spring.io/spring-kafka/
+
+    compile('org.springframework.kafka:spring-kafka')
+
 Spring Boot 1.5 include auto-configuration support for Apache Kafka via the spring-kafka project.
 To use Kafka simply include the spring-kafka`depenency and configure the appropriate `spring.kafka.* application properties.
 
