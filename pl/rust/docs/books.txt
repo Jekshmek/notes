@@ -47,3 +47,7 @@ https://rustbyexample.com/
 Published:
 Kaihlavirta - Mastering Rust
 https://www.packtpub.com/application-development/mastering-rust
+
+api-guidelines:
+https://rust-lang-nursery.github.io/api-guidelines/
+https://github.com/rust-lang-nursery/api-guidelines
