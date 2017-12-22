@@ -5,3 +5,9 @@ https://wiki.manjaro.org/index.php?title=Maintaining_/var/cache/pacman/pkg_for_S
 
 yaourt -S pkgcacheclean
 sudo pkgcacheclean <N>
+
+pacman
+    -Sc
+        clear cache (keep current packages)
+    -Scc
+        clear all cache

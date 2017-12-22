@@ -1,0 +1,2 @@
+http://blog.kubernetes.io/2015/06/cluster-level-logging-with-kubernetes.html
+https://kubernetes.io/docs/tasks/debug-application-cluster/logging-stackdriver/

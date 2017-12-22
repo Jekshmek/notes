@@ -1,0 +1,6 @@
+https://insert-koin.io/
+https://github.com/ekito/koin
+
+https://insert-koin.io/docs/1.0/reference/koin-dsl/
+
+https://medium.com/koin-developers/pushing-sparkjava-to-the-next-level-with-koin-ed1f0b80953e
