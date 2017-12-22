@@ -9,6 +9,10 @@ single:
 https://echo.msk.ru/guests/13449/rss-audio.xml
 https://echo.msk.ru/guests/13449/rss-fulltext.xml
 https://www.youtube.com/playlist?list=PLUGkvSr-01chEKc6YTlrkohN1Xw0vX9ic
+http://www.limonow.de/myfavorites/DB_ODIN.html
+https://yadi.sk/d/uk1gC2t9kEaax
+single-mini:
+https://yadi.sk/d/5tHC8Bu3kFRAe
 OpenLesson
 https://www.youtube.com/user/otkrytyurok/playlists
 SovietLitCourse
@@ -26,10 +30,6 @@ Goncharuk - lec
 https://www.youtube.com/playlist?list=PLSflOYmF9ATbId5CN69JqyxFrVzVwK0wB
 
 
-single:
-https://yadi.sk/d/uk1gC2t9kEaax
-single-mini:
-https://yadi.sk/d/5tHC8Bu3kFRAe
 
 vneklasnoe chtenie:
 https://ru-bykov.livejournal.com/3182762.html

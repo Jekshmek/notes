@@ -1,3 +1,7 @@
+2017
+Eric J. Ma - An Attempt At Demystifying Bayesian Deep Learning
+https://www.youtube.com/watch?v=s0S6HFdPtlA
+
 2015
 https://www.slideshare.net/bitworks/ss-53964858
 Vetrov - Big Data Math
