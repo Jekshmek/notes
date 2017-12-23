@@ -1,0 +1,5 @@
+https://habrahabr.ru/post/215577/
+https://github.com/stencila/images/tree/master/.shrink
+
+aur
+    strace, strace-analyzer

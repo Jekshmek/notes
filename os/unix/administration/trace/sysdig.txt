@@ -2,7 +2,8 @@ https://www.sysdig.org
 https://github.com/draios/sysdig
 
 https://www.sysdig.org/install/
-manjaro: community/sysdig
+aur:
+    community/sysdig
 
 Getting Started with sysdig
 https://www.youtube.com/watch?v=UJ4wVrbP-Q8

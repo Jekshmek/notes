@@ -20,3 +20,7 @@ https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 
 cheatsheets:
 http://ricostacruz.com/cheatsheets/react.html
+
+books:
+Paciansky - ReactJS for Beginners ru
+Paciansky - Redux Course ru

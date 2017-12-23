@@ -1,6 +1,7 @@
 Books:
 https://landing.google.com/sre/book/index.html
 Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
+Fokkink - Distributed Algorithms - Intuitive Approach
 
 Presentations:
 Bonner - From Microlits to Microsystems

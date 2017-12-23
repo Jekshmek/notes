@@ -32,3 +32,4 @@ https://www.youtube.com/watch?v=uvAXVMwHJXU
 
 books:
 http://bpxl-labs.github.io/redux-handbook/
+Paciansky - Redux Course ru
