@@ -1,9 +1,32 @@
 https://netology.ru/blog/prg-tg
 
+books:
 @KnigaRu
 @booksfox
 2017-12-23
 https://t.me/booksfox/520
+chitaem_detkam
+knigovorot
+bookchat
 
+science
 @funscience
+
+@CatalogTelegram
+@CatalogTelegram03
+
+os/devops:
+grouplinux
+devops_ru/ru_devops
+docker_ru/ru_docker
+
+pl:
+python_ru/ru_python
+ru_python_beginners/rupython
+proGO
+ProCxx[lib|news]/sea_plus_plus
+javarush
+
+ml:
+ru_deep_learning
 
