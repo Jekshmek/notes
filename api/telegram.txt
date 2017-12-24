@@ -25,8 +25,8 @@ python_ru/ru_python
 ru_python_beginners/rupython
 proGO
 ProCxx[lib|news]/sea_plus_plus
-javarush
+pro.jvm/javarush
 
 ml:
+ai_machinelearning_big_data
 ru_deep_learning
-

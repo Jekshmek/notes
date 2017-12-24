@@ -71,6 +71,7 @@ https://github.com/nikomatsakis/borrowck
 https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
 
 https://www.reddit.com/r/rust/comments/6r730x/the_nonlexical_lifetimes_rfc_was_just_opened_up/
+https://www.reddit.com/r/rust/comments/7lq5t3/featurenll_available_in_nightly/
 
 
 ArgumentLifetimes:

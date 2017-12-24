@@ -1,4 +1,6 @@
 2017
+Bondarenko - Bayes Methods in ML
+https://www.youtube.com/watch?v=BrJ1Gl3N5r0
 Eric J. Ma - An Attempt At Demystifying Bayesian Deep Learning
 https://www.youtube.com/watch?v=s0S6HFdPtlA
 

@@ -1,0 +1,3 @@
+https://insomnia.rest/
+aur
+    insomnia

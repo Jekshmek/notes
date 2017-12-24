@@ -2,3 +2,6 @@
 Dewhurst - Modern C++ interfaces
 https://www.youtube.com/watch?v=PFdWqa68LmA
 http://www.stevedewhurst.com/once_weakly/once-weakly20170215/once-weakly20170215.pdf
+
+2016
+https://github.com/CppCon/CppCon2016/blob/master/Tutorials/Template%20Normal%20Programming%2C%20Part%202/Template%20Normal%20Programming%2C%20Part%202%20-%20Arthur%20O'Dwyer%20-%20CppCon%202016.pdf

@@ -1,0 +1,4 @@
+https://crates.io/crates/ropey
+https://docs.rs/ropey
+https://github.com/cessen/ropey
+https://www.reddit.com/r/rust/comments/7ls3g5/ropey_a_text_buffer_designed_for_editing_large/
