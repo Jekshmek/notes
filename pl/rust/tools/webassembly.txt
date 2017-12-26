@@ -1,2 +1,3 @@
 2017:
 https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
+https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/

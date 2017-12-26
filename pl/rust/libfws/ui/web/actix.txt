@@ -2,5 +2,7 @@ https://crates.io/crates/actix-web
 https://actix.github.io/actix-web/actix_web/
 https://github.com/actix/actix-web
 
+https://actix.github.io/actix-web/guide/
+
 https://www.reddit.com/r/rust/comments/78bs4s/ann_actix_asynchronous_web_framework/
 https://www.reddit.com/r/rust/comments/7l4wis/actixweb_graphql_struggling_with_handling/

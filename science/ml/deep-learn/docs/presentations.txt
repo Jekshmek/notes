@@ -1,4 +1,6 @@
 2017
+Tretyakov - DL
+https://www.youtube.com/watch?v=Ekvb9EgQDLk
 Rohrer - How Deep Neural Networks Work
 https://www.youtube.com/watch?v=ILsA4nyG7I0
 MailRu - ML fundamentals and DL
