@@ -34,7 +34,7 @@ Sorokin - B 9                                       -   00:00 (of)
 Panich                                              - 1:19:00 (of 1:58:30)
 
 Tracking:
-Razbor Poletov                                      - 150 50:00 (of 2:07:57)
+Razbor Poletov                                      - 150 1:40:00 (of 2:07:57)
 Bananas and Lens                                    - 39
 This week in rust                                   - 209
 http://accu.org/index.php/journals/c78/             - 140
