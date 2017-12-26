@@ -8,3 +8,6 @@ white-paper:
 https://arxiv.org/pdf/1603.04467.pdf
 tour-of-tf
 https://arxiv.org/pdf/1610.01178.pdf
+
+2017
+https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/
