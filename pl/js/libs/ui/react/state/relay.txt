@@ -1,0 +1,5 @@
+2016
+https://zeemee.engineering/relay-2-simpler-faster-more-predictable-128769e72318
+https://www.youtube.com/watch?v=OEfUBN9dAI8
+https://speakerdeck.com/wincent/relay-2-simpler-faster-more-predictable
+https://github.com/wincent/relay-2-simpler-faster-more-predictable
