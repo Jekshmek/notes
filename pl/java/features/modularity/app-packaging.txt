@@ -1,6 +1,8 @@
-App Packaging:
-http://openjdk.java.net/jeps/275
+2017:
+https://habrahabr.ru/company/jugru/blog/340248/
 https://habrahabr.ru/company/jugru/blog/324318/
+
+http://openjdk.java.net/jeps/275
 
 the java linker
 http://openjdk.java.net/jeps/282

@@ -1,6 +1,8 @@
 https://crates.io/crates/subprocess
-https://docs.rs/subprocess/0.1.7/subprocess/
+https://docs.rs/subprocess
 https://github.com/hniksic/rust-subprocess
+
+
 https://github.com/hniksic/rust-subprocess/blob/master/src/builder.rs
     stream_stdout|stream_stdin|stream_stderr
 
@@ -57,6 +59,9 @@ pub fn read_whole_file<T: Read>(mut f: T) -> String {
 }
 
 samples:
+https://github.com/nicholasbishop/sate
+https://github.com/shadowsocks/shadowsocks-rust
+
 https://github.com/hniksic/rust-subprocess/blob/master/src/bin/sample.rs
     extern crate subprocess;
 

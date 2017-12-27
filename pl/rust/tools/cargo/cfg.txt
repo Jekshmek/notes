@@ -1,9 +1,10 @@
 targets:
 [[bin]], [lib], [[bench]], [[test]], [[example]] 
 
-
+# can have multiple [[bin]]
 [[bin]]
-name = "abc"
+name = "sslocal"
+path = "src/bin/local.rs"
 
 [[test]]
 name = "tests"
