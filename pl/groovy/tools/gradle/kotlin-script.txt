@@ -1,6 +1,8 @@
 misc:
 https://github.com/rohanprabhu/kotlin-dsl-gradle-jooq-plugin
 
+whatsnew:
+https://github.com/gradle/kotlin-dsl/releases/tag/v0.13.1
 https://blog.gradle.org/kotlin-scripting-update
 
 https://gradle.github.io/gradle-script-kotlin-docs/api/
