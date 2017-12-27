@@ -1,3 +1,7 @@
+https://github.com/gradle/gradle-script-kotlin
+https://github.com/gradle/kotlin-dsl
+    provider/src/main/kotlin/org/gradle/kotlin/dsl/
+
 misc:
 https://github.com/rohanprabhu/kotlin-dsl-gradle-jooq-plugin
 
@@ -5,25 +9,32 @@ whatsnew:
 https://github.com/gradle/kotlin-dsl/releases/tag/v0.13.1
 https://blog.gradle.org/kotlin-scripting-update
 
+api:
 https://gradle.github.io/gradle-script-kotlin-docs/api/
+
+ug:
+https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
 https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
-https://github.com/gradle/gradle-script-kotlin
-->
-https://github.com/gradle/kotlin-dsl
-
-
+articles:
 https://blog.gradle.org/kotlin-meets-gradle
-
-https://github.com/gradle/kotlin-dsl
-https://github.com/gradle/kotlin-dsl/releases
-https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
-https://github.com/gradle/kotlin-dsl/tree/master/samples
-
-samples:
+https://dzone.com/articles/a-look-at-gradle-kotlin-dsl
 https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl
 https://techdev.io/en/developer-blog/building-a-fat-jar-with-gradle-script-kotlin
 https://discuss.kotlinlang.org/t/gradle-script-kotlin-how-to-configure-asciidoctor-plugin/2458
+
+releases:
+https://github.com/gradle/kotlin-dsl/releases
+
+samples:
+https://github.com/gradle/kotlin-dsl/tree/master/samples
+using ext-git:
+source-control/external/build.gradle.kts
+using ant:
+ant/build.gradle.kts
+using maven-publish:
+maven-publish/build.gradle.kts
+...
 
 sample-with-class:
 https://github.com/gradle/kotlin-dsl/blob/master/samples/domain-objects/build.gradle.kts
@@ -44,4 +55,34 @@ plugins {
     `kotlin-dsl`
 }
 
+dependency-managment
+https://github.com/spring-gradle-plugins/dependency-management-plugin
+https://stackoverflow.com/questions/40818688/gradle-script-kotlin-and-dependencymanagement
+https://spring.io/blog/2016/12/16/dependency-management-plugin-1-0-0-rc1#better-support-for-gradle-script-kotlin
+
 defaultTasks("hello")
+
+?? not-needed anymore
+import org.gradle.api.Project
+import org.gradle.kotlin.dsl.*
+
+misc tasks (copy, delete, javaexec):
+provider\src\main\kotlin\org\gradle\kotlin\dsl\KotlinSettingsScript.kt
+
+org.gradle.process.JavaExecSpec
+https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaExecSpec.java
+https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaForkOptions.java
+https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/BaseExecSpec.java
+https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/ProcessForkOptions.java
+
+copySpec
+
+tasks {
+    val assembleWeb by creating(Copy::class) {
+        ...
+    }
+}
+
+///
+writeText
+
