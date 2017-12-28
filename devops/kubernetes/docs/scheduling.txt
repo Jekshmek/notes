@@ -1,3 +1,0 @@
-https://kubernetes.io/docs/tasks/administer-cluster/configure-multiple-schedulers/
-http://blog.kubernetes.io/2017/03/advanced-scheduling-in-kubernetes.html
-https://sysdig.com/blog/kubernetes-scheduler/

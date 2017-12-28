@@ -15,3 +15,5 @@ https://www.confluent.io/blog/stream-data-platform-2/
 
 Exactly-once delivery:
 https://habrahabr.ru/post/332448/
+https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8/edit#heading=h.xq0ee1vnpz4o
