@@ -6,6 +6,8 @@
     profile a build
 --parallel
     try to build sub-projects in separate threads
+--debug-jvm
+    ? run in debug mode ?
 -x, --exclude-task
     exclude the specified task
 -q

@@ -75,3 +75,7 @@ misc os stuff
 targetPlatform.operatingSystem.windows
 
 allprojects.each ...
+
+FileCollection:
+https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileCollection.html
+https://docs.gradle.org/current/userguide/working_with_files.html

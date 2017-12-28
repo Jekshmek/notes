@@ -24,6 +24,8 @@ https://habrahabr.ru/post/328152/
 https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4
 https://robinwieruch.de/redux-mobx-confusion
+2015
+https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
 
 presentations:
 2016

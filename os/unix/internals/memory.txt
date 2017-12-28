@@ -1,0 +1,3 @@
+http://habrahabr.ru/company/yandex/blog/250753/
+http://www.slideshare.net/yandex/linux-44775898
+https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/
