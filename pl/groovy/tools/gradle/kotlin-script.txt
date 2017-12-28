@@ -36,6 +36,44 @@ using maven-publish:
 maven-publish/build.gradle.kts
 ...
 
+
+dependency-managment
+https://github.com/spring-gradle-plugins/dependency-management-plugin
+https://stackoverflow.com/questions/40818688/gradle-script-kotlin-and-dependencymanagement
+https://spring.io/blog/2016/12/16/dependency-management-plugin-1-0-0-rc1#better-support-for-gradle-script-kotlin
+
+defaultTasks("hello")
+
+?? not-needed anymore
+import org.gradle.api.Project
+import org.gradle.kotlin.dsl.*
+
+misc tasks (copy, delete, javaexec):
+provider\src\main\kotlin\org\gradle\kotlin\dsl\KotlinSettingsScript.kt
+
+org.gradle.process.JavaExecSpec
+https://gradle.github.io/gradle-script-kotlin-docs/api/org.gradle.api.tasks/-java-exec/index.html
+https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaExecSpec.java
+https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaForkOptions.java
+https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/BaseExecSpec.java
+https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/ProcessForkOptions.java
+
+copySpec
+
+tasks {
+    val assembleWeb by creating(Copy::class) {
+        ...
+    }
+}
+
+///
+writeText
+
+plugin (project.run ...)
+https://docs.gradle.org/current/userguide/custom_plugins.html
+gradle-plugin/plugin/src/main/kotlin/plugin/MyPlugin.kt
+samples/provider-properties/build.gradle.kts
+
 sample-with-class:
 https://github.com/gradle/kotlin-dsl/blob/master/samples/domain-objects/build.gradle.kts
 
@@ -55,34 +93,5 @@ plugins {
     `kotlin-dsl`
 }
 
-dependency-managment
-https://github.com/spring-gradle-plugins/dependency-management-plugin
-https://stackoverflow.com/questions/40818688/gradle-script-kotlin-and-dependencymanagement
-https://spring.io/blog/2016/12/16/dependency-management-plugin-1-0-0-rc1#better-support-for-gradle-script-kotlin
-
-defaultTasks("hello")
-
-?? not-needed anymore
-import org.gradle.api.Project
-import org.gradle.kotlin.dsl.*
-
-misc tasks (copy, delete, javaexec):
-provider\src\main\kotlin\org\gradle\kotlin\dsl\KotlinSettingsScript.kt
-
-org.gradle.process.JavaExecSpec
-https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaExecSpec.java
-https://github.com/gradle/gradle/blob/master/subprojects/core-api/src/main/java/org/gradle/process/JavaForkOptions.java
-https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/BaseExecSpec.java
-https://github.com/gradle/gradle/blob/master/subprojects/process-services/src/main/java/org/gradle/process/ProcessForkOptions.java
-
-copySpec
-
-tasks {
-    val assembleWeb by creating(Copy::class) {
-        ...
-    }
-}
-
-///
-writeText
-
+rules
+samples\model-rules\buildSrc\src\main\kotlin\my\model_rules.kt
