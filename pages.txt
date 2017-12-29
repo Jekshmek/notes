@@ -1,10 +1,11 @@
 URLs:
 https://www.reindex.io/blog/redux-and-relay/
+  Mutations
 https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Dec 27
+  Dec 29
 cpp - iterator category/tag-dispatching
 https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/core.html#beans-factory-lookup-method-injection
 
