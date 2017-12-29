@@ -1,4 +1,5 @@
 2017:
+https://dev.to/hertz4/rust-module-essentials-12oi
 https://medium.com/@tak2siva/rust-modules-explained-96809931bbbf
     https://github.com/tak2siva/rust_module_example
 https://medium.com/journey-to-rust/modules-220f7657b806
