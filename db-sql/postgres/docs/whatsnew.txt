@@ -1,0 +1,2 @@
+https://www.postgresql.org/about/news/1786/
+https://wiki.postgresql.org/wiki/New_in_postgres_10

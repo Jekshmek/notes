@@ -8,3 +8,6 @@ https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf
 
 Rice - Mathematical Statistics and Data Analysis 3rd ed
 https://vk.com/doc202279185_454947042
+
+Triola - 2018 - Elementary Statistics
+https://vk.com/doc190970339_454236877
