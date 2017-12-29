@@ -8,6 +8,7 @@ https://github.com/google/protobuf/tree/master/python
 https://developers.google.com/protocol-buffers/docs/overview
 https://developers.google.com/protocol-buffers/docs/proto3
 https://developers.google.com/protocol-buffers/docs/encoding
+    https://www.sigmainfy.com/blog/protocol-buffers-encoding-and-message-structure.html
 
 https://developers.google.com/protocol-buffers/docs/tutorials
 https://developers.google.com/protocol-buffers/docs/cpptutorial
