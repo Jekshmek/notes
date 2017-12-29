@@ -9,12 +9,26 @@ https://www.youtube.com/watch?v=rJp_GDtLKjo
 d3-express
 https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
 
+c3:
+http://c3js.org/
+http://c3js.org/examples.html
+
 britecharts:
 http://eventbrite.github.io/britecharts/
 https://github.com/eventbrite/britecharts/
 
+percentile:
+https://bl.ocks.org/aviddiviner/84d905e60c6788f77ee21d35f873b236
+
 nvd3:
 http://nvd3.org/
+http://nvd3.org/examples/index.html
+
+d3-array:
+https://github.com/d3/d3-array
 
 galery:
 https://bl.ocks.org/
+http://christopheviau.com/d3list/
+http://techslides.com/over-1000-d3-js-examples-and-demos
+

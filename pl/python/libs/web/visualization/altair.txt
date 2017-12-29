@@ -1,0 +1,9 @@
+https://altair-viz.github.io/
+
+https://github.com/altair-viz/altair
+
+https://altair-viz.github.io/gallery/index.html
+
+https://altair-viz.github.io/API.html
+
+https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
