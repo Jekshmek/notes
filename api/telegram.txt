@@ -1,6 +1,9 @@
 https://netology.ru/blog/prg-tg
 
 books:
+progbook
+proglibrary
+
 @KnigaRu
 @booksfox
 https://t.me/booksfox/520
