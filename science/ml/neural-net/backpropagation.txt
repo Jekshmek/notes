@@ -1,0 +1,2 @@
+Gordon - My Attempt to Understand Backpropagation
+http://www.cl.cam.ac.uk/archive/mjcg/Blog/WhatToDo/Backpropagation.pdf

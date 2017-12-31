@@ -3,6 +3,9 @@ https://netology.ru/blog/prg-tg
 books:
 progbook
 proglibrary
+    https://vk.com/proglib
+    https://vk.com/page-54530371_48968741
+    https://t.me/proglibrary/123
 
 @KnigaRu
 @booksfox
