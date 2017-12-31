@@ -1,3 +1,42 @@
 https://github.com/pypa/pipenv
+
 https://docs.pipenv.org/
+
+aur
+    python-pipenv
+    python2-pipenv
+
 https://www.kennethreitz.org/essays/a-better-pip-workflow
+
+pipenv
+    --man
+        show man
+    --three
+        initialize a python 3 virtual environment
+        ~/.local/share/virtualenvs/<prj-name>-zcZHKdIZ
+    --update
+        update pipenv/pip
+    graph
+        show dependencies
+    --unused
+        show unused deps
+    --envs
+        output env variables
+        https://docs.pipenv.org/advanced/#configuration-with-environment-variables
+        https://docs.pipenv.org/advanced/#custom-virtual-environment-location
+        https://github.com/pypa/pipenv/issues/252
+            export PIPENV_VENV_IN_PROJECT=1
+    install
+        <package>
+            install a package and add it to Pipfile
+        --dev
+            install all packages from Pipfile, including dev
+    lock
+        create a Pipfile.lock lockfile
+        -r
+            to generate a requirements.txt
+    uninstall
+        <package>
+    shell [--fancy]
+        launch a shell with installed packages
+

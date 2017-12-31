@@ -1,0 +1,12 @@
+http://bokeh.pydata.org/en/latest/
+
+https://github.com/bokeh/bokeh
+
+http://bokeh.pydata.org/en/latest/docs/installation.html
+http://bokeh.pydata.org/en/latest/docs/user_guide.html
+http://bokeh.pydata.org/en/latest/docs/reference.html
+http://bokeh.pydata.org/en/latest/docs/dev_guide.html
+
+http://bokeh.pydata.org/en/latest/docs/gallery.html
+http://bokeh.pydata.org/en/latest/docs/gallery/boxplot.html
+https://bokeh.pydata.org/en/latest/docs/gallery/candlestick.html

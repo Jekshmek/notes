@@ -6,4 +6,14 @@ https://altair-viz.github.io/gallery/index.html
 
 https://altair-viz.github.io/API.html
 
+$ pip install altair
+$ pip install --upgrade notebook
+$ conda install altair --channel conda-forge
+
+https://github.com/vega/ipyvega
+$ jupyter nbextension enable --sys-prefix --py vega
+
+deps:
+    ipython, vega, pandas
+
 https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
