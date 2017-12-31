@@ -33,4 +33,11 @@ VanderPlas - Python Data Science Handbook ru
 Rashid - Make your own Neural Network
 
 Haykin - 2006 - NNs A Comprehensive Foundation 2nd ed ru:
-https://vk.com/doc4004138_437978172?hash=94fdf55b4f6cd5552c&dl=b59d78cf03e2c0dc47
+https://vk.com/doc4004138_437978172
+https://vk.com/doc123534285_437548299
+
+?
+Flach - Machine Learning
+https://vk.com/doc625211_453355957
+https://vk.com/doc123534285_437595048
+https://www.dropbox.com/s/2awc9bkd3dx115e/flakh_p_mashinnoe_obuchenie_nauka_i_iskusstvo_postroeniya_al.djvu?dl=0

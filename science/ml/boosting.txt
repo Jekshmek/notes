@@ -5,6 +5,7 @@ http://kelijah.livejournal.com/216093.html
 
 2016
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+https://habrahabr.ru/post/307312/
 
 cat-boost
 https://catboost.yandex/

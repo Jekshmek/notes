@@ -23,6 +23,7 @@ Sugomori - Deep Learning Essentials
 https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
 2017
 Chollet - DeepLearning with Python
+https://vk.com/doc44301783_456810592
 
 Popular and Short (java)
 Gibson - Deep Learning ER
