@@ -11,9 +11,18 @@ $ pip install --upgrade notebook
 $ conda install altair --channel conda-forge
 
 https://github.com/vega/ipyvega
-$ jupyter nbextension enable --sys-prefix --py vega
+  jupyter nbextension install --sys-prefix --py vega
+  jupyter nbextension enable --sys-prefix --py vega
 
 deps:
     ipython, vega, pandas
 
 https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+
+mark_bar(opacity=.75)
+mark_line
+mark_point
+    point with empty-dot inside
+    filled=True
+mark_circle
+    point without any empty-dots inside (just like mark_point(filled=True))

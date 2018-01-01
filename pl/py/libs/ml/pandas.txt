@@ -14,3 +14,12 @@ https://www.slideshare.net/dyakonov/pandas-54795658
 sheat-sheets:
 https://www.youtube.com/watch?v=mwt3BTkStNg
 https://github.com/chendaniely/scipy-2017-tutorial-pandas
+
+csv
+https://chrisalbon.com/python/pandas_dataframe_importing_csv.html
+    .to_csv(filename
+        , index=False
+        , sep='\t'
+        , encoding='utf-8'
+    )
+    .read_csv(filename)
