@@ -1,1 +1,3 @@
 https://kotlin.link/
+
+https://hackr.io/tutorials/learn-kotlin
