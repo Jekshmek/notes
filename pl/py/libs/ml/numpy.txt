@@ -23,3 +23,6 @@ https://pythonworld.ru/numpy/1.html
 a=[2, 4, 7, 10]
 for p in [0, 25, 33, 50, 66, 75, 100]:
     print numpy.percentile(a, p, interpolation='linear')
+
+a = np.random.randn(10, 5)
+    10 vectors, 5 elements each
