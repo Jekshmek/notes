@@ -102,3 +102,8 @@ public abstract class CommandManager {
 
 ?MethodReplacer
 
+scopes:
+org.springframework.web.context.annotation
+@ApplicationScope
+@RequestScope
+@SessionScope

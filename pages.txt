@@ -7,7 +7,7 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Jan 1
 cpp - iterator category/tag-dispatching
-https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/core.html#beans-factory-scopes-prototype
+https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/core.html#beans-factory-scopes-custom-creating
 
 Video:
 Onopko - OAuth 2                                    -   00:00 (of   38:10)

@@ -1,11 +1,14 @@
 https://netology.ru/blog/prg-tg
 
+?
+data_analysis
+
 books:
 progbook
 proglibrary
     https://vk.com/proglib
     https://vk.com/page-54530371_48968741
-    2017 Feb 1
+    2017 Mar 1
 
 @KnigaRu
 @booksfox
@@ -35,7 +38,9 @@ python_ru/ru_python
 ru_python_beginners/rupython
 proGO
 ProCxx[lib|news]/sea_plus_plus
+
 pro.jvm/javarush
+proKafka (Gamov)
 
 ml:
 ai_machinelearning_big_data
