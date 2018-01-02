@@ -1,0 +1,2 @@
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-char-sequence/index.html
