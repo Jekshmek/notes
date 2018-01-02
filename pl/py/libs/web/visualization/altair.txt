@@ -12,6 +12,8 @@ https://altair-viz.github.io/API.html
 presentations
 2016
 https://speakerdeck.com/jakevdp/visualization-in-python-with-altair
+Granger - Altair - Declarative Statistical Visualization for Python
+https://www.youtube.com/watch?v=aRxahWy-ul8
 
 install
 $ pip install altair

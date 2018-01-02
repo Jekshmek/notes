@@ -6,20 +6,26 @@ docs
 http://pandas.pydata.org/pandas-docs/stable/advanced.html
 
 articles
+2017
+https://habrahabr.ru/company/ods/blog/322626/
+https://habrahabr.ru/company/ods/blog/323210/
 https://towardsdatascience.com/how-to-learn-pandas-108905ab4955
-https://tomaugspurger.github.io/modern-1-intro
 
 presentations
 2017
 Caudron - Introduction To Data Analytics With Pandas
 https://www.youtube.com/watch?v=5XGycFIe8qE
 https://www.slideshare.net/dyakonov/pandas-54795658
+2016
+Chen - Introduction to Pandas
+https://www.youtube.com/watch?v=dye7rDktJ2E
 
 course
 https://habrahabr.ru/company/ods/blog/322626/
 
 tutorials
 http://pandas.pydata.org/pandas-docs/stable/10min.html
+2016
 https://github.com/TomAugspurger/effective-pandas
     https://tomaugspurger.github.io/modern-1-intro.html
     https://tomaugspurger.github.io/method-chaining.html

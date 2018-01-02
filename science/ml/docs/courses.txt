@@ -55,6 +55,9 @@ http://datamininginaction.ru/
 https://vk.com/data_mining_in_action
 https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
 https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/
+VSHE - Sokolov
+http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1
+https://github.com/esokolov/ml-course-hse
 
 
 MailRu2015 - DataMining
