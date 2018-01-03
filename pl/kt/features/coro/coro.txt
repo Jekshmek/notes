@@ -13,7 +13,9 @@ https://www.youtube.com/watch?v=9b89HxJ2bjU
 
 
 articles:
-2017:
+2018
+https://habrahabr.ru/post/346004/
+2017
 https://superkotlin.com/coroutines/
 https://www.linkedin.com/pulse/multithreading-kotlin-korhan-bircan/
 http://blog.alexnesterov.com/post/kotlin-coroutines-and-spring-5/

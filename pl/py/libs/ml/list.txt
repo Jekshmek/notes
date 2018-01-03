@@ -1,0 +1,2 @@
+https://proglib.io/p/ds-cheatsheets/
+https://github.com/donnemartin/data-science-ipython-notebooks

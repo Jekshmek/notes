@@ -1,1 +1,8 @@
 https://github.com/holgerbrandl/krangl
+
+https://holgerbrandl.github.io/krangl/javadoc/krangl/
+https://holgerbrandl.github.io/krangl/javadoc/krangl/krangl/index.html
+https://holgerbrandl.github.io/krangl/javadoc/krangl/alltypes/index.html
+
+https://github.com/holgerbrandl/krangl/blob/master/docs/bier_slides_june2016/krangl_intro.md
+https://github.com/holgerbrandl/krangl/blob/master/docs/user_guide.md

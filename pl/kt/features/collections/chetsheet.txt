@@ -1,3 +1,0 @@
-http://jussi.hallila.com/Kollections/
-https://github.com/Xantier/Kollections
-https://github.com/Xantier/Kollections/raw/master/docs/xantier_kotlin_collection-extensions.pdf

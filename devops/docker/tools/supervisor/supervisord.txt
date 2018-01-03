@@ -1,0 +1,2 @@
+http://supervisord.org/
+https://github.com/Supervisor/supervisor

@@ -1,0 +1,2 @@
+http://skarnet.org/software/s6/
+https://blog.tutum.co/2014/12/02/docker-and-s6-my-new-favorite-process-supervisor/

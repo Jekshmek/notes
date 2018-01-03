@@ -1,0 +1,2 @@
+https://github.com/adohe/kube2haproxy
+https://www.haproxy.com/blog/dns-service-discovery-haproxy/
