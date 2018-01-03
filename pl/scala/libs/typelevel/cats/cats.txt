@@ -1,2 +1,5 @@
-Evaluation:
+Evaluation
 https://www.youtube.com/watch?v=XDDy-QD0aVU
+
+Tagless Final
+https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html

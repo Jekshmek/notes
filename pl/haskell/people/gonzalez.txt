@@ -202,6 +202,7 @@ Dhall - template:
 http://www.haskellforall.com/2017/06/dhall-is-now-template-engine.html
 
 Dhall - cfg:
+http://www.haskellforall.com/2018/01/dhall-year-in-review-2017-2018.html
 http://www.haskellforall.com/2017/02/the-curry-howard-correspondence-between.html
 http://www.haskellforall.com/2016/12/dhall-non-turing-complete-configuration.html
 https://www.reddit.com/r/haskell/comments/5go3sb/dhall_a_nonturingcomplete_configuration_language/
