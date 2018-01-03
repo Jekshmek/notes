@@ -9,3 +9,7 @@ https://github.com/VKCOM/vk-api-schema
 
 https://vk.com/dev/streaming_api
 https://vk.com/dev/streaming_api_docs
+
+https://proglib.io/p/python-vk-api-1/
+https://proglib.io/p/python-vk-api-2/
+https://proglib.io/p/python-vk-api-3/

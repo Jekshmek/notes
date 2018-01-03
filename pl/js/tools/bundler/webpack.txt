@@ -6,6 +6,7 @@ Ivanov - WebPack bundle internals ru
 https://www.youtube.com/watch?v=jE1ibm037Fo
 
 articles:
+https://proglib.io/p/webpack-in-15/
 https://habrahabr.ru/post/339590/
 http://tutorialzine.com/2017/04/learn-webpack-in-15-minutes/
 https://www.keycdn.com/blog/webpack/
