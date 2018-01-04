@@ -6,3 +6,21 @@ https://holgerbrandl.github.io/krangl/javadoc/krangl/alltypes/index.html
 
 https://github.com/holgerbrandl/krangl/blob/master/docs/bier_slides_june2016/krangl_intro.md
 https://github.com/holgerbrandl/krangl/blob/master/docs/user_guide.md
+
+samples
+    val df = DataFrame.fromCSV("data/stat0.csv")
+        .select("name", "cpu")
+        .sortedBy("name", "cpu")
+    df.glimpse()
+    df.writeCSV("data/cpu1.csv")
+    val groupedDf: DataFrame = df.groupBy("name")
+
+    val summarizedDf = groupedDf.summarize(
+        "min"  `=` { it["all"].min()  },
+        "max"  `=` { it["all"].max()  },
+        "mean" `=` { it["all"].mean() },
+    )
+    println("Summarized DF:")
+    summarizedDf.glimpse()
+    summarizedDf.writeCSV("data/.csv")
+
