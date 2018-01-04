@@ -1,0 +1,16 @@
+https://scipy.org/
+https://scipy.org/scipylib/
+
+https://github.com/scipy/scipy
+
+doc
+https://docs.scipy.org/doc/
+
+tutorial
+https://docs.scipy.org/doc/scipy/reference/tutorial/index.html
+
+reference
+https://docs.scipy.org/doc/scipy/reference/
+
+lectures
+http://www.scipy-lectures.org/index.html

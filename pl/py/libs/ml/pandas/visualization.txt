@@ -1,0 +1,22 @@
+https://pandas.pydata.org/pandas-docs/stable/visualization.html
+https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.boxplot
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.plot.html
+
+box-plots
+https://pandas.pydata.org/pandas-docs/stable/visualization.html#box-plots
+
+dfb = pd.DataFrame(np.random.randn(10,5)) # 10 vectors 5 el-s each
+dfb.boxplot(
+    vert=False,
+    return_type='axes'
+)
+...
+df.boxplot(by='name')
+
+line-plots
+s.plot(kind='line') is equivalent to s.plot.line()
+
+df.plot(
+    subplots=True, layout=(2, 3), figsize=(6, 6), sharex=False
+)

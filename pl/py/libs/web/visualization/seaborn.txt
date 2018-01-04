@@ -27,3 +27,6 @@ presentations
 2016
 Elston - Data Visualization and Exploration with Python
 https://www.youtube.com/watch?v=KvZ2KSxlWBY
+
+categorical
+https://seaborn.pydata.org/tutorial/categorical.html

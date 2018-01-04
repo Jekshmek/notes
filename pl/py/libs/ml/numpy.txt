@@ -4,8 +4,16 @@ McKinney - Python for Data Analysis 2nd ed
 tutorials
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
-reverence
+guide
+https://docs.scipy.org/doc/numpy/user/
+https://docs.scipy.org/doc/numpy/user/index.html
+
+manual
+https://docs.scipy.org/doc/numpy/
+
+reference
 https://docs.scipy.org/doc/numpy/reference/
+https://docs.scipy.org/doc/numpy/reference/index.html
 
 cheatsheet
 https://www.dataquest.io/blog/numpy-cheat-sheet/

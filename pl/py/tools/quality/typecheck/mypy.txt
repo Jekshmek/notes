@@ -1,0 +1,13 @@
+http://mypy-lang.org/
+https://github.com/python/mypy
+
+http://mypy.readthedocs.io/en/stable/
+https://github.com/python/mypy/wiki
+
+http://mypy-lang.blogspot.com.by/
+
+http://mypy-lang.org/examples.html
+
+https://pypi.python.org/pypi/pyannotate
+https://github.com/dropbox/pyannotate
+http://mypy-lang.blogspot.com.by/2017/11/dropbox-releases-pyannotate-auto.html

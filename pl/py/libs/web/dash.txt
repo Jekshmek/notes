@@ -1,3 +1,10 @@
 https://plot.ly/products/dash/
 https://plot.ly/dash/
+
+articles
+2017
 https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503
+
+falcon sql client
+https://github.com/plotly/falcon-sql-client
+https://plot.ly/free-sql-client-download/

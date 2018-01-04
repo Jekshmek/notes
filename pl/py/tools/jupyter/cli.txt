@@ -1,5 +1,5 @@
 jupyter
-    notebook
+    notebook [--help]
         Writing notebook server cookie secret to
             /run/user/1000/jupyter/notebook_cookie_secret
         http://localhost:8888/?token=1447f600382119ef815bb991b04bc89ddba58dac57c7bff7
