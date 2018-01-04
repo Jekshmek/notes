@@ -1,2 +1,5 @@
+2.0
+Russel - What's New in Spring for Apache Kafka 2.0
+https://www.youtube.com/watch?v=eiNrzheXH-E
 1.0
 https://www.confluent.io/blog/apache-kafka-goes-1-0/
