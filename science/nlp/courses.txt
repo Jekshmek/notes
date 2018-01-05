@@ -1,3 +1,7 @@
-2017:
+2017
 Oxford - Deep Learning for NLP with DeepMind
 https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
+
+2014
+Jurafsky, Manning - Natural Language Processing
+https://www.youtube.com/playlist?list=PL6397E4B26D00A269

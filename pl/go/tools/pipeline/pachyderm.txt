@@ -1,9 +1,0 @@
-http://pachyderm.io/
-http://pachyderm.io/open_source.html
-
-http://pachyderm.readthedocs.io/en/latest/
-http://pachyderm.readthedocs.io/en/latest/getting_started/local_installation.html
-http://pachyderm.readthedocs.io/en/latest/getting_started/getting_started.html
-http://pachyderm.readthedocs.io/en/latest/getting_started/beginner_tutorial.html
-
-https://github.com/pachyderm/pachyderm

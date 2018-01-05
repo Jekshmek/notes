@@ -30,7 +30,7 @@ https://matplotlib.org/gallery/api/date_index_formatter.html
 https://matplotlib.org/gallery/ticks_and_spines/date_index_formatter.html
 
 plotting categorical
-https://matplotlib.org/devdocs/gallery/lines_bars_and_markers/categorical_variables.html
+https://matplotlib.org/gallery/lines_bars_and_markers/categorical_variables.html
 
 import matplotlib.pyplot as plt
 
@@ -39,3 +39,11 @@ names = list(data.keys())
 values = list(data.values())
 
 plt.plot(names, values)
+
+subplots
+https://pandas.pydata.org/pandas-docs/stable/visualization.html#subplots
+
+defaults
+import matplotlib.pyplot as plt
+print(plt.rcParams) # to examine all values
+print(plt.rcParams.get('figure.figsize')

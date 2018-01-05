@@ -1,2 +1,4 @@
 sudo yum install
     p7zip p7zip-plugins
+
+file:///usr/share/doc/p7zip/DOC/MANUAL/cmdline/switches/method.htm

@@ -1,6 +1,9 @@
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 
 2017:
+Kashnitsky (scipy based)!!!:
+https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+https://www.youtube.com/playlist?list=PLVlY_7IJCMJcIWApmupNhBIGkXiYa6m_3
 Small...
 https://vk.com/wall-54530371_62307
 Shamin:
@@ -23,8 +26,6 @@ OpenDataScience - ML Course
 https://github.com/Yorko/mlcourse_open
 https://habrahabr.ru/company/ods/blog/334960/
 https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg
-Kashnitsky:
-https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
 Abbakumov (ru) - R-based:
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 MailRu - Neural Nets in ML
@@ -74,7 +75,7 @@ Shad2012 - Vorontsov
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
 2010:
-MIT - Windton - 6.034 Artificial Intelligence
+MIT - Windton - 6.034 Artificial Intelligence !!!
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 

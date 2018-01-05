@@ -1,4 +1,4 @@
-https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/java.io.-file/index.html
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/java.io.-file/
 
 .list()
 .listFiles()

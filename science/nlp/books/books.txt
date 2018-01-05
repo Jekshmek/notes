@@ -1,5 +1,8 @@
+https://proglib.io/p/how-to-start-nlp/
+
 2017:
 Goldberg - Neural Network Methods in Natural Language Processing
+http://u.cs.biu.ac.il/~yogo/nnlp.pdf
 https://www.amazon.com/gp/product/1627052984/ref=s9u_simh_gw_i4
 Jurafsky - Speech and Language Processing
 https://web.stanford.edu/~jurafsky/slp3/

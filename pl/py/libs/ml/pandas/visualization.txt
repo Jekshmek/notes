@@ -20,3 +20,11 @@ s.plot(kind='line') is equivalent to s.plot.line()
 df.plot(
     subplots=True, layout=(2, 3), figsize=(6, 6), sharex=False
 )
+
+categorical
+plt.plot(dfall['name'], dfall.drop(columns=['name']))
+
+fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(8, 4), sharey=True)
+axes[0].plot(dfall['name'], dfall.drop(columns=['name']))
+axes[1].plot(dfcpu['name'], dfcpu.drop(columns=['name']))
+fig.suptitle('FX/LP min/median/max')
