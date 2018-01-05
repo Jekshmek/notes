@@ -26,8 +26,11 @@ Statistics:
 Unpingco - Python for Probability, Statistics and Machine Learning
 https://vk.com/doc4004138_453239844?hash=abd1387c870bafb957&dl=370437fe6fbaa611e1
 
-ru:
-VanderPlas - Python Data Science Handbook ru
+python
+VanderPlas - Python Data Science Handbook ru (!!!)
+https://vk.com/doc44301783_457112102
+Cilien - Introducing Data Science ru
+https://vk.com/doc44301783_457112161
 
 ? !!!
 Rashid - Make your own Neural Network

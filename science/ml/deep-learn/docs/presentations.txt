@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=uaBp0uiLvKQ
 Vidal - Mathematics of Deep Learning
 https://www.youtube.com/watch?v=Mdp9uC3gXUU
 https://www.youtube.com/watch?v=xdA-uhJ6T3U
+Naftali Trishby - Information Theory of Deep Learning
+https://www.youtube.com/watch?v=RKvS958AqGY
 
 https://medium.com/manchester-futurists/demystifying-deep-neural-nets-efb726eae941
 Kavalerov - Foldable NeuralNets (good historical overview)

@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=zAXbPnfTJg4
 
 https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html
 https://stackoverflow.com/questions/32762102/why-do-rust-programs-use-so-much-more-memory-than-the-c-haskell-and-ocaml-versi
+
+https://github.com/rust-lang/rust/tree/master/src/ci/docker/dist-x86_64-musl

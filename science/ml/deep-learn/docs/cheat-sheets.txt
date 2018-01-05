@@ -1,1 +1,2 @@
 https://github.com/dformoso/deeplearning-mindmap
+https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf
