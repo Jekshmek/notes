@@ -1,0 +1,7 @@
+https://plot.ly/javascript/
+
+https://github.com/plotly/plotly.js/
+https://github.com/plotly/react-plotly.js
+
+types
+https://plot.ly/javascript/line-charts/

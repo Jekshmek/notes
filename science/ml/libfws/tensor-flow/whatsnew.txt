@@ -1,3 +1,5 @@
+1.5
+https://www.techleer.com/articles/457-the-new-version-of-tensorflow-150-released/
 1.3
 https://www.infoq.com/news/2017/07/changes-tensorflow-1-3
 https://github.com/tensorflow/tensorflow/releases/tag/v1.3.0-rc1

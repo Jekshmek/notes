@@ -26,3 +26,6 @@ https://speakerdeck.com/sdeleuze/reactive-spring
 
 jdbc:
 https://medium.com/@mario.arias.c/spring-5-jdbc-support-for-kotlin-7cc31f4db4a5
+
+spring security
+http://www.deepaksblog.com/blog/kotlin-spring-security

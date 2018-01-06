@@ -1,0 +1,9 @@
+https://habrahabr.ru/post/279249/
+    https://www.gitbook.com/@maxfarseer/
+Paciansky - ReactJS for Beginners ru
+    https://www.gitbook.com/book/maxfarseer/react-course-ru/details
+Paciansky - Redux Course ru
+    https://www.gitbook.com/book/maxfarseer/redux-course-ru/details
+Paciansky - React Router Course ru
+    https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details
+https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html

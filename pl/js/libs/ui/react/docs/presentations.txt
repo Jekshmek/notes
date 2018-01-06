@@ -1,0 +1,5 @@
+Kosenko - ReactJs - Introduction to the library 
+good history...
+Nauck-2014-ReactJS-KeepSimple
+https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
+http://elijahmanor.com/talks/react-to-the-future/
