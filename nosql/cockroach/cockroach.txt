@@ -1,0 +1,13 @@
+https://www.cockroachlabs.com/
+https://github.com/cockroachdb/cockroach
+
+https://www.cockroachlabs.com/docs/stable/
+
+https://www.cockroachlabs.com/docs/stable/frequently-asked-questions.html
+
+https://www.cockroachlabs.com/blog/
+https://www.cockroachlabs.com/community/tech-talks/
+
+2017
+https://habrahabr.ru/company/flant/blog/327640/
+https://habrahabr.ru/post/346166/

@@ -2,8 +2,7 @@ Goodfellow:
 http://www.deeplearningbook.org/
 http://www.deeplearningbook.org/lecture_slides.html
 https://medium.com/towards-data-science/deep-learning-chapter-6-deep-feedforward-networks-d0e40758b555
-https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf
-https://vk.com/doc4004138_453543210?hash=d0d54a46d0a742445b
+https://www.labirint.ru/books/620686/
 Discussions:
 https://www.youtube.com/playlist?list=PLldrX-tcWesNk9_zRmIgPUY_uPqHVTPbS
 https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists
@@ -13,6 +12,9 @@ https://www.youtube.com/playlist?list=PLsXu9MHQGs8eO64mazCnCU3bc9l25Z1ZZ
 DL School - Hohulin
 https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ
 https://vk.com/doc83865491_454180587
+
+Burtsev
+https://vk.com/doc4004138_453543210?hash=d0d54a46d0a742445b
 
 Nielsen - Neural Networks and Deep Learing (? intro ?)
 http://neuralnetworksanddeeplearning.com/
@@ -33,3 +35,7 @@ https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-a
 
 Nikolenko !!! 2018
 https://www.piter.com/collection/soon/product/glubokoe-obuchenie
+https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
+https://www.labirint.ru/books/622166/
+https://oz.by/books/more10663570.html
+https://www.ozon.ru/context/detail/id/142987816/
