@@ -1,6 +1,5 @@
 URLs:
-https://www.reindex.io/blog/redux-and-relay/#working-with-paginated-data
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factory-lifecycle-default-init-destroy-methods
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factory-lifecycle-processor
 https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
