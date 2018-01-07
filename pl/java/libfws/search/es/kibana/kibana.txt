@@ -8,6 +8,10 @@ http://amsterdam.luminis.eu/2014/12/01/experiment-with-the-kibana-4-beta/
 http://www.elasticsearch.org/blog/kibana-4-beta-1-released/
 http://www.elasticsearch.org/blog/kibana-4-beta-2-get-now/
 
+articles
+2018
+https://habrahabr.ru/post/345968/
+
 Simple Lucene queries
 
 (html OR css) AND bytes:[1000 TO *]
