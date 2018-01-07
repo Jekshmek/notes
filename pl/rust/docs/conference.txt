@@ -5,3 +5,5 @@ RustFest Kiev
 https://www.youtube.com/playlist?list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG
 RestFest Zurich
 https://www.youtube.com/playlist?list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP
+RustBelt
+https://www.youtube.com/playlist?list=PLgC1L0fKd7Ul71lD_cImGuMxsZ6J8fa06

@@ -33,6 +33,8 @@ https://vk.com/doc44301783_457112102
 Cilien - Introducing Data Science ru
 https://vk.com/doc44301783_457112161
 Grus - Data Science from Scrutch ru
+Coelho - Building Machine Learning Systems with Python ru
+https://vk.com/doc190970339_437111950
 
 ? !!!
 Rashid - Make your own Neural Network

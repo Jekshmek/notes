@@ -6,6 +6,11 @@ http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-
 https://www.reddit.com/r/rust/comments/5qd3me/lowering_rust_traits_to_logic/
 https://internals.rust-lang.org/t/blog-series-lowering-rust-traits-to-logic/4673
 
+presentations
+2018
+Shamrell-Harrington - Traits and You
+https://www.youtube.com/watch?v=grU-4u0Okto
+
 conservative_impl_trait:
 https://www.reddit.com/r/rust/comments/5sir9i/thoughts_on_conservative_impl_trait/
 
