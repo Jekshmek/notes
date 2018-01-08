@@ -17,6 +17,8 @@ Paxos:
 http://wellquite.org/blog/paxos_notes.html
 http://en.wikipedia.org/wiki/Paxos_%28computer_science%29
 http://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf
+https://habrahabr.ru/post/346180/
+https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
 
 
 Zab:

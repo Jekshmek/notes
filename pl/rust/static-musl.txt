@@ -18,3 +18,8 @@ https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html
 https://stackoverflow.com/questions/32762102/why-do-rust-programs-use-so-much-more-memory-than-the-c-haskell-and-ocaml-versi
 
 https://github.com/rust-lang/rust/tree/master/src/ci/docker/dist-x86_64-musl
+
+https://www.reddit.com/r/rust/comments/7oco5d/executablelibrary_size_reduction/
+
+cargo-bloat
+https://github.com/RazrFalcon/cargo-bloat

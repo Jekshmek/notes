@@ -22,6 +22,8 @@ Real-time Twitter Sentiment Analytics with TensorFlow and Spring Cloud Dataflow
 https://www.youtube.com/watch?v=QzF2Iii4s5c
 Denis Dus - Sequence Prediction
 https://vk.com/video-75410445_456239153
+Shah - TFX - Deep Learning
+https://www.youtube.com/playlist?list=PLd9i_xMMzZF5O1OW1itthg_CUcmJPW6vW
 
 2016:
 CS224D Lecture 7 - Introduction to TensorFlow !!!
