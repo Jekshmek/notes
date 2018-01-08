@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factory-lifecycle-processor
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aware-list
 https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
@@ -10,12 +10,12 @@ http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskog
 http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 
 Video:
-Onopko - OAuth 2                                    -   00:00 (of   38:10)
+Onopko - OAuth 2                                    -   10:00 (of   38:10)
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Bykov - 50                                          -   30:00 (of 2:05:42)
+Bykov - 50                                          - 1:23:00 (of 2:05:42)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -28,7 +28,7 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   20:00 (of 1:01:05)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
-Paschenko 3                                         -   00:00 (of 1:26:59)
+Paschenko 4.1                                       -   00:00 (of)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 48                                         -   00:00 (of)
 Sorokin - B 9                                       -   00:00 (of)
@@ -36,7 +36,7 @@ Sorokin - B 9                                       -   00:00 (of)
 Panich                                              - 1:19:00 (of 1:58:30)
 
 Tracking:
-Razbor Poletov                                      - 150 1:40:00 (of 2:07:57)
+Razbor Poletov                                      - 151 13:00 (of 2:35:10)
 Bananas and Lens                                    - 39
 This week in rust                                   - 215
 http://accu.org/index.php/journals/c78/             - 140
