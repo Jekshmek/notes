@@ -52,6 +52,13 @@ Petrov:
 Algebra - 2016 (63 lec)
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAUuLT-x6B37VzWd3rdfFZJF
 
+Gurov
+Applied Algebra
+http://www.machinelearning.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%A1.%D0%98._%D0%93%D1%83%D1%80%D0%BE%D0%B2%29
+http://www.machinelearning.ru/wiki/images/1/11/AA3.pdf
+https://istina.msu.ru/publications/book/641802/
+
+
 Why children do not like math:
 https://www.youtube.com/watch?v=SXQ_7m79ZeM
 

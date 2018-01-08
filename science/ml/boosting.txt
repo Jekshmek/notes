@@ -7,5 +7,13 @@ http://kelijah.livejournal.com/216093.html
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 https://habrahabr.ru/post/307312/
 
+2013
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
+
+?
+Diakonov
+http://www.machinelearning.ru/wiki/images/7/7a/PZAD2017_06_gradboosting.pdf
+
 cat-boost
 https://catboost.yandex/
+

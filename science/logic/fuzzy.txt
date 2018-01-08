@@ -1,2 +1,8 @@
 Shamin - 2017 - Fuzzy Logic and Soft Calculations
 https://www.youtube.com/watch?v=feDPuYm5Xzs
+
+Uhobotov - 2011 - Selected Chapters of Fuzzy Set Theory
+http://www.lib.csu.ru/texts/UhobotovVI.pdf
+
+Ryzhov - 2008 - Fuzzy Set Theory and Applications
+http://www.intsys.msu.ru/staff/ryzhov/FuzzySetsTheory&Applications.pdf
