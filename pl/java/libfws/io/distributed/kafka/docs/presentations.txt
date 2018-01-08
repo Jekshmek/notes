@@ -1,4 +1,9 @@
-2017:
+Confluent
+https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA/videos
+Kafka Summit 2017:
+https://www.youtube.com/watch?v=ySf7bDBHRUQ
+
+2017
 Ward - Introduction to Apache Kafka
 https://www.youtube.com/watch?v=UEg40Te8pnE
 Stopford - Power of the Log: LSM and Append Only Data Structures
@@ -10,7 +15,6 @@ https://www.youtube.com/watch?v=fwQMdxYPRIo
 https://www.infoq.com/presentations/kafka-spring
 https://www.youtube.com/watch?v=l8V6PkVV1Ec
 
-Confluent:
-https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA/videos
-Kafka Summit 2017:
-https://www.youtube.com/watch?v=ySf7bDBHRUQ
+2016
+https://www.slideshare.net/SpringCentral/i-cant-believe-its-not-a-queue-using-kafka-with-spring
+https://www.slideshare.net/SpringCentral/spring-for-apache-kafka
