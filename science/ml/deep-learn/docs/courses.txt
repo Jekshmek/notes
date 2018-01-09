@@ -16,6 +16,12 @@ Choo - cs231n
 https://www.youtube.com/playlist?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl
 Bay Area School
 https://www.youtube.com/channel/UCb7PaTJYueRh6Y5rQ7h3U3w/videos
+Ivahnenko - Neural Network Theory and Deep Learning Introduction
+https://www.lektorium.tv/node/31914
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAUWTBKPpWbTGmo5zadoaeCk
+Lectorium - Deep Learning Tutorial (misc)
+https://www.lektorium.tv/lecture/29462
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAWicrms9VouPTD9AExGpy3F
 
 http://cs231n.stanford.edu/
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv

@@ -1,9 +1,18 @@
-2016:
+2017
+Yuri Davydov - Lectorium - Probability Theory
+https://www.lektorium.tv/lecture/30991
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAV1Tzhtnd57slAnzWgqb2Uh
+Yuri Davydov - Lectorium - Discrete Probability Theory
+https://www.lektorium.tv/lecture/29751
+12-lec
+https://www.youtube.com/watch?v=SbllCBBaV84
+
+2016
 MIT 18.650 - Rigollet - Statistics for Applications
 http://ocw.mit.edu/18-650F16
 https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
 
-2014:
+2014
 MIT - Tsitsiklis - Probability Theory
 https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1

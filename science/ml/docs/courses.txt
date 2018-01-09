@@ -1,6 +1,6 @@
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 
-2017:
+2017
 Kashnitsky (scipy based)!!!:
 https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
 https://www.youtube.com/playlist?list=PLVlY_7IJCMJcIWApmupNhBIGkXiYa6m_3
@@ -33,8 +33,10 @@ https://habrahabr.ru/company/ods/blog/344044/
 https://habrahabr.ru/company/mailru/blog/344982/.com.-neyronnye-seti-v-mashi
 https://www.youtube.com/playlist?list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP
 https://vk.com/videos-75410445?section=album_3
+Lectorium - ML (misc stuff)
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAVwvhnk-6V22MvKDWNrkXDJ
 
-2016:
+2016
 Howard - Practical DL for coders
 https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
     http://course.fast.ai/
@@ -59,6 +61,8 @@ https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/
 VSHE - Sokolov
 http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1
 https://github.com/esokolov/ml-course-hse
+https://www.lektorium.tv/lecture/31402
+https://www.youtube.com/watch?v=ZyRJ9EMWztg
 
 
 MailRu2015 - DataMining
@@ -74,12 +78,16 @@ https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Shad2012 - Vorontsov
 https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
 
-2010:
+2012
+Kuralenok - Lectorium - ML
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAV8HV5N2sbZ72KFoOaMXhxc
+
+2010
 MIT - Windton - 6.034 Artificial Intelligence !!!
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
-Vorontsov:
+Vorontsov
 http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf
 ML - step to digital economy:
 https://www.youtube.com/watch?v=H5waFQ1ARF8

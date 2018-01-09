@@ -1,2 +1,7 @@
 http://mmhelloworld.github.io/blog/2017/01/06/introducing-idris-on-the-jvm-and-an-idris-android-example/
 https://github.com/mmhelloworld/idris-jvm
+
+2017
+Bragilevsky - Idris Dependent Type Programming
+https://www.lektorium.tv/course/29862
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAXFRLj6n2nDjI1cyHjuI3HI

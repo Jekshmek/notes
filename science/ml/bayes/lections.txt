@@ -1,7 +1,7 @@
 Lectorium:
 Nikolenko - Bayes inference fundamentals
 https://www.lektorium.tv/course/30976
-https://www.youtube.com/watch?v=dVm6LKr9rLY
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z
 https://logic.pdmi.ras.ru/~sergey/teaching/mlkfu14/01-intro.pdf
 
 courses:
