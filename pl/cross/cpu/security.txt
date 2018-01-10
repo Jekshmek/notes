@@ -1,4 +1,5 @@
 meltdown
+http://www.opennet.ru/opennews/art.shtml?num=47880
 https://m.geektimes.ru/post/297029/
 https://www.infoq.com/news/2018/01/meltdown-spectre-deep-dive
 https://habrahabr.ru/post/346114/

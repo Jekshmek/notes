@@ -4,6 +4,8 @@ https://speakerdeck.com/hywan/hello-rust-an-overview
 https://www.slideshare.net/nikomatsakis/rust-reach-further
     https://www.youtube.com/watch?v=ksirw1v5gXk
 http://slides.com/liujunfeng/deck/fullscreen#/6
+Crichton - Intro to Rust
+https://www.youtube.com/watch?v=S53cBvNkPeQ
 
 2016:
 http://pnkfelix.github.io/presentations/rust-marcomms-agency-day-2016/slides.html

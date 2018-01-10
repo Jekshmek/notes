@@ -1,6 +1,7 @@
 articles:
 
 2018
+https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2018/01/08/unsafe_abstractions.html
 https://boats.gitlab.io/blog/post/2018-01-04-unsafe-abstractions/
 http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
     https://habrahabr.ru/post/346336/

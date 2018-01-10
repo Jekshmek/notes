@@ -10,13 +10,13 @@ http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskog
 http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 
 Video:
-Onopko - OAuth 2                                    -   10:00 (of   38:10)
+Onopko - OAuth 2                                    -   24:00 (of   38:10)
 Vorontsov 001                                       -   16:30 (of 1:24:45)
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Bykov - 50                                          - 1:41:00 (of 2:05:42)
+2017-12-29-odin-0010                                - 1:15:00 (of 1:46:41)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -37,7 +37,7 @@ Sorokin - B 10                                      -   00:00 (of)
 Panich                                              - 1:19:00 (of 1:58:30)
 
 Tracking:
-Razbor Poletov                                      - 152 1:15:00 (of 1:54:29)
+Razbor Poletov                                      - 153 40:00 (of 2:15:33)
 This week in rust                                   - 216
 http://accu.org/index.php/journals/c78/             - 140
 
@@ -47,6 +47,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
+DL                                                  - 19..55
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Vorontsov - ML                                      - 5..136
 Veller - Friends                                    - 54

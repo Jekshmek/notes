@@ -34,7 +34,8 @@ Deng - 2014 - Deep Learning: Methods and Applications
 https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf#
 
 Nikolenko !!! 2018
-https://www.piter.com/collection/soon/product/glubokoe-obuchenie
+https://habrahabr.ru/company/piter/blog/346358/
+https://www.piter.com/product/glubokoe-obuchenie
 https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
 https://www.labirint.ru/books/622166/
 https://oz.by/books/more10663570.html
