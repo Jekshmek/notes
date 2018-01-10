@@ -47,3 +47,10 @@ kubeadm
     alpha phase <cmd>
 ???
 --token-ttl 0
+
+comments at
+https://habrahabr.ru/company/oleg-bunin/blog/345842/
+
+kubeadm init
+https://github.com/containernetworking/plugins/blob/master/plugins/main/bridge/README.md
+kubectl taint nodes --all node-role.kubernetes.io/master- 

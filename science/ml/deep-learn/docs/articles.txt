@@ -1,6 +1,11 @@
 2017
 https://proglib.io/p/deep-learning/
 https://habrahabr.ru/company/mailru/blog/338248/ (review of achievements)
+https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
+https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
+https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
+https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/
+https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/
 
 2015
 Walker - Deep Convolutional Neural Networks
