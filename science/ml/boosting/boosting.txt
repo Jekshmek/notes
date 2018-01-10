@@ -2,6 +2,8 @@
 Extreme Gradient Boosting with R
 https://www.youtube.com/watch?v=woVTNwRrFHE
 http://kelijah.livejournal.com/216093.html
+https://alexanderdyakonov.wordpress.com/2017/06/09/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B3/
+https://alexanderdyakonov.files.wordpress.com/2017/06/book_boosting_pdf.pdf
 
 2016
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/

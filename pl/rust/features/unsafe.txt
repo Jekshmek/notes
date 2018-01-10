@@ -1,12 +1,16 @@
 articles:
 
-2017:
+2018
+https://boats.gitlab.io/blog/post/2018-01-04-unsafe-abstractions/
+http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
+    https://habrahabr.ru/post/346336/
+
+2017
 https://www.ralfj.de/blog/2017/07/17/types-as-contracts.html
 https://gankro.github.io/blah/only-in-rust/
     https://www.reddit.com/r/rust/comments/6h81cx/bugs_youll_probably_only_have_in_rust/
 http://smallcultfollowing.com/babysteps/blog/2017/01/22/assigning-blame-to-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2017/02/01/unsafe-code-and-shared-references/
-
 http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
 http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/
 http://smallcultfollowing.com/babysteps/blog/2016/09/12/thoughts-on-trusting-types-and-unsafe-code/
@@ -17,7 +21,10 @@ http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-fo
 http://blog.regehr.org/archives/1467
 https://www.reddit.com/r/rust/comments/5u3vrq/undefined_behavior_unsafe_programming/
 
-book:
+2016
+http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
+
+book
 https://doc.rust-lang.org/nomicon/working-with-unsafe.html
     unsafe does more than pollute a whole function: it pollutes a whole module.
     Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.

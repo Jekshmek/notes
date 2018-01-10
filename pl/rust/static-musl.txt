@@ -23,3 +23,4 @@ https://www.reddit.com/r/rust/comments/7oco5d/executablelibrary_size_reduction/
 
 cargo-bloat
 https://github.com/RazrFalcon/cargo-bloat
+https://clap.rs/2018/01/09/new-years-weight-loss/
