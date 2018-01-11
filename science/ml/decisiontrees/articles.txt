@@ -1,2 +1,3 @@
 2017:
+https://habrahabr.ru/company/ods/blog/322534/
 http://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html

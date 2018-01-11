@@ -1,4 +1,6 @@
+list
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
 2017
 Kashnitsky (scipy based)!!!:

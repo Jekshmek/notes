@@ -44,7 +44,8 @@ proKafka (Gamov)
 
 ml:
 ai_machinelearning_big_data
-ru_deep_learning
+ru_deep_learning/deeplearning_ru
+obsolete: aiplanet
 
 web:
 react_js

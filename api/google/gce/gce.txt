@@ -5,6 +5,9 @@ https://cloud.google.com/shell/docs/examples
 ???
 https://cloud.google.com/sdk/auth_success
 
+articles
+http://cs231n.github.io/gce-tutorial/
+
 tutorial
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
 p2:

@@ -6,8 +6,6 @@ https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-ana
 https://vk.com/mashinnoe_obuchenie_ai_big_data
   Jan 11
 cpp - iterator category/tag-dispatching
-http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
-http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 
 Video:
 Onopko - OAuth 2                                    -   24:00 (of   38:10)
@@ -34,10 +32,11 @@ Paschenko 4.1                                       -   00:00 (of)
 Ivliev - 49                                         -   00:00 (of)
 Sorokin - B 10                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Fain                                                -   44:00 (of   55:20)
+http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
+http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 
 Tracking:
-Razbor Poletov                                      - 153 40:00 (of 2:15:33)
+Razbor Poletov                                      - 153 1:40:00 (of 2:15:33)
 This week in rust                                   - 216
 http://accu.org/index.php/journals/c78/             - 140
 
