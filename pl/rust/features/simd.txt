@@ -1,0 +1,6 @@
+https://hsivonen.fi/rust2018/
+
+https://www.reddit.com/r/rust/comments/7poc4k/rust_2018_simd_and_other_neglected_unstable/
+https://github.com/rust-lang-nursery/stdsimd/issues/159
+
+https://github.com/rust-lang-nursery/simd

@@ -45,7 +45,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 16
+NikolenkoKadurin - DeepLearning ru                  - 20
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Vorontsov - ML                                      - 5..136
 Veller - Friends                                    - 54
