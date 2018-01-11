@@ -33,6 +33,8 @@ Gibson - Deep Learning ER
 Deng - 2014 - Deep Learning: Methods and Applications
 https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf#
 
+Gulli - Deep Learning with Keras ru
+
 Nikolenko !!! 2018
 https://habrahabr.ru/company/piter/blog/346358/
 https://www.piter.com/product/glubokoe-obuchenie

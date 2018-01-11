@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 10
+  Jan 11
 cpp - iterator category/tag-dispatching
 http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
 http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
@@ -34,7 +34,7 @@ Paschenko 4.1                                       -   00:00 (of)
 Ivliev - 49                                         -   00:00 (of)
 Sorokin - B 10                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Panich                                              - 1:19:00 (of 1:58:30)
+Fain                                                -   44:00 (of   55:20)
 
 Tracking:
 Razbor Poletov                                      - 153 40:00 (of 2:15:33)

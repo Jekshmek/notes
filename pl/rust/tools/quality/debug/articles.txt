@@ -1,3 +1,6 @@
+2018
+https://bryce.fisher-fleig.org/blog/debugging-rust-programs-with-lldb/index.html
+
 2017
 https://jvns.ca/blog/2017/12/23/segfault-debugging/
 https://www.reddit.com/r/rust/comments/7lqcl4/debugging_a_segfault_in_my_rust_program_julia/

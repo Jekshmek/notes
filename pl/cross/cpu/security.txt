@@ -5,3 +5,6 @@ https://www.infoq.com/news/2018/01/meltdown-spectre-deep-dive
 https://habrahabr.ru/post/346114/
 https://habrahabr.ru/post/346078/
 https://habrahabr.ru/post/346026/
+https://meltdownattack.com/
+https://github.com/raphaelsc/Am-I-affected-by-Meltdown
+https://www.reddit.com/r/cpp/comments/7pho9f/meltdown_checkerpoc_written_in_c/
