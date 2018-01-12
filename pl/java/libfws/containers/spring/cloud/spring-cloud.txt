@@ -9,3 +9,12 @@ http://www.java-allandsundry.com/2015/09/rest-client-calls-with-spring-cloud.htm
 -task
 
 -zookeeper
+
+starters
+    compile 'org.springframework.cloud:spring-cloud-starter-config'
+    compile 'org.springframework.cloud:spring-cloud-starter-openfeign'
+
+misc
+    compile 'org.springframework.cloud:spring-cloud-commons'
+    compile 'org.springframework.cloud:spring-cloud-context'
+    compile 'org.springframework.cloud:spring-cloud-netflix-core'

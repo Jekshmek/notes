@@ -1,10 +1,110 @@
-SSL:
+spring-cloud-feign
+https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+https://github.com/spring-cloud/spring-cloud-netflix/issues/760/
+
+FeignClient
+https://github.com/spring-cloud/spring-cloud-netflix/blob/master/spring-cloud-netflix-core/src/main/java/org/springframework/cloud/netflix/feign/FeignClient.java
+
+SSL
 https://github.com/OpenFeign/feign/pull/54
 
-src:
+response
 https://github.com/OpenFeign/feign/blob/master/core/src/main/java/feign/Response.java
     toString() - for tracing
 
-retryer:
+retryer
 feign.Retryer
 .retryner(Retryer.NEVER_RETRY)
+
+manual-usage
+
+
+import feign.Feign;
+import feign.Logger;
+import feign.RequestLine;
+import feign.Response;
+import feign.slf4j.Slf4jLogger;
+
+import org.springframework.cloud.netflix.feign.support.SpringMvcContract;
+
+import lombok.Getter;
+
+    public interface SomeService { 
+        @RequestLine("GET /analyze?text={text}")
+	@RequestMapping(value = "/analyze", method = RequestMethod.GET)
+        Response analyze(
+	    @RequestParam(value = "text") String text
+        );
+    }
+
+    @Getter(lazy = true)
+    private final SomeService client = Feign
+        .builder()
+        .contract(new SpringMvcContract())
+        .logLevel(Logger.Level.FULL)
+        .logger(new Slf4jLogger(SomeService.class))
+        .target(SomeService.class, "http://localhost:8080");
+
+    val client = getClient()
+    Response response = client.analyze(text);
+
+    assertThat(response.status()).isEqualTo(200);
+
+    assertThat(loadContents(response.body().asInputStream()))
+         .isNotNull()
+        .startsWith("some-prefix...")
+    ;
+
+spring-cloud usage
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import org.springframework.cloud.netflix.feign.EnableFeignClients;
+import org.springframework.cloud.netflix.feign.FeignClient;
+
+import org.springframework.http.ResponseEntity;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import lombok.extern.slf4j.Slf4j;
+
+@EnableAutoConfiguration
+@Slf4j
+@EnableFeignClients
+public class SomeApp implements CommandLineRunner {
+
+    @FeignClient("fxservice")
+    public interface SomeService { 
+	@RequestMapping(value = "/analyze", method = RequestMethod.GET)
+        // ResponseEntity<byte[]>
+        ResponseEntity<String> analyze(
+	    @RequestParam(value = "text") String text
+        );
+    }
+    
+    @Autowired
+    private SomeService client;
+
+    @Override
+    public void run(String... args) throws Exception {
+        String text = "Hello";
+        ResponseEntity<String> response = client.analyze(text);
+        log.info("Got feign response: {}", response);
+    }
+
+    public static void main(String[] args) {
+        SpringApplication.run(SomeApp.class, args);
+    }
+}
+
+application.yml
+
+fxservice:
+  ribbon:
+    listOfServers: http://localhost:8080
