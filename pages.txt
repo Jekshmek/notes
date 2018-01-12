@@ -4,7 +4,7 @@ https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 11
+  Jan 12
 cpp - iterator category/tag-dispatching
 
 Video:
@@ -13,7 +13,7 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-2017-12-29-odin-0010                                - 1:30:00 (of 1:46:41)
+2017-12-31-odin-2307                                -   30:00 (of 2:40:29)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
