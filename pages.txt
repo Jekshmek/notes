@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factory-extension
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factory-extension-bpp-examples-hw
 https://ru-bykov.livejournal.com/3187176.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Loglog Counting
@@ -13,7 +13,7 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-2017-12-29-odin-0010                                - 1:15:00 (of 1:46:41)
+2017-12-29-odin-0010                                - 1:30:00 (of 1:46:41)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -31,7 +31,7 @@ Paschenko 4.1                                       -   00:00 (of)
 Ivliev - 49                                         -   00:00 (of)
 Sorokin - B 10                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Book Presentation                                   -   45:00 (of 1:30:46)
+Book Presentation                                   - 1:15:00 (of 1:30:46)
   http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
 http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
 http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
