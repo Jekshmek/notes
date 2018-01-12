@@ -17,3 +17,6 @@ https://developers.google.com/protocol-buffers/docs/pythontutorial
 
 https://developers.google.com/protocol-buffers/docs/reference/overview
 https://developers.google.com/protocol-buffers/docs/reference/proto3-spec
+
+json
+return JsonFormat.printer().includingDefaultValueFields().print(res);

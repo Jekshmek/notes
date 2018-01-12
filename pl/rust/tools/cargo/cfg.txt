@@ -77,6 +77,18 @@ members = [
   "./tests/doctests"
 ]
 
+[workspace]
+members = [
+  "codegen",
+  "futures-mpsc-lossy",
+  "proxy",
+  "tower-router",
+  "tower-grpc",
+  "tower-grpc-build",
+  "tower-grpc-examples",
+  "tower-h2",
+]
+
 https://rust-lang.github.io/book/second-edition/ch14-03-cargo-workspaces.html
 [dependencies]
 add-one = { path = "add-one" }
