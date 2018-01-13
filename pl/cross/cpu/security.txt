@@ -10,3 +10,4 @@ https://github.com/raphaelsc/Am-I-affected-by-Meltdown
 https://www.reddit.com/r/cpp/comments/7pho9f/meltdown_checkerpoc_written_in_c/
 
 https://www.infoq.com/news/2018/01/intel-spectre-performance
+https://habrahabr.ru/company/cloud4y/blog/346518/

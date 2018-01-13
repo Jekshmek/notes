@@ -7,3 +7,4 @@ https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-witho
 
 samples:
 https://github.com/JetBrains/kotlin-native/tree/master/samples/tensorflow
+https://github.com/JetBrains/kotlin-native/blob/master/samples/tensorflow/build.gradle
