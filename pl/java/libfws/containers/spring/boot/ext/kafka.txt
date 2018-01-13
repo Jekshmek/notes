@@ -16,3 +16,5 @@ public class MyBean {
         // ...
     }
 }
+
+http://www.baeldung.com/spring-kafka
