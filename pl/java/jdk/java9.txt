@@ -8,3 +8,7 @@ http://kto.so/2017/09/30/the-practical-truth-about-multi-release-jars/
 Horstmann - Java 9 The Good Parts
 https://www.youtube.com/watch?v=_cvgg9szPH8
 https://downloads.contentful.com/oxjq45e8ilak/2s5MGeyxUYYkKKyyswaO4g/c23bb60468136f8a050124fbb6fd8e4a/CayHorstmann-Java9.pdf
+
+jlink
+https://dzone.com/articles/jlink-in-java-9
+https://blog.knoldus.com/2018/01/08/jlink-in-java-9/

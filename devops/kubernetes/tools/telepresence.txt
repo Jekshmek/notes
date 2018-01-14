@@ -1,0 +1,8 @@
+https://www.telepresence.io/
+
+https://github.com/datawire/telepresence
+
+https://www.telepresence.io/discussion/overview
+https://www.telepresence.io/reference/install
+https://www.telepresence.io/tutorials/docker
+https://www.telepresence.io/tutorials/kubernetes
