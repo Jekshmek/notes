@@ -25,6 +25,8 @@ Freakbook
 science
 @funscience
 
+catalogs:
+catalog_channels
 @CatalogTelegram
 @CatalogTelegram03
 
@@ -49,3 +51,13 @@ obsolete: aiplanet
 
 web:
 react_js
+
+robots
+robotics_channel
+    vk/robotics_channel
+
+?
+catalog_channels
+    Jul 25
+front_end_dev
+FilmsForYou

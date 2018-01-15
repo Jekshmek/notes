@@ -17,7 +17,7 @@ Myuller - Intro to ML using Python ru
 Raschka - Python Machine Learning ru
 Bonaccorzo - Machine Learning Algorithms
 https://jakevdp.github.io/PythonDataScienceHandbook/
-Brink - ML ru (???)
+Brink - Real-World Machine Learning ru
 https://vk.com/doc247540843_456982697
 
 2014:
