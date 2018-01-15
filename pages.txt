@@ -8,12 +8,14 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 cpp - iterator category/tag-dispatching
 
 Video:
-Vorontsov 001                                       -   16:30 (of 1:24:45)
+Vorontsov 001                                       -   27:00 (of 1:24:45)
+  https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
+Vorontsov - ML                                      -   7..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-2017-12-31-odin-2307                                - 1:16:00 (of 2:40:29)
+2018-01-05-odin-0005                                -   04:00 (of 1:45:55)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -26,7 +28,7 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   20:00 (of 1:01:05)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
-Paschenko 4.1                                       -   03:00 (of 46:53)
+Paschenko 4.2                                       -   00:00 (of 1:05:51)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 49                                         -   00:00 (of)
 Sorokin - B 10                                      -   00:00 (of)
@@ -50,7 +52,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 Books:
 NikolenkoKadurin - DeepLearning ru                  - 30..39..94..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
-Vorontsov - ML                                      - 5..136
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
