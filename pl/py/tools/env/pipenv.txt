@@ -40,3 +40,6 @@ pipenv
     shell [--fancy]
         launch a shell with installed packages
 
+
+pipenvlib
+https://github.com/kennethreitz/pipenvlib

@@ -1,11 +1,11 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-required-annotation
-https://ru-bykov.livejournal.com/3187176.html
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-autowired-annotation-primary
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
-  Cardinality Estimation: Loglog Counting
+  Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 15
+  Jan 16
 cpp - iterator category/tag-dispatching
+https://ru-bykov.livejournal.com/3187176.html
 
 Video:
 Vorontsov 001                                       -   27:00 (of 1:24:45)
@@ -50,7 +50,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 30..39..94..137..177..232..278..331..373..410..451
+NikolenkoKadurin - DeepLearning ru                  - 37..39..94..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29

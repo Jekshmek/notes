@@ -56,8 +56,21 @@ robots
 robotics_channel
     vk/robotics_channel
 
+tails
+dobrayaskazka
+skazkiaudio
+
+misc
+workshopchan
+frntr
+videolessons
+
+puzzles, thinking
+prokachai_mozgi
+creative
+
 ?
 catalog_channels
-    Jul 25
+    Okt 08
 front_end_dev
 FilmsForYou
