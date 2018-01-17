@@ -3,3 +3,6 @@ https://alexanderdyakonov.wordpress.com/2016/04/01/%d1%81-1-%d0%b0%d0%bf%d1%80%d
 
 phd
 http://www.ccas.ru/frc/thesis/VoronCanDisser.pdf
+
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
+https://www.coursera.org/specializations/machine-learning-data-analysis

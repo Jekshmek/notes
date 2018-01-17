@@ -91,6 +91,8 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
 Vorontsov
 http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
+https://www.coursera.org/specializations/machine-learning-data-analysis
 ML - step to digital economy:
 https://www.youtube.com/watch?v=H5waFQ1ARF8
 Shad2014 - Vorontsov

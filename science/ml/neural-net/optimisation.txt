@@ -1,2 +1,5 @@
+2018
+https://towardsdatascience.com/neural-network-optimization-algorithms-1a44c282f61d
+
 2017
 https://habrahabr.ru/post/318970/

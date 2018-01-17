@@ -107,3 +107,12 @@ org.springframework.web.context.annotation
 @ApplicationScope
 @RequestScope
 @SessionScope
+
+multiple-wiring-by-type-beans (primary="true")
+@Bean @Primary
+
+Qualifier("main")
+    <qualifier value="main"/>
+
+xml-driven:
+    For a fallback match, the bean name is considered a default qualifier value

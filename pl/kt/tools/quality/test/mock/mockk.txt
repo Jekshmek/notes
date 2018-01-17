@@ -2,3 +2,7 @@ http://mockk.io/
 https://github.com/oleksiyp/mockk
 
 https://habrahabr.ru/post/341202/
+
+articles
+https://blog.kotlin-academy.com/mocking-is-not-rocket-science-basics-ae55d0aadf2b
+https://blog.kotlin-academy.com/mocking-is-not-rocket-science-expected-behavior-and-behavior-verification-3862dd0e0f03
