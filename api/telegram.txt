@@ -80,7 +80,10 @@ puzzles, thinking
 prokachai_mozgi
 creative
 
+history
+burn_in_su
+
 ?
 catalog_channels
-    2016 Apr 26
+    2016 May 08
     2017 Sep 27
