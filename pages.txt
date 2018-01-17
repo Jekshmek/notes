@@ -8,14 +8,15 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 001                                       -   27:00 (of 1:24:45)
+Vorontsov 001                                       -   40:00 (of 1:24:45)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
-Vorontsov - ML                                      -   7..136
+Vorontsov - ML                                      -   9..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-2018-01-05-odin-0005                                -   20:00 (of 1:45:55)
+2018-01-12-odin-0005                                -   06:00 (of 1:45:42)
+Bykov-TurgenevViardo                                -   16:00 (of 1:02:07)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -31,7 +32,7 @@ Ortho:
 Paschenko 4.2                                       -   00:00 (of 1:05:51)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 50                                         -   00:00 (of   37:36)
-Sorokin - B 10                                      -   00:00 (of)
+Sorokin - B 11                                      -   00:00 (of   45:52)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Book Presentation                                   - 1:15:00 (of 1:30:46)
   http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
@@ -41,7 +42,7 @@ http://predanie.ru/dyagilev-aleksandr-protoierey/semya-dorevolyucionnyy-patriarh
 
 Tracking:
 Razbor Poletov                                      - 153
-This week in rust                                   - 216
+This week in rust                                   - 217
 http://accu.org/index.php/journals/c78/             - 140
 
 Series:
