@@ -51,6 +51,7 @@ obsolete: aiplanet
 
 web:
 react_js
+front_end_dev
 
 robots
 robotics_channel
@@ -63,7 +64,17 @@ skazkiaudio
 misc
 workshopchan
 frntr
+
+lectures and lessons
 videolessons
+itlecture
+
+films
+FilmsForYou
+
+torrents
+torrentus
+rutororg
 
 puzzles, thinking
 prokachai_mozgi
@@ -71,6 +82,5 @@ creative
 
 ?
 catalog_channels
-    Okt 08
-front_end_dev
-FilmsForYou
+    2016 Apr 26
+    2017 Sep 27
