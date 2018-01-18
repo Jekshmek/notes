@@ -1,6 +1,5 @@
-https://github.com/DanielKeep/cargo-script
-
-Articles:
+articles
+2016
 http://www.chriskrycho.com/2016/using-rust-for-scripting.html
 
 https://users.rust-lang.org/t/rust-for-shell-scripting-experiences-request/2628/3
