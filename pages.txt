@@ -3,7 +3,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 17
+  Jan 18
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
@@ -34,11 +34,10 @@ Paschenko 4.2                                       -   00:00 (of 1:05:51)
 Ivliev - 50                                         -   00:00 (of   37:36)
 Sorokin - B 11                                      -   00:00 (of   45:52)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Book Presentation                                   - 1:15:00 (of 1:30:46)
-  http://predanie.ru/bez-avtora/prezentaciya-knigi-mitropolita-antoniya-surozhskogo-spasenie-mira/slushat/
 http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
 http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 http://predanie.ru/dyagilev-aleksandr-protoierey/semya-dorevolyucionnyy-patriarhat-sovetskiy-matriarhat-detocentrizm-chto-dalshe/slushat/
+http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
 
 Tracking:
 Razbor Poletov                                      - 153
@@ -51,7 +50,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 43..54..64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 44..54..64..70..76..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54

@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=iX5V1WpxxkY
 
 2015
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://habrahabr.ru/company/wunderfund/blog/331310/

@@ -111,8 +111,17 @@ org.springframework.web.context.annotation
 multiple-wiring-by-type-beans (primary="true")
 @Bean @Primary
 
+qualifiers
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-qualifiers
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-autowired-annotation-qualifiers
 Qualifier("main")
     <qualifier value="main"/>
 
 xml-driven:
     For a fallback match, the bean name is considered a default qualifier value
+
+create custom-annotation
+@Target({ElementType.FIELD, ElementType.PARAMETER})
+@Retention(RetentionPolicy.RUNTIME)
+@Qualifier
+public @interface Genre { String value(); }
