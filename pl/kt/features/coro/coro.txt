@@ -1,5 +1,7 @@
-presentations:
-2017:
+presentations
+2017
+Fresh Async with Kotlin
+https://www.infoq.com/presentations/kotlin-async
 Elizarov - Kotlin Coroutines Reloaded
 https://www.youtube.com/watch?v=3xalVUY69Ok
 Elizarov - Introduction to Kotlin Coroutines
@@ -12,7 +14,7 @@ http://slides.com/ruslanibragimov/deep-in-async-computations#/
 https://www.youtube.com/watch?v=9b89HxJ2bjU
 
 
-articles:
+articles
 2018
 https://habrahabr.ru/post/346004/
 2017
@@ -31,7 +33,7 @@ https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9
 https://habrahabr.ru/post/339618/
 
 
-tutorials:
+tutorials
 https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
 
 https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md#state-machines

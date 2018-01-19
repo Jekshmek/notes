@@ -8,14 +8,15 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 001                                       -   52:00 (of 1:24:45)
+Vorontsov 001                                       - 1:06:00 (of 1:24:45)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
-Vorontsov - ML                                      -   9..136
+Vorontsov - ML                                      -   11..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
+VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-2018-01-12-odin-0005                                -   46:00 (of 1:45:42)
+2018-01-19-odin-0005                                -   30:00 (of 1:45:26)
 Bykov-TurgenevViardo                                -   16:00 (of 1:02:07)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
@@ -34,8 +35,6 @@ Paschenko 4.2                                       -   00:00 (of 1:05:51)
 Ivliev - 50                                         -   00:00 (of   37:36)
 Sorokin - B 11                                      -   00:00 (of   45:52)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Senchukova                                          - 1:11:00 (of 2:22:49)
-  http://predanie.ru/evgeniya-senchukova-inokinya/sovremennoe-monashestvo-komu-eto-nuzhno/slushat/
 http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
 http://predanie.ru/dyagilev-aleksandr-protoierey/semya-dorevolyucionnyy-patriarhat-sovetskiy-matriarhat-detocentrizm-chto-dalshe/slushat/
 http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
