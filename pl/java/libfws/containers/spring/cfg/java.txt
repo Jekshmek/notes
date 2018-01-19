@@ -67,6 +67,8 @@ class WebConfiguration {
 
 }
 
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-postconstruct-and-predestroy-annotations
+    CommonAnnotationBeanPostProcessor
 import javax.annotation.PostConstruct;
 
 @Configuration ??? @Component
@@ -125,3 +127,11 @@ create custom-annotation
 @Retention(RetentionPolicy.RUNTIME)
 @Qualifier
 public @interface Genre { String value(); }
+
+using java-generics as implicit autowiring qualifier
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-generics-as-qualifiers
+
+classpath scanning
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-classpath-scanning
+
+@Component/@Service

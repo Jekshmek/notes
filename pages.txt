@@ -1,9 +1,9 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-autowired-annotation-qualifiers
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-stereotype-annotations
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 18
+  Jan 19
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
@@ -51,7 +51,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 44..54..64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 48..54..64..70..76..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54

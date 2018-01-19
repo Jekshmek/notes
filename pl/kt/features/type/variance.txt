@@ -1,1 +1,5 @@
+2018
+https://blog.kotlin-academy.com/kotlin-generics-variance-modifiers-36b82c7caa39
+
+2017
 https://tech.io/playgrounds/6091/simple-kotlin-template
