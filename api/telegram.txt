@@ -82,8 +82,18 @@ creative
 
 history
 burn_in_su
+areasssr
+historyfacts
+historygramrus
+
+eng
+detailedenglish
+liveenglish
+eng_less
 
 ?
+tgcat
+vipcatalog
 catalog_channels
-    2016 May 08
+    2016 Jun 01
     2017 Sep 27
