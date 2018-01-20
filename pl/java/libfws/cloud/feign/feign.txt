@@ -108,3 +108,13 @@ application.yml
 fxservice:
   ribbon:
     listOfServers: http://localhost:8080
+
+
+some issues with @EnableFeignClients
+->
+import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
+import org.springframework.cloud.netflix.feign.FeignAutoConfiguration;
+import org.springframework.cloud.netflix.feign.ribbon.FeignRibbonClientAutoConfiguration;
+import org.springframework.cloud.netflix.ribbon.RibbonAutoConfiguration;
+
+@ImportAutoConfiguration({RibbonAutoConfiguration.class, FeignRibbonClientAutoConfiguration.class, FeignAutoConfiguration.class})
