@@ -1,5 +1,12 @@
 https://www.cs.washington.edu/tr/2015/03/UW-CSE-15-03-02.pdf
 
+2018
+https://www.youtube.com/watch?v=Cy9NUVaiYUg
+https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf
+http://gallium.inria.fr/seminaires/transparents/20171218.Jacques-Henri.Jourdan.pdf
+https://www.youtube.com/watch?v=Y9vemQmVeLI
+
+
 http://plv.mpi-sws.org/rustbelt/
 https://www.ralfj.de/blog/2017/07/08/rustbelt.html
 https://air.mozilla.org/rust-paris-meetup-35-2017-01-19/

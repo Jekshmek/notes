@@ -44,10 +44,14 @@ https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
 RBE:
 https://rustbyexample.com/
 
-Published:
-Kaihlavirta - Mastering Rust
-https://www.packtpub.com/application-development/mastering-rust
-
-api-guidelines:
+api-guidelines
 https://rust-lang-nursery.github.io/api-guidelines/
 https://github.com/rust-lang-nursery/api-guidelines
+
+Published
+Kaihlavirta - Mastering Rust
+https://www.packtpub.com/application-development/mastering-rust
+Gomez - Rust Programming by Example
+https://www.packtpub.com/application-development/rust-programming-example
+Chanda - Network Programming with Rust
+https://www.packtpub.com/application-development/network-programming-rust

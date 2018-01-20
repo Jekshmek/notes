@@ -3,3 +3,6 @@ https://medium.com/@colriot/writing-java-friendly-kotlin-code-c408b24fb4e
 class
 https://discuss.kotlinlang.org/t/myclass-class-syntax-in-kotlin/825/13
 some_var::class
+
+static
+@JvmStatic
