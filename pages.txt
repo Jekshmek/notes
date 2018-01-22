@@ -3,7 +3,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 21
+  Jan 22
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
@@ -30,7 +30,7 @@ Astvacaturov - Thomas Sterns Eliott - 01            -   20:00 (of 1:01:05)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
-Paschenko 4.2                                       -   00:00 (of 1:05:51)
+Paschenko 4.3                                       -   00:00 (of )
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 50                                         -   00:00 (of   37:36)
 Sorokin - B 11                                      -   00:00 (of   45:52)

@@ -91,10 +91,11 @@ detailedenglish
 liveenglish
 eng_less
 tmc_mistakes
+en_voc
 
 ?
 tgcat
 vipcatalog
 catalog_channels
-    2016 Jun 10
+    2016 Jul 01
     2017 Sep 27

@@ -8,6 +8,3 @@ https://ru.bem.info/platform/tutorials/
 https://github.com/bem-site/bem-js-tutorial
 
 https://ru.bem.info/community/
-
-articles:
-https://medium.com/@kovchiy/interface-components-ac2447ab5fbe

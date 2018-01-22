@@ -1,4 +1,6 @@
 2018
+https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+    https://habrahabr.ru/post/347158/
 https://medium.com/@charltoons/tutorial-compiling-rust-to-wasm-b70d4a7d428f
 https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/
 
