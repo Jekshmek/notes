@@ -1,0 +1,7 @@
+https://crates.io/crates/reqwest
+https://docs.rs/reqwest/
+https://github.com/seanmonstar/reqwest
+
+https://crates.io/crates/elastic_reqwest
+https://docs.rs/elastic_reqwest
+https://github.com/elastic-rs/elastic
