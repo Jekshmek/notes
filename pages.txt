@@ -8,7 +8,7 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 001                                       - 1:06:00 (of 1:24:45)
+Vorontsov 001                                       - 1:08:00 (of 1:24:45)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   11..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
