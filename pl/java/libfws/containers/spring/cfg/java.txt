@@ -141,4 +141,23 @@ stereotype annotations
     @Repository
     @RestController
 
+component scanning
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-filters
+@ComponentScan(
+    includeFilters = @Filter(type = FilterType.REGEX, pattern = "..."),
+    excludeFilters = ...,
+    useDefaultFilters = false
+)
+    types
+    annotation(default)
+    assignable
+    aspectj
+    regex
+    custom
 
+bean-metadata within components
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-factorybeans-annotations
+@Bean
+    @Qualifier
+    @Scope
+    @Lazy

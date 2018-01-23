@@ -97,5 +97,5 @@ en_voc
 tgcat
 vipcatalog
 catalog_channels
-    2016 Jul 01
+    2016 Aug 01
     2017 Sep 27

@@ -1,2 +1,6 @@
+2017
+Gasimov - Secured REST Microservices with Spring Cloud
+https://www.youtube.com/watch?v=dq4RzFdm1Y0
+
 2014
 http://presos.dsyer.com/decks/microservice-security.html
