@@ -18,6 +18,7 @@ https://t.me/booksfox/520
 chitaem_detkam
 knigovorot
 bookchat
+dumai
 
 news
 Freakbook
@@ -68,6 +69,7 @@ frntr
 lectures and lessons
 videolessons
 itlecture
+educationgo
 
 films
 FilmsForYou
@@ -85,6 +87,11 @@ burn_in_su
 areasssr
 historyfacts
 historygramrus
+vatnikstan
+
+travel
+beutifulrus
+icrimea
 
 eng
 detailedenglish
@@ -92,10 +99,11 @@ liveenglish
 eng_less
 tmc_mistakes
 en_voc
+dailyeng
 
 ?
 tgcat
 vipcatalog
 catalog_channels
-    2016 Aug 01
+    2016 Aug 18
     2017 Sep 27
