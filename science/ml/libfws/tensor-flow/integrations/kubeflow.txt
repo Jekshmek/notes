@@ -1,0 +1,15 @@
+https://github.com/google/kubeflow
+
+https://github.com/google/kubeflow/blob/master/user_guide.md
+
+https://www.katacoda.com/kubeflow
+
+http://kube-machine-learning.rocks/
+
+articles
+2018
+https://jaxenter.com/kubeflow-ml-kubernetes-139610-139610.html
+https://habrahabr.ru/company/it-grad/blog/347042/
+
+2017
+http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html
