@@ -16,7 +16,7 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
 VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-Bykov-Pushkin                                       -   03:00 (of   56:14)
+Bykov-Nekrasov                                      -   05:00 (of 1:20:19)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -52,7 +52,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 54..64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 56..64..70..76..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
