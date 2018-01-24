@@ -17,3 +17,5 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins
 https://habrahabr.ru/post/346346/
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vi-profile-page-and-avatars
 https://habrahabr.ru/post/346348/
+
+https://habrahabr.ru/post/347450/

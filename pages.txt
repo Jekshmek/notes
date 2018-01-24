@@ -43,7 +43,7 @@ http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsy
 
 Tracking:
 Razbor Poletov                                      - 153
-This week in rust                                   - 217
+This week in rust                                   - 218
 http://accu.org/index.php/journals/c78/             - 140
 
 Series:

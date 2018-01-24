@@ -28,8 +28,6 @@ OpenDataScience - ML Course
 https://github.com/Yorko/mlcourse_open
 https://habrahabr.ru/company/ods/blog/334960/
 https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg
-Abbakumov (ru) - R-based:
-https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 MailRu - Neural Nets in ML
 https://habrahabr.ru/company/ods/blog/344044/
 https://habrahabr.ru/company/mailru/blog/344982/.com.-neyronnye-seti-v-mashi
@@ -43,6 +41,10 @@ https://www.youtube.com/playlist?list=PLbuogVdPnkCoAsjNMeh_1W8LlK06u91r1
 https://www.youtube.com/playlist?list=PLbuogVdPnkCpJorD_CeIqRrYsdF-i-APC
 https://www.youtube.com/playlist?list=PLbuogVdPnkCrK5Y-UOG6KCMgw498LtmIf
 https://www.youtube.com/playlist?list=PLbuogVdPnkCpH0_nLD5bumuM56ZQSjvIB
+Kuralenok
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
+Abbakumov (ru) - R-based:
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
 
 2016
 Howard - Practical DL for coders
@@ -71,7 +73,8 @@ http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0
 https://github.com/esokolov/ml-course-hse
 https://www.lektorium.tv/lecture/31402
 https://www.youtube.com/watch?v=ZyRJ9EMWztg
-
+Kuralenok
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
 
 MailRu2015 - DataMining
 https://www.youtube.com/playlist?list=PLrCZzMib1e9pXgyJ8Y9Io4AocGy66pj1X

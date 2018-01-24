@@ -18,6 +18,10 @@ MIT 18.650 - Rigollet - Statistics for Applications
 http://ocw.mit.edu/18-650F16
 https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+Hrabrov - CSC - Asymptotic analysis and probability theoru ru
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpS634rDf15afbmKJRSYmH50
+Grauer - Math Statistics ru
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx
 
 2014
 MIT - Tsitsiklis - Probability Theory
