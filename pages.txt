@@ -1,9 +1,9 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-name-generator
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-standard-annotations
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 23
+  Jan 24
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
@@ -16,7 +16,7 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
 VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-Bykov-Carlson                                       -   13:00 (of   58:29)
+Bykov-Carlson                                       -   48:00 (of   58:29)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0

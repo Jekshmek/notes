@@ -161,3 +161,22 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
     @Qualifier
     @Scope
     @Lazy
+
+name auto-generation
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-name-generator
+    @Service("myMovieLister")
+    public class SimpleMovieLister {...}
+
+    @Configuration
+    @ComponentScan(basePackages = "org.example", nameGenerator = MyNameGen.class) // MyNameGen impls BeanNameGenerator
+
+custom scope resolver
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-scope-resolver
+    @Configuration
+    @ComponentScan(basePackages = "org.example", scopeResolver = MyScopeRes.class) // MyScopeRes impls ScopeMetadataResolver
+
+generate an index of candidate components
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-scanning-index
+    org.springframework.spring-context-indexer
+    will generate
+        META-INF/spring.components
