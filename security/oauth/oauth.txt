@@ -4,6 +4,11 @@ https://tools.ietf.org/html/rfc6750
 wiki:
 https://en.wikipedia.org/wiki/OAuth
 
+presentations
+2017
+Tran - Beyond OAuth2
+https://www.infoq.com/presentations/oauth2-microservices-security
+
 https://console.developers.google.com/project
 
 https://developers.google.com/drive/web/about-auth

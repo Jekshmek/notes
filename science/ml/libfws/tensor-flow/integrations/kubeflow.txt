@@ -10,6 +10,7 @@ articles
 2018
 https://jaxenter.com/kubeflow-ml-kubernetes-139610-139610.html
 https://habrahabr.ru/company/it-grad/blog/347042/
+https://www.infoq.com/news/2018/01/Kubecon-ml-aronchick
 
 2017
 http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html

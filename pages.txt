@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-standard-annotations
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-standard-annotations-limitations
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -16,7 +16,7 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
 VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-Bykov-Nekrasov                                      -   05:00 (of 1:20:19)
+Bykov-Nekrasov                                      -   20:00 (of 1:20:19)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -25,7 +25,7 @@ Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Thomas Sterns Eliott - 01            -   20:00 (of 1:01:05)
+Astvacaturov - Thomas Sterns Eliott - 01            - 1:00:00 (of 1:01:05)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
@@ -35,11 +35,12 @@ Ivliev - 1                                          -   00:00 (of   )
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 12                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
+Dyagilev                                            -   41:00 (of 1:05:05)
 http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
-http://predanie.ru/dyagilev-aleksandr-protoierey/semya-dorevolyucionnyy-patriarhat-sovetskiy-matriarhat-detocentrizm-chto-dalshe/slushat/
 http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
 http://predanie.ru/soldatkina-yanina-viktorovna/poiski-hrista-v-russkoy-literature-hh-veka/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
+http://predanie.ru/somov-aleksey-borisovich/kak-iudei-zhdali-konca-sveta/slushat/
 
 Tracking:
 Razbor Poletov                                      - 153
@@ -52,12 +53,9 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 56..64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 58..64..70..76..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-
-Wait:
-Nestsiarenia - REACTIVE PROGRAMMING IN JAVA WORLD

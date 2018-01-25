@@ -14,3 +14,7 @@ http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org
 plugins:
 https://github.com/melix/jmh-gradle-plugin
 https://github.com/ktoso/sbt-jmh
+
+whatsnew
+1.20
+https://habrahabr.ru/post/347124/

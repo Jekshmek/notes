@@ -2,6 +2,12 @@ list
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
+2018
+CMU - NN
+https://www.youtube.com/watch?v=Qbztx1CfSfo
+https://www.youtube.com/watch?v=zlnQyxiEGNM
+https://www.youtube.com/watch?v=HyjB2uMZK5k
+
 2017
 Kashnitsky (scipy based)!!!:
 https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
@@ -63,11 +69,12 @@ https://www.youtube.com/playlist?list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
 CMTV
 https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
-RUDN - Kantor - Data Mining in Action !!!
+MIPT - RUDN - Kantor - Data Mining in Action !!!
 http://datamininginaction.ru/
 https://vk.com/data_mining_in_action
 https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
 https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/
+https://www.slideshare.net/xeadwl/lecture-1-introduction-66914456
 VSHE - Sokolov
 http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_1
 https://github.com/esokolov/ml-course-hse
