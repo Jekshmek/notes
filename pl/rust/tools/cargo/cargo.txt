@@ -16,6 +16,7 @@ cargo
     install --list
         list installed crates/packages
         --git https://github.com/org/name
+        --vers ="^0.1.0"
     new <prj-name>
         --bin
     check
