@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-standard-annotations-limitations
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-basic-concepts
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -8,7 +8,7 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 001                                       - 1:08:00 (of 1:24:45)
+Vorontsov 002                                       -   10:00 (of 1:25:51)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   11..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
@@ -16,7 +16,6 @@ Shamin - nonstrict sets                             -   24:00 (of   46:54)
 VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-Bykov-Block                                         -   40:00 (of 1:18:41)
 Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge                              -   22:00 (of 2:23:26)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
