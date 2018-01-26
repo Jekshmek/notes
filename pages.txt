@@ -35,7 +35,7 @@ Ivliev - 1                                          -   00:00 (of   )
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 12                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Dyagilev                                            -   41:00 (of 1:05:05)
+Spiridonov - Dorogami                               -   50:00 (of 2:29:22)
 http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
 http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
 http://predanie.ru/soldatkina-yanina-viktorovna/poiski-hrista-v-russkoy-literature-hh-veka/slushat/
@@ -53,7 +53,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 58..64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 60..64..70..76..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
