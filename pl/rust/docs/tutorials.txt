@@ -19,3 +19,6 @@ Rust for C++:
 https://github.com/nrc/r4cppp
 http://featherweightmusings.blogspot.com.by/search/label/rust-for-c
 
+2018
+dcode - Rust Programming Tutorials
+https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL

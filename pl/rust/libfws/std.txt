@@ -1,5 +1,8 @@
 #![no_std]
 
+https://doc.rust-lang.org/std/
+https://doc.rust-lang.org/src/std/io/error.rs.html#67-75
+
 prelude:
 https://doc.rust-lang.org/std/prelude/
 https://doc.rust-lang.org/std/io/prelude/

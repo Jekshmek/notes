@@ -2,15 +2,15 @@ https://doc.rust-lang.org/
 https://doc.rust-lang.org/beta/
 https://doc.rust-lang.org/nightly/
 
-Guides:
+guides
 http://faq.sealedabstract.com/rust/
 
-Reference:
+reference
 https://doc.rust-lang.org/reference.html
 
-Blogs:
+blogs
 http://blog.pnkfx.org/
 http://www.smallcultfollowing.com/babysteps/
 
-Internals:
+internals
 https://internals.rust-lang.org/
