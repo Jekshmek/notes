@@ -1,3 +1,8 @@
+#alias on-pg='sudo systemctl start postgresql'
+#alias off-pg='sudo systemctl stop postgresql'
+#alias cfg-pg='sudo vim /usr/lib/systemd/system/postgresql.service'
+#alias su-pg='sudo -iu postgres'
+
 /usr/lib/systemd/system/postgresql.service
 
 [Unit]

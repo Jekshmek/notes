@@ -65,6 +65,7 @@ skazkiaudio
 misc
 workshopchan
 frntr
+medic_blog
 
 lectures and lessons
 videolessons
@@ -81,6 +82,7 @@ rutororg
 puzzles, thinking
 prokachai_mozgi
 creative
+childgame
 
 history
 burn_in_su
@@ -90,10 +92,16 @@ historygramrus
 vatnikstan
 grandpaper
 rarephotos19
+itsprint (history of books)
+rarephotos19
 
 travel
 beutifulrus
 icrimea
+hdiscovery
+
+art
+vincent_vangog
 
 eng
 detailedenglish
@@ -108,5 +116,5 @@ thinkenglish
 tgcat
 vipcatalog
 catalog_channels
-    2016 Sep 01
+    2016 Oct 01
     2017 Sep 27

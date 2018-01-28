@@ -1,8 +1,32 @@
 https://hub.docker.com/_/postgres/
+https://github.com/docker-library/postgres
+
+https://habrahabr.ru/post/328226/
+
+    docker run --rm\
+    --name pgclb\
+    -p 5432:5432\
+    --user "$(id -u):$(id -g)"\
+    -v /etc/passwd:/etc/passwd:ro\
+    -v /data/wrk/clb/postgresql/data:/var/lib/postgresql/data:rw\
+    -v /data/wrk/clb/postgresql/postgres-passwd:/run/secrets/postgres-passwd:ro\
+    -e POSTGRES_PASSWORD_FILE=/run/secrets/postgres-passwd\
+    -d postgres:9.2
+
+    #-e POSTGRES_USER=$(id -un)\
+    #-e POSTGRES_PASSWORD=pwd\
+    # data/pg_hba.conf
+    # host    all             all             172.17.0.1/16           trust
 
 docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres:9.2
-    postgres:latest
-    postgres:9.3
-    postgres:9.2
 
 VOLUME /var/lib/postgresql/data
+
+data/pg_hba.conf
+# ...
+# IPv4 local connections:
+# TBD
+#host    all             all             127.0.0.1/32            trust
+host    all             all             172.17.0.1/16           trust
+#host    all             all             all                     trust
+# ...
