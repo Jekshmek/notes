@@ -11,7 +11,7 @@ http://stackoverflow.com/questions/15301826/psql-fatal-role-postgres-does-not-ex
 
 manjaro-extra:
     postgresql
-    postgresql-libs
+    postgresql-libs (psql, createdb and other stuff)
     postgresql-docs
 aur:
     postgresql-lts

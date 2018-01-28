@@ -3,7 +3,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Jan 24
+  Jan 25
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
@@ -40,6 +40,7 @@ http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-
 http://predanie.ru/soldatkina-yanina-viktorovna/poiski-hrista-v-russkoy-literature-hh-veka/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
 http://predanie.ru/somov-aleksey-borisovich/kak-iudei-zhdali-konca-sveta/slushat/
+https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 
 Tracking:
 Razbor Poletov                                      - 153

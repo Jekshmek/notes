@@ -1,0 +1,4 @@
+https://docs.rs/futures/0.1.17/futures/stream/trait.Stream.html
+
+2018
+http://xion.io/post/code/rust-unfold-pagination.html
