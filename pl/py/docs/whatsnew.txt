@@ -1,0 +1,2 @@
+3.x
+https://github.com/arogozhnikov/python3_with_pleasure

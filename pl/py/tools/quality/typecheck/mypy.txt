@@ -2,6 +2,7 @@ http://mypy-lang.org/
 https://github.com/python/mypy
 
 http://mypy.readthedocs.io/en/stable/
+http://mypy.readthedocs.io/en/latest/
 https://github.com/python/mypy/wiki
 
 http://mypy-lang.blogspot.com.by/

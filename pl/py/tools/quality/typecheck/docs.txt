@@ -1,0 +1,3 @@
+2017
+Putting Type Hints to Work
+https://www.youtube.com/watch?v=JqBCFfiE11g

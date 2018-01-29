@@ -1,0 +1,6 @@
+https://clickhouse.yandex/
+https://clickhouse.yandex/docs/en/
+https://github.com/yandex/ClickHouse/
+
+2018
+https://habrahabr.ru/company/yandex/blog/347696/
