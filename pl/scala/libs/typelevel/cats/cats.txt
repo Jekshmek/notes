@@ -1,5 +1,8 @@
-Evaluation
+evaluation
 https://www.youtube.com/watch?v=XDDy-QD0aVU
 
-Tagless Final
+tagless final
 https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html
+
+typeclass diagram
+https://github.com/tpolecat/cats-infographic
