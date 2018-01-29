@@ -1,0 +1,2 @@
+1.6.0
+https://github.com/testcontainers/testcontainers-java/blob/master/CHANGELOG.md#160---2018-01-28

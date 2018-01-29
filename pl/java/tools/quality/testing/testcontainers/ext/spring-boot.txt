@@ -1,0 +1,1 @@
+https://github.com/bsideup/testcontainers-microservices-example/tree/master/src/test/java/org/testcontainers/example/demo
