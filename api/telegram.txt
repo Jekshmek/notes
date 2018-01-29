@@ -94,6 +94,7 @@ grandpaper
 rarephotos19
 itsprint (history of books)
 rarephotos19
+Historia
 
 travel
 beutifulrus
@@ -102,6 +103,7 @@ hdiscovery
 
 art
 vincent_vangog
+kartiny
 
 eng
 detailedenglish
@@ -116,5 +118,5 @@ thinkenglish
 tgcat
 vipcatalog
 catalog_channels
-    2016 Oct 01
+    2016 Nov 02
     2017 Sep 27
