@@ -1,0 +1,2 @@
+headers
+https://www.mkyong.com/webservices/jax-rs/get-http-header-in-jax-rs/
