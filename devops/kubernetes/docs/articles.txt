@@ -1,4 +1,6 @@
 2017:
+https://stripe.com/blog/operating-kubernetes
+    https://habrahabr.ru/company/otus/blog/347810/
 https://habrahabr.ru/company/flant/blog/331188/
 https://habrahabr.ru/company/flant/blog/342658/
 https://habrahabr.ru/company/flant/blog/342822/

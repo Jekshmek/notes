@@ -1,3 +1,5 @@
+https://kubernetes.io/docs/concepts/architecture/nodes/
+
 vars:
 KUBE_GCE_INSTANCE_PREFIX
     node name prefix (kubernetes-)

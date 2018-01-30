@@ -1,5 +1,5 @@
-articles:
-2017:
+articles
+2017
 https://sysdig.com/blog/7-docker-security-vulnerabilities/
     https://habrahabr.ru/company/southbridge/blog/339126/
 https://medium.com/microscaling-systems/dockerfile-security-tuneup-166f1cdafea1

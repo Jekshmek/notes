@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=TFj-w2-ISVg
 2016:
 Ghe Children Guide
 https://www.youtube.com/watch?v=4ht22ReBjno
+Hightower - k8s for sysadmins
+https://www.youtube.com/watch?v=HlAXp0-M6SY
