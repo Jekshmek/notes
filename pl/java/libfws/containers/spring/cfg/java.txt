@@ -180,3 +180,10 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
     org.springframework.spring-context-indexer
     will generate
         META-INF/spring.components
+
+instantiation
+AnnotationConfigApplicationContext
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-instantiating-container
+AnnotationConfigWebApplicationContext
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-instantiating-container-web
+!!! can be driven by @ComponentScan

@@ -5,3 +5,5 @@ Barber - Bayesian Reasoning and Machine Learning
 Bayesian Methods for Hackers
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+Murphy - Machine Learning - A Probabilistic Perspective
+Bishop - Pattern Recognition and Machine Learning
