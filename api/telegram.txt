@@ -95,6 +95,7 @@ rarephotos19
 itsprint (history of books)
 rarephotos19
 Historia
+epic_history
 
 travel
 beutifulrus
@@ -118,5 +119,5 @@ thinkenglish
 tgcat
 vipcatalog
 catalog_channels
-    2016 Nov 02
+    2016 Dec 05
     2017 Sep 27
