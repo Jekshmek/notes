@@ -8,24 +8,22 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 002                                       -   10:00 (of 1:25:51)
+Vorontsov 002                                       -   20:00 (of 1:25:51)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
-Vorontsov - ML                                      -   11..136
+Vorontsov - ML                                      -   42..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
-VeniaminSmehov                                      -   01:00 (of   58:23)
 
 Lit:
-Weller - Han                                        -   05:00 (of   55:51)
 Malishevsky - Eldridge 1                            -   00:00 (of 1:21:21)
   https://www.youtube.com/watch?v=yLkKSnRD_kM
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
-05-Phillipp-i-Varfolomei                            -   00:00 (of   26:11)
+06-Matfei-i-Iuda                                    -   00:00 (of   26:42)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Thomas Sterns Eliott - 01            - 1:00:00 (of 1:01:05)
+Astvacaturov - Thomas Sterns Eliott - 01            -   42:00 (of 1:01:05)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
