@@ -11,11 +11,6 @@ http://habrahabr.ru/company/infobox/blog/241237/
 Writing custom .service and .target
 https://habrahabr.ru/post/275645/
 
-Whats New:
-http://www.opennet.ru/opennews/art.shtml?num=47749
-http://www.opennet.ru/opennews/art.shtml?num=47342
-http://www.opennet.ru/opennews/art.shtml?num=45431
-
 man
 http://www.freedesktop.org/software/systemd/man/systemd.unit.html
 
