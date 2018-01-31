@@ -18,6 +18,9 @@ http://www.simon-hohberg.de/2014/10/10/conv-net.html
 http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/
 
 presentations
+2018
+Korting - How CNN algorithm works
+https://www.youtube.com/watch?v=oI2rvjbzVmI
 2017
 Hinton - What is wrong with convolutional neural nets?
 https://www.youtube.com/watch?v=Jv1VDdI4vy4

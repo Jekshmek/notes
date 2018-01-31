@@ -187,3 +187,8 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 AnnotationConfigWebApplicationContext
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-instantiating-container-web
 !!! can be driven by @ComponentScan
+
+@Bean(initMethod="...",
+    destroyMethod="..." // close() and shutdown() methods are auto-called !!!
+    destroyMethod=""    // to disable this auto-callling behavior
+)

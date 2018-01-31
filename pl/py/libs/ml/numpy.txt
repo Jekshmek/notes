@@ -25,6 +25,7 @@ tips
 https://nbviewer.jupyter.org/github/vlad17/np-learn/blob/master/presentation.ipynb
 
 array
+https://machinelearningmastery.com/gentle-introduction-n-dimensional-arrays-python-numpy/
 https://docs.scipy.org/doc/numpy-1.13.0/user/quickstart.html
 http://www.scipy-lectures.org/intro/numpy/operations.html
 https://www.tutorialspoint.com/numpy/numpy_indexing_and_slicing.htm
