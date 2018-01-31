@@ -8,9 +8,9 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 002                                       -   20:00 (of 1:25:51)
+Vorontsov 002                                       -   30:00 (of 1:25:51)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
-Vorontsov - ML                                      -   42..136
+Vorontsov - ML                                      -   45..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
@@ -18,12 +18,10 @@ Lit:
 Malishevsky - Eldridge 1                            -   00:00 (of 1:21:21)
   https://www.youtube.com/watch?v=yLkKSnRD_kM
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
-06-Matfei-i-Iuda                                    -   00:00 (of   26:42)
-  https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Thomas Sterns Eliott - 02            -   00:00 (of)
+Astvacaturov - Thomas Sterns Eliott - 02            -   01:00 (of 1:13:32)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
@@ -33,10 +31,14 @@ Ivliev - 2                                          -   00:00 (of   )
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 12                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
+06-Matfei-i-Iuda                                    -   11:00 (of   26:42)
+  https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
+hasminskiy                                          -   02:00 (of   53:14)
 http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
 http://predanie.ru/soldatkina-yanina-viktorovna/poiski-hrista-v-russkoy-literature-hh-veka/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
 http://predanie.ru/somov-aleksey-borisovich/kak-iudei-zhdali-konca-sveta/slushat/
+http://predanie.ru/salakone-alessandro/vstrecha-kotoraya-mozhet-izmenit-zhizn/slushat/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 
 Tracking:
@@ -50,7 +52,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 65..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 66..70..76..82..93
     ..137..177..232..278..331..373..410..451
     cit-n 44, 381
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
