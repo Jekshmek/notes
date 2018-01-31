@@ -1,0 +1,2 @@
+2018
+https://proandroiddev.com/kotlin-data-classes-enough-boilerplate-c4647e475485

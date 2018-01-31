@@ -1,0 +1,3 @@
+2018
+DeMario - Go Concurrency in the Real World
+https://www.infoq.com/presentations/go-concurrency-demo

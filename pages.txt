@@ -23,7 +23,7 @@ Malishevsky - Eldridge 1                            -   00:00 (of 1:21:21)
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Thomas Sterns Eliott - 01            -   42:00 (of 1:01:05)
+Astvacaturov - Thomas Sterns Eliott - 02            -   00:00 (of)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
@@ -33,8 +33,6 @@ Ivliev - 2                                          -   00:00 (of   )
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 12                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Spiridonov - Dorogami                               -   50:00 (of 2:29:22)
-http://predanie.ru/spiridonova-nina/dorogami-svyatogo-franciska-ot-la-verny-do-assizi/slushat/
 http://predanie.ru/mihaylova-marina-valentinovna/prostit-sebya-prostit-istoriyu-prostit-boga/slushat/
 http://predanie.ru/soldatkina-yanina-viktorovna/poiski-hrista-v-russkoy-literature-hh-veka/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
@@ -52,7 +50,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 64..70..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 65..70..76..82..93
     ..137..177..232..278..331..373..410..451
     cit-n 44, 381
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

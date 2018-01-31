@@ -8,18 +8,20 @@ https://istio.io/docs/concepts/
 https://istio.io/docs/concepts/policy-and-control/mixer.html
 https://istio.io/docs/concepts/traffic-management/pilot.html
 
-presentations:
-2017:
+presentations
+2018
+https://www.infoq.com/presentations/istio-service-mesh
+2017
 Tsang - Making Microservices Micro with Istio Service Mesh
 https://www.youtube.com/watch?v=AGztKw580yQ
 https://www.infoq.com/news/2017/05/istio
 Singh, Li - Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio
 https://www.youtube.com/watch?v=j0M3KFB1C1ok
 
-talks:
+talks
 https://istio.io/talks/istio_talk_gluecon_2017.pdf
 
-articles:
+articles
 2018
 https://www.infoq.com/news/2018/01/microservices-resiliency-istio
 2017
