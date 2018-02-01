@@ -8,14 +8,14 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 002                                       -   30:00 (of 1:25:51)
+Vorontsov 002                                       -   40:00 (of 1:25:51)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 
 Lit:
-Malishevsky - Eldridge 1                            -   00:00 (of 1:21:21)
+Malishevsky - Eldridge 1                            -   21:30 (of 1:21:21)
   https://www.youtube.com/watch?v=yLkKSnRD_kM
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 Volkova 2                                           -   00:00 (of 1:28:48)
