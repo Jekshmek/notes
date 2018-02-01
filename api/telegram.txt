@@ -104,6 +104,7 @@ Historia
 epic_history
 ussrsssr
 historu
+phistory
 
 travel
 beutifulrus
@@ -129,5 +130,5 @@ readytospeak
 tgcat
 vipcatalog
 catalog_channels
-    2016 Feb 01
+    2017 Mar 01
     2017 Sep 27

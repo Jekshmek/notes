@@ -1,0 +1,10 @@
+http://words.steveklabnik.com/an-overview-of-macros-in-rust
+https://www.reddit.com/r/rust/comments/5pxdpk/an_overview_of_macros_in_rust/
+
+https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
+
+2018
+http://words.steveklabnik.com/an-overview-of-macros-in-rust
+
+2017
+https://jvns.ca/blog/2017/12/24/my-first-rust-macro/

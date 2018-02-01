@@ -1,5 +1,8 @@
 books
 McKinney - Python for Data Analysis 2nd ed
+From Python to NumPy
+http://www.labri.fr/perso/nrougier/from-python-to-numpy/
+http://csc.ucdavis.edu/~chaos/courses/nlp/Software/NumPyBook.pdf
 
 tutorials
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/
