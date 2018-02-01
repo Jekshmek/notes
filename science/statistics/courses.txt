@@ -12,13 +12,15 @@ https://www.lektorium.tv/lecture/29751
 https://www.youtube.com/watch?v=SbllCBBaV84
 Habarov - Probability Theory
 https://www.youtube.com/playlist?list=PLwwk4BHih4fiHFHG7Bvj5TZdw-H_s4TsA
+Stanford
+https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about
 
 2016
 MIT 18.650 - Rigollet - Statistics for Applications
 http://ocw.mit.edu/18-650F16
 https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
-Hrabrov - CSC - Asymptotic analysis and probability theoru ru
+Habarov - CSC - Asymptotic analysis and probability theoru ru (big)
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpS634rDf15afbmKJRSYmH50
 Grauer - Math Statistics ru
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx
@@ -27,8 +29,19 @@ https://www.youtube.com/playlist?list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx
 MIT - Tsitsiklis - Probability Theory
 https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1
 
-???
+People
 Raygorodsky
+big list 112 lec
+https://www.youtube.com/playlist?list=PLuWypj7F_mQmdMAhav8mapGIlf4bdgTkT
+http://lectoriy.mipt.ru/course/Maths-ProbabilityTheoryBasics-L15
 http://lectoriy.mipt.ru/lecture/Maths-ProbThBasics-L04-Raygorodskiy-150427.01
+MFTI - 2017 - Combinatorics
+https://www.youtube.com/playlist?list=PLrpByJxegBQZMIrzuGSemEDPtQs06iClK
+2013 - Probability Methods in Combinatorics
+https://www.youtube.com/playlist?list=PLjgAy-o1xYoLuZFG4ENo_-4tR4DNCrr5x
+Discrete Analysis and Probability Theory
+https://www.youtube.com/playlist?list=PLJOzdkh8T5kouOIbZDCqzB72hBn9T7gsJ
+MFTI - 2017 - Fundamentals of Probability Theory
+https://www.youtube.com/playlist?list=PL567xYdMCWxYzFfcM1Hafz5tgf1SJWBi-
 
 ??? start from Habarov (?bez detalei)
