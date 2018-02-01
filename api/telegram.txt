@@ -19,6 +19,11 @@ chitaem_detkam
 knigovorot
 bookchat
 dumai
+child_book
+Flibusta
+librabook
+Bukvoed
+
 
 news
 Freakbook
@@ -71,6 +76,7 @@ lectures and lessons
 videolessons
 itlecture
 educationgo
+lectorium
 
 films
 FilmsForYou
@@ -96,6 +102,8 @@ itsprint (history of books)
 rarephotos19
 Historia
 epic_history
+ussrsssr
+historu
 
 travel
 beutifulrus
@@ -114,10 +122,12 @@ tmc_mistakes
 en_voc
 dailyeng
 thinkenglish
+english_radio
+readytospeak
 
 ?
 tgcat
 vipcatalog
 catalog_channels
-    2016 Dec 05
+    2016 Feb 01
     2017 Sep 27

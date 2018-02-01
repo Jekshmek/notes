@@ -109,6 +109,9 @@ org.springframework.web.context.annotation
 @ApplicationScope
 @RequestScope
 @SessionScope
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-specifying-bean-scope
+@Scope("prototype")
+    proxyMod (ScopedProxyMode.NO, TARGET_CLASS, INTERFACES)
 
 multiple-wiring-by-type-beans (primary="true")
 @Bean @Primary
@@ -192,3 +195,8 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
     destroyMethod="..." // close() and shutdown() methods are auto-called !!!
     destroyMethod=""    // to disable this auto-callling behavior
 )
+
+@Bean(name="...",
+    name={"alias1", "alias2", ...},
+    description="...")
+

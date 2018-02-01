@@ -26,3 +26,9 @@ https://www.youtube.com/playlist?list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx
 2014
 MIT - Tsitsiklis - Probability Theory
 https://www.youtube.com/playlist?list=PLw1fyPVTTowrkyhzkc_PiItPm-S58_UQ1
+
+???
+Raygorodsky
+http://lectoriy.mipt.ru/lecture/Maths-ProbThBasics-L04-Raygorodskiy-150427.01
+
+??? start from Habarov (?bez detalei)
