@@ -4,7 +4,11 @@ https://github.com/alexcrichton/tokio-process/pull/1
 futures:
 https://www.coredump.ch/2017/07/05/understanding-the-tokio-reactor-core/
 
-articles:
+articles
+2018
+https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about
+https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2018/01/29/tokio-asyncio.html
+2017
 http://asquera.de/blog/2017-03-01/the-future-with-futures/
 https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34
 

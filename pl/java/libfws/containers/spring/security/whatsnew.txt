@@ -1,1 +1,2 @@
 https://www.infoq.com/news/2017/12/Spring-Security-5.0.0
+https://docs.spring.io/spring-security/site/docs/5.0.0.RELEASE/reference/html/new.html
