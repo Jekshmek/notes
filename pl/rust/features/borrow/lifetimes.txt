@@ -1,7 +1,9 @@
 books:
-https://rust-lang.github.io/book/second-edition/ch19-02-advanced-lifetimes.html
+https://doc.rust-lang.org/stable/book/second-edition/ch19-02-advanced-lifetimes.html
+https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles:
+http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/
 https://jvns.ca/blog/2017/11/27/rust-ref/
 https://dev.to/buntine/aha-understanding-lifetimes-in-rust
 https://chrismorgan.info/blog/rust-ownership-the-hard-way.html

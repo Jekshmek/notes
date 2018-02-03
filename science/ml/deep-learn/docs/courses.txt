@@ -40,6 +40,14 @@ https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f
 Bronstein - Deep Learning on Graphs and Manifolds
 https://www.youtube.com/playlist?list=PLH39kM3nuavcVOUIIBraBNHjv-CwEd1uV
 
+CMU - DeepLearning
+https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos
+https://github.com/cmudeeplearning11785/deep-learning-tutorials
+MIT - DeepLearning
+https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg
+http://introtodeeplearning.com/
+https://github.com/aamini/introtodeeplearning_labs
+
 2016:
 Sozykin - Deep Neural Networks in Python
 http://www.asozykin.ru/courses/nnpython
