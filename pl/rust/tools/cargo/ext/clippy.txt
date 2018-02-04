@@ -1,2 +1,5 @@
 ??? cargo-check ???
 https://github.com/Manishearth/rust-clippy
+
+https://github.com/rust-lang-nursery/rust-clippy
+    https://rust-lang-nursery.github.io/rust-clippy/
