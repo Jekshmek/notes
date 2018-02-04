@@ -2,6 +2,7 @@ http://www.slideshare.net/CharlesNutter/fast-as-c-how-to-write-really-terrible-j
 https://vimeo.com/131394615
 
 https://github.com/AdoptOpenJDK/jitwatch/wiki
+https://jakubstransky.com/2018/02/03/jvm-code-friendly-to-jit-optimisation/
 
 
 To generate the hotspot.log file used by JITWatch run your program with the following JVM switches.
