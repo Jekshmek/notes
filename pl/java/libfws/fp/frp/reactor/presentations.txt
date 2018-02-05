@@ -1,4 +1,8 @@
-2017:
+2018
+Grazi - Reactor in Action
+https://www.infoq.com/presentations/reactor-demo
+
+2017
 Stoyanchev - ServletVsReactiveStacksIn5UseCases
 https://www.infoq.com/presentations/servlet-reactive-stack
 Gorelikov - Reactive System Design

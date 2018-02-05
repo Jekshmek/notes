@@ -1,9 +1,14 @@
+https://crates.io/crates/criterion
 https://japaric.github.io/criterion.rs/criterion/
+
+book
+https://japaric.github.io/criterion.rs/book/index.html
 https://japaric.github.io/criterion.rs/book/getting_started.html
 
 https://github.com/japaric/criterion.rs
 
 2018
+https://bheisler.github.io/post/criterion-rs-0-2/
 https://bheisler.github.io/post/benchmarking-with-criterion-rs/
 
 2017
