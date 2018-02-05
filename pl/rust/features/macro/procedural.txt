@@ -1,0 +1,10 @@
+https://doc.rust-lang.org/stable/book/first-edition/procedural-macros.html
+
+https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
+
+articles
+2018
+https://tinkering.xyz/posts/introduction-to-proc-macros/
+
+https://habrahabr.ru/post/321564/
+https://habrahabr.ru/post/321620/

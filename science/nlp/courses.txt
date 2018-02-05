@@ -1,4 +1,14 @@
+2018
+CMU - Neural Nets for NLP
+http://phontron.com/class/
+http://phontron.com/class/nn4nlp2018/
+https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE
+
 2017
+CMU - Neural Nets for NLP
+http://phontron.com/class/nn4nlp2017/
+https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT
+
 Oxford - Deep Learning for NLP with DeepMind
 https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 

@@ -1,3 +1,9 @@
-2017:
+2018
+Codacus - TF
+https://www.youtube.com/playlist?list=PLnjEM1fs09cE7SAFuvU1URVgbBgXZnNmF
+https://thecodacus.com/tensorflow-tutorial-ground-zero-start/#.Wnf4W0uYOUk
+https://thecodacus.com/tensorboard-tutorial-visualize-networks-graphically/#.Wnf3_kuYOUk
+
+2017
 Edureka - Deep Learning with TensorFlow
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg

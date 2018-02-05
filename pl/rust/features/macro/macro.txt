@@ -1,4 +1,4 @@
-book:
+book
 https://doc.rust-lang.org/stable/book/first-edition/macros.html
 https://doc.rust-lang.org/stable/book/first-edition/procedural-macros.html
 
@@ -22,12 +22,6 @@ https://github.com/erickt/stateful
 
 quasi-quoting:
 https://github.com/dtolnay/quote
-
-
-procedural:
-https://habrahabr.ru/post/321564/
-https://habrahabr.ru/post/321620/
-https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
 
 1.1
 https://github.com/rust-lang/rfcs/blob/master/text/1681-macros-1.1.md

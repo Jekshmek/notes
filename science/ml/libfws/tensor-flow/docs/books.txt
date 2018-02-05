@@ -10,3 +10,4 @@ Zaccone - Deep Learning with TensorFlow
 2016
 Abrahams - TensorFlow For Machine Intelligence
 Bonnin - Building Machine Learning Projects with TensorFlow
+    https://vk.com/doc84814071_440124288

@@ -200,3 +200,5 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
     name={"alias1", "alias2", ...},
     description="...")
 
+@Import(ConfigA.class)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-composing-configuration-classes

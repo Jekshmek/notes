@@ -1,2 +1,3 @@
 2018
 https://proglib.io/p/kotlin-tricks-1/
+https://proglib.io/p/kotlin-tricks-2/
