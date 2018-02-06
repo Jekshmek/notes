@@ -1,4 +1,7 @@
-2017:
+2018
+https://video.fosdem.org/2018/H.2214/
+
+2017
 RustConf
 https://www.youtube.com/playlist?list=PL85XCvVPmGQhUSX_QBkxb4g1-o56cCqI9
 RustFest Kiev

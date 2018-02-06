@@ -1,5 +1,7 @@
 https://speakerdeck.com/hywan/hello-rust-an-overview
 
+https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists
+
 2018
 Idiomatic Rust
 https://fosdem.org/2018/schedule/event/rust_idiomatic/

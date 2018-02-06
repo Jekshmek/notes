@@ -4,6 +4,9 @@ https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 Berkley - misc
 https://github.com/mlberkeley/Machine-Learning-Decal-Spring-2018
 https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg/playlists
+MIT 6.S191
+http://introtodeeplearning.com/
+https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 2017:
 Deep Learning School
