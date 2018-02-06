@@ -1,0 +1,22 @@
+Ghrist - Elementary Applied Topology
+https://www.math.upenn.edu/~ghrist/notes.html
+
+Rohlin - nachalny curs topologii
+    bary
+
+Burago Ivanov
+    ...
+
+Viro Ivanov Harlamov Netsvetaev
+    Elementary Topology
+
+Borisovich, Bliznyzkov, ...
+    Vvedenie v Toplogiyu
+
+... Fomenko
+    Vvedenie v Toplogiyu
+
+Kelly
+    Obschaya Topologiya (stara, horosho napisana 1968)
+Engelking
+    Obschaya Topologiya
