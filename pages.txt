@@ -14,7 +14,7 @@ Vorontsov - ML                                      -   45..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 Raygorodsky - 1                                     -   07:00 (of 1:17:24)
-Breslav - Kotlin 1                                  -   22:00 (of 1:30:31)
+Breslav - Kotlin 1                                  -   43:00 (of 1:30:31)
 
 Lit:
 Malishevsky - Antiutopy                             -   21:00 (of 2:39:21)
