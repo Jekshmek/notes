@@ -115,16 +115,17 @@ anotherpiter
 art
 vincent_vangog
 kartiny
+artrussia
 jvorokhob
 
 eng
+thinkenglish
 detailedenglish
 liveenglish
 eng_less
 tmc_mistakes
 en_voc
 dailyeng
-thinkenglish
 english_radio
 readytospeak
 
@@ -132,5 +133,5 @@ catalogs
 tgcat
 vipcatalog
 catalog_channels
-    2017 Apr 01
+    2017 May 12
     2017 Sep 27

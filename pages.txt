@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles-xml
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -17,6 +17,7 @@ Raygorodsky - 1                                     -   07:00 (of 1:17:24)
 Breslav - Kotlin 1                                  -   43:00 (of 1:30:31)
 
 Lit:
+2018-02-06-odin-2307                                -   53:00 (of 1:46:23)
 Malishevsky - Antiutopy                             -   21:00 (of 2:39:21)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 Volkova 2                                           -   00:00 (of 1:28:48)
@@ -24,18 +25,17 @@ Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
 Astvacaturov - Updaik 1                             -   12:00 (of 1:01:07)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
-b - 53:00
 
 Ortho:
 Paschenko 4.4                                       -   00:00 (of)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 3                                          -   00:00 (of   )
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 12                                      -   00:00 (of)
+Sorokin - B 14                                      -   00:00 (of   )
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 06-Matfei-i-Iuda                                    -   11:00 (of   26:42)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Soldatkina                                          -   00:00 (of )
+Soldatkina                                          -   23:00 (of 1:43:31)
   http://predanie.ru/soldatkina-yanina-viktorovna/dzhonovo-carstvo-hristianskie-cennosti-v-mire-igry-prestolov/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
 http://predanie.ru/somov-aleksey-borisovich/kak-iudei-zhdali-konca-sveta/slushat/

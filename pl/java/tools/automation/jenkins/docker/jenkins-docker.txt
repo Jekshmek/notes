@@ -1,0 +1,11 @@
+2016
+https://engineering.riotgames.com/news/thinking-inside-container-dockercon-talk-and-story-so-far
+https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial
+https://engineering.riotgames.com/news/building-jenkins-inside-ephemeral-docker-container
+https://engineering.riotgames.com/news/taking-control-your-docker-image
+
+https://github.com/maxfields2000/dockerjenkins_tutorial
+https://github.com/maxfields2000/dockerjenkins_tutorial/blob/master/tutorial_06/jenkins-master/Dockerfile-Centos7
+
+2015
+https://engineering.riotgames.com/news/putting-jenkins-docker-container

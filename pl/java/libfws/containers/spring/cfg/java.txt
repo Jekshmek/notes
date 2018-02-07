@@ -205,3 +205,6 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 
 @Import(ConfigA.class)
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-composing-configuration-classes
+
+@Profile({"p1", "!p2"})
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles

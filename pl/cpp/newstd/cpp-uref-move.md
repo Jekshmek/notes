@@ -29,6 +29,7 @@
 
 ## Presentations
 
+* [Maudal - Modern C++ Explained: Move Semantics] (https://www.slideshare.net/olvemaudal/modern-c-explained-move-semantics-feb-2018)
 * [Tambe - C++11 Idioms] (http://www.slideshare.net/SumantTambe/c11-idioms-silicon-valley-code-camp-2012)
 * [Parent - Value Semantics and Concept Based Polymorphism] (http://2012.cppnow.org/session/value-semantics-and-concepts-based-polymorphism)
 * [The same presentation at isocpp] (http://isocpp.org/blog/2012/12/value-semantics-and-concepts-based-polymorphism-sean-parent)
