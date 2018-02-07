@@ -8,7 +8,7 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 002                                       -   55:00 (of 1:25:51)
+Vorontsov 002                                       - 1:11:00 (of 1:25:51)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
@@ -24,6 +24,7 @@ Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
 Astvacaturov - Updaik 1                             -   12:00 (of 1:01:07)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
+b - 53:00
 
 Ortho:
 Paschenko 4.4                                       -   00:00 (of)
@@ -45,7 +46,7 @@ https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 
 Tracking:
 Razbor Poletov                                      - 153
-This week in rust                                   - 219
+This week in rust                                   - 220
 http://accu.org/index.php/journals/c78/             - 140
 
 Series:
