@@ -208,3 +208,6 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 
 @Profile({"p1", "!p2"})
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles-xml
+@Profile("default")
+public class DefaultDataConfig {...}

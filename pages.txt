@@ -1,5 +1,7 @@
+http://predanie.ru/isupov-k-g/jestetika-rhga/slushat/
+
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles-xml
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-property-source-abstraction
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -35,10 +37,7 @@ Sorokin - B 14                                      -   00:00 (of   )
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 06-Matfei-i-Iuda                                    -   11:00 (of   26:42)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Soldatkina                                          -   23:00 (of 1:43:31)
-  http://predanie.ru/soldatkina-yanina-viktorovna/dzhonovo-carstvo-hristianskie-cennosti-v-mire-igry-prestolov/slushat/
 http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
-http://predanie.ru/somov-aleksey-borisovich/kak-iudei-zhdali-konca-sveta/slushat/
 http://predanie.ru/salakone-alessandro/vstrecha-kotoraya-mozhet-izmenit-zhizn/slushat/
 http://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
 http://predanie.ru/lavrenchenko-mariya-leonidovna/kak-my-stali-drug-drugu-bratyami-i-otcami/slushat/
@@ -55,7 +54,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 74..76..82..93
+NikolenkoKadurin - DeepLearning ru                  - 78..82..93
     ..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
