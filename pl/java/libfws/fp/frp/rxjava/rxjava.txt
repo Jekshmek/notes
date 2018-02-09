@@ -37,6 +37,7 @@ RxStreamLibsCompare:
 http://akarnokd.blogspot.com.by/2015/10/comparison-of-reactive-streams.html
 
 Error Tracking:
+http://www.aanandshekharroy.com/articles/2018-02/error-handling-in-rxjava
 https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c#.mwi9r1s0v
 
 ifaces:
