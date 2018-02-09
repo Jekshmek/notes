@@ -6,3 +6,16 @@ https://github.com/spring-cloud/spring-cloud-dataflow/tree/master/spring-cloud-d
 http://docs.spring.io/spring-cloud-dataflow-server-cloudfoundry/docs/1.1.0.RELEASE/reference/htmlsingle/
 
 !!! web-app has a good svg elems !!!
+
+2017
+Bottard - Spring Cloud Data Flow Shell Tips and Tricks
+https://www.youtube.com/watch?v=uyN8ttlTvUM
+
+2016
+Fisher - Data Microservices with Spring Cloud Data Flow
+https://www.youtube.com/watch?v=Z6_ttC33N0U
+
+samples
+https://github.com/spring-cloud/spring-cloud-dataflow-samples
+https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/html/
+https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
