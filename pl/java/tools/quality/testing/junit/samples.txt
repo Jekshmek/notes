@@ -1,1 +1,15 @@
 https://github.com/junit-team/junit5-samples/tree/master/junit5-gradle-consumer
+
+export LD_LIBRARY_PATH=$TGT_DIR/lib:$TGT_DIR/$PLAT
+#echo $LD_LIBRARY_PATH
+
+CP=some1.jar
+CP+=:some2.jar
+
+JAVA_OPTS="-Dlog4j.debug=true -Djava.library.path=$LD_LIBRARY_PATH -cp $CP"
+
+JUNIT_RUNNER=org.junit.runner.JUnitCore 
+
+TEST_CLASS=some.package.SomeTest
+
+java $JAVA_OPTS $JUNIT_RUNNER $TEST_CLASS

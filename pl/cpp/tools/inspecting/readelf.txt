@@ -8,4 +8,4 @@ readelf
 
     -s
     -Ws
-        symbols
+        symbols (wide-mode)
