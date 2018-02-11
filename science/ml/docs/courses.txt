@@ -2,11 +2,16 @@ list
 https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
+AI and ML
+https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/playlists
+
 2018
 CMU - NN
 https://www.youtube.com/watch?v=Qbztx1CfSfo
 https://www.youtube.com/watch?v=zlnQyxiEGNM
 https://www.youtube.com/watch?v=HyjB2uMZK5k
+AI and ML history
+https://www.youtube.com/playlist?list=PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz
 
 2017
 Kashnitsky (scipy based)!!!:

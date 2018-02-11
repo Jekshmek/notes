@@ -4,3 +4,7 @@ https://crates.io/crates/structopt-derive
 https://docs.rs/structopt-derive
 
 https://github.com/TeXitoi/structopt
+
+whatsnew
+0.2.0
+https://www.reddit.com/r/rust/comments/7wnw2f/structopt_v020_is_out/
