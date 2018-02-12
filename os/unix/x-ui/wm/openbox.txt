@@ -1,3 +1,13 @@
+aur
+    openbox
+https://aur.archlinux.org/packages/openbox-patched/
+https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=openbox-patched
+source=("http://openbox.org/dist/openbox/${_pkgname}-${pkgver}.tar.gz"
+        "openbox-3.5.0-title-matching.patch"
+        "openbox-3.5.0-which-2.20.patch"
+        "openbox-3.6.2-rounded-corners.patch"
+        "openbox-3.6.2-fix-out-of-bounds.patch")
+
 PCManFM
 
 http://crunchbang.org/forums/viewtopic.php?id=19901
