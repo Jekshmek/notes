@@ -211,3 +211,21 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-definition-profiles-xml
 @Profile("default")
 public class DefaultDataConfig {...}
+
+@PropertySource
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-property-source-abstraction
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#propertysource
+
+The @PropertySource annotation provides a convenient and declarative mechanism for adding a PropertySource to Spring’s Environment.
+@Configuration
+@PropertySource("classpath:/com/myco/app.properties")
+public class AppConfig {
+    @Autowired
+    Environment env;
+    @Bean
+    public TestBean testBean() {
+        TestBean testBean = new TestBean();
+        testBean.setName(env.getProperty("testbean.name"));
+        return testBean;
+    }
+}
