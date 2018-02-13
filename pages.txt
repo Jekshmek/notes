@@ -8,13 +8,13 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 
 Video:
-Vorontsov 003 (of 024)                              -   15:30 (of 1:22:50)
+Vorontsov 003 (of 024)                              -   30:00 (of 1:22:50)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Shamin - nonstrict sets                             -   24:00 (of   46:54)
   https://www.youtube.com/watch?v=feDPuYm5Xzs
 Raygorodsky - 1                                     -   29:00 (of 1:17:24)
-Breslav - Kotlin 2                                  -   26:00 (of 1:18:04)
+Breslav - Kotlin 2                                  -   38:00 (of 1:18:04)
 
 Lit:
 Bykov - LA                                          -   05:00 (of   27:52)
@@ -23,7 +23,7 @@ Malishevsky - ?
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Updaik 1                             -   12:00 (of 1:01:07)
+Astvacaturov - Selinger 1 (06)                      -   01:00 (of 1:02:25)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 Troitsky                                            -   50:00 (of 1:06:20)
   https://www.youtube.com/watch?v=OG4pBXLXrEo
@@ -31,18 +31,22 @@ Troitsky                                            -   50:00 (of 1:06:20)
 Ortho:
 Paschenko 4.5                                       -   00:00 (of 1:20:21)
   http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 3                                          -   00:00 (of   )
+Ivliev - 4                                          -   00:00 (of   23:37)
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 14                                      -   00:00 (of   )
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-07-Foma-Bliznets                                    -   03:00 (of   25:57)
+08-Simon-i-Faddey                                   -   00:00 (of   27:05)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
 Desnitsky                                           - 1:06:00 (of 1:45:16)
   http://predanie.ru/desnickiy-andrey-sergeevich/pochemu-poslaniya-tak-i-ostayutsya-neprochitannymi/slushat/
 http://predanie.ru/salakone-alessandro/vstrecha-kotoraya-mozhet-izmenit-zhizn/slushat/
 http://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
 http://predanie.ru/lavrenchenko-mariya-leonidovna/kak-my-stali-drug-drugu-bratyami-i-otcami/slushat/
+https://predanie.ru/maksimova-olga/pravoslavie-po-efiopski/slushat/
+https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
+https://blog.predanie.ru/article/novoe-srednevekov-e/
+https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 
 Tracking:
 Razbor Poletov                                      - 153

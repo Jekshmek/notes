@@ -6,6 +6,7 @@ Geron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
 Hope - Learning TensorFlow
     https://vk.com/doc4004138_454396687
 Zaccone - Deep Learning with TensorFlow
+Buduma - Fundamentals of Deep Learning
 
 2016
 Abrahams - TensorFlow For Machine Intelligence
