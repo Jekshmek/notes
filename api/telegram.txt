@@ -11,8 +11,9 @@ proglibrary
     2017 Nov 1
 itlibrary
 
-@KnigaRu
-@booksfox
+KnigaRu
+booksfox
+@child_book
 https://t.me/booksfox/520
 2017-12-23
 https://t.me/booksfox/520
@@ -20,7 +21,6 @@ chitaem_detkam
 knigovorot
 bookchat
 dumai
-child_book
 Flibusta
 librabook
 Bukvoed
@@ -33,12 +33,12 @@ news
 Freakbook
 
 science
-@funscience
+funscience
 
 catalogs:
 catalog_channels
-@CatalogTelegram
-@CatalogTelegram03
+CatalogTelegram
+CatalogTelegram03
 
 os/devops:
 grouplinux
@@ -135,8 +135,9 @@ english_radio
 readytospeak
 
 catalogs
+@catalog_channels
+    2017 Aug 17
+    2017 Sep 27
+CatalogTelegram
 tgcat
 vipcatalog
-catalog_channels
-    2017 Jun 01
-    2017 Sep 27

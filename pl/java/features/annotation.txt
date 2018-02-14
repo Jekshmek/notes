@@ -1,3 +1,7 @@
+2018
+Albano - Creating Annotations in Java
+https://dzone.com/articles/creating-custom-annotations-in-java
+
 https://habrahabr.ru/company/e-Legion/blog/206208/
 https://github.com/DanielSerdyukov/droidcon2015
 https://docs.google.com/presentation/d/1zamMD_7LeGItOYFUPoYYjKb8hFl243krqZgPKwVgvr0/edit#slide=id.p4

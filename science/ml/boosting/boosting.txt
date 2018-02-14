@@ -3,6 +3,10 @@ https://habrahabr.ru/company/jugru/blog/339384/
 https://habrahabr.ru/company/jugru/blog/339386/
 https://smartdataconf.ru/2017/spb/talks/5fe6kggg7sowicic6mgemk/
 
+2018
+Dorohush - CatBoost - The next gen of gradient boosting
+https://www.youtube.com/watch?v=9ZrfErvm97M
+
 2017
 Extreme Gradient Boosting with R
 https://www.youtube.com/watch?v=woVTNwRrFHE

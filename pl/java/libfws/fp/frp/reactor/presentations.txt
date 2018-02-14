@@ -1,4 +1,6 @@
 2018
+Hale - Designing Implementing and Using Reactive APIs
+https://www.infoq.com/presentations/cloud-foundry-reactive-api
 Grazi - Reactor in Action
 https://www.infoq.com/presentations/reactor-demo
 

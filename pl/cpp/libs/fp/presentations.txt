@@ -1,0 +1,7 @@
+2018
+Cukic - Functional Programming - Data
+https://www.youtube.com/watch?v=iYipZw4tS-A
+
+2016
+Cukic - Functional Reactive Programming in C++
+https://cukic.co/files/presentations/2016-11--functional-reactive-programming--ivan-cukic--meeting-cpp.pdf
