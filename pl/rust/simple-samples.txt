@@ -1,0 +1,2 @@
+C++ coding challenge
+https://gist.github.com/steveklabnik/ad0a33acc82e21ca3f763e4278ad31a5#file-main-rs-L36
