@@ -2,6 +2,11 @@ Books:
 https://landing.google.com/sre/book/index.html
 Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
 Fokkink - Distributed Algorithms - Intuitive Approach
+Burns - Designing Distributed Systems
+https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/
+https://github.com/brendandburns/designing-distributed-systems
+https://azure.microsoft.com/mediahandler/files/resourcefiles/baf44271-3870-454f-868c-23d48e7672cb/Designing_Distributed_Systems.pdf
+
 
 Presentations:
 Bonner - From Microlits to Microsystems

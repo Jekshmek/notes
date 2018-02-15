@@ -5,3 +5,7 @@ https://lab.getbase.com/helm-secrets-a-missing-piece-in-kubernetes/
 https://www.linux.com/learn/helm-kubernetes-package-manager
 
 https://github.com/futuresimple/helm-secrets
+
+helm
+    install
+    upgrade

@@ -1,6 +1,7 @@
 https://github.com/JetBrains/kotlin-native/
 
 whatsnew:
+https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here/
 https://blog.jetbrains.com/kotlin/2017/06/kotlinnative-v0-3-is-out/
 https://blog.jetbrains.com/kotlin/2017/05/kotlinnative-v0-2-is-out/
 https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/

@@ -1,3 +1,8 @@
+2018
+Goldsborough - Deep Learing with C++
+https://github.com/peter-can-talk/meeting-cpp-2017
+https://www.youtube.com/watch?v=8GoYXWOq55A
+
 2017
 Oseledets - Tensors and DL
 https://www.youtube.com/watch?v=1P-i5G7Lg-0

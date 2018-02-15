@@ -84,6 +84,7 @@ lectorium
 
 films
 FilmsForYou
+dockino
 
 torrents
 torrentus
@@ -136,7 +137,7 @@ readytospeak
 
 catalogs
 @catalog_channels
-    2017 Aug 17
+    2017 Sep 07
     2017 Sep 27
 CatalogTelegram
 tgcat
