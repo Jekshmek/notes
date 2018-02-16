@@ -6,3 +6,8 @@ $ # expanded code relies on some internal rust features:
 $ echo '#![feature(box_syntax, test, fmt_internals)]' > tests/derive-enum-unit-expanded.rs
 $ cargo expand --test derive-enum-struct > tests/derive-enum-struct-expanded.rs
 $ cargo test --test derive-enum-struct-expanded
+
+file!  line!  column!
+https://doc.rust-lang.org/std/macro.file.html
+https://doc.rust-lang.org/std/macro.line.html
+https://doc.rust-lang.org/std/macro.column.html

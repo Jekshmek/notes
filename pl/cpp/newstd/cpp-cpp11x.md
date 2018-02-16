@@ -31,6 +31,7 @@
 
 ## Articles
 
+* [The 15 C++11 features you must really use in your C++ projects] (http://cppdepend.com/blog/?p=319)
 * [Filipek - What you should know about C++11 Part 1] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11)
 * [Filipek - What you should know about C++11 Part 2] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-II)
 * [Filipek - What you should know about C++11 Part 3] (http://bfilipek.hubpages.com/hub/What-you-should-know-about-C11-Part-III)

@@ -79,6 +79,11 @@ rustup
         add
             rust-src
                 -> ~/.rustup/toolchains/<your-toolchain>/lib/rustlib/src/rust/src
+            rustfmt-preview
+            rustc
+            rust-std
+            cargo
+            rust-docs
         ??
     target
         add

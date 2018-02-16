@@ -1,0 +1,4 @@
+https://github.com/tyoverby/bincode
+
+http://tyoverby.com/posts/bincode_release.html
+https://www.reddit.com/r/rust/comments/7xsjma/bincode_10_released_fast_binary_serialization/

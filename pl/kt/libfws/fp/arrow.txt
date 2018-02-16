@@ -1,5 +1,8 @@
 http://arrow-kt.io/
 
+course
+https://caster.io/courses/functional-programming-in-kotlin-with-arrow
+
 https://github.com/arrow-kt/arrow
 
 http://arrow-kt.io/docs/
