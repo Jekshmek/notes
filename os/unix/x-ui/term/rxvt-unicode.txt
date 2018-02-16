@@ -46,8 +46,8 @@ https://tranjeeshan.wordpress.com/2016/01/22/slightly-modified-solarized-color-s
 
 
 hot keys:
-C-A + C
-C-A + V
+C-A + C  copy to buffer
+C-A + V  paste from buffer
 C   + D  close the current tab
 
 ~/.inputrc:
