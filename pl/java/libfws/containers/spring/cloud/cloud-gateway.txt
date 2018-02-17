@@ -1,0 +1,5 @@
+2018
+http://slides.com/spencer/spring-cloud-gateway#/
+https://www.infoq.com/presentations/spring-cloud-gateway
+
+? Zuul2

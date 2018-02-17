@@ -1,0 +1,2 @@
+decomposition
+https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/

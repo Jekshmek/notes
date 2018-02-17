@@ -3,5 +3,14 @@ https://github.com/mattgodbolt/compiler-explorer
 https://github.com/dobokirisame/CompilerExplorer
 https://www.youtube.com/watch?v=I2cKVRzJhS0
 
-articles:
+articles
 https://habrahabr.ru/post/339962/
+
+presentations
+2018
+https://www.youtube.com/watch?v=fV6qYho-XVs
+2017
+https://www.youtube.com/watch?v=bSkpMdDe4g4
+cook
+https://www.youtube.com/watch?v=NH1Tta7purM
+https://www.youtube.com/watch?v=BxfT9fiUsZ4

@@ -125,6 +125,7 @@ artrussia
 jvorokhob
 
 eng
+speak_simple
 thinkenglish
 detailedenglish
 liveenglish

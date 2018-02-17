@@ -85,6 +85,7 @@ rustup
             cargo
             rust-docs
         ??
+            curl -s https://static.rust-lang.org/dist/channel-rust-nightly.toml
     target
         add
             x86_64-unknown-linux-musl
