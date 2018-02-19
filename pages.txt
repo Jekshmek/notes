@@ -10,11 +10,9 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     fiat money
 
 Video:
-Vorontsov 003 (of 024)                              -   30:00 (of 1:22:50)
+Vorontsov 003 (of 024)                              - 1:00:00 (of 1:22:50)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
-Shamin - nonstrict sets                             -   45:00 (of   46:54)
-  https://www.youtube.com/watch?v=feDPuYm5Xzs
 Raygorodsky - 1                                     -   29:00 (of 1:17:24)
 Breslav - Kotlin 2                                  - 1:05:00 (of 1:18:04)
 
@@ -49,7 +47,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 
 Tracking:
-Razbor Poletov                                      - 154 1:35:00 (of 2:10:29)
+Razbor Poletov                                      - 154
 This week in rust                                   - 220
 http://accu.org/index.php/journals/c78/             - 140
 
