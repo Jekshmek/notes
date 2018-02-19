@@ -1,4 +1,8 @@
 2.x
+https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now
 http://www.baeldung.com/new-spring-boot-2
 https://www.infoq.com/presentations/spring-boot-2
 https://www.slideshare.net/Pivotal/whats-new-in-spring-boot-20
+    https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide
+    https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-properties-migrator
+    https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0.0-RC1-Release-Notes

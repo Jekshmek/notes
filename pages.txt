@@ -1,9 +1,9 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#context-functionality-events-annotation
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#context-functionality-resources
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Feb 16
+  Feb 19
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -30,7 +30,7 @@ Troitsky                                            -   18:00 (of 2:11:10)
   https://www.youtube.com/watch?v=nSwf1d9AA4c
 
 Ortho:
-Paschenko 4.5                                       -   00:00 (of 1:20:21)
+Paschenko 4.5                                       -   01:00 (of 1:20:22)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 4                                          -   00:00 (of   23:37)
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -59,8 +59,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 81..82..93
-    ..137..177..232..278..331..373..410..451
+NikolenkoKadurin - DeepLearning ru                  - 84..93..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29

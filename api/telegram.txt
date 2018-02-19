@@ -138,8 +138,7 @@ readytospeak
 
 catalogs
 @catalog_channels
-    2017 Sep 07
-    2017 Sep 27
+    2017 Oct 07
 CatalogTelegram
 tgcat
 vipcatalog
