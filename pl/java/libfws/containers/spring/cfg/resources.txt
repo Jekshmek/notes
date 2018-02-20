@@ -1,0 +1,5 @@
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#resources
+
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#context-functionality-resources
+
+an app-context is also a ResourceLoader
