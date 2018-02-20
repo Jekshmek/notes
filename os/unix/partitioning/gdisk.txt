@@ -1,5 +1,14 @@
-gdisk /dev/sda
+sudo gdisk /dev/sda
 p
+    print partition table
+i <num 1..6>
+    info about partition
+v
+    If no problems are found, this command displays a summary of unallocated disk space. 
+n
+    create a new partition
+w
+    write data (to save changes)
 
 vb-work:
 
