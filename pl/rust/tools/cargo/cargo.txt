@@ -45,6 +45,7 @@ cargo
         https://github.com/Byron/crates-io-cli-rs
         ?
     doc
+        --open
     deadlinks
         to show dead links
     test [test-name-or-substr]
