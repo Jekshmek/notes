@@ -3,11 +3,12 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Feb 19
+  Feb 20
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     fiat money
+https://predanie.ru/strelov-vladimir-sergeevich/post-dlya-nas-ili-my-dlya-post-chto-by-na-eto-otvetil-apostol-pavel/slushat/
 
 Video:
 Vorontsov 003 (of 024)                              - 1:00:00 (of 1:22:50)
@@ -36,8 +37,6 @@ Sorokin - B 15                                      -   00:00 (of   )
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 08-Simon-i-Faddey                                   -   00:00 (of   27:05)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Strelov - Post                                      -   47:00 (of 1:53:19)
-  https://predanie.ru/strelov-vladimir-sergeevich/post-dlya-nas-ili-my-dlya-post-chto-by-na-eto-otvetil-apostol-pavel/slushat/
 Efiop                                               -   10:00 (of 2:05:26)
   https://predanie.ru/maksimova-olga/pravoslavie-po-efiopski/slushat/
 http://predanie.ru/salakone-alessandro/vstrecha-kotoraya-mozhet-izmenit-zhizn/slushat/

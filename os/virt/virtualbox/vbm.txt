@@ -1,5 +1,5 @@
-Oracle VM VirtualBox Command Line Management Interface Version 4.3.6
-(C) 2005-2013 Oracle Corporation
+Oracle VM VirtualBox Command Line Management Interface Version 5.2.6
+(C) 2005-2018 Oracle Corporation
 All rights reserved.
 
 Usage:
@@ -13,15 +13,16 @@ General Options:
   [-q|--nologo]             suppress the logo
   [--settingspw <pw>]       provide the settings password
   [--settingspwfile <file>] provide a file containing the settings password
+  [@<response-file>]        load arguments from the given response file (bourne style)
  
  
 Commands:
  
-  list [--long|-l]          vms|runningvms|ostypes|hostdvds|hostfloppies|
+  list [--long|-l] [--sorted|-s]          vms|runningvms|ostypes|hostdvds|hostfloppies|
                             intnets|bridgedifs|hostonlyifs|natnets|dhcpservers|
                             hostinfo|hostcpuids|hddbackends|hdds|dvds|floppies|
                             usbhost|usbfilters|systemproperties|extpacks|
-                            groups|webcams
+                            groups|webcams|screenshotformats
 
   showvminfo                <uuid|vmname> [--details]
                             [--machinereadable]
@@ -41,6 +42,7 @@ Commands:
   modifyvm                  <uuid|vmname>
                             [--name <name>]
                             [--groups <group>, ...]
+                            [--description <desc>]
                             [--ostype <ostype>]
                             [--iconfile <filename>]
                             [--memory <memorysize in MB>]
@@ -53,6 +55,11 @@ Commands:
                             [--ioapic on|off]
                             [--hpet on|off]
                             [--triplefaultreset on|off]
+                            [--apic on|off]
+                            [--x2apic on|off]
+                            [--paravirtprovider none|default|legacy|minimal|
+                                                hyperv|kvm]
+                            [--paravirtdebug <key=value> [,<key=value> ...]]
                             [--hwvirtex on|off]
                             [--nestedpaging on|off]
                             [--largepages on|off]
@@ -60,9 +67,12 @@ Commands:
                             [--vtxux on|off]
                             [--pae on|off]
                             [--longmode on|off]
-                            [--synthcpu on|off]
-                            [--cpuidset <leaf> <eax> <ebx> <ecx> <edx>]
-                            [--cpuidremove <leaf>]
+                            [--ibpb-on-vm-exit on|off]
+                            [--ibpb-on-vm-entry on|off]
+                            [--cpu-profile "host|Intel 80[86|286|386]"]
+                            [--cpuid-portability-level <0..3>
+                            [--cpuid-set <leaf[:subleaf]> <eax> <ebx> <ecx> <edx>]
+                            [--cpuid-remove <leaf[:subleaf]>]
                             [--cpuidremoveall]
                             [--hardwareuuid <uuid>]
                             [--cpus <number>]
@@ -71,7 +81,7 @@ Commands:
                             [--unplugcpu <id>]
                             [--cpuexecutioncap <1-100>]
                             [--rtcuseutc on|off]
-                            [--graphicscontroller none|vboxvga]
+                            [--graphicscontroller none|vboxvga|vmsvga]
                             [--monitorcount <number>]
                             [--accelerate3d on|off]
                             [--accelerate2dvideo on|off]
@@ -82,6 +92,7 @@ Commands:
                             [--bioslogodisplaytime <msec>]
                             [--bioslogoimagepath <imagepath>]
                             [--biosbootmenu disabled|menuonly|messageandmenu]
+                            [--biosapic disabled|apic|x2apic]
                             [--biossystemtimeoffset <msec>]
                             [--biospxedebug on|off]
                             [--boot<1-4> none|floppy|dvd|disk|net>]
@@ -126,16 +137,21 @@ Commands:
                             [--uartmode<1-N> disconnected|
                                              server <pipe>|
                                              client <pipe>|
+                                             tcpserver <port>|
+                                             tcpclient <hostname:port>|
                                              file <file>|
                                              <devicename>]
                             [--lpt<1-N> off|<I/O base> <IRQ>]
                             [--lptmode<1-N> <devicename>]
                             [--guestmemoryballoon <balloonsize in MB>]
-                            [--audio none|null|dsound]
+                            [--audio none|null|oss|alsa|pulse]
+                            [--audioin on|off]
+                            [--audioout on|off]
                             [--audiocontroller ac97|hda|sb16]
+                            [--audiocodec stac9700|ad1980|stac9221|sb16]
                             [--clipboard disabled|hosttoguest|guesttohost|
                                          bidirectional]
-                            [--draganddrop disabled|hosttoguest
+                            [--draganddrop disabled|hosttoguest]
                             [--vrde on|off]
                             [--vrdeextpack default|<name>
                             [--vrdeproperty <name=[value]>]
@@ -149,26 +165,21 @@ Commands:
                             [--vrdevideochannelquality <percent>]
                             [--usb on|off]
                             [--usbehci on|off]
+                            [--usbxhci on|off]
+                            [--usbrename <oldname> <newname>]
                             [--snapshotfolder default|<path>]
                             [--teleporter on|off]
                             [--teleporterport <port>]
                             [--teleporteraddress <address|empty>
                             [--teleporterpassword <password>]
-                            [--teleporterpasswordfile  <file>|stdin]
+                            [--teleporterpasswordfile <file>|stdin]
                             [--tracing-enabled on|off]
                             [--tracing-config <config-string>]
                             [--tracing-allow-vm-access on|off]
                             [--usbcardreader on|off]
                             [--autostart-enabled on|off]
                             [--autostart-delay <seconds>]
-                            [--vcpenabled on|off]
-                            [--vcpscreens [<display>],...
-                            [--vcpfile <filename>]
-                            [--vcpwidth <width>]
-                            [--vcpheight <height>]
-                            [--vcprate <rate>]
-                            [--vcpfps <fps>]
-                            [--defaultfrontend default|<name]
+                            [--defaultfrontend default|<name>]
 
   clonevm                   <uuid|vmname>
                             [--snapshot <uuid>|<name>]
@@ -183,15 +194,16 @@ Commands:
 
   import                    <ovfname/ovaname>
                             [--dry-run|-n]
-                            [--options keepallmacs|keepnatmacs]
+                            [--options keepallmacs|keepnatmacs|importtovdi]
                             [more options]
                             (run with -n to have options displayed
                              for a particular OVF)
 
-  export                    <machines> --output|-o <name>.<ovf/ova>
-                            [--legacy09|--ovf09|--ovf10|--ovf20]
+  export                    <machines> --output|-o <name>.<ovf/ova/tar.gz>
+                            [--legacy09|--ovf09|--ovf10|--ovf20|--opc10]
                             [--manifest]
                             [--iso]
+                            [--options manifest|iso|nomacs|nomacsbutnat]
                             [--vsys <number of virtual system>]
                                     [--product <product name>]
                                     [--producturl <product url>]
@@ -203,12 +215,15 @@ Commands:
                                     [--eulafile <filename>]
 
   startvm                   <uuid|vmname>...
-                            [--type gui|sdl|headless]
+                            [--type gui|sdl|headless|separate]
+                            [-E|--putenv <NAME>[=<VALUE>]]
 
   controlvm                 <uuid|vmname>
                             pause|resume|reset|poweroff|savestate|
                             acpipowerbutton|acpisleepbutton|
                             keyboardputscancode <hex> [<hex> ...]|
+                            keyboardputstring <string1> [<string2> ...]|
+                            keyboardputfile <filename>|
                             setlinkstate<1-N> on|off |
                             nic<1-N> null|nat|bridged|intnet|hostonly|generic|
                                      natnetwork [<devicename>] |
@@ -220,8 +235,11 @@ Commands:
                                         <hostport>,[<guestip>],<guestport> |
                             natpf<1-N> delete <rulename> |
                             guestmemoryballoon <balloonsize in MB> |
-                            usbattach <uuid>|<address> |
+                            usbattach <uuid>|<address>
+                                      [--capturefile <filename>] |
                             usbdetach <uuid>|<address> |
+                            audioin on|off |
+                            audioout on|off |
                             clipboard disabled|hosttoguest|guesttohost|
                                       bidirectional |
                             draganddrop disabled|hosttoguest |
@@ -233,8 +251,14 @@ Commands:
                                             [[<display>] [<enabled:yes|no> |
                                               [<xorigin> <yorigin>]]] |
                             screenshotpng <file> [display] |
-                            vcpenabled on|off |
-                            vcpscreens all|none|<screen>,[<screen>...] |
+                            videocap on|off |
+                            videocapscreens all|none|<screen>,[<screen>...] |
+                            videocapfile <file>
+                            videocapres <width>x<height>
+                            videocaprate <rate>
+                            videocapfps <fps>
+                            videocapmaxtime <ms>
+                            videocapmaxsize <MB>
                             setcredentials <username>
                                            --passwordfile <file> | <password>
                                            <domain>
@@ -247,13 +271,19 @@ Commands:
                             unplugcpu <id> |
                             cpuexecutioncap <1-100>
                             webcam <attach [path [settings]]> | <detach [path]> | <list>
+                            addencpassword <id>
+                                           <password file>|-
+                                           [--removeonsuspend <yes|no>]
+                            removeencpassword <id>
+                            removeallencpasswords
 
   discardstate              <uuid|vmname>
 
   adoptstate                <uuid|vmname> <state_file>
 
   snapshot                  <uuid|vmname>
-                            take <name> [--description <desc>] [--live] |
+                            take <name> [--description <desc>] [--live]
+                                 [--uniquename Number,Timestamp,Space,Force] |
                             delete <uuid|snapname> |
                             restore <uuid|snapname> |
                             restorecurrent |
@@ -263,7 +293,7 @@ Commands:
                             list [--details|--machinereadable]
                             showvminfo <uuid|snapname>
 
-  closemedium               disk|dvd|floppy <uuid|filename>
+  closemedium               [disk|dvd|floppy] <uuid|filename>
                             [--delete]
 
   storageattach             <uuid|vmname>
@@ -282,6 +312,7 @@ Commands:
                             [--tempeject on|off]
                             [--nonrotational on|off]
                             [--discard on|off]
+                            [--hotpluggable on|off]
                             [--bandwidthgroup <name>]
                             [--forceunmount]
                             [--server <name>|<ip>]
@@ -291,17 +322,20 @@ Commands:
                             [--encodedlun <lun>]
                             [--username <username>]
                             [--password <password>]
+                            [--passwordfile <file>]
                             [--initiator <initiator>]
                             [--intnet]
 
   storagectl                <uuid|vmname>
                             --name <name>
-                            [--add ide|sata|scsi|floppy|sas]
+                            [--add ide|sata|scsi|floppy|sas|usb|pcie]
                             [--controller LSILogic|LSILogicSAS|BusLogic|
-                                          IntelAHCI|PIIX3|PIIX4|ICH6|I82078]
-                            [--portcount <1-30>]
+                                          IntelAHCI|PIIX3|PIIX4|ICH6|I82078|
+                            [             USB|NVMe]
+                            [--portcount <1-n>]
                             [--hostiocache on|off]
                             [--bootable on|off]
+                            [--rename <name>]
                             [--remove]
 
   bandwidthctl              <uuid|vmname>
@@ -314,26 +348,45 @@ Commands:
                             (limit units: k=kilobit, m=megabit, g=gigabit,
                                           K=kilobyte, M=megabyte, G=gigabyte)
 
-  showhdinfo                <uuid|filename>
+  showmediuminfo            [disk|dvd|floppy] <uuid|filename>
 
-  createhd                  --filename <filename>
+  createmedium              [disk|dvd|floppy] --filename <filename>
                             [--size <megabytes>|--sizebyte <bytes>]
                             [--diffparent <uuid>|<filename>
                             [--format VDI|VMDK|VHD] (default: VDI)
                             [--variant Standard,Fixed,Split2G,Stream,ESX]
 
-  modifyhd                  <uuid|filename>
+  modifymedium              [disk|dvd|floppy] <uuid|filename>
                             [--type normal|writethrough|immutable|shareable|
                                     readonly|multiattach]
                             [--autoreset on|off]
                             [--property <name=[value]>]
                             [--compact]
                             [--resize <megabytes>|--resizebyte <bytes>]
-
-  clonehd                   <uuid|inputfile> <uuid|outputfile>
+                            [--move <path]
+                            [--description <description string>]
+  clonemedium               [disk|dvd|floppy] <uuid|inputfile> <uuid|outputfile>
                             [--format VDI|VMDK|VHD|RAW|<other>]
                             [--variant Standard,Fixed,Split2G,Stream,ESX]
                             [--existing]
+
+  mediumproperty            [disk|dvd|floppy] set <uuid|filename>
+                            <property> <value>
+
+                            [disk|dvd|floppy] get <uuid|filename>
+                            <property>
+
+                            [disk|dvd|floppy] delete <uuid|filename>
+                            <property>
+
+  encryptmedium             <uuid|filename>
+                            [--newpassword <file>|-]
+                            [--oldpassword <file>|-]
+                            [--cipher <cipher identifier>]
+                            [--newpasswordid <password identifier>]
+
+  checkmediumpwd            <uuid|filename>
+                            <pwd file>|-
 
   convertfromraw            <filename> <outputfile>
                             [--format VDI|VMDK|VHD]
@@ -359,6 +412,7 @@ Commands:
                             autostartdbpath null|<folder> |
                             loghistorycount <value>
                             defaultfrontend default|<name>
+                            logginglevel <log setting>
 
   usbfilter                 add <index,0-N>
                             --target <uuid|vmname>|global
@@ -413,103 +467,83 @@ Commands:
   guestproperty             wait <uuid|vmname> <patterns>
                             [--timeout <msec>] [--fail-on-timeout]
 
-  guestcontrol              <uuid|vmname>
-
-                              exec[ute]
-                              --image <path to program> --username <name>
+  guestcontrol              <uuid|vmname> [--verbose|-v] [--quiet|-q]
+                              [--username <name>] [--domain <domain>]
                               [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose] [--timeout <msec>]
-                              [--environment "<NAME>=<VALUE> [<NAME>=<VALUE>]"]
-                              [--wait-exit] [--wait-stdout] [--wait-stderr]
+
+                              run [common-options]
+                              [--exe <path to executable>] [--timeout <msec>]
+                              [-E|--putenv <NAME>[=<VALUE>]] [--unquoted-args]
+                              [--ignore-operhaned-processes] [--profile]
+                              [--no-wait-stdout|--wait-stdout]
+                              [--no-wait-stderr|--wait-stderr]
                               [--dos2unix] [--unix2dos]
-                              [-- [<argument1>] ... [<argumentN>]]
+                              -- <program/arg0> [argument1] ... [argumentN]]
 
-                              copyfrom
-                              <guest source> <host dest> --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
-                              [--dryrun] [--follow] [--recursive]
+                              start [common-options]
+                              [--exe <path to executable>] [--timeout <msec>]
+                              [-E|--putenv <NAME>[=<VALUE>]] [--unquoted-args]
+                              [--ignore-operhaned-processes] [--profile]
+                              -- <program/arg0> [argument1] ... [argumentN]]
 
-                              copyto|cp
-                              <host source> <guest dest> --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
-                              [--dryrun] [--follow] [--recursive]
+                              copyfrom [common-options]
+                              [--dryrun] [--follow] [-R|--recursive]
+                              <guest-src0> [guest-src1 [...]] <host-dst>
 
-                              createdir[ectory]|mkdir|md
-                              <guest directory>... --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
+                              copyfrom [common-options]
+                              [--dryrun] [--follow] [-R|--recursive]
+                              [--target-directory <host-dst-dir>]
+                              <guest-src0> [guest-src1 [...]]
+
+                              copyto [common-options]
+                              [--dryrun] [--follow] [-R|--recursive]
+                              <host-src0> [host-src1 [...]] <guest-dst>
+
+                              copyto [common-options]
+                              [--dryrun] [--follow] [-R|--recursive]
+                              [--target-directory <guest-dst>]
+                              <host-src0> [host-src1 [...]]
+
+                              mkdir|createdir[ectory] [common-options]
                               [--parents] [--mode <mode>]
+                              <guest directory> [...]
 
-                              removedir[ectory]|rmdir
-                              <guest directory>... --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
-                              [--recursive|-R|-r]
+                              rmdir|removedir[ectory] [common-options]
+                              [-R|--recursive]
+                              <guest directory> [...]
 
-                              removefile|rm
-                              <guest file>... --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
+                              removefile|rm [common-options] [-f|--force]
+                              <guest file> [...]
 
-                              ren[ame]|mv
-                              <source>... <dest> --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
+                              mv|move|ren[ame] [common-options]
+                              <source> [source1 [...]] <dest>
 
-                              createtemp[orary]|mktemp
-                              <template> --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--directory] [--secure] [--tmpdir <directory>]
-                              [--domain <domain>] [--mode <mode>] [--verbose]
+                              mktemp|createtemp[orary] [common-options]
+                              [--secure] [--mode <mode>] [--tmpdir <directory>]
+                              <template>
 
-                              list <all|sessions|processes|files> [--verbose]
+                              stat [common-options]
+                              <file> [...]
 
-                              process kill --session-id <ID>
-                                           | --session-name <name or pattern>
-                                           [--verbose]
-                                           <PID> ... <PID n>
+  guestcontrol              <uuid|vmname> [--verbose|-v] [--quiet|-q]
 
-                              [p[s]]kill --session-id <ID>
-                                         | --session-name <name or pattern>
-                                         [--verbose]
-                                         <PID> ... <PID n>
+                              list <all|sessions|processes|files> [common-opts]
 
-                              session close  --session-id <ID>
-                                           | --session-name <name or pattern>
-                                           | --all
-                                           [--verbose]
+                              closeprocess [common-options]
+                              <   --session-id <ID>
+                                | --session-name <name or pattern>
+                              <PID1> [PID1 [...]]
 
-                              stat
-                              <file>... --username <name>
-                              [--passwordfile <file> | --password <password>]
-                              [--domain <domain>] [--verbose]
+                              closesession [common-options]
+                              <  --all | --session-id <ID>
+                                | --session-name <name or pattern> >
 
-                              updateadditions
-                              [--source <guest additions .ISO>] [--verbose]
-                              [--wait-start]
+                              updatega|updateguestadditions|updateadditions
+                              [--source <guest additions .ISO>]
+                              [--wait-start] [common-options]
                               [-- [<argument1>] ... [<argumentN>]]
 
-                              watch [--verbose]
-
-  debugvm                   <uuid|vmname>
-                            dumpguestcore --filename <name> |
-                            info <item> [args] |
-                            injectnmi |
-                            log [--release|--debug] <settings> ...|
-                            logdest [--release|--debug] <settings> ...|
-                            logflags [--release|--debug] <settings> ...|
-                            osdetect |
-                            osinfo |
-                            getregisters [--cpu <id>] <reg>|all ... |
-                            setregisters [--cpu <id>] <reg>=<value> ... |
-                            show [--human-readable|--sh-export|--sh-eval|
-                                  --cmd-set] 
-                                <logdbg-settings|logrel-settings>
-                                [[opt] what ...] |
-                            statistics [--reset] [--pattern <pattern>]
-                            [--descriptions]
+                              watch [common-options]
 
   metrics                   list [*|host|<vmname> [<metric_list>]]
                                                  (comma-separated)
@@ -538,7 +572,7 @@ Commands:
                             [*|host|<vmname> [<metric_list>]]
 
   natnetwork                add --netname <name>
-                            --network <network
+                            --network <network>
                             [--enable|--disable]
                             [--dhcp on|off]
                             [--port-forward-4 <rule>]
@@ -550,7 +584,7 @@ Commands:
   natnetwork                remove --netname <name>
 
   natnetwork                modify --netname <name>
-                            [--network <network]
+                            [--network <network>]
                             [--enable|--disable]
                             [--dhcp on|off]
                             [--port-forward-4 <rule>]
@@ -562,6 +596,8 @@ Commands:
   natnetwork                start --netname <name>
 
   natnetwork                stop --netname <name>
+
+  natnetwork                list [<pattern>]
 
   hostonlyif                ipconfig <name>
                             [--dhcp |
@@ -581,7 +617,55 @@ Commands:
   dhcpserver                remove --netname <network_name> |
                                    --ifname <hostonly_if_name>
 
-  extpack                   install [--replace] <tarball> |
-                            uninstall [--force] <name> |
-                            cleanup
+  usbdevsource              add <source name>
+                            --backend <backend>
+                            --address <address>
+  usbdevsource              remove <source name>
 
+ Introspection and guest debugging:
+
+  VBoxManage debugvm <uuid|vmname> dumpvmcore [--filename=name]
+
+  VBoxManage debugvm <uuid|vmname> info <item> [args...]
+
+  VBoxManage debugvm <uuid|vmname> injectnmi
+
+  VBoxManage debugvm <uuid|vmname> log [[--release] | [--debug]] [group-settings...]
+
+  VBoxManage debugvm <uuid|vmname> logdest [[--release] | [--debug]] [destinations...]
+
+  VBoxManage debugvm <uuid|vmname> logflags [[--release] | [--debug]] [flags...]
+
+  VBoxManage debugvm <uuid|vmname> osdetect
+
+  VBoxManage debugvm <uuid|vmname> osinfo
+
+  VBoxManage debugvm <uuid|vmname> osdmesg [--lines=lines]
+
+  VBoxManage debugvm <uuid|vmname> getregisters [--cpu=id] [reg-set.reg-name...]
+
+  VBoxManage debugvm <uuid|vmname> setregisters [--cpu=id] [reg-set.reg-name=value...]
+
+  VBoxManage debugvm <uuid|vmname> show [[--human-readable] | [--sh-export] | [--sh-eval] | [--cmd-set]] [settings-item...]
+
+  VBoxManage debugvm <uuid|vmname> stack [--cpu=id]
+
+  VBoxManage debugvm <uuid|vmname> statistics [--reset] [--descriptions] [--pattern=pattern]
+
+ Extension package management:
+
+  VBoxManage extpack install [--replace] <tarball>
+
+  VBoxManage extpack uninstall [--force] <name>
+
+  VBoxManage extpack cleanup
+
+ Unattended guest OS installation:
+
+  VBoxManage unattended detect <--iso=install-iso> [--machine-readable]
+
+  VBoxManage unattended install <uuid|vmname> <--iso=install-iso> [--user=login] [--password=password] [--password-file=file] [--full-user-name=name]
+      [--key=product-key] [--install-additions] [--no-install-additions] [--additions-iso=add-iso] [--install-txs] [--no-install-txs]
+      [--validation-kit-iso=testing-iso] [--locale=ll_CC] [--country=CC] [--time-zone=tz] [--hostname=fqdn] [--package-selection-adjustment=keyword]
+      [--dry-run] [--auxiliary-base-path=path] [--image-index=number] [--script-template=file] [--post-install-template=file] [--post-install-command=command]
+      [--extra-install-kernel-parameters=params] [--language=lang] [--start-vm=session-type]

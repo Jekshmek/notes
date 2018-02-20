@@ -1,17 +1,5 @@
 https://wiki.archlinux.org/index.php/VirtualBox
 
-Shares:
-sudo mount -t vboxsf <shared-folder> <local-folder>
-sudo mount.vboxsf /vagrant /mnt
-
-\\VBOXSVR\<share> - \\VBOXSVR\Install
-
-Disk Resizing:
-http://www.webupd8.org/2011/02/how-to-easily-resize-virtualbox-40-hard.html
-
-VBoxManage modifyhd YOUR_HARD_DISK.vdi --resize
-
-
 Guest Additions:
 
 mkdir /media/cdrom0

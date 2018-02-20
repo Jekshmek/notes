@@ -5,6 +5,12 @@ https://www.youtube.com/watch?v=QayyhI-36os
 https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-19-2017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
 https://www.youtube.com/watch?v=bsXLMQ6WgIk
 
+Kelly - Embracing Modern CMake
+http://www.steveire.com/embracing-modern-cmake.pdf
+
+Ropert - Modern CMake for modular design
+https://www.youtube.com/watch?v=eC9-iRN2b04
+
 2016:
 http://thetoeb.de/2016/08/30/modern-cmake-presentation/
 https://github.com/toeb/moderncmake
