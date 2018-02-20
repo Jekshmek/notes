@@ -1,4 +1,3 @@
-tricks:
 https://css-tricks.com/
 http://www.thefloatingfrog.co.uk/frog-blog/2008/09/10-css-shorthand-techniques-youll-use-everyday/
 http://www.cssnolanche.com.br/quotes-com-css/

@@ -1,0 +1,7 @@
+http://books.goalkicker.com/PostgreSQLBook/
+
+valsiliev
+http://postgresql.leopard.in.ua/
+http://postgresql.leopard.in.ua/html/
+https://github.com/le0pard/postgresql_book
+https://habrahabr.ru/post/324334/

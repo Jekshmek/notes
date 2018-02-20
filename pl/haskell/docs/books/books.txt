@@ -1,2 +1,4 @@
-2016:
+http://books.goalkicker.com/HaskellBook/
+
+2016
 Thomasson - Haskell High Performance Programming

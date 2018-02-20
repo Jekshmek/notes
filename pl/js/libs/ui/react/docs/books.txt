@@ -1,3 +1,5 @@
+http://books.goalkicker.com/ReactJSBook/
+
 https://habrahabr.ru/post/279249/
     https://www.gitbook.com/@maxfarseer/
 Paciansky - ReactJS for Beginners ru

@@ -15,5 +15,3 @@ Restricting IO monad
 
 Using Typeclasses for restricting IO
 	p 378
-
-
