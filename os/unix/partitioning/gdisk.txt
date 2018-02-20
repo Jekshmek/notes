@@ -4,9 +4,12 @@ p
 i <num 1..6>
     info about partition
 v
+    verify
     If no problems are found, this command displays a summary of unallocated disk space. 
 n
-    create a new partition
+    create a new partition (with defaults)
+???
+    change name
 w
     write data (to save changes)
 
@@ -27,3 +30,6 @@ Number  Start (sector)    End (sector)  Size       Code  Name
    4       128255954       144255953   7.6 GiB     0700  
    5       144255954       272255953   61.0 GiB    0700  
    6       272255954       409599966   65.5 GiB    0700  
+
+later - format
+    mkfs.ext4 -L lbdata /dev/sda5

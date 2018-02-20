@@ -1,6 +1,6 @@
 cur cfg:
 [core]
-	autocrlf = true
+	autocrlf = input
 [user]
 	name = Ihar Hancharenka
 	email = iigoncharenko@mail.ru
