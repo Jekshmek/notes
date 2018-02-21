@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beanfactory
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#resources-resource
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -8,16 +8,15 @@ cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     art
-https://predanie.ru/strelov-vladimir-sergeevich/post-dlya-nas-ili-my-dlya-post-chto-by-na-eto-otvetil-apostol-pavel/slushat/
 
 Video:
-Vorontsov 003 (of 024)                              - 1:16:00 (of 1:22:50)
+Vorontsov 004 (of 024)                              -   00:00 (of 1:18:39)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   48:00 (of 1:17:24)
 
 Lit:
-Malishevsky - Tarlovsky                             -   00:00 (of 2:06:22)
+Malishevsky - Tarlovsky                             - 1:43:00 (of 2:06:22)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -28,15 +27,18 @@ Troitsky                                            - 1:20:00 (of 2:11:10)
   https://www.youtube.com/watch?v=nSwf1d9AA4c
 
 Ortho:
-Paschenko 4.5                                       -   01:00 (of 1:20:22)
+Paschenko 5.x                                       -   00:00 (of)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 5                                          -   00:00 (of)
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 16                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-08-Simon-i-Faddey                                   -   00:00 (of   27:05)
+09-Ioann-i-Mark                                     -   00:00 (of   26:04)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Efiop                                               -   10:00 (of 2:05:26)
+Chernyak - 01 of 34                                 -   00:00 (of)
+  https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+  20 - 17:20
+Efiop                                               - 1:19:00 (of 2:05:26)
   https://predanie.ru/maksimova-olga/pravoslavie-po-efiopski/slushat/
 http://predanie.ru/salakone-alessandro/vstrecha-kotoraya-mozhet-izmenit-zhizn/slushat/
 http://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
@@ -49,7 +51,7 @@ https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskryt
 
 Tracking:
 Razbor Poletov                                      - 154
-This week in rust                                   - 220
+This week in rust                                   - 222
 http://accu.org/index.php/journals/c78/             - 140
 
 Series:

@@ -2,6 +2,7 @@
 http://www.opennet.ru/opennews/art.shtml?num=48096
 https://www.infoq.com/news/2018/02/golang-1.10-released
 https://blog.golang.org/go1.10
+https://golang.org/doc/go1.10
 
 compatibility
 https://golang.org/doc/go1compat
