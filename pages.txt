@@ -8,18 +8,15 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
-    art
-https://predanie.ru/shmaina-velikanova-anna-ilinichna/
-https://predanie.ru/shmaina-velikanova-anna-ilinichna/ioannov-korpus/slushat/
-https://predanie.ru/shmaina-velikanova-anna-ilinichna/religiya-v-russkoy-literature/slushat/
-https://predanie.ru/shmaina-velikanova-anna-ilinichna/iudaizm-1/slushat/
-https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
+  art
+https://habrahabr.ru/company/parallels/blog/349554/
+  multitask
 
 Video:
-Vorontsov 004 (of 024)                              -   00:00 (of 1:18:39)
+Vorontsov 004 (of 024)                              -   15:00 (of 1:18:39)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
-Raygorodsky - 1                                     -   48:00 (of 1:17:24)
+Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
 Malishevsky - Tarlovsky                             - 1:43:00 (of 2:06:22)
@@ -29,7 +26,7 @@ Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
 Astvacaturov - Folkner 1 (08)                       -   00:00 (of   52:09)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
-Troitsky                                            - 1:20:00 (of 2:11:10)
+Troitsky                                            - 1:25:00 (of 2:11:10)
   https://www.youtube.com/watch?v=nSwf1d9AA4c
 
 Ortho:
@@ -41,14 +38,14 @@ Sorokin - B 16                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 09-Ioann-i-Mark                                     -   00:00 (of   26:04)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 01 of 34                                 -   00:00 (of)
+Chernyak - 02 of 34                                 -   00:00 (of )
   https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-  20 - 17:20
 Lavrenchenko                                        -   15:00 (of 1:23:31)
   http://predanie.ru/lavrenchenko-mariya-leonidovna/kak-my-stali-drug-drugu-bratyami-i-otcami/slushat/
 http://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
+https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
@@ -70,5 +67,5 @@ Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 
-rust
-    lorikeet, jmespath
+nlp
+  https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
