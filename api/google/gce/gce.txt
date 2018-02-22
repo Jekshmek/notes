@@ -1,4 +1,7 @@
-shell:
+aur
+    google-cloud-sdk
+
+shell
 https://cloud.google.com/shell/docs/quickstart
 https://cloud.google.com/shell/docs/examples
 
@@ -19,7 +22,7 @@ https://www.youtube.com/watch?v=6wlzeDaIGtw
 
 
 
-credentials:
+credentials
 https://support.google.com/googleapi/answer/6158857
 oauth2:
 https://support.google.com/googleapi/answer/6158849
@@ -28,11 +31,11 @@ gcloud auth application-default print-access-token
 https://developers.google.com/accounts/docs/application-default-credentials
 
 
-nlp:
+nlp
 https://cloud.google.com/natural-language/
 https://cloud.google.com/natural-language/docs/basics
 
-nlp-auth:
+nlp-auth
 https://console.developers.google.com/apis/api/language.googleapis.com/overview?project=google.com:cloudsdktool
 
 https://cloudplatform.googleblog.com/2016/07/the-latest-for-Cloud-customers-machine-learning-and-west-coast-expansion.html
@@ -77,12 +80,12 @@ GCLOUD WIDE FLAGS
         --user-output-enabled
         --verbosity
 
-shell-completion:
+shell-completion
 /etc/bash_completion.d/google-cloud-sdk
 /opt/google-cloud-sdk/completion.bash.inc
 /opt/google-cloud-sdk/completion.zsh.inc
 
-language:
+language
 /opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/
 /opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/__init__.py
 /opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language/v1/
@@ -99,7 +102,7 @@ language:
 /opt/google-cloud-sdk/lib/googlecloudsdk/third_party/apis/language_v1beta2.json
 
 
-properties:
+properties
 lib/surface/projects/create.py 
 
 
@@ -115,5 +118,5 @@ lib/surface/projects/create.py
 disable_usage_reporting = True
 
 
-vars:
+vars
 export GOOGLE_APPLICATION_CREDENTIALS=/home/.../apikey.json 
