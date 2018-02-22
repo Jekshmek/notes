@@ -1,0 +1,3 @@
+https://crates.io/crates/resiter
+https://docs.rs/resiter
+https://github.com/matthiasbeyer/resiter
