@@ -1,4 +1,9 @@
-2017:
+2018
+Short - Serverless GraphQL
+https://www.infoq.com/presentations/serverless-graphql
+https://github.com/serverless/serverless-graphql
+
+2017
 Daigle - GitGub's GraphQL Future
 https://www.infoq.com/presentations/github-graphql
 Ilyenko - GraphQL a type system for your API

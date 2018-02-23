@@ -124,6 +124,9 @@ kartiny
 artrussia
 jvorokhob
 
+health
+tvbubnovsky
+
 eng
 speak_simple
 thinkenglish
@@ -135,6 +138,7 @@ en_voc
 dailyeng
 english_radio
 readytospeak
+englishmeetsrussian
 
 catalogs
 @catalog_channels
