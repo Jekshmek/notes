@@ -1,0 +1,87 @@
+https://i3wm.org/
+https://i3wm.org/downloads/
+
+https://github.com/i3/i3
+
+aur
+    community/i3-wm
+    community/i3-gaps
+    aur/i3-wm-iconpatch
+
+    i3status-manjaro 
+    dmenu-manjaro
+    morc_menu
+    lightdm
+
+https://manjaro.org/2017/03/07/manjaro-i3-community-edition-17-0-released/
+    https://sourceforge.net/projects/manjarolinux-community/files/i3/17.1.5/
+    https://www.youtube.com/watch?v=iBxkXQ-Z1l4
+    https://www.youtube.com/watch?v=YSylhvsDoIg
+
+https://i3wm.org/docs/
+https://i3wm.org/docs/userguide.html
+https://i3wm.org/docs/refcard.html
+https://i3wm.org/screenshots/
+https://www.reddit.com/r/i3wm/
+
+i3status
+https://i3wm.org/i3status/manpage.html
+
+wiki
+https://en.wikipedia.org/wiki/I3_(window_manager)
+https://ru.wikipedia.org/wiki/I3
+https://wiki.archlinux.org/index.php/i3
+https://wiki.archlinux.org/index.php/i3_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
+
+articles
+2017
+http://www.alib.spb.ru/blog/page/pro-i3wm
+https://losst.ru/nastrojka-i3wm
+2016
+http://nixtravelling.blogspot.com.by/2016/08/i3wm.html
+2013
+http://www.slackword.net/?p=657
+2012
+https://eax.me/i3wm/
+https://habrahabr.ru/post/150100/
+
+video
+2015
+https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf
+
+cheatsheet
+https://gist.github.com/JeffPaine/cbdf57c3721546b14113
+http://bottlenix.wikidot.com/i3wm-config-file
+#set $up l
+#set $down k
+#set $left j
+#set $right semicolon
+set $up k
+set $down j
+set $left h
+set $right l
+
+
+~/.xinitrc
+## Set a single desktop environment
+exec i3
+# with logs
+exec i3 -V >> ~/i3log-$(date +'%F-%k-%M-%S') 2>&1
+
+~/.config/i3/config
+
+themes (+ float)
+https://github.com/unix121/i3wm-themer
+http://dotshare.it/category/wms/i3/
+
+floating
+https://faq.i3wm.org/question/772/floating-workspace/?answer=773#post-id-773
+https://faq.i3wm.org/question/61/forcing-windows-as-always-floating/?answer=62#post-id-62
+
+for_window [ workspace="9" ] floating enable
+
+for_window [class="Nautilus" instance="file_progress"] floating enable
+# force floating for all new windows
+for_window [class="[.]*"] floating enable
+# browser pop-ups
+for_window [window_role="pop-up"] floating enable

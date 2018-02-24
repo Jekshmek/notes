@@ -1,0 +1,20 @@
+https://github.com/DaveDavenport/rofi/
+
+aur
+    community/rofi
+
+https://github.com/DaveDavenport/rofi/wiki
+
+https://wiki.archlinux.org/index.php/rofi
+
+themes
+https://github.com/DaveDavenport/rofi-themes
+https://github.com/DaveDavenport/rofi-themes/blob/master/Official%20Themes/solarized.rasi
+
+2018
+Let's Linux #016: rofi setup
+https://www.youtube.com/watch?v=Sa9SWMvAMIU
+    https://github.com/budRich/letslinux/tree/master/16-18-rofi-setup
+2016
+Rofi - Dmenu Replacement Launcher - Linux GUI
+https://www.youtube.com/watch?v=2FYEch1iljE

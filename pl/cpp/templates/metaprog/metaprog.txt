@@ -26,6 +26,3 @@ http://aszt.inf.elte.hu/~gsd/s/cikkek/abel/metamonad.pdf
 
 Reggie Meisler - Practical Meta-programming
 http://www.slideshare.net/ReggieM/practical-meta-programming
-
-Books:
-DiGennaro - Advanced Metaprogramming in Classic Cpp

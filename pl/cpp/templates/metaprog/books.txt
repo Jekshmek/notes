@@ -1,0 +1,3 @@
+DiGennaro - Advanced Metaprogramming in Classic Cpp
+
+Krasnov - Cpp Metaprogrammimg in MathPhisics Problems ru
