@@ -123,6 +123,7 @@ vincent_vangog
 kartiny
 artrussia
 jvorokhob
+madpictures
 
 health
 tvbubnovsky
@@ -142,7 +143,7 @@ englishmeetsrussian
 
 catalogs
 @catalog_channels
-    2017 Oct 07
+    2017 Oct 08
 CatalogTelegram
 tgcat
 vipcatalog

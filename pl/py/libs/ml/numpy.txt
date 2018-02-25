@@ -47,3 +47,9 @@ for p in [0, 25, 33, 50, 66, 75, 100]:
 
 a = np.random.randn(10, 5)
     10 vectors, 5 elements each
+
+linalg
+https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
+
+statistics
+https://docs.scipy.org/doc/numpy/reference/routines.statistics.html

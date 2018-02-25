@@ -6,6 +6,8 @@ https://smartdataconf.ru/2017/spb/talks/5fe6kggg7sowicic6mgemk/
 2018
 Dorohush - CatBoost - The next gen of gradient boosting
 https://www.youtube.com/watch?v=9ZrfErvm97M
+Boosting in Machine Learning - Equations
+https://www.youtube.com/watch?v=QqkV7ZtRv7w
 
 2017
 Extreme Gradient Boosting with R

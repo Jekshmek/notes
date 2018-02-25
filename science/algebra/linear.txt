@@ -1,1 +1,10 @@
+lists
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/
+https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learning/
+
+books
 Solomon - Numerical Algorithms
+
+numpy
+linalg
+https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
