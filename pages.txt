@@ -1,15 +1,14 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#resources-app-ctx-wildcards-in-resource-paths
+  http://predanie.ru/lavrenchenko-mariya-leonidovna/kak-my-stali-drug-drugu-bratyami-i-otcami/slushat/
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#resources-app-ctx-portability
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Feb 25
+  Feb 26
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
   art
-https://habrahabr.ru/company/parallels/blog/349554/
-  multitask
 
 Video:
 Vorontsov 004 (of 024)                              -   15:00 (of 1:18:39)
@@ -20,7 +19,7 @@ Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 Lit:
 2018-02-23-odin-0005                                -   00:00 (of)
   https://echo.msk.ru/programs/odin/2152504-echo/
-Malishevsky - Tarlovsky                             - 1:43:00 (of 2:06:22)
+Malishevsky - ?
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -29,7 +28,7 @@ Astvacaturov - Folkner 2 (09)                       -   00:00 (of 1:01:40)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
-Paschenko 5.x                                       -   00:00 (of)
+Paschenko 5.x                                       -   00:00 (of 1:12:47)
   http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 5                                          -   00:00 (of)
   http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -37,11 +36,10 @@ Sorokin - B 16                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 09-Ioann-i-Mark                                     -   00:00 (of   26:04)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 03 of 34                                 - 1:18:00 (of 1:48:58)
+Chernyak - 04 of 34                                 -   00:00 (of 1:48:58)
   https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Lavrenchenko                                        -   15:00 (of 1:23:31)
-  http://predanie.ru/lavrenchenko-mariya-leonidovna/kak-my-stali-drug-drugu-bratyami-i-otcami/slushat/
-http://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
+Gertsev                                             -   01:00 (of)
+  https://predanie.ru/gercev-igor/krizis-lichnostnogo-i-duhovnogo-rosta-chto-delat-kogda-sovsem-ne-ostalos-sil/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
@@ -60,7 +58,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 88..93..137..177..232..278..331..373..410..451
+NikolenkoKadurin - DeepLearning ru                  - 95..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
