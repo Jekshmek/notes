@@ -3,7 +3,8 @@ https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 https://github.com/spring-cloud/spring-cloud-netflix/issues/760/
 
 FeignClient
-https://github.com/spring-cloud/spring-cloud-netflix/blob/master/spring-cloud-netflix-core/src/main/java/org/springframework/cloud/netflix/feign/FeignClient.java
+https://github.com/spring-cloud/spring-cloud-openfeign/tree/master/spring-cloud-openfeign-core/src/main/java/org/springframework/cloud/openfeign
+https://github.com/spring-cloud/spring-cloud-openfeign/tree/master/spring-cloud-openfeign-core/src/main/java/org/springframework/cloud/openfeign/FeignClient.java
 
 SSL
 https://github.com/OpenFeign/feign/pull/54
@@ -118,3 +119,15 @@ import org.springframework.cloud.netflix.feign.ribbon.FeignRibbonClientAutoConfi
 import org.springframework.cloud.netflix.ribbon.RibbonAutoConfiguration;
 
 @ImportAutoConfiguration({RibbonAutoConfiguration.class, FeignRibbonClientAutoConfiguration.class, FeignAutoConfiguration.class})
+
+
+extra cfg
+    @FeignClient(name="some-name", url="http://<host>:18080", configuration=SomeConfiguration.class)
+    ...
+    // @Configuration
+    public static class SomeConfiguration {
+        @Bean
+        RequestInterceptor feignRequestInterceptor() {
+            return new BasicAuthRequestInterceptor("<usr>", "<pwd>");
+        }
+    }
