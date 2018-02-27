@@ -1,3 +1,0 @@
-http://sourceforge.net/projects/manjarolinux/files/community/
-http://sourceforge.net/projects/manjarolinux/files/community/Openbox/
-http://sourceforge.net/projects/manjarolinux/files/community/Openbox/2015.07/manjaro-openbox-0.8.13.1-x86_64-FINAL.iso/download

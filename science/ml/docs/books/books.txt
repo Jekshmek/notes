@@ -10,7 +10,10 @@ misc books review:
 https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
 
-2017:
+2018
+Kruk - Practical Python AI Projects
+
+2017
 Sugomori - Deep Learning: Practical Neural Networks with Java
     https://vk.com/doc4004138_455539173
 Myuller - Intro to ML using Python ru
