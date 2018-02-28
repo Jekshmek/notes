@@ -37,3 +37,6 @@ tutorials
 https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
 
 https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md#state-machines
+
+guides
+https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md

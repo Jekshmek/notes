@@ -1,4 +1,6 @@
-2017:
+2018
+https://www.ibm.com/developerworks/cloud/library/cl-getting-started-docker-and-kubernetes/index.html
+2017
 https://stripe.com/blog/operating-kubernetes
     https://habrahabr.ru/company/otus/blog/347810/
 https://habrahabr.ru/company/flant/blog/331188/

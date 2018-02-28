@@ -124,6 +124,7 @@ kartiny
 artrussia
 jvorokhob
 madpictures
+nabroski
 
 health
 tvbubnovsky
@@ -140,10 +141,11 @@ dailyeng
 english_radio
 readytospeak
 englishmeetsrussian
+EnglishLessons
 
 catalogs
 @catalog_channels
-    2017 Dec 6
+    2017 Jan 7
 CatalogTelegram
 tgcat
 vipcatalog

@@ -1,8 +1,11 @@
-Presentations:
+tutorials
+https://learn.chef.io/#/
+
+presentations
 http://www.slideshare.net/chef-software/chef-for-beginners-module-5-61251285
 https://speakerdeck.com/nathenharvey/intro-to-chef-scale12x
 
-Books:
+books
 Cowie - Customizing Chef
 Joshi - Mastering Chef
 
