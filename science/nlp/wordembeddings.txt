@@ -1,2 +1,5 @@
+2018
+https://blog.acolyer.org/2018/02/22/dynamic-word-embeddings-for-evolving-semantic-discovery/
+
 https://habrahabr.ru/company/ods/blog/329410/
 https://machinelearningmastery.com/what-are-word-embeddings/
