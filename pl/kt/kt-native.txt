@@ -1,11 +1,25 @@
 https://github.com/JetBrains/kotlin-native/
 
-whatsnew:
+whatsnew
 https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here/
 https://blog.jetbrains.com/kotlin/2017/06/kotlinnative-v0-3-is-out/
 https://blog.jetbrains.com/kotlin/2017/05/kotlinnative-v0-2-is-out/
 https://blog.jetbrains.com/kotlin/2017/04/kotlinnative-tech-preview-kotlin-without-a-vm/
 
-samples:
+gradle-integration
+buildscript {
+    repositories {
+        jcenter()
+        maven("https://dl.bintray.com/jetbrains/kotlin-native-dependencies")
+    }
+
+    dependencies {
+        classpath("org.jetbrains.kotlin:kotlin-native-gradle-plugin:0.6")
+    }
+}
+
+samples
 https://github.com/JetBrains/kotlin-native/tree/master/samples/tensorflow
 https://github.com/JetBrains/kotlin-native/blob/master/samples/tensorflow/build.gradle
+https://github.com/madhead/seaowl
+
