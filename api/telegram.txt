@@ -143,9 +143,12 @@ readytospeak
 englishmeetsrussian
 EnglishLessons
 
+puzzles
+brainteasers
+
 catalogs
 @catalog_channels
-    2017 Jan 7
+    2018 Jan 22
 CatalogTelegram
 tgcat
 vipcatalog

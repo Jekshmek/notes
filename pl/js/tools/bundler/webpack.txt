@@ -28,3 +28,6 @@ plugins
 
 HMR
 https://webpack.js.org/concepts/hot-module-replacement/
+
+whatsnew
+https://www.infoq.com/news/2018/02/webpack-4-0-brings-simplified

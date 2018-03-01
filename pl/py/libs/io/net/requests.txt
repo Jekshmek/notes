@@ -1,0 +1,5 @@
+http://docs.python-requests.org/en/master/
+https://github.com/requests/requests
+
+2018
+https://www.codementor.io/parthshandilya/writing-unit-tests-for-rest-apis-in-python-ge8wmbofg
