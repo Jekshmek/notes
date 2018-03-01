@@ -1,0 +1,4 @@
+2018
+http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2018-02-15.pdf
+https://github.com/mdadams/cppbook_companion
+http://www.ece.uvic.ca/~frodo/cppbook/
