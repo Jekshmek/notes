@@ -30,7 +30,7 @@ import feign.RequestLine;
 import feign.Response;
 import feign.slf4j.Slf4jLogger;
 
-import org.springframework.cloud.netflix.feign.support.SpringMvcContract;
+import org.springframework.cloud.openfeign.support.SpringMvcContract;
 
 import lombok.Getter;
 
@@ -60,7 +60,7 @@ import lombok.Getter;
         .startsWith("some-prefix...")
     ;
 
-spring-cloud usage
+spring-cloud usage (..netflix.feign.. -> ..openfeign..)
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -70,8 +70,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import org.springframework.cloud.netflix.feign.EnableFeignClients;
-import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.cloud.netflix.openfeign.EnableFeignClients;
+import org.springframework.cloud.netflix.openfeign.FeignClient;
 
 import org.springframework.http.ResponseEntity;
 

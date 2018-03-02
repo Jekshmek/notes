@@ -1,6 +1,5 @@
 URLs:
-  https://predanie.ru/baydova-anna/religioznye-voyny-v-gravyurah-xvi-veka/slushat/
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -8,17 +7,20 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
-  artist's shit
+  Lifshits
 https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
   social aspects
 
 Video:
-Vorontsov 004 (of 024)                              - 1:00:00 (of 1:18:39)
+Vorontsov 004 (of 024)                              - 1:15:00 (of 1:18:39)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
+Meijer - My Life as a Tech Transfer Monad           -   11:00 (of 1:01:06)
+  https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
+2018-03-02-odin-0005                                -   07:00 (of 1:47:31)
 Malishevsky - Bunin - Mitya Lov                     -   02:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -37,7 +39,7 @@ Sorokin - B 17                                      -   00:00 (of)
   http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
   https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 06 of 34                                 - 1:14:00 (of 2:04:19)
+Chernyak - 07 of 34                                 -   00:00 (of 1:44:01)
   https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
