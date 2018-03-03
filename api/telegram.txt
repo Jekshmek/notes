@@ -1,7 +1,8 @@
 https://netology.ru/blog/prg-tg
 
-?
-data_analysis
+music
+retroma
+
 
 books:
 progbook
@@ -110,6 +111,7 @@ epic_history
 ussrsssr
 historu
 phistory
+pool_of_memory
 
 travel
 beutifulrus
@@ -145,10 +147,14 @@ EnglishLessons
 
 puzzles
 brainteasers
+golovolomkachannel
+
+?
+data_analysis
 
 catalogs
 @catalog_channels
-    2018 Jan 22
 CatalogTelegram
 tgcat
 vipcatalog
+https://github.com/goq/telegram-list

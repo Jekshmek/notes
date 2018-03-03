@@ -1,7 +1,12 @@
-?
+5enena5
 http://www.5egena5.ru/
-https://olymp.hse.ru/mmo/tasks-math
-https://olymp.hse.ru/mmo/math
+http://www.5egena5.ru/5klass.html
+http://www.5egena5.ru/6klass.html
+http://www.5egena5.ru/7klass.html
+http://www.5egena5.ru/8klass.html
+http://www.5egena5.ru/9klass.html
+http://www.5egena5.ru/10klass.html
+http://www.5egena5.ru/11klass.html
 
 minsk
 http://www.uni.bsu.by/arrangements/iolimp/index.html
@@ -9,14 +14,11 @@ http://www.uni.bsu.by/arrangements/iolimp/index.html
 vseross
 http://info.olimpiada.ru/activity/72/tasks/2016
 
+vshe
+https://olymp.hse.ru/mmo/math
+https://olymp.hse.ru/mmo/tasks-math
+
 itmo
-?
-http://www.formulo.org/wp-content/uploads/2018/01/
-http://www.formulo.org/wp-content/uploads/2017/01/
-http://www.formulo.org/wp-content/uploads/2017/03/
-http://www.formulo.org/wp-content/uploads/2017/05/
-http://www.formulo.org/wp-content/uploads/2017/09/
-?
 http://www.formulo.org/wp-content/uploads/
 http://www.formulo.org/ru/olymp/2017-math-ru/
 http://www.formulo.org/wp-content/uploads/2017/12/fdi-tm-2017-sol_ru.pdf
@@ -41,6 +43,16 @@ http://www.formulo.org/wp-content/uploads/2017/10/fditt-2013-2-rus.pdf
 http://www.formulo.org/wp-content/uploads/2017/10/sol_ml.pdf
 http://www.formulo.org/wp-content/uploads/2017/10/sol_st.pdf
 http://www.formulo.org/wp-content/uploads/2017/06/EntranceOlympForSite.pdf
+http://www.formulo.org/wp-content/uploads/2017/01/FdI_TM_2016-17_2round_ru.pdf
+http://www.formulo.org/wp-content/uploads/2017/01/fdi1617_2round_sol_ru.pdf
+
+distance school
+http://www.formulo.org/wp-content/uploads/2017/09/10.-17.10.08.pdf
+http://www.formulo.org/wp-content/uploads/2017/09/10.-17.10.15.pdf
+http://www.formulo.org/wp-content/uploads/2017/09/10.-17.10.22.pdf
+http://www.formulo.org/wp-content/uploads/2017/09/9-17.10.08.pdf
+http://www.formulo.org/wp-content/uploads/2017/09/9.-17.10.15.pdf
+http://www.formulo.org/wp-content/uploads/2017/09/9.-17.10.22.pdf
 
 itmo-sbornik
 http://www.formulo.org/wp-content/uploads/2016/02/%d0%a1%d0%b1%d0%be%d1%80%d0%bd%d0%b8%d0%ba-%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d0%be%d0%b2-%d0%bc%d0%b5%d0%b6%d0%b4%d1%83%d0%bd%d0%b0%d1%80%d0%be%d0%b4%d0%bd%d0%be%d0%b3%d0%be-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d0%bf%d1%80%d0%be%d1%84%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%bb%d0%b0%d0%b3%d0%b5%d1%80%d1%8f-%d0%a4%d0%95-2013-%d0%b3.pdf
