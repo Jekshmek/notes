@@ -23,3 +23,6 @@ jim.setPropertyValue("name", "Jim Stravinsky");
 company.setPropertyValue("managingDirector", jim.getWrappedInstance());
 // retrieving the salary of the managingDirector through the company
 Float salary = (Float) company.getPropertyValue("managingDirector.salary");
+
+PropertyEditors (java.beans.PropertyEditor)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion

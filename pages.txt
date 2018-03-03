@@ -1,5 +1,6 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion
+  https://predanie.ru/desnickiy-andrey-sergeevich/neprochitannye-poslaniya-apostol-pavel-o-vlasti/slushat/
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion-customeditor-registration
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -20,7 +21,7 @@ Meijer - My Life as a Tech Transfer Monad           -   11:00 (of 1:01:06)
   https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
-2018-03-02-odin-0005                                -   07:00 (of 1:47:31)
+2018-03-02-odin-0005                                -   42:00 (of 1:47:31)
 Malishevsky - Bunin - Mitya Lov                     -   02:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -32,15 +33,17 @@ Astvacaturov - Folkner 2 (09)                       -   12:00 (of 1:01:40)
 
 Ortho:
 Paschenko 5.x                                       -   00:00 (of 1:12:47)
-  http://solovki-monastyr.ru/abba-page/narcomania/
+    http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 6                                          -   00:00 (of)
-  http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
+    http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 17                                      -   00:00 (of)
-  http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
+    http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
-  https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 07 of 34                                 -   00:00 (of 1:44:01)
-  https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+    https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
+Chernyak - 07 of 34                                 - 1:13:00 (of 1:51:08)
+    https://www.youtube.com/watch?v=yO6WZz3qdkk
+    https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+https://predanie.ru/fayn-svetlana/cmert-na-ulice-cennost-zhizni-i-dostoinstvo-cheloveka/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/

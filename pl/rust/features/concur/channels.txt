@@ -1,3 +1,4 @@
+https://matklad.github.io/2018/03/02/stopping-a-rust-worker.html
 https://stjepang.github.io/2017/08/13/designing-a-channel.html
 
 MPSC:
