@@ -1,0 +1,11 @@
+https://dlang.org/download.html
+
+community
+    dmd
+    dmd-docs
+    libphobos
+    dtools
+    dfmt
+    dub
+
+https://dlang.org/dmd-windows.html
