@@ -12,6 +12,12 @@ https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 https://blogs.msdn.microsoft.com/vcblog/2017/04/25/visual-studio-code-cc-extension-april-2017-update/
 https://blogs.msdn.microsoft.com/vcblog/2017/05/19/visual-studio-code-cc-extension-may-2017-update/
 
-VisualRust:
+python
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+https://github.com/Microsoft/vscode-python
+https://blogs.msdn.microsoft.com/pythonengineering/2018/02/15/visual-studio-coe-is-now-shipping-with-anaconda/
+https://www.infoq.com/news/2018/03/AnacondaShippingVSCOde
+
+VisualRust
 https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
 https://github.com/PistonDevelopers/VisualRust

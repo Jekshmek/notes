@@ -9,6 +9,11 @@ https://github.com/arcnmx/serde-value
 
 https://github.com/sfackler/serde-transcode
 
+articles
+2018
+http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html
+https://www.reddit.com/r/rust/comments/81we47/serializing_awkward_data_with_serde/
+
 docs:
 https://serde.rs/attributes.html#field-attributes
 

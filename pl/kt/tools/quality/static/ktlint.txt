@@ -1,0 +1,5 @@
+https://ktlint.github.io/
+https://github.com/shyiko/ktlint
+
+https://github.com/JLLeitschuh/ktlint-gradle
+https://plugins.gradle.org/plugin/org.jlleitschuh.gradle.ktlint

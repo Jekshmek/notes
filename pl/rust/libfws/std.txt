@@ -3,40 +3,47 @@
 https://doc.rust-lang.org/std/
 https://doc.rust-lang.org/src/std/io/error.rs.html#67-75
 
-prelude:
+prelude
 https://doc.rust-lang.org/std/prelude/
 https://doc.rust-lang.org/std/io/prelude/
 
-RefCounting:
+RefCounting
 https://doc.rust-lang.org/nightly/std/rc/
 https://doc.rust-lang.org/nightly/std/sync/struct.Arc.html
 
 https://doc.rust-lang.org/std/rc/
 https://doc.rust-lang.org/std/sync/struct.Arc.html
 
-Ref-Deref:
+Ref-Deref
 https://doc.rust-lang.org/nightly/core/ops/trait.Deref.html
 
-primitives:
+primitives
 https://doc.rust-lang.org/std/primitive.str.html
 
-num:
+num
 https://doc.rust-lang.org/std/num/index.html
 https://doc.rust-lang.org/std/num/struct.Wrapping.html
 
-ops:
+ops
 https://doc.rust-lang.org/std/ops/index.html
 
-sync:
+sync
 https://doc.rust-lang.org/stable/std/sync/
 http://www.cs.brandeis.edu/%7Ecs146a/rust/doc-02-21-2015/nightly/std/sync/struct.TaskPool.html
 
-path:
+path
 https://doc.rust-lang.org/std/path/
 
-iter:
+iter
 https://doc.rust-lang.org/std/iter/index.html
 https://doc.rust-lang.org/std/iter/trait.Iterator.html
 
-xargo:
+xargo
 https://github.com/japaric/xargo
+
+simd
+https://doc.rust-lang.org/nightly/std/arch/
+https://github.com/rust-lang/rfcs/pull/2325
+https://github.com/rust-lang-nursery/stdsimd
+https://play.rust-lang.org/?gist=fd04ceea058d938dc4310e2552d707ad&version=nightly
+https://www.reddit.com/r/rust/comments/820uql/simd_now_available_in_libstd_on_nightly/
