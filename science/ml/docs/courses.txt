@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=zlnQyxiEGNM
 https://www.youtube.com/watch?v=HyjB2uMZK5k
 AI and ML history
 https://www.youtube.com/playlist?list=PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz
+Notes of Ng - Intro to DeepLearning
+https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
 2017
 Kashnitsky (scipy based)!!!:
