@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion-customeditor-registration-per
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#core-convert
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -26,7 +26,7 @@ Malishevsky - Bunin - Mitya Lov                     -   02:00 (of 2:23:48)
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Astvacaturov - Folkner 2 (09)                       -   35:00 (of 1:01:40)
+Astvacaturov - Golding (10)                         -   00:00 (of)
   http://predanie.ru/astvacaturov-andrey-alekseevich/pisatel-i-vera/slushat/
 
 Ortho:
@@ -38,7 +38,7 @@ Sorokin - B 17                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 08 of 34                                 -   53:00 (of 1:51:08)
+Chernyak - 08 of 34                                 - 1:10:00 (of 1:51:08)
     https://www.youtube.com/watch?v=yO6WZz3qdkk
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/fayn-svetlana/cmert-na-ulice-cennost-zhizni-i-dostoinstvo-cheloveka/slushat/
