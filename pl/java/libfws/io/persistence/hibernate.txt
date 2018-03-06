@@ -1,0 +1,8 @@
+https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querysql.html#querysql-namedqueries
+
+https://stackoverflow.com/questions/35930600/how-to-use-native-sql-function-with-hql-query
+https://stackoverflow.com/questions/6113167/hibernate-3-6-registerfunction-in-sql-dialect-not-working
+https://stackoverflow.com/questions/12004365/how-to-get-hibernate-to-print-out-whats-wrong-with-a-named-query
+
+  Category:
+    - { name: org.hibernate.loader.custom.sql, Priority: [{value: trace}], AppenderRef: [{ ref: FILE }] }
