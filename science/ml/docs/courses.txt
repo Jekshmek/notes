@@ -5,6 +5,9 @@ https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 AI and ML
 https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/playlists
 
+google
+https://developers.google.com/machine-learning/crash-course/
+
 2018
 CMU - NN
 https://www.youtube.com/watch?v=Qbztx1CfSfo

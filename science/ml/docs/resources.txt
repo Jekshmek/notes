@@ -3,7 +3,13 @@ https://proglib.io/p/learning-ml/
 
 https://habrahabr.ru/company/spbifmo/blog/326894/
 
-2017:
+google stuff
+https://distill.pub/about/
+https://github.com/distillpub
+https://github.com/distillpub/template
+https://distill.pub/guide/
+
+2017
 https://vk.com/topic-138477641_34886254
 https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
