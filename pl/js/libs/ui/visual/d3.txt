@@ -32,3 +32,5 @@ https://bl.ocks.org/
 http://christopheviau.com/d3list/
 http://techslides.com/over-1000-d3-js-examples-and-demos
 
+samples
+https://github.com/distillpub/post--augmented-rnns
