@@ -1,4 +1,8 @@
-presentations:
-2017:
+articles
+2018
+https://dzone.com/articles/spring-cloud-stream-with-kafka
+
+presentations
+2017
 Pilimon - Event Sourcing and CQRS with Spring Stream
 https://www.youtube.com/watch?v=eqPMmotEfsA

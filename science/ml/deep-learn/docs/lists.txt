@@ -1,5 +1,8 @@
 https://vk.com/deeplearning
 
+Deep Learning Boston
+https://www.youtube.com/channel/UCeqlHZDmUEQQHYqnei8doYg/playlists
+
 http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html
 https://github.com/terryum/awesome-deep-learning-papers
 https://github.com/kjw0612/awesome-rnn

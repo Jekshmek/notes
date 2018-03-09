@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=9b89HxJ2bjU
 
 articles
 2018
+https://medium.com/@elizarov/kotlin-coroutines-a-deeper-look-180536305c3f
 https://habrahabr.ru/post/346004/
 2017
 https://superkotlin.com/coroutines/
