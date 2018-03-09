@@ -4,6 +4,8 @@ https://www.reddit.com/r/rust/comments/5pxdpk/an_overview_of_macros_in_rust/
 https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
 
 2018
+https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/
+    https://habrahabr.ru/post/350716/
 https://medium.com/cloudflare-blog/writing-complex-macros-in-rust-reverse-polish-notation-8222487267d2
 http://words.steveklabnik.com/an-overview-of-macros-in-rust
 

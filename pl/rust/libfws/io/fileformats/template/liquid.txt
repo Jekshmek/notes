@@ -1,0 +1,3 @@
+https://crates.io/crates/liquid
+https://docs.rs/liquid
+https://github.com/cobalt-org/liquid-rust
