@@ -15,3 +15,5 @@ https://proglib.io/p/python-vk-api-2/
 https://proglib.io/p/python-vk-api-3/
 
 https://vk.com/wall-54530371_166951
+
+https://vk.com/search?c[section]=video
