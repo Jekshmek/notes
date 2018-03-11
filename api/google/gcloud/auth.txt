@@ -1,0 +1,9 @@
+https://cloud.google.com/sdk/auth_success
+
+credentials
+https://support.google.com/googleapi/answer/6158857
+oauth2:
+https://support.google.com/googleapi/answer/6158849
+
+gcloud auth application-default print-access-token 
+https://developers.google.com/accounts/docs/application-default-credentials

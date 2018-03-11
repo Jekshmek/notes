@@ -1,0 +1,19 @@
+https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html
+
+gcloud
+    --help
+        print help
+    auth
+        application-default
+            print-access-token
+    components
+        list|update|install|reinstall|remove|restore
+    organisations
+    products
+    [beta] ml
+        language
+            --help
+            analyze-entities
+            analyze-entity-sentiment
+            analyze-sentiment
+            analyze-syntax
