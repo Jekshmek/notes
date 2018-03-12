@@ -13,10 +13,13 @@ warning: be sure to add `$CARGO_HOME/.cargo/bin` to your PATH to be able to run 
 
 cargo
     --version [--verbose]
-    install --list
-        list installed crates/packages
+    install
+        --list
+            list installed crates/packages
         --git https://github.com/org/name
         --vers ="^0.1.0"
+        -f <name>
+            update installed <name>
     new <prj-name>
         --bin
     check

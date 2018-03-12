@@ -1,3 +1,18 @@
+https://github.com/nabijaczleweli/cargo-update
+https://cdn.rawgit.com/nabijaczleweli/cargo-update/man/cargo-install-update.1.html
+cargo
+    install-update
+        -a
+            all
+        [-al]
+                do not update, just list
+        -f
+            force
+
+???
+    cargo-outdated
+
+???
 What about when we do want to use v0.3.9?
 Cargo has another command, update, which says ‘ignore the lock, figure out all the latest versions that fit what we’ve specified.
 If that works, write those versions out to the lock file’.

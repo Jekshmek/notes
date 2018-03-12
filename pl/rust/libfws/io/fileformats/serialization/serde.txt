@@ -12,6 +12,7 @@ https://github.com/sfackler/serde-transcode
 articles
 2018
 http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html
+    https://habrahabr.ru/post/350956/
 https://www.reddit.com/r/rust/comments/81we47/serializing_awkward_data_with_serde/
 
 docs:

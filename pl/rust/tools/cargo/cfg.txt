@@ -31,6 +31,9 @@ branch = "dev"
 features = ["profiling"]
 optional = true
 
+[build-dependencies]
+cmake = "0.1"
+
 [build-dependencies.tango]
 git = "https://github.com/pnkfelix/tango"
 

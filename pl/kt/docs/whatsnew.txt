@@ -1,4 +1,5 @@
 1.2
+https://www.infoq.com/news/2018/03/jetbrains-releases-kotlin-1.2.30
 https://blog.jetbrains.com/kotlin/2018/03/kotlin-1-2-30-is-out/
 http://kotlinlang.org/docs/reference/whatsnew12.html
 https://blog.jetbrains.com/kotlin/2017/11/kotlin-1-2-released/
