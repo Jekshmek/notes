@@ -1,0 +1,39 @@
+http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html
+http://www.oracle.com/technetwork/developer-tools/sqlcl/downloads/sqlcl-relnotes-174-4126387.html
+http://www.oracle.com/technetwork/developer-tools/sqlcl/downloads/sqlcl-faq-3014678.html
+http://download.oracle.com/otn/java/sqldeveloper/sqlcl-17.4.0.354.2224-no-jre.zip
+
+2016
+Smith - Oracle SQLcl Introduction and Getting Started
+https://www.youtube.com/watch?v=b-iHX2EA77w
+https://www.youtube.com/watch?v=ecgijS76jvw
+
+aur
+    sqlcl
+https://aur.archlinux.org/packages/sqlcl/
+https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=sqlcl
+...
+package() {
+  cd ${srcdir}/${pkgname}
+  install -d "${pkgdir}/opt/${pkgname}/lib"
+  install -d "${pkgdir}/usr/bin"
+  install -m 644 -t "$pkgdir/opt/${pkgname}/lib" lib/*.jar
+  install -m 755 ${srcdir}/sqlcl.sh "$pkgdir/usr/bin/sqlcl"
+}
+
+==> sqlcl dependencies:
+ - java-runtime>=8 (building from AUR)
+
+
+    /data/wrk/sqlcl/bin/sql system/oracle@//localhost:1521/EE.oracle.docker
+
+help
+    list help topics
+history
+    history
+/
+    ? sql buffer ?
+
+alias
+exit|quit
+    [commit|rollback]

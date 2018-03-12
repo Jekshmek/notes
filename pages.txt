@@ -4,7 +4,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Mar 10
+  Mar 11
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -17,7 +17,7 @@ Vorontsov 005 (of 024)                              -   31:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Meijer - My Life as a Tech Transfer Monad           -   23:00 (of 1:01:06)
+Meijer - My Life as a Tech Transfer Monad           -   27:00 (of 1:01:06)
   https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
