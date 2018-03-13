@@ -17,10 +17,11 @@ Vorontsov 005 (of 024)                              -   31:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Meijer - My Life as a Tech Transfer Monad           -   27:00 (of 1:01:06)
+Meijer - My Life as a Tech Transfer Monad           -   35:00 (of 1:01:06)
   https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
+2018-03-06-odin-2305                                -   40:00 (of 1:44:06)
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -33,14 +34,14 @@ Dlugach                                             -   05:00 (of 1:01:39)
 Ortho:
 Paschenko 6.1                                       -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 7                                          -   00:00 (of)
+Ivliev - 8                                          -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 18                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 08 of 34                                 - 1:10:00 (of 1:51:08)
-    https://www.youtube.com/watch?v=yO6WZz3qdkk
+Chernyak - 09 of 34                                 -   03:00 (of 1:58:17)
+    https://www.youtube.com/watch?v=lQzQrOkn_tk
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/fayn-svetlana/cmert-na-ulice-cennost-zhizni-i-dostoinstvo-cheloveka/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
@@ -74,3 +75,6 @@ nlp - word vectors
 
 cargo
     osha safety
+
+to Yura
+https://qconlondon.com/system/files/presentation-slides/conflict-resolution.pdf

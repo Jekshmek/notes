@@ -1,4 +1,5 @@
 https://github.com/JetBrains/kotlin-native/
+https://github.com/JetBrains/kotlin-native/blob/master/INTEROP.md
 
 whatsnew
 https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here/
