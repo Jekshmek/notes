@@ -1,3 +1,4 @@
+output
 https://www.tutorialspoint.com/plsql/plsql_dbms_output.htm
 
 ? get_lines
@@ -9,3 +10,7 @@ set serveroutput on;
 
 dbms_output.enable(1000000);
 dbms_output.put_line('some message');
+
+
+crypto
+https://docs.oracle.com/cd/B28359_01/appdev.111/b28419/d_crypto.htm#BJFCGDIC
