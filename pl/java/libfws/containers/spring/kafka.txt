@@ -24,3 +24,7 @@ http://www.baeldung.com/spring-kafka
 
 whats new
 https://spring.io/blog/2018/02/22/spring-for-apache-kafka-2-1-3-spring-integration-kafka-3-0-2-are-available
+
+articles
+2018
+https://www.javacodegeeks.com/2018/03/spring-cloud-stream-kafka.html

@@ -3,7 +3,11 @@ bmuschko gradle-docker-plugin:
 https://github.com/bmuschko/gradle-docker-plugin
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/RELEASE_NOTES.md
 
-image:
+articles
+2018
+http://bmuschko.com/blog/dockerized-spring-boot-app/
+
+image
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/tasks/image/Dockerfile.groovy
     instruction
         ? arg ?
@@ -23,17 +27,17 @@ https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com
 repository!!!
 https://github.com/nebula-plugins/nebula-docker-plugin/wiki
 
-api:
+api
 http://bmuschko.github.io/gradle-docker-plugin/docs/groovydoc/overview-summary.html
 
-misc:
+misc
 gradle-docker-plugin\src\main\groovy\com\bmuschko\gradle\docker\utils\DockerThreadContextClassLoader.groovy 
 
-samples:
+samples
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/DockerJavaApplicationPlugin.groovy
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/functTest/groovy/com/bmuschko/gradle/docker/DockerWorkflowFunctionalTest.groovy
 
-issues:
+issues
 https://github.com/bmuschko/gradle-docker-plugin/issues/467
 https://github.com/docker-java/docker-java/issues/830
 https://github.com/orzeh/gradle-docker-plugin-spring-boot-m4/blob/master/build.gradle
@@ -57,7 +61,7 @@ https://github.com/bmuschko/gradle-docker-plugin/issues/96
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/main/groovy/com/bmuschko/gradle/docker/response/image/ListImagesResponseHandler.groovy
 
 
-registry:
+registry
 https://github.com/bmuschko/gradle-docker-plugin/blob/master/src/functTest/groovy/com/bmuschko/gradle/docker/AbstractDockerRemoteApiTaskFunctionalTest.groovy
 docker {
     url = 'tcp://remote.docker.com:2375'
