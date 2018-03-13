@@ -32,5 +32,13 @@ https://root.cern.ch/download/cling/
 docker
 https://github.com/vyivanov/cling-docker
 
+jupyter
+https://github.com/QuantStack/xeus
+https://github.com/QuantStack/xeus-cling
+https://github.com/nbgallery/jupyter-docker
+https://github.com/nbgallery/jupyter-docker/tree/master/kernels/installers
+https://github.com/nbgallery/jupyter-docker/blob/master/kernels/installers/jupyter-cling-kernel
+
 samples
 https://github.com/root-project/cling/tree/master/tools/demo
+

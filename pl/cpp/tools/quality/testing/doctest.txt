@@ -1,7 +1,11 @@
 https://github.com/onqtam/doctest
 
-presentations:
-2017:
+articles
+2018
+http://eao197.blogspot.com.by/2018/03/progc-doctest-vs-catch2.html
+
+presentations
+2017
 Kirilov - Mix Tests and Production Code with Doctest
 https://www.youtube.com/watch?v=eH1CxEC29l8
 http://slides.com/onqtam/2017_cppcon_doctest#

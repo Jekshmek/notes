@@ -9,3 +9,9 @@ http://logback.qos.ch/manual/layouts.html#formatModifiers
 http://logback.qos.ch/manual/layouts.html#cwOptions
 http://logback.qos.ch/manual/layouts.html#Parentheses
 http://logback.qos.ch/manual/layouts.html#coloring
+
+
+<configuration debug="true" scan="true" scanPeriod="30 seconds">
+    ...
+</configuration>
+

@@ -6,7 +6,11 @@ aur
     python-pipenv
     python2-pipenv
 
+articles
 https://www.kennethreitz.org/essays/a-better-pip-workflow
+
+whatsnew
+https://github.com/pypa/pipenv/blob/master/HISTORY.txt
 
 pipenv
     --man
@@ -43,3 +47,18 @@ pipenv
 
 pipenvlib
 https://github.com/kennethreitz/pipenvlib
+
+files
+cache
+https://github.com/pypa/pipenv/issues/1528
+    --cache-dir=/var/cache/...
+    PIP_
+~/.cache/pip
+~/.cache/pipenv
+export PIP_CACHE_DIR=...
+
+conf
+https://pip.pypa.io/en/stable/user_guide/#configuration
+export PIP_CONFIG_FILE=/etc/pip.conf
+[global]
+cache-dir=/var/cache/pip
