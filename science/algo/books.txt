@@ -5,3 +5,5 @@ Shen - Programmings - Theorems and Problems ru
 
 2014
 Dasgupta - Algorithms ru
+Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
+https://logic.pdmi.ras.ru/~kulikov/sites/default/files/algorithms_href.pdf

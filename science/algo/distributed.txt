@@ -16,6 +16,11 @@ https://www.infoq.com/presentations/microservices-principles-2017
 https://jpoint.ru/talks/crdt-conflict-free-synchronization-in-distributed-systems/
 https://assets.contentful.com/oxjq45e8ilak/bpJiv5zh16ek6OK22s6wu/371941ccbf133048ec11b9a996edd8b2/Andrey_Ershov._Resolve_conflicts_better__than_Cassandra.pdf
 
+lections
+http://mk.cs.msu.ru/index.php/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B
+Kosyakov
+https://books.ifmo.ru/file/pdf/1551.pdf
+
 blogs:
 aphyr-jepsen:
 https://aphyr.com/posts/333-serializability-linearizability-and-locality
