@@ -2,6 +2,7 @@ Books:
 https://landing.google.com/sre/book/index.html
 Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
 Fokkink - Distributed Algorithms - Intuitive Approach
+https://www.piter.com/product/raspredelennye-algoritmy-intuitivnyy-podhod
 Burns - Designing Distributed Systems
 https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/
 https://github.com/brendandburns/designing-distributed-systems
