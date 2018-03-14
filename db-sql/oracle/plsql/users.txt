@@ -1,8 +1,5 @@
-select
-    *, username
-from
-    dba_users
-    all_users;
+select username from all_users;
+select username from dba_users;
 
 function sp_grant_privileges
 
@@ -19,4 +16,6 @@ https://chartio.com/resources/tutorials/how-to-create-a-user-and-grant-permissio
 https://docs.oracle.com/cd/B28359_01/server.111/b28286/statements_9013.htm#SQLRF01603
 
 ?
+
+grant execute on sys.dbms_crypto to SYSTEM with grant option;
 grant execute on sys.dbms_crypto to lin_ss;

@@ -1,4 +1,6 @@
 2018
+https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
+
 https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
     https://habrahabr.ru/post/350018/
 http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
@@ -11,3 +13,6 @@ https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembl
 2017
 https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
 https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/
+
+wasm-bindgen
+https://github.com/alexcrichton/wasm-bindgen

@@ -1,0 +1,7 @@
+Iterator Traits (7.5), traits, std::iterator<>
+
+http://en.cppreference.com/w/cpp/iterator
+
+2018
+https://github.com/codereport/Cplusplus/blob/master/Iterators.cpp
+https://www.youtube.com/watch?v=yTi46Pb32qg
