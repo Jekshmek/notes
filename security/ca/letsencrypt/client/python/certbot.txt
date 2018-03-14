@@ -3,6 +3,9 @@ https://certbot.eff.org/docs/using.html
 
 inst:
 https://certbot.eff.org/#arch-other
+https://certbot.eff.org/lets-encrypt/arch-other
+aur
+    certbot
 
 docker:
 https://hub.docker.com/r/certbot/certbot/

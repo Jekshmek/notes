@@ -112,6 +112,7 @@ ussrsssr
 historu
 phistory
 pool_of_memory
+secrets_of_war
 
 travel
 beutifulrus

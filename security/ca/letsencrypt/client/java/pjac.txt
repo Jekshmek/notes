@@ -1,4 +1,3 @@
-PJAC:
 https://github.com/porunov/acme_client
 https://github.com/porunov/acme_client/releases/
 https://github.com/porunov/acme_client/wiki
@@ -15,17 +14,3 @@ https://superuser.com/questions/947061/openssl-unable-to-find-distinguished-name
 The account_key is used to sign the ACME requests and
     it must not be the same as the private key for the requested cert;
 this is enforced by the ACME server
-
-
-old:
-https://github.com/zero11it/acme-client
-
-libraries:
-
-https://shredzone.org/maven/acme4j/
-https://github.com/shred/acme4j
-    CHALLENGE_TYPE - HTTP (Challenge)
-
-org.shredzone.acme4j.ClientTest
-
-https://github.com/shred/acme4j/blob/master/acme4j-example/src/main/java/org/shredzone/acme4j/ClientTest.java
