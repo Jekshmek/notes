@@ -1,0 +1,22 @@
+select
+    *, username
+from
+    dba_users
+    all_users;
+
+function sp_grant_privileges
+
+grant_system_privilages_template
+
+check
+-- the v$pwfile_users view contains a list of all users who have been granted the SYSDBA or SYSOPER privilege.
+select * from v$pwfile_users;
+-- dba-users
+select * from dba_role_privs where granted_role='DBA'; 
+
+grant
+https://chartio.com/resources/tutorials/how-to-create-a-user-and-grant-permissions-in-oracle/
+https://docs.oracle.com/cd/B28359_01/server.111/b28286/statements_9013.htm#SQLRF01603
+
+?
+grant execute on sys.dbms_crypto to lin_ss;

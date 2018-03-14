@@ -52,8 +52,10 @@ desc[ribe]
 info[rmation]
     [schema.]<table|view|seq|code-obj>
     info+ - statistics
-show
+sho[w]
     all[+]
+    err[ors]
+    user
     sqlpath|cd
     java|jdbc
     release|version
@@ -64,6 +66,10 @@ show
     history
     autocommit|exitcommit
     autoprint|autotrace
+    parameter
+        java_pool_size|shared_pool_size
+        java_jit
+            alter system set java_jit_enabled=false;
 
 set
     sqlformat <default|ansiconsole|loader|fixed|insert|csv|html|json>
@@ -72,6 +78,12 @@ set
         blacklist: show,history,connect,set
     clear bottom
     <term|feedback|serveroutput> on|off
+    -- to remove a header
+    head off
+    und off
+    -- ???
+    pages 0; 
+    feedback off;
 
 col[umn]
     <name> format
@@ -105,4 +117,11 @@ keys
         clear screen
 
 script
-   https://github.com/oracle/oracle-db-tools/blob/master/sqlcl/examples/
+    https://github.com/oracle/oracle-db-tools/blob/master/sqlcl/examples/
+
+login
+    https://community.oracle.com/thread/3925910
+    login.sql
+
+files
+    .sqlcl/
