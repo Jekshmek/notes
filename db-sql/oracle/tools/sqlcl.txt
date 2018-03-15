@@ -61,7 +61,7 @@ sho[w]
     release|version
     connection|user|tns
     encoding|encodings
-    sqlformat|long|longchunksize|linesize|pagesize|newpage|headsep|heading|concat|colsep
+    sqlformat|long|longchunksize|linesize|pagesize|newpage|headsep|heading|concat|colsep|wrap
     serveroutput
     history
     autocommit|exitcommit
@@ -73,7 +73,7 @@ sho[w]
 
 set
     sqlformat <default|ansiconsole|loader|fixed|insert|csv|html|json>
-    sqlprompt
+    sqlp[rompt]
     nohistory
         blacklist: show,history,connect,set
     clear bottom

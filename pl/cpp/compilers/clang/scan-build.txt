@@ -95,3 +95,15 @@ sub RunBuildCommand {
     '-o' '/tmp/scan-build-2017-06-30-144501-1548-1'
     '-x' 'c++'
     'src/main/cpp/lm/model.cc'
+
+samples
+https://github.com/nlohmann/json/blob/develop/Makefile
+
+-enable-checker
+    alpha.core.DynamicTypeChecker,alpha.core.PointerArithm,
+    alpha.core.PointerSub,alpha.cplusplus.DeleteWithNonVirtualDtor,
+    alpha.cplusplus.IteratorRange,alpha.cplusplus.MisusedMovedObject,
+    alpha.security.ArrayBoundV2,alpha.core.Conversion
+--use-c++=/Users/niels/Documents/projects/llvm-clang/local/bin/clang++
+--view -analyze-headers
+-o clang_analyze_build/report.html <build-cmd like: make -j10 -C clang_analyze_build>
