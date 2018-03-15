@@ -1,3 +1,7 @@
+2018
+Cheney - High Performance Go
+https://www.infoq.com/presentations/go-programming-language
+
 2017
 The Why of Go
 https://www.infoq.com/presentations/go-concurrency-gc
