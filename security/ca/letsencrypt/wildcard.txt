@@ -1,6 +1,7 @@
 https://en.wikipedia.org/wiki/Wildcard_certificate
 
 2018
+https://habrahabr.ru/post/351252/
 https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579
 https://community.letsencrypt.org/t/acme-v2-production-environment-wildcards/55578
 https://community.letsencrypt.org/t/staging-endpoint-for-acme-v2/49605
