@@ -45,3 +45,5 @@ Zhakod, Shiryaev - Predelnye teoremy
 2006
 Volodin Tihonov Turilova - Math fundamentals of probability
 http://kpfu.ru/docs/F1662245716/MOV.pdf
+
+Ventsel - Probability Excercises ru
