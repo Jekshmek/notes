@@ -1,3 +1,6 @@
 https://internals.rust-lang.org/t/lang-team-minutes-const-generics/5090
 https://www.reddit.com/r/rust/comments/65etpm/langteamminutes_const_generics/
 http://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/
+
+2018
+https://shingtaklam1324.github.io/number-theory-rust/

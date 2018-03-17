@@ -5,3 +5,15 @@ https://github.com/vibe-d/vibe-core
 https://vibed.org/docs
 
 https://github.com/vibe-d/vibe.d/wiki
+
+books
+2016
+Nacke - D Web Development
+
+
+usage
+dependency "vibe-d:http" version="~>0.8.3"
+
+http.client
+http://vibed.org/api/vibe.http.client/
+http://vibed.org/api/vibe.http.client/requestHTTP

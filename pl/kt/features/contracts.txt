@@ -1,0 +1,2 @@
+2018
+https://www.bignerdranch.com/blog/write-better-code-using-kotlins-require-check-and-assert/

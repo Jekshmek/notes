@@ -2,6 +2,8 @@
 CMU - Neural Nets for NLP
 http://phontron.com/class/
 http://phontron.com/class/nn4nlp2018/
+https://github.com/neubig/nn4nlp-code
+https://github.com/neubig/nn4nlp-code/tree/master/data
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE
 
 2017

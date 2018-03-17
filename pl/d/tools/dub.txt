@@ -1,0 +1,31 @@
+https://github.com/dlang/dub
+https://github.com/dlang/dub-registry
+
+community
+    dub
+
+usage
+https://code.dlang.org/docs/commandline
+https://code.dlang.org/advanced_usage
+
+wiki
+https://github.com/dlang/dub/wiki/DEP1
+
+sdl
+https://code.dlang.org/package-format?lang=sdl
+
+files
+/var/lib/dub/packages/
+    local-packages.json
+~/.dub/packages/
+    local-packages.json
+
+samples
+dependency "entity" version="~>1.2.1"
+
+issues
+rdmd usage
+https://github.com/dlang/dub/issues/529
+
+dub
+    init <prj-name> -t vibe.d|...

@@ -13,6 +13,8 @@ https://killercup.github.io/trpl-ebook/
 
 https://users.rust-lang.org/t/the-bookshelf-is-largely-implemented-please-check-out-the-new-docs/9715
 
+https://github.com/ruRust/rust_book_2ed/tree/ru_version/second-edition/src
+
 Nomicon:
 https://doc.rust-lang.org/nomicon/
 https://github.com/rust-lang-nursery/nomicon

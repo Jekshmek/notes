@@ -1,4 +1,8 @@
-2017:
+2018
+Massidda - Deep Learning for NLP: a paradigm shift in word counting
+https://www.youtube.com/watch?v=efaDKT4_IKY
+
+2017
 Burtsev
 https://vk.com/doc4004138_453721152
 Nikolenko - DeepLearning for NLP

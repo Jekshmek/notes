@@ -14,3 +14,6 @@ https://www.slideshare.net/BLStream/kotlin-spek-and-tests
 
 issues:
 https://github.com/JetBrains/spek/issues/195
+
+extenstions
+https://github.com/rozkminiacz/SpekBddDsl

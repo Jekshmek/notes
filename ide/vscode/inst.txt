@@ -1,3 +1,6 @@
 https://code.visualstudio.com/docs/setup/windows
 https://code.visualstudio.com/docs/?dv=win
 https://code.visualstudio.com/docs/?dv=winzip
+
+aur
+    code
