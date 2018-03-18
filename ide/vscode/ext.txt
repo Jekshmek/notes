@@ -12,6 +12,14 @@ https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 https://blogs.msdn.microsoft.com/vcblog/2017/04/25/visual-studio-code-cc-extension-april-2017-update/
 https://blogs.msdn.microsoft.com/vcblog/2017/05/19/visual-studio-code-cc-extension-may-2017-update/
 
+d
+https://github.com/Pure-D/code-d
+https://github.com/Pure-D/workspace-d
+    https://dlang.org/blog/2017/03/31/project-highlight-workspace-d/
+https://github.com/dlang-community/DCD
+https://github.com/dlang-community/dfmt
+https://github.com/dlang-community/D-Scanner
+
 python
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 https://github.com/Microsoft/vscode-python
