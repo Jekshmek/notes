@@ -1,0 +1,3 @@
+2018
+Sequence to Sequence models: Attention Models
+https://www.youtube.com/watch?v=oiNFCbD_4Tk
