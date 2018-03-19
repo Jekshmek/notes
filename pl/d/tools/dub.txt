@@ -29,3 +29,5 @@ https://github.com/dlang/dub/issues/529
 
 dub
     init <prj-name> -t vibe.d|...
+    upgrade
+        upgrade dependent libs

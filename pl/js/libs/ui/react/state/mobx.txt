@@ -9,10 +9,10 @@ https://github.com/markerikson/react-redux-links/blob/master/mobx-tutorials.md
 https://mobx.js.org/getting-started.html
 https://www.robinwieruch.de/mobx-react/
 
-api:
+api
 https://mobx.js.org/refguide/api.html
 
-articles:
+articles
 https://habrahabr.ru/post/341564/
 https://habrahabr.ru/post/340592/
 https://habrahabr.ru/company/yandex/blog/339054/
@@ -24,8 +24,9 @@ https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-
 https://hashnode.com/post/redux-vs-mobx-by-example-part-i-intro-and-exploring-redux-cito5m0nn0sssxi53c7zq7jpr
 https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228
 
-presentations:
+presentations
 http://slides.com/mattruby/deck#/
 
-whats new:
+whats new
+https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da
 https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443
