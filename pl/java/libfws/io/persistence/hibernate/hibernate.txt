@@ -1,3 +1,12 @@
+reference
+https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/
+https://docs.jboss.org/hibernate/orm/3.3/reference/en/html_single/
+
+interceptor
+http://www.baeldung.com/hibernate-interceptor
+https://www.mkyong.com/hibernate/hibernate-interceptor-example-audit-log/
+
+native sql
 https://docs.jboss.org/hibernate/orm/3.3/reference/en/html/querysql.html#querysql-namedqueries
 http://www.mkyong.com/hibernate/hibernate-named-query-examples/
 https://www.tutorialspoint.com/hibernate/hibernate_native_sql.htm
