@@ -1,4 +1,5 @@
 2018
+https://medium.com/@mjadams66/compiling-rust-to-wasm-and-serving-it-ecece5026138
 https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
 
 https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html

@@ -1,10 +1,18 @@
-2017:
+2018
+https://medium.com/@siefert.david/tl-dr-rust-modules-8e5d186a9188
+
+2017
 https://dev.to/hertz4/rust-module-essentials-12oi
 https://medium.com/@tak2siva/rust-modules-explained-96809931bbbf
     https://github.com/tak2siva/rust_module_example
 https://medium.com/journey-to-rust/modules-220f7657b806
 
-books:
+books
 https://rustbyexample.com/mod/split.html
 
 https://internals.rust-lang.org/t/revisiting-rust-s-modules-part-2/5700
+
+If a module named foo has no submodules, you should put the declarations for foo in a file named
+    foo.rs.
+If a module named foo does have submodules, you should put the declarations for foo in a file named
+    foo/mod.rs.
