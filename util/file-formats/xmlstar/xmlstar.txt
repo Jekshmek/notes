@@ -1,3 +1,15 @@
+community
+    xmlstarlet
+
+content
+/usr/bin/xml
+/usr/bin/xmlstarlet
+/usr/share/doc/xmlstarlet/xmlstarlet-ug.html
+/usr/share/doc/xmlstarlet/xmlstarlet-ug.pdf
+/usr/share/doc/xmlstarlet/xmlstarlet-ug.ps
+/usr/share/doc/xmlstarlet/xmlstarlet.txt
++ man
+
 xml <
     fo
         format
