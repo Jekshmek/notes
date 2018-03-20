@@ -2,3 +2,6 @@ http://goalkicker.com/CPlusPlusBook/
 
 ds
 Weiss - Data Structures and Algorithms in Cpp 4th ed
+
+2018
+Gregorie - Professional Cpp 4th ed

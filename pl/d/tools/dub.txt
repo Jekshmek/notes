@@ -9,10 +9,16 @@ https://code.dlang.org/docs/commandline
 https://code.dlang.org/advanced_usage
 
 wiki
+https://github.com/dlang/dub/wiki
+https://github.com/dlang/dub/wiki/Version-management
+https://github.com/dlang/dub/wiki/Cookbook
 https://github.com/dlang/dub/wiki/DEP1
 
 sdl
 https://code.dlang.org/package-format?lang=sdl
+
+src
+https://github.com/dlang/dub/blob/master/source/dub/commandline.d
 
 files
 /var/lib/dub/packages/
@@ -31,3 +37,13 @@ dub
     init <prj-name> -t vibe.d|...
     upgrade
         upgrade dependent libs
+    run <dub args> -- <app args>
+    list 
+        list all known local dependencies
+        [--bare]
+            just in a current dir
+    describe [package]
+        JSON build description for the root package an all of their dependencies
+    build
+        -c <cfg-name>
+            build a cfg-name
