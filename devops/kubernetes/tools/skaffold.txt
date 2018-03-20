@@ -1,0 +1,4 @@
+https://github.com/GoogleCloudPlatform/skaffold
+https://www.infoq.com/news/2018/03/skaffold-kubernetes
+
+https://github.com/GoogleCloudPlatform/skaffold/tree/master/docs

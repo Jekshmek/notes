@@ -4,3 +4,6 @@ http://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/
 
 2018
 https://shingtaklam1324.github.io/number-theory-rust/
+function overloading
+http://casualhacks.net/blog/2018-03-10/exploring-function-overloading/
+    https://habrahabr.ru/post/351570/
