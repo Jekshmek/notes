@@ -17,6 +17,7 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
+Bykov - Lomonosov                                   -   14:00 (of 1:20:58)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -25,7 +26,6 @@ Meijer - My Life as a Tech Transfer Monad           -   56:00 (of 1:01:06)
   https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
-Bykov - Bazhov                                      - 1:15:00 (of 1:24:55)
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
