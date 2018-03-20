@@ -1,3 +1,7 @@
+https://medium.com/@the.raj.saxena/springboot-2-performance-servlet-stack-vs-webflux-reactive-stack-528ad5e9dadc
+https://vladmihalcea.com/database-specific-hibernate-features-portability/
+https://blog.frankel.ch/programming-by-contract-jvm/
+
 URLs:
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#format-Formatter-SPI
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
