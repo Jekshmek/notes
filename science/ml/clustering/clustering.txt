@@ -2,6 +2,8 @@ http://scikit-learn.org/stable/modules/clustering.html
 
 2018
 http://stackabuse.com/k-means-clustering-with-scikit-learn/
+Simplelearn - K Means Clustering
+https://www.youtube.com/watch?v=Xvwt7y2jf5E
 
 KNN Vorontsov
 LOO (leave-one-out) - skolzyschi kontrol

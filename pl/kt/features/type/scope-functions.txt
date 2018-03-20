@@ -1,0 +1,2 @@
+2018
+https://blog.simon-wirtz.de/coping-with-kotlins-scope-functions/

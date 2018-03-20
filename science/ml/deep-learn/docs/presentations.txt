@@ -2,6 +2,8 @@
 Goldsborough - Deep Learing with C++
 https://github.com/peter-can-talk/meeting-cpp-2017
 https://www.youtube.com/watch?v=8GoYXWOq55A
+ACADGILD - Deep Learning for Data Science Part 1
+https://www.youtube.com/watch?v=DTZ1PMBzv4U
 
 2017
 Oseledets - Tensors and DL

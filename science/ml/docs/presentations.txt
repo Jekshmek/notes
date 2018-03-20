@@ -1,4 +1,8 @@
-2017:
+2018
+Simplelearn - Machine Learning Tutorial Videos
+https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
+
+2017
 Podpolyaka - ML 101 ru
 https://www.youtube.com/watch?v=RtgpPMZu_TY
 Nvidia - How to become a Data Scientist
