@@ -7,7 +7,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Mar 19
+  Mar 21
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -21,13 +21,11 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
-Bykov - Lomonosov                                   -   14:00 (of 1:20:58)
+Bykov - Lomonosov                                   -   40:00 (of 1:20:58)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Meijer - My Life as a Tech Transfer Monad           -   56:00 (of 1:01:06)
-  https://www.youtube.com/watch?v=NKeHrApPWlo
 
 Lit:
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
@@ -44,7 +42,7 @@ Paschenko 6.3                                       -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 9                                          -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 19                                      -   00:00 (of)
+Sorokin - B 19                                      -   00:00 (of   47:57)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
@@ -58,6 +56,7 @@ https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poe
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
+https://predanie.ru/somov-aleksey-borisovich/bibliya-v-pervye-veka-apokaliptika-i-formirovanie-kanona/slushat/
 
 Tracking:
 Razbor Poletov                                      - 155 00:00 (of 1:07:27)

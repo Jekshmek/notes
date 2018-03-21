@@ -1,0 +1,2 @@
+2018
+https://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-63-CPP-Build-Tools

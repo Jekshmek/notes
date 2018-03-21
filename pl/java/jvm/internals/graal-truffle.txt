@@ -1,19 +1,27 @@
-src:
+http://openjdk.java.net/projects/graal/
+
+-XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler
+
+src
+https://github.com/oracle/graal
+https://github.com/graalvm/mx
 https://github.com/graalvm/graal-core
 https://github.com/graalvm/truffle
 
-dynamic-runtime-for-llvm:
+dynamic-runtime-for-llvm
 https://github.com/graalvm/sulong/
 
-docs:
+docs
 https://wiki.openjdk.java.net/display/Graal/Publications+and+Presentations
 https://github.com/graalvm/graal-core/blob/master/docs/Publications.md
 http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html
 
-articles:
+articles
+https://habrahabr.ru/company/billing/blog/351682/
 https://habrahabr.ru/post/319424/
 
-presentations:
+presentations
+https://downloads.ctfassets.net/oxjq45e8ilak/1r4i54cCKIicQckSGUCWu2/24589d235f05db55cd3532fa64886ed5/Chris_Thalinger_Graal_-_How_to_use_the_new_JVM_JIT_compiler_in_real_life__1_.pdf
 https://www.youtube.com/watch?v=FJY96_6Y3a4
 
 tools-ideal-graph-visualiser:
