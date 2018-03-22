@@ -5,17 +5,21 @@ https://docs.bazel.build/versions/master/bazel-overview.html
 
 https://github.com/jin/awesome-bazel
 
-presentations:
-2016:
+presentations
+2016
 Building Software at Google Scale - Bazel
 https://www.youtube.com/watch?v=V06M4ilvZrs
 https://www.youtube.com/watch?v=6GCDfoAOKIY
-2012:
+2012
 Building Software at Google Scale Tech Talk
 https://www.youtube.com/watch?v=2qv3fcXW1mg
 
-dependency-management:
+dependency-management
 https://blog.envoyproxy.io/external-c-dependency-management-in-bazel-dd37477422f5
 
+rust
 https://crates.io/crates/bazeld
 https://github.com/SecurityInsanity/bazled
+
+dlang
+https://github.com/bazelbuild/rules_d
