@@ -17,7 +17,8 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
-Bykov - Lomonosov                                   - 1:00:00 (of 1:20:58)
+Bykov - Lomonosov                                   - 1:15:00 (of 1:20:58)
+  ? Andrei Knyshev
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -45,8 +46,6 @@ Sorokin - B 19                                      -   00:00 (of   47:57)
 Chernyak - 10 of 34                                 - 1:02:00 (of 1:40:52)
     https://www.youtube.com/watch?v=zlKNr-zPusQ
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Dyagilev                                            - 1:00:00 (of 1:57:26)
-    https://predanie.ru/dyagilev-aleksandr-protoierey/kak-iisus-mog-gnevat-sja-no-ne-sogreshat/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -67,7 +66,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books:
-NikolenkoKadurin - DeepLearning ru                  - 124..137..177..232..278..331..373..410..451
+NikolenkoKadurin - DeepLearning ru                  - 126..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
