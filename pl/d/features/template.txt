@@ -1,1 +1,2 @@
+https://dlang.org/articles/templates-revisited.html
 https://github.com/PhilippeSigaud/D-templates-tutorial
