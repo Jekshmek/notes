@@ -3,7 +3,7 @@ https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Mar 21
+  Mar 22
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -45,6 +45,8 @@ Sorokin - B 19                                      -   00:00 (of   47:57)
 Chernyak - 10 of 34                                 - 1:02:00 (of 1:40:52)
     https://www.youtube.com/watch?v=zlKNr-zPusQ
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+Dyagilev                                            - 1:00:00 (of 1:57:26)
+    https://predanie.ru/dyagilev-aleksandr-protoierey/kak-iisus-mog-gnevat-sja-no-ne-sogreshat/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/

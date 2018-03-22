@@ -1,0 +1,3 @@
+Rose, Goetz - Minimal Value Types
+http://cr.openjdk.java.net/~jrose/values/shady-values.html
+https://habrahabr.ru/company/jugru/blog/336378/
