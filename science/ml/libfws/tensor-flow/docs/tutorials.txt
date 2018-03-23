@@ -1,1 +1,4 @@
 https://github.com/vahidk/EffectiveTensorflow
+
+Martin - TensorFlow Tutorial by Sentdex
+https://www.youtube.com/playlist?list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP
