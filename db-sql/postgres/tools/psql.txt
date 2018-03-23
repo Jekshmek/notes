@@ -2,12 +2,14 @@ https://www.postgresql.org/docs/current/static/app-psql.html
 
 /var/lib/postgres/.psql_history
 
+export PGPASSWORD='bla-bla'
+
 cmd-line options:
     -h <dbhost>
         connect to <dbhost> host
 !!! -d <dbname>
         connect to <dbname> DB
-    -U <dbuser>
+    -U, --username <dbuser>
         connect by <dbuser> user
     -L filename
     --log-file=filename
@@ -105,6 +107,7 @@ help:
 
 
 search_path:
+set search_path to win_ss ;
 set search_path to 'win_ss' ;
 
 client_encoding:

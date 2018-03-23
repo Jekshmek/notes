@@ -15,33 +15,34 @@ http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html
     https://habrahabr.ru/post/350956/
 https://www.reddit.com/r/rust/comments/81we47/serializing_awkward_data_with_serde/
 
-docs:
+docs
 https://serde.rs/attributes.html#field-attributes
 
 https://github.com/dtolnay/erased-serde
 https://www.reddit.com/r/rust/comments/6pgyy1/serde_trait_objects_work_again/
 
-recursive:
+recursive
 https://www.reddit.com/r/rust/comments/74bkz5/serde_question_about_serializing_recursively/
 
-zero-copy:
+zero-copy
 https://users.rust-lang.org/t/serde-and-serde-json-1-0-0-released/10466
 https://www.reddit.com/r/rust/comments/6albr0/serde_compared_to_the_fastest_c_json_library/
 
-issues:
-https://www.reddit.com/r/rust/comments/5u1q5e/incompatibility_between_serde_derive_and_rustc/
+flatten
+https://serde.rs/attr-flatten.html
 
-lifetimes:
+lifetimes
 https://serde.rs/lifetimes.html
 
-unit-testing:
+unit-testing
 https://serde.rs/unit-testing.html
 https://docs.serde.rs/serde_test/
 
-json-to-serde:
+json-to-serde
 https://transform.now.sh/json-to-rust-serde
 http://vestera.as/json_typegen/
 
-issues:
+issues
+https://www.reddit.com/r/rust/comments/5u1q5e/incompatibility_between_serde_derive_and_rustc/
 https://www.reddit.com/r/rust/comments/6o1p46/serde_state_stateful_serde_deserialization/
 https://github.com/serde-rs/serde/issues/194
