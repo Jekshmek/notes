@@ -4,4 +4,5 @@ ds
 Weiss - Data Structures and Algorithms in Cpp 4th ed
 
 2018
+Horton - Beginning Cpp17 5th ed
 Gregorie - Professional Cpp 4th ed
