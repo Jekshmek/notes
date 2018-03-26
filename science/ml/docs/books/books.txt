@@ -11,6 +11,7 @@ https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
 
 2018
+Albon - Machine Learning with Python Cookbook
 Kruk - Practical Python AI Projects
 
 2017

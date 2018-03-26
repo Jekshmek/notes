@@ -233,6 +233,9 @@ http://www.haskellforall.com/2017/10/why-do-our-programs-need-to-read-input.html
 dhall-semver:
 http://www.haskellforall.com/2017/11/semantic-integrity-checks-are-next.html
 
+dhall-to-cabal
+https://hackage.haskell.org/package/dhall-to-cabal
+
 nix-diff:
 https://hackage.haskell.org/package/nix-diff
 https://github.com/Gabriel439/nix-diff

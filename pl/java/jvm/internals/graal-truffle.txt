@@ -17,8 +17,12 @@ https://github.com/graalvm/graal-core/blob/master/docs/Publications.md
 http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html
 
 articles
+2018
+https://habrahabr.ru/post/351996/
 https://habrahabr.ru/company/billing/blog/351682/
-https://habrahabr.ru/post/319424/
+2017
+https://blog.plan99.net/graal-truffle-134d8f28fb69
+    https://habrahabr.ru/post/319424/
 
 presentations
 https://downloads.ctfassets.net/oxjq45e8ilak/1r4i54cCKIicQckSGUCWu2/24589d235f05db55cd3532fa64886ed5/Chris_Thalinger_Graal_-_How_to_use_the_new_JVM_JIT_compiler_in_real_life__1_.pdf
