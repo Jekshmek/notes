@@ -26,3 +26,10 @@ Float salary = (Float) company.getPropertyValue("managingDirector.salary");
 
 PropertyEditors (java.beans.PropertyEditor)
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-beans-conversion
+
+
+Spring Validation
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#validation-beanvalidation
+http://beanvalidation.org/
+http://beanvalidation.org/2.0/
+https://speakerdeck.com/gunnarmorling/keeping-your-data-sane-with-bean-validation-2-dot-3

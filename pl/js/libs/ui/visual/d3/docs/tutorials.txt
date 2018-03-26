@@ -1,0 +1,9 @@
+https://codeburst.io/getting-started-with-data-visualization-build-your-first-chart-with-d3-js-551563c3a310
+
+http://alignedleft.com/work/d3-book-2e
+http://alignedleft.com/tutorials/d3
+http://serganbus.github.io/d3tutorials/
+
+http://d3indepth.com/
+
+http://www.recursion.org/d3-for-mere-mortals/

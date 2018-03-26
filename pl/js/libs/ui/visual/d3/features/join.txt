@@ -1,0 +1,12 @@
+https://github.com/d3/d3-selection/blob/master/README.md#joining-data
+
+http://alignedleft.com/tutorials/d3/binding-data
+http://serganbus.github.io/d3tutorials/binding_data.html
+
+https://bost.ocks.org/mike/join/
+https://bl.ocks.org/mbostock/3808218
+
+states
+    enter
+    update
+    exit
