@@ -1,4 +1,6 @@
 2018
+Natekin - ML tutorial for NLP ru
+https://www.youtube.com/watch?v=Ozm0bEi5KaI
 Massidda - Deep Learning for NLP: a paradigm shift in word counting
 https://www.youtube.com/watch?v=efaDKT4_IKY
 
