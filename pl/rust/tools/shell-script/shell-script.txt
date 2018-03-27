@@ -72,3 +72,8 @@ https://github.com/redox-os/coreutils/blob/master/src/bin/tee.rs
 https://github.com/sighol/tree-rs
 http://mattgathu.github.io/writing-cli-app-rust/
 https://matthias-endler.de/2018/ls/
+
+https://milancio42.github.io/blog/2018-03-22-rjoin/
+https://crates.io/crates/rjoin
+https://docs.rs/rjoin
+https://github.com/milancio42/rjoin

@@ -3,6 +3,8 @@ https://habrahabr.ru/post/324890/
 https://habrahabr.ru/company/ods/blog/322076/
 
 2018
+Linear Regression Analysis | Linear Regression in Python | Machine Learning Algorithms | Simplilearn
+https://www.youtube.com/watch?v=NUXdtN1W1FE
 https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
 https://habrahabr.ru/post/350668/
 https://machinelearningmastery.com/solve-linear-regression-using-linear-algebra/

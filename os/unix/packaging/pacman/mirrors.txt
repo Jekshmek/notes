@@ -3,6 +3,8 @@ pacman -Ss pacman-mirrorlist
 pacman-mirrors -g -b stable
 pacman-mirrors -g -b testing
 
+sudo pacman-mirrors -f 3
+
 configs
 /etc/pacman.d/mirrors
   country-based files with mirror lists
