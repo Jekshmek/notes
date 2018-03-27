@@ -5,6 +5,7 @@ https://github.com/emeeks/d3_in_action_2
 http://alignedleft.com/work/d3-book
 
 2013
+Teller - Data Visualization with D3
 Zhu - Data Visualization with D3 Cookbook
 
 3 big modules

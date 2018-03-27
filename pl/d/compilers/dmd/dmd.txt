@@ -1,0 +1,8 @@
+https://dlang.org/dmd-linux.html
+https://dlang.org/dmd-windows.html
+
+https://github.com/dlang/dmd
+
+https://dlang.org/download.html
+http://downloads.dlang.org/releases/2.x/
+http://downloads.dlang.org/releases/2.x/2.079.0/

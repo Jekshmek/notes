@@ -1,0 +1,20 @@
+http://brackets.io/
+https://github.com/adobe/brackets
+http://blog.brackets.io/
+
+aur
+    brackets
+        requires gcc5 and other stuff to build
+    brackets-bin
+        preferable
+
+https://aur.archlinux.org/packages/brackets-bin/?comments=all
+install: cannot stat '/tmp/yaourt-tmp-iharh/aur-brackets-bin/src/opt/brackets/chrome_sandbox': No such file or directory
+
+https://registry.brackets.io/
+https://github.com/adobe/brackets/wiki/Brackets-Extensions
+
+vim
+https://github.com/megalord/brackets-vim
+https://github.com/divsmith/nav-shortcuts
+https://github.com/daveosborne/brackets-vimderbar

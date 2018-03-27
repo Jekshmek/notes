@@ -1,6 +1,15 @@
 https://github.com/dlang/dub
 https://github.com/dlang/dub-registry
 
+http://code.dlang.org/download
+http://code.dlang.org/files/dub-1.8.0-setup.exe
+http://code.dlang.org/files/dub-1.8.0-windows-x86.zip
+https://chocolatey.org/packages/dub
+    pretty old 1.2.x
+
+https://code.dlang.org/packages/dubbio
+https://github.com/o3o/dubbio
+
 community
     dub
 
