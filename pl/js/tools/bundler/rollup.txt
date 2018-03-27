@@ -30,3 +30,13 @@ https://github.com/rollup/rollup-plugin-json
 d3
 https://github.com/rollup/d3-jsnext
 https://github.com/rollup/d3-jsnext/tree/master/examples
+
+plugins
+
+reload
+https://github.com/thgh/rollup-plugin-livereload
+https://www.npmjs.com/package/rollup-plugin-livereload
+https://www.npmjs.com/package/rollup-plugin-serve
+
+https://code.lengstorf.com/learn-rollup-css/
+https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eRM5oTjUdn2CQ7lPf-zmhVD
