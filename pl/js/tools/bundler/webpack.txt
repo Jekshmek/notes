@@ -26,6 +26,8 @@ loaders
     - return compilations
 plugins
 
+reload
+https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0
 HMR
 https://webpack.js.org/concepts/hot-module-replacement/
 
