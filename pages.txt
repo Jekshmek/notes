@@ -24,7 +24,7 @@ Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
-2018-03-23-odin-0005                                -   29:00 (of 1:46:18)
+2018-03-23-odin-0005                                - 1:13:00 (of 1:46:18)
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -37,7 +37,7 @@ Dlugach                                             -   05:00 (of 1:01:39)
 Ortho:
 Paschenko 6.4                                       -   00:00 (of   45:25)
     http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 9                                          -   00:00 (of)
+Ivliev - 10                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 19                                      -   00:00 (of   47:57)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -57,7 +57,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 
 Tracking:
-Razbor Poletov                                      - 155 00:00 (of 1:07:27)
+Razbor Poletov                                      - 156 55:00 (of 2:20:00)
 This week in rust                                   - 226
 http://accu.org/index.php/journals/c78/             - 140
 

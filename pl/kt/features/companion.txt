@@ -1,0 +1,2 @@
+2018
+https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725
