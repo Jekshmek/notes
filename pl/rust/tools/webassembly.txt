@@ -1,3 +1,9 @@
+https://github.com/raphamorim/wasm-and-rust
+https://www.hellorust.com/setup/wasm-target/
+
+rustup target add wasm32-unknown-unknown
+cargo build --target wasm32-unknown-unknown --release
+
 2018
 https://medium.com/@mjadams66/compiling-rust-to-wasm-and-serving-it-ecece5026138
 https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
@@ -15,5 +21,14 @@ https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembl
 https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
 https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/
 
+cargo-web
+https://crates.io/crates/cargo-web
+https://github.com/koute/cargo-web
+https://github.com/koute/cargo-web/issues/24
+https://github.com/TheMegaTB/cargo-web-loader
+
 wasm-bindgen
 https://github.com/alexcrichton/wasm-bindgen
+
+https://github.com/astraw/bui-backend
+https://github.com/astraw/bui-backend/tree/master/bui-demo
