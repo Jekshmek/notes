@@ -71,3 +71,38 @@ public class MyService {
 
 Custom Constraints
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#validation-beanvalidation-spring-constraints
+
+@Target({ElementType.METHOD, ElementType.FIELD})
+@Retention(RetentionPolicy.RUNTIME)
+@Constraint(validatedBy=MyConstraintValidator.class)
+public @interface MyConstraint {
+}
+
+import javax.validation.ConstraintValidator;
+
+public class MyConstraintValidator implements ConstraintValidator {
+    @Autowired;
+    private Foo aDependency;
+    ...
+}
+
+
+Configuring a DataBinder
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#validation-binder
+
+Foo target = new Foo();
+DataBinder binder = new DataBinder(target);
+binder.setValidator(new FooValidator());
+
+// bind to the target object
+binder.bind(propertyValues);
+
+// validate the target object
+binder.validate();
+
+// get BindingResult that includes any validation errors
+BindingResult results = binder.getBindingResult();
+
+A DataBinder can also be configured with multiple Validator instances via dataBinder.addValidators and dataBinder.replaceValidators
+
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config-validation
