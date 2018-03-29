@@ -11,59 +11,6 @@ http://doc.crates.io/manifest.html
 
 warning: be sure to add `$CARGO_HOME/.cargo/bin` to your PATH to be able to run the installed binaries
 
-cargo
-    --version [--verbose]
-    install
-        --list
-            list installed crates/packages
-        --git https://github.com/org/name
-        --vers ="^0.1.0"
-        -f <name>
-            update installed <name>
-    new <prj-name>
-        --bin
-    check
-        check without codegen (faster)
-    build
-        [-v] --verbose
-        --all
-        [--release]
-        --features 'simd-accel avx-accel'
-        --features="experimental"
-        --target x86_64-unknown-linux-musl
-    rustc
-        --release -- -C target-cpu=skylake
-    update
-        figure out all the latest versions and try to update (Cargo.lock)
-    install-update -a
-        https://www.reddit.com/r/rust/comments/5a21b8/cargoupdate_check_for_updates_to_your/
-    test [--no-build]
-    run
-    edit
-        https://github.com/killercup/cargo-edit
-        + add
-        + rm
-        + list --tree
-    search
-        https://github.com/Byron/crates-io-cli-rs
-        ?
-    doc
-        --open
-    deadlinks
-        to show dead links
-    test [test-name-or-substr]
-        --help
-        --test test-name-or-substr
-        --test-threads=1
-        --
-            options after -- go to the testing binary
-            --help
-            --nocapture
-                disable output capture behaviour (it's also usefull to set --test-threads to 1)
-            --ignored
-                test only ignored
-
-
 $CARGO_HOME/.cargo/
     bin/
     registry/

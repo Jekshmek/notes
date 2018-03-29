@@ -44,6 +44,7 @@ still need a lot of help:
 https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
 
 RBE:
+https://doc.rust-lang.org/rust-by-example/
 https://rustbyexample.com/
 
 api-guidelines

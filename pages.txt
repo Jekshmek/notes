@@ -17,14 +17,14 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
-Putin3                                              -   00:00
+Putin4                                              -   17:00 (of   48:24)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
-2018-03-23-odin-0005                                - 1:13:00 (of 1:46:18)
+2018-03-23-odin-0005                                - 1:38:00 (of 1:46:18)
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -39,12 +39,12 @@ Paschenko 6.4                                       -   00:00 (of   45:25)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 10                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 19                                      -   00:00 (of   47:57)
+Sorokin - B 21                                      -   00:00 (of   46:09)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 10 of 34                                 - 1:02:00 (of 1:40:52)
-    https://www.youtube.com/watch?v=zlKNr-zPusQ
+Chernyak - 11 of 34                                 -   45:00 (of 2:20:27)
+    https://www.youtube.com/watch?v=92vUaSIh9G4
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Somov                                               - 1:06:00 (of 2:16:53)
     https://predanie.ru/somov-aleksey-borisovich/bibliya-v-pervye-veka-apokaliptika-i-formirovanie-kanona/slushat/
@@ -52,12 +52,14 @@ https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichn
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
+https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
+https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 
 Tracking:
-Razbor Poletov                                      - 156 55:00 (of 2:20:00)
+Razbor Poletov                                      - 156 1:19:00 (of 2:20:00)
 This week in rust                                   - 226
 http://accu.org/index.php/journals/c78/             - 140
 
