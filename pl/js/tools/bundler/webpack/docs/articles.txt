@@ -1,0 +1,10 @@
+https://proglib.io/p/webpack-in-15/
+https://habrahabr.ru/post/339590/
+http://tutorialzine.com/2017/04/learn-webpack-in-15-minutes/
+https://www.keycdn.com/blog/webpack/
+https://medium.com/webpack
+https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923
+https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783
+2016
+https://habrahabr.ru/post/309306/
+https://github.com/shekhargulati/52-technologies-in-2016/blob/master/36-webpack/README.md

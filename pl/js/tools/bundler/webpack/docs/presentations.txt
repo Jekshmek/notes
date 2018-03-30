@@ -1,0 +1,14 @@
+https://www.infoq.com/presentations/4-concepts-webpack
+https://www.slideshare.net/denisizmaylov/webpack-7
+Kantor - webpack screencast
+http://learn.javascript.ru/screencast/webpack
+https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn
+https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
+2018
+Webpack tutorial for beginners
+https://www.youtube.com/watch?v=-pGbS2YpGPA
+Webpack 4: Beyond the Basics (wp 2-3)
+https://www.youtube.com/watch?v=Mct6KwWpJ7c
+2017
+Ivanov - WebPack bundle internals ru
+https://www.youtube.com/watch?v=jE1ibm037Fo

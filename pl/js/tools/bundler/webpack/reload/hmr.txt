@@ -1,0 +1,8 @@
+https://webpack.js.org/concepts/hot-module-replacement/
+https://webpack.js.org/guides/hot-module-replacement/
+
+2015
+https://www.javascriptstuff.com/webpack-hmr-tutorial/
+https://www.javascriptstuff.com/understanding-hmr/
+https://www.youtube.com/watch?v=o0NJQYWR7BI
+https://www.youtube.com/watch?v=EQhXtTOxpVk
