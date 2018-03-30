@@ -1,4 +1,8 @@
 2018
+Kentar - Dive into New Deep Learning Models for Natural Language Processing
+https://www.youtube.com/watch?v=VGmqv9uNbH0
+Kentar - Dive into New Deep Learning Models for Natural Language Processing 
+https://www.youtube.com/watch?v=WajhYSK9uVM
 Natekin - ML tutorial for NLP ru
 https://www.youtube.com/watch?v=Ozm0bEi5KaI
 Massidda - Deep Learning for NLP: a paradigm shift in word counting

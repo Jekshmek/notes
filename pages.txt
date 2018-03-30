@@ -1,9 +1,9 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-evaluation-context
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Mar 29
+  Mar 30
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/

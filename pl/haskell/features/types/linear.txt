@@ -1,0 +1,2 @@
+2018
+https://www.microsoft.com/en-us/research/publication/linear-haskell-practical-linearity-higher-order-polymorphic-language/
