@@ -5,4 +5,16 @@ aur
     https://aur.archlinux.org/packages/nvm/
 
 nmv
-    install node
+    install
+        [--lts|stable|node]
+            install lts|stable|latest
+        !!! creating alias default !!!
+    use
+        default
+            aliased to default
+        v9.10.1 
+            select specified version
+    deactivate
+        deactivate current selection
+    alias
+        list aliases
