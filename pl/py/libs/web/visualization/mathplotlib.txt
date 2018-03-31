@@ -4,7 +4,13 @@ https://github.com/matplotlib/matplotlib
 
 https://matplotlib.org/gallery.html
 
+articles
+2018
+https://realpython.com/python-matplotlib-guide/
+    https://python-scripts.com/matplotlib
+
 tutorials
+https://matplotlib.org/tutorials/index.html
 https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
 
 cheatsheet

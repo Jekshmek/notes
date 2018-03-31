@@ -1,4 +1,6 @@
 2018
+Raznikov - How machine reads and generates text
+https://www.youtube.com/watch?v=YMbbD__gMaI
 Kentar - Dive into New Deep Learning Models for Natural Language Processing
 https://www.youtube.com/watch?v=VGmqv9uNbH0
 Kentar - Dive into New Deep Learning Models for Natural Language Processing 
