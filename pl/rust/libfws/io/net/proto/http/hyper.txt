@@ -1,4 +1,11 @@
-async:
+https://hyper.rs/
+https://crates.io/crates/hyper
+https://docs.rs/hyper
+https://github.com/hyperium/hyper
+
+https://hyper.rs/guides/
+
+async
 https://mgattozzi.com/hyper-async
 https://www.reddit.com/r/rust/comments/5qewfu/building_an_asynchronous_hyper_server/
 https://github.com/mgattozzi/mgattozzi/blob/master/src/client/app/posts/hyper-async.md
