@@ -17,15 +17,14 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
-Putin4                                              -   21:00 (of   48:24)
+Putin6                                              -   18:00 (of   48:51)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
-2018-03-30-odin-0005                                -   40:00 (of 1:45:39)
-2018-03-23-odin-0005                                - 1:38:00 (of 1:46:18)
+2018-03-30-odin-0005                                - 1:06:00 (of 1:45:39)
 Malishevsky - Bunin - Mitya Lov                     -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -44,7 +43,7 @@ Sorokin - B 21                                      -   00:00 (of   46:09)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 11 of 34                                 - 1:13:00 (of 2:20:27)
+Chernyak - 11 of 34                                 - 1:45:00 (of 2:20:27)
     https://www.youtube.com/watch?v=92vUaSIh9G4
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Somov                                               - 1:06:00 (of 2:16:53)
@@ -60,7 +59,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 
 Tracking:
-Razbor Poletov                                      - 156 1:19:00 (of 2:20:00)
+Razbor Poletov                                      - 156 1:51:00 (of 2:20:00)
 This week in rust                                   - 226
 http://accu.org/index.php/journals/c78/             - 140
 
