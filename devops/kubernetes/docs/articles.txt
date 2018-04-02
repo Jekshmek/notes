@@ -1,4 +1,5 @@
 2018
+https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes
 https://www.ibm.com/developerworks/cloud/library/cl-getting-started-docker-and-kubernetes/index.html
 2017
 https://stripe.com/blog/operating-kubernetes

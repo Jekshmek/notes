@@ -1,7 +1,15 @@
 npm
+    init
+        [-y]
     i[nstall]
+        <package>[@ver]
+                dev-mode
+            [--save]
+            [--save-dev] [--save -D]
+
     run
         build[:dev]
+        runs a script (specified in the scripts section of package.json)
 
 
 package.json

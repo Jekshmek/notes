@@ -1,1 +1,19 @@
 https://webpack.js.org/configuration/
+
+webpack.config.js
+module.exports = {
+    entry: "./src/app.js",
+    output: {
+        path: __dirname + "/public", // need to be absolute
+        filename: "bundle.js"
+    },
+    devServer: {
+        contentBase: __dirname + "/public",
+        port: 3000 // 8080
+    }
+};
+
+? mode ?
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/

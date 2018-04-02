@@ -5,6 +5,8 @@ http://learn.javascript.ru/screencast/webpack
 https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn
 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
 2018
+Fabianek - Webpack Quick Tutorial
+https://www.youtube.com/playlist?list=PLxRVWC-K96b3Hm3Wa247lFKtNiyLKS4Q6
 Webpack tutorial for beginners
 https://www.youtube.com/watch?v=-pGbS2YpGPA
 Webpack 4: Beyond the Basics (wp 2-3)
