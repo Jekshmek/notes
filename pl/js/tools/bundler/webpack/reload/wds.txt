@@ -10,3 +10,10 @@ https://www.youtube.com/watch?v=Y-fAsfobFEI
 2015
 https://www.youtube.com/watch?v=e9oA1AVV-jg
 https://survivejs.com/webpack/developing/webpack-dev-server/
+
+package.json
+  "scripts": {
+    "dev-server": "webpack-dev-server"
+  },
+
+$ dev-server --port=9000

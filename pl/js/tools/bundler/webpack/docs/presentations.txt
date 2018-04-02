@@ -1,9 +1,3 @@
-https://www.infoq.com/presentations/4-concepts-webpack
-https://www.slideshare.net/denisizmaylov/webpack-7
-Kantor - webpack screencast
-http://learn.javascript.ru/screencast/webpack
-https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn
-https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
 2018
 Fabianek - Webpack Quick Tutorial
 https://www.youtube.com/playlist?list=PLxRVWC-K96b3Hm3Wa247lFKtNiyLKS4Q6
@@ -14,3 +8,16 @@ https://www.youtube.com/watch?v=Mct6KwWpJ7c
 2017
 Ivanov - WebPack bundle internals ru
 https://www.youtube.com/watch?v=jE1ibm037Fo
+!!! Larkin - Webpack - The One Build Step to Rule Them All
+https://www.infoq.com/presentations/4-concepts-webpack
+Jakobs - Webpack - It's not magic
+https://www.youtube.com/watch?v=_QEM9kdV-b0
+https://docs.google.com/presentation/d/1pJwJxisw_HbX-Tcdp9esN63pXSd-8idhAynqkAx6eic
+Tichy - Webpack 2
+https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
+2015
+Ismailov - Webpack - 7 bed odin otvet
+https://www.slideshare.net/denisizmaylov/webpack-7
+Kantor - webpack screencast
+http://learn.javascript.ru/screencast/webpack
+https://www.youtube.com/playlist?list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn

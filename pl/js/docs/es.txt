@@ -1,2 +1,8 @@
 modules:
 https://habrahabr.ru/company/tuturu/blog/326716/
+
+search
+mdn <term>
+
+import
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import

@@ -1,5 +1,8 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-evaluation-context
+https://habrahabr.ru/company/oleg-bunin/blog/320874/
+https://habrahabr.ru/company/eastbanctech/blog/352618/
+
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-parser-configuration
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data

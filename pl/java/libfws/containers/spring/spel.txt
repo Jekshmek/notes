@@ -71,3 +71,49 @@ boolean result = exp.getValue(context, Boolean.class); // evaluates to true
 
 The EvaluationContext interface
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-evaluation-context
+
+The out-of-the-box implementation, StandardEvaluationContext, uses reflection to manipulate the object,
+caching java.lang.reflect.Method, java.lang.reflect.Field, and java.lang.reflect.Constructor instances for increased performance
+
+The StandardEvaluationContext is where you may specify the root object to evaluate against via the method setRootObject()
+or passing the root object into the constructor.
+You can also specify variables and functions that will be used in the expression using the methods setVariable() and registerFunction(). 
+The use of variables and functions are described in the language reference sections Variables and Functions.
+The StandardEvaluationContext is also where you can register custom ConstructorResolvers, MethodResolvers, and PropertyAccessors
+to extend how SpEL evaluates expressions.
+
+ype conversion
+
+By default SpEL uses the conversion service available in Spring core ( org.springframework.core.convert.ConversionService).
+This conversion service comes with many converters built in for common conversions but is also fully extensible
+so custom conversions between types can be added.
+Additionally it has the key capability that it is generics aware.
+This means that when working with generic types in expressions, SpEL will attempt conversions to maintain type correctness for any objects it encounters.
+
+
+
+What does this mean in practice? Suppose assignment, using setValue(), is being used to set a List property.
+The type of the property is actually List<Boolean>.
+SpEL will recognize that the elements of the list need to be converted to Boolean before being placed in it.
+
+A simple example:
+
+class Simple {
+    public List<Boolean> booleanList = new ArrayList<Boolean>();
+}
+
+Simple simple = new Simple();
+
+simple.booleanList.add(true);
+
+StandardEvaluationContext simpleContext = new StandardEvaluationContext(simple);
+
+// false is passed in here as a string. SpEL and the conversion service will
+// correctly recognize that it needs to be a Boolean and convert it
+parser.parseExpression("booleanList[0]").setValue(simpleContext, "false");
+
+// b will be false
+Boolean b = simple.booleanList.get(0);
+
+
+
