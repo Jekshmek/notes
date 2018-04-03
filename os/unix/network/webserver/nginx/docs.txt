@@ -1,0 +1,7 @@
+http://nginx.org/en/docs/
+
+default
+/usr/share/nginx/html
+
+wiki
+https://wiki.archlinux.org/index.php/nginx

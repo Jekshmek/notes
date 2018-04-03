@@ -1,1 +1,3 @@
 https://jvns.ca/blog/2017/10/10/operating-a-kubernetes-network/
+https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727
+    https://habrahabr.ru/company/flant/blog/346304/

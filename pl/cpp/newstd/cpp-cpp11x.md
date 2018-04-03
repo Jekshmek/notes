@@ -2,6 +2,7 @@
 
 ## Books
 
+* Stroustrup - Programming Principles and Practice using Cpp 2nd ed
 * Lippman - CPP Primer 5th ed (Ch 13, 16.2.6, 16.2.7)
 * Josuttis - Cpp Standard Library 2nd ed (Ch 3)
 * Stroustrup - C++ Programming Language (check our Minsk library)

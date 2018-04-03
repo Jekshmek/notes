@@ -12,3 +12,6 @@ https://downloads.contentful.com/oxjq45e8ilak/2s5MGeyxUYYkKKyyswaO4g/c23bb604681
 jlink
 https://dzone.com/articles/jlink-in-java-9
 https://blog.knoldus.com/2018/01/08/jlink-in-java-9/
+
+modules in idea
+https://dzone.com/articles/advanced-support-for-java-9-modules-in-intellij-idea

@@ -5,6 +5,10 @@ rustup target add wasm32-unknown-unknown
 cargo build --target wasm32-unknown-unknown --release
 
 2018
+https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-i-e6dec27df7b2
+https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-2-7a86eaec5ee9
+https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-3-3-nodejs-7c71e4ae23fe
+
 https://medium.com/@mjadams66/compiling-rust-to-wasm-and-serving-it-ecece5026138
 https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
 
