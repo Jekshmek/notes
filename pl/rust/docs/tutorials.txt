@@ -1,4 +1,5 @@
 2018
+http://stevedonovan.github.io/rust-gentle-intro/
 https://slashtutorial.com/rust/
 dcode - Rust Programming Tutorials
 https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
