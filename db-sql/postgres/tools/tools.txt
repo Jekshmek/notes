@@ -53,8 +53,6 @@ vacuumdb
 
 
 ???:
-pgcli[-git]
-    cmd-line agent with cli
 pgtune-git
     cfg-tuner
 pgagent

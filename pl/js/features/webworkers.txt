@@ -1,0 +1,3 @@
+2018
+https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2
+    https://habrahabr.ru/company/ruvds/blog/352828/

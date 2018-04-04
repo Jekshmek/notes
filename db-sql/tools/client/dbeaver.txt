@@ -1,0 +1,8 @@
+https://dbeaver.jkiss.org/
+
+https://github.com/dbeaver/dbeaver
+
+https://dbeaver.jkiss.org/docs/features/
+
+https://github.com/dbeaver/dbeaver/wiki
+https://en.wikipedia.org/wiki/DBeaver

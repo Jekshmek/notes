@@ -1,0 +1,5 @@
+https://www.pgcli.com/
+https://github.com/dbcli/pgcli
+
+pgcli[-git]
+    cmd-line agent with cli
