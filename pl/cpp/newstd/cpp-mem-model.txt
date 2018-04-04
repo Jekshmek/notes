@@ -2,3 +2,4 @@ Sutter - Atomic Weapons ...
 
 The compiler (by default) does not about our shared memory locations.
 
+https://davmac.wordpress.com/2018/04/03/understanding-the-c-c-memory-model-part-2/

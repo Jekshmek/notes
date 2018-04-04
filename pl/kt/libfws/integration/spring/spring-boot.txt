@@ -6,6 +6,7 @@ spring-boot-graph-ql:
 https://blog.pusher.com/writing-graphql-service-using-kotlin-spring-boot/
 
 2018
+https://amarszalek.net/blog/2018/04/02/reactive-web-services-kotlin-spring-boot-2/
 https://www.infoq.com/presentations/spring-kotlin-boot
 https://speakerdeck.com/sdeleuze/why-spring-loves-kotlin
 https://medium.com/@codemwnci/kotlin-springboot-and-websockets-276029b22482

@@ -63,7 +63,7 @@ https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskryt
 
 Tracking:
 Razbor Poletov                                      - 156 1:51:00 (of 2:20:00)
-This week in rust                                   - 226
+This week in rust                                   - 228
 http://accu.org/index.php/journals/c78/             - 140
 
 Series:
