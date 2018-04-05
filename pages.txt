@@ -20,7 +20,7 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
-Putin6                                              -   25:00 (of   48:51)
+Putin8                                              -   24:00 (of   48:55)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -56,12 +56,17 @@ https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-od
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
+https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
+https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slushat/
+https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
+
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
+https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 
 Tracking:
-Razbor Poletov                                      - 157 00:00 (of )
+Razbor Poletov                                      - 157 40:00 (of 2:16:53)
 This week in rust                                   - 228
 http://accu.org/index.php/journals/c78/             - 140
 
