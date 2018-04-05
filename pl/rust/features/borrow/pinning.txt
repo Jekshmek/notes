@@ -1,0 +1,5 @@
+https://www.ralfj.de/blog/2018/04/05/a-formal-look-at-pinning.html
+    https://internals.rust-lang.org/t/a-formal-look-at-pinning/7236
+https://www.ralfj.de/blog/2018/01/31/sharing-for-a-lifetime.html
+https://boats.gitlab.io/blog/post/2018-03-20-async-vi/
+https://github.com/rust-lang/rust/pull/49058
