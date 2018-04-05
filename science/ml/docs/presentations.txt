@@ -1,4 +1,6 @@
 2018
+Kite - Python - Data Analysis and ML
+https://www.youtube.com/playlist?list=PLO_jkkJQGPa78IgBgZhgkQ0e0qmImAe-y
 Simplelearn - Machine Learning Tutorial Videos
 https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
 

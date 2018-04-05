@@ -9,6 +9,8 @@ google
 https://developers.google.com/machine-learning/crash-course/
 
 2018
+MFTI - ML
+https://www.youtube.com/playlist?list=PL0Ks75aof3Ti5IBKAD4234VkMVnI4ecky
 CMU - NN
 https://www.youtube.com/watch?v=Qbztx1CfSfo
 https://www.youtube.com/watch?v=zlnQyxiEGNM

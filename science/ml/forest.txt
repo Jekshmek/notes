@@ -1,4 +1,5 @@
 2018
+http://parrt.cs.usfca.edu/doc/rf-importance/index.html
 Simplilearn - Random Forest Algorithm - Random Forest Explained | Random Forest In Machine Learning
 https://www.youtube.com/watch?v=eM4uJ6XGnSM
 https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd

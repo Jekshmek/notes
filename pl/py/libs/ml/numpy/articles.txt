@@ -1,0 +1,3 @@
+2018
+https://engineering.ucsb.edu/~shell/che210d/numpy.pdf
+    https://habrahabr.ru/post/352678/

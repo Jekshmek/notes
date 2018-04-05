@@ -1,0 +1,6 @@
+http://mesonbuild.com/
+https://github.com/mesonbuild/meson
+
+http://mesonbuild.com/Tutorial.html
+
+http://docs.conan.io/en/latest/reference/build_helpers/meson.html

@@ -1,4 +1,8 @@
 2018
+VSHE - Deep Learning
+https://www.hse.ru/ba/ami/courses/205504078.html
+https://github.com/aosokin/DL_CSHSE_spring2018
+https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld
 MFTI - Deep Learning School
 https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S
 https://selfdrivingcars.mit.edu/
