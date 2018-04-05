@@ -1,2 +1,5 @@
+2.8
+https://www.infoq.com/news/2018/04/typescript-2-8-conditional-types
+https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8/
 2.4
 https://blogs.msdn.microsoft.com/typescript/2017/06/27/announcing-typescript-2-4/

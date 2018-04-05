@@ -20,6 +20,8 @@ https://habrahabr.ru/post/342180/
 https://habrahabr.ru/post/344246/
 
 presentations
+Coding Tech - WebAssembly
+https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 2018
 Phelps - The WebAssembly Revolution
 https://www.infoq.com/presentations/webassembly-wasm-intro
