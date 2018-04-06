@@ -4,7 +4,7 @@ https://webpack.github.io/
 https://github.com/webpack/webpack
 
 https://webpack.js.org/guides/installation/
-    npm install -D webpack-cli
+    npm i --save-dev webpack webpack-cli
 https://webpack.js.org/guides/getting-started/
 
 entry

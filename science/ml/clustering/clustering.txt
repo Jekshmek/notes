@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=Xvwt7y2jf5E
 
 KNN Vorontsov
 LOO (leave-one-out) - skolzyschi kontrol
+
+k-means
+https://www.datascience.com/blog/k-means-clustering

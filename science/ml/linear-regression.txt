@@ -17,3 +17,12 @@ multi-dimensional regression
 http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%9B%D0%A0
 https://habrahabr.ru/post/343752/
 https://habrahabr.ru/post/333426/
+
+https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf
+http://scikit-learn.org/stable/modules/linear_model.html
+
+2015
+ridge regression
+https://www.youtube.com/watch?v=5asL5Eq2x0A
+lasso regression
+https://www.youtube.com/watch?v=jbwSCwoT51M

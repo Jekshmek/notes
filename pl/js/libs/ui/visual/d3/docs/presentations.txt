@@ -9,3 +9,6 @@ SFHTML5 - All About D3
 https://www.youtube.com/playlist?list=PLUj8-Hhrb-a2eMNfGHWZ2RIQITHRD7Ioy
 Udacity - Data Visualization and D3
 https://www.youtube.com/playlist?list=PLAwxTw4SYaPmN67oPL09hz8-JUwQ5Aqci
+
+?
+https://tmcw.github.io/presentations/dcjq/

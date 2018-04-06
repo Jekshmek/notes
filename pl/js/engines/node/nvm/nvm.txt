@@ -7,7 +7,7 @@ aur
 nmv
     install
         [--lts|stable|node]
-            install lts|stable|latest
+            install/upgrade lts|stable|latest
         !!! creating alias default !!!
     use
         default
@@ -18,3 +18,5 @@ nmv
         deactivate current selection
     alias
         list aliases
+    install-latest-npm
+        uttempt to upgrade to the latest npm

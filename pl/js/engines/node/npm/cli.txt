@@ -1,16 +1,21 @@
 npm
     init
+        https://docs.npmjs.com/cli/init
         [-y]
-    i[nstall]
+    i install
         <package>[@ver]
                 dev-mode
             [--save]
             [--save-dev] [--save -D]
-
+    t test
     run
         build[:dev]
         runs a script (specified in the scripts section of package.json)
 
+    it install-test
+        install & test
+    s se find
+        find a package (at public registry)
 
 package.json
 

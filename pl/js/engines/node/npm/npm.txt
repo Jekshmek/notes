@@ -5,16 +5,3 @@ https://github.com/npm/npm
 
 https://docs.npmjs.com/
 https://docs.npmjs.com/misc/scope
-
-install
-http://nitayneeman.com/posts/standardizing-node.js-version-in-an-npm-package/
-
-2017
-https://risingstack.com/resources/node-hero
-https://medium.com/devschacht/node-hero-chapter-1-239f7afeb1d1
-https://medium.com/devschacht/node-hero-chapter-2-f04fec8182f0
-
-scripts
-https://docs.npmjs.com/misc/scripts
-https://docs.npmjs.com/cli/run-script
-https://vuejs-templates.github.io/webpack/commands.html
