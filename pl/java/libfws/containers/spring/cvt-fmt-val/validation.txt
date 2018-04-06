@@ -106,3 +106,36 @@ BindingResult results = binder.getBindingResult();
 A DataBinder can also be configured with multiple Validator instances via dataBinder.addValidators and dataBinder.replaceValidators
 
 https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config-validation
+
+It is possible to configure the SpEL expression parser using a parser configuration object
+    (org.springframework.expression.spel.SpelParserConfiguration)
+
+
+
+class Demo {
+    public List<String> list;
+}
+
+// Turn on:
+// - auto null reference initialization
+// - auto collection growing
+SpelParserConfiguration config = new SpelParserConfiguration(true,true);
+
+ExpressionParser parser = new SpelExpressionParser(config);
+
+Expression expression = parser.parseExpression("list[3]");
+
+Demo demo = new Demo();
+
+Object o = expression.getValue(demo);
+
+// demo.list will now be a real collection of 4 entries
+// Each entry is a new empty String
+
+SpEL compilation
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-spel-compilation
+
+Compiler configuration
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-compiler-configuration
+
+The compiler is not turned on by default, but there are two ways to turn it on. It can be turned on using the parser configuration process discussed earlier or via a system property when SpEL usage is embedded inside another component.

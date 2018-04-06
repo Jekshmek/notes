@@ -31,6 +31,8 @@ $ psql postgresql://dbmaster:5433/mydb?sslmode=require
     list schemas
 \d <table>
     describe table
+\dt *pattern*
+    list table names by pattern
 !!!
 
 \?

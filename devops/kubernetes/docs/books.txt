@@ -6,7 +6,9 @@ https://azure.microsoft.com/mediahandler/files/resourcefiles/baf44271-3870-454f-
 2018
 Saito - DevOps with Kubernetes
 Goasguen - Kubernetes Cookbook
+Vohra - Kubernetes Management Design Patterns
 
 2017
 Baier - Getting Started with Kubernetes 2nd ed
+Sayfan - Mastering Kubernetes
 ??? Poulton - The Kubernetes Book
