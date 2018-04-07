@@ -1,0 +1,6 @@
+https://www.jhipster.tech/
+https://github.com/jhipster/generator-jhipster
+
+minibook
+https://www.infoq.com/minibooks/jhipster-4x-mini-book
+http://www.jhipster-book.com/#!/
