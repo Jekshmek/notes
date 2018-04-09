@@ -1,6 +1,9 @@
+https://github.com/rust-lang-nursery/wg-verification
+
 https://www.cs.washington.edu/tr/2015/03/UW-CSE-15-03-02.pdf
 
 2018
+https://internals.rust-lang.org/t/announcing-the-formal-verification-working-group/7240
 https://dl.acm.org/citation.cfm?doid=3177123.3158154
 https://www.youtube.com/watch?v=Cy9NUVaiYUg
 https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf

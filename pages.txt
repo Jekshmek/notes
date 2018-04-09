@@ -37,7 +37,7 @@ Dlugach                                             -   05:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
 Ortho:
-Paschenko - Game 2 - 1                              -   00:00 (of)
+Paschenko - Game 1 - 20                             -   56:00 (of 2:03:01)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 11                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -68,7 +68,7 @@ https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hrist
 Tracking:
 Razbor Poletov                                      - 157 1:20:00 (of 2:16:53)
 This week in rust                                   - 228
-http://accu.org/index.php/journals/c78/             - 140
+http://accu.org/index.php/journals/c78/             - 144
 
 Series:
 Linux Networking 04                                 -   06:00 (of 1:04:40)

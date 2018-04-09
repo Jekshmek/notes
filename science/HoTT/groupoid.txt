@@ -184,6 +184,8 @@ https://www.andrew.cmu.edu/user/awodey/preprints/TTH.pdf
 https://henrychern.files.wordpress.com/2017/10/27.pdf
 
 cubical TT:
+Sokhatsky - 2018 - MLTT in Cubical (Practice)
+https://www.youtube.com/watch?v=JsHminiPzzs
 https://homotopytypetheory.org/2017/09/16/a-hands-on-introduction-to-cubicaltt/
 http://dlicata.web.wesleyan.edu/pubs/lb14cubical/lb14cubes-oxford.pdf
 http://www.cse.chalmers.se/~coquand/rules7.pdf

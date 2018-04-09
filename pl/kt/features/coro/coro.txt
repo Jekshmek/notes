@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=9b89HxJ2bjU
 
 articles
 2018
+https://medium.com/@elizarov/how-do-you-color-your-functions-a6bb423d936d
 https://medium.com/@elizarov/kotlin-coroutines-a-deeper-look-180536305c3f
 https://habrahabr.ru/post/346004/
 2017
