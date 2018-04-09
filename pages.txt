@@ -1,7 +1,4 @@
 URLs:
-https://predanie.ru/filonenko-aleksandr-semenovich/vstrecha-i-preodolenie-nasiliya/slushat/
-https://predanie.ru/alexandr-rakitin/ocherki-russkogo-hramostroeniya/slushat/
-
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-beandef
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
@@ -15,13 +12,13 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
   social aspects
 https://ru-bykov.livejournal.com/3329827.html
 Mayburd - about Bykov
-    https://ru-bykov.livejournal.com/3334239.html
     https://ru-bykov.livejournal.com/3334566.html
     https://ru-bykov.livejournal.com/3334849.html
-
+    https://ru-bykov.livejournal.com/3366160.html
+    https://ru-bykov.livejournal.com/3366492.html
 Video:
-2018-04-06-odin-0005                                -   29:00 (of 1:45:48)
-Putin8                                              -   24:00 (of   48:55)
+2018-04-06-odin-0005                                -   50:00 (of 1:45:48)
+Putin8                                              -   45:00 (of   48:55)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -38,7 +35,7 @@ Dlugach                                             -   05:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
 Ortho:
-Paschenko - Game 1 - 20                             - 1:38:00 (of 2:03:01)
+Paschenko - Game 1 - 21                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 11                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -67,7 +64,7 @@ https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskryt
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 
 Tracking:
-Razbor Poletov                                      - 157 1:25:00 (of 2:16:53)
+Razbor Poletov                                      - 157 1:50:00 (of 2:16:53)
 This week in rust                                   - 228
 http://accu.org/index.php/journals/c78/             - 144
 
