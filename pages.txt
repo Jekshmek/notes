@@ -2,7 +2,7 @@ URLs:
 https://predanie.ru/filonenko-aleksandr-semenovich/vstrecha-i-preodolenie-nasiliya/slushat/
 https://predanie.ru/alexandr-rakitin/ocherki-russkogo-hramostroeniya/slushat/
 
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-compiler-configuration
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-beandef
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -38,7 +38,7 @@ Dlugach                                             -   05:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
 Ortho:
-Paschenko - Game 1 - 20                             -   56:00 (of 2:03:01)
+Paschenko - Game 1 - 20                             - 1:38:00 (of 2:03:01)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 11                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
