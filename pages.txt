@@ -20,6 +20,7 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3334849.html
 
 Video:
+2018-04-06-odin-0005                                -   29:00 (of 1:45:48)
 Putin8                                              -   24:00 (of   48:55)
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
@@ -66,7 +67,7 @@ https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskryt
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 
 Tracking:
-Razbor Poletov                                      - 157 1:20:00 (of 2:16:53)
+Razbor Poletov                                      - 157 1:25:00 (of 2:16:53)
 This week in rust                                   - 228
 http://accu.org/index.php/journals/c78/             - 144
 
