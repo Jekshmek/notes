@@ -13,3 +13,24 @@ https://github.com/OpenVPN/openvpn3-linux
 https://github.com/OpenVPN/openvpn-gui
 https://github.com/OpenVPN/openvpn-build
 https://github.com/OpenVPN/easy-rsa
+
+DNS
+https://wiki.archlinux.org/index.php/OpenVPN#Update_resolv-conf_script
+https://github.com/masterkorp/openvpn-update-resolv-conf
+
+https://wiki.archlinux.org/index.php/OpenVPN#Update_systemd-resolved_script
+aur
+    openvpn-update-systemd-resolved
+
+To complete the installation, please add this script to your OpenVPN
+settings for each of the VPNs you wish it to manage the DNS for:
+
+script-security 2
+setenv PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+up /etc/openvpn/scripts/update-systemd-resolved
+down /etc/openvpn/scripts/update-systemd-resolved
+down-pre
+
+dhcp-option DNS ip1
+dhcp-option DNS ip2
+

@@ -1,3 +1,5 @@
+https://www.ralfj.de/blog/2018/04/10/safe-intrusive-collections-with-pinning.html
+    https://internals.rust-lang.org/t/safe-intrusive-collections-with-pinning/7281
 https://www.ralfj.de/blog/2018/04/05/a-formal-look-at-pinning.html
     https://internals.rust-lang.org/t/a-formal-look-at-pinning/7236
 https://www.ralfj.de/blog/2018/01/31/sharing-for-a-lifetime.html

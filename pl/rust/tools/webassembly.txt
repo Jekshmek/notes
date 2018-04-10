@@ -7,6 +7,7 @@ cargo build --target wasm32-unknown-unknown --release
 2018
 https://rustwasm.github.io/2018/04/05/welcome-to-this-week-in-rust.html
 https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/
+    https://habrahabr.ru/post/353230/
 https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-i-e6dec27df7b2
 https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-2-7a86eaec5ee9
 https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-3-3-nodejs-7c71e4ae23fe
