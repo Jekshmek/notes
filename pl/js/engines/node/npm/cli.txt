@@ -2,7 +2,9 @@ npm
     init
         https://docs.npmjs.com/cli/init
         [-y]
-    i install
+    i[nstall]
+        -g
+            global
         <package>[@ver]
                 dev-mode
             [--save]

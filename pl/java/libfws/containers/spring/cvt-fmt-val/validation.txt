@@ -187,3 +187,19 @@ The following kinds of expression cannot be compiled at the moment:
 
 Expressions in bean definitions
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-beandef
+
+SpEL expressions can be used with XML or annotation-based configuration metadata for defining BeanDefinitions.
+In both cases the syntax to define the expression is of the form
+    #{ <expression string> }
+
+    The variable systemProperties is predefined.
+    You can also refer to other bean properties by name, for example.
+
+Annotation config
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-beandef-annotation-based
+
+The @Value annotation can be placed on fields, methods and method/constructor parameters to specify a default value.
+
+
+Language Reference
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-language-ref

@@ -1,5 +1,5 @@
-http://tomstechnicalblog.blogspot.com.by/2017/05/introducing-kotlin-statistics.html
 https://github.com/thomasnield/kotlin-statistics
 
 2017
+http://tomstechnicalblog.blogspot.com.by/2017/05/introducing-kotlin-statistics.html
 https://www.youtube.com/watch?v=J8GYPG6pt5w

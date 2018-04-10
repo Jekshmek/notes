@@ -1,5 +1,8 @@
 https://webpack.js.org/configuration/
 
+So here is the first news: webpack 4 doesn’t need a configuration file.
+It will look in ./src/index.js as the default entry point. Moreover, it will spit out the bundle in ./dist/main.js.
+
 webpack.config.js
 module.exports = {
     entry: "./src/app.js",

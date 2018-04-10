@@ -38,3 +38,6 @@ https://github.com/alexcrichton/wasm-bindgen
 
 https://github.com/astraw/bui-backend
 https://github.com/astraw/bui-backend/tree/master/bui-demo
+
+samples
+https://github.com/bzar/webchat-rs

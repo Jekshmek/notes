@@ -4,7 +4,8 @@ https://webpack.github.io/
 https://github.com/webpack/webpack
 
 https://webpack.js.org/guides/installation/
-    npm i --save-dev webpack webpack-cli
+    npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin html-loader
+    ? fsevents
 https://webpack.js.org/guides/getting-started/
 
 entry

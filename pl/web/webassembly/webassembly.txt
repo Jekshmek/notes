@@ -5,6 +5,9 @@ https://github.com/webassembly/design
 docs
 https://developer.mozilla.org/en-US/docs/WebAssembly
 
+spec
+https://webassembly.github.io/spec/
+
 guide
 http://webassembly.org/getting-started/developers-guide/
 
