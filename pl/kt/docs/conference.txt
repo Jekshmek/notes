@@ -1,3 +1,6 @@
-KotlinConf 2017:
+2017
+KotlinConf
 https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5
 https://superkotlin.com/all-talks-kotlinconf-2017/
+Avito - Kotlin Night
+https://www.youtube.com/playlist?list=PLknJ4Vr6efQFdvMkyDL5x7qdZ0DQPNzRi

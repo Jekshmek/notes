@@ -5,6 +5,9 @@ rustc
     -Z time-passes
         time for each of the compiler steps
 
+guide
+https://github.com/rust-lang-nursery/rustc-guide
+
 crates
 https://crates.io/crates/rustc_version
 https://crates.io/crates/rustc_version_runtime

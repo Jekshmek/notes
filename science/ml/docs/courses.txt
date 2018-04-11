@@ -19,6 +19,9 @@ AI and ML history
 https://www.youtube.com/playlist?list=PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz
 Notes of Ng - Intro to DeepLearning
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+Python for Data Analysis
+https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg
+https://github.com/cuttlefishh/python-for-data-analysis
 
 2017
 Kashnitsky (scipy based)!!!:
