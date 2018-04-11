@@ -31,6 +31,8 @@ http://mvnrepository.com/artifact/org.springframework/spring-webflux
 src
 https://github.com/spring-projects/spring-framework/tree/master/spring-webflux
 
+webfluxtest
+https://amarszalek.net/blog/2018/04/11/rant-integration-tests-spring-webflux-kotlin/
 
 samples
 https://habrahabr.ru/post/351994/
