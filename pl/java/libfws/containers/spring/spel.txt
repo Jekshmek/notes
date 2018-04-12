@@ -115,5 +115,19 @@ parser.parseExpression("booleanList[0]").setValue(simpleContext, "false");
 // b will be false
 Boolean b = simple.booleanList.get(0);
 
+Predefined stuff
+* systemProperties
 
+Annotation config
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-beandef-annotation-based
 
+@Value - on fields, methods, method/c-tor params to specify a default value
+
+Reference
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-language-ref
+
+Literal
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-literal
+
+The types of literal expressions supported are strings, numeric values (int, real, hex), boolean and null.
+Strings are delimited by single quotes. To put a single quote itself in a string, use two single quote characters.
