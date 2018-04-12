@@ -1,0 +1,23 @@
+http://www.pixijs.com/
+https://github.com/pixijs/pixi.js
+
+http://pixijs.download/release/docs/index.html
+https://github.com/pixijs/pixi.js/wiki
+http://www.pixijs.com/faq
+
+tutorials
+http://www.pixijs.com/tutorials
+https://github.com/kittykatattack/learningPixi
+
+samples
+http://pixijs.io/examples
+http://www.pixijs.com/gallery
+
+doc-template
+https://www.npmjs.com/package/@pixi/jsdoc-template
+https://github.com/pixijs/pixi-jsdoc-template
+
+interesting
+http://pixijs.io/examples/#/demos/alpha-mask.js
+layers, z-order
+drag, sort, light
