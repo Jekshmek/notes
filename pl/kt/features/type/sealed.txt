@@ -1,5 +1,8 @@
 https://kotlinlang.org/docs/reference/sealed-classes.html
 
+2018
+https://codeascraft.com/2018/04/12/sealed-classes-opened-my-mind/
+
 https://tech.io/playgrounds/6539/kotlin-sealed-classes-in-action
 https://blog.simon-wirtz.de/sealed-classes-kotlin-explanation/
 https://medium.com/@philipesteiff/kotlin-what-is-a-sealed-classe-1e535c416519

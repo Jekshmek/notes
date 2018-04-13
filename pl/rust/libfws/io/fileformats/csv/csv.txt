@@ -14,3 +14,6 @@ https://docs.rs/csv-index
 tutorial:
 http://blog.burntsushi.net/csv/
 https://docs.rs/csv/1.0.0-beta.1/csv/tutorial/index.html
+
+whatsnew
+https://blog.burntsushi.net/csv/

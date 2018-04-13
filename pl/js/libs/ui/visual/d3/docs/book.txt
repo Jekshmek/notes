@@ -4,6 +4,9 @@ https://github.com/emeeks/d3_in_action_2
 
 http://alignedleft.com/work/d3-book
 
+2017
+Rininsland - D3.js 4.x Data Visualization 3rd ed
+
 2013
 Teller - Data Visualization with D3
 Zhu - Data Visualization with D3 Cookbook

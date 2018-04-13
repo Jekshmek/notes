@@ -29,7 +29,10 @@ https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
 Chollet - DeepLearning with Python
 https://vk.com/doc44301783_456810592
 https://vk.com/doc7608079_460118633
-Buduma - Fundamentals of Deep Learning
+Buduma - Fundamentals of Deep Learning (tf)
+    https://vk.com/doc2036633_464888587
+Paterson - Deep Learning (dl4j)
+    https://vk.com/doc2036633_464888588
 
 Popular and Short (java)
 Gibson - Deep Learning ER

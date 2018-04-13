@@ -1,2 +1,10 @@
 https://github.com/d3/d3/blob/master/API.md#selections-d3-selection
 https://github.com/d3/d3-selection
+
+2013
+https://bost.ocks.org/mike/join/
+https://bost.ocks.org/mike/selection/
+https://bost.ocks.org/mike/circles/
+
+2012
+https://website.education.wisc.edu/~swu28/d3t/concept.html

@@ -4,6 +4,8 @@ https://www.hellorust.com/setup/wasm-target/
 rustup target add wasm32-unknown-unknown
 cargo build --target wasm32-unknown-unknown --release
 
+https://rust-lang-nursery.github.io/rust-wasm/introduction.html
+
 2018
 https://medium.com/@KevinHoffman/javascript-interop-with-webassembly-2c69a3db19e9
 https://medium.com/@KevinHoffman/in-search-of-webassembly-2c96ad1d6fe2

@@ -1,1 +1,3 @@
+https://d3-discovery.net/
+https://blog.webkid.io/responsive-chart-usability-d3/
 https://github.com/distillpub/post--augmented-rnns
