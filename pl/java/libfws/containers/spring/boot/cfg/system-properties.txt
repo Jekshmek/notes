@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/36895711/can-i-define-system-properties-within-spring-boot-configuration-files

@@ -1,6 +1,6 @@
 URLs:
 https://blog.burntsushi.net/csv/#reading-csv
-https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0
+https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#configuration-property-names
 https://bost.ocks.org/mike/join/
 https://bost.ocks.org/mike/selection/
 https://bost.ocks.org/mike/circles/
@@ -21,7 +21,7 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
 Video:
-Putin1                                              -   36:00 (of 2:08:23)
+Putin2                                              -   00:00 (of 1:52:58)
   https://www.youtube.com/watch?v=YI43tQx4hos
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
@@ -37,7 +37,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Volkova 2                                           -   00:00 (of 1:28:48)
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
   https://www.youtube.com/playlist?list=PL7ADBCD9350C3C925
-Dlugach                                             -   05:00 (of 1:01:39)
+Dlugach                                             -   12:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
 Ortho:
@@ -49,9 +49,12 @@ Sorokin - B 23                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 12 of 34                                 -   10:00 (of 1:32:43)
+Chernyak - 12 of 34                                 -   40:00 (of 1:32:43)
     https://www.youtube.com/watch?v=fOX5VdXV_uc
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+Sorokin - Family 1                                  -   31:00 (of 3:39:34)
+    https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
+
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
