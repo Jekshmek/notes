@@ -5,6 +5,8 @@ rustup target add wasm32-unknown-unknown
 cargo build --target wasm32-unknown-unknown --release
 
 2018
+https://medium.com/@KevinHoffman/javascript-interop-with-webassembly-2c69a3db19e9
+https://medium.com/@KevinHoffman/in-search-of-webassembly-2c96ad1d6fe2
 https://medium.com/@bokuweb17/writing-an-nes-emulator-with-rust-and-webassembly-d64de101c49d?source=rss------rust-5
 https://rustwasm.github.io/2018/04/05/welcome-to-this-week-in-rust.html
 https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/

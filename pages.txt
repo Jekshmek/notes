@@ -1,7 +1,6 @@
 URLs:
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-properties-arrays
 
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-literal
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data

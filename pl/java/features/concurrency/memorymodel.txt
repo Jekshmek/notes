@@ -1,0 +1,2 @@
+https://dzone.com/refcardz/core-java-concurrency
+    https://habrahabr.ru/company/otus/blog/353414/
