@@ -1,10 +1,12 @@
 URLs:
-https://blog.burntsushi.net/csv/#reading-csv
-https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#configuration-property-names
-https://bost.ocks.org/mike/join/
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-functions
+https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#binder-api
+https://blog.burntsushi.net/csv/#reading-headers
+
+2014 Jun 15
+https://bost.ocks.org/mike/circles/#binding
+2013 Apr 26
 https://bost.ocks.org/mike/selection/
-https://bost.ocks.org/mike/circles/
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-variables
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting

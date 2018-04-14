@@ -25,3 +25,16 @@ MapConfigurationPropertySource impl
 
 Configuration Property Names
 https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#configuration-property-names
+
+ConfigurationPropertyName
+    enforces canonical naming rules
+
+Origin support
+https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#origin-support
+
+Origin i-face
+    TextResourceOrigin impl
+
+
+Binder API
+https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#binder-api
