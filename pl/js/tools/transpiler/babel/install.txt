@@ -1,0 +1,9 @@
+https://babeljs.io/docs/setup/#installation
+
+npm install --save-dev
+    babel-loader babel-core
+
+    babel-preset-env
+    https://babeljs.io/docs/plugins/preset-env
+    babel-polyfill
+    https://babeljs.io/docs/usage/polyfill

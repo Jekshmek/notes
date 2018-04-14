@@ -1,1 +1,4 @@
 https://www.valentinog.com/blog/webpack-4-tutorial/
+
+2016
+https://github.com/petehunt/webpack-howto
