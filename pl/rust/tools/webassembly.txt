@@ -62,3 +62,4 @@ https://alexaltea.github.io/capstone.js/
 
 samples
 https://github.com/bzar/webchat-rs
+https://github.com/kirjavascript/snake-rs
