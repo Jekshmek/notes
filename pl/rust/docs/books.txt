@@ -42,6 +42,7 @@ https://brson.github.io/rust-cookbook/
 https://github.com/brson/rust-cookbook
 still need a lot of help:
 https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
+Ferner - Rust Standard Library Cookbook
 
 RBE:
 https://doc.rust-lang.org/rust-by-example/
@@ -60,3 +61,7 @@ Chanda - Network Programming with Rust
 https://www.packtpub.com/application-development/network-programming-rust
 2018
 Milanesi - Beginning Rust
+
+GameDev
+2018
+Gomez - Rust Programming by Example
