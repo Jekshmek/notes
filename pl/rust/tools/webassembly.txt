@@ -60,6 +60,9 @@ https://github.com/WebAssembly/binaryen
 https://github.com/WebAssembly/wabt
 https://alexaltea.github.io/capstone.js/
 
+https://github.com/losfair/wasm-core
+https://github.com/losfair/IceCore/tree/lssa
+
 samples
 https://github.com/bzar/webchat-rs
 https://github.com/kirjavascript/snake-rs
