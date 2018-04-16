@@ -2,6 +2,8 @@ Books:
 Marlow-ParallelAndConcurrentProgrammingInHaskell - ch 8
 
 Asynchronous:
+https://www.snoyman.com/reveal/async-exception-handling#/
+https://www.youtube.com/watch?v=T5y8sFmCFnA
 http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html
 https://www.reddit.com/r/haskell/comments/5pv7rz/asynchronous_exceptions_in_practice_simon_marlow/
 
