@@ -17,3 +17,7 @@ https://www.createjs.com/docs/tweenjs/
 
 tools
 https://www.createjs.com/tools
+
+books
+2014
+Makzan - HTML5 Game Development Hotshot

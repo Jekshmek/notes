@@ -1,0 +1,3 @@
+2018
+https://medium.com/@_navin/from-nodejs-for-rust-hello-world-program-712fef3642ac
+https://codeburst.io/how-to-optimize-javascript-code-with-rust-part-1-20f00885608f

@@ -1,0 +1,6 @@
+https://greensock.com/tweenmax
+https://codepen.io/GreenSock/pen/HxzEl
+
+.green  { background-color:#6fb936; }
+.orange { background-color:#f38630; }
+.grey   { background-color:#989898; }

@@ -1,0 +1,8 @@
+https://greensock.com/get-started-js
+https://github.com/greensock/GreenSock-JS
+
+https://greensock.com/tweenmax
+https://greensock.com/docs/TweenMax
+
+2012
+https://habrahabr.ru/post/144466/
