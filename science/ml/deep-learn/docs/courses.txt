@@ -1,4 +1,6 @@
 2018
+CMU 11-785
+http://deeplearning.cs.cmu.edu/
 VSHE - Deep Learning
 https://www.hse.ru/ba/ami/courses/205504078.html
 https://github.com/aosokin/DL_CSHSE_spring2018

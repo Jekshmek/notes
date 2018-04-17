@@ -33,6 +33,8 @@ Unpingco - Python for Probability, Statistics and Machine Learning
 https://vk.com/doc4004138_453239844?hash=abd1387c870bafb957&dl=370437fe6fbaa611e1
 
 python
+Muller - Introduction to Machine Learning with Python
+    https://vk.com/doc90175155_462550667
 Muller - Introduction to Machine Learning with Python (ru)
 VanderPlas - Python Data Science Handbook ru (!!!)
 https://vk.com/doc44301783_457112102

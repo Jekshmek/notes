@@ -7,6 +7,11 @@ mdn <term>
 import
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
+books
+2018
+Harrison - ECMAScript Cookbook
+
+articles
 2018
 https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b
     https://habrahabr.ru/company/ruvds/blog/353446/
