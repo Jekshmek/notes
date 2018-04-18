@@ -1,5 +1,5 @@
 URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-functions
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-collection-selection
 https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#binder-api
 https://blog.burntsushi.net/csv/#reading-headers
 
@@ -43,7 +43,7 @@ Dlugach                                             -   12:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
 Ortho:
-Paschenko - Game 1 - 21                             -   00:00 (of)
+Paschenko - Game 1 - 22                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 12                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -76,7 +76,7 @@ https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hrist
 
 Tracking:
 Razbor Poletov                                      - 157
-This week in rust                                   - 229
+This week in rust                                   - 230
 http://accu.org/index.php/journals/c78/             - 144
 
 Series:

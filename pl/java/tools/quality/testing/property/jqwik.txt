@@ -1,0 +1,12 @@
+http://jqwik.net/
+
+https://github.com/jlink/jqwik
+
+http://jqwik.net/user-guide.html
+
+api
+http://jqwik.net/javadoc/index.html
+
+2018
+http://blog.johanneslink.net/2018/03/26/from-examples-to-properties/
+http://blog.johanneslink.net/2018/03/29/jqwik-on-junit5/

@@ -169,3 +169,56 @@ List<Integer> primesGreaterThanTen = (List<Integer>) parser.parseExpression(
 
 Functions
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-ref-functions
+
+You can extend SpEL by registering user defined functions that can be called within the expression string.
+
+Method method = ...;
+EvaluationContext context = SimpleEvaluationContext.forReadOnlyDataBinding().build();
+context.setVariable("myFunction", method);
+
+
+ExpressionParser parser = new SpelExpressionParser();
+EvaluationContext context = SimpleEvaluationContext.forReadOnlyDataBinding().build();
+context.setVariable("reverseString",
+        StringUtils.class.getDeclaredMethod("reverseString", String.class)); // register StringUtils.reverseString static helper
+String helloWorldReversed = parser.parseExpression(
+        "#reverseString('hello')").getValue(context, String.class);
+
+
+Bean References
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-bean-references
+
+If the evaluation context has been configured with a bean resolver it is possible to look up beans from an expression using the @ symbol.
+
+ExpressionParser parser = new SpelExpressionParser();
+StandardEvaluationContext context = new StandardEvaluationContext();
+context.setBeanResolver(new MyBeanResolver());
+// This will end up calling resolve(context, "foo") on MyBeanResolver during evaluation
+Object bean = parser.parseExpression("@foo").getValue(context);
+
+
+To access a factory bean itself, the bean name should instead be prefixed with an & symbol.
+
+// --//--
+
+// This will end up calling resolve(context,"&foo") on MyBeanResolver during evaluation
+Object bean = parser.parseExpression("&foo").getValue(context);
+
+
+Operators
+Ternary Operator (If-Then-Else)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-operator-ternary
+The Elvis Operator (?:)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-operator-elvis
+Safe Navigation Operator (?.)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-operator-safe-navigation
+
+The Elvis operator can be used to apply default values in expressions, e.g. in an @Value expression:
+
+@Value("#{systemProperties['pop3.port'] ?: 25}")
+
+This will inject a system property pop3.port if it is defined or 25 if not.
+
+
+Collection Selection
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-collection-selection

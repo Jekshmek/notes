@@ -17,3 +17,6 @@ https://github.com/JetBrains/spek/issues/195
 
 extenstions
 https://github.com/rozkminiacz/SpekBddDsl
+
+parameterized
+https://blog.kotlin-academy.com/parametrized-tests-with-spek-e0e02d5766a
