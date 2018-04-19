@@ -8,9 +8,11 @@ module.exports = {
     entry: "./src/app.js",
     output: {
         path: __dirname + "/public", // need to be absolute
+        // publicPath: '/public',
         filename: "bundle.js"
     },
     devServer: {
+        // publicPath: '/public',
         contentBase: __dirname + "/public",
         port: 3000 // 8080
     }

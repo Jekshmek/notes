@@ -20,3 +20,6 @@ nmv
         list aliases
     install-latest-npm
         uttempt to upgrade to the latest npm
+    cache
+        dir
+        clear

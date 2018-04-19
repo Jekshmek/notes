@@ -1,2 +1,5 @@
+http://www.typescriptlang.org/
+https://github.com/Microsoft/TypeScript
+
 http://definitelytyped.org/
 https://github.com/DefinitelyTyped/DefinitelyTyped
