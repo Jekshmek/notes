@@ -17,3 +17,7 @@ https://docs.rs/csv/1.0.0-beta.1/csv/tutorial/index.html
 
 whatsnew
 https://blog.burntsushi.net/csv/
+
+let mut rdr = csv::ReaderBuilder::new()
+    .has_headers(false)
+    .from_reader(io::stdin());

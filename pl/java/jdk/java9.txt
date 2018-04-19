@@ -14,4 +14,8 @@ https://dzone.com/articles/jlink-in-java-9
 https://blog.knoldus.com/2018/01/08/jlink-in-java-9/
 
 modules in idea
+2018
+Mak - Migrating to Java 9 Modules
+https://www.infoq.com/presentations/java9-modules
+Advanced Support for Java 9 Modules in IntelliJ IDEA 
 https://dzone.com/articles/advanced-support-for-java-9-modules-in-intellij-idea

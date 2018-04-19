@@ -6,6 +6,7 @@ http://alignedleft.com/work/d3-book
 
 2017
 Rininsland - D3.js 4.x Data Visualization 3rd ed
+Meeks - D3.js in Action 2nd ed
 
 2013
 Teller - Data Visualization with D3

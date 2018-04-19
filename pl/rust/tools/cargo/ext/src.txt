@@ -1,0 +1,2 @@
+https://github.com/nrc/cargo-src
+https://ncameron.org/blog/announcing-cargo-src-beta/

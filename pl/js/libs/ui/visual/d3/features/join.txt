@@ -72,3 +72,28 @@ If the new dataset is smaller than the old one, the surplus elements end up in t
 If the new dataset is larger, the surplus data ends up in the enter selection and new nodes are added.
 If the new dataset is exactly the same size, then all the elements are simply updated with new positions, and no elements are added or removed. 
 
+!!!
+circle.data([32, 57, 112]);
+
+There is a second optional argument to each function you can also use:
+    The index of the element within its selection.
+    The index is often useful for positioning elements sequentially.
+
+circle.attr("cx", function(d, i) { return i * 100 + 30; });
+
+key-function
+https://bost.ocks.org/mike/constancy/
+
+You can control precisely which datum is bound to which element by specifying a key function to selection.data.
+For example, by using the identity function, you can rebind the circles to new data while ensuring
+    that existing circles are rebound to the same value in the new data, if any.
+
+var circle = svg.selectAll("circle")
+    .data([32, 57, 293], function(d) { return d; });
+
+circle.enter().append("circle")
+    .attr("cy", 60)
+    .attr("cx", function(d, i) { return i * 100 + 30; })
+    .attr("r", function(d) { return Math.sqrt(d); });
+
+circle.exit().remove();

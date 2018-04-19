@@ -8,6 +8,7 @@ Hope - Learning TensorFlow
     https://vk.com/doc4004138_454396687
 Zaccone - Deep Learning with TensorFlow
 Buduma - Fundamentals of Deep Learning
+Shukla - Machine Learning with TensorFlow MEAP
 
 2016
 Abrahams - TensorFlow For Machine Intelligence

@@ -222,3 +222,47 @@ This will inject a system property pop3.port if it is defined or 25 if not.
 
 Collection Selection
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-collection-selection
+
+Selection is a powerful expression language feature that allows you to transform some source collection into another by selecting from its entries.
+
+Selection uses the syntax
+    .?[selectionExpression].
+This will filter the collection and return a new collection containing a subset of the original elements.
+For example, selection would allow us to easily get a list of Serbian inventors:
+
+List<Inventor> list = (List<Inventor>) parser.parseExpression("Members.?[Nationality == 'Serbian']").getValue(societyContext);
+
+Selection is possible upon both lists and maps.
+In the former case the selection criteria is evaluated against each individual list element
+whilst against a map the selection criteria is evaluated against each map entry (objects of the Java type Map.Entry).
+Map entries have their key and value accessible as properties for use in the selection.
+
+This expression will return a new map consisting of those elements of the original map where the entry value is less than 27.
+
+Map newMap = parser.parseExpression("map.?[value<27]").getValue();
+
+In addition to returning all the selected elements, it is possible to retrieve just the first or the last value.
+To obtain the first entry matching the selection the syntax is
+    .^[selectionExpression]
+whilst to obtain the last matching selection the syntax is
+    .$[selectionExpression]
+
+Collection Projection
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-collection-projection
+
+Projection allows a collection to drive the evaluation of a sub-expression and the result is a new collection.
+The syntax for projection is
+    .![projectionExpression].
+Most easily understood by example, suppose we have a list of inventors but want the list of cities where they were born.
+Effectively we want to evaluate 'placeOfBirth.city' for every entry in the inventor list. Using projection:
+
+// returns ['Smiljan', 'Idvor' ]
+List placesOfBirth = (List)parser.parseExpression("Members.![placeOfBirth.city]");
+
+A map can also be used to drive projection and in this case the projection expression is evaluated against each entry in the map
+(represented as a Java Map.Entry).
+The result of a projection across a map is a list consisting of the evaluation of the projection expression against each map entry.
+
+
+Expression templating
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-templating

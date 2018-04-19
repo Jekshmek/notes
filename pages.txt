@@ -1,17 +1,13 @@
 ﻿URLs:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-collection-selection
-https://spring.io/blog/2018/03/28/property-binding-in-spring-boot-2-0#binder-api
-https://blog.burntsushi.net/csv/#reading-headers
-
-2014 Jun 15
-https://bost.ocks.org/mike/circles/#binding
-2013 Apr 26
-https://bost.ocks.org/mike/selection/
+https://blog.burntsushi.net/csv/#delimiters-quotes-and-variable-length-records
+https://bost.ocks.org/mike/selection/#subclass
+http://slides.com/annaps/d3-journey-to-the-source#/
+https://bl.ocks.org/mbostock/4063318
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Apr 18
+  Apr 19
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -32,7 +28,7 @@ Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
 Bykov - Gorky                                       -   03:00 (of   52:24)
-  https://www.youtube.com/watch?time_continue=197&v=S5pVHYDOasc
+  https://www.youtube.com/watch?v=S5pVHYDOasc
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -45,18 +41,20 @@ Dlugach                                             -   12:00 (of 1:01:39)
 Ortho:
 Paschenko - Game 1 - 22                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 12                                         -   00:00 (of)
+Ivliev - 13                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 23                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 10-Luka                                             -   00:00 (of   26:12)
     https://www.youtube.com/playlist?list=PLAmjzYUXOzYW7jxM97gg1WzbzL7PF3tAI
-Chernyak - 12 of 34                                 -   40:00 (of 1:32:43)
-    https://www.youtube.com/watch?v=fOX5VdXV_uc
+Chernyak - 13 of 34                                 -   03:00 (of 2:05:53)
+    https://www.youtube.com/watch?v=nrIRLIRIrMA
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sorokin - Family 1                                  -   31:00 (of 3:39:34)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
 
+https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
+https://predanie.ru/filonik-marina-sergeevna/hristianstvo-kak-dvizhenie-k-chemu/slushat/
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
