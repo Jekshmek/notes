@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/html-webpack-pug-plugin
+https://www.npmjs.com/package/html-webpack-template-pug
+
+https://www.youtube.com/watch?v=nLR5yUCjTis
+https://www.youtube.com/watch?v=Boqpfw_s77w
+
+https://extri.co/2017/05/23/using-htmlwebpackplugin-and-pug/
