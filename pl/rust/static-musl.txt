@@ -14,6 +14,7 @@ https://github.com/richfelker/musl-cross-make
 Nickol - Taking Rust to Production: Lessons Learned from the Habitat Project
 https://www.youtube.com/watch?v=zAXbPnfTJg4
 
+https://www.rust-lang.org/en-US/faq.html#why-do-rust-programs-have-larger-binary-sizes-than-C-programs
 https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html
 https://stackoverflow.com/questions/32762102/why-do-rust-programs-use-so-much-more-memory-than-the-c-haskell-and-ocaml-versi
 
@@ -24,3 +25,5 @@ https://www.reddit.com/r/rust/comments/7oco5d/executablelibrary_size_reduction/
 cargo-bloat
 https://github.com/RazrFalcon/cargo-bloat
 https://clap.rs/2018/01/09/new-years-weight-loss/
+
+rustc hello.rs -C opt-level=s

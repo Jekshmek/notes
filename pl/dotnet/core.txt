@@ -1,9 +1,11 @@
 https://github.com/dotnet/core
 
-whatsnew:
-https://github.com/dotnet/core/tree/master/release-notes
-https://www.infoq.com/news/2017/06/dotnetcore2-preview2
-https://blogs.msdn.microsoft.com/dotnet/2017/06/28/announcing-net-core-2-0-preview-2/
+extra
+    mono
+
+books
+2018
+Verma - Net Core 2 by Example
 
 dist
 https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-preview2-download.md
@@ -11,3 +13,8 @@ https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0
 docker:
 https://hub.docker.com/r/microsoft/dotnet/
 https://github.com/dotnet/dotnet-docker
+
+whatsnew
+https://github.com/dotnet/core/tree/master/release-notes
+https://www.infoq.com/news/2017/06/dotnetcore2-preview2
+https://blogs.msdn.microsoft.com/dotnet/2017/06/28/announcing-net-core-2-0-preview-2/
