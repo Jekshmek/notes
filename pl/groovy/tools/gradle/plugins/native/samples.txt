@@ -1,1 +1,2 @@
+https://github.com/gradle/native-samples
 https://github.com/gradle/gradle/tree/master/subprojects/docs/src/samples/native-binaries

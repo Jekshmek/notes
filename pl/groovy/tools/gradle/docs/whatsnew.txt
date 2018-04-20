@@ -1,4 +1,8 @@
+https://github.com/gradle/gradle/releases
+
 4.x
+https://docs.gradle.org/4.7/release-notes.html
+https://docs.gradle.org/4.6/release-notes.html
 https://docs.gradle.org/4.5/release-notes.html
 https://docs.gradle.org/4.4.1/release-notes.html
 

@@ -1,6 +1,9 @@
 http://books.goalkicker.com/KotlinBook/
 
-2017:
+2018
+Arias - Functional Kotlin
+
+2017
 Samuel - Programming Kotlin
 Jemerov -  Kotlin in Action
     https://github.com/panxl6/Kotlin-in-action/tree/master/ebook

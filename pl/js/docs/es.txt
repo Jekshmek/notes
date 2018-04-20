@@ -1,10 +1,23 @@
+spec
+https://tc39.github.io/ecma262/
+https://github.com/tc39/ecma262
+
 es6 in action
 https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
 https://www.sitepoint.com/es6-proxies/
 https://www.sitepoint.com/es6-symbols-uses/
 https://www.sitepoint.com/ecmascript-2015-generators-and-iterators/
 
-modules:
+async for
+https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements
+http://2ality.com/2018/04/async-iter-nodejs.html
+    https://habrahabr.ru/post/353886/
+
+iteration
+http://exploringjs.com/es6/ch_iteration.html
+http://exploringjs.com/es2018-es2019/ch_asynchronous-iteration.htmiiiiiiiiiil
+
+modules
 https://habrahabr.ru/company/tuturu/blog/326716/
 
 search
@@ -15,7 +28,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/imp
 
 books
 2018
+http://exploringjs.com/es2018-es2019/toc.html
 Harrison - ECMAScript Cookbook
+2017
+http://exploringjs.com/es6/index.html#toc_ch_iteration
 
 articles
 2018

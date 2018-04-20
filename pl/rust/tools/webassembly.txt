@@ -45,6 +45,9 @@ https://github.com/alexcrichton/wasm-bindgen
 https://github.com/astraw/bui-backend
 https://github.com/astraw/bui-backend/tree/master/bui-demo
 
+https://github.com/FreeMasen/wasm-chrome-hack
+https://www.reddit.com/r/rust/comments/8dhc2v/a_hacky_workaround_for_the/
+
 yew
 https://github.com/DenisKolodin/yew
 
@@ -78,6 +81,9 @@ https://docs.rs/wasm-pack
 https://github.com/ashleygwilliams/wasm-pack
 https://hacks.mozilla.org/2018/04/hello-wasm-pack/
     https://www.reddit.com/r/rust/comments/8d6kjp/hello_wasmpack_mozilla_hacks/
+
+twiggy code size profiler
+https://github.com/rustwasm/twiggy
 
 samples
 https://github.com/bzar/webchat-rs
