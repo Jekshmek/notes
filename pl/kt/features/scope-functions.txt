@@ -1,0 +1,2 @@
+2018
+https://kotlinexpertise.com/coping-with-kotlins-scope-functions/

@@ -1,3 +1,4 @@
+(deprecated in favour of failure-crate)
 https://crates.io/crates/error-chain
 https://docs.rs/error-chain/0.9.0/error_chain/
 https://github.com/brson/error-chain
