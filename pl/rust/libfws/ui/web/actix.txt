@@ -6,3 +6,7 @@ https://actix.github.io/actix-web/guide/
 
 https://www.reddit.com/r/rust/comments/78bs4s/ann_actix_asynchronous_web_framework/
 https://www.reddit.com/r/rust/comments/7l4wis/actixweb_graphql_struggling_with_handling/
+
+2018
+https://brandur.org/rust-web
+    https://habrahabr.ru/post/353990/
