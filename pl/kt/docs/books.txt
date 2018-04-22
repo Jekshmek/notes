@@ -2,6 +2,7 @@ http://books.goalkicker.com/KotlinBook/
 
 2018
 Arias - Functional Kotlin
+Adelekan - Kotling Programming by Example
 
 2017
 Samuel - Programming Kotlin

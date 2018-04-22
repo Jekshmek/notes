@@ -1,10 +1,15 @@
 https://www.reddit.com/r/ScalaConferenceVideos/
 
-ScalaDays:
-2017:
+ScalaUA
+https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg
+2018
+https://www.youtube.com/playlist?list=PL-RBtv_a80i5ppRhqtd9MhBZYgdgehvwl
+
+ScalaDays
+2017
 https://www.youtube.com/playlist?list=PLLMLOC3WM2r5Ei2mnSHCD-ZD04AXovttL
 
-ScalaWorld:
+ScalaWorld
 https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg
-2017:
+2017
 https://www.youtube.com/playlist?list=PL9KXdMOfekvYYX53KHR-28e3BjlTIEjbT
