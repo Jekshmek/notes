@@ -1,4 +1,8 @@
-2017:
+2018
+Josuttis - C++ Templates Revised
+https://www.youtube.com/watch?v=9PFMllbyaLM
+
+2017
 Dewhurst - Modern C++ interfaces
 https://www.youtube.com/watch?v=PFdWqa68LmA
 http://www.stevedewhurst.com/once_weakly/once-weakly20170215/once-weakly20170215.pdf

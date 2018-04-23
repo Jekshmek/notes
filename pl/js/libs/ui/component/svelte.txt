@@ -1,0 +1,17 @@
+https://svelte.technology/
+
+https://github.com/sveltejs/svelte
+
+https://svelte.technology/guide
+
+https://svelte.technology/repl
+
+webpack-loader
+https://github.com/sveltejs/svelte-loader
+rollup-plugin
+https://github.com/rollup/rollup-plugin-svelte
+
+2018
+https://habrahabr.ru/post/353896/
+https://habrahabr.ru/post/345028/
+https://habrahabr.ru/post/345208/

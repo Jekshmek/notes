@@ -36,3 +36,7 @@ https://www.infoq.com/news/2018/03/AnacondaShippingVSCOde
 VisualRust
 https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
 https://github.com/PistonDevelopers/VisualRust
+
+js
+https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5
+https://habrahabr.ru/post/354038/

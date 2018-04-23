@@ -13,3 +13,8 @@ https://website.education.wisc.edu/~swu28/d3t/concept.html
 d3.select
     #id
         by id
+
+
+https://bost.ocks.org/mike/selection/#group
+Another reason selections aren’t literally arrays of elements is that they are arrays of arrays of elements:
+    a selection is an array of groups, and each group is an array of elements

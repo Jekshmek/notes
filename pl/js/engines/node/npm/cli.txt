@@ -9,6 +9,8 @@ npm
                 dev-mode
             [--save]
             [--save-dev] [--save -D]
+            --exact
+                ?
     t test
     run
         build[:dev]

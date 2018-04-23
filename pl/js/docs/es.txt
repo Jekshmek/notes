@@ -15,7 +15,8 @@ http://2ality.com/2018/04/async-iter-nodejs.html
 
 iteration
 http://exploringjs.com/es6/ch_iteration.html
-http://exploringjs.com/es2018-es2019/ch_asynchronous-iteration.htmiiiiiiiiiil
+http://exploringjs.com/es2018-es2019/ch_asynchronous-iteration.html
+https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e
 
 modules
 https://habrahabr.ru/company/tuturu/blog/326716/
@@ -26,6 +27,9 @@ mdn <term>
 import
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
+decorators
+https://www.sitepoint.com/javascript-decorators-what-they-are/
+
 books
 2018
 http://exploringjs.com/es2018-es2019/toc.html
@@ -35,6 +39,7 @@ http://exploringjs.com/es6/index.html#toc_ch_iteration
 
 articles
 2018
+https://www.sitepoint.com/lodash-features-replace-es6/
 https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b
     https://habrahabr.ru/company/ruvds/blog/353446/
 https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
