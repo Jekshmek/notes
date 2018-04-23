@@ -1,5 +1,6 @@
-3.0
-https://www.microsoft.com/en-us/download/details.aspx?id=34595
+https://microsoft.com/powershell
+https://docs.microsoft.com/en-us/powershell/
+https://github.com/PowerShell/PowerShell
 
 $PSVersionTable
 $PSVersionTable.PSVersion
