@@ -1,8 +1,7 @@
 ﻿URLs:
 https://blog.burntsushi.net/csv/#reading-with-serde
 https://bost.ocks.org/mike/selection/#non-grouping
-http://slides.com/annaps/d3-journey-to-the-source#/
-https://bl.ocks.org/mbostock/4063318
+https://www.dashingd3js.com/svg-group-element-and-d3js
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
@@ -96,6 +95,4 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 nlp - word vectors
   https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
-бинокль hawke compact 12x25
-
-https://github.com/sindresorhus/awesome
+hawke compact 12x25
