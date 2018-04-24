@@ -4,5 +4,8 @@ https://github.com/greensock/GreenSock-JS
 https://greensock.com/tweenmax
 https://greensock.com/docs/TweenMax
 
+morphsvg
+https://greensock.com/morphSVG
+
 2012
 https://habrahabr.ru/post/144466/

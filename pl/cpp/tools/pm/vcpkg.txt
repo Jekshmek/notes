@@ -1,0 +1,7 @@
+https://github.com/Microsoft/vcpkg
+
+https://blogs.msdn.microsoft.com/vcblog/2018/04/24/announcing-a-single-c-library-manager-for-linux-macos-and-windows-vcpkg/
+
+https://vcpkg.readthedocs.io/en/latest/
+
+https://github.com/Microsoft/vcpkg/blob/master/docs/index.md

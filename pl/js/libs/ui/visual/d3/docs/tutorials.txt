@@ -8,6 +8,8 @@ http://d3indepth.com/
 
 http://www.recursion.org/d3-for-mere-mortals/
 
+https://www.dashingd3js.com/table-of-contents
+
 2014
 https://bost.ocks.org/mike/algorithms/
 

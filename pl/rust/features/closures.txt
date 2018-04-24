@@ -7,5 +7,6 @@ worker = spawn(move {
 move - move means captare it's env-vars (worker_rx, worker_tx)
 by moving them into the closure value, not by borrowing them
 
+http://smallcultfollowing.com/babysteps/blog/2018/04/24/rust-pattern-precise-closure-capture-clauses/
 https://medium.com/journey-to-rust/closures-4231062ff1a5
 https://medium.com/journey-to-rust/closures-part-2-29536393dd92

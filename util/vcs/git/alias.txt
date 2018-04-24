@@ -4,7 +4,9 @@ https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
 fzf-ones:
 https://github.com/fcsonline/dotfiles/blob/master/git/gitconfig
 
-Aliases:
+aliases
+https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
+https://vagr9k.me/making-git-usage-more-comfortable-with-aliases
 
 ~/.gitconfig
 [alias]

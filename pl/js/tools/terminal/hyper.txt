@@ -1,0 +1,11 @@
+https://hyper.is/
+
+community
+    hyper
+aur
+    hyper
+    hyper-bin
+    hyper-appimage
+
+themes:
+https://hyperthemes.matthi.coffee/

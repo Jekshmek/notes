@@ -1,0 +1,5 @@
+https://webpack.js.org/guides/code-splitting/
+https://webpack.js.org/guides/code-splitting/#dynamic-imports
+
+2018
+https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c
