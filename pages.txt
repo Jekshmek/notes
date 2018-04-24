@@ -1,6 +1,6 @@
 ﻿URLs:
-https://blog.burntsushi.net/csv/#reading-with-serde
-https://bost.ocks.org/mike/selection/#non-grouping
+https://blog.burntsushi.net/csv/#handling-invalid-data-with-serde
+https://bost.ocks.org/mike/selection/#key
 https://www.dashingd3js.com/svg-group-element-and-d3js
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -26,12 +26,8 @@ Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
-Bykov - Potter                                      -   40:00 (of 1:25:43)
-    https://yadi.sk/d/M-glam6M3TCsLY
-Bykov - Nosov
-    https://www.youtube.com/watch?v=4HIF3P8p-lo
-Bykov - Gorky                                       -   03:00 (of   52:24)
-  https://www.youtube.com/watch?v=S5pVHYDOasc
+Bykov - Alexander Rodnyansky                        - 1:14:23 (of 1:44:57)
+  https://yadi.sk/d/h6sRQC5c3Uhdcq
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -44,7 +40,7 @@ Dlugach                                             -   12:00 (of 1:01:39)
 Ortho:
 Paschenko - Game 2 - ??                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
-Ivliev - 13                                         -   00:00 (of)
+Ivliev - 14                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 24                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -58,6 +54,7 @@ Sorokin - Family 1                                  -   31:00 (of 3:39:34)
 
 https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
 https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
+https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/filonik-marina-sergeevna/hristianstvo-kak-dvizhenie-k-chemu/slushat/
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/

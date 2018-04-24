@@ -18,3 +18,17 @@ d3.select
 https://bost.ocks.org/mike/selection/#group
 Another reason selections aren’t literally arrays of elements is that they are arrays of arrays of elements:
     a selection is an array of groups, and each group is an array of elements
+
+data binding
+https://bost.ocks.org/mike/selection/#data
+Data is bound to elements one of several ways:
+    Joined to groups of elements via selection.data.
+    Assigned to individual elements via selection.datum.
+    Inherited from a parent via append, insert, or select. 
+
+However, unlike the other selection methods,
+    selection.data defines data per-group rather than per-element: 
+    data is expressed as an array of values for the group, or a function that returns such an array.
+
+For selections with only a single group, you can pass the corresponding single array to selection.data directly;
+you only need a function when binding different data to different groups. 
