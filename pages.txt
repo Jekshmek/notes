@@ -2,6 +2,8 @@
 https://blog.burntsushi.net/csv/#writing-csv
 https://bost.ocks.org/mike/selection/#key
 https://bost.ocks.org/mike/constancy/
+https://ru-bykov.livejournal.com/3384276.html
+1
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
@@ -20,8 +22,6 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
 Video:
-Bykov - Uspensky                                    -   11:00 (of   40:56)
-  http://lleo.me/VIDEO/O2TV/2008-04-02.mp4
 Putin                                               -   05:00 (of 1:57:01)
   https://www.youtube.com/watch?v=6slFfemBnN8
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
