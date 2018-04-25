@@ -6,6 +6,9 @@ cargo build --target wasm32-unknown-unknown --release
 
 https://rust-lang-nursery.github.io/rust-wasm/introduction.html
 
+this week
+https://rustwasm.github.io/2018/04/21/this-week-in-rust-wasm-001.html
+
 2018
 https://kripken.github.io/blog/binaryen/2018/04/18/rust-emscripten.html
 https://medium.com/@KevinHoffman/javascript-interop-with-webassembly-2c69a3db19e9
