@@ -1,0 +1,4 @@
+https://blog.takipi.com/java-11-will-include-more-than-just-features/
+
+amber
+https://dzone.com/articles/what-is-project-amber-in-java

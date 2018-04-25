@@ -1,0 +1,4 @@
+10
+http://www.opennet.ru/opennews/art.shtml?num=48490
+https://medium.com/@nodejs/the-node-js-project-introduces-latest-release-line-node-js-10-x-bf07abfa9076
+https://habr.com/post/354234/
