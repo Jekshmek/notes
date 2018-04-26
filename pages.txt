@@ -1,14 +1,13 @@
 ﻿URLs:
 https://blog.burntsushi.net/csv/#writing-csv
-https://bost.ocks.org/mike/selection/#key
-https://bost.ocks.org/mike/constancy/
+Ilf&Petrov
 https://ru-bykov.livejournal.com/3384276.html
-1
+2
 
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Apr 25
+  Apr 26
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -30,6 +29,10 @@ Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit:
+Bykov - Pushkin, Lermontov, Tolstoy                 -   19:00 (of 1:38:51)
+  https://yadi.sk/d/RmNlvvU83TcD4c
+Bykov - Reznik                                      -   37:00 (of 2:18:57)
+  https://www.youtube.com/watch?v=UEtg8XnKXfM
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -51,7 +54,7 @@ Sorokin - B 25                                      -   00:00 (of)
 Chernyak - 14 of 34                                 - 1:04:00 (of 1:41:20)
     https://www.youtube.com/watch?v=jmQs4kzc-c4
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sorokin - Family 1                                  -   31:00 (of 3:39:34)
+Sorokin - Family 1                                  - 1:42:00 (of 3:39:34)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
 
 https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
@@ -78,8 +81,8 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking:
+This week in rust                                   - 231
 Razbor Poletov                                      - 157
-This week in rust                                   - 230
 http://accu.org/index.php/journals/c78/             - 144
 
 Series:

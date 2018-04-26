@@ -1,0 +1,4 @@
+2018
+Ratajski - Beauty and the beast Haskell on JVM
+https://www.youtube.com/watch?v=Sc5xzyDWU64
+http://www.lambdadays.org/static/upload/media/1520323372815660jarekratajskibeautyandthebeasthaskellonjvm.pdf

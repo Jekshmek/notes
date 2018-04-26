@@ -33,3 +33,51 @@ However, unlike the other selection methods,
 
 For selections with only a single group, you can pass the corresponding single array to selection.data directly;
 you only need a function when binding different data to different groups. 
+
+
+https://bost.ocks.org/mike/selection/#enter-update-exit
+These are the three selections returned by
+    selection.data
+    selection.enter
+    selection.exit
+
+While update and exit are normal selections, enter is a subclass of selection.
+This is necessary because it represents elements that do not yet exist.
+An enter selection contains placeholders rather than DOM elements;
+    these placeholders are simply objects with a __data__ property. 
+
+The implementation of
+    enter.select (https://github.com/d3/d3-selection/blob/master/src/selection/enter.js)
+is then specialized such that nodes are inserted into the group’s parent, replacing the placeholder
+
+This is why it is critical to call selection.selectAll prior to a data join:
+    it establishes the parent node for entering elements. 
+
+
+https://bost.ocks.org/mike/selection/#enter-update
+general update pattern
+https://bl.ocks.org/mbostock/3808218
+
+Often, there’s overlap between properties of updating and entering elements.
+
+To reduce duplicate code, enter.append has a convenient side-effect:
+it replaces null elements in the update selection with the newly-created elements from the enter selection.
+
+Thus, after enter.append, the update selection is modified to contain both entering and updating elements.
+The update selection subsequently contains all currently-displayed elements: 
+
+[picture]
+
+With the selection once again consistent with the document, the life-cycle of the data join is complete. 
+
+https://bost.ocks.org/mike/constancy/#key-functions
+
+When you join the top-ten states to the bars, three selections are returned:
+
+var bar = svg.selectAll(".bar")
+    .data(top, function(d) { return d.State; });
+
+The selection bar is the update selection:
+    states that persist across the transition.
+The selections bar.enter() and bar.exit() are the enter and exit selections:
+    states that are incoming or outgoing, respectively. 
