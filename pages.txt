@@ -1,5 +1,5 @@
-﻿URLs:
-https://blog.burntsushi.net/csv/#writing-csv
+﻿URLs
+https://blog.burntsushi.net/csv/#writing-with-serde
 Ilf&Petrov
 https://ru-bykov.livejournal.com/3384276.html
 2
@@ -7,7 +7,7 @@ https://ru-bykov.livejournal.com/3384276.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Apr 26
+  Apr 27
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -20,7 +20,7 @@ Levandovsky - about Bykov
 Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
-Video:
+Video
 Putin                                               - 1:50:00 (of 1:57:01)
   https://www.youtube.com/watch?v=6slFfemBnN8
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
@@ -28,8 +28,9 @@ Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
-Lit:
-Bykov - Pushkin, Lermontov, Tolstoy                 -   19:00 (of 1:38:51)
+Lit
+2018-04-27-odin-0005                                -   28:00 (of 1:42:41)
+Bykov - Pushkin, Lermontov, Tolstoy                 -   53:00 (of 1:38:51)
   https://yadi.sk/d/RmNlvvU83TcD4c
 Bykov - Reznik                                      -   37:00 (of 2:18:57)
   https://www.youtube.com/watch?v=UEtg8XnKXfM
@@ -42,7 +43,7 @@ Volkova 2                                           -   00:00 (of 1:28:48)
 Dlugach                                             -   12:00 (of 1:01:39)
   https://www.youtube.com/watch?v=1fJLOagNVCM
 
-Ortho:
+Ortho
 Paschenko - Game 2 - ??                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/
 Ivliev - 14                                         -   00:00 (of)
@@ -54,7 +55,7 @@ Sorokin - B 25                                      -   00:00 (of)
 Chernyak - 14 of 34                                 - 1:04:00 (of 1:41:20)
     https://www.youtube.com/watch?v=jmQs4kzc-c4
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sorokin - Family 1                                  - 1:42:00 (of 3:39:34)
+Sorokin - Family 1                                  - 2:10:00 (of 3:39:34)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
 
 https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
@@ -80,17 +81,17 @@ https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hrist
 shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
-Tracking:
+Tracking
 This week in rust                                   - 231
 Razbor Poletov                                      - 157
 http://accu.org/index.php/journals/c78/             - 144
 
-Series:
+Series
 Linux Networking 04                                 -   06:00 (of 1:04:40)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
-Books:
+Books
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
@@ -99,4 +100,3 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 nlp - word vectors
   https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
-hawke compact 12x25

@@ -1,34 +1,36 @@
-Books:
+books
 Marlow-ParallelAndConcurrentProgrammingInHaskell - ch 8
 
-Asynchronous:
+asynch exceptions
+2018
+https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
 https://www.snoyman.com/reveal/async-exception-handling#/
 https://www.youtube.com/watch?v=T5y8sFmCFnA
 http://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html
 https://www.reddit.com/r/haskell/comments/5pv7rz/asynchronous_exceptions_in_practice_simon_marlow/
 
 
-Well-Typed - Lightweight Checked Exceptions in Haskell:
+Well-Typed - Lightweight Checked Exceptions in Haskell
 http://www.well-typed.com/blog/2015/07/checked-exceptions/
 http://www.reddit.com/r/haskell/comments/3f9ycj/lightweight_checked_exceptions_in_haskell/
 
-FP Complete:
+FP Complete
 https://www.fpcomplete.com/blog/2017/02/monadmask-vs-monadbracket
 https://www.reddit.com/r/haskell/comments/5bkqf1/exceptions_best_practices_in_haskell/
 https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 http://www.reddit.com/r/haskell/comments/35sk6w/best_practices_for_using_exceptions_an_fp/
 https://www.fpcomplete.com/user/commercial/content/exceptions-best-practices
 
-Articles:
+articles
 Wadler - How to replace failure by a list of success
 Stewart - Scripting with Types (http://donsbot.files.wordpress.com/2009/01/semicolon.pdf)
 https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling
 
-Tutorials:
+tutorials
 https://www.reddit.com/r/haskell/comments/4uzok7/exception_safety_in_haskell/
 https://haskell-lang.org/tutorial/exception-safety
 
-Blogs:
+blogs
 http://eax.me/haskell-exceptions/
 !!! Control.Exception is the current module, all the other are obsolete
 
@@ -39,23 +41,23 @@ WellTyped - Exceptions
 http://www.reddit.com/r/haskell/comments/2ety9f/new_blog_post_dealing_with_asynchronous/
 http://www.well-typed.com/blog/97/
 
-StackOverflow:
+StackOverflow
 Marlow-ParallelAndConcurrentProgrammingInHaskell
 http://stackoverflow.com/questions/18052619/how-do-i-correctly-use-control-exception-catch-in-haskell
 
-HaskellBase:
+HaskellBase
 http://hackage.haskell.org/packages/archive/base/latest/doc/html/Control-Exception.html
 http://hackage.haskell.org/packages/archive/base/latest/doc/html/Control-Exception-Base.html
 http://hackage.haskell.org/packages/archive/base/latest/doc/html/GHC-Conc-Sync.html
 
-lifted-base:
+lifted-base
 http://hackage.haskell.org/package/lifted-base
 
-Yuras:
+Yuras
 http://www.reddit.com/r/haskell/comments/2mwrrd/handling_async_exceptions_in_haskell_pushing/
 https://github.com/Yuras/io-region/wiki/Handling-%28async%29-exceptions-in-haskell:-pushing-bracket-to-the-limits
 
-Lato:
+Lato
 http://johnlato.blogspot.com/2014/11/exception-handling-and-cleanup.html
 
 1. catch
@@ -75,7 +77,7 @@ catch :: Exception e
 handle     :: Exception e => (e -> IO a) -> IO a -> IO a
 handle     =  flip catch
 
-Exceptions in Async:
+Exceptions in Async
 https://www.fpcomplete.com/user/snoyberg/general-haskell/exceptions/catching-all-exceptions
   withAsync/waitCatch of https://github.com/simonmar/async/blob/master/Control/Concurrent/Async.hs
 http://www.reddit.com/r/haskell/comments/1i5coe/catching_all_exceptions_school_of_haskell/

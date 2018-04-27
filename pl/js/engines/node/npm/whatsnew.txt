@@ -1,0 +1,2 @@
+6
+https://blog.npmjs.org/post/173260195980/announcing-npm6
