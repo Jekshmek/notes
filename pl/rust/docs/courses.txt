@@ -1,3 +1,8 @@
+2018
+https://www.cs.umd.edu/class/spring2018/cmsc330/
+https://github.com/anwarmamat/cmsc330spring18-public/tree/master/p5
+
+?
 http://cis198-2016s.github.io/schedule/
 https://github.com/cis198-2016s
 https://github.com/cis198-2016s/slides

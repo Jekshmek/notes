@@ -37,3 +37,10 @@ http://ssw.jku.at/General/Staff/TW/igv.html
 
 HotSwap:
 https://comserv.cs.ut.ee/home/files/Pool_ComputerScience_2016.pdf?study=ATILoputoo&reference=6319668E7151D556131810BC3F4A627D7FEF5F3B
+
+tools
+http://www.graalvm.org/docs/reference-manual/tools/
+
+whatsnew
+https://www.infoq.com/news/2018/04/oracle-graalvm-v1
+https://blogs.oracle.com/developers/announcing-graalvm

@@ -56,6 +56,7 @@ without the 'a parameter, Rust would not be able to distinguish between
         which may have `&str`'s pointing into a `String` on the stack  
 
 NLL (Non-lexical lifetimes)
+http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
 https://santiagopastorino.com/how-to-use-rust-non-lexical-lifetimes-on-nightly/
     -Znll-dump-cause
 https://rust-lang.github.io/rfcs/2094-nll.html

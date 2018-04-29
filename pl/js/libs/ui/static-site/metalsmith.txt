@@ -1,0 +1,8 @@
+http://www.metalsmith.io/
+
+https://github.com/segmentio/metalsmith
+
+https://github.com/metalsmith/awesome-metalsmith
+
+2018
+https://habr.com/company/tinkoff/blog/353022/
