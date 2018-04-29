@@ -1,0 +1,2 @@
+2018
+https://dzone.com/articles/stop-using-jwts-as-session-tokens

@@ -20,6 +20,8 @@ buildscript {
     }
 }
 
+https://github.com/JetBrains/kotlin-native/blob/master/CONCURRENCY.md
+
 samples
 https://github.com/JetBrains/kotlin-native/tree/master/samples/tensorflow
 https://github.com/JetBrains/kotlin-native/blob/master/samples/tensorflow/build.gradle
