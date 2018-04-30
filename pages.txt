@@ -7,7 +7,7 @@ https://ru-bykov.livejournal.com/3384276.html
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  Apr 29
+  Apr 30
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -27,6 +27,8 @@ Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
+Graal VM
+  https://www.youtube.com/watch?v=wBegU4d4GRc
 
 Lit
 Bykov - Lenin                                       -   32:00 (of 1:04:49)
