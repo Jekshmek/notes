@@ -1,4 +1,8 @@
-﻿URLs
+﻿http://errorprone.info/
+http://errorprone.info/bugpattern/PreconditionsCheckNotNull
+https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext
+
+URLs
 https://blog.burntsushi.net/csv/#writing-with-serde
 Ilf&Petrov
 https://ru-bykov.livejournal.com/3384276.html
