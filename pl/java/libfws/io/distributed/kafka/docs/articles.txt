@@ -1,3 +1,7 @@
+2018
+https://habr.com/post/354486/
+
+2016
 http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html
 http://aseigneurin.github.io/2016/03/03/kafka-spark-avro-consume-messages-with-spark.html
 http://aseigneurin.github.io/2016/03/04/kafka-spark-avro-producing-and-consuming-avro-messages.html
