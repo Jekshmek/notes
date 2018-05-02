@@ -3,8 +3,10 @@ https://docs.oracle.com/javase/9/index.html
 multi-release jar files
 http://openjdk.java.net/jeps/238
 
-http://kto.so/2017/09/30/the-practical-truth-about-multi-release-jars/
+books
+Patel - Java 9 Dependency Injection
 
+presentations
 Horstmann - Java 9 The Good Parts
 https://www.youtube.com/watch?v=_cvgg9szPH8
 https://downloads.contentful.com/oxjq45e8ilak/2s5MGeyxUYYkKKyyswaO4g/c23bb60468136f8a050124fbb6fd8e4a/CayHorstmann-Java9.pdf
@@ -13,9 +15,12 @@ jlink
 https://dzone.com/articles/jlink-in-java-9
 https://blog.knoldus.com/2018/01/08/jlink-in-java-9/
 
+presentations
 modules in idea
 2018
 Mak - Migrating to Java 9 Modules
 https://www.infoq.com/presentations/java9-modules
 Advanced Support for Java 9 Modules in IntelliJ IDEA 
 https://dzone.com/articles/advanced-support-for-java-9-modules-in-intellij-idea
+2017
+http://kto.so/2017/09/30/the-practical-truth-about-multi-release-jars/

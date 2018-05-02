@@ -1,4 +1,6 @@
 2018
+Maldini - Project Reactor - Now and Tomorrow
+https://www.infoq.com/presentations/spring-reactor
 Hale - Designing Implementing and Using Reactive APIs
 https://www.infoq.com/presentations/cloud-foundry-reactive-api
 Grazi - Reactor in Action
