@@ -1,1 +1,0 @@
-https://dlang.org/spec/betterc.html
