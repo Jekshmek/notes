@@ -1,1 +1,5 @@
-https://habrahabr.ru/company/mailru/blog/319194/
+2018
+https://habr.com/post/354748/
+2017
+https://fuzzyreflection.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/
+    https://habrahabr.ru/company/mailru/blog/319194/
