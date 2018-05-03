@@ -1,6 +1,8 @@
 2018
 TensorFlow Tutorial - Deep Learning
 https://www.youtube.com/watch?v=Xl4pk2ZOc_0
+What is TensorFlow? | Introduction to TensorFlow | TensorFlow Tutorial For Beginners | Simplilearn
+https://www.youtube.com/watch?v=E8n_k6HNAgs
 
 2017
 Fullwood - A gentle introduction to deep learning with TensorFlow

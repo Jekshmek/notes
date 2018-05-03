@@ -1,0 +1,5 @@
+https://github.com/dlang/druntime
+
+2017
+http://dconf.org/2017/talks/cojocaru.htmlo
+http://dconf.org/2017/talks/cojocaru.pptx

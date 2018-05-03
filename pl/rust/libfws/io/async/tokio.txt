@@ -1,7 +1,7 @@
-tokio-process:
+tokio-process
 https://github.com/alexcrichton/tokio-process/pull/1
 
-futures:
+futures
 https://www.coredump.ch/2017/07/05/understanding-the-tokio-reactor-core/
 
 articles
@@ -14,10 +14,13 @@ https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2018/01/2
 http://asquera.de/blog/2017-03-01/the-future-with-futures/
 https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34
 
-internals:
+internals
 https://cafbit.com/post/tokio_internals/
 
-samples:
+whatsnew
+https://tokio.rs/blog/2018-05-tokio-fs/
+
+samples
 https://www.rubdos.be/rust/2017/02/01/implementing-htsp-in-rust.html
 https://www.reddit.com/r/rust/comments/5vfgt1/feedbacks_on_writing_asynchronous_http_server/
 https://blog.guillaume-gomez.fr/articles/2017-02-22+Rust+asynchronous+HTTP+server+with+tokio+and+hyper

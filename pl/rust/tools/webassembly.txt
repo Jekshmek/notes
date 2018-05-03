@@ -6,6 +6,11 @@ cargo build --target wasm32-unknown-unknown --release
 
 https://rust-lang-nursery.github.io/rust-wasm/introduction.html
 
+tutorial
+https://freemasen.github.io/wasm_tutorial/
+https://github.com/freemasen/wasm_tutorial
+https://github.com/freemasen/wasm_hw
+
 this week
 https://rustwasm.github.io/2018/04/21/this-week-in-rust-wasm-001.html
 
@@ -94,3 +99,5 @@ https://github.com/rustwasm/twiggy
 samples
 https://github.com/bzar/webchat-rs
 https://github.com/kirjavascript/snake-rs
+https://xuu.github.io/wasm-tetris/
+https://github.com/xuu/wasm-tetris
