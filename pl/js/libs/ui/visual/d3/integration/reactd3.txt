@@ -10,6 +10,19 @@ https://github.com/react-d3-library/react-d3-library
 http://codesuki.github.io/react-d3-components/example.html
 https://github.com/codesuki/react-d3-components
 
+https://github.com/emeeks/semiotic/
+
+http://recharts.org
+http://recharts.org/en-US/
+
+https://github.com/Olical/react-faux-dom
+https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/
+
+articles
+2018
+https://habr.com/post/354806/
+
+presentations
 https://www.slideshare.net/fwdays/reactd3
 https://engineering.billymob.com/integrating-d3-with-react-memo-20e5999e2053
 https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/

@@ -31,6 +31,21 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/imp
 decorators
 https://www.sitepoint.com/javascript-decorators-what-they-are/
 
+const
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+
+let
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+
+template literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+class
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+arrow functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
 books
 2018
 http://exploringjs.com/es2018-es2019/toc.html
