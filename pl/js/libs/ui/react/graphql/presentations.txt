@@ -1,4 +1,6 @@
 2018
+Chertorogov - GraphQL client-server contract
+https://www.youtube.com/watch?v=F4vHSHzpO1g
 Short - Serverless GraphQL
 https://www.infoq.com/presentations/serverless-graphql
 https://github.com/serverless/serverless-graphql

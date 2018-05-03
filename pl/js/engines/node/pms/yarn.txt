@@ -55,6 +55,7 @@ yarn[pkg]
         install deps at the current project
     upgrade
         ...
+    upgrade-interactive
     remove
         [package]
 
