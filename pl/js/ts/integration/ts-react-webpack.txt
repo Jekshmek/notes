@@ -1,0 +1,2 @@
+https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
+https://stackoverflow.com/questions/38804312/harmony-between-react-templates-typescript-and-webpack

@@ -1,3 +1,11 @@
+2018
+JavaScriptRU - Ract
+https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO
+
+2016
+ReactJS lessons
+https://www.youtube.com/playlist?list=PLIcAMDxr6tpoShAiU0Nh_nBtg19XWbCql
+
 Kosenko - ReactJs - Introduction to the library 
 good history...
 Nauck-2014-ReactJS-KeepSimple

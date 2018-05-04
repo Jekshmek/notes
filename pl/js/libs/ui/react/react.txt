@@ -27,4 +27,4 @@ redux
 redux-devtools-extension
 redux-logger
 redux-promise-middleware
-redux-thunk
+redux-thunk (does not scale)

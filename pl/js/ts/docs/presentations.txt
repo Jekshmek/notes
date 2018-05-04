@@ -1,0 +1,5 @@
+2017
+https://www.slideshare.net/yfain/typescript-for-java-developers
+https://www.slideshare.net/udai1975/typescript-in-30mins
+https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488
+https://www.slideshare.net/OriCalvo/typescript-tips-tricks

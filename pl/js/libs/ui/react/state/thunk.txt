@@ -1,1 +1,2 @@
+does not scale, look at sagas
 https://github.com/gaearon/redux-thunk

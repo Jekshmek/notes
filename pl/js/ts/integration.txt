@@ -1,3 +1,0 @@
-https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
-
-https://github.com/Microsoft/TypeScript-Babel-Starter
