@@ -1,0 +1,26 @@
+2005
+8.0.61000
+x64
+
+2008
+9.0.30729 - x64
+9.0.30729.4974 - x86
+9.0.30729.6161 - x64/x86
+
+2010
+10.0.40219 - x64/x86
+https://www.microsoft.com/en-us/download/details.aspx?id=14632
+https://www.microsoft.com/en-us/download/details.aspx?id=8328
+
+2013
+12.0.21005 x64/x86
+https://www.microsoft.com/en-gb/download/details.aspx?id=40784
+? msvcp120.dll
+
+2015
+14.0.24210 - x64/x86
+?
+14.0.24123 - x64/x86
+https://www.microsoft.com/en-us/download/details.aspx?id=52685
+?
+https://www.microsoft.com/en-us/download/details.aspx?id=48145

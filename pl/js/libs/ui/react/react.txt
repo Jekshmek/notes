@@ -15,3 +15,16 @@ https://reactjs.org/docs/cdn-links.html
 
 babel preset
 https://babeljs.io/docs/plugins/preset-react/
+
+packages
+react
+react-dev-utils
+react-dom
+react-hot-loader
+react-redux
+react-router-dom
+redux
+redux-devtools-extension
+redux-logger
+redux-promise-middleware
+redux-thunk
