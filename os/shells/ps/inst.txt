@@ -3,5 +3,9 @@ https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-powershel
 https://github.com/PowerShell/PowerShell/releases
 https://github.com/PowerShell/PowerShell/releases/tag/v6.0.2
 
+aur
+    powershell (src-based)
+    powershell-bin (deb-based
+
 3.0
 https://www.microsoft.com/en-us/download/details.aspx?id=34595

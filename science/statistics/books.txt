@@ -47,3 +47,7 @@ Volodin Tihonov Turilova - Math fundamentals of probability
 http://kpfu.ru/docs/F1662245716/MOV.pdf
 
 Ventsel - Probability Excercises ru
+
+?
+Practical Statistics for Data Scientists
+https://vk.com/doc273848965_448552419

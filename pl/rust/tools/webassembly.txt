@@ -50,6 +50,14 @@ https://github.com/koute/cargo-web
 https://github.com/koute/cargo-web/issues/24
 https://github.com/TheMegaTB/cargo-web-loader
 
+stdweb
+https://crates.io/crates/stdweb
+https://docs.rs/stdweb
+https://github.com/koute/stdweb
+https://crates.io/crates/stdweb-derive
+https://crates.io/crates/stdweb-internal-macros
+https://crates.io/crates/webgl_generator
+
 wasm-bindgen
 https://github.com/alexcrichton/wasm-bindgen
 

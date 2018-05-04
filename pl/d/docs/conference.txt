@@ -1,5 +1,8 @@
 DConf
 2018
+livestream
+    https://www.youtube.com/watch?v=HvqsUO77FGI
+    https://www.youtube.com/watch?v=e5HsyEnyvlM
 https://dconf.org/2018/schedule/
 https://dconf.org/2018/talks/
 2017

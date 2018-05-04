@@ -2,9 +2,9 @@ https://microsoft.com/powershell
 https://docs.microsoft.com/en-us/powershell/
 https://github.com/PowerShell/PowerShell
 
-docs
-https://aka.ms/pscore6-docs
-https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6
+aur
+    powershell (src-based)
+    powershell-bin (deb-based
 
 startup
 https://github.com/PowerShell/PowerShell/issues/1190

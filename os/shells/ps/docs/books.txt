@@ -1,0 +1,3 @@
+2017
+Stanek - Windows PowerShell 6
+Jones - Learn Windows PowerShell 6 in a Month of Lunches 3rd ed
