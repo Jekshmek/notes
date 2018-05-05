@@ -22,6 +22,11 @@ buildscript {
 
 https://github.com/JetBrains/kotlin-native/blob/master/CONCURRENCY.md
 
+presentations
+2018
+Igotti - Developing Kotlin/Native infrastructure with LLVM
+https://www.youtube.com/watch?v=DqsYo_4QWSg
+
 samples
 https://github.com/JetBrains/kotlin-native/tree/master/samples/tensorflow
 https://github.com/JetBrains/kotlin-native/blob/master/samples/tensorflow/build.gradle

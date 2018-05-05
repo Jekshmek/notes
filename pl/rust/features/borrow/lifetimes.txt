@@ -4,6 +4,8 @@ https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles:
 2018
+https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
+    https://www.reddit.com/r/rust/comments/8h2kt5/blog_post_encapsulating_lifetime_of_the_field/
 http://asquera.de/blog/2018-01-29/rust-lifetimes-for-the-uninitialised/
 https://jvns.ca/blog/2017/11/27/rust-ref/
 https://dev.to/buntine/aha-understanding-lifetimes-in-rust

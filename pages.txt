@@ -1,4 +1,6 @@
-﻿https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
+﻿https://machinelearningmastery.com/a-gentle-introduction-to-the-central-limit-theorem-for-machine-learning/
+
+https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
 https://www.slideshare.net/amine789/getting-started-with-typescript-72733842o
 
 2018
@@ -20,6 +22,7 @@ https://www.slideshare.net/RemoJansen/react-redux-typescript
 https://www.slideshare.net/aniruddha.chakrabarti/typescript-44668095
 
 URLs
+https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
 https://blog.burntsushi.net/csv/#amortizing-allocations
 https://habr.com/company/philtech/blog/354596/
     short descr
@@ -27,7 +30,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  May 4
+  May 5
 cpp - iterator category/tag-dispatching
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
