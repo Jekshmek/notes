@@ -7,3 +7,7 @@ https://www.slideshare.net/yfain/typescript-for-java-developers
 https://www.slideshare.net/udai1975/typescript-in-30mins
 https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488
 https://www.slideshare.net/OriCalvo/typescript-tips-tricks
+https://www.slideshare.net/amine789/getting-started-with-typescript-72733842
+
+2015
+https://www.slideshare.net/aniruddha.chakrabarti/typescript-44668095

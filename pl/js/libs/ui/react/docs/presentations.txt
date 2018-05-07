@@ -1,6 +1,7 @@
 2018
 JavaScriptRU - Ract
 https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO
+https://learn.javascript.ru/screencast/react
 
 2016
 ReactJS lessons

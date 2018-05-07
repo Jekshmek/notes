@@ -38,10 +38,14 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
 Abramove - The Redux Journey
 https://www.youtube.com/watch?v=uvAXVMwHJXU
 
-books:
+books
 http://bpxl-labs.github.io/redux-handbook/
 Paciansky - Redux Course ru
+https://maxfarseer.gitbooks.io/redux-course-ru/content/
 
 restate
 https://github.com/thekashey/restate
 https://habrahabr.ru/post/346116/
+
+resources
+https://github.com/rajdee/redux-in-russian

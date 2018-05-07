@@ -1,11 +1,16 @@
 http://books.goalkicker.com/ReactJSBook/
 
+https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
+
 https://habrahabr.ru/post/279249/
     https://www.gitbook.com/@maxfarseer/
 Paciansky - ReactJS for Beginners ru
     https://www.gitbook.com/book/maxfarseer/react-course-ru/details
+    https://maxfarseer.gitbooks.io/react-course-ru/content/
 Paciansky - Redux Course ru
     https://www.gitbook.com/book/maxfarseer/redux-course-ru/details
+    https://maxfarseer.gitbooks.io/redux-course-ru/content/
 Paciansky - React Router Course ru
     https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details
-https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
+    https://maxfarseer.gitbooks.io/react-router-course-ru/content/
+    https://github.com/ReactTraining/react-router
