@@ -1,6 +1,9 @@
 https://www.learntla.com
 https://github.com/hwayne/learntla
 
-pluscal:
+pluscal
 https://www.learntla.com/pluscal/
 http://lamport.azurewebsites.net/tla/p-manual.pdf
+
+tutorials
+http://lamport.azurewebsites.net/video/videos.html

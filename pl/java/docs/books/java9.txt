@@ -1,2 +1,3 @@
 2018
 Cheng - Exploring Java 9
+Lavieri - Java 9 - Building Robust Modular Applications
