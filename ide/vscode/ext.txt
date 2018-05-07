@@ -38,6 +38,7 @@ https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
 https://github.com/PistonDevelopers/VisualRust
 
 js
+https://medium.freecodecamp.org/an-overview-of-visual-studio-code-for-front-end-developers-49a4aa0771fb
 https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5
 https://habrahabr.ru/post/354038/
 

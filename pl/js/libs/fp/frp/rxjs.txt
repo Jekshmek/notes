@@ -18,3 +18,8 @@ DZone - RxJS cheatcheet.pdf
 
 ref
 http://reactivex.io/documentation/operators.html
+
+rxjs-tslint
+
+whatsnew
+https://auth0.com/blog/whats-new-in-rxjs-6/

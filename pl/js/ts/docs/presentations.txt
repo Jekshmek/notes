@@ -1,3 +1,7 @@
+2018
+CodingTech - TypeScript - 3 videos
+https://www.youtube.com/playlist?list=PLFjq8z-aGyQ6E0kmOeQ6E7Xqmv3Z-mJ6j
+
 2017
 https://www.slideshare.net/yfain/typescript-for-java-developers
 https://www.slideshare.net/udai1975/typescript-in-30mins

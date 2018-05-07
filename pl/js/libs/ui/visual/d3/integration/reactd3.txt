@@ -28,6 +28,10 @@ articles
 https://habr.com/post/354806/
 
 presentations
+2018
+React and D3, Togeather
+https://www.youtube.com/watch?v=SVbTTUpCLfo
+
 https://www.slideshare.net/fwdays/reactd3
 https://engineering.billymob.com/integrating-d3-with-react-memo-20e5999e2053
 https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/

@@ -8,7 +8,9 @@ https://github.com/sysgears/apollo-fullstack-starter-kit
 http://dev.apollodata.com/tools/graphql-tools/index.html
 http://dev.apollodata.com/react/redux.html
 
-articles:
+articles
+2018
+https://www.robinwieruch.de/react-graphql-apollo-tutorial/
 https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a
 https://habrahabr.ru/post/331088/
 
