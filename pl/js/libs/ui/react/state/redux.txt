@@ -20,6 +20,8 @@ Flux is a save 3-weel MVC
 one-way events is a normal, non-revolutional
 
 articles
+2018
+https://maxpfrontend.ru/perevody/redux-esche-ne-umer/
 https://scotch.io/bar-talk/getting-started-with-redux-an-intro
 https://habrahabr.ru/post/328152/
 https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44

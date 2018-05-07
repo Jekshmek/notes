@@ -1,4 +1,7 @@
 https://www.valentinog.com/blog/webpack-4-tutorial/
 
+2018
+https://maxpfrontend.ru/perevody/ustanovka-i-nastroyka-webpack-4/
+
 2016
 https://github.com/petehunt/webpack-howto
