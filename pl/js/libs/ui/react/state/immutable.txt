@@ -1,0 +1,13 @@
+http://facebook.github.io/immutable-js/
+https://github.com/facebook/immutable-js
+https://www.npmjs.com/package/immutable
+
+https://www.npmjs.com/package/redux-immutable
+https://www.npmjs.com/package/redux-immutablejs
+
+https://www.npmjs.com/package/seamless-immutable
+https://www.npmjs.com/package/pretty-immutable
+
+articles
+2015
+https://www.ackmanndickenson.com/blog-redux-and-immutable-js-take-center-stage/

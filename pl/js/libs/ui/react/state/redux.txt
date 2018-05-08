@@ -21,6 +21,7 @@ one-way events is a normal, non-revolutional
 
 awesome
 https://github.com/xgrommx/awesome-redux
+https://learnredux.com/
 
 articles
 2018
@@ -59,6 +60,17 @@ https://rajdee.gitbooks.io/redux-in-russian/
 restate
 https://github.com/thekashey/restate
 https://habrahabr.ru/post/346116/
+
+normalizr
+https://github.com/paularmstrong/normalizr
+
+undo-history
+https://redux.js.org/recipes/implementing-undo-history
+
+cheatsheet
+https://devhints.io/redux
+https://devhints.io/awesome-redux
+https://devhints.io/react-router
 
 resources
 https://github.com/rajdee/redux-in-russian

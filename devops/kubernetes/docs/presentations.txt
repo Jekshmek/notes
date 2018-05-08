@@ -1,10 +1,12 @@
-2017:
+2017
 Orlov - Kubernetess as a Microservice Platform
 https://www.youtube.com/watch?v=7JqgxJpCfRE
 Grebennikov-KubernetessDeployAsATsar
 https://www.youtube.com/watch?v=TFj-w2-ISVg
+Izmailov - from CoreOS to Kubernetess
+https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
 
-2016:
+2016
 Ghe Children Guide
 https://www.youtube.com/watch?v=4ht22ReBjno
 Hightower - k8s for sysadmins

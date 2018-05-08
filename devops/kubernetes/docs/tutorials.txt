@@ -1,5 +1,7 @@
 https://kubernetes.io/docs/tutorials/kubernetes-basics/
 https://docs.bitnami.com/kubernetes/get-started-kubernetes/
 
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+
 2016
 https://github.com/kelseyhightower/lobsters-on-kubernetes

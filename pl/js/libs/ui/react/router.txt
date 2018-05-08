@@ -1,0 +1,19 @@
+articles
+2017
+https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a
+https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb
+
+books
+Paciansky - React Router Course ru
+    https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details
+    https://maxfarseer.gitbooks.io/react-router-course-ru/content/
+    https://github.com/ReactTraining/react-router
+
+presentations
+2017
+TylerMcGinnis - React Router
+https://www.youtube.com/playlist?list=PLqrUy7kON1mfJ1cQfJJ1FiULLNngvlFTD
+
+
+cheatsheet
+https://devhints.io/react-router

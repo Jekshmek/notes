@@ -1,6 +1,11 @@
-﻿https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
-2018
+﻿2018
 https://www.slideshare.net/JulienViala/reduxsaga-managing-side-effects-and-impure-stuff
+https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2018-e30edac96392
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+https://www.valentinog.com/blog/react-webpack-babel/
+https://codeburst.io/step-by-step-guide-for-writing-awesome-react-components-210c6def902b
+https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7
+https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
 2017
 https://www.slideshare.net/nachomartin/redux-saga-managing-your-side-effects-also-generators-in-es6
 https://www.slideshare.net/DanielFranz6/the-redux-saga-begins-72202458

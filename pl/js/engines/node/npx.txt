@@ -7,3 +7,6 @@ https://github.com/suarasaur/awesome-npx
 https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
 
 This can be integrated with npm scripts to try some npm package without installing it
+
+cheatsheet
+https://devhints.io/npm

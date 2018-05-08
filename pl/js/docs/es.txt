@@ -67,3 +67,6 @@ https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascrip
 
 2015
 https://babeljs.io/learn-es2015/
+
+cheatsheet
+https://devhints.io/es6

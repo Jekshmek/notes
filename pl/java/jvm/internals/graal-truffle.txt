@@ -24,6 +24,7 @@ articles
 http://www.opennet.ru/opennews/art.shtml?num=48472
 https://habrahabr.ru/post/351996/
 https://habrahabr.ru/company/billing/blog/351682/
+https://medium.com/graalvm/graalvm-ten-things-12d9111f307d
 2017
 https://blog.plan99.net/graal-truffle-134d8f28fb69
     https://habrahabr.ru/post/319424/
