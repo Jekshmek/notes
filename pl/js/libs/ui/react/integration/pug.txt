@@ -1,0 +1,2 @@
+https://github.com/pugjs/babel-plugin-transform-react-pug
+https://github.com/ezhlobo/eslint-plugin-react-pug

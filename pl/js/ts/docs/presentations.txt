@@ -9,5 +9,8 @@ https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488
 https://www.slideshare.net/OriCalvo/typescript-tips-tricks
 https://www.slideshare.net/amine789/getting-started-with-typescript-72733842
 
+2016
+https://www.slideshare.net/RemoJansen/introducing-type-script
+
 2015
 https://www.slideshare.net/aniruddha.chakrabarti/typescript-44668095

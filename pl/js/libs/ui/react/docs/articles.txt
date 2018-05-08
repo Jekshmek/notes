@@ -7,6 +7,8 @@ https://habrahabr.ru/post/353564/
 
 2017
 https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d
+    https://habr.com/post/358090/
 
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 https://habrahabr.ru/post/326162/

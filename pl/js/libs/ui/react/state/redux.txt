@@ -19,6 +19,9 @@ top-level component is [not-visual] acts likes a controller
 Flux is a save 3-weel MVC
 one-way events is a normal, non-revolutional
 
+awesome
+https://github.com/xgrommx/awesome-redux
+
 articles
 2018
 https://maxpfrontend.ru/perevody/redux-esche-ne-umer/
@@ -39,11 +42,19 @@ https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
 2016
 Abramove - The Redux Journey
 https://www.youtube.com/watch?v=uvAXVMwHJXU
+Bukhanov - The Evolution of Redux Action Creators (+saga)
+https://www.slideshare.net/GeorgeBukhanov/the-evolution-of-redux-action-creators
+Izmailov - JavaScript Today - React, Redux and new reality
+https://www.slideshare.net/denisizmaylov/javascript-react-redux-63287677
+2015
+https://www.slideshare.net/denisizmaylov/redux-the-best-for-isomorphic-apps
 
 books
 http://bpxl-labs.github.io/redux-handbook/
 Paciansky - Redux Course ru
 https://maxfarseer.gitbooks.io/redux-course-ru/content/
+translations
+https://rajdee.gitbooks.io/redux-in-russian/
 
 restate
 https://github.com/thekashey/restate

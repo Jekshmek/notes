@@ -1,1 +1,2 @@
 https://github.com/docker-java/docker-java
+https://github.com/project-aries/docker-java-shaded

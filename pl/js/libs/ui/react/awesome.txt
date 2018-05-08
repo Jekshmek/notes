@@ -1,3 +1,8 @@
+https://github.com/enaqx/awesome-react
+
+https://github.com/markerikson/react-redux-links
+https://github.com/tiaanduplessis/awesome-react-talks
+
 https://devarchy.com/react
 https://github.com/brillout/awesome-react-components
 

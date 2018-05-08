@@ -1,1 +1,5 @@
 http://blog.tomduncalf.com/posts/setting-up-typescript-and-react/
+
+presentations
+2016
+https://www.slideshare.net/RemoJansen/react-redux-typescript
