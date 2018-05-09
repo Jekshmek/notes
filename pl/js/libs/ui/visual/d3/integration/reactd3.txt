@@ -28,6 +28,8 @@ articles
 https://habr.com/post/354806/
 2017
 https://css-tricks.com/react-dataviz/
+2016
+https://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
 
 presentations
 2018

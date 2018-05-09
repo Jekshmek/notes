@@ -1,3 +1,13 @@
+https://github.com/angular/angular/blob/master/CHANGELOG.md
+
 2018
+https://www.infoq.com/news/2018/05/angular-6-released
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 https://www.telerik.com/blogs/whats-new-in-angular-6
+
+2.0
+http://blog.goyello.com/2015/06/23/angular-2/
+http://www.sitepoint.com/whats-new-in-angularjs-2/
+http://habrahabr.ru/post/253469/
+
+Fain - JEEConf - Angular 2

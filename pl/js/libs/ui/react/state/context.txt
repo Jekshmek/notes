@@ -1,2 +1,11 @@
+https://reactjs.org/docs/context.html
+
 2018
+https://blog.alexdevero.com/react-context-multilingual-website-pt1
+https://blog.alexdevero.com/react-context-multilingual-website-pt2/
+https://wesbos.com/react-context/
+    https://www.youtube.com/watch?v=XLJN4JfniH4
+    https://github.com/wesbos/React-Context
+Academind - React 16.3 - New Context API
+    https://www.youtube.com/watch?v=yaZzJ37Qb0U
 https://codeburst.io/code-your-own-react-state-management-library-using-the-new-context-api-part-1-64fb9d702e75

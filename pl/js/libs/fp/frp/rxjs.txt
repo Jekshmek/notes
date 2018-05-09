@@ -12,6 +12,9 @@ presentations
 2018
 Sans - Bending time with Schedulers and RxJS 5
 https://www.youtube.com/watch?v=AL8dG1tuH40
+2017
+Academind - Understanding RxJS
+https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi
 
 cheatsheets
 DZone - RxJS cheatcheet.pdf

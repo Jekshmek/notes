@@ -1,0 +1,17 @@
+https://redux-saga.github.io/redux-saga/
+https://github.com/redux-saga/redux-saga
+
+presentations
+2018
+https://www.slideshare.net/JulienViala/reduxsaga-managing-side-effects-and-impure-stuff
+2017
+https://www.slideshare.net/nachomartin/redux-saga-managing-your-side-effects-also-generators-in-es6
+https://www.slideshare.net/nachomartin/redux-sagas-react-alicante
+https://www.slideshare.net/DanielFranz6/the-redux-saga-begins-72202458
+https://www.slideshare.net/pedsola/asyc-flow-control-with-javascript-generators-reduxsaga
+2016
+Bukhanov - The Evolution of Redux Action Creators (+saga)
+https://www.slideshare.net/GeorgeBukhanov/the-evolution-of-redux-action-creators
+
+samples
+https://github.com/qvantor/react-tower-defence/tree/init/src/sagas

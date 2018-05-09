@@ -1,4 +1,5 @@
 2018
+https://codeburst.io/step-by-step-guide-for-writing-awesome-react-components-210c6def902b
 https://medium.freecodecamp.org/how-to-conquer-webpack-4-and-build-a-sweet-react-app-236d721e6745
 https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823
 https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab
@@ -9,6 +10,8 @@ https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/
     https://habr.com/post/350274/
 https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-2/
     https://habr.com/post/350278/
+antipatterns
+https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
 
 2017
 https://hackernoon.com/10-react-mini-patterns-c1da92f068c5

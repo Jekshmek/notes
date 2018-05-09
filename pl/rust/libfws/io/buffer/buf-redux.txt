@@ -1,5 +1,5 @@
 https://crates.io/crates/buf_redux
-https://docs.rs/buf_redux/0.6.1/buf_redux/
+https://docs.rs/buf_redux
 https://github.com/abonander/buf_redux
 
 https://www.reddit.com/r/rust/comments/44l78l/buf_readux_a_dropin_replacement_for/

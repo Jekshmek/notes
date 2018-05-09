@@ -4,6 +4,8 @@ https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO
 https://learn.javascript.ru/screencast/react
 Live React Bootcamp
 https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo
+Academind - ReactJS + Redux Basics
+https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
 
 2016
 ReactJS lessons

@@ -15,5 +15,8 @@ Paciansky - React Router Course ru
     https://maxfarseer.gitbooks.io/react-router-course-ru/content/
     https://github.com/ReactTraining/react-router
 
+2018
+Tsonev - React in Patterns
+    https://krasimir.gitbooks.io/react-in-patterns/
 https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
 https://vk.com/maxpfrontend

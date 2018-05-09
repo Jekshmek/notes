@@ -1,3 +1,16 @@
+https://angular.io/
+https://github.com/angular/angular
+
+docs
+https://angular.io/docs
+https://angular.io/features
+https://angular.io/guide/architecture
+https://angular.io/tutorial
+    https://stackblitz.com/angular/vqljkrnnogd
+https://blog.angular.io/
+https://angular.io/resources
+
+arch
 http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background
 
 Separation of concerns
@@ -12,12 +25,6 @@ and you glue it all together with controllers.
 
 This was also mentioned in other answers, and the only thing I would add pertains to testability, which I discuss in another section below.
 
-2.0
-http://blog.goyello.com/2015/06/23/angular-2/
-http://www.sitepoint.com/whats-new-in-angularjs-2/
-http://habrahabr.ru/post/253469/
-
-Fain - JEEConf - Angular 2
 
 @Component
 @Routes[[

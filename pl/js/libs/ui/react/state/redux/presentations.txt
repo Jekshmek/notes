@@ -1,0 +1,16 @@
+Redux at Scale
+https://www.slideshare.net/inovia/redux-at-scale
+2017
+CodeAcademy - Redux 
+https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt
+Martin - Introduction to Redux
+https://www.slideshare.net/nachomartin/introduction-to-redux
+2016
+Abramove - The Redux Journey
+https://www.youtube.com/watch?v=uvAXVMwHJXU
+Bukhanov - The Evolution of Redux Action Creators (+saga)
+https://www.slideshare.net/GeorgeBukhanov/the-evolution-of-redux-action-creators
+Izmailov - JavaScript Today - React, Redux and new reality
+https://www.slideshare.net/denisizmaylov/javascript-react-redux-63287677
+2015
+https://www.slideshare.net/denisizmaylov/redux-the-best-for-isomorphic-apps

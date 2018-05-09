@@ -1,0 +1,2 @@
+https://github.com/xgrommx/awesome-redux
+https://learnredux.com/
