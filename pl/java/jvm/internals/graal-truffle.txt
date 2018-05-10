@@ -31,10 +31,12 @@ https://blog.plan99.net/graal-truffle-134d8f28fb69
 
 presentations
 2018
-Graal VM
+Sedlar - Graal VM
 https://www.youtube.com/watch?v=wBegU4d4GRc
-?
+? - Grall - how to use the new JVM JIT compiler in real life
 https://downloads.ctfassets.net/oxjq45e8ilak/1r4i54cCKIicQckSGUCWu2/24589d235f05db55cd3532fa64886ed5/Chris_Thalinger_Graal_-_How_to_use_the_new_JVM_JIT_compiler_in_real_life__1_.pdf
+2016
+Wimmer - One VM to Rule Them All
 https://www.youtube.com/watch?v=FJY96_6Y3a4
 
 tools-ideal-graph-visualiser:

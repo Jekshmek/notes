@@ -1,0 +1,13 @@
+npm i -D webpack webpack-cli webpack-dev-server html-webpack-plugin html-loader
+npm i -D babel-core babel-loader babel-preset-env
+
+npm i -D pug-loader pug
+
+npm i -P react react-dom
+
+npm i -D typescript awesome-typescript-loader source-map-loader
+npm i -D @types/react @types/react-dom
+
+https://webpack.js.org/guides/installation/
+    ? fsevents
+https://webpack.js.org/guides/getting-started/

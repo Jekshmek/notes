@@ -1,7 +1,3 @@
-http://books.goalkicker.com/ReactJSBook/
-
-https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
-
 https://habrahabr.ru/post/279249/
     https://www.gitbook.com/@maxfarseer/
 Paciansky - ReactJS for Beginners ru
@@ -15,8 +11,14 @@ Paciansky - React Router Course ru
     https://maxfarseer.gitbooks.io/react-router-course-ru/content/
     https://github.com/ReactTraining/react-router
 
+https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
+
+translate ru
+https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
+    https://vk.com/maxpfrontend
+
 2018
+SO - React Book
+    http://books.goalkicker.com/ReactJSBook/
 Tsonev - React in Patterns
     https://krasimir.gitbooks.io/react-in-patterns/
-https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
-https://vk.com/maxpfrontend

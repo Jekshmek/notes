@@ -1,3 +1,6 @@
 http://goalkicker.com/TypeScriptBook2/
 
 https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
+    https://github.com/basarat/typescript-book

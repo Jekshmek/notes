@@ -1,0 +1,2 @@
+2018
+https://arne-mertz.de/2018/05/modern-c-features-stdvariant-and-stdvisit/

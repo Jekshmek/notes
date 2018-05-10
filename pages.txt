@@ -1,14 +1,11 @@
 ﻿URLs
 https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
-https://blog.burntsushi.net/csv/#csv-parsing-without-the-standard-library
 https://habr.com/company/philtech/blog/354596/
-    short descr
-
+    chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  May 8
-cpp - iterator category/tag-dispatching
+  May 10
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
   Lifshits
@@ -21,25 +18,23 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
 Video
-Dlugach                                             -   52:00 (of 1:01:39)
-  https://www.youtube.com/watch?v=1fJLOagNVCM
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
   https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Graal VM
+Sedlar - Graal VM                                   -   01:00 (of   50:27)
   https://www.youtube.com/watch?v=wBegU4d4GRc
 
 Lit
-Volkova 3                                           -   02:00 (of 1:32:09)
-  https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
+Volkova 4                                           -   02:00 (of 1:32:36)
+  https://www.youtube.com/watch?v=W8-2fQDbLUY
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 3                              -   00:00 (of)
+Paschenko - Game 2 - 4                              -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 16                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -50,7 +45,7 @@ Sorokin - B 26                                      -   00:00 (of)
 Chernyak - 15 of 34                                 -   14:00 (of 1:49:01)
     https://www.youtube.com/watch?v=z7yr1GQw384
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sorokin - Family 2                                  -   33:00 (of 3:55:02)
+Sorokin - Family 2                                  -   50:30 (of 3:55:02)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
 
 https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
@@ -96,3 +91,4 @@ OpenSSL Cookbook                                    - 29 (of 58)
 
 nlp - word vectors
   https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
+cpp - iterator category/tag-dispatching

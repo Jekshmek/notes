@@ -1,6 +1,7 @@
 https://crates.io/crates/xsv
 https://github.com/BurntSushi/xsv
+
 http://blog.faraday.io/how-we-made-our-csv-processing-142x-faster/
 
-aur:
-xsv
+aur
+    xsv
