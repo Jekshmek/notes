@@ -13,6 +13,9 @@ Paciansky - React Router Course ru
 
 https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
 
+https://developmentarc.gitbooks.io/react-indepth/content/
+https://www.gitbook.com/book/developmentarc/react-indepth/details
+
 translate ru
 https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend
@@ -20,5 +23,12 @@ https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
 2018
 SO - React Book
     http://books.goalkicker.com/ReactJSBook/
+!!! Chinnathambi - Learning React 2nd ed
 Tsonev - React in Patterns
     https://krasimir.gitbooks.io/react-in-patterns/
+
+2017
+Boduch - React 16 Essentials
+!!! Accomazzo - Fullstack React
+Banks - Learning React
+Bertoli - React Design Patterns and Best Practices
