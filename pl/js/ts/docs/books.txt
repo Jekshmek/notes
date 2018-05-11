@@ -4,3 +4,6 @@ https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
     https://github.com/basarat/typescript-book
+
+2018
+Fenton - Pro TypeScript Application Scale JavaScript Development 2nd ed

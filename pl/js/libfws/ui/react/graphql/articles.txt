@@ -1,6 +1,7 @@
 https://facebook.github.io/relay/docs/thinking-in-graphql.html
 
 2018
+http://blog.rangle.io/from-rest-to-graphql/
 https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/
 https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-2/
 https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0
