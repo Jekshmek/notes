@@ -19,11 +19,13 @@ Mayburd - about Bykov
 
 Video
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
-  https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
+    https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 Sedlar - Graal VM                                   -   01:00 (of   50:27)
-  https://www.youtube.com/watch?v=wBegU4d4GRc
+    https://www.youtube.com/watch?v=wBegU4d4GRc
+Vetrov - big data math                              -   00:00 (of 1:13:34)
+    https://www.youtube.com/watch?v=lkh7bLUc30g
 
 Lit
 Volkova 4                                           -   02:00 (of 1:32:36)

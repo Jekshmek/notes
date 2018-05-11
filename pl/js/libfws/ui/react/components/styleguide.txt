@@ -1,10 +1,14 @@
 https://react-styleguidist.js.org/
+!!! uses TypeScript
+
 https://github.com/styleguidist/react-styleguidist
 
+https://react-styleguidist.js.org/docs/webpack.html
 https://react-styleguidist.js.org/examples/basic/
 
 http://pocotan001.github.io/react-styleguide-generator/#!.
 https://github.com/pocotan001/react-styleguide-generator
+
 
 
 usages
