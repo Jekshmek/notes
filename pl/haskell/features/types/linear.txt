@@ -1,2 +1,3 @@
 2018
+https://github.com/ghc-proposals/ghc-proposals/pull/111
 https://www.microsoft.com/en-us/research/publication/linear-haskell-practical-linearity-higher-order-polymorphic-language/

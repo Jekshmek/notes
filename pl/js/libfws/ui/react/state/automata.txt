@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/react-automata
+https://github.com/MicheleBertoli/react-automata
+https://github.com/davidkpiano/xstate
+
+2017
+Khourshid - Infinitely Better UIs with Finite Automata
+https://www.youtube.com/watch?v=VU1NKX6Qkxc
