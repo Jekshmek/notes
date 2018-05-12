@@ -1,3 +1,7 @@
+PEPs
+https://www.python.org/dev/peps/pep-0484/
+https://www.python.org/dev/peps/pep-0526/
+
 2017
 Putting Type Hints to Work
 https://www.youtube.com/watch?v=JqBCFfiE11g

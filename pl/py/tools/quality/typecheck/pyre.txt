@@ -1,0 +1,8 @@
+https://pyre-check.org/
+https://github.com/facebook/pyre-check
+
+https://pyre-check.org/docs/documentation.html
+https://pyre-check.org/docs/installation.html
+
+2018
+https://www.facebook.com/notes/protect-the-graph/pyre-fast-type-checking-for-python/2048520695388071/
