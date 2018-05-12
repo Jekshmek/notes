@@ -1,4 +1,5 @@
 http://projects.spring.io/spring-cloud/
+https://projects.spring.io/spring-cloud/spring-cloud.html
 
 https://github.com/spring-cloud
 

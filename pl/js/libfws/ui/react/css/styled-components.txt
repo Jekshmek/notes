@@ -1,4 +1,10 @@
-https://alligator.io/react/styled-components/
+https://www.styled-components.com/
+https://github.com/styled-components
+https://github.com/styled-components/styled-components
 
+https://www.styled-components.com/docs
+
+articles
+https://alligator.io/react/styled-components/
 2017
 https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822

@@ -22,6 +22,10 @@ buildscript {
 
 https://github.com/JetBrains/kotlin-native/blob/master/CONCURRENCY.md
 
+articles
+2018
+https://medium.com/@kpgalligan/kotlin-native-stranger-threads-c0cf0e0fb847
+
 presentations
 2018
 Igotti - Developing Kotlin/Native infrastructure with LLVM

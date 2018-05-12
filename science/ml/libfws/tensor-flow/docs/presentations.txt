@@ -1,4 +1,6 @@
 2018
+Good Patterns For Deep Learning With TensorFlow
+https://www.youtube.com/watch?v=Fudxo6WZHO0
 TensorFlow in production
 https://www.youtube.com/watch?v=CxUc5FJF_9w
 TensorFlow Tutorial - Deep Learning

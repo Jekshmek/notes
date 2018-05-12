@@ -9,6 +9,8 @@ google
 https://developers.google.com/machine-learning/crash-course/
 
 2018
+Nikolenko - ML at Lectorium
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF
 MFTI - ML
 https://www.youtube.com/playlist?list=PL0Ks75aof3Ti5IBKAD4234VkMVnI4ecky
 CMU - NN
