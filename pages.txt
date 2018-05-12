@@ -1,4 +1,7 @@
-﻿URLs
+﻿https://www.google.com/search?q=reactjs+design+system&ei=KzL3Wq-ANsW7swHEooxw&start=10&sa=N&biw=1600&bih=1057
+https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
+https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42
+URLs
 https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
 https://habr.com/company/philtech/blog/354596/
     chap 1

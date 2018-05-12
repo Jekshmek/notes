@@ -1,1 +1,5 @@
 https://medium.com/web-standards/regarding-broken-promise-of-web-components-385d63de4959
+
+2018
+https://habr.com/post/349366/
+https://habr.com/post/350872/

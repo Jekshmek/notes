@@ -1,0 +1,20 @@
+https://www.polymer-project.org/
+
+https://github.com/Polymer/polymer
+
+docs
+https://www.polymer-project.org/3.0/start/
+
+material-components
+https://github.com/material-components/material-components-web-components/blob/master/README.md
+https://material-components.github.io/material-components-web-components/demos/index.html
+
+articles
+2017
+https://habr.com/post/345016/
+https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding
+    https://habr.com/post/345808/
+
+whatsnew
+https://www.polymer-project.org/3.0/docs/about_30
+https://habr.com/post/358216/
