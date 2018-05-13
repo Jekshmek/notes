@@ -1,6 +1,4 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=KzL3Wq-ANsW7swHEooxw&start=10&sa=N&biw=1600&bih=1057
-https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
-https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42
+﻿https://www.google.com/search?q=reactjs+design+system&ei=-fj3WoylKJDYwAKJr5iIBw&start=30&sa=N&biw=1600&bih=1057
 URLs
 https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
 https://habr.com/company/philtech/blog/354596/
@@ -8,7 +6,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  May 11
+  May 13
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
   Lifshits

@@ -14,6 +14,12 @@ antipatterns
 https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
 
 2017
+internals
+    http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/
+    http://www.mattgreer.org/articles/react-internals-part-two-componentWillMount-and-componentDidMount/
+    http://www.mattgreer.org/articles/react-internals-part-three-basic-updating/
+    http://www.mattgreer.org/articles/react-internals-part-four-setState/
+    http://www.mattgreer.org/articles/react-internals-part-five-transactions/
 https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
 https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d
     https://habr.com/post/358090/

@@ -26,6 +26,8 @@ SO - React Book
 !!! Chinnathambi - Learning React 2nd ed
 Tsonev - React in Patterns
     https://krasimir.gitbooks.io/react-in-patterns/
+    https://legacy.gitbook.com/book/krasimir/react-in-patterns/details
+    http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 
 2017
 Boduch - React 16 Essentials

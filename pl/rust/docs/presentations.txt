@@ -1,6 +1,7 @@
 https://speakerdeck.com/hywan/hello-rust-an-overview
 
 https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists
+https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/videos
 
 2018
 Cameron - Rust Programming Techniques

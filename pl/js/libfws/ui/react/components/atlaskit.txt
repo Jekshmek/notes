@@ -1,0 +1,10 @@
+https://atlassian.design/
+https://atlaskit.atlassian.com/
+https://bitbucket.org/atlassian/atlaskit-mk-2
+
+docs
+https://atlaskit.atlassian.com/docs/getting-started
+https://developer.atlassian.com/blog/
+
+https://atlaskit.atlassian.com/packages
+https://ak-mk-2-prod.netlify.com/packages/css-packs/reduced-ui-pack

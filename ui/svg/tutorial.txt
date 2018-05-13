@@ -3,6 +3,9 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths
 https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform
 https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox
 
+https://developer.mozilla.org/ru/docs/Web/SVG/Tutorial
+https://developer.mozilla.org/ru/docs/Web/SVG/Tutorial/Fills_and_Strokes
+
 http://css-live.ru/category/svg
 http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html
 http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html
