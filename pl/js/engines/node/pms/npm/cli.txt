@@ -1,7 +1,8 @@
 npm
     init
         https://docs.npmjs.com/cli/init
-        [-y]
+        [-y|--yes]
+            skip questions
     i[nstall]
         -g
             global
@@ -16,10 +17,12 @@ npm
         build[:dev]
         runs a script (specified in the scripts section of package.json)
 
-    it install-test
+    it|install-test
         install & test
-    s se find
+    s|se|find
         find a package (at public registry)
+    config
+        https://docs.npmjs.com/misc/config 
 
 package.json
 
