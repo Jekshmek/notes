@@ -1,2 +1,5 @@
 3.x
 https://github.com/arogozhnikov/python3_with_pleasure
+2018
+Webinar - Translating 2 to 3
+https://www.youtube.com/watch?v=gcwsSZggAsc

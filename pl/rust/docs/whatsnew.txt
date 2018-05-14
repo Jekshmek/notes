@@ -1,26 +1,27 @@
 https://blog.rust-lang.org/2018/05/10/Rust-1.26.html
     https://www.reddit.com/r/rust/comments/8igirv/announcing_rust_126/
+    https://habr.com/post/358514/
 
 https://blog.rust-lang.org/2018/03/29/Rust-1.25.html
-https://habrahabr.ru/post/352800/
+    https://habrahabr.ru/post/352800/
 
 https://blog.rust-lang.org/2018/03/01/Rust-1.24.1.html
 https://blog.rust-lang.org/2018/02/15/Rust-1.24.html
 https://github.com/rust-lang/rust/blob/stable/RELEASES.md#version-1241-2018-03-01
-https://habrahabr.ru/post/349252/
+    https://habrahabr.ru/post/349252/
 
 https://blog.rust-lang.org/2017/11/22/Rust-1.22.html
-https://habrahabr.ru/post/343058/
+    https://habrahabr.ru/post/343058/
 
 https://blog.rust-lang.org/2017/10/12/Rust-1.21.html
 
 https://blog.rust-lang.org/2017/07/20/Rust-1.19.html
-http://www.opennet.ru/opennews/art.shtml?num=46900
+    http://www.opennet.ru/opennews/art.shtml?num=46900
 
 https://blog.rust-lang.org/2017/06/08/Rust-1.18.html
 
 https://blog.rust-lang.org/2017/02/02/Rust-1.15.html
-https://www.reddit.com/r/rust/comments/5roiq7/announcing_rust_115/
+    https://www.reddit.com/r/rust/comments/5roiq7/announcing_rust_115/
 
 https://internals.rust-lang.org/t/rust-release-milestone-predictions/4591
 https://gist.github.com/chriskrycho/8097713374a166fc3482ac64e81c0952

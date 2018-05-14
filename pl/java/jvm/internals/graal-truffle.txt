@@ -5,6 +5,16 @@ http://www.oracle.com/technetwork/oracle-labs/program-languages/learnmore/index.
 
 -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler
 
+native-image
+    --no-server
+
+!!! (?max-only)
+    otool -L <produced-exe>
+
+node --polyglot --jvm <some-stuff.js>
+    Java.type
+    Interop.eval('R', `...`);
+
 src
 https://github.com/oracle/graal
 https://github.com/graalvm/mx
