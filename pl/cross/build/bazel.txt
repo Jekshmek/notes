@@ -5,6 +5,10 @@ https://docs.bazel.build/versions/master/bazel-overview.html
 
 https://github.com/jin/awesome-bazel
 
+artciles
+2018
+https://codeburst.io/bazel-an-experimental-and-unofficial-feature-of-angular-6-946e880b4637
+
 presentations
 2016
 Building Software at Google Scale - Bazel

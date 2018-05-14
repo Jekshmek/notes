@@ -1,0 +1,6 @@
+https://mvnrepository.com/artifact/io.github.microutils/kotlin-logging
+https://github.com/MicroUtils/kotlin-logging
+
+articles
+2018
+https://amarszalek.net/blog/2018/05/13/logging-in-kotlin-right-approach/

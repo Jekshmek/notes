@@ -1,4 +1,6 @@
 articles
+2018
+https://scotch.io/tutorials/conditional-routing-with-react-router-v4
 2017
 https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a
 https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb
