@@ -4,6 +4,7 @@ https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles:
 2018
+https://www.reddit.com/r/rust/comments/8jd43f/ownership_and_data_structures_that_arent_trees/
 https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html
     https://www.reddit.com/r/rust/comments/8h2kt5/blog_post_encapsulating_lifetime_of_the_field/
     https://users.rust-lang.org/t/dealing-with-references-to-references/14065/4

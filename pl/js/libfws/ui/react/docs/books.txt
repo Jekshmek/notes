@@ -21,6 +21,7 @@ https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend
 
 2018
+Boduch - React 16 Tooling
 SO - React Book
     http://books.goalkicker.com/ReactJSBook/
 !!! Chinnathambi - Learning React 2nd ed
@@ -30,7 +31,7 @@ Tsonev - React in Patterns
     http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 
 2017
-Boduch - React 16 Essentials
+Boduch - React 16 Essentials 2nd ed
 !!! Accomazzo - Fullstack React
 Banks - Learning React
 Bertoli - React Design Patterns and Best Practices

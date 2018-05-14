@@ -6,4 +6,7 @@ https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
     https://github.com/basarat/typescript-book
 
 2018
+Jansen - Learning TypeScript 2nd ed
+    http://www.learningtypescript.com/
+    https://github.com/remojansen/LearningTypeScript
 Fenton - Pro TypeScript Application Scale JavaScript Development 2nd ed
