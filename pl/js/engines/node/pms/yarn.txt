@@ -6,6 +6,8 @@ https://github.com/yarnpkg/yarn/
 https://yarnpkg.com/en/docs
 https://yarnpkg.com/en/docs/getting-started
 https://yarnpkg.com/en/docs/install
+    https://github.com/yarnpkg/yarn/issues/3255
+    https://github.com/creationix/nvm/issues/1280
 https://yarnpkg.com/en/docs/usage
 https://yarnpkg.com/en/docs/migrating-from-npm
 https://yarnpkg.com/en/docs/configuration
@@ -59,3 +61,7 @@ yarn[pkg]
     remove
         [package]
 
+
+npm<->yarn
+https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc
+https://yarnpkg.com/en/docs/migrating-from-npm
