@@ -14,5 +14,7 @@ Bukhanov - The Evolution of Redux Action Creators (+saga)
 https://www.slideshare.net/GeorgeBukhanov/the-evolution-of-redux-action-creators
 Izmailov - JavaScript Today - React, Redux and new reality
 https://www.slideshare.net/denisizmaylov/javascript-react-redux-63287677
+Traversy - Redux Crash Course with React
+https://www.youtube.com/watch?v=93p3LxR9xfM
 2015
 https://www.slideshare.net/denisizmaylov/redux-the-best-for-isomorphic-apps

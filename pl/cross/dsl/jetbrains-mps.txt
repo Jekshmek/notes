@@ -1,6 +1,55 @@
 https://www.jetbrains.com/mps/
 
+https://github.com/JetBrains/MPS
+https://github.com/JetBrains/MPS-extensions
+https://github.com/JetBrains/MPS-extensions/blob/master/docs/extensions/diagrams.md
+https://github.com/JetBrains/MPS-extensions/tree/master/code/diagram
+
+https://www.jetbrains.com/mps/documentation/
+https://www.jetbrains.com/mps/learn/
+https://www.jetbrains.com/mps/download
+https://www.jetbrains.com/mps/concepts/
+https://www.jetbrains.com/mps/concepts/domain-specific-languages/
+
+blog
+https://blog.jetbrains.com/mps/
+
+wiki
+https://confluence.jetbrains.com/display/MPSD20181/MPS+User's+Guide
+https://confluence.jetbrains.com/display/MPSD20181/Fast+Track+to+MPS
+https://confluence.jetbrains.com/pages/viewpage.action?pageId=107513445
+https://confluence.jetbrains.com/display/MPSD20181/MPS+user+guide+for+DSL+users
+https://confluence.jetbrains.com/display/MPS/MPS+Languages+Repository
+https://confluence.jetbrains.com/display/MPSD20181/FAQ
+
+intro course
+https://info.jetbrains.com/MPS-Introductory-Course.html
+
+articles
+http://msdl.cs.mcgill.ca/people/hv/teaching/MSBDesign/201011/projects/Kevin.Buyl/report/Domain-specific%20languages%20with%20JetBrains%20MPS%20-%20Report%20-%20Kevin%20Buyl.pdf
+2017
+https://habr.com/post/334108/
+https://habr.com/post/334308/
+2009
+https://habr.com/post/66094/
+
 presentations
+https://www.youtube.com/user/JetBrainsTV/search?query=MPS
 2018
 Volter - Interesting Tidbits around MPS
 https://www.youtube.com/watch?v=102hoaAdctk
+http://voelter.de/data/presentations/mpsUserGroupMeeting.pdf
+2017
+http://voelter.de/data/presentations/mpsUserGroupMeeting.pdf
+JetBrains MPS: Projectional Editing in Domain-Specific Languages
+https://www.youtube.com/watch?v=bw8X3wkBUr8
+Why JetBrains MPS
+https://www.youtube.com/watch?v=XGm_khXZl44
+Voice Menu
+https://www.youtube.com/watch?v=pVIywLXDuRo
+2015
+MPS Projectional Editor
+https://www.youtube.com/watch?v=iN2PflvXUqQ
+
+whatsnew
+https://www.jetbrains.com/mps/whatsnew/

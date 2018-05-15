@@ -7,6 +7,10 @@ https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo
 Academind - ReactJS + Redux Basics
 https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
 
+2017
+Academind - React - Getting Started
+https://www.youtube.com/watch?v=pgAvVxowaYU
+
 2016
 ReactJS lessons
 https://www.youtube.com/playlist?list=PLIcAMDxr6tpoShAiU0Nh_nBtg19XWbCql
@@ -14,6 +18,10 @@ https://www.youtube.com/playlist?list=PLIcAMDxr6tpoShAiU0Nh_nBtg19XWbCql
 https://www.slideshare.net/denisizmaylov/javascript-react-redux-63287677
 Izmailov - Isomorphic React Applications
 https://www.slideshare.net/denisizmaylov/performance-and-scalability-art-of-isomorphic-react-applications
+Traversy - Learning ReactJS
+https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO
+Traversy - ReactJS Crash Course
+https://www.youtube.com/watch?v=A71aqufiNtQ
 
 Kosenko - ReactJs - Introduction to the library 
 good history...

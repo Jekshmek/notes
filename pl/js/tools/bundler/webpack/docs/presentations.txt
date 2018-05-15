@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=_QEM9kdV-b0
 https://docs.google.com/presentation/d/1pJwJxisw_HbX-Tcdp9esN63pXSd-8idhAynqkAx6eic
 Tichy - Webpack 2
 https://www.youtube.com/playlist?list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY
+WebPack crash course
+https://www.youtube.com/watch?v=lziuNMk_8eQ
 2015
 Ismailov - Webpack - 7 bed odin otvet
 https://www.slideshare.net/denisizmaylov/webpack-7
