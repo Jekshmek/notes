@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=s0S6HFdPtlA
 https://www.slideshare.net/bitworks/ss-53964858
 Vetrov - Big Data Math
 https://www.youtube.com/watch?v=lkh7bLUc30g
+EdyoRu - Bayes Probability
+https://www.youtube.com/watch?v=FQzO67Fipd0
 
 2011
 Vorontsov - Yandex - Statistics Bayes Classification Methods

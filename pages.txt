@@ -1,4 +1,4 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=-fj3WoylKJDYwAKJr5iIBw&start=30&sa=N&biw=1600&bih=1057
+﻿https://www.google.com/search?q=reactjs+design+system&ei=qND6Wrr-HYHlUt6ao6AN&start=40&sa=N&biw=1920&bih=953
 URLs
 https://maxfarseer.gitbooks.io/react-course-ru/content/if-else_v_jsx.html
 https://habr.com/company/philtech/blog/354596/
@@ -23,13 +23,14 @@ Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Sedlar - Graal VM                                   -   20:00 (of   50:27)
+Sedlar - Graal VM                                   -   30:00 (of   50:27)
     https://www.youtube.com/watch?v=wBegU4d4GRc
-Vetrov - big data math                              -   00:00 (of 1:13:34)
+Vetrov - big data math                              -   12:00 (of 1:13:34)
     https://www.youtube.com/watch?v=lkh7bLUc30g
+    https://www.slideshare.net/yandex/ss-49955809
 
 Lit
-Volkova 4                                           -   02:00 (of 1:32:36)
+Volkova 4                                           -   41:00 (of 1:32:36)
   https://www.youtube.com/watch?v=W8-2fQDbLUY
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
@@ -43,12 +44,12 @@ Ivliev - 17                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 27                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Chernyak - 16 of 34                                 - 1:01:00 (of 2:12:39)
+Chernyak - 16 of 34                                 - 1:14:00 (of 2:12:39)
     https://www.youtube.com/watch?v=cxf_gXI9Slc
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sorokin - Family 2                                  - 1:48:00 (of 3:55:02)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
-
+Gertsev - vygoranie                                 -   50:00 (of 1:28:54)
 https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
 https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/

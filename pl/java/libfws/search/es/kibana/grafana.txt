@@ -1,0 +1,11 @@
+https://grafana.com/
+http://docs.grafana.org/installation/
+
+https://github.com/grafana/grafana
+
+docs
+https://github.com/grafana/grafana.org
+
+src
+https://github.com/grafana/grafana/blob/master/package.json
+! both angular and react are there
