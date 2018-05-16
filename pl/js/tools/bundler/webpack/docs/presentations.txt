@@ -5,6 +5,8 @@ Webpack tutorial for beginners
 https://www.youtube.com/watch?v=-pGbS2YpGPA
 Webpack 4: Beyond the Basics (wp 2-3)
 https://www.youtube.com/watch?v=Mct6KwWpJ7c
+Larkin: Webpack 4: The State of the Art
+https://www.youtube.com/watch?v=jUTE7lmrS70
 2017
 Ivanov - WebPack bundle internals ru
 https://www.youtube.com/watch?v=jE1ibm037Fo

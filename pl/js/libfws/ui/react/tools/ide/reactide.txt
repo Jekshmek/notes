@@ -1,0 +1,2 @@
+http://reactide.io/
+https://github.com/reactide/reactide

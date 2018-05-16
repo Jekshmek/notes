@@ -1,2 +1,6 @@
 2018
 https://hackernoon.com/the-react-state-museum-a278c726315
+
+2016
+https://daveceddia.com/visual-guide-to-state-in-react/
+http://www.toptal.com/react/react-redux-and-immutablejs

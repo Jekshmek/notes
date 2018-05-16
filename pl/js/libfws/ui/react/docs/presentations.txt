@@ -1,3 +1,8 @@
+?
+https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db
+    https://egghead.io/courses/the-beginner-s-guide-to-react
+    https://egghead.io/courses/advanced-react-component-patterns
+
 2018
 JavaScriptRU - Ract
 https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO
@@ -6,6 +11,8 @@ Live React Bootcamp
 https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo
 Academind - ReactJS + Redux Basics
 https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+Dan Abramov: Beyond React 16
+https://www.youtube.com/watch?v=nLF0n9SACd4
 
 2017
 Academind - React - Getting Started

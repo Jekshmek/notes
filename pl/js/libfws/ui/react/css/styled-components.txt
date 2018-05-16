@@ -8,3 +8,8 @@ articles
 https://alligator.io/react/styled-components/
 2017
 https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
+https://medium.com/styled-components/announcing-v2-f01ef3766ac2
+https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7
+https://tech.mybuilder.com/react-and-styled-components-for-designers/
+2016
+https://mxstbr.blog/2016/11/styled-components-magic-explained/

@@ -1,6 +1,6 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=qND6Wrr-HYHlUt6ao6AN&start=40&sa=N&biw=1920&bih=953
+﻿https://www.google.com/search?q=reactjs+design+system&ei=-db7WseNKamLmgX07oeYCA&start=60&sa=N&biw=1600&bih=1057
 URLs
-https://maxfarseer.gitbooks.io/react-course-ru/content/if-else_v_jsx.html
+https://maxfarseer.gitbooks.io/react-course-ru/content/reactproptypes.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -42,18 +42,17 @@ Paschenko - Game 2 - 5a                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 17                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 27                                      -   00:00 (of)
+Sorokin - B 28                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Chernyak - 16 of 34                                 - 1:14:00 (of 2:12:39)
     https://www.youtube.com/watch?v=cxf_gXI9Slc
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sorokin - Family 2                                  - 1:48:00 (of 3:55:02)
+Sorokin - Family 2                                  - 2:22:00 (of 3:55:02)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
-Gertsev - vygoranie                                 -   52:00 (of 1:28:54)
-https://predanie.ru/gercev-igor/svetit-ne-sgoraya-sekrety-soprotivleniya-professionalnomu-vygoraniyu/slushat/
+Filonik                                             - 1:28:00 (of 2:04:56)
+    https://predanie.ru/filonik-marina-sergeevna/hristianstvo-kak-dvizhenie-k-chemu/slushat/
 https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
-https://predanie.ru/filonik-marina-sergeevna/hristianstvo-kak-dvizhenie-k-chemu/slushat/
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
@@ -66,6 +65,7 @@ https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slus
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
+https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/

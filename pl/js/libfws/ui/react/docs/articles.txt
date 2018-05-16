@@ -12,8 +12,11 @@ https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-2/
     https://habr.com/post/350278/
 antipatterns
 https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 
 2017
+https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488
+https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be
 internals
     http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/
     http://www.mattgreer.org/articles/react-internals-part-two-componentWillMount-and-componentDidMount/
@@ -30,7 +33,15 @@ https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82
 Modular Architecture
 https://habr.com/post/326484/
 https://habr.com/post/327196/
+http://lucasmreis.github.io/blog/simple-react-patterns/
+    https://github.com/lucasmreis/react-patterns/tree/master/src/planet
+https://americanexpress.io/clean-code-dirty-code/
+https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+https://daveceddia.com/react-project-structure/
+https://learnreact.design/2017/06/08/what-is-react/
+https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
 
 2016
+https://scotch.io/tutorials/reactjs-components-learning-the-basics
 !!!
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know

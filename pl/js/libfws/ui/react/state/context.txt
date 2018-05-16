@@ -1,6 +1,7 @@
 https://reactjs.org/docs/context.html
 
 2018
+https://jwheatley.co/the-future-of-state-in-react/
 https://blog.alexdevero.com/react-context-multilingual-website-pt1
 https://blog.alexdevero.com/react-context-multilingual-website-pt2/
 https://wesbos.com/react-context/
