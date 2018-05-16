@@ -23,11 +23,17 @@ Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Sedlar - Graal VM                                   -   30:00 (of   50:27)
-    https://www.youtube.com/watch?v=wBegU4d4GRc
-Vetrov - big data math                              -   12:00 (of 1:13:34)
+Vetrov - big data math                              -   26:00 (of 1:13:34)
     https://www.youtube.com/watch?v=lkh7bLUc30g
     https://www.slideshare.net/yandex/ss-49955809
+    https://www.youtube.com/watch?v=kFe5zSkro0E
+    https://www.youtube.com/watch?v=cfGLj3JdxXI
+MPS                                                 -   17:00 (of   58:06)
+    https://www.youtube.com/watch?v=102hoaAdctk
+    http://voelter.de/data/pub/kernelf-reference.pdf
+    https://github.com/IETS3/iets3.opensource
+    https://languageengineering.io/the-philosophy-behind-language-engineering-with-mps-9e9c48d8e15b
+    https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
 Volkova 4                                           -   41:00 (of 1:32:36)
@@ -49,8 +55,6 @@ Chernyak - 16 of 34                                 - 1:14:00 (of 2:12:39)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sorokin - Family 2                                  - 2:22:00 (of 3:55:02)
     https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
-Filonik                                             - 1:28:00 (of 2:04:56)
-    https://predanie.ru/filonik-marina-sergeevna/hristianstvo-kak-dvizhenie-k-chemu/slushat/
 https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
@@ -85,6 +89,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
+Baduch - React 16 Essentials 2nd ed
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
@@ -95,3 +100,5 @@ nlp - word vectors
   https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
 https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf
+
+https://hsto.org/webt/ge/gi/co/gegiconfwag8g2kmxnd_ar4yakg.jpeg
