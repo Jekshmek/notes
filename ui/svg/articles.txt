@@ -1,2 +1,13 @@
+http://xiper.net/learn/svg/svg-essentials/grouping-and-referencing-objects
+http://xiper.net/learn/svg/svg-essentials/the-translate-transformation
+
 2018
 https://habrahabr.ru/post/350274/
+
+2015
+http://css-live.ru/articles/transformacii-dlya-svg-elementov.html
+https://css-tricks.com/transforms-on-svg-elements/
+
+2014
+https://www.sarasoueidan.com/blog/svg-coordinate-systems/
+https://www.sarasoueidan.com/blog/svg-transformations/
