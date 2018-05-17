@@ -9,5 +9,12 @@ https://material.angular.io/guide/getting-started
 components
 https://material.angular.io/components/categories
 
+presentations
+2018
+Academind - Angular Material Introduction and Setup
+https://www.youtube.com/watch?v=u679SQsfRVM
+Academind - Angular Material Responsive Navigation Tutorial
+https://www.youtube.com/watch?v=Q6qhzG7mObU
+
 whatsnew
 https://github.com/angular/material2/blob/master/CHANGELOG.md

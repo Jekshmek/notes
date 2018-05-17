@@ -1,0 +1,4 @@
+2018
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf
+http://eao197.blogspot.com.by/2018/05/progcflame-zero-overhead-deterministic.html
+https://www.reddit.com/r/cpp/comments/8iw72i/p0709_r0_zerooverhead_deterministic_exceptions/

@@ -1,9 +1,12 @@
 https://stenciljs.com/
 https://github.com/ionic-team/stencil
 
+Stencil components are built using JSX and TypeScript.
+
 https://stenciljs.com/docs/introduction/
 https://stenciljs.com/docs/getting-started
 https://stenciljs.com/docs/my-first-component
+https://stenciljs.com/docs/component-lifecycle
 https://stenciljs.com/pwa/docs/routing
 https://stenciljs.com/docs/service-workers/
 

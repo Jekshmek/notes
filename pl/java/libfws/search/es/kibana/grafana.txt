@@ -9,3 +9,9 @@ https://github.com/grafana/grafana.org
 src
 https://github.com/grafana/grafana/blob/master/package.json
 ! both angular and react are there
+
+plugins
+http://docs.grafana.org/plugins/developing/development/
+https://habr.com/post/358746/
+https://github.com/CorpGlory/grafana-progress-list
+https://www.youtube.com/watch?v=bAwy-pw41EU

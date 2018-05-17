@@ -1,6 +1,6 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=-db7WseNKamLmgX07oeYCA&start=60&sa=N&biw=1600&bih=1057
+﻿https://www.google.com/search?q=reactjs+design+system&ei=sTf9WvSDEciusQHF3K7ABA&start=80&sa=N&biw=1600&bih=1057
 URLs
-https://maxfarseer.gitbooks.io/react-course-ru/content/reactproptypes.html
+https://maxfarseer.gitbooks.io/react-course-ru/content/prodvinutoe_ispolzovanie.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -53,9 +53,8 @@ Sorokin - B 28                                      -   00:00 (of)
 Chernyak - 16 of 34                                 - 1:14:00 (of 2:12:39)
     https://www.youtube.com/watch?v=cxf_gXI9Slc
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sorokin - Family 2                                  - 2:22:00 (of 3:55:02)
-    https://predanie.ru/sorokin-vladimir-vladimirovich/semja-v-biblii/slushat/
-https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
+Sorokin                                             -   00:00 (of)
+    https://predanie.ru/sorokin-vladimir-vladimirovich/formirovanie-predstavleniy-o-voskresenii-v-yahvistskoy-tradicii/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/arhipova-marina/pyat-shagov-chtoby-nauchitsya-ponimat-i-uvazhat-samogo-sebya/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
@@ -79,7 +78,7 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 232
+This week in rust                                   - 234
 Razbor Poletov                                      - 158
 http://accu.org/index.php/journals/c78/             - 144
 
@@ -101,4 +100,6 @@ nlp - word vectors
 cpp - iterator category/tag-dispatching
 https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf
 
+geom samples
 https://hsto.org/webt/ge/gi/co/gegiconfwag8g2kmxnd_ar4yakg.jpeg
+https://res.infoq.com/news/2018/05/medium-reactjs-graphql-migration/en/resources/1migrating-medium-react-graphql-2-1526469015576.png

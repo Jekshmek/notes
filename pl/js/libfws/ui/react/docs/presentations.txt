@@ -11,6 +11,8 @@ Live React Bootcamp
 https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo
 Academind - ReactJS + Redux Basics
 https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+Academind - React 16.3
+https://www.youtube.com/watch?v=yaZzJ37Qb0U
 Dan Abramov: Beyond React 16
 https://www.youtube.com/watch?v=nLF0n9SACd4
 
