@@ -1,3 +1,5 @@
+https://www.gatsbyjs.org/tutorial/part-two/
+
 2017
 https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/
 https://www.sitepoint.com/style-react-components-styled-components/
