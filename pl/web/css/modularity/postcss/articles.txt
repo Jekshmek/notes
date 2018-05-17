@@ -1,5 +1,7 @@
 2016
 http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/
+https://www.sitepoint.com/postcss-mythbusting/
+    https://habr.com/post/280988/
 https://tylergaw.com/articles/sass-to-postcss/
 2015
 https://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/
