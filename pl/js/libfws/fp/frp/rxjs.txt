@@ -29,3 +29,4 @@ whatsnew
 https://auth0.com/blog/whats-new-in-rxjs-6/
 https://www.infoq.com/news/2018/05/rxjs-6-released
 https://www.youtube.com/watch?v=JCXZhe6KsxQ
+https://www.youtube.com/watch?v=X9fdpGthrXA

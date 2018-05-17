@@ -1,0 +1,2 @@
+2018
+https://www.slideshare.net/Odersky/preparing-for-scala-3

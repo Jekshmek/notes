@@ -1,0 +1,13 @@
+https://github.com/w3c/css-houdini-drafts/wiki
+
+articles
+2018
+https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/
+https://habr.com/company/mailru/blog/282027/
+2016
+https://developers.google.com/web/updates/2016/05/houdini
+https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
+
+presentations
+2015
+https://qconsf.com/sf2015/system/files/presentation-slides/houdini_-_explaining_css.pdf

@@ -41,3 +41,13 @@ http://www.nehudlit.ru/books/detail737744.html
 
 code samples:
 https://github.com/streamcode9/svg-time-series
+https://github.com/streamcode9/svg-time-series/blob/master/draw.ts
+https://github.com/weshoke/versor.js
+    http://www.wolftype.com/versor/colapinto_masters_final_02.pdf
+
+https://www.khronos.org/webgl/wiki/Tutorial
+http://graphics.wikia.com/wiki/Affine_transformation
+
+lit
+http://gorod.bogomolov-lab.ru/ps/stud/geom_ru/1617/list.html
+

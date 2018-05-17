@@ -1,3 +1,6 @@
+https://www.npmjs.com/package/webpack-blocks
+https://andywer.github.io/webpack-blocks/
+
 !!!
 https://github.com/andywer/webpack-blocks
 https://github.com/andywer/webpack-blocks/tree/master/packages/webpack
