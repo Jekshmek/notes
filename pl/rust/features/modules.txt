@@ -1,4 +1,5 @@
 2018
+https://medium.com/@eonil/rust-module-system-why-not-just-one-directory-for-one-module-84bc71a3f347
 https://chronicbuildfailure.co/splitting-up-modules-in-rust-5ad7713201d5
 https://medium.com/@siefert.david/tl-dr-rust-modules-8e5d186a9188
 
