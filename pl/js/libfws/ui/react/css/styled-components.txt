@@ -8,6 +8,7 @@ articles
 https://alligator.io/react/styled-components/
 2017
 https://medium.freecodecamp.org/a-5-minute-intro-to-styled-components-41f40eb7cd55
+https://www.sitepoint.com/style-react-components-styled-components/
 https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 https://medium.com/styled-components/announcing-v2-f01ef3766ac2
 https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7

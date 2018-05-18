@@ -1,4 +1,4 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=sTf9WvSDEciusQHF3K7ABA&start=80&sa=N&biw=1600&bih=1057
+﻿https://www.google.com/search?q=reactjs+design+system&ei=7RH_WsWFJYSy6ASBooWoCA&start=100&sa=N&biw=1600&bih=1027
 URLs
 https://maxfarseer.gitbooks.io/react-course-ru/content/prodvinutoe_ispolzovanie.html
 https://habr.com/company/philtech/blog/354596/
