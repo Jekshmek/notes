@@ -31,9 +31,10 @@ http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.h
 
 articles
 2018
+https://habr.com/post/358700/
 http://www.opennet.ru/opennews/art.shtml?num=48472
-https://habrahabr.ru/post/351996/
-https://habrahabr.ru/company/billing/blog/351682/
+https://habr.com/post/351996/
+https://habr.com/company/billing/blog/351682/
 https://medium.com/graalvm/graalvm-ten-things-12d9111f307d
 2017
 https://blog.plan99.net/graal-truffle-134d8f28fb69

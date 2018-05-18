@@ -9,6 +9,15 @@ https://material.angular.io/guide/getting-started
 components
 https://material.angular.io/components/categories
 
+theming
+https://material.io/design/material-theming
+
+tools
+icons
+https://material.io/tools/icons
+galery
+https://material.io/tools/gallery/
+
 presentations
 2018
 Academind - Angular Material Introduction and Setup
@@ -18,3 +27,4 @@ https://www.youtube.com/watch?v=Q6qhzG7mObU
 
 whatsnew
 https://github.com/angular/material2/blob/master/CHANGELOG.md
+https://habr.com/company/mailru/blog/358246/

@@ -14,6 +14,10 @@ https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements
 http://2ality.com/2018/04/async-iter-nodejs.html
     https://habrahabr.ru/post/353886/
 
+promises
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
+https://habr.com/company/ruvds/blog/358808/
+
 iteration
 http://exploringjs.com/es6/ch_iteration.html
 http://exploringjs.com/es2018-es2019/ch_asynchronous-iteration.html
