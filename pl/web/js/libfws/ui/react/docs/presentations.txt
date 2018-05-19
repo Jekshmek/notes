@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=nLF0n9SACd4
 2017
 Academind - React - Getting Started
 https://www.youtube.com/watch?v=pgAvVxowaYU
+Kirupa - Introducing React
+https://www.youtube.com/playlist?list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
+https://www.kirupa.com/react/introducing_react.htm
 
 2016
 ReactJS lessons
