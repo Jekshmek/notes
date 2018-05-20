@@ -1,5 +1,13 @@
 https://github.com/kotlintest/kotlintest
 
+reference
+https://github.com/kotlintest/kotlintest/blob/master/doc/reference.md
+
+articles
+2018
+https://medium.com/@sam_57450/kotlintest-pro-tips-54ce19c32c68
+
+
 { ... }.config(invocations = 20, threads = 4, tags = setOf(ElasticSearch, Windows))
 
 -DincludeTags=Windows,ElasticSearch

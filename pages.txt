@@ -1,4 +1,4 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=7RH_WsWFJYSy6ASBooWoCA&start=100&sa=N&biw=1600&bih=1027
+﻿https://www.google.com/search?q=reactjs+design+system&ei=_BkBW6yRCoWlsgG5nJn4BA&start=120&sa=N&biw=1600&bih=1057
 URLs
 https://maxfarseer.gitbooks.io/react-course-ru/content/prodvinutoe_ispolzovanie.html
 https://habr.com/company/philtech/blog/354596/
@@ -6,7 +6,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  May 19
+  May 20
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
   Lifshits

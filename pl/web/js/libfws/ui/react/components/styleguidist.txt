@@ -3,13 +3,16 @@ https://react-styleguidist.js.org/
 
 https://github.com/styleguidist/react-styleguidist
 
+
+https://react-styleguidist.js.org/docs/getting-started.html
+https://react-styleguidist.js.org/docs/cookbook.html
+https://react-styleguidist.js.org/docs/components.html
+
 https://react-styleguidist.js.org/docs/webpack.html
 https://react-styleguidist.js.org/examples/basic/
 
 http://pocotan001.github.io/react-styleguide-generator/#!.
 https://github.com/pocotan001/react-styleguide-generator
-
-
 
 usages
 https://github.com/styleguidist/react-styleguidist/issues/127
