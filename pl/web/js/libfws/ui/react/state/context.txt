@@ -1,6 +1,8 @@
 https://reactjs.org/docs/context.html
 
 2018
+https://scotch.io/tutorials/get-to-know-reacts-new-context-api
+    https://codesandbox.io/s/ox8q7zk0ly
 https://jwheatley.co/the-future-of-state-in-react/
 https://blog.alexdevero.com/react-context-multilingual-website-pt1
 https://blog.alexdevero.com/react-context-multilingual-website-pt2/

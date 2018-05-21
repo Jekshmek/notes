@@ -17,6 +17,8 @@ Dan Abramov: Beyond React 16
 https://www.youtube.com/watch?v=nLF0n9SACd4
 Awad - React 16.3
 https://www.youtube.com/playlist?list=PLN3n1USn4xlmJCu44oTMexB1P7OlIpZ4i
+ReactJS - profi secrets ru
+https://www.youtube.com/watch?v=BMp23VvkTVM
 
 2017
 Academind - React - Getting Started
@@ -36,6 +38,9 @@ Traversy - Learning ReactJS
 https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO
 Traversy - ReactJS Crash Course
 https://www.youtube.com/watch?v=A71aqufiNtQ
+CodeDojo - React and Redux Lessons ru
+https://www.youtube.com/playlist?list=PLqHlAwsJRxANc2mFeSIRLdglGf2ZNzNBr
+https://www.youtube.com/playlist?list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl
 
 Kosenko - ReactJs - Introduction to the library 
 good history...

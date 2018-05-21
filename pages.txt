@@ -1,6 +1,5 @@
-﻿https://www.google.com/search?q=reactjs+design+system&ei=_BkBW6yRCoWlsgG5nJn4BA&start=120&sa=N&biw=1600&bih=1057
-URLs
-https://maxfarseer.gitbooks.io/react-course-ru/content/prodvinutoe_ispolzovanie.html
+﻿URLs
+https://maxfarseer.gitbooks.io/react-course-ru/content/rabota_s_input.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -31,6 +30,7 @@ MPS                                                 -   17:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
+Bykov - Fransis                                     -   40:00 (of 1:06:33)
 Volkova 4                                           - 1:20:00 (of 1:32:36)
   https://www.youtube.com/watch?v=W8-2fQDbLUY
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -39,7 +39,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 5a                             -   00:00 (of)
+Paschenko - Game 2 - 5c                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 17                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -83,7 +83,8 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed
+Baduch - React 16 Essentials 2nd ed                 - ch2
+Chinnathambi - 2018 - Learning React 2nd ed         - ch5
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54

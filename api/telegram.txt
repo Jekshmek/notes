@@ -28,6 +28,9 @@ librabook
 Bukvoed
 books_house
 
+tutorials
+@progvid
+
 ortho
 predanie
 pravkniga

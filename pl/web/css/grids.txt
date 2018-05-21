@@ -1,7 +1,14 @@
-http://codepen.io/anthonydugois/full/RpYBmy
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 
-https://tuhub.ru/frontend/css-grid-complete-guide/
+articles
+2018
+https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
+2017
 https://habrahabr.ru/post/325760/
 http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html
 
+tools
 http://www.griddy.io/
+
+samples
+http://codepen.io/anthonydugois/full/RpYBmy

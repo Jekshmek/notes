@@ -58,6 +58,16 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 arrow functions
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
+proxy
+https://www.atyantik.com/proxy-javascript-es6-feature/
+
+regexp
+http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/
+
+symbols
+https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
+    https://habr.com/company/ruvds/blog/359004/
+
 books
 2018
 http://exploringjs.com/es2018-es2019/toc.html
@@ -82,3 +92,7 @@ https://babeljs.io/learn-es2015/
 
 cheatsheet
 https://devhints.io/es6
+
+books
+2018
+Isaaks - Get Programming with JavaScript Next

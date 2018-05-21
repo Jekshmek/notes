@@ -1,1 +1,12 @@
+2018
 https://reactjs.org/blog/2018/03/29/react-v-16-3.html
+https://blog.bitsrc.io/react-16-what-can-it-do-for-you-part-1-e2ee4b9022fb
+https://blog.bitsrc.io/react-16-what-can-it-do-for-you-part-2-12ec9be4256f
+
+2017
+https://github.com/codedojo/react-16
+    https://www.youtube.com/watch?v=GXgnR-n_yyw
+    https://www.youtube.com/watch?v=z8waaQ7WOoc
+    https://www.youtube.com/watch?v=_jmLlBjbhzw
+    https://www.youtube.com/watch?v=-qzRU7T4la0
+    https://www.youtube.com/watch?v=lD2P3fJzBL4

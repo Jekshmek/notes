@@ -1,4 +1,6 @@
 2018
+https://css-tricks.com/react-state-from-the-ground-up/
+https://css-tricks.com/understanding-react-setstate/
 https://hackernoon.com/the-react-state-museum-a278c726315
 
 2016
