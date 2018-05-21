@@ -1,4 +1,7 @@
-﻿URLs
+﻿Fav React Packages
+https://www.youtube.com/playlist?list=PLLnpHn493BHFhTWHDlmw64UW9r4RXMmge
+
+URLs
 https://maxfarseer.gitbooks.io/react-course-ru/content/rabota_s_input.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
@@ -22,7 +25,7 @@ Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-MPS                                                 -   17:00 (of   58:06)
+MPS                                                 -   31:00 (of   58:06)
     https://www.youtube.com/watch?v=102hoaAdctk
     http://voelter.de/data/pub/kernelf-reference.pdf
     https://github.com/IETS3/iets3.opensource
@@ -30,10 +33,10 @@ MPS                                                 -   17:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Bykov - Fransis                                     -   40:00 (of 1:06:33)
-Volkova 4                                           - 1:20:00 (of 1:32:36)
-  https://www.youtube.com/watch?v=W8-2fQDbLUY
+Volkova 5                                           -   43:00 (of 1:54:03)
+  https://www.youtube.com/watch?v=Ib1WansHCIk
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
+  https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
   https://www.youtube.com/watch?v=22XpNRkldtg
   https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0

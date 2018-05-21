@@ -4,3 +4,9 @@ https://github.com/mesonbuild/meson
 http://mesonbuild.com/Tutorial.html
 
 http://docs.conan.io/en/latest/reference/build_helpers/meson.html
+
+articles
+2018
+https://medium.com/@germandiagogomez/getting-started-with-meson-build-system-and-c-83270f444bee
+https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-2-58150354ff17
+https://medium.com/@germandiagogomez/getting-started-with-meson-in-c-part-3-70b9bc419957
