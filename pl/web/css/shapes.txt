@@ -1,0 +1,4 @@
+https://css-tricks.com/examples/ShapesOfCSS/
+
+2014
+http://alistapart.com/article/css-shapes-101
