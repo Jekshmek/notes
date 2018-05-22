@@ -11,6 +11,10 @@ https://fosdem.org/2018/schedule/event/rust_idiomatic/
 https://fosdem.org/2018/schedule/event/rust_idiomatic/attachments/slides/2555/export/events/attachments/rust_idiomatic/slides/2555/Idiomatic_Rust___Matthias_Endler___FOSDEM_2018.pdf
 Intro to Rust
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW
+Dhinakaran
+https://speakerdeck.com/dvigneshwer/hackers-guide-to-rust-programming-accu-2018
+https://speakerdeck.com/dvigneshwer/pumping-up-python-modules-using-rust-pycon-2018
+https://speakerdeck.com/dvigneshwer/pumping-up-node-dot-js-modules-with-rust
 
 2017
 https://www.slideshare.net/nikomatsakis/rust-reach-further

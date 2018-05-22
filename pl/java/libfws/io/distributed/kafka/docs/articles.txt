@@ -2,6 +2,7 @@
 https://habr.com/post/354486/
 
 2016
+https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026
 http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html
 http://aseigneurin.github.io/2016/03/03/kafka-spark-avro-consume-messages-with-spark.html
 http://aseigneurin.github.io/2016/03/04/kafka-spark-avro-producing-and-consuming-avro-messages.html
@@ -16,6 +17,7 @@ https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations
 https://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data/
 https://www.confluent.io/blog/stream-data-platform-1/
 https://www.confluent.io/blog/stream-data-platform-2/
+
 
 Exactly-once delivery:
 https://habrahabr.ru/post/332448/

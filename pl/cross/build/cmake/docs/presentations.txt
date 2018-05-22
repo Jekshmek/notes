@@ -1,4 +1,7 @@
-2017:
+2018
+https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/git_cmake_conan__how_to_ship_and_reuse_our_cpp_projects__mateusz_pusz__cppnow_05202018.pdf
+
+2017
 http://www.effective-cmake.com/cmake-talk.pdf
 https://www.youtube.com/watch?v=QayyhI-36os
 

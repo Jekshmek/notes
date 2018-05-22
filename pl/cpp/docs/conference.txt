@@ -1,0 +1,3 @@
+2018
+CppNow
+https://github.com/boostcon/cppnow_presentations_2018

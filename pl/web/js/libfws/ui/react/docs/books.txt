@@ -33,6 +33,7 @@ Singh - Serverless Web Applications with React and Firebase
 
 2017
 Boduch - React 16 Essentials 2nd ed
+    https://github.com/PacktPublishing/React-Essentials-Second-Edition
 !!! Accomazzo - Fullstack React
 Banks - Learning React
 Bertoli - React Design Patterns and Best Practices
