@@ -33,7 +33,7 @@ MPS                                                 -   31:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Volkova 7                                           -   01:00 (of 1:43:25)
+Volkova 7                                           -   10:00 (of 1:43:25)
   https://www.youtube.com/watch?v=IHMvUALsok4
   https://www.youtube.com/watch?v=FxW63n4mA70
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
