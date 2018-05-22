@@ -8,17 +8,14 @@ https://github.com/cssinjs/jss/blob/master/docs/plugins.md
 
 https://github.com/cssinjs/jss-preset-default
 
-presentations:
+presentations
+2017
+Izmailov
+https://www.slideshare.net/denisizmaylov/prejss-the-final-point-in-the-css-war
 https://events.yandex.ru/lib/talks/4483/
 
-react-jss:
-http://cssinjs.org/react-jss/?v=v5.4.0
+react-jss
+http://cssinjs.org/react-jss
 https://github.com/cssinjs/react-jss
 
-PreJSS:
-https://github.com/axept/prejss
-https://github.com/axept/prejss-cli
-https://www.slideshare.net/denisizmaylov/prejss-the-final-point-in-the-css-war
-http://www.moscowjs.ru/talk/prejss-universalnii-adapter-css-v-jss
-https://drive.google.com/file/d/0BzyxUcwres7NeFptYWcxN1Z3QlE/view
-https://www.youtube.com/watch?v=tS6XHqRhpEQ
+prejss (as a plugin to postcss)

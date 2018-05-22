@@ -1,0 +1,13 @@
+import ReactDOMServer from 'react-dom/server';
+...
+const body = ReactDOMServer.renderToString(<Application>);
+
+
+presentations
+2017
+https://www.moscowjs.ru/talk/pogruzhenie-v-ssr
+    https://cloud.mail.ru/public/LH9C/cAgdAzQp5
+    https://www.youtube.com/watch?v=uB7Yz4nH8nc
+2015
+https://www.slideshare.net/denisizmaylov/isomorphic-react-applications-performance-and-scalability
+https://www.slideshare.net/denisizmaylov/react-55511991

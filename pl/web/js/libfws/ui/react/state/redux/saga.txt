@@ -9,6 +9,9 @@ https://www.slideshare.net/nachomartin/redux-saga-managing-your-side-effects-als
 https://www.slideshare.net/nachomartin/redux-sagas-react-alicante
 https://www.slideshare.net/DanielFranz6/the-redux-saga-begins-72202458
 https://www.slideshare.net/pedsola/asyc-flow-control-with-javascript-generators-reduxsaga
+https://www.moscowjs.ru/talk/redux-saga-na-steroidah
+    https://www.youtube.com/watch?v=W4Eboykd8XY
+    http://slides.com/pelid80/redux-saga#/
 2016
 Bukhanov - The Evolution of Redux Action Creators (+saga)
 https://www.slideshare.net/GeorgeBukhanov/the-evolution-of-redux-action-creators

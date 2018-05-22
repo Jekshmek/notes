@@ -5,4 +5,5 @@ https://blogs.msdn.microsoft.com/typescript/2018/03/27/announcing-typescript-2-8
 https://blogs.msdn.microsoft.com/typescript/2017/06/27/announcing-typescript-2-4/
 
 2017
+https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488
 https://channel9.msdn.com/Events/Build/2017/B8088/
