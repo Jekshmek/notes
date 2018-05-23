@@ -42,6 +42,9 @@ CodeDojo - React and Redux Lessons ru
 https://www.youtube.com/playlist?list=PLqHlAwsJRxANc2mFeSIRLdglGf2ZNzNBr
 https://www.youtube.com/playlist?list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl
 
+2014
+Hunt - The Secrets of React Virtual DOM
+https://www.youtube.com/watch?v=-DX3vJiqxm4
 Kosenko - ReactJs - Introduction to the library 
 good history...
 Nauck-2014-ReactJS-KeepSimple

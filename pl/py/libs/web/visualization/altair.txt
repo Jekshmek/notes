@@ -13,6 +13,9 @@ https://altair-viz.github.io/API.html
 https://altair-viz.github.io/documentation/marks.html
 
 presentations
+2018
+Exploratory Data Visualization with Vega, Vega-Lite, and Altair
+https://www.youtube.com/watch?v=CYgHWN7vApA
 2016
 https://speakerdeck.com/jakevdp/visualization-in-python-with-altair
 Granger - Altair - Declarative Statistical Visualization for Python

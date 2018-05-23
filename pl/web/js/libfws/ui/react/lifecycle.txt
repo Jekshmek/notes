@@ -1,2 +1,29 @@
+https://reactjs.org/docs/react-component.html#lifecycle-methods
+
+2016
+https://maxfarseer.gitbooks.io/react-course-ru/content/zhiznennii_tsikl_komponenta.html
+
+componentDidMount: function() {
+    ReactDOM.findDOMNode(this.refs.myTestInput).focus();
+}
+componentWillReceiveProps: function(nextProps) {
+    // this.props - old props
+    // nextProps  - new props
+    this.setState({ likesIncreasing: nextProps.likeCount > this.props.likeCount }); // this will not trigger render
+}
+render: function() {
+    return (
+      <div>
+        <input
+          className='test-input'
+          defaultValue=''
+          placeholder='введите значение'
+          ref='myTestInput'
+        />
+        <button onClick={this.onBtnClickHandler} ref='alert_button'>Show the alert</button>
+      </div>
+    )
+}
+
 error
 componentDidCatch

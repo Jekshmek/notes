@@ -1,1 +1,6 @@
 https://github.com/Gabriel439/Haskell-Dhall-Library
+
+presentations
+2018
+Gabriel Gonzalez: Dhall - Programmable configuration language
+https://www.youtube.com/watch?v=Ih9Ngu7FlCc

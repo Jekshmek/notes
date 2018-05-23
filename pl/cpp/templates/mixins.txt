@@ -1,0 +1,4 @@
+presentations
+2018
+C++Now 2018: Odin Holmes “C++ Mixins: Customization Through Compile Time Composition”
+https://www.youtube.com/watch?v=wWZi_wPyVvs

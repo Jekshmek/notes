@@ -1,6 +1,7 @@
 https://reactjs.org/docs/context.html
 
 2018
+https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
 https://scotch.io/tutorials/get-to-know-reacts-new-context-api
     https://codesandbox.io/s/ox8q7zk0ly
 https://jwheatley.co/the-future-of-state-in-react/

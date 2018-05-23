@@ -4,6 +4,9 @@ https://github.com/markerikson/react-redux-links
 https://github.com/markerikson/react-redux-links/blob/master/react-redux-architecture.md
 https://proglib.io/p/react-digest/
 
+https://reactdom.com/
+https://reactdom.com/category/issues
+
 2018
 https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4
 https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2018-e30edac96392
