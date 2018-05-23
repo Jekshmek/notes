@@ -5,6 +5,7 @@ npm i -D pug-loader pug
 // babel-plugin-transform-react-pug babel-plugin-transform-react-jsx
 
 npm i -P react react-dom
+npm i -P immutable
 
 npm i -D typescript awesome-typescript-loader source-map-loader
 npm i -D @types/react @types/react-dom
