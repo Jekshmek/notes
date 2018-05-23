@@ -3,6 +3,8 @@ https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90
     https://egghead.io/courses/the-beginner-s-guide-to-react
     https://egghead.io/courses/advanced-react-component-patterns
 
+https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw/playlists
+
 2018
 JavaScriptRU - Yablonchuk - Ract
 https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO

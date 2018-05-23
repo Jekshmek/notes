@@ -1,0 +1,5 @@
+https://reactjs.org/docs/higher-order-components.html
+
+articles
+2018
+https://css-tricks.com/what-are-higher-order-components-in-react/

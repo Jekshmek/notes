@@ -1,6 +1,7 @@
 https://reactjs.org/docs/context.html
 
 2018
+https://css-tricks.com/putting-things-in-context-with-react/
 https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
 https://scotch.io/tutorials/get-to-know-reacts-new-context-api
     https://codesandbox.io/s/ox8q7zk0ly
@@ -13,3 +14,5 @@ https://wesbos.com/react-context/
 Academind - React 16.3 - New Context API
     https://www.youtube.com/watch?v=yaZzJ37Qb0U
 https://codeburst.io/code-your-own-react-state-management-library-using-the-new-context-api-part-1-64fb9d702e75
+How to use the new Context API in React 16.3
+    https://www.youtube.com/watch?v=cwEsT9PeRis

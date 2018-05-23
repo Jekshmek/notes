@@ -1,4 +1,9 @@
-﻿Fav React Packages
+﻿https://www.google.com/search?q=library+generate+diagram+svg&ie=utf-8&oe=utf-8
+https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
+https://thejsguy.com/2018/03/18/contextual-components-in-react.html
+https://tylermcginnis.com/react-router-query-strings/
+
+Fav React Packages
 https://www.youtube.com/playlist?list=PLLnpHn493BHFhTWHDlmw64UW9r4RXMmge
 
 URLs

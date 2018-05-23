@@ -1,8 +1,9 @@
 2018
+https://habr.com/company/singularis/blog/358664/
 L9 -  Embeddings and data representation
 https://www.youtube.com/watch?v=ufkDhrngcr0
-
 https://blog.acolyer.org/2018/02/22/dynamic-word-embeddings-for-evolving-semantic-discovery/
 
-https://habrahabr.ru/company/ods/blog/329410/
+2017
+https://habr.com/company/ods/blog/329410/
 https://machinelearningmastery.com/what-are-word-embeddings/
