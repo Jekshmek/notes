@@ -9,3 +9,4 @@ https://habrahabr.ru/company/pvs-studio/blog/340014/
 presentations
 2018
 https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/beyond_cpp17__mateusz_pusz__cppnow_05072018.pdf
+https://www.youtube.com/watch?v=y7PBciQp0B8

@@ -1,0 +1,4 @@
+https://www.dartlang.org/dart-2
+https://medium.com/dartlang/announcing-dart-2-80ba01f43b6
+    https://habr.com/company/wrike/blog/349790/
+https://webdev-dartlang-org-dev.firebaseapp.com/dart-2

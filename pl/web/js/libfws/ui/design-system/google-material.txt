@@ -1,5 +1,19 @@
-https://material.angular.io/
+https://material.io/
+https://material.io/design/
+https://www.material.io/
+https://material.io/develop/web/
+https://github.com/material-components/material-components-web/
+https://github.com/material-components/material-components-web/tree/master/demos
 
+!!!
+https://github.com/material-components/material-components-web/tree/master/packages
+
+https://material-components.github.io/material-components-web-catalog/#/
+https://github.com/material-components/material-components-web/blob/master/docs/getting-started.md
+
+
+
+https://material.angular.io/
 https://github.com/angular/material2
 
 docs
@@ -17,6 +31,10 @@ icons
 https://material.io/tools/icons
 galery
 https://material.io/tools/gallery/
+
+articles
+2018
+https://habr.com/company/redmadrobot/blog/359158/
 
 presentations
 2018

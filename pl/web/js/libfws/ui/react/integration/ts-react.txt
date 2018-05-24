@@ -33,6 +33,7 @@ https://codeburst.io/webpack-typescript-react-part-1-dc154e250f23
 2017
 https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614
 https://habr.com/post/340650/
+https://levelup.gitconnected.com/react-and-redux-with-typescript-da0c37537a79
 2016
 http://blog.tomduncalf.com/posts/setting-up-typescript-and-react/
 

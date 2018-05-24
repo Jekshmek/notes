@@ -7,6 +7,8 @@ Martin - Introduction to Redux
 https://www.slideshare.net/nachomartin/introduction-to-redux
 Powell - Redux, beyond React
 https://www.youtube.com/watch?v=TYjosLQ3yDE
+Monsterlessons - Redux React Lessons
+https://www.youtube.com/playlist?list=PLIcAMDxr6tprSzqKmfhDiW00GWbDcs8lE
 2016
 Abramove - The Redux Journey
 https://www.youtube.com/watch?v=uvAXVMwHJXU

@@ -3,6 +3,8 @@ https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-r
 https://thejsguy.com/2018/03/18/contextual-components-in-react.html
 https://tylermcginnis.com/react-router-query-strings/
 
+https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
+
 Fav React Packages
 https://www.youtube.com/playlist?list=PLLnpHn493BHFhTWHDlmw64UW9r4RXMmge
 
@@ -28,8 +30,6 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
 Video
-Bykov - Meta                                        -   01:00 (of   59:18)
-    https://www.youtube.com/watch?v=OClw_dhe0bU
 Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -66,11 +66,10 @@ https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichn
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
-https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
-https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
+https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 
@@ -92,7 +91,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch4
+Baduch - React 16 Essentials 2nd ed                 - ch5
 Chinnathambi - 2018 - Learning React 2nd ed         - ch5
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

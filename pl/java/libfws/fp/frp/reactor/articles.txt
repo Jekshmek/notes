@@ -1,5 +1,7 @@
 2018
-https://habrahabr.ru/company/funcorp/blog/350996/
+Java and Project Reactor
+https://habr.com/company/funcorp/blog/350996/
+https://habr.com/company/funcorp/blog/359194/
 
 https://www.infoq.com/articles/Designing-Implementing-Using-Reactive-APIs
 

@@ -1,3 +1,6 @@
+2018
+https://mariusbancila.ro/blog/2018/05/22/transform-and-reduce-alternatives/
+
 Blogs:
 http://yapb-soc.blogspot.com/
 http://functionalcpp.wordpress.com/

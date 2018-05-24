@@ -12,3 +12,8 @@ https://canonium.com/articles/debugging-nodejs-in-chrome-devtools
 
 tabs
 chrome://net-internals
+
+presentations
+2018
+NEW Debugger Features for JavaScript
+https://www.youtube.com/watch?v=foDOYyWNg3I

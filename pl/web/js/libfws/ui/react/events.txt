@@ -1,5 +1,14 @@
 https://reactjs.org/docs/handling-events.html
 https://reactjs.org/docs/events.html
 
+react wraps browser native events to:
+SyntheticEvent
+    .stopPropagation()
+    .preventDefault()
+    .nativeEvent property
+
+React does not actually attach event handlers to the DOM nodes themselves.
+It uses general event-listener and dispatches events itself to appropriate event handlers.
+
 prevetDefault
 https://medium.com/@ericclemmons/react-event-preventdefault-78c28c950e46

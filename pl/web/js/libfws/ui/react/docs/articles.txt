@@ -46,3 +46,6 @@ https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a
 https://scotch.io/tutorials/reactjs-components-learning-the-basics
 !!!
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+2015
+https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
