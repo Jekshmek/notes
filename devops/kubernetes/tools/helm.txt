@@ -6,6 +6,8 @@ https://www.linux.com/learn/helm-kubernetes-package-manager
 
 https://github.com/futuresimple/helm-secrets
 
+cli
 helm
     install
     upgrade
+    delete --purge <name>

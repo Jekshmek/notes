@@ -1,14 +1,12 @@
 ﻿https://www.google.com/search?q=library+generate+diagram+svg&ie=utf-8&oe=utf-8
-https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
-https://thejsguy.com/2018/03/18/contextual-components-in-react.html
-https://tylermcginnis.com/react-router-query-strings/
-
-https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 
 Fav React Packages
 https://www.youtube.com/playlist?list=PLLnpHn493BHFhTWHDlmw64UW9r4RXMmge
 
 URLs
+https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
+    anime.js
+https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 https://ru-bykov.livejournal.com/3410899.html
     2
 https://maxfarseer.gitbooks.io/react-course-ru/content/rabota_s_formoi.html
@@ -42,7 +40,7 @@ MPS                                                 -   31:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Volkova 8                                           -   10:00 (of 1:26:49)
+Volkova 8                                           - 1:00:00 (of 1:26:49)
   https://www.youtube.com/watch?v=FxW63n4mA70
   https://www.youtube.com/watch?v=SsKcYWtkPoM
   https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -58,8 +56,8 @@ Ivliev - 18                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 28                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Chernyak - 17 of 34                                 - 1:23:00 (of 1:50:39)
-    https://www.youtube.com/watch?v=advrzHl_SIU
+Chernyak - 18 of 34                                 -   18:00 (of 1:52:49)
+    https://www.youtube.com/watch?v=I-s1zbiJoso
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
@@ -102,4 +100,3 @@ OpenSSL Cookbook                                    - 29 (of 58)
 nlp - word vectors
   https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-https://tiei.ru/wp-content/uploads/Scratch-dlya-yunyih-programmistov.pdf

@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw/playlists
 JavaScriptRU - Yablonchuk - Ract
 https://www.youtube.com/playlist?list=PLDyvV36pndZEz2unvD0a2Spv7RehBrpDO
 https://learn.javascript.ru/screencast/react
-Live React Bootcamp
+TylerMcGinnis - Live React Bootcamp
 https://www.youtube.com/playlist?list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo
 Academind - ReactJS + Redux Basics
 https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=pgAvVxowaYU
 Kirupa - Introducing React
 https://www.youtube.com/playlist?list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
 https://www.kirupa.com/react/introducing_react.htm
+TylerMcGinnis - React Fundamentals
+https://www.youtube.com/playlist?list=PLqrUy7kON1mc7U60YUaN3ZR9EHlh9fsDL
 
 2016
 !!! Izmailov - JavaScript Today - React, Redux and new reality

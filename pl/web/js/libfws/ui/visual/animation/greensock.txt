@@ -7,5 +7,20 @@ https://greensock.com/docs/TweenMax
 morphsvg
 https://greensock.com/morphSVG
 
+articles
 2012
 https://habrahabr.ru/post/144466/
+
+presentations
+2017
+GSAP Tutorial - How to Animate React Web Apps
+https://www.youtube.com/watch?v=t8Ye4poPpXg
+2016
+Drasner - SVG and GreenSock for Complex Animation - Forward 4 Web Summit
+https://www.youtube.com/watch?v=ZNukcHhpSXg
+
+samples
+https://codepen.io/osublake/pen/65cdc21ce5c49da45709ff9d09d0a754
+https://codepen.io/osublake/pen/dmPyaw/
+https://codepen.io/osublake/pen/PPmJpL
+https://codepen.io/osublake/pen/EEaPKe
