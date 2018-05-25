@@ -1,6 +1,15 @@
-﻿https://www.google.com/search?q=library+generate+diagram+svg&ei=4wQHW-mVF7CjmwXL67TYCg&start=60&sa=N&biw=1600&bih=1057
+﻿https://www.google.com/search?q=library+generate+diagram+svg&ei=OOQHW-mrNdLN6QSq9bCwBw&start=70&sa=N&biw=1600&bih=1057
 https://www.sitepoint.com/7-javascript-libraries-specific-visualizations/
 https://modeling-languages.com/javascript-drawing-libraries-diagrams/
+
+http://tentouchapps.com/grafio/
+https://developers.google.com/chart/interactive/docs/gallery/sankey
+https://github.com/dagrejs/dagre
+https://github.com/dagrejs/dagre-d3
+https://github.com/dagrejs/dagre-d3/wiki
+https://dagrejs.github.io/project/dagre-d3/latest/demo/sentence-tokenization.html
+http://fabricjs.com/
+http://freegroup.github.io/draw2d_js.app.shape_designer/
 
 URLs
 https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
