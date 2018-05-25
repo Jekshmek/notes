@@ -1,0 +1,6 @@
+https://github.com/netflix/zuul/
+
+https://github.com/Netflix/zuul/wiki/Core-Features
+
+2018
+https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3

@@ -1,4 +1,6 @@
 2018
+What Does Fast, Modern JavaScript Look Like? (aka High Performance JS in V8)
+https://www.youtube.com/watch?v=ut6OF8jMv-o
 !!! Matvienko - Node Troubleshooting
 https://www.youtube.com/watch?v=_qzFJ2MPVWQ
 https://habr.com/company/jugru/blog/358680/

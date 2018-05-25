@@ -12,3 +12,8 @@ It uses general event-listener and dispatches events itself to appropriate event
 
 prevetDefault
 https://medium.com/@ericclemmons/react-event-preventdefault-78c28c950e46
+
+PointerEvents
+https://reactjs.org/blog/2018/05/23/react-v-16-4.html
+https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events
+https://codesandbox.io/s/q83r7nrwv6

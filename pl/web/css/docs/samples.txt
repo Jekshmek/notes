@@ -1,2 +1,0 @@
-style
-border-radius: 10px;

@@ -5,12 +5,14 @@ https://modeling-languages.com/javascript-drawing-libraries-diagrams/
 URLs
 https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
     anime.js
-https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
+https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html#component-elements
 https://ru-bykov.livejournal.com/3410899.html
     2
 https://maxfarseer.gitbooks.io/react-course-ru/content/rabota_s_formoi.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
+https://akrzemi1.wordpress.com/2018/05/16/rvalues-redefined/
+    prvalue
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
   Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -39,14 +41,14 @@ MPS                                                 -   31:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Volkova 8                                           - 1:00:00 (of 1:26:49)
-  https://www.youtube.com/watch?v=FxW63n4mA70
-  https://www.youtube.com/watch?v=SsKcYWtkPoM
-  https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
-  https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
+Volkova 9-10                                        -   11:00 (of 1:37:51)
+    https://www.youtube.com/watch?v=SsKcYWtkPoM
+    https://www.youtube.com/watch?v=zfSHMBV6UCg
+    https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
+    https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
-  https://www.youtube.com/watch?v=22XpNRkldtg
-  https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
+    https://www.youtube.com/watch?v=22XpNRkldtg
+    https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
 Paschenko - Game 2 - 5c                             -   00:00 (of)
@@ -58,13 +60,13 @@ Sorokin - B 28                                      -   00:00 (of)
 Chernyak - 18 of 34                                 -   18:00 (of 1:52:49)
     https://www.youtube.com/watch?v=I-s1zbiJoso
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
-https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/

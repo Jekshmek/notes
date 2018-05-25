@@ -23,6 +23,10 @@ https://github.com/facebook/react-devtools
 https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
+books
+2016
+https://legacy.gitbook.com/book/charleslbryant/hello-react-and-typescript/details
+
 articles
 2018
 https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935
