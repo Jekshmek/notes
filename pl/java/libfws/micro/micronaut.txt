@@ -1,0 +1,10 @@
+http://micronaut.io/
+https://github.com/micronaut-projects/
+
+http://micronaut.io/documentation.html
+http://docs.micronaut.io/snapshot/guide/index.html
+http://micronaut.io/faq.html
+
+http://docs.micronaut.io/snapshot/api/
+
+http://micronaut.io/announcement.html

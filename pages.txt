@@ -1,23 +1,10 @@
-﻿https://www.google.com/search?q=library+generate+diagram+svg&ei=OOQHW-mrNdLN6QSq9bCwBw&start=70&sa=N&biw=1600&bih=1057
-https://www.sitepoint.com/7-javascript-libraries-specific-visualizations/
-https://modeling-languages.com/javascript-drawing-libraries-diagrams/
-
-http://tentouchapps.com/grafio/
-https://developers.google.com/chart/interactive/docs/gallery/sankey
-https://github.com/dagrejs/dagre
-https://github.com/dagrejs/dagre-d3
-https://github.com/dagrejs/dagre-d3/wiki
-https://dagrejs.github.io/project/dagre-d3/latest/demo/sentence-tokenization.html
-http://fabricjs.com/
-http://freegroup.github.io/draw2d_js.app.shape_designer/
+﻿https://react-styleguidist.js.org/docs/cookbook.html#are-there-any-other-projects-like-this
 
 URLs
-https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
-    anime.js
+https://maxfarseer.gitbooks.io/react-course-ru/content/dobavit_novost.html
 https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html#component-elements
 https://ru-bykov.livejournal.com/3410899.html
     2
-https://maxfarseer.gitbooks.io/react-course-ru/content/rabota_s_formoi.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://akrzemi1.wordpress.com/2018/05/16/rvalues-redefined/
@@ -112,3 +99,5 @@ nlp - word vectors
 cpp - iterator category/tag-dispatching
 need: 66, 69-74
 have: 75,78,79,80,84,85
++375 (29) 644-22-06
++375 (33) 617-19-22

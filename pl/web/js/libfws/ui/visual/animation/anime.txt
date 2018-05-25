@@ -1,2 +1,9 @@
 http://animejs.com/
 https://github.com/juliangarnier/anime
+
+http://animejs.com/documentation/
+
+https://codepen.io/collection/XLebem/#
+
+whatsnew
+https://github.com/juliangarnier/anime/releases/tag/v2.0.0
