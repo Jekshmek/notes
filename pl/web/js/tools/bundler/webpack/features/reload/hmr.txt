@@ -32,6 +32,8 @@ module.exports = {
 articles
 2018
 https://medium.freecodecamp.org/how-to-develop-react-js-apps-fast-using-webpack-4-3d772db957e4
+2017
+https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0
 2015
 https://www.javascriptstuff.com/webpack-hmr-tutorial/
 https://www.javascriptstuff.com/understanding-hmr/

@@ -1,0 +1,24 @@
+PureComponents
+https://habr.com/company/redmadrobot/blog/318222/
+
+HOC - Higher Order Components
+https://reactjs.org/docs/higher-order-components.html
+articles
+2018
+https://css-tricks.com/what-are-higher-order-components-in-react/
+presentations
+2016
+ReactCasts - Higer Order Components
+https://www.youtube.com/watch?v=LTunyI2Oyzw
+
+
+2018
+http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
+https://github.com/krasimir/react-in-patterns
+
+2017
+https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+
+2016
+ReactCasts - Component Composition Patterns
+https://www.youtube.com/playlist?list=PLrg7k46JdVjfmL0iuo0lMrXAy4JFrz767

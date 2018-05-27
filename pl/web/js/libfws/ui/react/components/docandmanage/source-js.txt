@@ -3,3 +3,5 @@ https://sourcejs.com/
 https://github.com/sourcejs/Source
 
 https://sourcejs.com/docs/
+
+https://github.com/sourcejs/sourcejs-react-styleguidist

@@ -3,6 +3,7 @@ https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90
     https://egghead.io/courses/the-beginner-s-guide-to-react
     https://egghead.io/courses/advanced-react-component-patterns
 
+Elijah Manor - misc modern react stuff
 https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw/playlists
 
 2018
@@ -30,6 +31,11 @@ https://www.youtube.com/playlist?list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1
 https://www.kirupa.com/react/introducing_react.htm
 TylerMcGinnis - React Fundamentals
 https://www.youtube.com/playlist?list=PLqrUy7kON1mc7U60YUaN3ZR9EHlh9fsDL
+Vecel - React Club and ReactJS short Lessons
+https://www.youtube.com/playlist?list=PLaEXvLxQXu_0cCfWRm9x61Jf8wG8C1-Ho
+https://www.youtube.com/playlist?list=PLaEXvLxQXu_0HnN4zxebldcqYVP1ujqBs
+ReactCasts - Advanced React
+https://www.youtube.com/playlist?list=PL8V1empgrpJb--IOBFEY_54SHF-Ft5SAa
 
 2016
 !!! Izmailov - JavaScript Today - React, Redux and new reality
@@ -45,6 +51,12 @@ https://www.youtube.com/playlist?list=PLqHlAwsJRxANc2mFeSIRLdglGf2ZNzNBr
 https://www.youtube.com/playlist?list=PLqHlAwsJRxAONt5CnjMMeKdYGv1CDRUOl
 Monsterlessons - ReactJS lessons
 https://www.youtube.com/playlist?list=PLIcAMDxr6tpoShAiU0Nh_nBtg19XWbCql
+LearnCode - ReactJS Tutorials
+https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+
+2015
+Manor - React to the Future
+http://elijahmanor.com/talks/react-to-the-future/
 
 2014
 Hunt - The Secrets of React Virtual DOM
@@ -53,4 +65,3 @@ Kosenko - ReactJs - Introduction to the library
 good history...
 Nauck-2014-ReactJS-KeepSimple
 https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component
-http://elijahmanor.com/talks/react-to-the-future/

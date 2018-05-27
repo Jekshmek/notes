@@ -3,5 +3,6 @@ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 2018
 Kleppmann - CRDTs and the quest for distributed consistency
 https://qconlondon.com/system/files/presentation-slides/conflict-resolution.pdf
+https://www.infoq.com/presentations/crdt-distributed-consistency
 https://www.infoq.com/news/2018/03/data-consistency-crdto
 https://qconlondon.com/london2018/presentation/crdts-and-quest-distributed-consistency
