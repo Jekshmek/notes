@@ -14,3 +14,5 @@ https://github.com/codedojo/react-16
     https://www.youtube.com/watch?v=lD2P3fJzBL4
 LevelUpTuts - React 16 for Everyone Preview
 https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe
+Klimov - React Fiber ru
+https://www.youtube.com/watch?v=gULfnbZ7dJk

@@ -1,4 +1,7 @@
 2018
+Zprucky - Fresh Look at GraphQL API
+https://www.youtube.com/watch?v=4diXbLnYrMs
+    https://drive.google.com/file/d/174peSi-zvTuBB9g_Sgf9qyZnJCY9T4UG/view
 GraphQL Full Course - Novice to Expert
 https://www.youtube.com/watch?v=ed8SzALpx1Q
 Chertorogov - GraphQL client-server contract

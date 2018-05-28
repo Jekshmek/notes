@@ -11,6 +11,8 @@ presentations
 ReactCasts - Higer Order Components
 https://www.youtube.com/watch?v=LTunyI2Oyzw
 
+Components Communication
+https://stackoverflow.com/questions/21285923/reactjs-two-components-communicating/31563614#31563614
 
 2018
 http://krasimirtsonev.com/blog/article/react-js-in-design-patterns

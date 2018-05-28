@@ -1,4 +1,6 @@
 2018
+CodingTech - The Strategy Guide to CSS Custom Properties
+https://www.youtube.com/watch?v=U9UU_fgpmO8
 https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/
 2017
 https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/

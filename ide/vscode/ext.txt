@@ -40,7 +40,9 @@ https://github.com/PistonDevelopers/VisualRust
 js
 https://medium.freecodecamp.org/an-overview-of-visual-studio-code-for-front-end-developers-49a4aa0771fb
 https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5
-https://habrahabr.ru/post/354038/
+    https://habr.com/post/354038/
+https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1
+    https://habr.com/company/ruvds/blog/354960/
 https://github.com/Microsoft/vscode-chrome-debug
 
 react

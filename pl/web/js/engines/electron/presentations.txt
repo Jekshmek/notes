@@ -1,0 +1,6 @@
+2018
+Valin - Electron ru
+https://www.youtube.com/watch?v=AfAPjvp948I
+    https://docs.google.com/presentation/d/1AoGmzhulv7YYJCXi_AyUYLrrJ5Dhj-RmrpR9i41_PUk
+Woodruff - Electron: Desktop Development for Web Developers
+https://www.infoq.com/presentations/electron-photon

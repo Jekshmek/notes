@@ -3,6 +3,9 @@ https://github.com/redux-saga/redux-saga
 
 presentations
 2018
+Dedkov - Redux Saga ru
+https://www.youtube.com/watch?v=R_DPcxk4ml8
+    https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view
 https://www.slideshare.net/JulienViala/reduxsaga-managing-side-effects-and-impure-stuff
 2017
 https://www.slideshare.net/nachomartin/redux-saga-managing-your-side-effects-also-generators-in-es6

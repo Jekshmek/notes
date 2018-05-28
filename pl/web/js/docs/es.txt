@@ -60,6 +60,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 
 proxy
 https://www.atyantik.com/proxy-javascript-es6-feature/
+    https://habr.com/company/ruvds/blog/359060/
 
 regexp
 http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/

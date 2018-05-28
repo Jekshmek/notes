@@ -1,6 +1,7 @@
 https://reactjs.org/docs/context.html
 
 2018
+http://www.js-craft.io/blog/15-What-can-React-Context-API-do-for-you-Multi-language-Modals-Themes/
 https://css-tricks.com/putting-things-in-context-with-react/
 https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
 https://scotch.io/tutorials/get-to-know-reacts-new-context-api

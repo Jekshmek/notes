@@ -24,6 +24,8 @@ https://developers.google.com/web/updates/2018/05/first-input-delay
 
 presentations
 2018
+Viziyanov - Autostop to Puppeteer ru
+https://www.youtube.com/watch?v=iw7XM5EBbGs
 google io - The power of Headless Chrome and browser automation
 https://www.youtube.com/watch?v=lhZOFUY1weo
 holly js - Slobodin - Headless browsers

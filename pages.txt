@@ -1,10 +1,8 @@
 ﻿http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/3/4
 
 URLs
-https://maxfarseer.gitbooks.io/react-course-ru/content/dobavit_novost.html
-https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html#component-elements
-https://ru-bykov.livejournal.com/3410899.html
-    2
+https://ru-bykov.livejournal.com/1968346.html
+    3
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://akrzemi1.wordpress.com/2018/05/16/rvalues-redefined/
@@ -47,7 +45,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 5c                             -   00:00 (of)
+Paschenko - Game 2 - 5g                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 18                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
