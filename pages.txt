@@ -23,11 +23,11 @@ Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
 
 Video
-Vorontsov 005 (of 024)                              -   35:00 (of 1:23:03)
+Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-MPS                                                 -   31:00 (of   58:06)
+MPS                                                 -   40:00 (of   58:06)
     https://www.youtube.com/watch?v=102hoaAdctk
     http://voelter.de/data/pub/kernelf-reference.pdf
     https://github.com/IETS3/iets3.opensource
@@ -35,11 +35,11 @@ MPS                                                 -   31:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Volkova 9-10                                        -   35:00 (of 1:37:51)
-    https://www.youtube.com/watch?v=SsKcYWtkPoM
-    https://www.youtube.com/watch?v=zfSHMBV6UCg
-    https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
+Volkova Greece 1                                    -   03:00 (of 1:53:24)
+    https://www.youtube.com/watch?v=ytSQCu0nekk
+    https://www.youtube.com/watch?v=5ADdoKgXLxU
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
+    https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/watch?v=22XpNRkldtg
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
@@ -54,6 +54,7 @@ Sorokin - B 28                                      -   00:00 (of)
 Chernyak - 18 of 34                                 -   18:00 (of 1:52:49)
     https://www.youtube.com/watch?v=I-s1zbiJoso
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+https://predanie.ru/lukyanova-irina-vladimirovna/svoboda-i-kontrol-v-zhizni-podrostka/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
@@ -66,6 +67,9 @@ https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slus
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 
+https://blog.predanie.ru/article/i-snova-o-mnogodetkah-kotorye-umirayut/
+https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
+https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
@@ -84,7 +88,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch5
+Baduch - React 16 Essentials 2nd ed                 - ch6
 Chinnathambi - 2018 - Learning React 2nd ed         - ch5
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
