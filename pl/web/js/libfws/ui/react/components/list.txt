@@ -1,14 +1,21 @@
-lists
-https://reactjs.org/community/ui-components.html
-https://github.com/brillout/awesome-react-components
-https://devarchy.com/react
+big-list (around 1000)
 https://github.com/topics/react-component
-
-?
-https://www.javascriptstuff.com/react-components/
-https://www.javascriptstuff.com/view-libraries/
-https://www.styled-components.com/ecosystem
+546 components
 http://styleguides.io/
+
+medium-list
+https://devarchy.com/react
+    https://github.com/brillout/awesome-react-components
+    https://devarchy.com/react/topic/ui-component
+    https://devarchy.com/react/need/ui-frameworks
+213-components
+https://www.javascriptstuff.com/react-components/
+11-libs
+https://www.javascriptstuff.com/view-libraries/
+
+small-list
+https://reactjs.org/community/ui-components.html
+https://www.styled-components.com/ecosystem
 
 2018
 https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42

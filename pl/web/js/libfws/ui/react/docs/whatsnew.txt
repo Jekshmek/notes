@@ -1,3 +1,6 @@
+?
+http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/0
+
 2018
 https://reactjs.org/blog/2018/05/23/react-v-16-4.html
     https://habr.com/post/359264/

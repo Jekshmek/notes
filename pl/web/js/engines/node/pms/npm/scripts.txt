@@ -14,3 +14,17 @@ vars
   }
 }
 
+http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/9/2
+
+shortcuts
+* test/pretest/posttest
+* start
+* stop
+* precommit
+* lint
+
+{
+    "scripts": {
+    },
+    "pre-commit": [ "precommit", "lint" ]
+}

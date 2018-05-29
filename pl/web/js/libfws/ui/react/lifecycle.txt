@@ -30,3 +30,10 @@ render: function() {
 
 error
 componentDidCatch
+http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/7
+
+unsubscribe
+http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/3/6
+componentWillUnmount() {
+    mydatastore.unsubscribe(this);
+}

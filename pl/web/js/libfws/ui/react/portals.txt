@@ -1,5 +1,8 @@
 https://reactjs.org/docs/portals.html
 
+?
+http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/13
+
 2017
 https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202
 CodeDojo - Portals
