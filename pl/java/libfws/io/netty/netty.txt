@@ -9,13 +9,15 @@ http://squirrel.pl/blog/2012/06/05/io-vs-nio-interruptions-timeouts-and-buffers/
 
 2. Netty
 
-Presentations
+presentations
 http://www.slideshare.net/danbim/zerocopy-eventdriven-servers-with-netty
 http://www.slideshare.net/VictorCherkassky/netty-presentation
 http://www.slideshare.net/normanmaurer/netty4
 
-Articles:
+articles
 http://netty.io/wiki/related-articles.html
+2018
+https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
 
 Tutorials:
 http://biasedbit.com/handshaking-tutorial-with-netty/

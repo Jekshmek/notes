@@ -6,6 +6,8 @@ http://www.oracle.com/technetwork/oracle-labs/program-languages/learnmore/index.
 -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler
 
 native-image
+    http://www.graalvm.org/docs/reference-manual/aot-compilation/
+    https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
     --no-server
 
 !!! (?max-only)
