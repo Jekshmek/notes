@@ -1,5 +1,6 @@
 2018
 https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
+https://css-tricks.com/snippets/css/complete-guide-grid/
 2017
 https://habrahabr.ru/post/325760/
 http://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html

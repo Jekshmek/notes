@@ -16,3 +16,5 @@ How and Why Prometheus New Storage Engine Pushes the Limits of Time Series Datab
 https://www.youtube.com/watch?v=C4YV-9CrawA
 CNCF - List
 https://www.youtube.com/playlist?list=PLj6h78yzYM2PTPKqJROYgV3cTyHTH0_sV
+https://blog.alexellis.io/prometheus-monitoring/
+    https://habr.com/company/otus/blog/358588/

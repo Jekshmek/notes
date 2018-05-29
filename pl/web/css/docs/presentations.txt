@@ -1,6 +1,10 @@
 2018
-Coding Tech - Make CSS Your Secret Super Drawing Tool
-https://www.youtube.com/watch?v=mNKz3devFAw
+Academind - Getting Started with CSS
+https://www.youtube.com/watch?v=wNX7lWzchow
+
+2017
+New CSS Features: Practical Examples
+https://www.youtube.com/watch?v=3vJE3bVoF-Q
 
 2015
 LevelUpTuts - CSS Tutorials
