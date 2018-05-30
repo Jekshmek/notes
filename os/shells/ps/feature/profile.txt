@@ -6,11 +6,11 @@ linux profile
 win 6.x
 ~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1
 # echo "Loading custom PowerShell 6.x env"
-$cmdhome = "d:/dev/bin/cmd" # is it possible to calculate this?
+$binhome = "d:/dev/bin" # is it possible to calculate this?
 
 # https://github.com/kelleyma49/PSFzf/blob/master/PSFzf.Functions.ps1
 function j([string] $alias) {
-    $aliasfile = "${cmdhome}/util/shell/.wcd/alias.wcd"
+    $aliasfile = "${binhome}/cmd/util/shell/.wcd/alias.wcd"
     cat $aliasfile | fzf -i +s -n1 -e -q $alias -0 -1 | foreach-object { $result = $_ }
     if ($result -ne $null) {
         $dst = ($result -split " ")[1]
@@ -18,7 +18,7 @@ function j([string] $alias) {
     }
 }
 
-get-childitem -path $cmdhome -recurse | where psiscontainer | where {$_.FullName -notlike "*\.*"} |
+get-childitem -path $binhome -recurse | where psiscontainer | where {$_.FullName -notlike "*\.*"} |
 foreach-object {
     $dirname = $_.FullName; $env:PATH="${env:PATH};${dirname}"
 }
