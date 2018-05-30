@@ -22,3 +22,6 @@ get-childitem -path $binhome -recurse | where psiscontainer | where {$_.FullName
 foreach-object {
     $dirname = $_.FullName; $env:PATH="${env:PATH};${dirname}"
 }
+
+# aliases
+new-alias -name l -value get-childitem

@@ -1,5 +1,7 @@
 2018
 https://video.fosdem.org/2018/H.2214/
+RustFest - Paris
+https://www.youtube.com/playlist?list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1
 
 2017
 RustConf
