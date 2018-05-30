@@ -1,4 +1,6 @@
 2017
+JavaScriptNinja - Intro to Kubernetes
+https://www.youtube.com/watch?v=L3tgJXsMUTU
 Kubernetes Deconstructed
 https://www.youtube.com/watch?v=90kZRyPcRZw
 Orlov - Kubernetess as a Microservice Platform
