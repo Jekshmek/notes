@@ -42,3 +42,6 @@
 ## C++17 related
 
 * [Revzyn - Value Categories in C++17] (https://medium.com/@barryrevzin/value-categories-in-c-17-f56ae54bccbe)
+
+## StackOverflow
+* [What are move semantics] (https://stackoverflow.com/questions/3106110/what-are-move-semantics)
