@@ -71,7 +71,7 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 235
+This week in rust                                   - 236
 Razbor Poletov                                      - 158
 http://accu.org/index.php/journals/c78/             - 144
 
@@ -81,7 +81,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch7
+Baduch - React 16 Essentials 2nd ed                 - ch7 validating react component properties
 Chinnathambi - 2018 - Learning React 2nd ed         - ch5
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

@@ -37,3 +37,18 @@ http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/3/6
 componentWillUnmount() {
     mydatastore.unsubscribe(this);
 }
+
+stages
+* mounting
+* updating
+** componentWillReceiveProps(nextProps)
+** shouldComponentUpdate(nextProps, nextState)
+    returns true by default. if case of false, the next 3 method calls will be skiped
+** componentWillUpdate(nextProps, nextState)
+    you can not use this.setState(...) here, use componentWillReceiveProps(...) instead
+** render()
+** componentDidUpdate(prevProps, prevState)
+* unmounting
+
+Notes
+* forceUpdate() method forced the updating-stage, but without shouldComponentUpdate(...) call on a component, which triggered update
