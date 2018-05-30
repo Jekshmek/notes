@@ -47,13 +47,3 @@ $PSVersionTable
 $PSVersionTable.PSVersion
 
 $Host.Version
-
-https://github.com/lukesampson/scoop/wiki/Theming-Powershell
-https://github.com/lukesampson/concfg
-    concfg import solarized
-    concfg import default
-https://github.com/lukesampson/pshazz
-    scoop install pshazz
-
-quick jump folders
-https://github.com/JannesMeyer/z.ps
