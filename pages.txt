@@ -50,6 +50,7 @@ Sorokin - B 30                                      -   00:00 (of)
 Chernyak - 18 of 34                                 -   37:30 (of 1:52:49)
     https://www.youtube.com/watch?v=I-s1zbiJoso
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
@@ -81,7 +82,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch7 validating react component properties
+Baduch - React 16 Essentials 2nd ed                 - ch8
 Chinnathambi - 2018 - Learning React 2nd ed         - ch5
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

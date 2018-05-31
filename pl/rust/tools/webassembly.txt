@@ -4,6 +4,7 @@ https://www.hellorust.com/setup/wasm-target/
 rustup target add wasm32-unknown-unknown
 cargo build --target wasm32-unknown-unknown --release
 
+https://github.com/rust-lang-nursery/rust-wasm
 https://rust-lang-nursery.github.io/rust-wasm/introduction.html
 
 tutorial
@@ -115,6 +116,8 @@ twiggy code size profiler
 https://github.com/rustwasm/twiggy
 
 samples
+https://github.com/DrSensor/example-vue-component-rust
+    https://busy.org/@drsensor/mix-rust-code-webassembly-with-vue-component-basic
 https://github.com/bzar/webchat-rs
 https://github.com/kirjavascript/snake-rs
 https://xuu.github.io/wasm-tetris/
