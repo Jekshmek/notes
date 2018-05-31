@@ -4,12 +4,19 @@ aur
     https://download.jetbrains.com/toolbox/${pkgname}-${pkgver}.tar.gz
     https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.8.3678.tar.gz
 
-/opt/
-/opt/jetbrains-toolbox/
+pacman -Qql jetbrains-toolbox
+
 /opt/jetbrains-toolbox/jetbrains-toolbox
-/usr/
-/usr/bin/
 /usr/bin/jetbrains-toolbox
-/usr/share/
-/usr/share/applications/
+
 /usr/share/applications/jetbrains-toolbox.desktop
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Jetbrains-Toolbox
+Icon=/opt/jetbrains-toolbox/jetbrains-toolbox
+Exec="/opt/jetbrains-toolbox/jetbrains-toolbox"
+Comment=Manage all your JetBrains Projects and Tools
+Categories=Development;Tools;
+Terminal=false
+StartupWMClass=jetbrains-toolbox
