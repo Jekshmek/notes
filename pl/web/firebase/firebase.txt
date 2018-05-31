@@ -1,0 +1,29 @@
+https://firebase.google.com
+
+https://github.com/firebase/
+
+https://firebase.google.com/docs/
+https://firebase.google.com/docs/firestore/
+https://firebase.google.com/docs/guides/
+https://firebase.google.com/docs/reference/
+https://firebase.google.com/docs/cli/
+https://firebase.google.com/docs/samples/
+https://firebase.google.com/docs/libraries/
+
+https://console.firebase.google.com
+
+inst
+npm i -P firebase @firebase/app @firebase/firestore
+
+articles
+2018
+https://nrempel.com/guides/react-firebase-ant-design/
+
+channels
+Firebase
+https://www.youtube.com/channel/UCP4bf6IHJJQehibu6ai__cg
+
+presentations
+2018
+firebase at google i/o
+https://www.youtube.com/playlist?list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd

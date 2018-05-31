@@ -40,6 +40,10 @@ componentWillUnmount() {
 
 stages
 * mounting
+** componentWillMount()
+** componentDidMount()
+    called after render() call (initial rendering of the component - DOM tree created)
+
 * updating
 ** componentWillReceiveProps(nextProps)
 ** shouldComponentUpdate(nextProps, nextState)
@@ -48,7 +52,10 @@ stages
     you can not use this.setState(...) here, use componentWillReceiveProps(...) instead
 ** render()
 ** componentDidUpdate(prevProps, prevState)
+
 * unmounting
+** componentWillUnmount
+    called just before unmounting
 
 Notes
 * forceUpdate() method forced the updating-stage, but without shouldComponentUpdate(...) call on a component, which triggered update
