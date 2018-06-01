@@ -2,15 +2,14 @@
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
-  Cardinality Estimation: Linear Counting
+    Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-  May 30
+    Jun 1
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
-  Lifshits
+    Lifshits
 https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
-  social aspects
-https://ru-bykov.livejournal.com/3329827.html
+    social aspects
 Levandovsky - about Bykov
     https://ru-bykov.livejournal.com/3385353.html
 Mayburd - about Bykov
@@ -62,6 +61,7 @@ https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-od
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
+https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 
 https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
 https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
