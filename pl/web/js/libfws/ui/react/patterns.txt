@@ -3,9 +3,11 @@ https://habr.com/company/redmadrobot/blog/318222/
 
 HOC - Higher Order Components
 https://reactjs.org/docs/higher-order-components.html
+
 articles
 2018
 https://css-tricks.com/what-are-higher-order-components-in-react/
+
 presentations
 2016
 ReactCasts - Higer Order Components
@@ -17,10 +19,16 @@ https://stackoverflow.com/questions/21285923/reactjs-two-components-communicatin
 2018
 http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 https://github.com/krasimir/react-in-patterns
+https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f
+    https://habr.com/company/ruvds/blog/349198/
 
 2017
 https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
 
 2016
 ReactCasts - Component Composition Patterns
 https://www.youtube.com/playlist?list=PLrg7k46JdVjfmL0iuo0lMrXAy4JFrz767
+https://reactpatterns.com/
+    https://habr.com/post/309422/
+https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f
