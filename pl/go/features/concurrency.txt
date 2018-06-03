@@ -1,4 +1,6 @@
 2018
+https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
+    https://habr.com/post/412715/
 DeMario - Go Concurrency in the Real World
 https://www.infoq.com/presentations/go-concurrency-demo
 Signals - Graceful Shutdown in Go ru
