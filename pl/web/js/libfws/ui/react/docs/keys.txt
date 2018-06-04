@@ -1,2 +1,4 @@
+https://reactjs.org/docs/lists-and-keys.html
+
 for key we should avoid using index-es
 https://habr.com/post/279249/#comment_8807873

@@ -10,6 +10,9 @@ books
 2016
 Nacke - D Web Development
 
+presentations
+2018
+https://dconf.org/2018/talks/schveighoffer.pdf
 
 usage
 dependency "vibe-d:http" version="~>0.8.3"
