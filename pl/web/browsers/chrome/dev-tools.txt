@@ -7,4 +7,5 @@ DevConsole
 http://frontender.info/chrome-developer-tools/
 
 whatsnew
+https://www.youtube.com/watch?v=4EdPq9Nw6uI
 https://developers.google.com/web/updates/2018/05/devtools

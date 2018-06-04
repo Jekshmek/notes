@@ -1,0 +1,11 @@
+https://proppyjs.com/
+https://github.com/fahad19/proppy
+
+https://proppyjs.com/docs/quickstart/
+https://proppyjs.com/docs/introduction/
+
+https://proppyjs.com/docs/api/
+
+https://proppyjs.com/docs/packages/proppy-react/
+https://proppyjs.com/docs/packages/proppy-redux/
+https://proppyjs.com/docs/packages/proppy-rx/

@@ -65,3 +65,6 @@ yarn[pkg]
 npm<->yarn
 https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc
 https://yarnpkg.com/en/docs/migrating-from-npm
+
+critice
+https://mixmax.com/blog/to-yarn-and-back-again-npm
