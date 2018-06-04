@@ -1,4 +1,7 @@
 books
-2013:
+2013
 Love - Linux Kernel Development 3rd ed ru
 https://vk.com/doc177425717_449768285
+
+whatsnew
+http://www.opennet.ru/opennews/art.shtml?num=48712

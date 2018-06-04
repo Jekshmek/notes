@@ -28,7 +28,7 @@ MPS                                                 -   40:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Bykov - Soviet Anecdote                             -   10:00 (of 1:02:07)
+2018-06-03-odin-0005                                -   12:00 (of 2:44:34)
     https://yadi.sk/d/PP-IC0Qk3WdsBU
 Volkova Greece 1                                    -   03:00 (of 1:53:24)
     https://www.youtube.com/watch?v=ytSQCu0nekk
@@ -40,7 +40,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 5g                             -   00:00 (of)
+Paschenko - Game 2 - 5d                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 19                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -52,6 +52,7 @@ Chernyak - 18 of 34                                 -   37:30 (of 1:52:49)
 Sizonenko                                           -   25:00 (of 1:30:49)
     https://predanie.ru/dimitriy-sizonenko-protoierey/sokrovennye-glubiny-posta/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
+https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
@@ -62,6 +63,7 @@ https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poe
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
+https://predanie.ru/paschenko-oleg-gennadievich/paschenko-raspoyasalsya-no-vnov-prepoyasyvaetsya/slushat/
 
 https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
 https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
@@ -98,3 +100,5 @@ need: 66, 69-74
 have: 75,78,79,80,84,85
 +375 (29) 644-22-06
 +375 (33) 617-19-22
+
+https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/
