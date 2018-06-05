@@ -2,6 +2,9 @@ https://abseil.io/
 
 https://github.com/abseil/abseil-cpp
 
+regular types
+https://abseil.io/blog/20180531-regular-types
+
 articles:
 2018
 https://abseil.io/blog/20180227-what-should-go-stdlib

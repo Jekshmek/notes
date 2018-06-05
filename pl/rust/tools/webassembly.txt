@@ -54,6 +54,7 @@ https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webass
 
 webpack plugin
 https://github.com/xtuc/rust-plugin
+https://speakerdeck.com/sendilkumarn/webpack-and-webassembly
 
 cargo-web
 https://crates.io/crates/cargo-web
