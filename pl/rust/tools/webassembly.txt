@@ -52,6 +52,9 @@ https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
 https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/
 
+webpack plugin
+https://github.com/xtuc/rust-plugin
+
 cargo-web
 https://crates.io/crates/cargo-web
 https://github.com/koute/cargo-web

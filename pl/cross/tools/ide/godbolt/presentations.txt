@@ -1,16 +1,8 @@
-https://gcc.godbolt.org/
-https://github.com/mattgodbolt/compiler-explorer
-https://github.com/dobokirisame/CompilerExplorer
-https://www.youtube.com/watch?v=I2cKVRzJhS0
-
-articles
-https://habrahabr.ru/post/339962/
-
-presentations
 2018
 https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-08-2018_tuesday/what_else_has_my_compiler_done_for_me_lately__matt_godbolt__cppnow_05082018.pdf
 https://www.youtube.com/watch?v=fV6qYho-XVs
 2017
+Godbolt - What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid
 https://www.youtube.com/watch?v=bSkpMdDe4g4
 cook
 https://www.youtube.com/watch?v=NH1Tta7purM

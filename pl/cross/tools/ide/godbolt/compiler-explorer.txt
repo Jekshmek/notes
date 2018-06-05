@@ -1,0 +1,7 @@
+https://gcc.godbolt.org/
+https://github.com/mattgodbolt/compiler-explorer
+https://github.com/dobokirisame/CompilerExplorer
+
+2017
+CppWeekly - Installing Compiler Explorer
+https://www.youtube.com/watch?v=I2cKVRzJhS0
