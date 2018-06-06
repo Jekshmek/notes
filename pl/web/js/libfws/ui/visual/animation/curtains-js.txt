@@ -1,0 +1,5 @@
+https://www.martin-laxenaire.fr/libs/curtainsjs/
+https://github.com/martinlaxenaire/curtainsjs
+
+2018
+https://css-tricks.com/animate-images-and-videos-with-curtains-js/

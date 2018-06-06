@@ -1,0 +1,10 @@
+https://github.com/bytedeco/javacpp-presets
+
+https://github.com/bytedeco/javacpp-presets/wiki/Create-New-Presets
+https://github.com/bytedeco/javacpp-presets/wiki/Build-Environments
+https://github.com/bytedeco/javacpp-presets/wiki/Build-Environments#windows-x86-and-x86_64
+https://github.com/bytedeco/javacpp-presets/wiki/Building-on-Windows
+https://github.com/bytedeco/javacpp-presets/wiki/Building-on-Windows#installation-recipe-for-visual-studiuo-2015-and-windows-10
+
+https://github.com/bytedeco/javacpp-presets/tree/master/llvm/src/main/java/org/bytedeco/javacpp
+https://github.com/bytedeco/javacpp-presets/blob/master/llvm/src/main/java/org/bytedeco/javacpp/clang.java

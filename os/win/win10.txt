@@ -16,3 +16,10 @@ Check the windows update options and reschedule restart if necessary:
 
 Start
 Settings - Update & Security - Windows Update.
+
+misc
+http://www.outsidethebox.ms/19055/
+
+articles
+2018
+https://habr.com/company/pc-administrator/blog/413395/

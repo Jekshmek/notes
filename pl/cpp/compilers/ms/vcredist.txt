@@ -24,3 +24,6 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=40784
 https://www.microsoft.com/en-us/download/details.aspx?id=52685
 ?
 https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
+2017
+https://aka.ms/vs/15/release/vc_redist.x64.exe
