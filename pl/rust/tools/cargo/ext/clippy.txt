@@ -5,4 +5,5 @@ https://github.com/rust-lang-nursery/rust-clippy
     https://rust-lang-nursery.github.io/rust-clippy/
 
 2018
+https://manishearth.github.io/blog/2018/06/05/the-future-of-clippy-the-rust-linter/
 https://polysync.io/explorers-guide-to-compiler-plugins

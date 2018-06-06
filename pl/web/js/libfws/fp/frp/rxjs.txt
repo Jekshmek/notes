@@ -4,6 +4,7 @@ https://github.com/ReactiveX/rxjs/
 
 books
 http://xgrommx.github.io/rx-book/
+Mansilla - 2018 - Reactive Programming with RxJS 5
 
 articles
 https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56

@@ -45,3 +45,4 @@ https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-inform
 
 guides
 https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md
+https://www.reddit.com/r/Kotlin/comments/8osihy/baffled_by_channels/

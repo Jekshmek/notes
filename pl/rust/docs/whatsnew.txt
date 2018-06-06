@@ -1,3 +1,4 @@
+https://blog.rust-lang.org/2018/06/05/Rust-1.26.2.html
 https://blog.rust-lang.org/2018/05/29/Rust-1.26.1.html
 
 https://blog.rust-lang.org/2018/05/15/Rust-turns-three.html

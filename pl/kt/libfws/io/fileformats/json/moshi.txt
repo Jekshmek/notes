@@ -1,0 +1,6 @@
+http://square.github.io/
+https://github.com/square/moshi
+http://square.github.io/moshi/1.x/moshi/
+
+2018
+https://medium.com/@naturalwarren/kotlin-users-safely-upgrade-to-moshi-c01168a39f79

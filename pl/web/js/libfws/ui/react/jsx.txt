@@ -1,0 +1,6 @@
+capitalization
+is important !!!
+
+comments
+{ /* ... */ }
+<SomeTag> ... /* ... */ ... </SomeTag>
