@@ -6,7 +6,7 @@
     </head>
     <body>
         <outline text="Java" title="Java">
-            <outline type="rss" text="binkley's BLOG" title="binkley's BLOG" xmlUrl="http://binkley.blogspot.com/feeds/posts/default" htmlUrl="http://binkley.blogspot.com/"/>
+            <outline type="rss" text="binkley's BLOG" title="binkley's BLOG" xmlUrl="http://binkley.blogspot.com/feeds/posts/default" htmlUrl="https://binkley.blogspot.com/"/>
             <outline type="rss" text="Blog of Peter Veentjer » Java Extreme Performance: Part I – Baseline" title="Blog of Peter Veentjer » Java Extreme Performance: Part I – Baseline" xmlUrl="http://pveentjer.wordpress.com/feed/" htmlUrl="https://pveentjer.wordpress.com"/>
             <outline type="rss" text="Pragmatic Programming Techniques" title="Pragmatic Programming Techniques" xmlUrl="http://horicky.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://horicky.blogspot.com/"/>
             <outline type="rss" text="IBM developerWorks : Java technology" title="IBM developerWorks : Java technology" xmlUrl="http://www.ibm.com/developerworks/views/java/rss/libraryview.jsp" htmlUrl="http://www.ibm.com/developerworks/"/>
@@ -24,16 +24,16 @@
             <outline type="rss" text="zeroturnaround.com" title="zeroturnaround.com" xmlUrl="http://zeroturnaround.com/feed/" htmlUrl="https://zeroturnaround.com"/>
             <outline type="rss" text="Подкаст «Разбор Полетов»" title="Подкаст «Разбор Полетов»" xmlUrl="http://feeds.feedburner.com/razbor-podcast?format=xml" htmlUrl="http://razbor-poletov.com/"/>
             <outline type="rss" text="Psychosomatic, Lobotomy, Saw" title="Psychosomatic, Lobotomy, Saw" xmlUrl="http://psy-lob-saw.blogspot.com/feeds/posts/default" htmlUrl="http://psy-lob-saw.blogspot.com/"/>
-            <outline type="rss" text="The Java(tm) Specialists' Newsletter" title="The Java(tm) Specialists' Newsletter" xmlUrl="http://www.javaspecialists.eu/archive/tjsn.rss" htmlUrl="http://www.javaspecialists.eu"/>
-            <outline type="rss" text="Habrahabr - Java" title="Habrahabr - Java" xmlUrl="http://habrahabr.ru/rss/blogs/java/" htmlUrl="https://habrahabr.ru/hub/java/posts/all/"/>
-            <outline type="rss" text="What I Learned Today" title="What I Learned Today" xmlUrl="http://feeds2.feedburner.com/wilt-blog" htmlUrl="http://codeaweso.me"/>
+            <outline type="rss" text="The Java(tm) Specialists' Newsletter" title="The Java(tm) Specialists' Newsletter" xmlUrl="http://www.javaspecialists.eu/archive/tjsn.rss" htmlUrl="https://www.javaspecialists.eu"/>
+            <outline type="rss" text="Habrahabr - Java" title="Habrahabr - Java" xmlUrl="http://habrahabr.ru/rss/blogs/java/" htmlUrl="https://habr.com/hub/java/posts/all/"/>
+            <outline type="rss" text="What I Learned Today" title="What I Learned Today" xmlUrl="http://feeds2.feedburner.com/wilt-blog" htmlUrl="http://codeaweso.me/"/>
             <outline type="rss" text="Java" title="Java" xmlUrl="http://www.reddit.com/r/java/.rss" htmlUrl="https://www.reddit.com/r/java/"/>
         </outline>
         <outline text="Rust" title="Rust">
             <outline type="rss" text="Baby Steps" title="Baby Steps" xmlUrl="http://smallcultfollowing.com/babysteps/atom.xml" htmlUrl="http://smallcultfollowing.com/babysteps/"/>
-            <outline type="rss" text="The Rust Programming Language Blog" title="The Rust Programming Language Blog" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="http://blog.rust-lang.org/"/>
+            <outline type="rss" text="The Rust Programming Language Blog" title="The Rust Programming Language Blog" xmlUrl="http://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
             <outline type="rss" text="Rust on Medium" title="Rust on Medium" xmlUrl="https://medium.com/feed/tag/rust" htmlUrl="https://medium.com/tag/rust/latest?source=rss------rust-5"/>
-            <outline type="rss" text="on Andrew Gallant's Blog" title="on Andrew Gallant's Blog" xmlUrl="http://blog.burntsushi.net/index.xml" htmlUrl="http://blog.burntsushi.net/"/>
+            <outline type="rss" text="Andrew Gallant's Blog on Andrew Gallant's Blog" title="Andrew Gallant's Blog on Andrew Gallant's Blog" xmlUrl="http://blog.burntsushi.net/index.xml" htmlUrl="https://blog.burntsushi.net/"/>
             <outline type="rss" text="rustycrate.ru" title="rustycrate.ru" xmlUrl="http://feeds.feedburner.com/rustycrate/yMtS" htmlUrl="https://rustycrate.ru/"/>
             <outline type="rss" text="Steve Klabnik" title="Steve Klabnik" xmlUrl="http://feeds.feedburner.com/steveklabnik/words" htmlUrl="http://words.steveklabnik.com"/>
             <outline type="rss" text="Ironic Blog" title="Ironic Blog" xmlUrl="http://nercury.github.io/feed.xml" htmlUrl="http://nercury.github.io/"/>
@@ -42,7 +42,7 @@
             <outline type="rss" text="igvita.com" title="igvita.com" xmlUrl="http://feeds.igvita.com/igvita" htmlUrl="https://www.igvita.com"/>
             <outline type="rss" text="Pragmatic Programming Techniques" title="Pragmatic Programming Techniques" xmlUrl="http://horicky.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://horicky.blogspot.com/"/>
             <outline type="rss" text="Search-Lucene" title="Search-Lucene" xmlUrl="http://feeds.feedburner.com/SearchEngineLucene" htmlUrl="http://www.fromdev.com/"/>
-            <outline type="rss" text="Solr Enterprise Search" title="Solr Enterprise Search" xmlUrl="http://feeds.feedburner.com/SolrEnterpriseSearchEN" htmlUrl="http://solr.pl/en/"/>
+            <outline type="rss" text="Solr Enterprise Search" title="Solr Enterprise Search" xmlUrl="http://feeds.feedburner.com/SolrEnterpriseSearchEN" htmlUrl="https://solr.pl/en/"/>
             <outline type="rss" text="Changing Bits" title="Changing Bits" xmlUrl="http://blog.mikemccandless.com/feeds/posts/default" htmlUrl="http://blog.mikemccandless.com/"/>
             <outline type="rss" text="The Generics Policeman Blog" title="The Generics Policeman Blog" xmlUrl="http://blog.thetaphi.de/feeds/posts/default" htmlUrl="http://blog.thetaphi.de/"/>
             <outline type="rss" text="lucene-usergroup" title="lucene-usergroup" xmlUrl="http://www.lucene-nl.org/rss.xml"/>
@@ -51,7 +51,7 @@
             <outline type="rss" text="Scala" title="Scala" xmlUrl="http://www.reddit.com/r/scala/.rss" htmlUrl="https://www.reddit.com/r/scala/"/>
             <outline type="rss" text="Daily scala" title="Daily scala" xmlUrl="http://daily-scala.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://daily-scala.blogspot.com/"/>
             <outline type="rss" text="The Scala Programming Language" title="The Scala Programming Language" xmlUrl="http://www.scala-lang.org/rss.xml" htmlUrl="http://www.scala-lang.org/news/"/>
-            <outline type="rss" text="Algorithmically challenged" title="Algorithmically challenged" xmlUrl="http://dcsobral.blogspot.com/feeds/posts/default" htmlUrl="http://dcsobral.blogspot.com/"/>
+            <outline type="rss" text="Algorithmically challenged" title="Algorithmically challenged" xmlUrl="http://dcsobral.blogspot.com/feeds/posts/default" htmlUrl="https://dcsobral.blogspot.com/"/>
             <outline type="rss" text="Daniel Westheide" title="Daniel Westheide" xmlUrl="http://feeds.feedburner.com/danielwestheide" htmlUrl="http://danielwestheide.com/"/>
             <outline type="rss" text="Scala Tips" title="Scala Tips" xmlUrl="http://scalatips.tumblr.com/rss" htmlUrl="https://scalatips.tumblr.com/"/>
         </outline>
@@ -73,13 +73,17 @@
             <outline type="rss" text="Open Source Resources for Designers &amp; Developers | Greepit.com" title="Open Source Resources for Designers &amp; Developers | Greepit.com" xmlUrl="http://feeds.feedburner.com/greepit" htmlUrl="http://greepit.com"/>
             <outline type="rss" text="Open Source Applications" title="Open Source Applications" xmlUrl="http://apps.open-libraries.com/feed/" htmlUrl="http://apps.open-libraries.com"/>
         </outline>
+        <outline text="ML" title="ML">
+            <outline type="rss" text="Хабр / Все публикации подряд / Машинное обучение" title="Хабр / Все публикации подряд / Машинное обучение" xmlUrl="http://habrahabr.ru/rss/hub/machine_learning/" htmlUrl="https://habr.com/hub/machine_learning/posts/all/"/>
+        </outline>
         <outline text="JavaScript" title="JavaScript">
             <outline type="rss" text="Eric Wendelin's Blog" title="Eric Wendelin's Blog" xmlUrl="http://feeds2.feedburner.com/EricWendelin" htmlUrl="https://www.eriwen.com/"/>
+            <outline type="rss" text="CSS-LIVE" title="CSS-LIVE" xmlUrl="http://feeds.feedburner.com/css-live" htmlUrl="http://css-live.ru"/>
             <outline type="rss" text="Lastest JavaScripts from JavaScriptBank.com" title="Lastest JavaScripts from JavaScriptBank.com" xmlUrl="http://www.javascriptbank.com/rss/en/" htmlUrl="http://www.javascriptbank.com/rss/"/>
-            <outline type="rss" text="Хабрахабр / Все публикации подряд / JavaScript" title="Хабрахабр / Все публикации подряд / JavaScript" xmlUrl="https://habrahabr.ru/rss/hub/javascript/" htmlUrl="https://habrahabr.ru/hub/javascript/posts/all/"/>
+            <outline type="rss" text="Хабр / Все публикации подряд / JavaScript" title="Хабр / Все публикации подряд / JavaScript" xmlUrl="https://habrahabr.ru/rss/hub/javascript/" htmlUrl="https://habr.com/hub/javascript/posts/all/"/>
+            <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="https://css-tricks.com"/>
         </outline>
         <outline text="eBooks" title="eBooks">
-            <outline type="rss" text="FreeBookSpot Programming Latest Books" title="FreeBookSpot Programming Latest Books" xmlUrl="http://www.freebookspot.com/freebookspot_Programming_news.xml" htmlUrl="http://www.freebookspot.es"/>
             <outline type="rss" text="eBooks-share Programming Latest eBooks" title="eBooks-share Programming Latest eBooks" xmlUrl="http://www.ebooks-share.net/rss/computers/programming" htmlUrl="http://www.books-share.com/rss/computers/programming"/>
             <outline type="rss" text="All IT eBooks » Programming" title="All IT eBooks » Programming" xmlUrl="http://www.allitebooks.com/programming/feed/" htmlUrl="http://www.allitebooks.com"/>
         </outline>
@@ -87,7 +91,7 @@
             <outline type="rss" text="Higher Order" title="Higher Order" xmlUrl="http://blog.higher-order.com/atom.xml" htmlUrl="http://runarorama.github.com/"/>
             <outline type="rss" text="folone" title="folone" xmlUrl="http://feeds.feedburner.com/folone/site" htmlUrl="http://www.folone.info/"/>
             <outline type="rss" text="Functional Talks" title="Functional Talks" xmlUrl="http://functionaltalks.org/feed/" htmlUrl="http://functionaltalks.org/"/>
-            <outline type="rss" text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" xmlUrl="http://habrahabr.ru/rss/blogs/programming/" htmlUrl="https://habrahabr.ru/hub/programming/posts/all/"/>
+            <outline type="rss" text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" xmlUrl="http://habrahabr.ru/rss/blogs/programming/" htmlUrl="https://habr.com/hub/programming/posts/all/"/>
             <outline type="rss" text="  Bartosz Milewski's Prog..." title="  Bartosz Milewski's Prog..." xmlUrl="http://bartoszmilewski.com/feed/" htmlUrl="https://bartoszmilewski.com"/>
             <outline type="rss" text="Existential Type" title="Existential Type" xmlUrl="http://existentialtype.wordpress.com/feed/" htmlUrl="https://existentialtype.wordpress.com"/>
             <outline type="rss" text="Yogsototh's last blogs entries" title="Yogsototh's last blogs entries" xmlUrl="http://feeds.feedburner.com/yannespositocomen" htmlUrl="http://yannesposito.com"/>
@@ -98,15 +102,15 @@
             <outline type="rss" text="Patterns in Functional Programming" title="Patterns in Functional Programming" xmlUrl="http://patternsinfp.wordpress.com/feed/" htmlUrl="https://patternsinfp.wordpress.com"/>
             <outline type="rss" text="A Neighborhood of Infinity" title="A Neighborhood of Infinity" xmlUrl="http://blog.sigfpe.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.sigfpe.com/"/>
             <outline type="rss" text="Декларативное программирование . Последние поступления." title="Декларативное программирование . Последние поступления." xmlUrl="http://www.rsdn.ru/recent/3857.ashx" htmlUrl="http://rsdn.ru/recent/3857.xml"/>
-            <outline type="rss" text="FP Complete" title="FP Complete" xmlUrl="http://fpcomplete.com/feed/" htmlUrl="https://www.fpcomplete.com/"/>
+            <outline type="rss" text="FP Complete" title="FP Complete" xmlUrl="http://fpcomplete.com/feed/" htmlUrl="https://www.fpcomplete.com/blog"/>
             <outline type="rss" text="Russian Lambda Planet" title="Russian Lambda Planet" xmlUrl="http://feeds.feedburner.com/fp-planet-ru" htmlUrl="http://fprog.ru/planet/"/>
         </outline>
         <outline text="UnixShell" title="UnixShell">
             <outline type="rss" text="Unixmen" title="Unixmen" xmlUrl="http://feeds.feedburner.com/unixmenhowtos" htmlUrl="https://www.unixmen.com"/>
             <outline type="rss" text="good coders code, great reuse" title="good coders code, great reuse" xmlUrl="http://feeds.feedburner.com/catonmat?format=xml" htmlUrl="http://www.catonmat.net"/>
-            <outline type="rss" text="Хабрахабр / Все публикации подряд / Настройка Linux" title="Хабрахабр / Все публикации подряд / Настройка Linux" xmlUrl="http://habrahabr.ru/rss/hub/linux/" htmlUrl="https://habrahabr.ru/hub/linux/posts/all/"/>
+            <outline type="rss" text="Хабр / Все публикации подряд / Настройка Linux" title="Хабр / Все публикации подряд / Настройка Linux" xmlUrl="http://habrahabr.ru/rss/hub/linux/" htmlUrl="https://habr.com/hub/linux/posts/all/"/>
             <outline type="rss" text="Windows Command Line" title="Windows Command Line" xmlUrl="http://feeds.feedburner.com/wincmdline" htmlUrl="https://www.windows-commandline.com"/>
-            <outline type="rss" text="OpenNews.opennet.ru: Главные новости" title="OpenNews.opennet.ru: Главные новости" xmlUrl="http://www.opennet.ru/opennews/opennews_6_noadv.rss" htmlUrl="http://www.opennet.ru/opennews/main.shtml"/>
+            <outline type="rss" text="OpenNews.opennet.ru: Главные новости" title="OpenNews.opennet.ru: Главные новости" xmlUrl="http://www.opennet.ru/opennews/opennews_6_noadv.rss" htmlUrl="https://www.opennet.ru/opennews/main.shtml"/>
             <outline type="rss" text="Command Line" title="Command Line" xmlUrl="http://www.reddit.com/r/commandline/.rss" htmlUrl="https://www.reddit.com/r/commandline/"/>
             <outline type="rss" text="NixOS - Purely functional" title="NixOS - Purely functional" xmlUrl="https://www.reddit.com/r/NixOS/.rss" htmlUrl="https://www.reddit.com/r/NixOS/"/>
             <outline type="rss" text="IBM developerWorks : Linux" title="IBM developerWorks : Linux" xmlUrl="http://www.ibm.com/developerworks/views/linux/rss/libraryview.jsp" htmlUrl="http://www.ibm.com/developerworks/"/>
@@ -120,7 +124,7 @@
             <outline type="rss" text="Contemplating code" title="Contemplating code" xmlUrl="http://feeds.feedburner.com/ContemplatingCode" htmlUrl="http://contemplatecode.blogspot.com/"/>
             <outline type="rss" text="Johan Tibell" title="Johan Tibell" xmlUrl="http://blog.johantibell.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.johantibell.com/"/>
             <outline type="rss" text="Haskell for all" title="Haskell for all" xmlUrl="http://www.haskellforall.com/feeds/posts/default" htmlUrl="http://www.haskellforall.com/"/>
-            <outline type="rss" text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" xmlUrl="http://habrahabr.ru/rss/blogs/haskell/" htmlUrl="https://habrahabr.ru/hub/haskell/posts/all/"/>
+            <outline type="rss" text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" xmlUrl="http://habrahabr.ru/rss/blogs/haskell/" htmlUrl="https://habr.com/hub/haskell/posts/all/"/>
             <outline type="rss" text="Neil Mitchell's Haskell Blog" title="Neil Mitchell's Haskell Blog" xmlUrl="http://neilmitchell.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://neilmitchell.blogspot.com/"/>
             <outline type="rss" text="Бананы и линзы" title="Бананы и линзы" xmlUrl="http://bananasandlenses.net/feed.xml" htmlUrl="https://bananasandlenses.net"/>
             <outline type="rss" text="Planet Haskell" title="Planet Haskell" xmlUrl="http://planet.haskell.org/rss20.xml" htmlUrl="http://planet.haskell.org/"/>

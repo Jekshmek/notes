@@ -1,5 +1,4 @@
 http://feedly.com/#latest
-http://feedly.com/#sources
 http://feedly.com/#preferences
 
 http://feedly.com/#opml
