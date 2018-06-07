@@ -103,3 +103,25 @@ need: 66, 69-74, 88-
 have: 75,78,79,80,84-87
 +375 (29) 644-22-06
 +375 (33) 617-19-22
+
+scoop
+  7zip 18.05
+  ant 1.10.3
+  calibre 3.24.2 [extras]
+  conemu 18.05.28 [extras]
+  ffmpeg 4.0
+  fzf 0.17.3
+  git 2.17.1.windows.2
+  gradle 4.7
+  keepass 2.39.1 [extras]
+  neovim 0.2.2
+  oraclejdk 8u172-b11 [extras]
+  procexp 16.21 [extras]
+  ripgrep 0.8.1
+  vim 8.1.0026
+  vlc 3.0.3 [extras]
+  youtube-dl 2018.05.26
+  zip 3.0
+
+f:/pvt/outlook
+d:/pvt/backup
