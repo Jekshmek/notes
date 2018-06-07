@@ -1,0 +1,17 @@
+https://microsoft.com/powershell
+https://docs.microsoft.com/en-us/powershell/
+https://github.com/PowerShell/PowerShell
+
+inst
+https://docs.microsoft.com/en-us/powershell/scripting/setup/windows-powershell-system-requirements
+https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell
+5.1 (WMF)
+https://www.microsoft.com/en-us/download/details.aspx?id=54616
+4.0 (WMF)
+https://www.microsoft.com/en-us/download/details.aspx?id=40855
+3.0 (WMF)
+https://www.microsoft.com/en-us/download/details.aspx?id=34595
+Windows6.0-KB2506146-x64.msu
+
+version
+

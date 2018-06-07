@@ -1,0 +1,13 @@
+https://github.com/lukesampson/scoop
+
+https://github.com/lukesampson/scoop/wiki/Buckets
+https://github.com/lukesampson/scoop/blob/master/buckets.json
+
+scoop bucket list
+
+https://github.com/lukesampson/scoop-extras
+
+inst
+[environment]::setEnvironmentVariable('SCOOP','c:\utils\scoop','User')
+$env:SCOOP='c:\utils\scoop'
+iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
