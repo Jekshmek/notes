@@ -5,19 +5,6 @@ https://github.com/lukesampson/scoop/wiki
     https://github.com/lukesampson/scoop/wiki/Dependencies
     https://github.com/lukesampson/scoop/wiki/FAQ
 
-install
-https://github.com/lukesampson/scoop/wiki/Quick-Start
-https://github.com/lukesampson/scoop/wiki/Quick-Start#installing-scoop-to-custom-directory
-
-set-executionpolicy remotesigned -scope currentuser
-
-[environment]::setEnvironmentVariable('SCOOP','d:\dev\utils\scoop','User')
-$env:SCOOP='d:\dev\utils\scoop'
-iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
-
-global install
-https://github.com/lukesampson/scoop/wiki/Global-Installs
-
 stuff
 https://github.com/lukesampson/scoop/tree/master/bucket
     https://github.com/lukesampson/scoop/blob/master/bucket/gradle.json
@@ -55,7 +42,6 @@ scoop
     reset
         reset an app to resolve conflicts
         oraclejdk
-
 
 ???
 coreutils

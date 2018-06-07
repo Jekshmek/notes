@@ -1,0 +1,26 @@
+scoop
+    https://github.com/lukesampson/scoop/wiki/Commands
+    status
+    update [*|apps]
+        update apps or scoop itself
+    list
+        list installed apps
+    bucket
+        https://github.com/lukesampson/scoop/wiki/Buckets
+        add extras
+        list
+    search
+        <package-name>
+    which
+        locate a shim/executable (similar to 'which' on Linux)
+    home <app>
+        opens the app homepage
+    prefix
+        returns the path to the specified app
+    depends
+        list dependencies for an app
+    uninstall
+        uninstall an app
+    reset
+        reset an app to resolve conflicts
+        oraclejdk
