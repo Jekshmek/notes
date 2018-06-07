@@ -4,7 +4,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 6
+    Jun 7
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -88,7 +88,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch9 of 12
+Baduch - React 16 Essentials 2nd ed                 - ch10 of 12
 Chinnathambi - 2018 - Learning React 2nd ed         - ch8 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
@@ -99,9 +99,7 @@ OpenSSL Cookbook                                    - 29 (of 58)
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-need: 66, 69-74
-have: 75,78,79,80,84,85
+need: 66, 69-74, 88-
+have: 75,78,79,80,84-87
 +375 (29) 644-22-06
 +375 (33) 617-19-22
-
-https://css-tricks.com/combining-the-powers-of-sem-and-bio-for-improving-css/
