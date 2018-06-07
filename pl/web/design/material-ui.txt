@@ -1,10 +1,13 @@
 http://www.material-ui.com
 https://github.com/mui-org/material-ui
 
+https://material.io/develop/
+
 2018
 React-Material UI
 https://www.youtube.com/playlist?list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk
 https://medium.freecodecamp.org/meet-your-material-ui-your-new-favorite-user-interface-library-6349a1c88a8c
+https://habr.com/company/mailru/blog/358246/
 
 whatsnew
 https://medium.com/material-ui/material-ui-v1-is-out-e73ce13463eb

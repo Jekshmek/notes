@@ -122,6 +122,9 @@ scoop
   vlc 3.0.3 [extras]
   youtube-dl 2018.05.26
   zip 3.0
+extras
+    vcredist2017
+    vcredist2015
 
 f:/pvt/outlook
 d:/pvt/backup
