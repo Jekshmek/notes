@@ -3,6 +3,8 @@ du
 ncdu
     http://www.unixmen.com/ncdu-ncurses-disk-usage-analyzer/
     http://dev.yorhel.nl/ncdu
+    aur
+        ncdu
 
 du
   -c, --total           produce a grand total

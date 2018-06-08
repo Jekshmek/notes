@@ -1,6 +1,9 @@
 https://github.com/creationix/nvm
 https://github.com/coreybutler/nvm-windows
 
+https://www.powershellgallery.com/packages/nvm
+https://www.powershellgallery.com/packages/nvm/2.1.1
+
 aur
     nvm
     https://aur.archlinux.org/packages/nvm/

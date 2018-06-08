@@ -1,0 +1,13 @@
+https://thelocehiliosan.github.io/yadm/
+https://github.com/TheLocehiliosan/yadm
+
+https://thelocehiliosan.github.io/yadm/docs/overview
+https://thelocehiliosan.github.io/yadm/docs/install
+https://thelocehiliosan.github.io/yadm/docs/getting_started
+https://thelocehiliosan.github.io/yadm/docs/common_commands
+https://thelocehiliosan.github.io/yadm/docs/alternates
+https://thelocehiliosan.github.io/yadm/docs/faq
+https://thelocehiliosan.github.io/yadm/docs/examples
+https://thelocehiliosan.github.io/yadm/docs/bootstrap
+
+https://github.com/TheLocehiliosan/yadm/blob/master/yadm.md

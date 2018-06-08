@@ -1,1 +1,5 @@
 http://books.goalkicker.com/NodeJSBook/
+
+2018
+Herron - 2018 - NodeJS Web Development 4th ed
+Wilson - 2018 - MERN Quick Start Guide

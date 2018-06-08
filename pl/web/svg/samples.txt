@@ -31,3 +31,6 @@ svg(width="51px" height="49px" viewBox="0 0 51 49" version="1.1" xmlns="http://w
                     d="M42,47 L42,44 C41.124721,43.7114136 34.551963,44.1607069 33,47 C33.073903,40.5826311 41.0467529,37.9996338 42,38 L42,35 L49,41 L42,47 Z")
             rect(id="Rectangle-7" stroke="#79B8FF" x="6" y="24" width="7" height="7" rx="2")
             rect(id="Rectangle-7" stroke="#79B8FF" x="6" y="6" width="7" height="7" rx="2")
+
+3d kubes
+https://pypi.org/static/images/logo-large.72ad8bf1.svg
