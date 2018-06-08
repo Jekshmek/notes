@@ -1,2 +1,6 @@
 2018
 https://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-63-CPP-Build-Tools
+
+build tools 2015
+https://www.microsoft.com/en-US/download/details.aspx?id=48159
+https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2015-compatibility-vs
