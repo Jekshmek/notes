@@ -1,4 +1,6 @@
 2018
+CodingTech - VS Code Can Do That?! VS Code Tips and Tricks
+https://www.youtube.com/watch?v=x5GzCohd4eo
 WebDesignMaster - Review
 https://www.youtube.com/watch?v=8CTJUo8_Dak
 CodingTech - VS Code: Optimize Your NodeJS Development Inner Loop

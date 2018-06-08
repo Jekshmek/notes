@@ -1,1 +1,4 @@
 https://github.com/bytedeco/javacpp
+
+cache:
+.javacpp/cache/<name>.jar/.../*.so

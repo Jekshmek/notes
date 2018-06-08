@@ -3,6 +3,10 @@ http://stevedonovan.github.io/rust-gentle-intro/
 https://slashtutorial.com/rust/
 dcode - Rust Programming Tutorials
 https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
+TensorProgramming - Intro to Rust
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW
+TensorProgramming - Rust Projects
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb
 
 Lerning Rust
 https://www.gitbook.com/book/dumindu/learning-rust/details

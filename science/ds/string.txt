@@ -3,6 +3,8 @@ https://habrahabr.ru/post/111449/
 fuzzy-cmp:
 https://habrahabr.ru/post/341148/
 
-books:
-1994:
+books
+2004
+Charras - Handbook of Exact String Matching Algorithms
+1994
 Stephen - String Searching Altorithms

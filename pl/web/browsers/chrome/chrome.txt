@@ -11,3 +11,7 @@ presentations
 2018
 NEW Debugger Features for JavaScript
 https://www.youtube.com/watch?v=foDOYyWNg3I
+
+sync
+https://chrome.google.com/sync
+https://support.google.com/chrome/answer/165139

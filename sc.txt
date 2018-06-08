@@ -1,13 +1,108 @@
 https://github.com/lukesampson/scoop
 
-https://github.com/lukesampson/scoop/wiki/Buckets
-https://github.com/lukesampson/scoop/blob/master/buckets.json
-
-scoop bucket list
-
-https://github.com/lukesampson/scoop-extras
-
 inst
 [environment]::setEnvironmentVariable('SCOOP','c:\utils\scoop','User')
 $env:SCOOP='c:\utils\scoop'
 iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
+buckets
+    scoop bucket list
+https://github.com/lukesampson/scoop/wiki/Buckets
+https://github.com/lukesampson/scoop/blob/master/buckets.json
+main bucket
+https://github.com/lukesampson/scoop/tree/master/bucket
+extra bucket
+https://github.com/lukesampson/scoop-extras
+
+app manifests
+https://github.com/lukesampson/scoop/wiki/App-Manifests
+https://github.com/lukesampson/scoop/wiki/Creating-an-app-manifest
+    scoop install \\shared\files\scoop\hello.json
+    scoop install https://gist.github.com/lukesampson/6446567/raw/hello.json
+https://github.com/lukesampson/scoop/wiki/App-Manifest-Autoupdate
+https://github.com/lukesampson/scoop/wiki/Persistent-data
+https://github.com/lukesampson/scoop/wiki/Dependencies
+
+current alias
+https://github.com/lukesampson/scoop/wiki/The-'Current'-Version-Alias
+
+psutils
+https://github.com/lukesampson/psutils
+https://github.com/lukesampson/scoop/blob/master/bucket/sudo.json
+https://github.com/lukesampson/psutils/blob/master/sudo.ps1
+https://github.com/lukesampson/scoop/blob/master/bucket/runat.json
+https://github.com/lukesampson/psutils/blob/master/runat.ps1
+
+~/.scoop
+{
+    "lastupdate":  "\/Date(1521274194904)\/",
+    "SCOOP_BRANCH":  "master",
+    "show_update_log":  "false",        <------------------------for example
+    "SCOOP_REPO":  "https://github.com/lukesampson/scoop"
+}
+
+~/scoop/
+    apps/
+        scoop/current
+            $ git status
+    modules/
+        https://github.com/lukesampson/scoop/wiki/PowerShell-Modules
+    presist/<app>
+        scoop uninstall -p <app>
+
+samples
+https://github.com/lukesampson/scoop-extras/blob/master/calibre.json
+java
+    https://github.com/lukesampson/scoop/wiki/Java
+        https://adoptopenjdk.net/
+    https://github.com/se35710/scoop-java/blob/master/oraclejdk8.json
+    https://github.com/lukesampson/scoop/issues/193
+    https://github.com/lukesampson/scoop-extras/blob/master/find-java.json
+        https://gist.githubusercontent.com/se35710/43693e679701387d722206eff1e85f5f/raw/b6a69d34b16092f710fc134a4a6ee19c0e7d3c36/find-java.ps1
+pwsh
+    https://github.com/lukesampson/scoop/blob/master/bucket/pwsh.json
+    https://github.com/lukesampson/scoop/issues/2036
+msys coreutils
+    https://github.com/lukesampson/scoop/blob/master/bucket/coreutils.json
+postgresql
+    https://github.com/lukesampson/scoop/blob/master/bucket/postgresql.json
+
+
+cleanup
+scoop cleanup
+
+resets
+scoop reset <java>@<version>
+
+updates
+verbosity - https://github.com/lukesampson/scoop/issues/2133
+    scoop update -v
+https://github.com/lukesampson/scoop/issues/1807
+https://github.com/lukesampson/scoop/blob/master/libexec/scoop-update.ps1
+https://github.com/lukesampson/scoop/blob/master/lib/config.ps1
+
+proxy
+scoop config proxy currentuser@default
+https://github.com/lukesampson/scoop/wiki/Using-Scoop-behind-a-proxy
+https://github.com/lukesampson/scoop/issues/1615
+
+alias
+scoop alias
+https://github.com/lukesampson/scoop/blob/master/libexec/scoop-alias.ps1
+
+home
+scoop home - opens the <app> homepage
+https://github.com/lukesampson/scoop/blob/master/libexec/scoop-home.ps1
+
+info
+scoop info - show the info about an <app>
+https://github.com/lukesampson/scoop/blob/master/libexec/scoop-info.ps1
+
+ssh
+https://github.com/lukesampson/scoop/wiki/GitHub-with-SSH-Key
+
+theming
+https://github.com/lukesampson/scoop/wiki/Theming-Powershell
+# console theme
+scoop install concfg pshazz
+concfg import solarized small
