@@ -105,11 +105,8 @@ have: 75,78,79,80,84-87
 +375 (33) 617-19-22
 
 scoop
-    youtube-dl 2018.05.26
-    zip 3.0
 extras
     oraclejdk 8u172-b11 [extras]
-    procexp 16.21 [extras]
     
 Notes
 -----
