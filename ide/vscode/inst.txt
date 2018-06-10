@@ -4,3 +4,7 @@ https://code.visualstudio.com/docs/?dv=winzip
 
 aur
     code
+
+scoop
+    vscode
+    https://github.com/lukesampson/scoop-extras/blob/master/vscode.json

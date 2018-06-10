@@ -6,10 +6,6 @@ SigLevel = Never
 
 for [almost] all the occurences
 
-# Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
-#IgnorePkg = <p1> <p2> ...
-
-
 # user dirs
 /var/lib/...
 /src/...

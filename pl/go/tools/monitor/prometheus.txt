@@ -11,6 +11,10 @@ https://prometheus.io/download/
 https://github.com/prometheus/prometheus
 https://github.com/prometheus/promu
 
+https://github.com/improbable-eng/thanos
+https://improbable.io/games/blog/thanos-prometheus-at-scale
+https://www.infoq.com/news/2018/06/thanos-scalable-prometheus
+
 presentations
 2018
 https://speakerdeck.com/flant/monitoringh-i-kubernetes

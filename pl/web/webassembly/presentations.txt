@@ -1,6 +1,8 @@
 Coding Tech - WebAssembly
 https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 2018
+Eberhardt - WebAssembly and the deatch of JS
+https://www.infoq.com/presentations/webassembly-javascript
 google io 2018 - Build the future of the web with WebAssembly and more
 https://www.youtube.com/watch?v=BnYq7JapeDA
 Phelps - The WebAssembly Revolution

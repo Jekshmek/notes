@@ -1,5 +1,9 @@
 https://github.com/acdlite/recompose
 https://github.com/acdlite/recompose/blob/master/docs/API.md
 
+articles
+2018
+https://habr.com/company/raiffeisenbank/blog/354768/
+
 samples
 https://jsfiddle.net/samsch/p3vsmrvo/24/

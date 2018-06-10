@@ -1,7 +1,14 @@
-http://arne-mertz.de/2016/11/modern-c-features-variadic-templates/
-http://cppisland.com/?p=194
+2018
+Chain of Responsibility using vartempl
+https://habr.com/post/413765/
 
+2017
 Dewharst - Variadic CRTP
 http://stevedewhurst.com/once_weakly/once-weakly20170328/once-weakly20170328.pdf
-
+zero alloc continuations part 3
 https://vittorioromeo.info/index/blog/zeroalloc_continuations_p2.html
+
+2016
+http://arne-mertz.de/2016/11/modern-c-features-variadic-templates/
+C++ Variadic templates from the ground up
+http://cppisland.com/?p=194

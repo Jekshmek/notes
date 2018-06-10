@@ -1,6 +1,8 @@
 2018
 PyCon
 https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ
+PyConRu
+https://habr.com/company/it_people/blog/413711/
 
 2017
 PiterPy

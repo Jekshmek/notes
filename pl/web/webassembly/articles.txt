@@ -5,3 +5,5 @@ https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-an
 2017
 https://habrahabr.ru/post/342180/
 https://habrahabr.ru/post/344246/
+Clark - A Cartoon Intro to WebAssembly
+https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/

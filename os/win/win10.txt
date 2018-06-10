@@ -20,6 +20,12 @@ Settings - Update & Security - Windows Update.
 misc
 http://www.outsidethebox.ms/19055/
 
+auto-resart after updates
+https://habr.com/post/413761/
+gpedit.msc -> Computer Configuration -> Administrative Templates -> Windows Components -> Windows Update
+    - No auto-restart with logged on users for scheduled automatic updates installations
+    - Configure Automatic Updates
+
 articles
 2018
 https://habr.com/company/pc-administrator/blog/413395/

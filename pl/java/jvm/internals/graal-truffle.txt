@@ -38,6 +38,7 @@ http://www.opennet.ru/opennews/art.shtml?num=48472
 https://habr.com/post/351996/
 https://habr.com/company/billing/blog/351682/
 https://medium.com/graalvm/graalvm-ten-things-12d9111f307d
+https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
 2017
 https://blog.plan99.net/graal-truffle-134d8f28fb69
     https://habrahabr.ru/post/319424/
