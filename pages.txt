@@ -1,3 +1,4 @@
+https://predanie.ru/alexej-muraviev/klassicheskaya-siriyskaya-literatura-ii-xiii-vv-osnovnye-avtory-i-napravleniya/slushat/
 URLs
 https://habr.com/company/philtech/blog/354596/
     chap 1
@@ -31,11 +32,8 @@ MPS                                                 -   40:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-2018-06-03-odin-0005                                - 1:43:00 (of 2:44:34)
-    https://yadi.sk/d/PP-IC0Qk3WdsBU
-Bykov - Nikitins                                    - 1:23:00 (of 1:39:27)
-    https://yadi.sk/d/Fej1yRqt3X49YH
-    https://www.youtube.com/watch?v=wv-MMLpaSKc
+2018-06-03-odin-0005                                - 2:06:00 (of 2:44:34)
+    https://cdn.echo.msk.ru/snd/2018-06-03-odin-0005.mp3
 Volkova Greece 1                                    -   03:00 (of 1:53:24)
     https://www.youtube.com/watch?v=ytSQCu0nekk
     https://www.youtube.com/watch?v=5ADdoKgXLxU
@@ -70,6 +68,10 @@ https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafi
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/paschenko-oleg-gennadievich/paschenko-raspoyasalsya-no-vnov-prepoyasyvaetsya/slushat/
+https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
+https://predanie.ru/filonik-marina-sergeevna/o-strahe-bozhem-i-chelovecheskom/slushat/
+https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
+https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 
 https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
 https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
@@ -91,7 +93,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch10 of 12
+Baduch - React 16 Essentials 2nd ed                 - ch11 of 12
 Chinnathambi - 2018 - Learning React 2nd ed         - ch8 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
