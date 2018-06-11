@@ -1,5 +1,8 @@
 https://docs.gradle.org/current/userguide/more_about_tasks.html
 
+gradle tasks --all
+gradle model
+
 Tasks:
 -x <task-name>
     exclude task name

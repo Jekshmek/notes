@@ -34,6 +34,7 @@ https://material.io/tools/gallery/
 
 articles
 2018
+https://blog.logrocket.com/the-definitive-guide-to-react-material-d730c8a3e8ba
 https://habr.com/company/redmadrobot/blog/359158/
 
 presentations

@@ -33,6 +33,9 @@ MPS                                                 -   40:00 (of   58:06)
 Lit
 2018-06-03-odin-0005                                - 1:43:00 (of 2:44:34)
     https://yadi.sk/d/PP-IC0Qk3WdsBU
+Bykov - Nikitins                                    - 1:23:00 (of 1:39:27)
+    https://yadi.sk/d/Fej1yRqt3X49YH
+    https://www.youtube.com/watch?v=wv-MMLpaSKc
 Volkova Greece 1                                    -   03:00 (of 1:53:24)
     https://www.youtube.com/watch?v=ytSQCu0nekk
     https://www.youtube.com/watch?v=5ADdoKgXLxU
@@ -43,7 +46,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 5d                             -   00:00 (of)
+Paschenko - Game 2 - 5zhe                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 20                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -80,7 +83,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 Tracking
 This week in rust                                   - 236
 Razbor Poletov                                      - 158
-http://accu.org/index.php/journals/c78/             - 144
+http://accu.org/index.php/journals/c78/             - 145
 
 Series
 Linux Networking 04                                 -   06:00 (of 1:04:40)
@@ -101,24 +104,13 @@ nlp - word vectors
 cpp - iterator category/tag-dispatching
 need: 66, 69-74, 88-
 have: 75,78,79,80,84-87
-+375 (29) 644-22-06
-+375 (33) 617-19-22
 
 scoop
 extras
     oraclejdk 8u172-b11 [extras]
     
-Notes
------
-To get Git to recognise OpenSSH, you will need to run
-
-scoop install openssh
-[environment]::setenvironmentvariable('GIT_SSH', (resolve-path (scoop which ssh)), 'USER')
-
-
 clear at D:/Temp
     jna*.dll
     snappy*
 
 f:/pvt/outlook
-d:/pvt/backup

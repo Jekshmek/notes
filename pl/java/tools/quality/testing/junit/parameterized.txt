@@ -1,0 +1,7 @@
+http://junit.org/junit5/docs/current/user-guide/#writing-tests-parameterized-tests
+
+@ValueSource
+@EnumSource
+@MethodSource
+@CsvSource, @CsvFileSource
+@ArgumentsSource, custom ArgumentsProvider

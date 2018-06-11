@@ -25,3 +25,8 @@ presentations
 2015
 LevelUpTuts - Intermediate Meteor
 https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V
+LevelUpTuts - Level 2 Meteor + React Tutorials
+https://www.youtube.com/playlist?list=PLLnpHn493BHFbO-wKUSuy9kAbM_EcsSV5
+
+whatsnew
+https://blog.meteor.com/meteor-1-7-and-the-evergreen-dream-a8c1270b0901

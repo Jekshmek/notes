@@ -7,6 +7,15 @@ Elijah Manor - misc modern react stuff
 https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw/playlists
 
 2018
+LevelUpTuts - Level 2 React (incl new react features)
+https://www.youtube.com/watch?v=0qqzUXdGGX4
+https://www.youtube.com/watch?v=x5oiX93DeHA
+https://www.youtube.com/watch?v=3ic-f1AYLWU
+https://www.youtube.com/watch?v=NJBzUZW0jcE
+https://www.youtube.com/watch?v=9BrnmbFTL8M
+https://www.youtube.com/watch?v=SVQ2l2w-zPM
+LevelUpTuts - React 16 For Everyone Preview
+https://www.youtube.com/playlist?list=PLLnpHn493BHGW9YuiW8y9qHf-wHk_BKpe
 JavaScriptNinja - Basic React ru
 https://www.youtube.com/playlist?list=PLvTBThJr861xh3fCMf91Ip5_r6TdR15O9
 JavaScriptRU - Yablonchuk - React
