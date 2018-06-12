@@ -1,0 +1,3 @@
+VisualRust
+https://marketplace.visualstudio.com/items?itemName=vosen.VisualRust
+https://github.com/PistonDevelopers/VisualRust

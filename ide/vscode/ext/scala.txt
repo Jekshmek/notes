@@ -1,0 +1,2 @@
+scala-lsp
+https://marketplace.visualstudio.com/items?itemName=dragos.scala-lsp
