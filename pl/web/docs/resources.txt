@@ -1,4 +1,6 @@
 resources
+https://uptodate.frontendrescue.org/
+https://github.com/impressivewebs/frontend-feeds
 https://www.facebook.com/webstandardsru/
 http://www.fromdev.com/2017/02/best-html-tutorials-ebooks-pdf.html
 https://github.com/webpro/awesome-newsletters
