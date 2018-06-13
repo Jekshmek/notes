@@ -1,3 +1,11 @@
 2018
 https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f
     https://habr.com/company/ruvds/blog/358306/
+CodingTrain - Array Functions
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aAEUqu96Newc-7qpuh-cxc
+
+reducers
+2018
+https://css-tricks.com/understanding-the-almighty-reducer/
+    http://adripofjavascript.com/blog/drips/boiling-down-arrays-with-array-reduce.html
+https://www.youtube.com/watch?v=-LFjnY1PEDA

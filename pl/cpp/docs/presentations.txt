@@ -1,4 +1,7 @@
 2018
+Ohotnikov - CoreHard - 25 years of cpp history
+https://www.youtube.com/watch?v=reEBIK5UpAU
+https://www.slideshare.net/corehard_by/25-c-102125042
 Oleshko - Effective Cpp
 https://www.youtube.com/playlist?list=PLdhEOd5Bckb61pPGGY9lN_ob4gUFbeDQ5
 Poluhin - velosipedism
