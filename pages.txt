@@ -48,7 +48,7 @@ Ivliev - 20                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 32                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Chernyak - 18 of 34                                 -   37:30 (of 1:52:49)
+Chernyak - 18 of 34                                 - 1:02:30 (of 1:52:49)
     https://www.youtube.com/watch?v=I-s1zbiJoso
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sizonenko                                           -   25:00 (of 1:30:49)
@@ -105,10 +105,6 @@ cpp - iterator category/tag-dispatching
 need: 66, 69-74, 88-
 have: 75,78,79,80,84-87
 
-scoop
-extras
-    oraclejdk 8u172-b11 [extras]
-    
 clear at D:/Temp
     jna*.dll
     snappy*
