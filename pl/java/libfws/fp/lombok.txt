@@ -32,3 +32,6 @@ https://projectlombok.org/features/Cleanup
 
 val
 https://projectlombok.org/features/val.html
+
+whatsnew
+https://projectlombok.org/changelog

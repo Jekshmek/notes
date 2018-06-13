@@ -1,1 +1,8 @@
+zgc
+https://wiki.openjdk.java.net/display/zgc/Main
+2018
+https://jaxenter.com/jep-333-zgc-targeted-jdk-11-145414.html
+https://www.youtube.com/watch?v=tShc0dyFtgw
+
+qa
 http://stackoverflow.com/questions/895444/java-garbage-collection-log-messages

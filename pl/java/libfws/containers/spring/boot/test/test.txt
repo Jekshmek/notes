@@ -1,6 +1,8 @@
 https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html
 
-2017:
+2018
+https://reflectoring.io/testing-verticals-and-layers-spring-boot/
+2017
 http://www.springboottutorial.com/integration-testing-for-spring-boot-rest-services
 2016:
 https://moelholm.com/2016/10/22/spring-boot-separating-tests/
@@ -26,7 +28,7 @@ public class DemoApplicationTests {
 
 }
 
-whatsnew:
+whatsnew
 https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4
 https://groovy-coder.com/spring-boot-1-4-testing-features-with-spock/
 https://github.com/int128/spock-spring-boot-example
@@ -35,7 +37,7 @@ https://github.com/spockframework/spock/issues/581
 https://github.com/spockframework/spock/pull/582
 https://github.com/spockframework/spock/pull/582/commits/29cac0ae2c1fcca7cb83e959ea7c1ac4cba05c1a
 
-spock-spring:
+spock-spring
 http://spockframework.org/spock/docs/1.1/all_in_one.html#_spring_module
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-testing-spring-boot-applications-with-spock

@@ -1,0 +1,2 @@
+2018
+https://proandroiddev.com/understanding-gradle-the-build-lifecycle-5118c1da613f

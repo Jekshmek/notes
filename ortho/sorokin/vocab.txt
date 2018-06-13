@@ -1,10 +1,10 @@
 Lasar(Eliazar)
     Bog Pomogaet (kogda net pomoschi ot ludei)
 
-galil
-    galileya
-shamron
-    samariya
+Galil
+    Galileya
+Shamron
+    Samariya
     menshe osadkov (suhaya step vo vremena Avraama, seichas - pustynya)
     hananei - sobiratelnoe nazvanie zhitelei gorodov
     Eto edinstv mesto, kuda Avraam moh pereselitsya (v samariyu)
@@ -13,10 +13,10 @@ shamron
     Vody ne hvataet (raspri iz-za kolodcev: jama gde koncentriruetsya podpochvennaya vlaga i ee - ogranichennoe kolichestvo)
     Stychki u pastuhov Avraama s pastuhami Lota iz-za vody v kolodcah
     Esli u cheloveka est grobnicy predkov, to on poluchaet prava na zemlyu
-amorim
+Amorim
     amorei
     v samarii i vozmozhno v rayone hevrona i juzhnyh predgorii iudei
-aramim
+Aramim
     aramei - vse ot messopotamii do sredizem morya
 Iudeya
     holodnye zimy (+5 +7), dozhdei - dostatochno mnogo, no vse zavisit ot dozhdei
@@ -174,3 +174,5 @@ Apocalypsis - otkrytoe
 
 Hevel - Avel
 Henoh - Enoh
+
+Roah - Duh i/ili veter

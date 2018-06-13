@@ -5,7 +5,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 12
+    Jun 13
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -32,8 +32,6 @@ MPS                                                 -   40:00 (of   58:06)
     https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-2018-06-08-odin-0005                                -   01:00 (of 1:46:51)
-    https://cdn.echo.msk.ru/snd/2018-06-08-odin-0005.mp3
 Volkova Greece 1                                    -   03:00 (of 1:53:24)
     https://www.youtube.com/watch?v=ytSQCu0nekk
     https://www.youtube.com/watch?v=5ADdoKgXLxU
@@ -48,7 +46,7 @@ Paschenko - Game 2 - 5zhe                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 20                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 31                                      -   00:00 (of)
+Sorokin - B 32                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Chernyak - 18 of 34                                 -   37:30 (of 1:52:49)
     https://www.youtube.com/watch?v=I-s1zbiJoso
@@ -84,7 +82,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 236
-Razbor Poletov                                      - 158
+Razbor Poletov                                      - 162
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
@@ -93,7 +91,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch11 of 12 - refactoring of stream component
+Baduch - React 16 Essentials 2nd ed                 - ch12
 Chinnathambi - 2018 - Learning React 2nd ed         - ch8 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
