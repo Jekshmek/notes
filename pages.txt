@@ -1,5 +1,5 @@
-https://predanie.ru/alexej-muraviev/klassicheskaya-siriyskaya-literatura-ii-xiii-vv-osnovnye-avtory-i-napravleniya/slushat/
 URLs
+https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
@@ -15,6 +15,8 @@ Levandovsky - about Bykov
     https://ru-bykov.livejournal.com/3385353.html
 Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
+scoop
+    d
 
 Video
 Sluch - Math at Sirius
@@ -24,16 +26,9 @@ Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-MPS                                                 -   40:00 (of   58:06)
-    https://www.youtube.com/watch?v=102hoaAdctk
-    http://voelter.de/data/pub/kernelf-reference.pdf
-    https://github.com/IETS3/iets3.opensource
-    https://languageengineering.io/the-philosophy-behind-language-engineering-with-mps-9e9c48d8e15b
-    https://www.nikostotz.de/blog/high-performance-interpreters-for-jetbrains-mps/
 
 Lit
-Volkova Greece 1                                    -   03:00 (of 1:53:24)
-    https://www.youtube.com/watch?v=ytSQCu0nekk
+Volkova Greece 2                                    -   28:00 (of 1:53:24)
     https://www.youtube.com/watch?v=5ADdoKgXLxU
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
     https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
@@ -91,7 +86,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch12
+Baduch - React 16 Essentials 2nd ed                 - ch12 - connecting components to an application state
 Chinnathambi - 2018 - Learning React 2nd ed         - ch8 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

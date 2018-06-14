@@ -17,8 +17,11 @@ cfg
 https://github.com/lukesampson/scoop/wiki/The-'Current'-Version-Alias
 
 ???
+curl, cacert
 coreutils
     https://github.com/lukesampson/scoop/wiki/Example-Setup-Scripts
+busybox
+    https://github.com/lukesampson/scoop/blob/master/bucket/busybox.json 
 ant
 gradle
 openjdk

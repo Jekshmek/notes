@@ -19,8 +19,26 @@ scoop
         returns the path to the specified app
     depends
         list dependencies for an app
+    install
+        https://github.com/lukesampson/scoop/blob/master/libexec/scoop-install.ps1
     uninstall
         uninstall an app
+    update -v *
     reset
+        java@<version>
         reset an app to resolve conflicts
         oraclejdk
+    cleanup
+        cleanup old versions
+    alias
+        https://github.com/lukesampson/scoop/blob/master/libexec/scoop-alias.ps1
+    info
+        show the info about an <app>
+        https://github.com/lukesampson/scoop/blob/master/libexec/scoop-info.ps1
+    home
+        opens the <app> homepage
+        https://github.com/lukesampson/scoop/blob/master/libexec/scoop-home.ps1
+
+misc
+    versions
+        https://github.com/lukesampson/scoop/blob/master/lib/versions.ps1

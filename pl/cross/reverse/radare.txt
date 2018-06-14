@@ -21,3 +21,4 @@ http://cloud.rada.re/enyo/
 
 ?
 https://github.com/radareorg/cutter
+scoop install cutter

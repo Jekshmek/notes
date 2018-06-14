@@ -9,6 +9,8 @@ https://github.com/arcnmx/serde-value
 
 https://github.com/sfackler/serde-transcode
 
+https://crates.io/crates/serde_shims
+
 articles
 2018
 http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html

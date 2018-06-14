@@ -1,3 +1,6 @@
 https://crates.io/crates/chan
 http://burntsushi.net/rustdoc/chan/
 https://github.com/BurntSushi/chan
+
+samples
+https://medium.com/@sargun/systems-languages-an-experience-report-d008b2b12628

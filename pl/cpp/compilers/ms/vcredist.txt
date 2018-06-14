@@ -27,3 +27,6 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 2017
 https://aka.ms/vs/15/release/vc_redist.x64.exe
+
+issues
+https://www.khronos.org/bugzilla/show_bug.cgi?id=1216

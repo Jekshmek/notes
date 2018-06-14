@@ -1,0 +1,16 @@
+~/.scoop
+{
+    "lastupdate":  "\/Date(1521274194904)\/",
+    "SCOOP_BRANCH":  "master",
+    "show_update_log":  "false",        <------------------------for example
+    "SCOOP_REPO":  "https://github.com/lukesampson/scoop"
+}
+
+~/scoop/
+    apps/
+        scoop/current
+            $ git status
+    modules/
+        https://github.com/lukesampson/scoop/wiki/PowerShell-Modules
+    presist/<app>
+        scoop uninstall -p <app>

@@ -1,0 +1,9 @@
+https://github.com/lukesampson/scoop/wiki/Buckets
+
+scoop bucket list
+
+https://github.com/lukesampson/scoop/blob/master/buckets.json
+main bucket
+https://github.com/lukesampson/scoop/tree/master/bucket
+extra bucket
+https://github.com/lukesampson/scoop-extras

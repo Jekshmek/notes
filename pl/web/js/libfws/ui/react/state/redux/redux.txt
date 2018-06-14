@@ -4,6 +4,8 @@ https://github.com/reactjs/redux
 
 docs
 https://redux.js.org/introduction
+https://rajdee.gitbooks.io/redux-in-russian/content/
+    https://github.com/rajdee/redux-in-russian
 
 important:
 React - Flux + Redux by Denys Kuzin
@@ -30,11 +32,5 @@ restate
 https://github.com/thekashey/restate
 https://habrahabr.ru/post/346116/
 
-normalizr
-https://github.com/paularmstrong/normalizr
-
 undo-history
 https://redux.js.org/recipes/implementing-undo-history
-
-resources
-https://github.com/rajdee/redux-in-russian

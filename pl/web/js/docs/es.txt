@@ -35,6 +35,8 @@ modules
 esm
 https://nodejs.org/api/esm.html
 2018
+CodingTech - ECMAScript Modules: Past, Present, and Future
+https://www.youtube.com/watch?v=3U3Av7tM7_U
 https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71
 --experimental-modules
 https://www.youtube.com/watch?v=teDVlOjOCT0
