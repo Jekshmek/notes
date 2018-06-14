@@ -1,2 +1,3 @@
 2018
 https://hackernoon.com/10-firefox-dev-tools-tricks-that-will-blow-your-mind-d641f1714903
+https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/

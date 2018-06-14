@@ -1,4 +1,5 @@
 2018
+https://codingnest.com/basic-cmake/
 http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/
 Arias - It's time to do CMake right
 https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/

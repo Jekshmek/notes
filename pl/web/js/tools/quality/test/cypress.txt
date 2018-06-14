@@ -1,0 +1,9 @@
+https://www.cypress.io/
+
+https://docs.cypress.io/guides/getting-started/installing-cypress.html
+
+2018
+https://blog.bitsrc.io/testing-react-apps-with-cypress-658bc482678
+https://medium.com/@mtiller/testing-react-components-using-storybook-and-cypress-1689a27f55aa
+2017
+https://blog.callstack.io/testing-react-app-with-cypress-246a7732ee63
