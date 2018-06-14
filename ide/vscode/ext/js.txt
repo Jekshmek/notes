@@ -7,6 +7,8 @@ https://github.com/Microsoft/vscode-chrome-debug
 
 react
 https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack
+jsx
+https://javascriptplayground.com/vscode-go-to-definition-jsx/
 
 angular
 https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials

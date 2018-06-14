@@ -2,8 +2,31 @@ resources
 https://uptodate.frontendrescue.org/
 https://github.com/impressivewebs/frontend-feeds
 https://www.facebook.com/webstandardsru/
-http://www.fromdev.com/2017/02/best-html-tutorials-ebooks-pdf.html
+
+newsletters
+https://www.sitepoint.com/newsletter/
 https://github.com/webpro/awesome-newsletters
+    https://www.smashingmagazine.com/the-smashing-newsletter/
+    https://web-design-weekly.com/newsletter/
+    https://javascriptweekly.com/
+    https://javascriptkicks.com/
+    https://frontendfoc.us/
+    https://ponyfoo.com/weekly
+    https://nodeweekly.com/
+    https://nmotw.in/
+    https://webtoolsweekly.com/
+    https://webplatformdaily.org/
+    https://wdrl.info/
+    http://reactjsnewsletter.com/
+https://www.npmjs.com/npm-weekly
+https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29
+http://esnextnews.com/archive.html
+http://frontendnewsletter.com
+https://devcraftweekly.com/
+https://zendev.com/friday-frontend.html
+https://umaar.com/dev-tips/
+https://mobiledevweekly.com/
+https://css-weekly.com/
 
 blogs
 https://html5.zeef.com/sachin.fromdev

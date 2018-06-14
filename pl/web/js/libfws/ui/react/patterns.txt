@@ -7,6 +7,8 @@ https://reactjs.org/docs/higher-order-components.html
 articles
 2018
 https://css-tricks.com/what-are-higher-order-components-in-react/
+https://blog.kentcdodds.com/updated-advanced-react-component-patterns-51c34b44b1df
+    https://egghead.io/courses/advanced-react-component-patterns
 
 presentations
 2016

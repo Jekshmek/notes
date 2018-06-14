@@ -1,5 +1,9 @@
 https://reactjs.org/docs/react-component.html#lifecycle-methods
 
+2018
+https://twitter.com/dan_abramov/status/981712092611989509
+https://imgur.com/bmfcRQm
+
 2017
 https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 
@@ -59,3 +63,7 @@ stages
 
 Notes
 * forceUpdate() method forced the updating-stage, but without shouldComponentUpdate(...) call on a component, which triggered update
+
+visualizer
+https://github.com/Oblosys/react-lifecycle-visualizer
+https://stackblitz.com/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=src/samples/New.js

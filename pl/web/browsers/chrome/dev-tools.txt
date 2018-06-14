@@ -6,6 +6,9 @@ https://canonium.com/articles/debugging-nodejs-in-chrome-devtools
 DevConsole
 http://frontender.info/chrome-developer-tools/
 
+tips
+https://umaar.com/dev-tips/
+
 whatsnew
 https://www.youtube.com/watch?v=4EdPq9Nw6uI
 https://developers.google.com/web/updates/2018/05/devtools

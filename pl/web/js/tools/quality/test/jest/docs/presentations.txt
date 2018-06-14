@@ -1,3 +1,5 @@
 2018
+Delightful JavaScript Testing with Jest
+https://www.youtube.com/watch?v=cAKYQpTC7MA
 LevelUpTuts - JavaScript Testing 101 with Jest
 https://www.youtube.com/playlist?list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y

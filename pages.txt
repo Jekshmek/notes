@@ -5,7 +5,7 @@ https://habr.com/company/philtech/blog/354596/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Cardinality Estimation: Linear Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 13
+    Jun 14
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -15,6 +15,11 @@ Levandovsky - about Bykov
     https://ru-bykov.livejournal.com/3385353.html
 Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
+
+track
+http://reactjsnewsletter.com/issues
+? react kung-fu
+https://nmotw.in/
 scoop
     d
 
@@ -97,7 +102,7 @@ OpenSSL Cookbook                                    - 29 (of 58)
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-need: 66, 69-74, 88-
+need: 66, 69-74, 90-
 have: 75,78,79,80,84-87
 
 clear at D:/Temp

@@ -1,6 +1,9 @@
 MinskJS
 https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA
 
+CSSConf/JSCOnf
+https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w/playlists
+
 2018
 JSConf
 https://www.youtube.com/playlist?list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
