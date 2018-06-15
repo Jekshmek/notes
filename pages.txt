@@ -22,7 +22,7 @@ http://reactjsnewsletter.com/issues
 https://nmotw.in/
 scoop
     d
-http://reactjsnewsletter.com/issues/120
+http://reactjsnewsletter.com/issues/117
 https://nmotw.in/
     2015
 
@@ -36,10 +36,8 @@ Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit
-2018-06-15-odin-0006                                -   12:00 (of 1:45:38)
-    https://cdn.echo.msk.ru/snd/2018-06-15-odin-0006.mp3
-Volkova Greece 2                                    -   28:00 (of 1:53:24)
-    https://www.youtube.com/watch?v=5ADdoKgXLxU
+Volkova Rome                                        -   06:00 (of 1:32:09)
+    https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
     https://www.youtube.com/playlist?list=PLD5g3xBjBZK-ZNpuF4Qv_rSkGbI8EJpeL
 Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
@@ -113,3 +111,6 @@ clear at D:/Temp
     snappy*
 
 f:/pvt/outlook
+
+https://github.com/jamiebuilds/unstated
+https://itnext.io/the-unstated-react-service-pattern-786ea6168d1d

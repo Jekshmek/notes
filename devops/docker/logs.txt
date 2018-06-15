@@ -28,3 +28,5 @@ https://github.com/docker/docker/issues/8911
 https://github.com/CiscoCloud/microservices-infrastructure/issues/500
 https://github.com/docker/docker/pull/11485
 
+2018
+https://dev.to/ykyuen/how-to-setup-log-rotation-for-docker-container-4alp
