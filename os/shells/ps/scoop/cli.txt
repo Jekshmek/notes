@@ -21,6 +21,7 @@ scoop
         list dependencies for an app
     install
         https://github.com/lukesampson/scoop/blob/master/libexec/scoop-install.ps1
+        gradle@4.7
     uninstall
         uninstall an app
     update -v *
@@ -32,6 +33,10 @@ scoop
         cleanup old versions
     alias
         https://github.com/lukesampson/scoop/blob/master/libexec/scoop-alias.ps1
+        ...\scoop\shims\scoop-upu.ps1
+
+            scoop alias add rm 'scoop uninstall $args[0]' 'Uninstalls an app'
+            scoop alias add upgrade 'scoop update *' 'Updates all apps, just like brew or apt'
     info
         show the info about an <app>
         https://github.com/lukesampson/scoop/blob/master/libexec/scoop-info.ps1

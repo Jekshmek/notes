@@ -17,6 +17,10 @@ Dhinakaran
 https://speakerdeck.com/dvigneshwer/hackers-guide-to-rust-programming-accu-2018
 https://speakerdeck.com/dvigneshwer/pumping-up-python-modules-using-rust-pycon-2018
 https://speakerdeck.com/dvigneshwer/pumping-up-node-dot-js-modules-with-rust
+TensorProgramming - Intro to Rust
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW
+TensorProgramming - Rust Projects
+https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb
 
 2017
 https://www.slideshare.net/nikomatsakis/rust-reach-further

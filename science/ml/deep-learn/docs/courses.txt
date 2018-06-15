@@ -1,4 +1,7 @@
 2018
+Simon Kozlov - Deep Learning Course ru
+https://www.youtube.com/playlist?list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
+    https://habr.com/post/414165/
 CMU 11-785
 http://deeplearning.cs.cmu.edu/
 VSHE - Deep Learning
