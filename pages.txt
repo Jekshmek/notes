@@ -114,3 +114,6 @@ f:/pvt/outlook
 
 https://github.com/jamiebuilds/unstated
 https://itnext.io/the-unstated-react-service-pattern-786ea6168d1d
+
+https://thomas.vanhoutte.be/miniblog/delete-windows-10-apps/
+https://superuser.com/questions/949569/can-i-completely-disable-cortana-on-windows-10
