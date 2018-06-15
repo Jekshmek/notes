@@ -15,6 +15,8 @@ Levandovsky - about Bykov
     https://ru-bykov.livejournal.com/3385353.html
 Mayburd - about Bykov
     https://ru-bykov.livejournal.com/3366492.html
+Bykov - Shvarts 2
+    https://ru-bykov.livejournal.com/3440601.html
 
 track
 http://reactjsnewsletter.com/issues
@@ -23,6 +25,7 @@ https://nmotw.in/
 scoop
     d
 http://reactjsnewsletter.com/issues/117
+https://frontendfoc.us/issues/340
 https://nmotw.in/
     2015
 
@@ -92,7 +95,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Baduch - React 16 Essentials 2nd ed                 - ch12 - connecting components to an application state
 Chinnathambi - 2018 - Learning React 2nd ed         - ch8 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276

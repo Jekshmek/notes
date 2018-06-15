@@ -82,6 +82,7 @@ http://smallcultfollowing.com/babysteps/blog/2016/05/09/non-lexical-lifetimes-ad
 http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/
 http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/
 http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/
+http://smallcultfollowing.com/babysteps/blog/2018/06/15/mir-based-borrow-check-nll-status-update/
 https://github.com/nikomatsakis/borrowck
 https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
 
