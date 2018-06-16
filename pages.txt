@@ -23,7 +23,7 @@ http://reactjsnewsletter.com/issues
 ? react kung-fu
 https://nmotw.in/
 scoop
-    d
+    e
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
 https://nmotw.in/
