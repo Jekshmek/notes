@@ -1,2 +1,7 @@
 http://editorconfig.org/
+
+plugins
 https://github.com/editorconfig/editorconfig-vim
+
+scoop
+    editorconfig

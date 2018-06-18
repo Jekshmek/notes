@@ -1,2 +1,5 @@
+https://flaviocopes.com/console-api/
+
 2018
 https://medium.freecodecamp.org/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472
+    https://habr.com/company/ruvds/blog/414375/
