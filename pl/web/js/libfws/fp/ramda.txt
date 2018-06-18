@@ -1,0 +1,4 @@
+2016
+http://randycoulman.com/blog/categories/thinking-in-ramda/
+http://randycoulman.com/blog/2016/06/28/thinking-in-ramda-immutability-and-objects/
+    https://habr.com/post/414337/

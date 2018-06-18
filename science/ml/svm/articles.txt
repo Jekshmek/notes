@@ -1,2 +1,6 @@
+2018
+Vapnik vs Jakel
+https://habr.com/company/speechpro/blog/414161/
+
 2017
 https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/

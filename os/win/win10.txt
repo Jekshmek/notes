@@ -1,3 +1,6 @@
+https://thomas.vanhoutte.be/miniblog/delete-windows-10-apps/
+https://superuser.com/questions/949569/can-i-completely-disable-cortana-on-windows-10
+
 Disabling Win10 update:
 KB3035583
 http://remontka.pro/windows-10-update-disable/
