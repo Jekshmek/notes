@@ -9,7 +9,6 @@ https://github.com/webpro/awesome-newsletters
     https://www.smashingmagazine.com/the-smashing-newsletter/
     https://web-design-weekly.com/newsletter/
     https://javascriptweekly.com/
-    https://javascriptkicks.com/
     https://frontendfoc.us/
     https://ponyfoo.com/weekly
     https://nodeweekly.com/
@@ -18,6 +17,7 @@ https://github.com/webpro/awesome-newsletters
     https://webplatformdaily.org/
     https://wdrl.info/
     http://reactjsnewsletter.com/
+
 https://www.npmjs.com/npm-weekly
 https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29
 http://esnextnews.com/archive.html
@@ -27,6 +27,8 @@ https://zendev.com/friday-frontend.html
 https://umaar.com/dev-tips/
 https://mobiledevweekly.com/
 https://css-weekly.com/
+verbose
+    https://javascriptkicks.com/
 
 blogs
 https://html5.zeef.com/sachin.fromdev
