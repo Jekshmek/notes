@@ -1,4 +1,8 @@
 2018
+Josuttis - Beware of Cpp17
+    https://corehard.by/2018/06/13/corehard-spring-2018-nicolai-josuttis-beware-of-c17/
+    https://www.slideshare.net/corehard_by/beware-of-c17
+    https://www.youtube.com/watch?v=560l4b3i4ew
 Ohotnikov - CoreHard - 25 years of cpp history
 https://www.youtube.com/watch?v=reEBIK5UpAU
 https://www.slideshare.net/corehard_by/25-c-102125042
