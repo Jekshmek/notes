@@ -1,3 +1,4 @@
+https://habr.com/company/mailru/blog/413491/
 URLs
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/

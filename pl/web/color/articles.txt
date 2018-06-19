@@ -1,2 +1,4 @@
 2018
+https://chris.de/posts/an-algorithm-to-generate-color-palettes/
+    https://habr.com/company/mailru/blog/414455/
 https://www.frontamentals.com/guide-to-color/
