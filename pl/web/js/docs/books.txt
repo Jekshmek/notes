@@ -2,3 +2,6 @@ http://books.goalkicker.com/JavaScriptBook/
 
 https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks
+
+2018
+Morgan - Simplifying JavaScript

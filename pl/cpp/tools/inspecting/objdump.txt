@@ -1,2 +1,4 @@
 objdump
     -TC
+    -p
+        get imports table

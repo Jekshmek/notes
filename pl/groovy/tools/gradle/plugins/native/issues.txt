@@ -1,0 +1,2 @@
+unable to fine static lib
+https://discuss.gradle.org/t/c-linkage-shared/10460/6

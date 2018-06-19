@@ -1,0 +1,6 @@
+https://google.github.io/flatbuffers/index.html
+https://google.github.io/flatbuffers/flatbuffers_support.html
+https://google.github.io/flatbuffers/usergroup0.html
+
+scoop
+    flatc
