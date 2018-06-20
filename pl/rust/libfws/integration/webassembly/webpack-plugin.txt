@@ -1,0 +1,2 @@
+https://github.com/xtuc/rust-plugin
+https://speakerdeck.com/sendilkumarn/webpack-and-webassembly

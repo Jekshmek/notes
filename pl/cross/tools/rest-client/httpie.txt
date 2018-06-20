@@ -1,0 +1,5 @@
+https://httpie.org
+https://httpie.org/doc
+
+aur
+    httpie

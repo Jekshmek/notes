@@ -1,6 +1,7 @@
 https://firebase.google.com
 
 https://github.com/firebase/
+https://github.com/firebase/firebase-tools
 
 https://firebase.google.com/docs/
 https://firebase.google.com/docs/firestore/

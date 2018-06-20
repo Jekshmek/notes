@@ -7,15 +7,6 @@ cargo build --target wasm32-unknown-unknown --release
 https://github.com/rust-lang-nursery/rust-wasm
 https://rust-lang-nursery.github.io/rust-wasm/introduction.html
 
-tutorial
-https://freemasen.github.io/wasm_tutorial/
-https://github.com/freemasen/wasm_tutorial
-https://github.com/freemasen/wasm_hw
-
-this week
-https://rustwasm.github.io/2018/05/14/this-week-in-rust-wasm-002.html
-https://rustwasm.github.io/2018/04/21/this-week-in-rust-wasm-001.html
-
 2018
 Rust DC - Learn+Try: Rust in the Browser via WebAssembly
 https://www.youtube.com/watch?v=btCgzXgmhys
@@ -55,79 +46,12 @@ https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
 https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/
 
-webpack plugin
-https://github.com/xtuc/rust-plugin
-https://speakerdeck.com/sendilkumarn/webpack-and-webassembly
-
-cargo-web
-https://crates.io/crates/cargo-web
-https://github.com/koute/cargo-web
-https://github.com/koute/cargo-web/issues/24
-https://github.com/TheMegaTB/cargo-web-loader
-
-stdweb
-https://crates.io/crates/stdweb
-https://docs.rs/stdweb
-https://github.com/koute/stdweb
-https://crates.io/crates/stdweb-derive
-https://crates.io/crates/stdweb-internal-macros
-https://crates.io/crates/webgl_generator
-
 wasm-bindgen
 https://github.com/alexcrichton/wasm-bindgen
 
-https://github.com/astraw/bui-backend
-https://github.com/astraw/bui-backend/tree/master/bui-demo
-
-https://github.com/FreeMasen/wasm-chrome-hack
-https://www.reddit.com/r/rust/comments/8dhc2v/a_hacky_workaround_for_the/
-
-yew
-https://github.com/DenisKolodin/yew
-
-wasm-studio (combines wasm-explorer and wasm-fiddle)
-https://webassembly.studio/
-https://github.com/wasdk/WebAssemblyStudio
-https://hacks.mozilla.org/2018/04/sneak-peek-at-webassembly-studio/
-https://www.infoq.com/news/2018/04/webassembly-studio
-
-https://mbebenita.github.io/WasmExplorer/
-https://wasdk.github.io/WasmFiddle/
 https://github.com/WebAssembly/binaryen
 https://github.com/WebAssembly/wabt
 https://alexaltea.github.io/capstone.js/
 
-https://github.com/losfair/wasm-core
-https://github.com/losfair/IceCore/tree/lssa
-
-wasmi
-https://crates.io/crates/wasmi
-https://paritytech.github.io/wasmi/wasmi/index.html
-https://github.com/paritytech/wasmi
-https://www.reddit.com/r/rust/comments/8cn72h/fearless_cloud_with_serverless_wasm/
-
 rust-wasm group
 https://github.com/rust-lang-nursery/rust-wasm/
-
-wasm-pack
-https://crates.io/crates/wasm-pack
-https://docs.rs/wasm-pack
-https://github.com/ashleygwilliams/wasm-pack
-https://hacks.mozilla.org/2018/04/hello-wasm-pack/
-    https://www.reddit.com/r/rust/comments/8d6kjp/hello_wasmpack_mozilla_hacks/
-
-rust-wasm-template
-https://github.com/rustwasm/rust_wasm_template
-    https://www.reddit.com/r/rust/comments/8ll5g0/github_rustwasmrust_wasm_template_a_template_for/
-
-twiggy code size profiler
-https://github.com/rustwasm/twiggy
-
-samples
-https://github.com/DrSensor/example-vue-component-rust
-    https://busy.org/@drsensor/mix-rust-code-webassembly-with-vue-component-basic
-https://github.com/bzar/webchat-rs
-https://github.com/kirjavascript/snake-rs
-https://xuu.github.io/wasm-tetris/
-https://github.com/xuu/wasm-tetris
-https://joshleeb.com/posts/rust-wasm-snowhash/

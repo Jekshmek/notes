@@ -2,6 +2,10 @@ bayesian:
 https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
+2018
+https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
+    http://telegra.ph/Vvedenie-v-bajesovskuyu-linejnuyu-regressiyu-04-17
+
 2017
 https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/

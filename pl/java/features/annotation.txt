@@ -1,4 +1,6 @@
 2018
+Compile Time Annoations
+https://habr.com/post/414715/
 Albano - Creating Annotations in Java
 https://dzone.com/articles/creating-custom-annotations-in-java
 

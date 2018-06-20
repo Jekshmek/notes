@@ -1,0 +1,7 @@
+https://github.com/DrSensor/example-vue-component-rust
+    https://busy.org/@drsensor/mix-rust-code-webassembly-with-vue-component-basic
+https://github.com/bzar/webchat-rs
+https://github.com/kirjavascript/snake-rs
+https://xuu.github.io/wasm-tetris/
+https://github.com/xuu/wasm-tetris
+https://joshleeb.com/posts/rust-wasm-snowhash/

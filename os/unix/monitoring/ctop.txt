@@ -1,0 +1,5 @@
+https://ctop.sh/
+https://github.com/bcicen/ctop
+
+aur
+    ctop-bin

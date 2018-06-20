@@ -1,2 +1,3 @@
-spec
+trip reports
+https://botondballo.wordpress.com/2018/06/20/trip-report-c-standards-meeting-in-rapperswil-june-2018/
 https://botondballo.wordpress.com/2018/03/28/trip-report-c-standards-meeting-in-jacksonville-march-2018/

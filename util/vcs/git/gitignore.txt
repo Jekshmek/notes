@@ -1,0 +1,3 @@
+https://www.gitignore.io/
+https://www.gitignore.io/docs
+https://github.com/joeblau/gitignore.io

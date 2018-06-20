@@ -92,7 +92,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Chinnathambi - 2018 - Learning React 2nd ed         - ch9 of 20
+Chinnathambi - 2018 - Learning React 2nd ed         - ch10 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
