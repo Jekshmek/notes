@@ -49,11 +49,13 @@ Paschenko - Game 2 - 6                              -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 21                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 32                                      -   00:00 (of)
+Sorokin - B 33                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Chernyak - 21 of 34                                 -   37:00 (of 1:42:14)
     https://www.youtube.com/watch?v=KiUuV0Cg-50
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+Filonik                                             -   30:00 (of 1:51:52)
+    https://predanie.ru/filonik-marina-sergeevna/o-strahe-bozhem-i-chelovecheskom/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
@@ -68,7 +70,6 @@ https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/paschenko-oleg-gennadievich/paschenko-raspoyasalsya-no-vnov-prepoyasyvaetsya/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
-https://predanie.ru/filonik-marina-sergeevna/o-strahe-bozhem-i-chelovecheskom/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 
@@ -82,8 +83,8 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 236
-Razbor Poletov                                      - 162
+This week in rust                                   - 239
+Razbor Poletov                                      - 163
 http://accu.org/index.php/journals/c78/             - 145
 
 Series

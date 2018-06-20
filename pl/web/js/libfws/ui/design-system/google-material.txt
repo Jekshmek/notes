@@ -47,3 +47,7 @@ https://www.youtube.com/watch?v=Q6qhzG7mObU
 whatsnew
 https://github.com/angular/material2/blob/master/CHANGELOG.md
 https://habr.com/company/mailru/blog/358246/
+
+other stuff
+https://propeller.in/
+https://github.com/digicorp/propeller
