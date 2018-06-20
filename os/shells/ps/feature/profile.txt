@@ -48,5 +48,9 @@ foreach-object {
     $dirname = $_.FullName; $env:PATH="${env:PATH};${dirname}"
 }
 
+function rmrf([string] $folder) {
+    remove-item -recurse -force $folder
+}
+
 # aliases
 new-alias -name l -value get-childitem

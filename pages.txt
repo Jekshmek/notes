@@ -24,17 +24,19 @@ https://nmotw.in/
     2015
 
 Video
-Sluch - Math at Sirius
-    https://www.youtube.com/watch?v=OHM-J5zZ5zI
-    https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
+https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
+Bashmakov - Project Method
+    https://www.youtube.com/watch?v=ZSYTXyOk8kc
+I will prove you
+    https://www.youtube.com/watch?v=AgnztsffH5k
+Volfson - nonstandard
+    https://www.youtube.com/watch?v=wEXz4NLI7m4
 Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 
 Lit
-Bykov - Do Berlina                                  -   01:00 (of 1:42:39)
-    https://yadi.sk/d/yGpTFdJ23XzAwT
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -106,5 +108,3 @@ have: 75,78,79,80,84-89
 clear at D:/Temp
     jna*.dll
     snappy*
-
-f:/pvt/outlook
