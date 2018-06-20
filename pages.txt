@@ -7,7 +7,7 @@ https://habr.com/company/philtech/blog/414499/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Cardinality Estimation: Loglog Counting
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 18
+    Jun 20
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -54,7 +54,7 @@ Sorokin - B 33                                      -   00:00 (of)
 Chernyak - 21 of 34                                 -   37:00 (of 1:42:14)
     https://www.youtube.com/watch?v=KiUuV0Cg-50
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Filonik                                             -   30:00 (of 1:51:52)
+Filonik                                             -   40:00 (of 1:51:52)
     https://predanie.ru/filonik-marina-sergeevna/o-strahe-bozhem-i-chelovecheskom/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
