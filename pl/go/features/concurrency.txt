@@ -5,3 +5,7 @@ DeMario - Go Concurrency in the Real World
 https://www.infoq.com/presentations/go-concurrency-demo
 Signals - Graceful Shutdown in Go ru
 https://speakerdeck.com/player/54ce32350b894a1ab64b4f096d6f8a60#
+
+goroutines
+2017
+https://www.sohamkamani.com/blog/2017/08/24/golang-channels-explained/
