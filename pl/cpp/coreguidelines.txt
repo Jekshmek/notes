@@ -3,6 +3,9 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 
+2018
+https://www.reddit.com/r/cpp/comments/8sge59/what_happened_to_msvc_cppcoreguideline_checker/
+
 2017
 Gregory - 10 Core Guidelines You Need to Start Using Now
 https://github.com/CppCon/CppCon2017/blob/master/Presentations/10%20Core%20Guidelines%20You%20Need%20to%20Start%20Using%20Now/10%20Core%20Guidelines%20You%20Need%20to%20Start%20Using%20Now%20-%20Kate%20Gregory%20-%20CppCon%202017.pptx
@@ -10,3 +13,4 @@ https://www.youtube.com/watch?v=XkDEzfpdcSg
 
 ms
 https://docs.microsoft.com/en-us/visualstudio/code-quality/code-analysis-for-cpp-corecheck
+https://docs.microsoft.com/en-au/visualstudio/code-quality/using-the-cpp-core-guidelines-checkers

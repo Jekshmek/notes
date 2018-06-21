@@ -4,6 +4,10 @@ https://github.com/matplotlib/matplotlib
 
 https://matplotlib.org/gallery.html
 
+books
+2018
+Korites - Python Graphics
+
 articles
 2018
 https://realpython.com/python-matplotlib-guide/

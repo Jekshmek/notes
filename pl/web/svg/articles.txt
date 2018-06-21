@@ -9,5 +9,6 @@ http://css-live.ru/articles/transformacii-dlya-svg-elementov.html
 https://css-tricks.com/transforms-on-svg-elements/
 
 2014
+https://css-tricks.com/mega-list-svg-information/
 https://www.sarasoueidan.com/blog/svg-coordinate-systems/
 https://www.sarasoueidan.com/blog/svg-transformations/
