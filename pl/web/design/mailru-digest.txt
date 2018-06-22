@@ -1,6 +1,9 @@
+https://jvetrau.com/category/digest/
+https://t.me/pdigest
+
 2018
 +https://habr.com/company/mailru/blog/413491/
-https://habr.com/company/mailru/blog/354996/
++https://habr.com/company/mailru/blog/354996/
 https://habr.com/company/mailru/blog/352696/
     http://v6.robweychert.com/blog/2018/02/v6-color/
     https://atomiks.github.io/30-seconds-of-css/

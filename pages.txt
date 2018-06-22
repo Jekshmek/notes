@@ -18,7 +18,7 @@ motivation - 6 of 873p
 track
 http://reactjsnewsletter.com/issues
 ? react kung-fu
-scoop - h
+scoop - i
     https://github.com/lukesampson/scoop/tree/master/bucket
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
@@ -94,7 +94,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Chinnathambi - 2018 - Learning React 2nd ed         - ch11 of 20
+Chinnathambi - 2018 - Learning React 2nd ed         - ch12 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54

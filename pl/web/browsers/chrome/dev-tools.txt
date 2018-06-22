@@ -1,6 +1,9 @@
 https://developers.google.com/web/tools/chrome-devtools/javascript/
 https://www.youtube.com/watch?v=H0XScE08hy8
 devtool (? obsolete)
+
+debugging
+https://nodejs.org/en/docs/guides/debugging-getting-started/
 https://canonium.com/articles/debugging-nodejs-in-chrome-devtools
 
 DevConsole
@@ -8,6 +11,11 @@ http://frontender.info/chrome-developer-tools/
 
 tips
 https://umaar.com/dev-tips/
+
+articles
+2017
+https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
+    https://medium.com/nuances-of-programming/%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-node-js-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-google-chrome-e4e8ecf9305e
 
 whatsnew
 https://www.youtube.com/watch?v=4EdPq9Nw6uI
