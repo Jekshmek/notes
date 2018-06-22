@@ -10,6 +10,10 @@ https://www.jcp.org/en/jsr/detail?id=380
 
 https://docs.jboss.org/hibernate/beanvalidation/spec/2.0/api/
 
+books
+2018
+Goncalves - Understanding Bean Validation 2
+
 2017
 Morling - Keeping Your Data Sane with Bean Validation 2.0
 https://speakerdeck.com/gunnarmorling/keeping-your-data-sane-with-bean-validation-2-dot-3

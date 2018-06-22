@@ -6,7 +6,7 @@ https://habr.com/company/philtech/blog/414499/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Frequency Estimation: Count-Mean-Min Sketch
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 20
+    Jun 22
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -62,6 +62,8 @@ Sorokin - B 33                                      -   00:00 (of)
 Chernyak - 21 of 34                                 -   37:00 (of 1:42:14)
     https://www.youtube.com/watch?v=KiUuV0Cg-50
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+Paschenko Oleg                                      - 1:00:00 (of 1:56:39)
+    https://predanie.ru/paschenko-oleg-gennadievich/paschenko-raspoyasalsya-no-vnov-prepoyasyvaetsya/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
@@ -73,7 +75,6 @@ https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poe
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
-https://predanie.ru/paschenko-oleg-gennadievich/paschenko-raspoyasalsya-no-vnov-prepoyasyvaetsya/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/

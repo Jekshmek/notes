@@ -1,5 +1,8 @@
-Presentations:
-2017:
+2018
+Kunicki - Practical Reactive Streams with Monix
+https://www.youtube.com/watch?v=eV709ToPYSU
+
+2017
 Kogut - Asynch processing using Monix
 https://www.youtube.com/watch?v=IHxBjXVtxnY
 Nedelcu - Monix Task
