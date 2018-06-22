@@ -5,10 +5,24 @@ https://github.com/micrometer-metrics/micrometer
 https://micrometer.io/docs
 https://micrometer.io/docs/concepts
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready-metrics
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready-endpoints-exposing-endpoints
 https://micrometer.io/docs/ref/jvm
 https://micrometer.io/docs/ref/cache
 
+exposing endpoint
+management:
+  server:
+    port: 9090
+    security:
+      enabled: false
+  endpoints:
+    web:
+      base-path: /application
+      exposure:
+        include: info,health,prometheus
+
 2018
+https://dzone.com/articles/using-micrometer-with-spring-boot-2
 https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector
 
 http://www.ryantenney.com/metrics-spring/
