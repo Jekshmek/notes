@@ -25,6 +25,8 @@ scoop
     uninstall
         uninstall an app
     update -v *
+        -f
+            to force update (help to update reseted versions forward)
     reset
         java@<version>
         reset an app to resolve conflicts
