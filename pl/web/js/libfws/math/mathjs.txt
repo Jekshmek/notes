@@ -1,0 +1,9 @@
+http://mathjs.org/
+https://github.com/josdejong/mathjs
+
+http://mathjs.org/docs/index.html
+http://mathjs.org/docs/getting_started.html
+http://mathjs.org/examples/index.html
+
+http://mathnotepad.com/
+http://jsbin.com/devacu/edit?html,css,output
