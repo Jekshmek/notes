@@ -1,9 +1,22 @@
 resources
 https://uptodate.frontendrescue.org/
-https://github.com/impressivewebs/frontend-feeds
 https://www.facebook.com/webstandardsru/
+old
+https://github.com/impressivewebs/frontend-feeds
+
+people
+https://twitter.com/frontendrescue/lists/cool-people/members
+    https://twitter.com/addyosmani
+    http://bradfrost.com/blog
+    http://elijahmanor.com/archive/
+    https://twitter.com/ShaneHudson
+    https://twitter.com/codylindley
+
+sources
+https://twitter.com/frontendrescue/lists/best-sources/members
 
 newsletters
+https://twitter.com/frontendrescue/lists/best-sources/members
 https://www.sitepoint.com/newsletter/
 https://github.com/webpro/awesome-newsletters
     https://www.smashingmagazine.com/the-smashing-newsletter/
@@ -27,6 +40,7 @@ https://zendev.com/friday-frontend.html
 https://umaar.com/dev-tips/
 https://mobiledevweekly.com/
 https://css-weekly.com/
+https://css-tricks.com/
 verbose
     https://javascriptkicks.com/
 
