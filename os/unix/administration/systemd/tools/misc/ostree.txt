@@ -1,0 +1,2 @@
+https://ostree.readthedocs.io/en/latest/
+https://ostree.readthedocs.io/en/latest/manual/introduction/

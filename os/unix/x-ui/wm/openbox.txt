@@ -1,5 +1,9 @@
 aur
     openbox
+
+https://github.com/Mikachu/openbox
+https://github.com/danakj/openbox
+
 https://aur.archlinux.org/packages/openbox-patched/
 https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=openbox-patched
 source=("http://openbox.org/dist/openbox/${_pkgname}-${pkgver}.tar.gz"

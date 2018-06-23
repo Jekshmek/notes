@@ -20,6 +20,7 @@ https://boats.gitlab.io/blog/post/2018-01-30-async-iii-moving-forward/
 https://users.rust-lang.org/t/lifetime-specifier-question/6295/8
 
 reddit:
+https://www.reddit.com/r/rust/comments/8t5cas/rust_2018_an_early_preview/
 https://www.reddit.com/r/rust/comments/8pve6h/paint_me_a_lifetime_please/
 https://www.reddit.com/r/rust/comments/3tfsz1/im_reading_the_book_the_lifetimes_part_is_very/
 https://www.reddit.com/r/rust/comments/64zhjo/why_do_we_need_explicit_lifetimes/
