@@ -4,6 +4,7 @@ http://books.goalkicker.com/KotlinBook/
 Arias - Functional Kotlin
 Adelekan - Kotling Programming by Example
 Chakraborty - Reactive Programming in Kotlin
+Kucherenko - Mastering High Performance with Kotlin
 
 2017
 Samuel - Programming Kotlin
