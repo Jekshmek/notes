@@ -6,3 +6,6 @@ https://developers.redhat.com/blog/2014/12/02/address-and-thread-sanitizers-gcc/
 
 https://code.google.com/archive/p/data-race-test/wikis/ThreadSanitizer.wiki
 https://github.com/google/sanitizers
+
+2018
+https://kristerw.blogspot.com/2018/06/useful-gcc-address-sanitizer-checks-not.html

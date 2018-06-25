@@ -16,6 +16,7 @@ sources
 https://twitter.com/frontendrescue/lists/best-sources/members
 
 newsletters
+https://www.smashingmagazine.com/2018/06/newsletters-for-designers-and-developers/
 https://twitter.com/frontendrescue/lists/best-sources/members
 https://www.sitepoint.com/newsletter/
 https://github.com/webpro/awesome-newsletters
