@@ -7,50 +7,5 @@ cargo build --target wasm32-unknown-unknown --release
 https://github.com/rust-lang-nursery/rust-wasm
 https://rust-lang-nursery.github.io/rust-wasm/introduction.html
 
-2018
-Rust DC - Learn+Try: Rust in the Browser via WebAssembly
-https://www.youtube.com/watch?v=btCgzXgmhys
-https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
-https://hacks.mozilla.org/2018/06/babys-first-rustwebassembly-module-say-hi-to-jsconf-eu/
-https://speakerdeck.com/dvigneshwer/hackers-guide-to-webassembly
-https://engineering.dollarshaveclub.com/webassembly-up-and-running-319366cee88e
-    https://gist.github.com/someguynamedmatt/6c4b49fb821fbce788bdf7b8e57ee337
-https://medium.com/@jayphelps/using-llvm-from-rust-to-generate-webassembly-93e8c193fdb4
-http://fitzgeraldnick.com/2018/04/26/how-does-dynamic-dispatch-work-in-wasm.html
-https://kripken.github.io/blog/binaryen/2018/04/18/rust-emscripten.html
-https://medium.com/@KevinHoffman/javascript-interop-with-webassembly-2c69a3db19e9
-https://medium.com/@KevinHoffman/in-search-of-webassembly-2c96ad1d6fe2
-https://medium.com/@bokuweb17/writing-an-nes-emulator-with-rust-and-webassembly-d64de101c49d?source=rss------rust-5
-https://rustwasm.github.io/2018/04/05/welcome-to-this-week-in-rust.html
-https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/
-    https://habrahabr.ru/post/353230/
-https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-i-e6dec27df7b2
-https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-2-7a86eaec5ee9
-https://medium.com/@atulanand94/using-rust-modules-for-javascript-web-development-part-3-3-nodejs-7c71e4ae23fe
-
-https://medium.com/@mjadams66/compiling-rust-to-wasm-and-serving-it-ecece5026138
-https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
-
-https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
-    https://habrahabr.ru/post/350018/
-http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
-https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html
-https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
-    https://habrahabr.ru/post/347158/
-https://medium.com/@charltoons/tutorial-compiling-rust-to-wasm-b70d4a7d428f
-
-2017
-CodingTech - WebAssembly - 5 videos
-https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
-https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635
-https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/
-
-wasm-bindgen
-https://github.com/alexcrichton/wasm-bindgen
-
-https://github.com/WebAssembly/binaryen
-https://github.com/WebAssembly/wabt
-https://alexaltea.github.io/capstone.js/
-
 rust-wasm group
 https://github.com/rust-lang-nursery/rust-wasm/
