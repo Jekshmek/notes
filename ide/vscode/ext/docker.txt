@@ -1,0 +1,4 @@
+https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
+
+2018
+https://code.visualstudio.com/docs/azure/docker

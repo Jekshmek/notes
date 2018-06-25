@@ -2,4 +2,5 @@ https://github.com/toxicFork/react-three-renderer-fiber
 https://github.com/acdlite/react-fiber-architecture
 
 2018
+https://habr.com/post/413791/
 https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded
