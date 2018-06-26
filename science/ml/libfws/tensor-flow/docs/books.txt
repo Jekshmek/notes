@@ -10,6 +10,7 @@ Hope - Learning TensorFlow
 Zaccone - Deep Learning with TensorFlow
 Buduma - Fundamentals of Deep Learning
 Shukla - Machine Learning with TensorFlow MEAP
+Pattanayak - Pro Deep Learning with TensorFlow (tons of pictures and illustrations)
 
 2016
 Abrahams - TensorFlow For Machine Intelligence

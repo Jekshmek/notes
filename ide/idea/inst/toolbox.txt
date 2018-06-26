@@ -4,6 +4,9 @@ aur
     https://download.jetbrains.com/toolbox/${pkgname}-${pkgver}.tar.gz
     https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.8.3678.tar.gz
 
+scoop
+    jetbrain-toolbox
+
 pacman -Qql jetbrains-toolbox
 
 /opt/jetbrains-toolbox/jetbrains-toolbox

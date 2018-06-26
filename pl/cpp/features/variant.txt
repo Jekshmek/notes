@@ -1,4 +1,5 @@
 2018
+https://pabloariasal.github.io/2018/06/26/std-variant/
 https://www.bfilipek.com/2018/06/variant.html
 https://arne-mertz.de/2018/05/overload-build-a-variant-visitor-on-the-fly/
 https://arne-mertz.de/2018/05/modern-c-features-stdvariant-and-stdvisit/

@@ -16,13 +16,13 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
 https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
-Shalyto - motivation - 009 of 873p
+Shalyto - motivation - 012 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
 http://reactjsnewsletter.com/issues
 ? react kung-fu
-scoop - j
+scoop - k
     https://github.com/lukesampson/scoop/tree/master/bucket
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
@@ -118,3 +118,5 @@ have: 75,78,79,80,84-89
 clear at D:/Temp
     jna*.dll
     snappy*
+
+Razumov Alexey
