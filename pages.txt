@@ -1,3 +1,4 @@
+http://projects.spring.io/spring-cloud/
 Soshin - Hands-on Design Patterns with Kotlin
 https://tezfiles.com/file/15e20c6811f95
 
@@ -30,14 +31,22 @@ https://nmotw.in/
 
 Video
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Volfson - nonstandard                               -   01:00 (of   39:00)
-    https://www.youtube.com/watch?v=wEXz4NLI7m4
+Ivanov - learning math at school                    -   24:00 (of   44:39)
+    https://www.youtube.com/watch?v=4fDsgYHlZdU
+Kazakova - mezhdisciplinar
+    https://www.youtube.com/watch?v=0_tTwSkv4sc
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
+Olympiad problems at Lesson
+    https://www.youtube.com/watch?v=J4YwGyWtBqM
 Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
+Arnold - about american math
+    https://www.youtube.com/watch?v=-TlqQjmTLH4
+Savvateev - Brexit
+    https://www.youtube.com/watch?v=riF7GLRzg90
 
 Lit
 Volkova Rome                                        -   06:00 (of 1:32:09)
