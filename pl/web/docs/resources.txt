@@ -1,6 +1,7 @@
 resources
 https://uptodate.frontendrescue.org/
 https://www.facebook.com/webstandardsru/
+http://uigoodies.com/
 old
 https://github.com/impressivewebs/frontend-feeds
 

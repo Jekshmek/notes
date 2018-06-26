@@ -2,6 +2,7 @@ https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern
 https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Curiously_Recurring_Template_Pattern
 
 2018
+https://www.fluentcpp.com/2018/06/26/variadic-crtp-packs-from-opt-in-skills-to-opt-in-skillsets/
 https://www.fluentcpp.com/2018/06/22/variadic-crtp-opt-in-for-class-features-at-compile-time/
 2017
 http://www.fluentcpp.com/2017/05/12/curiously-recursive-template-pattern/

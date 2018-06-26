@@ -12,7 +12,7 @@ https://habrahabr.ru/company/mailru/blog/333862/
 
 2018
 Sarkar - Practical ML with Python
-  https://vk.com/doc44301783_464701026
+    https://vk.com/doc44301783_464701026
 Albon - Machine Learning with Python Cookbook
 Kruk - Practical Python AI Projects
 
@@ -25,6 +25,8 @@ Bonaccorzo - Machine Learning Algorithms
 https://jakevdp.github.io/PythonDataScienceHandbook/
 Brink - Real-World Machine Learning ru
 https://vk.com/doc247540843_456982697
+Joshi - Artificial Intelligence with Python
+    https://vk.com/doc182314867_467597874
 
 2014:
 Sutton - Reinforcement Learning
