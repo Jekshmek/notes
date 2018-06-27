@@ -1,6 +1,10 @@
+2018
+https://gsquire.github.io/static/post/a-rusty-go-at-channels/
 https://matklad.github.io/2018/03/02/stopping-a-rust-worker.html
+2017
+http://www.pypython.site/2017/02/cross-thread-communication-with.html
 https://stjepang.github.io/2017/08/13/designing-a-channel.html
 
-MPSC:
+MPSC
 https://static.rust-lang.org/doc/master/std/sync/mpsc/index.html
 https://blog.softwaremill.com/multithreading-in-rust-with-mpsc-multi-producer-single-consumer-channels-db0fc91ae3fa

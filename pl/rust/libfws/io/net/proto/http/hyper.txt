@@ -18,5 +18,6 @@ http://seanmonstar.com/post/172531530657/http-upgrades-with-hyper
 
 whatsnew
 2018
+http://seanmonstar.com/post/175280388657/better-http-upgrades-with-hyper
 http://seanmonstar.com/post/174480374517/hyper-v012
     https://www.reddit.com/r/rust/comments/8nwbbg/hyper_v012_released/
