@@ -31,9 +31,7 @@ https://nmotw.in/
 
 Video
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Ivanov - learning math at school                    -   24:00 (of   44:39)
-    https://www.youtube.com/watch?v=4fDsgYHlZdU
-Kazakova - mezhdisciplinar
+Kazakova - mezhdisciplinar                          -   03:00 (of 1:38:49)
     https://www.youtube.com/watch?v=0_tTwSkv4sc
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
@@ -43,8 +41,8 @@ Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Arnold - about american math
-    https://www.youtube.com/watch?v=-TlqQjmTLH4
+Ivanov - EGE                                        -   15:00 (of 1:11:29)
+    https://www.youtube.com/watch?v=0GNfJut-dyo
 Savvateev - Brexit
     https://www.youtube.com/watch?v=riF7GLRzg90
 
@@ -62,7 +60,7 @@ Paschenko - Game 2 - 7                              -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 22                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 33                                      -   00:00 (of)
+Sorokin - B 34                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Chernyak - 22 of 34                                 -   35:00 (of 2:04:28)
     https://www.youtube.com/watch?v=bhAlJMl6gb8
@@ -81,6 +79,8 @@ https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
+https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
+https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 
 https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
 https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
@@ -92,8 +92,8 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 239
-Razbor Poletov                                      - 164
+This week in rust                                   - 240
+Razbor Poletov                                      - 165 01:00 (of 31:52)
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
