@@ -14,13 +14,13 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
 https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
-Shalyto - motivation - 012 of 873p
+Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
 http://reactjsnewsletter.com/issues
 ? react kung-fu
-scoop - k
+scoop - m
     https://github.com/lukesampson/scoop/tree/master/bucket
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
@@ -60,27 +60,30 @@ Ivliev - 22                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 34                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
-Chernyak - 22 of 34                                 -   35:00 (of 2:04:28)
+Horuzhiy - 2                                        -   00:00 (of)
+    https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
+Osipov - 2                                          -   00:00 (of)
+    https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
+Chernyak - 22 of 34                                 - 1:54:00 (of 2:04:28)
     https://www.youtube.com/watch?v=bhAlJMl6gb8
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
+https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
+https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
-https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
-https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 
-https://blog.predanie.ru/article/kak-hristianstvo-lechit-pro-voobrazhenie-pamyat-i-povedenie/
 https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -117,4 +120,4 @@ clear at D:/Temp
     jna*.dll
     snappy*
 
-Razumov Alexey
+Razumov Alexey Sergeevich
