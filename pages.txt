@@ -1,6 +1,4 @@
 http://projects.spring.io/spring-cloud/
-Soshin - Hands-on Design Patterns with Kotlin
-https://tezfiles.com/file/15e20c6811f95
 
 URLs
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
@@ -10,7 +8,7 @@ https://habr.com/company/philtech/blog/414499/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Heavy Hitters: Count-Min Sketch
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 24
+    Jun 28
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -102,7 +100,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Chinnathambi - 2018 - Learning React 2nd ed         - ch13 of 20
+Chinnathambi - 2018 - Learning React 2nd ed         - ch16 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
