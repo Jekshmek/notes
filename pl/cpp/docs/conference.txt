@@ -2,6 +2,7 @@
 CppNow
 https://github.com/boostcon/cppnow_presentations_2018
 https://www.youtube.com/playlist?list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH
+https://www.youtube.com/playlist?list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE
 
 2017
 CppNow
