@@ -3,3 +3,5 @@ https://ibob.github.io/dynamix/
 
 2018
 https://www.codeproject.com/Articles/1229971/The-Interface-to-Component-Pattern-and-DynaMix
+Stanimirov - DynaMix: A New Take on Polymorphism
+https://www.youtube.com/watch?v=-s0zYXGCfJk

@@ -79,6 +79,9 @@ rustup
         add
             rust-src
                 -> ~/.rustup/toolchains/<your-toolchain>/lib/rustlib/src/rust/src
+            llvm-tools
+                https://internals.rust-lang.org/t/llvm-tools-a-new-rustup-component-for-binary-inspection-objdump-nm-size-and-profiling-profdata/7830
+                llvm-nm, objcopy, objdump, profdata, size
             rustfmt-preview
             rustc
             rust-std

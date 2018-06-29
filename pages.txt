@@ -8,7 +8,7 @@ https://habr.com/company/philtech/blog/414499/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Heavy Hitters: Count-Min Sketch
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jun 28
+    Jun 29
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -20,7 +20,7 @@ Shalyto - motivation - 016 of 873p
 track
 http://reactjsnewsletter.com/issues
 ? react kung-fu
-scoop - m
+scoop - n
     https://github.com/lukesampson/scoop/tree/master/bucket
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
@@ -84,7 +84,6 @@ https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slu
 https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 
-https://blog.predanie.ru/article/allergiya-na-mysl-i-ee-posledstviya/
 https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
@@ -94,7 +93,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 240
-Razbor Poletov                                      - 165 01:00 (of 31:52)
+Razbor Poletov                                      - 165
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
