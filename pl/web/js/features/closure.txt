@@ -1,0 +1,3 @@
+2018
+https://proglib.io/p/js-closures-1/
+https://proglib.io/p/js-closures-2/
