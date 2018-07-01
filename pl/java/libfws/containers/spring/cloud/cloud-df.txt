@@ -21,3 +21,7 @@ samples
 https://github.com/spring-cloud/spring-cloud-dataflow-samples
 https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/html/
 https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
+
+whatsnew
+https://spring.io/blog/2018/05/16/spring-cloud-data-flow-1-5-0-released
+https://www.infoq.com/news/2018/06/pivotal-releases-data-flow-1.5
