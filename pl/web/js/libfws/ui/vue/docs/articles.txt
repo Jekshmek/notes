@@ -1,4 +1,5 @@
 2018
+https://blog.bitsrc.io/how-to-build-vue-components-like-a-pro-fd89fd4d524d
 https://habr.com/post/358766/
 Evan You - Interview
 https://habr.com/post/350290/
