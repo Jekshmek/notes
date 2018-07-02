@@ -25,6 +25,7 @@ https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/
 
 articles
 2018
+https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
 https://habr.com/post/354806/
 2017
 https://css-tricks.com/react-dataviz/

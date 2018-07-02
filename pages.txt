@@ -1,4 +1,7 @@
+to upgrade
 http://projects.spring.io/spring-cloud/
+
+
 
 URLs
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
@@ -28,6 +31,8 @@ https://nmotw.in/
     2015
 
 Video
+Migutsky - How MS uses React
+    https://www.youtube.com/watch?v=ZdrnIUgeDAs
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
 Kazakova - mezhdisciplinar                          -   03:00 (of 1:38:49)
     https://www.youtube.com/watch?v=0_tTwSkv4sc

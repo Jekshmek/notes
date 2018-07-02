@@ -1,3 +1,7 @@
+2018
+Lukyanchenko - K8s in local dev
+https://www.youtube.com/watch?v=RRuqzYunXsE
+
 2017
 JavaScriptNinja - Intro to Kubernetes
 https://www.youtube.com/watch?v=L3tgJXsMUTU
