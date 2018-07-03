@@ -50,9 +50,6 @@ mdn <term>
 import
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
-decorators
-https://www.sitepoint.com/javascript-decorators-what-they-are/
-
 const
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 

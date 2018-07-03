@@ -1,0 +1,3 @@
+2018
+https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+https://www.sitepoint.com/javascript-decorators-what-they-are/

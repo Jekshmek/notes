@@ -1,4 +1,5 @@
 2018
+https://www.smashingmagazine.com/2018/07/css-grid-2/
 https://blog.logrocket.com/the-simpletons-guide-to-css-grid-1767565b3cf7
 https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa
 https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
