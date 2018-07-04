@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/jugru/blog/416161/
 https://dzone.com/articles/a-beginners-guide-to-kubernetes
 https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes
 https://www.ibm.com/developerworks/cloud/library/cl-getting-started-docker-and-kubernetes/index.html
