@@ -56,9 +56,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/con
 let
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 
-template literals
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-
 class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 

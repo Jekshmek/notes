@@ -34,6 +34,8 @@ http://qaru.site/questions/1688866/reselect-does-it-ever-make-sense-to-create-a-
 
 presentations
 2017
+Petrov - Reselect
+https://www.youtube.com/watch?v=tg3CRiAMz-s
 http://slides.com/dbashford/redux-reselect-ember-best-pratices#/
 Reselect with Redux and React.js
 https://www.youtube.com/watch?v=6Xwo5mVxDqI

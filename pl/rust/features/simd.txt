@@ -6,4 +6,5 @@ https://github.com/rust-lang-nursery/stdsimd/issues/159
 https://github.com/rust-lang-nursery/simd
 
 2018
+https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3
 https://www.infoq.com/news/2018/06/rust-1.27-simd-support

@@ -19,6 +19,12 @@ https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
     https://medium.com/nuances-of-programming/%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-node-js-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-google-chrome-e4e8ecf9305e
 
+presentations
+2017
+Uvarov - Chrome DevTools Overeview
+https://www.youtube.com/watch?v=P753B81-szE
+    http://s.csssr.ru/U31J879TR/DevtoolsOverview.pdf
+
 whatsnew
 https://www.youtube.com/watch?v=4EdPq9Nw6uI
 https://developers.google.com/web/updates/2018/05/devtools

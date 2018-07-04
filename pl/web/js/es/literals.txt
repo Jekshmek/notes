@@ -1,0 +1,7 @@
+object literals
+2018
+https://www.sitepoint.com/es6-enhanced-object-literals/
+    https://habr.com/company/ruvds/blog/414377/
+
+template literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals

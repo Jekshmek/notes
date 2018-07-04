@@ -35,6 +35,9 @@ ReactJS - profi secrets ru
 https://www.youtube.com/watch?v=BMp23VvkTVM
 
 2017
+CSSSR - CSSSR Shorts. React
+https://www.youtube.com/playlist?list=PLLtDv0NfxtZxP4kESksdaHyN3ss4nsONz
+    https://habr.com/post/346728/
 Academind - React - Getting Started
 https://www.youtube.com/watch?v=pgAvVxowaYU
 Kirupa - Introducing React
