@@ -1,5 +1,7 @@
 PureComponents
 https://habr.com/company/redmadrobot/blog/318222/
+    Used to avoid render without any prop/state change
+    But performs only shallow comparison
 
 HOC - Higher Order Components
 https://reactjs.org/docs/higher-order-components.html
