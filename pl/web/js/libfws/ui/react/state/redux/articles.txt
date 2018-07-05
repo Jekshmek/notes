@@ -1,4 +1,5 @@
 2018
+https://www.smashingmagazine.com/2018/07/redux-designers-guide/
 https://auth0.com/blog/redux-practical-tutorial/
 https://maxpfrontend.ru/perevody/redux-esche-ne-umer/
 https://scotch.io/bar-talk/getting-started-with-redux-an-intro
