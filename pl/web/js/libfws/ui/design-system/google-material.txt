@@ -51,3 +51,7 @@ https://habr.com/company/mailru/blog/358246/
 other stuff
 https://propeller.in/
 https://github.com/digicorp/propeller
+
+samples
+https://github.com/creativetimofficial/material-dashboard
+https://demos.creative-tim.com/material-dashboard/examples/dashboard.html
