@@ -4,6 +4,10 @@ https://tools.ietf.org/html/rfc6750
 wiki:
 https://en.wikipedia.org/wiki/OAuth
 
+books
+2017
+Richer - OAuth2 in Action
+
 presentations
 2017
 Tran - Beyond OAuth2
