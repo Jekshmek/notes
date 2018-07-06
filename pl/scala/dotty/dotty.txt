@@ -1,10 +1,12 @@
 https://www.reddit.com/r/scala/comments/3nd4cr/dotty_exploring_the_future_of_scala/
 http://scalaworld2015.d-d.me/#/
 
-articles:
+articles
+2018
+https://github.com/dotty-staging/dotty/blob/add-transparent/docs/docs/typelevel.md
 https://habrahabr.ru/post/330112/
 
-presentations:
-2017:
+presentations
+2017
 Petrashko - Dotty is coming
 https://www.youtube.com/watch?v=APUmcQM1IpU
