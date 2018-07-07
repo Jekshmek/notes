@@ -21,10 +21,10 @@ https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend
 
 2018
+Chinnathambi - Learning React 2nd ed (readen)
 Boduch - React 16 Tooling
 SO - React Book
     http://books.goalkicker.com/ReactJSBook/
-!!! Chinnathambi - Learning React 2nd ed
 Tsonev - React in Patterns
     https://krasimir.gitbooks.io/react-in-patterns/
     https://legacy.gitbook.com/book/krasimir/react-in-patterns/details
@@ -33,8 +33,9 @@ Singh - Serverless Web Applications with React and Firebase
 Hinkula - Hands-On Full Stack Development with Spring Boot 2 and React
 
 2017
-Boduch - React 16 Essentials 2nd ed
+Boduch - React 16 Essentials 2nd ed (readen)
     https://github.com/PacktPublishing/React-Essentials-Second-Edition
 !!! (big) Accomazzo - Fullstack React
 Banks - Learning React
 Bertoli - React Design Patterns and Best Practices
+Accomazzo - Fullstack React (will not read)
