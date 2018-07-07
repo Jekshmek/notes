@@ -9,7 +9,7 @@ https://habr.com/company/philtech/blog/414499/
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
     Heavy Hitters: Count-Min Sketch
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jul 6
+    Jul 7
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -87,8 +87,6 @@ https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slu
 https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 
-https://blog.predanie.ru/article/ot-viny-k-svobode-master-klass/
-https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 shallar
@@ -115,11 +113,9 @@ OpenSSL Cookbook                                    - 29 (of 58)
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-need: 66, 69-74, 90-
-have: 75,78,79,80,84-89
+need: 66, 69-74, 91-
+have: 75,78,79,80,84-90
 
 clear at D:/Temp
     jna*.dll
     snappy*
-
-Razumov Alexey Sergeevich
