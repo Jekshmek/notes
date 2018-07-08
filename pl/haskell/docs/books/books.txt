@@ -1,4 +1,6 @@
 http://books.goalkicker.com/HaskellBook/
 
+2018
+http://reasonablypolymorphic.com/blog/book-of-types/index.html
 2016
 Thomasson - Haskell High Performance Programming
