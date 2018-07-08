@@ -1,2 +1,3 @@
 2018
+https://proglib.io/p/json-tokens/
 https://dzone.com/articles/stop-using-jwts-as-session-tokens
