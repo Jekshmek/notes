@@ -7,3 +7,10 @@ https://stackoverflow.com/questions/34521797/how-to-add-multiple-classes-to-a-re
 articles
 2016
 https://jobs.zalando.com/tech/blog/a-closer-look-at-the-classnames-npm-package
+
+samples
+{ 
+    ...
+    [someVar]: true
+    ...
+}

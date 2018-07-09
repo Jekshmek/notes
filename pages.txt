@@ -21,7 +21,7 @@ Shalyto - motivation - 016 of 873p
 track
 http://reactjsnewsletter.com/issues
 ? react kung-fu
-scoop - n
+scoop - o
     https://github.com/lukesampson/scoop/tree/master/bucket
 http://reactjsnewsletter.com/issues/117
 https://frontendfoc.us/issues/340
@@ -57,7 +57,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 7                              -   00:00 (of)
+Paschenko - Game 2 - 8                              -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 22                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
@@ -94,7 +94,8 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 241
-Razbor Poletov                                      - 165
+Razbor Poletov                                      - 166 25:00 (of 1:13:57)
+    http://traffic.libsyn.com/razborpoletov/razbor_166.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
 Series

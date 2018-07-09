@@ -1,4 +1,5 @@
 https://developers.google.com/web/tools/chrome-devtools/javascript/
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 https://www.youtube.com/watch?v=H0XScE08hy8
 devtool (? obsolete)
 

@@ -1,8 +1,14 @@
 https://fonts.google.com/?selection.family=Source+Code+Pro
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "SourceCodePro-Medium",
     "editor.fontSize": 18
+    "editor.fontFamily": "SourceCodePro-Medium",
+}
+
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
 }
 
 Change Background Color

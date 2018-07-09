@@ -1,0 +1,2 @@
+2018
+https://medium.freecodecamp.org/javascripts-var-let-and-const-variables-explained-with-a-story-2038e3c6b2f9
