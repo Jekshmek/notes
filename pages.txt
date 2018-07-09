@@ -94,7 +94,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 241
-Razbor Poletov                                      - 166 25:00 (of 1:13:57)
+Razbor Poletov                                      - 166 55:00 (of 1:13:57)
     http://traffic.libsyn.com/razborpoletov/razbor_166.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
