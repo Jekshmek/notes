@@ -27,10 +27,3 @@ top-level component is [not-visual] acts likes a controller
 
 Flux is a save 3-weel MVC
 one-way events is a normal, non-revolutional
-
-restate
-https://github.com/thekashey/restate
-https://habrahabr.ru/post/346116/
-
-undo-history
-https://redux.js.org/recipes/implementing-undo-history
