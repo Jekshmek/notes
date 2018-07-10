@@ -39,3 +39,4 @@ Boduch - React 16 Essentials 2nd ed (readen)
 Banks - Learning React
 Bertoli - React Design Patterns and Best Practices
 Accomazzo - Fullstack React (will not read)
+Fischer - React for Real (will not read - too short and simple)
