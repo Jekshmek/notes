@@ -1,0 +1,7 @@
+http://qiao.github.io/PathFinding.js/visual/
+https://github.com/qiao/PathFinding.js
+
+2018
+https://habr.com/post/416737/
+2017
+https://habr.com/post/331192/

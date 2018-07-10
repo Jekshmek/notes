@@ -54,6 +54,7 @@ api-guidelines
 https://rust-lang-nursery.github.io/api-guidelines/
 https://github.com/rust-lang-nursery/api-guidelines
 
+
 Published
 Kaihlavirta - Mastering Rust
 https://www.packtpub.com/application-development/mastering-rust
@@ -61,11 +62,10 @@ Gomez - Rust Programming by Example
 https://www.packtpub.com/application-development/rust-programming-example
 Chanda - Network Programming with Rust
 https://www.packtpub.com/application-development/network-programming-rust
+
+2018
+Klabnik - The Rust Programming Language
+Milanesi - Beginning Rust
+Gomez - Rust Programming by Example (Gamedev)
 2017
 Blandy - Programming Rust
-2018
-Milanesi - Beginning Rust
-
-GameDev
-2018
-Gomez - Rust Programming by Example
