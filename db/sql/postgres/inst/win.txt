@@ -1,4 +1,8 @@
-inst-win:
+https://github.com/lukesampson/scoop/blob/master/bucket/postgresql.json
+scoop
+    postgresql
+
+inst-win
 https://www.postgresql.org/download/windows/
 
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads

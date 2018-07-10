@@ -1,1 +1,6 @@
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+articles
+2018
+https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
+    https://habr.com/company/ruvds/blog/416539/
