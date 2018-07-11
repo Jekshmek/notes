@@ -19,6 +19,8 @@ http://cthorey.github.io/backprop_conv/
 http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/
 http://www.simon-hohberg.de/2014/10/10/conv-net.html
 http://soumith.ch/ex/pages/2014/08/07/why-rotate-weights-convolution-gradient/
+http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+    https://habr.com/post/416777/
 
 presentations
 2018

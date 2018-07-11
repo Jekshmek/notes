@@ -1,5 +1,6 @@
 2018
 https://habr.com/post/354486/
+https://habr.com/company/itsumma/blog/416629/ (kafka vs rabbit)
 
 2016
 https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026

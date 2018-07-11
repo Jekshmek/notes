@@ -27,8 +27,6 @@ https://www.reddit.com/r/cpp/comments/3kkgfz/why_rust_brief_introduction_but_goo
 http://feederio.com/book/46/why-rust
 http://feederio.com/files/book/14853357981385_30cfdedd0fe9372c2505f762cb70d575.pdf
 
-Kaihlarita
-2017 - Mastering Rust
 
 Porting Cpp to Rust:
 https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/
@@ -69,3 +67,5 @@ Milanesi - Beginning Rust
 Gomez - Rust Programming by Example (Gamedev)
 2017
 Blandy - Programming Rust
+Kaihlarita - Mastering Rust
+Johnson - Learning Rust

@@ -1,0 +1,2 @@
+2018
+https://medium.com/@ibosz/mocking-static-method-in-kotlin-614df89482ae

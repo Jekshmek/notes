@@ -1,0 +1,6 @@
+2018
+https://medium.com/openmindonline/state-of-the-art-in-css-a-closer-look-at-css-architecture-systems-544339a6c625
+    http://jem-space.ru/urovien-razvitiia-v-css-pristalnyi-vzghliad-na-css-arkhitiektury/
+
+2013
+https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/
