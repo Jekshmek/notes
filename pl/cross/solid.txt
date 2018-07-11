@@ -2,3 +2,5 @@ https://stackify.com/solid-design-principles/
 https://stackify.com/solid-design-open-closed-principle/
 https://stackify.com/solid-design-liskov-substitution-principle/
 https://stackify.com/interface-segregation-principle/
+
+https://stackify.com/dependency-inversion-principle/

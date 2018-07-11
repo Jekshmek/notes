@@ -1,0 +1,2 @@
+https://www.javascriptstuff.com/react-starter-projects/
+https://reactjs.org/community/starter-kits.html
