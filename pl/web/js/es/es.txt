@@ -52,9 +52,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
-arrow functions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
 proxy
 https://www.atyantik.com/proxy-javascript-es6-feature/
     https://habr.com/company/ruvds/blog/359060/

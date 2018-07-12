@@ -5,3 +5,4 @@ https://github.com/kirjavascript/snake-rs
 https://xuu.github.io/wasm-tetris/
 https://github.com/xuu/wasm-tetris
 https://joshleeb.com/posts/rust-wasm-snowhash/
+https://github.com/viftodi/wasm_val

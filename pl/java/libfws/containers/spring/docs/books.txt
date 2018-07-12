@@ -1,3 +1,6 @@
 http://goalkicker.com/SpringFrameworkBook/
 
 Kunjumohamed - Spring Essentials
+
+2018
+Dewailly - Building RESTful Web Services 2nd ed
