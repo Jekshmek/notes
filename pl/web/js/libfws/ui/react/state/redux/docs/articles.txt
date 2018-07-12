@@ -1,4 +1,5 @@
 2018
+https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da
 https://www.smashingmagazine.com/2018/07/redux-designers-guide/
 https://auth0.com/blog/redux-practical-tutorial/
 https://maxpfrontend.ru/perevody/redux-esche-ne-umer/

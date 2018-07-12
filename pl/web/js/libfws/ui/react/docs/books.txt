@@ -16,6 +16,8 @@ https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
 https://developmentarc.gitbooks.io/react-indepth/content/
 https://www.gitbook.com/book/developmentarc/react-indepth/details
 
+https://vasanthk.gitbooks.io/react-bits/
+
 translate ru
 https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend

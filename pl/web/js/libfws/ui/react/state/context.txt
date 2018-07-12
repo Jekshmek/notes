@@ -1,6 +1,7 @@
 https://reactjs.org/docs/context.html
 
 2018
+https://medium.com/@thehappybug/using-react-context-in-a-typescript-app-c4ef7504c858
 https://medium.com/@v.cibizov/new-react-context-560e7a40497f
 https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b
 https://css-tricks.com/digging-into-react-context/

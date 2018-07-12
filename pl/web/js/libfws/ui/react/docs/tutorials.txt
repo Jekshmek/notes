@@ -6,7 +6,11 @@ https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 
 https://github.com/lex111/react-from-zero
 
+https://reactarmory.com/guides/learn-react-by-itself/react-basics
+http://buildwithreact.com/tutorial
+
 2018
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 https://www.valentinog.com/blog/react-redux-tutorial-beginners/
 https://www.valentinog.com/blog/react-webpack-babel/
 

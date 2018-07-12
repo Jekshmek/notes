@@ -4,3 +4,5 @@ Kunjumohamed - Spring Essentials
 
 2018
 Dewailly - Building RESTful Web Services 2nd ed
+2017
+Balachandar - RESTful Java Web Services 3rd ed

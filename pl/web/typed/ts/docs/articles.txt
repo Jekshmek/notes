@@ -1,0 +1,4 @@
+2018
+https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e
+https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
+https://hackernoon.com/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842
