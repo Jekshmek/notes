@@ -7,7 +7,7 @@ https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
-    Heavy Hitters: Stream-Summary
+    Range Query: Array of Count-Min Sketches
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Jul 7
 https://ru-bykov.livejournal.com/3187176.html
@@ -48,8 +48,6 @@ Savvateev - Brexit
     https://www.youtube.com/watch?v=riF7GLRzg90
 
 Lit
-Bykov                                               - 1:15:00 (of 1:45:37)
-    https://cdn.echo.msk.ru/snd/2018-07-06-odin-0005.mp3
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -72,21 +70,24 @@ Osipov - 2                                          -   00:00 (of)
 Chernyak - 22 of 34                                 - 1:54:00 (of 2:04:28)
     https://www.youtube.com/watch?v=bhAlJMl6gb8
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
+Vodolazkin                                          -   01:00 (of 1:37:36)
+    https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
+Sizonenko                                           -   01:00 (of 1:26:43)
+    https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
+https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
+https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
 https://predanie.ru/rozenblyum-evgeniy/vtoroy-vatikanskiy-sobor-k-chemu-stremilis-i-chto-poluchilos/slushat/
 https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
-https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://predanie.ru/isemin-andrey/domashnee-nasilie-daleko-ili-blizko-dadim-seme-shans/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
-https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/

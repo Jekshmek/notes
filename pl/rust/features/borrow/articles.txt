@@ -1,6 +1,10 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
-2017:
+2018
+https://medium.com/@thomascountz/ownership-in-rust-part-2-c3e1da89956e
+https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b
+
+2017
 https://medium.com/journey-to-rust/the-ownership-c6be05e929c7
 https://medium.com/journey-to-rust/ownership-slices-part-2-195535334380
 

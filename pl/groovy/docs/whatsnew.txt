@@ -1,0 +1,4 @@
+http://groovy-lang.org/releasenotes/
+
+http://groovy-lang.org/releasenotes/groovy-2.5.html
+https://www.infoq.com/news/2018/07/apache-releases-groovy-2.5
