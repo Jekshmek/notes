@@ -1,4 +1,5 @@
 2018
+https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/
 https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
 
 2017

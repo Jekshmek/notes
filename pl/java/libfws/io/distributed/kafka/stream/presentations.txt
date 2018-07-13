@@ -1,0 +1,3 @@
+2017
+Bogoevici - Kafka Streams - From the Ground Up to the Cloud
+https://www.youtube.com/watch?v=B618M_7RiJg

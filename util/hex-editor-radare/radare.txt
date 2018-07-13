@@ -3,3 +3,6 @@ http://radare.nopcode.org/y/?p=features
 https://github.com/radare/radare2
 
 https://habrahabr.ru/company/pentestit/blog/339264/
+
+scoop
+    radare2

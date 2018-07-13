@@ -18,3 +18,6 @@ https://github.com/rethinkdb/rethinkdb
 https://rethinkdb.com/blog/rethinkdb-shutdown/
 http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html
 https://gist.github.com/coffeemug/af8dcb6f653a7f9c31daedbbdaa3402c
+
+scoop
+    rethinkdb

@@ -7,9 +7,9 @@ https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
-    Range Query: Array of Count-Min Sketches
+    Membership Query: Bloom Filter
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jul 7
+    Jul 13
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -19,14 +19,8 @@ Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
-http://reactjsnewsletter.com/issues
-? react kung-fu
-scoop - q
+scoop - s
     https://github.com/lukesampson/scoop/tree/master/bucket
-http://reactjsnewsletter.com/issues/117
-https://frontendfoc.us/issues/340
-https://nmotw.in/
-    2015
 
 Video
 Migutsky - How MS uses React
@@ -48,6 +42,8 @@ Savvateev - Brexit
     https://www.youtube.com/watch?v=riF7GLRzg90
 
 Lit
+Bykov                                               - 1:40:00 (of 2:38:11)
+    https://cdn.echo.msk.ru/snd/2018-07-12-odin-2305.mp3
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -72,9 +68,8 @@ Chernyak - 22 of 34                                 - 1:54:00 (of 2:04:28)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Vodolazkin                                          -   01:00 (of 1:37:36)
     https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
-Sizonenko                                           -   01:00 (of 1:26:43)
-    https://predanie.ru/dimitriy-sizonenko-protoierey/otkuda-v-hristianstve-svyaschenniki/slushat/
-https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
+Sizonenko                                           -   00:00 (of)
+    https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -89,6 +84,7 @@ https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
+https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
@@ -106,7 +102,6 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Chinnathambi - 2018 - Learning React 2nd ed         - ch20 of 20
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
