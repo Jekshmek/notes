@@ -1,6 +1,8 @@
 tokio-process
 https://github.com/alexcrichton/tokio-process/pull/1
 
+https://docs.rs/tokio-io-pool
+
 futures
 https://www.coredump.ch/2017/07/05/understanding-the-tokio-reactor-core/
 
