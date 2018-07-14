@@ -1,5 +1,7 @@
-to upgrade
-http://projects.spring.io/spring-cloud/
+https://github.com/kailashahirwar/cheatsheets-ai
+https://proglib.io/p/python-youtube/
+https://github.com/lex111/react-from-zero
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 URLs
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html

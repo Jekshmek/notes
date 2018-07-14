@@ -1,3 +1,5 @@
+http://cs231n.github.io/gce-tutorial/
+
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm
 p2:
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfGVb3yucqvKtUgwOJgZWCm

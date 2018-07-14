@@ -23,6 +23,7 @@ https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend
 
 2018
+? Thomas - React in Action
 Chinnathambi - Learning React 2nd ed (readen)
 Boduch - React 16 Tooling
 SO - React Book
