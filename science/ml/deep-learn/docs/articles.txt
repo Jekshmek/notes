@@ -1,4 +1,5 @@
 2018
+https://proglib.io/p/deep-learning-tricks/
 applied deep learning
 https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
 https://towardsdatascience.com/applied-deep-learning-part-2-real-world-case-studies-1bb4b142a585
