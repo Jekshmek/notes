@@ -34,6 +34,7 @@ Tsonev - React in Patterns
     http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 Singh - Serverless Web Applications with React and Firebase
 Hinkula - Hands-On Full Stack Development with Spring Boot 2 and React
+Wieruch - The Road to learn React (will not read)
 
 2017
 Boduch - React 16 Essentials 2nd ed (readen)

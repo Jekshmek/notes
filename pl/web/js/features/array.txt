@@ -10,3 +10,6 @@ reducers
 https://css-tricks.com/understanding-the-almighty-reducer/
     http://adripofjavascript.com/blog/drips/boiling-down-arrays-with-array-reduce.html
 https://www.youtube.com/watch?v=-LFjnY1PEDA
+
+.of(...)
+
