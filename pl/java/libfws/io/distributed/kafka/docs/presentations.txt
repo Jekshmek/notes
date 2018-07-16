@@ -3,6 +3,9 @@ https://www.youtube.com/channel/UCmZz-Gj3caLLzEWBtbYUXaA/videos
 Kafka Summit 2017:
 https://www.youtube.com/watch?v=ySf7bDBHRUQ
 
+2018
+Waehner - Introduction to Apache Kafka as Event-Driven Open Source Streaming Platform
+https://www.youtube.com/watch?v=OXLABLRNuzI
 2017
 Ward - Introduction to Apache Kafka
 https://www.youtube.com/watch?v=UEg40Te8pnE

@@ -1,6 +1,7 @@
 https://medium.com/web-standards/regarding-broken-promise-of-web-components-385d63de4959
 
 2018
+https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/
 https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/
 https://habr.com/post/414905/
 https://habr.com/post/349366/

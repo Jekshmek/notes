@@ -5,6 +5,7 @@ https://github.com/kotlintest/kotlintest/blob/master/doc/reference.md
 
 articles
 2018
+https://proandroiddev.com/data-driven-testing-with-kotlintest-a07ac60e70fc
 https://medium.com/@sam_57450/kotlintest-pro-tips-54ce19c32c68
 
 

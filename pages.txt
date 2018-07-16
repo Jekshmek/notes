@@ -8,10 +8,8 @@ https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
-https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/
-    Membership Query: Bloom Filter
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jul 13
+    Jul 16
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -104,6 +102,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
+Wieruch - Taming the State in React                 - 005..17..39..45 of 265
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
