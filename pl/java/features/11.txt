@@ -1,2 +1,3 @@
 2018
+https://dzone.com/articles/getting-ready-for-java-11
 http://marxsoftware.blogspot.com/2018/07/new-jdk-11-string-methods.html

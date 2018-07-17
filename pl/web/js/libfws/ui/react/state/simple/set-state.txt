@@ -1,0 +1,1 @@
+The update functionality with this.setState() is performing a shallow merge of objects

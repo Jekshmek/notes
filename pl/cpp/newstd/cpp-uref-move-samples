@@ -1,3 +1,6 @@
+2018
+https://www.fluentcpp.com/2018/07/17/how-to-construct-c-objects-without-making-copies/
+
 From Meyers:
 std::move    is an unconditional cast to r-val
   the better name for std::move will be rvalue_cast

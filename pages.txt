@@ -19,7 +19,7 @@ Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
-scoop - s
+scoop - u
     https://github.com/lukesampson/scoop/tree/master/bucket
 
 Video
@@ -42,8 +42,8 @@ Savvateev - Brexit
     https://www.youtube.com/watch?v=riF7GLRzg90
 
 Lit
-Bykov                                               - 1:55:00 (of 2:38:11)
-    https://cdn.echo.msk.ru/snd/2018-07-12-odin-2305.mp3
+Bykov - Gogol                                       -   00:00 (of 1:32:06)
+    https://yadi.sk/d/g4XsD9h43ZEs3E
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -53,9 +53,9 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 8                              -   00:00 (of)
+Paschenko - Game 2 - 9                              -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 23                                         -   00:00 (of)
+Ivliev - 24                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 35                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -93,7 +93,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 242
-Razbor Poletov                                      - 168
+Razbor Poletov                                      - 169
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
@@ -102,7 +102,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 005..17..39..45 of 265
+Wieruch - Taming the State in React                 - 010..17..39..45 of 265
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
