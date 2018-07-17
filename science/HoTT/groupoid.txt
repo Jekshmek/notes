@@ -7,6 +7,8 @@ https://mokum.place/5ht
 https://github.com/groupoid/infinity
 http://groupoid.space/mltt/types/
 
+t.me/systemflow
+
 exe:
 https://github.com/groupoid/exe/blob/master/doc/
     proposal.pdf
