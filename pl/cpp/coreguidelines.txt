@@ -14,3 +14,9 @@ https://www.youtube.com/watch?v=XkDEzfpdcSg
 ms
 https://docs.microsoft.com/en-us/visualstudio/code-quality/code-analysis-for-cpp-corecheck
 https://docs.microsoft.com/en-au/visualstudio/code-quality/using-the-cpp-core-guidelines-checkers
+
+lifetime
+https://www.reddit.com/r/cpp/comments/8zle4k/current_state_of_the_lifetime_checker/
+https://github.com/duneroadrunner/misc/blob/master/lifetime%20checker%20observations%20-%20Jun%202018.md
+https://github.com/duneroadrunner/misc/blob/master/201/8/Jul/implications%20of%20the%20lifetime%20checker%20restrictions.md
+https://reviews.llvm.org/D15032

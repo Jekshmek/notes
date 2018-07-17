@@ -2,9 +2,13 @@ https://github.com/pypa/pipenv
 
 https://docs.pipenv.org/
 
+https://docs.pipenv.org/install/
 aur
     python-pipenv
     python2-pipenv
+$ curl https://raw.githubusercontent.com/kennethreitz/pipenv/master/get-pipenv.py | python
+$ pip install --user pipenv
+$ pip install --user --upgrade pipenv
 
 articles
 https://www.kennethreitz.org/essays/a-better-pip-workflow
