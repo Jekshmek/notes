@@ -48,3 +48,6 @@ https://habr.com/post/354632/
 https://hub.docker.com/r/kylemanna/openvpn/
 https://github.com/kylemanna/docker-openvpn
 https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
+
+misc
+max-routes 1000 # --max-routes 500
