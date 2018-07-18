@@ -1,8 +1,2 @@
 https://stylable.io/
-https://stylable.io/docs/get-started
-
-https://github.com/wix/stylable
-
-articles
-2017
-https://24ways.org/2017/styling-components-typed-css-with-stylable/
+https://stylable.io/docs/getting-started/react-integration

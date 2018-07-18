@@ -8,6 +8,7 @@ https://reactjs.org/docs/higher-order-components.html
 
 articles
 2018
+https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0
 https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d
 https://css-tricks.com/what-are-higher-order-components-in-react/
 https://blog.kentcdodds.com/updated-advanced-react-component-patterns-51c34b44b1df
