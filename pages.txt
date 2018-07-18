@@ -91,7 +91,7 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 242
+This week in rust                                   - 243
 Razbor Poletov                                      - 169
 http://accu.org/index.php/journals/c78/             - 145
 

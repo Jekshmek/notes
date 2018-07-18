@@ -7,6 +7,8 @@ Elijah Manor - misc modern react stuff
 https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw/playlists
 
 2018
+Ayub - Building Scalable, Maintainable Apps Using TypeScript and React
+    https://www.youtube.com/watch?v=3ZbYCtnwPsY
 LevelUpTuts - Level 2 React (incl new react features)
 https://www.youtube.com/watch?v=0qqzUXdGGX4
 https://www.youtube.com/watch?v=x5oiX93DeHA

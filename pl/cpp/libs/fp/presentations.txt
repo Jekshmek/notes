@@ -1,4 +1,7 @@
 2018
+Alexandrescu - expect the expected
+    https://cppeurope.com/wp-content/uploads/2018/02/Andrei_Alexandrescu_Expect_the_expected_slides.pdf
+    https://www.youtube.com/watch?v=nVzgkepAg5Y
 Cukic - Functional Programming - Data
 https://www.youtube.com/watch?v=iYipZw4tS-A
 

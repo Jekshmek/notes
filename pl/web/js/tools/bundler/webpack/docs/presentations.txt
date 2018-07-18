@@ -1,4 +1,6 @@
 2018
+Klug - Introduction to webpack
+    https://www.youtube.com/watch?v=W5JcMQdMexs
 Fabianek - Webpack Quick Tutorial
 https://www.youtube.com/playlist?list=PLxRVWC-K96b3Hm3Wa247lFKtNiyLKS4Q6
 Webpack tutorial for beginners
