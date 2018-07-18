@@ -8,6 +8,8 @@ https://github.com/acdlite/recompose/pull/241
 articles
 2018
 https://habr.com/company/raiffeisenbank/blog/354768/
+2017
+https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 
 samples
 https://jsfiddle.net/samsch/p3vsmrvo/24/
