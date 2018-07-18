@@ -20,7 +20,7 @@ Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
-scoop - u
+scoop - w
     https://github.com/lukesampson/scoop/tree/master/bucket
 
 Video
