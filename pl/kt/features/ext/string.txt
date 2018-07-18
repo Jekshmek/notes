@@ -1,2 +1,7 @@
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-char-sequence/index.html
+
+interpolation
+https://kotlinlang.org/docs/reference/idioms.html#string-interpolation
+2018
+https://medium.com/@june.pravin/kotlin-string-interpolation-gotchas-8ef753dd35c9

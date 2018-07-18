@@ -91,6 +91,8 @@ Stru-ParenIzPreispodney
 Stru-VtoroeNashestvieMarsian
     2018-04-20-odin-0005 (around   45:00)
 Stru-Misc
+    Bykov - Gogol - 1:08:00 (of 1:32:14)
+        https://yadi.sk/d/g4XsD9h43ZEs3E
     2017-04-14-odin-0005
         Banev - about Irony and Zhalost
         VGV - Proisshestvie v Maloi Peshi - lyudi ispytannye irrationalnostiyu
