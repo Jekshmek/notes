@@ -1,4 +1,7 @@
 2018
+!!! ts-support of redux
+https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
+https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d
 https://itnext.io/the-perils-of-using-a-common-redux-anti-pattern-344d778e59da
 https://www.smashingmagazine.com/2018/07/redux-designers-guide/
 https://auth0.com/blog/redux-practical-tutorial/
