@@ -5,6 +5,9 @@ http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 URLs
 https://ru-bykov.livejournal.com/3468986.html
+Mayburd - Fitzherald
+https://ru-bykov.livejournal.com/3469648.html
+https://ru-bykov.livejournal.com/3469922.html
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
