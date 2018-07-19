@@ -3,6 +3,3 @@ https://res.infoq.com/news/2018/05/medium-reactjs-graphql-migration/en/resources
 https://flutter.io/images/homepage/header-illustration.png
 https://www.fpcomplete.com/hubfs/Blog/Access Control Diagram Small.jpg
 https://bitsrc.io/
-
-isometric diagrams
-https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717

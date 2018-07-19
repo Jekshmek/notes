@@ -4,13 +4,14 @@ https://github.com/lex111/react-from-zero
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 URLs
+https://ru-bykov.livejournal.com/3468986.html
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jul 16
+    Jul 19
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
