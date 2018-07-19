@@ -15,3 +15,5 @@ public static <T> T max(
     Collection<? extends T> collection,
     Comparator<? super T> comparator)
 
+2018
+https://habr.com/company/sberbank/blog/416413/

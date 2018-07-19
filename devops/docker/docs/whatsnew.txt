@@ -1,5 +1,7 @@
 https://github.com/docker/docker/blob/master/CHANGELOG.md
 
-2017:
+2018
+http://www.opennet.ru/opennews/art.shtml?num=48988
+2017
 https://www.slideshare.net/Docker/whats-new-in-docker-victor-vieux-docker
 https://www.youtube.com/watch?v=Zq6vkaaxML0
