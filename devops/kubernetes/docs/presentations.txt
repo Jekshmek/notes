@@ -1,4 +1,8 @@
 2018
+Kubernetess Webinars
+https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
+Kubernetes The Easy Way
+https://www.youtube.com/watch?v=kOa_llowQ1c
 Lukyanchenko - K8s in local dev
 https://www.youtube.com/watch?v=RRuqzYunXsE
 

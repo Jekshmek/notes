@@ -1,0 +1,4 @@
+2018
+Severini - Time Travel Debugging in Windows
+https://www.youtube.com/watch?v=NF8IPyBC91U
+https://github.com/italiancpp/itcppcon18/blob/master/Time%20Travel%20Debugging%20-%20Paolo%20Severini.pdf

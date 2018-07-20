@@ -1,6 +1,7 @@
 https://github.com/lukesampson/scoop/wiki/Quick-Start
 https://github.com/lukesampson/scoop/wiki/Quick-Start#installing-scoop-to-custom-directory
 
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies
 set-executionpolicy remotesigned -scope currentuser
 
 [environment]::setEnvironmentVariable('SCOOP','d:\dev\utils\scoop','User')

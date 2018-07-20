@@ -1,2 +1,4 @@
+2018
+https://blog.golang.org/ismmkeynote
 2017
 https://habrahabr.ru/company/mailru/blog/318504/

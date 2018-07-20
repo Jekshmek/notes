@@ -8,6 +8,7 @@ https://github.com/owainlewis/awesome-artificial-intelligence
 https://rushter.com/dsreader/
     https://github.com/rushter/data-science-blogs
 
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 https://unsupervisedmethods.com/
 https://proglib.io/p/learning-ml/
 

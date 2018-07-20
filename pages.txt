@@ -1,8 +1,3 @@
-https://github.com/kailashahirwar/cheatsheets-ai
-https://proglib.io/p/python-youtube/
-https://github.com/lex111/react-from-zero
-http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-
 URLs
 https://ru-bykov.livejournal.com/3468986.html
 Mayburd - Fitzherald
@@ -71,8 +66,6 @@ Chernyak - 23 of 34                                 -   53:00 (of 1:50:46)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Vodolazkin                                          -   01:00 (of 1:37:36)
     https://predanie.ru/vodolazkin-evgeniy-germanovich/aviator-istoriya-rossii-s-vysoty-ptichego-poleta/slushat/
-Sizonenko                                           -   00:00 (of)
-    https://predanie.ru/dimitriy-sizonenko-protoierey/kumran-mezhdu-vethim-i-novym-zavetom/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
 https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
