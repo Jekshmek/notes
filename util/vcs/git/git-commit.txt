@@ -1,9 +1,7 @@
 git commit
     -m <descr>
         -a stage all the previously staged files/content (not including a new files)
-    --ammend
+    --amend
         open the $EDITOR and fix the latest commit message of the previous commit
-    --ammend --no-edit
+    --amend --no-edit
         the same but without editing the latest commont message
-
-

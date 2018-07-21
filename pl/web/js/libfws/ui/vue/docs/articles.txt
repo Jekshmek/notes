@@ -1,4 +1,5 @@
 2018
+https://css-tricks.com/building-renderless-vue-components/
 http://css-live.ru/articles/kak-sozdavat-vue-komponenty-slovno-profi.html
 https://blog.bitsrc.io/how-to-build-vue-components-like-a-pro-fd89fd4d524d
 https://habr.com/post/358766/

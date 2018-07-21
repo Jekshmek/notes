@@ -13,3 +13,8 @@ https://javascriptplayground.com/vscode-go-to-definition-jsx/
 angular
 https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
 https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+
+presentations
+2018
+Building full-stack Node.js web apps with Visual Studio Code
+https://www.youtube.com/watch?v=KkHnAmiegiQ

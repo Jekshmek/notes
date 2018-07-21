@@ -1,0 +1,5 @@
+https://vuejs.org/v2/guide/components-slots.html
+
+2018
+The Trick to Understanding Scoped Slots in Vue.js
+https://www.youtube.com/watch?v=GWdOucfAzTo&t=505s
