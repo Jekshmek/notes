@@ -10,6 +10,7 @@ https://eslint.org/docs/rules/
 
 articles
 2018
+https://habr.com/post/417841/
 https://frontendmayhem.com/writing-your-own-eslint-plugins/
 https://www.robinwieruch.de/react-eslint-webpack-babel/
 2017
