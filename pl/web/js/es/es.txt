@@ -1,12 +1,8 @@
-spec
-https://tc39.github.io/ecma262/
-https://github.com/tc39/ecma262
+2015
+https://babeljs.io/learn-es2015/
 
 http://es6-features.org
 es6 in action
-https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
-https://www.sitepoint.com/es6-proxies/
-https://www.sitepoint.com/es6-symbols-uses/
 
 generators
 https://medium.com/@vkozulya/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D1%85-610a6e904b4e
@@ -53,6 +49,7 @@ class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 proxy
+https://www.sitepoint.com/es6-proxies/
 https://www.atyantik.com/proxy-javascript-es6-feature/
     https://habr.com/company/ruvds/blog/359060/
 
@@ -60,34 +57,9 @@ regexp
 http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/
 
 symbols
+https://www.sitepoint.com/es6-symbols-uses/
 https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
     https://habr.com/company/ruvds/blog/359004/
 
-books
-2018
-http://exploringjs.com/es2018-es2019/toc.html
-Harrison - ECMAScript Cookbook
-2017
-http://exploringjs.com/es6/index.html#toc_ch_iteration
-
-articles
-2018
-https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
-    https://habr.com/company/ruvds/blog/354280/
-https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377
-    https://habr.com/company/ruvds/blog/352128/
-https://www.sitepoint.com/lodash-features-replace-es6/
-https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b
-    https://habrahabr.ru/company/ruvds/blog/353446/
-https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
-    https://habrahabr.ru/company/ruvds/blog/353174/
-
-2015
-https://babeljs.io/learn-es2015/
-
-cheatsheet
-https://devhints.io/es6
-
-books
-2018
-Isaaks - Get Programming with JavaScript Next
+functions
+https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/

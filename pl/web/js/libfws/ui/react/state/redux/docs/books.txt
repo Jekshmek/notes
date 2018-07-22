@@ -3,3 +3,6 @@ Paciansky - Redux Course ru
 https://maxfarseer.gitbooks.io/redux-course-ru/content/
 translations
 https://rajdee.gitbooks.io/redux-in-russian/
+
+2018
+Garreau - Redux in Action
