@@ -2,7 +2,8 @@ http://goalkicker.com/AlgorithmsBook/
 
 2017
 Shen - Programmings - Theorems and Problems ru
-
+2015
+Bhasin - Algorithms - Design and Analysis
 2014
 Dasgupta - Algorithms ru
 Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
