@@ -6,6 +6,7 @@ https://cloud.mail.ru/public/HGh5/M1fj3GoU4
 2017
 McClure - TensorFlow Machine Learning Cookbook
 Geron - Hands-on Machine Learning with Scikit-Learn and TensorFlow
+    https://www.ozon.ru/context/detail/id/144106127/
 Hope - Learning TensorFlow
     https://vk.com/doc4004138_454396687
 Zaccone - Deep Learning with TensorFlow

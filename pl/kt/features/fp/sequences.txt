@@ -1,0 +1,4 @@
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.sequences/-sequence/index.html
+
+2018
+https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/
