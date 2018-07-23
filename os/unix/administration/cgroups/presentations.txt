@@ -1,2 +1,6 @@
+2018
+OtusRu - Linux Containerization Mechanisms
+https://www.youtube.com/watch?v=pSdrcc7n10k
+2015
 Krinking 2015 Linux Container Virtualization Ru
 https://www.youtube.com/watch?v=rJRLZfk3a8U
