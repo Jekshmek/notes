@@ -1,4 +1,5 @@
 2018
+https://blog.scottlogic.com/2018/07/20/wasm-future.html
 http://fitzgeraldnick.com/2018/02/09/wee-alloc.html
 https://habrahabr.ru/post/347804/
 https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb

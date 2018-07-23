@@ -2,6 +2,8 @@ https://developers.google.com/web/tools/lighthouse/
 https://github.com/GoogleChrome/lighthouse
 https://googlechrome.github.io/lighthouse/viewer/
 
+https://developers.google.com/web/fundamentals/performance/rail
+
 articles
 2018
 https://developers.google.com/web/updates/2018/05/lighthouse3

@@ -65,6 +65,7 @@ https://www.packtpub.com/application-development/network-programming-rust
 Klabnik - The Rust Programming Language
 Milanesi - Beginning Rust
 Gomez - Rust Programming by Example (Gamedev)
+Chanda - Network Programming with Rust
 2017
 Blandy - Programming Rust
 Kaihlarita - Mastering Rust

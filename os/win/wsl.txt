@@ -14,5 +14,6 @@ https://binkley.blogspot.com.by/2017/04/wsl-first-experiences.html
 https://github.com/mintty/wsltty
 
 2018
+http://nicothin.pro/page/windows-subsystem-for-linux
 https://habr.com/post/412633/
 https://www.infoq.com/presentations/windows-10-command-line

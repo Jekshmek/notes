@@ -1,4 +1,5 @@
 2018
+https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 https://habr.com/post/416511/
 https://proglib.io/p/react-tutorial/

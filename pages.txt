@@ -1,17 +1,12 @@
-https://habr.com/post/417679/
-
 URLs
 https://ru-bykov.livejournal.com/3468986.html
-Mayburd - Fitzherald
-https://ru-bykov.livejournal.com/3469648.html
-https://ru-bykov.livejournal.com/3469922.html
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jul 21
+    Jul 23
 https://ru-bykov.livejournal.com/3187176.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
