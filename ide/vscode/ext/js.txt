@@ -5,6 +5,15 @@ https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72d
     https://habr.com/company/ruvds/blog/354960/
 https://github.com/Microsoft/vscode-chrome-debug
 
+vscode-js-console-utils
+https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils
+
+es-lint
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+babel
+https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring
+
 react
 https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack
 jsx
