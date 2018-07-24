@@ -1,0 +1,52 @@
+https://reactjs.org/docs/higher-order-components.html
+
+articles
+2018
+https://css-tricks.com/what-are-higher-order-components-in-react/
+2017
+https://www.robinwieruch.de/gentle-introduction-higher-order-components/
+2015
+http://jamesknelson.com/structuring-react-applications-higher-order-components/
+
+
+import React from 'react';
+
+function byArchived(archivedItems) {
+    return function(item) {
+        return !archivedItems.includes(item.id);
+    };
+}
+
+function withArchive(Component) {
+    class WithArchive extends React.Component {
+        constructor(props) {
+            super(props);
+            this.state = {
+                archivedItems: []
+            };
+            this.onArchive = this.onArchive.bind(this);
+        }
+
+        onArchive(id) {
+            const { archivedItems } = this.state;
+            this.setState({
+                archivedItems: [...archivedItems, id]
+            });
+        }
+
+        render() {
+            const { list } = this.props;
+            const { archivedItems } = this.state;
+            const filteredList = list
+                .filter(byArchived(archivedItems));
+
+            return <Component
+                list={filteredList}
+                onArchive={this.onArchive}
+            />
+        }
+    }
+
+    return WithArchive;
+}
+

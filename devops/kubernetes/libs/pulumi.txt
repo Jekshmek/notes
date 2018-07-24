@@ -1,0 +1,15 @@
+https://pulumi.io/
+
+https://github.com/pulumi
+https://github.com/pulumi/examples
+https://github.com/pulumi/examples/tree/master/kubernetes-ts-guestbook
+
+https://pulumi.io/install/
+https://pulumi.io/tour/
+https://pulumi.io/quickstart/aws-containers.html
+https://pulumi.io/quickstart/aws-rest-api.html
+https://pulumi.io/quickstart/aws-ec2.html
+https://pulumi.io/quickstart/aws-extract-thumbnail.html
+https://pulumi.io/reference/
+
+https://app.pulumi.com/welcome

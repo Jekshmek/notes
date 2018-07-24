@@ -1,3 +1,5 @@
+https://habr.com/post/417999/
+
 URLs
 https://ru-bykov.livejournal.com/3468986.html
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
@@ -16,14 +18,14 @@ Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
-scoop - y
-    https://github.com/lukesampson/scoop/tree/master/bucket
+scoop - a
+    https://github.com/lukesampson/scoop-extras
 
 Video
 Migutsky - How MS uses React
     https://www.youtube.com/watch?v=ZdrnIUgeDAs
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Kazakova - mezhdisciplinar                          -   03:00 (of 1:38:49)
+Kazakova - mezhdisciplinar                          - 1:00:00 (of 1:38:49)
     https://www.youtube.com/watch?v=0_tTwSkv4sc
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
@@ -50,7 +52,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 10                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 24                                         -   00:00 (of)
+Ivliev - 25                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 35                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -85,7 +87,7 @@ https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
 This week in rust                                   - 243
-Razbor Poletov                                      - 170 30:00 (of 2:04:31)
+Razbor Poletov                                      - 171
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
@@ -94,13 +96,13 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 33..39..45 of 265
+Wieruch - Taming the State in React                 - 39..45..75..90..119..134..154..158..206..217..224..241..265
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - zakon stai 211.6
+Kantor - Hronika                                    - simple things 216
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

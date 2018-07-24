@@ -37,6 +37,8 @@ https://yarnpkg.com/en/docs/dependencies
     https://yarnpkg.com/en/docs/selective-version-resolutions
 https://yarnpkg.com/en/docs/workspaces
 
+scoop
+    yarn
 community
     yarn
     nodejs

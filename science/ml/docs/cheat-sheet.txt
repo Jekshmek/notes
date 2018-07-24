@@ -10,3 +10,7 @@ https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-a
 https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
 
 https://proglib.io/p/ds-cheatsheets/
+
+2017
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+    https://habr.com/company/nixsolutions/blog/417935/

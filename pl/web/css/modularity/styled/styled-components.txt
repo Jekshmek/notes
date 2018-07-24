@@ -3,7 +3,14 @@ https://github.com/styled-components/styled-components
 
 http://jxnblk.com/styled-system/
 
+critique
+2018
+https://habr.com/post/417707/
+
 presentations
 2018
+Arutyunyan - Styled Components
+https://speakerdeck.com/csssr/styled-components-artalar-react-moscow-meetup-number-4
+https://www.youtube.com/watch?v=eOBz3_mQwo8
 Styled Components For Your React Apps
 https://www.youtube.com/watch?v=pHHsSkkjQns
