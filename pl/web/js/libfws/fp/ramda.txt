@@ -2,7 +2,13 @@ https://ramdajs.com
 https://github.com/ramda/ramda
 https://github.com/ramda/ramda-fantasy
 
+ts-binding
+https://github.com/types/npm-ramda
+
 https://ramdajs.com/docs/
+
+ext
+https://char0n.github.io/ramda-adjunct/
 
 2016
 http://randycoulman.com/blog/categories/thinking-in-ramda/

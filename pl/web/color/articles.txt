@@ -1,4 +1,5 @@
 2018
+https://designpub.ru/%D1%86%D0%B2%D0%B5%D1%82-369ff10ebc89
 https://chris.de/posts/an-algorithm-to-generate-color-palettes/
     https://habr.com/company/mailru/blog/414455/
 https://www.frontamentals.com/guide-to-color/
