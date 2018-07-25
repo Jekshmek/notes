@@ -8,3 +8,7 @@ http://micronaut.io/faq.html
 http://docs.micronaut.io/snapshot/api/
 
 http://micronaut.io/announcement.html
+
+2018
+http://www.baeldung.com/micronaut
+    https://habr.com/post/418117/

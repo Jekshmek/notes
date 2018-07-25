@@ -1,2 +1,3 @@
 2018
+Solis - Illustrated CSharp7 5th ed
 Sarcar - Design Patterns in CSharp
