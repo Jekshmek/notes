@@ -27,3 +27,6 @@ https://github.com/SecurityInsanity/bazled
 
 dlang
 https://github.com/bazelbuild/rules_d
+
+haskell
+https://github.com/tweag/rules_haskell

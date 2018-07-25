@@ -1,6 +1,7 @@
 https://reactjs.org/docs/lifting-state-up.html
 
 2018
+https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/
 https://css-tricks.com/react-state-from-the-ground-up/
 https://css-tricks.com/understanding-react-setstate/
 https://hackernoon.com/the-react-state-museum-a278c726315
