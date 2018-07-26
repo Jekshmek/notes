@@ -5,6 +5,9 @@ https://github.com/ben-manes/caffeine/wiki/JCache
 
 https://github.com/ben-manes/caffeine/wiki/Guava
 
+https://github.com/ben-manes/caffeine/wiki/Eviction
+https://github.com/ben-manes/caffeine/wiki/Statistics
+
 api
 http://www.javadoc.io/doc/com.github.ben-manes.caffeine/caffeine/
 http://static.javadoc.io/com.github.ben-manes.caffeine/caffeine/2.6.2/com/github/benmanes/caffeine/cache/package-summary.html
