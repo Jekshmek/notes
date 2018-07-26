@@ -11,7 +11,15 @@ $ pip install --user pipenv
 $ pip install --user --upgrade pipenv
 
 articles
+2018
+https://habr.com/post/413009/
+2016
 https://www.kennethreitz.org/essays/a-better-pip-workflow
+
+presentations
+2018
+Reitz - Pipenv: The Future of Python Dependency Management
+https://www.youtube.com/watch?v=GBQAKldqgZs
 
 whatsnew
 https://github.com/pypa/pipenv/blob/master/HISTORY.txt

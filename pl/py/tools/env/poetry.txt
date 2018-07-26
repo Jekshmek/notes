@@ -1,0 +1,6 @@
+https://poetry.eustace.io/
+https://github.com/sdispater/poetry
+
+https://poetry.eustace.io/docs/
+https://poetry.eustace.io/blog/
+https://poetry.eustace.io/history/
