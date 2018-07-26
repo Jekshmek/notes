@@ -17,12 +17,13 @@ function funReducer(state, action) {
     }
 }
 
-var store = Redux.createStore(funReducer);
-store.subscribe(render);
+var store = Redux.createStore(funReducer, []); // 2nd param - initial state
 
-function render() {
+const unsubscribe = store.subscribe(() = {
     console.log(store.getState());
-}
+});
+...
+unsubscribe();
 
 ...
 function addColor(value) {

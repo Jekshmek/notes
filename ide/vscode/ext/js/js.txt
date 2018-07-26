@@ -5,6 +5,9 @@ https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72d
     https://habr.com/company/ruvds/blog/354960/
 https://github.com/Microsoft/vscode-chrome-debug
 
+import-cost
+https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+
 vscode-js-console-utils
 https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils
 

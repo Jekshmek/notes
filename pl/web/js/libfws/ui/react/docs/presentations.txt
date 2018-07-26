@@ -54,6 +54,8 @@ ReactCasts - Advanced React
 https://www.youtube.com/playlist?list=PL8V1empgrpJb--IOBFEY_54SHF-Ft5SAa
 
 2016
+Abramov - The Redux Jorney
+https://www.youtube.com/watch?v=uvAXVMwHJXU
 !!! Izmailov - JavaScript Today - React, Redux and new reality
 https://www.slideshare.net/denisizmaylov/javascript-react-redux-63287677
 Izmailov - Isomorphic React Applications
@@ -71,6 +73,8 @@ LearnCode - ReactJS Tutorials
 https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 
 2015
+Abramov - Live React: Hot Reloading with Time Travel
+https://www.youtube.com/watch?v=xsSnOQynTHs
 Manor - React to the Future
 http://elijahmanor.com/talks/react-to-the-future/
 

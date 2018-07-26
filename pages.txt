@@ -1,5 +1,8 @@
 https://habr.com/post/417999/
 
+redux q
+? check the absence of mutations inside reducers
+
 URLs
 https://ru-bykov.livejournal.com/3468986.html
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
@@ -86,7 +89,7 @@ shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
 
 Tracking
-This week in rust                                   - 243
+This week in rust                                   - 244
 Razbor Poletov                                      - 171
 http://accu.org/index.php/journals/c78/             - 145
 
@@ -96,13 +99,13 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 45..75..90..119..134..154..158..206..217..224..241..265
+Wieruch - Taming the State in React                 - 56..75..90..119..134..154..158..206..217..224..241..265
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - simple things 216
+Kantor - Hronika                                    - prava bolshinstva 223
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
