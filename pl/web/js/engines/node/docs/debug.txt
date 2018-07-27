@@ -1,3 +1,5 @@
+https://nodejs.org/api/debugger.html
+
 2018
 Ohrimenko - NodeJS fatal drawback
 https://www.youtube.com/watch?v=Lrs6puJ4G2Q

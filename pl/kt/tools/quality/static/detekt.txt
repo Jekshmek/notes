@@ -2,6 +2,7 @@ https://arturbosch.github.io/detekt/
 https://github.com/arturbosch/detekt
 
 2018
+https://medium.com/@vanniktech/writing-your-first-detekt-rule-ee940e56428d
 https://blog.frankel.ch/check-quality-kotlin-code/
 2017
 https://medium.com/@annayan/writing-custom-lint-rules-for-your-kotlin-project-with-detekt-653e4dbbe8b9

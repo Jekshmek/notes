@@ -28,5 +28,6 @@ https://www.youtube.com/watch?v=P753B81-szE
     http://s.csssr.ru/U31J879TR/DevtoolsOverview.pdf
 
 whatsnew
-https://www.youtube.com/watch?v=4EdPq9Nw6uI
 https://developers.google.com/web/updates/2018/05/devtools
+    https://www.youtube.com/watch?v=4EdPq9Nw6uI
+    https://habr.com/post/418381/
