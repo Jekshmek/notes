@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/rambler-co/blog/418417/
 https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3
 https://habr.com/post/358292/
 https://www.robinwieruch.de/react-graphql-apollo-tutorial/

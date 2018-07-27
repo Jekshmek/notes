@@ -4,6 +4,8 @@ https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles:
 2018
+https://mark-simulacrum.github.io/2018/07/19/inband-lifetimes.html
+    https://www.reddit.com/r/rust/comments/92bof7/exploring_inband_lifetimes_by_converting_librustc/
 http://www.squidarth.com/rc/rust/2018/06/04/rust-concurrency.html
 https://www.reddit.com/r/rust/comments/8jd43f/ownership_and_data_structures_that_arent_trees/
 https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html

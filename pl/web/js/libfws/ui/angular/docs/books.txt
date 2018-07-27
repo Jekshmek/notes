@@ -1,3 +1,4 @@
 2018
+Kunz - Mastring Angular Components 2nd ed
 Seshadri - Angular up and Running
 Uluca - Angular 6 for Enterprise-Ready Web Applications
