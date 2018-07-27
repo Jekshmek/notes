@@ -15,3 +15,6 @@ https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-color
 
 trailing-spaces
 https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces#user-content-installation
+
+intellicode
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode

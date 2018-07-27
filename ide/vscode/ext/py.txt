@@ -1,4 +1,6 @@
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 https://github.com/Microsoft/vscode-python
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
 https://blogs.msdn.microsoft.com/pythonengineering/2018/02/15/visual-studio-coe-is-now-shipping-with-anaconda/
 https://www.infoq.com/news/2018/03/AnacondaShippingVSCOde
