@@ -1,4 +1,5 @@
 2018
+https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
 https://proglib.io/p/from-react-to-vue/
 https://css-tricks.com/building-renderless-vue-components/
 http://css-live.ru/articles/kak-sozdavat-vue-komponenty-slovno-profi.html

@@ -4,6 +4,7 @@ https://habrahabr.ru/company/jugru/blog/339386/
 https://smartdataconf.ru/2017/spb/talks/5fe6kggg7sowicic6mgemk/
 
 2018
+https://towardsdatascience.com/xgboost-deployment-made-easy-6e11f4b3f817
 https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
 Dorohush - CatBoost - The next gen of gradient boosting
 https://www.youtube.com/watch?v=UYDwhuyWYSo

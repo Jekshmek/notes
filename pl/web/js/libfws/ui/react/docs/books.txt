@@ -35,6 +35,7 @@ Tsonev - React in Patterns
 Singh - Serverless Web Applications with React and Firebase
 Hinkula - Hands-On Full Stack Development with Spring Boot 2 and React
 Wieruch - The Road to learn React (will not read)
+Chiarelli - Beginning React (too short)
 
 2017
 Boduch - React 16 Essentials 2nd ed (readen)
