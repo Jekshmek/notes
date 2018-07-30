@@ -41,7 +41,6 @@ https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mob
 Becommin fully reactive
 https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
 
-
 presentations
 http://slides.com/mattruby/deck#/
 2017
@@ -53,6 +52,10 @@ https://habr.com/company/yandex/blog/339054/
 2016
 React Amsterdam Autumn Meetup - MobX and Large Scale React Applications
 https://www.youtube.com/watch?v=etnPDw5PKqg
+
+books
+2018
+Podila - MobX Quick Start Guide
 
 whats new
 https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da

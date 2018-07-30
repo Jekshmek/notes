@@ -1,0 +1,5 @@
+2018
+https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1
+    https://habr.com/company/ruvds/blog/418085/
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
+    https://habr.com/company/ruvds/blog/358808/

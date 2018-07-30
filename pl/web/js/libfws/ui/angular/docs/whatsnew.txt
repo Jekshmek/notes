@@ -1,6 +1,7 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 2018
+https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6
 https://jaxenter.com/road-to-angular-v7-145326.html
 google io 2018 - what's new in angular
 https://www.youtube.com/watch?v=jnp_ny4SOQE

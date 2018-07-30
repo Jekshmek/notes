@@ -1,3 +1,5 @@
+https://habr.com/post/418581/
+    https://legacy.gitbook.com/book/maxfarseer/react-course-ru-v2/details
 https://habrahabr.ru/post/279249/
     https://www.gitbook.com/@maxfarseer/
 Paciansky - ReactJS for Beginners ru

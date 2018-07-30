@@ -1,0 +1,29 @@
+https://reactjs.org/docs/render-props.html
+
+2018
+https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e
+
+class PayPalLauncher extends React.Component {
+    launchPayPal = () => { ... }
+
+    render = () => this.props.children(this.launchPayPal)
+}
+
+class Page extends React.Component {
+    registerUser = () => { ... }
+    validateForm = () => { ... }
+
+    render = () => (
+        <PayPalLauncher>
+            {launchPayPal => <PayPalButton onClick={
+                pipe(
+                    this.registerUser,
+                    this.validateForm,
+                    launchPayPal
+                )}
+            />}
+        </PayPalLauncher>
+    )
+}
+
+instead of elements, we pass a function as a child to PayPalLauncher

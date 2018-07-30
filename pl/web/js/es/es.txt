@@ -9,10 +9,6 @@ https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements
 http://2ality.com/2018/04/async-iter-nodejs.html
     https://habrahabr.ru/post/353886/
 
-promises
-https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
-https://habr.com/company/ruvds/blog/358808/
-
 modules
 esm
 https://nodejs.org/api/esm.html

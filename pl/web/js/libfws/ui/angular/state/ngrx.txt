@@ -3,6 +3,8 @@ https://github.com/ngrx
 https://github.com/ngrx/platform
 https://github.com/ngrx/core
 
+https://github.com/ngrx/ngrx.github.io
+
 npm i -S
     @ngrx/store
     @ngrx/effects
@@ -15,6 +17,8 @@ https://toddmotto.com/ngrx/
 https://medium.com/ngrx
 
 2018
+https://medium.com/default-to-open/understanding-a-large-scale-angular-app-with-ngrx-80f9fc5660cc
+https://www.infoq.com/articles/angular-component-communication
 http://stackabuse.com/beginners-guide-to-ngrx-and-angular/
 https://codeburst.io/state-management-in-angular-ee2ccb81c283
 http://brianflove.com/2018/04/03/ngrx-loading-indicator/

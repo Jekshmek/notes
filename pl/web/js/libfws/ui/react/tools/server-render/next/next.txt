@@ -6,3 +6,11 @@ https://zeit.co/blog/next4
 https://zeit.co/blog/next3
 https://zeit.co/blog/next2
 https://zeit.co/blog/next
+
+npm
+    @zeit/next-typescript
+    @tyeps/next
+    next@6
+    next-redux-wrapper
+        withRedux
+    next-apollo
