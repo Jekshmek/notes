@@ -1,3 +1,4 @@
 2017
 Ornbo - Go in 24 Hours
 Newmarch - Network Programming with Go
+Jain - Data Structures and Algorithms In Go

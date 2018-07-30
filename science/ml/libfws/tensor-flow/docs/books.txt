@@ -1,4 +1,5 @@
 2018
+Karim - TensorFlow - Powerful Predictive Analysis with TensorFlow 
 Kapelo - Beginning Application Development with TensorFlow and Keras
 Ramsundar - TensorFlow for DeepLearning
 Gulli - Deep Learning with Keras - on TensorFlow and Theano

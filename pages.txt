@@ -4,20 +4,14 @@ redux q
 ? check the absence of mutations inside reducers
 
 URLs
-https://ru-bykov.livejournal.com/3468986.html
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
-https://maxfarseer.gitbooks.io/redux-course-ru/content/osnovi_redux.html
 https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Jul 30
 https://ru-bykov.livejournal.com/3187176.html
-https://blog.predanie.ru/article/novoe-srednevekov-e/
-    Lifshits
-https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
-    social aspects
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -85,8 +79,12 @@ https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 
 https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
-shallar
+Shallar
 https://blog.predanie.ru/article/evangelskij-ateizm/
+https://blog.predanie.ru/article/novoe-srednevekov-e/
+    Lifshits
+https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
+    social aspects
 
 Tracking
 This week in rust                                   - 244
