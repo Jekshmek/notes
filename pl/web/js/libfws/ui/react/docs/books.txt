@@ -28,6 +28,8 @@ https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
 ? Thomas - React in Action
 Chinnathambi - Learning React 2nd ed (readen)
 Boduch - React 16 Tooling
+Wieruch - The Road to learn React (need to read)
+    https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 SO - React Book
     http://books.goalkicker.com/ReactJSBook/
 Tsonev - React in Patterns
@@ -36,7 +38,6 @@ Tsonev - React in Patterns
     http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 Singh - Serverless Web Applications with React and Firebase
 Hinkula - Hands-On Full Stack Development with Spring Boot 2 and React
-Wieruch - The Road to learn React (will not read)
 Chiarelli - Beginning React (too short)
 
 2017
