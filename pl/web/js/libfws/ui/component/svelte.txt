@@ -12,6 +12,9 @@ rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2018
-https://habrahabr.ru/post/353896/
-https://habrahabr.ru/post/345028/
-https://habrahabr.ru/post/345208/
+https://habr.com/post/418679/
+https://habr.com/post/417747/
+https://habr.com/post/353896/
+https://habr.com/post/345028/
+https://habr.com/post/345208/
+https://habr.com/post/414869/
