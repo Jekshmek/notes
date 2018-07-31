@@ -23,7 +23,7 @@ Video
 Migutsky - How MS uses React
     https://www.youtube.com/watch?v=ZdrnIUgeDAs
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Kazakova - mezhdisciplinar                          - 1:00:00 (of 1:38:49)
+Elena Kazakova - mezhdisciplinar                    - 1:10:00 (of 1:38:49)
     https://www.youtube.com/watch?v=0_tTwSkv4sc
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
@@ -98,7 +98,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 76..90..119..134..154..158..206..217..224..241..265
+Wieruch - Taming the State in React                 - 81..90..119..134..154..158..206..217..224..241..265
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
