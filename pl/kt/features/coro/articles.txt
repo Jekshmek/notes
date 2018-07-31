@@ -1,21 +1,5 @@
-presentations
-2017
-Fresh Async with Kotlin
-https://www.infoq.com/presentations/kotlin-async
-Elizarov - Kotlin Coroutines Reloaded
-https://www.youtube.com/watch?v=3xalVUY69Ok
-Elizarov - Introduction to Kotlin Coroutines
-https://vimeo.com/221264980/b3ac7f9001
-Elizarov - Lock-Free Algorithms for Kotlin Coroutines
-https://www.youtube.com/watch?v=W2dOOBN1OQI
-https://www.youtube.com/watch?v=iQsN_IDUTSc
-
-http://slides.com/ruslanibragimov/deep-in-async-computations#/
-https://www.youtube.com/watch?v=9b89HxJ2bjU
-
-
-articles
 2018
+https://blog.drako.guru/2018/07/31/introduction-to-coroutines-part-2/
 https://blog.drako.guru/2018/07/23/introduction-to-coroutines-part-1/
 https://blog.pronghorn.tech/optimizing-suspending-functions-in-kotlin/
 https://medium.com/@chrisbanes/rxjava-to-kotlin-coroutines-1204c896a700
@@ -37,13 +21,3 @@ https://habrahabr.ru/company/alfa/blog/336228/
 https://blog.mindorks.com/what-are-coroutines-in-kotlin-bf4fecd476e9
 
 https://habrahabr.ru/post/339618/
-
-
-tutorials
-https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html
-
-https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md#state-machines
-
-guides
-https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md
-https://www.reddit.com/r/Kotlin/comments/8osihy/baffled_by_channels/

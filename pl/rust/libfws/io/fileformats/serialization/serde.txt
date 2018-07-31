@@ -13,6 +13,7 @@ https://crates.io/crates/serde_shims
 
 articles
 2018
+https://rreverser.com/derive-serdebug/
 http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html
     https://habrahabr.ru/post/350956/
 https://www.reddit.com/r/rust/comments/81we47/serializing_awkward_data_with_serde/
