@@ -1,0 +1,7 @@
+2018
+Coding Tech - PWA and Offline Development
+https://www.youtube.com/watch?v=dlvevNPxHd8
+LevelUpTuts - What Is a Progressive Web App?
+https://www.youtube.com/watch?v=VmKePMB0C8Q
+PWA starter kit: build fast, scalable, modern apps with Web Components
+https://www.youtube.com/watch?v=we3lLo-UFtk

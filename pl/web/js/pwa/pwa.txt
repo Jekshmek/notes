@@ -8,10 +8,3 @@ articles
 https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2
     https://habr.com/company/ruvds/blog/418439/
 https://habr.com/company/google/blog/414609/
-
-presentations
-2018
-LevelUpTuts - What Is a Progressive Web App?
-https://www.youtube.com/watch?v=VmKePMB0C8Q
-PWA starter kit: build fast, scalable, modern apps with Web Components
-https://www.youtube.com/watch?v=we3lLo-UFtk

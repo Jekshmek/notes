@@ -88,7 +88,8 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 244
-Razbor Poletov                                      - 171
+Razbor Poletov                                      - 172
+    http://traffic.libsyn.com/razborpoletov/razbor_172.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
 Series

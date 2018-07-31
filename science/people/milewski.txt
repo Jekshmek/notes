@@ -1,0 +1,3 @@
+2018
+https://bartoszmilewski.com/2018/07/30/free-monoid-from-free-algebra-part-1/
+https://bartoszmilewski.com/2018/07/30/free-monoid-from-free-algebra-part-2/
