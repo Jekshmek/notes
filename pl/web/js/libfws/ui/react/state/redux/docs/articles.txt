@@ -12,6 +12,9 @@ https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-692504
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4
 https://robinwieruch.de/redux-mobx-confusion
 2016
+https://medium.com/@kylpo/redux-best-practices-eef55a20cc72
+    https://github.com/kylpo/react-playbook/blob/master/best-practices/redux.md
+https://engineering.haus.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
     https://habr.com/company/mailru/blog/303456/
 https://css-tricks.com/learning-react-redux/

@@ -20,11 +20,16 @@ scoop - a
     https://github.com/lukesampson/scoop-extras
 
 Video
-Migutsky - How MS uses React
+Migutsky - How MS TODO uses React                   -   17:00 (of   42:22)
     https://www.youtube.com/watch?v=ZdrnIUgeDAs
+    https://slides.com/mr-mig/todo-enterjs2018#/
+    https://slides.com/mr-mig/to-do-web-arch#/
+    https://slides.com/mr-mig/todo-dumpconf2018#/
+    https://slides.com/mr-mig/to-do-react-meetup#/
+    https://slides.com/mr-mig/todo-react-2018#/
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Elena Kazakova - mezhdisciplinar                    - 1:10:00 (of 1:38:49)
-    https://www.youtube.com/watch?v=0_tTwSkv4sc
+Ryzhyk - System of excercises in geometry           -   10:00 (of 1:27:57)
+    https://www.youtube.com/watch?v=_OuXfW5DQVk
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
 Olympiad problems at Lesson
@@ -39,6 +44,8 @@ Savvateev - Brexit
     https://www.youtube.com/watch?v=riF7GLRzg90
 
 Lit
+Bykov - Odessa                                      -   -56:40
+    https://www.facebook.com/ofam.od.ua/videos/2131834157030750/
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -50,7 +57,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 10                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 25                                         -   00:00 (of)
+Ivliev - 26                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 37                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -58,7 +65,7 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 23 of 34                                 -   53:00 (of 1:50:46)
+Chernyak - 23 of 34                                 - 1:12:00 (of 1:50:46)
     https://www.youtube.com/watch?v=m1kHRBlMmUg
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Rozenblyum                                          - 1:22:00 (of 2:06:10)
@@ -89,7 +96,6 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 Tracking
 This week in rust                                   - 244
 Razbor Poletov                                      - 172
-    http://traffic.libsyn.com/razborpoletov/razbor_172.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
@@ -104,7 +110,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - how form op 238
+Kantor - Hronika                                    - progressiv tolpa 251
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
