@@ -1,11 +1,6 @@
 http://facebook.github.io/immutable-js/
 https://github.com/facebook/immutable-js
 
-https://github.com/rtfeldman/seamless-immutable
-    https://www.npmjs.com/package/redux-seamless-immutable
-    https://github.com/eadmundo/redux-seamless-immutable
-https://www.toptal.com/javascript/immutability-in-javascript-using-redux
-
 artices
 2016
 https://auth0.com/blog/intro-to-immutable-js/

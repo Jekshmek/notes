@@ -12,5 +12,6 @@ const logger = createLogger({
 
 const store = createStore(
   reducer,
-  applyMiddleware(logger)
+  undefined,
+  applyMiddleware(logger) // or applyMiddleware(firstM, secondM, ...), logger must be the last
 );

@@ -1,5 +1,0 @@
-https://crates.io/crates/lalrpop
-https://github.com/nikomatsakis/lalrpop
-
-https://crates.io/crates/lalrpop-util
-https://github.com/nikomatsakis/lalrpop
