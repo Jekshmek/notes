@@ -20,15 +20,10 @@ scoop - a
     https://github.com/lukesampson/scoop-extras
 
 Video
-Migutsky - How MS TODO uses React                   -   17:00 (of   42:22)
-    https://www.youtube.com/watch?v=ZdrnIUgeDAs
-    https://slides.com/mr-mig/todo-enterjs2018#/
-    https://slides.com/mr-mig/to-do-web-arch#/
-    https://slides.com/mr-mig/todo-dumpconf2018#/
-    https://slides.com/mr-mig/to-do-react-meetup#/
-    https://slides.com/mr-mig/todo-react-2018#/
+Kurginyan - 2018
+    https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Ryzhyk - System of excercises in geometry           -   10:00 (of 1:27:57)
+Ryzhyk - System of excercises in geometry           -   15:00 (of 1:27:57)
     https://www.youtube.com/watch?v=_OuXfW5DQVk
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
@@ -38,12 +33,16 @@ Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
-Ivanov - EGE                                        -   15:00 (of 1:11:29)
+Ivanov - EGE                                        -   16:00 (of 1:11:29)
     https://www.youtube.com/watch?v=0GNfJut-dyo
-Savvateev - Brexit
+Savvateev - Brexit                                  -   10:00 (of   32:25)
     https://www.youtube.com/watch?v=riF7GLRzg90
+Kukin - 1994                                        -   04:00 (of 2:12:31)
+    https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
+Bykov - Okudjava                                    -   16:00 (of   55:00)
+    https://www.youtube.com/watch?v=PrTgKwMxZnY
 Bykov - Odessa                                      -   -56:40
     https://www.facebook.com/ofam.od.ua/videos/2131834157030750/
 Volkova Rome                                        -   06:00 (of 1:32:09)
@@ -65,8 +64,8 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 23 of 34                                 - 1:16:00 (of 1:50:46)
-    https://www.youtube.com/watch?v=m1kHRBlMmUg
+Chernyak - 24 of 34                                 -   02:00 (of 1:24:58)
+    https://www.youtube.com/watch?v=prEpnl0HMqM
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sekackiy                                            -   02:30 (of 1:22:28)
     https://predanie.ru/sekackiy-aleksandr-kupriyanovich/stradanie-i-spasenie-metafizicheskaya-istina-hristianstva/slushat/
@@ -93,7 +92,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
 
 Tracking
-This week in rust                                   - 244
+This week in rust                                   - 245
 Razbor Poletov                                      - 172
 http://accu.org/index.php/journals/c78/             - 145
 
@@ -109,7 +108,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - progressiv tolpa 251
+Kantor - Hronika                                    - lyubov k chuzhoi tarelke 259
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

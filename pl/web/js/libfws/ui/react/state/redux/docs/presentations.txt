@@ -1,5 +1,13 @@
 Redux at Scale
 https://www.slideshare.net/inovia/redux-at-scale
+2018
+Migutsky - How MS TODO uses React
+    https://www.youtube.com/watch?v=ZdrnIUgeDAs
+    https://slides.com/mr-mig/todo-enterjs2018#/
+    https://slides.com/mr-mig/to-do-web-arch#/
+    https://slides.com/mr-mig/todo-dumpconf2018#/
+    https://slides.com/mr-mig/to-do-react-meetup#/
+    https://slides.com/mr-mig/todo-react-2018#/
 2017
 CodeAcademy - Redux 
 https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt

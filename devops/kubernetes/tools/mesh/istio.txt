@@ -29,3 +29,6 @@ https://www.infoq.com/news/2018/01/microservices-resiliency-istio
 2017
 https://habrahabr.ru/company/jugru/blog/340442/
 http://techgenix.com/linkerd-kubernetes/
+
+whatsnew
+https://www.infoq.com/news/2018/08/istio-1.0-service-mesh

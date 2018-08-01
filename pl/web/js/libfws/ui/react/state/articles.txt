@@ -10,3 +10,4 @@ https://www.robinwieruch.de/learn-react-before-using-redux/
 2016
 https://daveceddia.com/visual-guide-to-state-in-react/
 http://www.toptal.com/react/react-redux-and-immutablejs
+https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a
