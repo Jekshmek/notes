@@ -3,3 +3,7 @@ https://kotlinlang.org/api/latest/jvm/stdlib/index.html
 kotlin.io
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/index.html
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/java.io.-file/index.html
+
+articles
+2018
+https://tech.okcupid.com/hidden-gems-in-kotlin-stdlib/

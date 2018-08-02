@@ -1,3 +1,5 @@
+https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes?qid=8ad19412-480c-4e82-92aa-24589c3a21ef&v=&b=&from_search=5
+https://www.slideshare.net/lukemarsden/how-to-install-and-use-kubernetes?qid=8ad19412-480c-4e82-92aa-24589c3a21ef&v=&b=&from_search=7
 https://habr.com/post/417999/
 
 redux q

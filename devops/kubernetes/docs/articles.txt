@@ -1,3 +1,8 @@
+series
+https://www.google.com/search?q=site%3Acloudplatform.googleblog.com%20%22kubernetes%20best%20practices%22
+https://www.youtube.com/playlist?list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB
+https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html
+
 2018
 https://habr.com/company/jugru/blog/416161/
 https://dzone.com/articles/a-beginners-guide-to-kubernetes

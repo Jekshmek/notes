@@ -1,6 +1,10 @@
 https://kubernetes.io/docs/admin/kubeadm/
+https://kubernetes.io/docs/setup/independent/install-kubeadm/
+    https://www.slideshare.net/MengZeLi4/kubernetes-105409865
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/
+
+https://github.com/kubernetes/kubeadm
 
 AUR
 kubeadm-bin (kubeadm-git)
@@ -28,8 +32,7 @@ https://crondev.com/kubernetes-upgrade-kubeadm/
 
 ? kubernetes-cni 
 
-https://github.com/kubernetes/kubeadm
-
+https://github.com/kubernetes/kubeadm/blob/master/docs/design/design_v1.10.md
 https://github.com/kubernetes/kubeadm/blob/master/docs/design/design_v1.8.md
 
 issues
@@ -46,6 +49,8 @@ kubeadm
     join
         --token=<some token> <master-ip-addr>
     alpha phase <cmd>
+        alpha phase selfhosting !!!
+            https://www.slideshare.net/openstack_kr/openinfra-days-korea-2018-day-2-e4-immutable-kubernetes-architecture
 ???
 --token-ttl 0
 
