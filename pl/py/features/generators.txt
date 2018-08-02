@@ -18,3 +18,8 @@ def fib(n):
 Note: a lot of yield syntax with distinct semantics
 
 [(i, j) for i in xrange 4  for j in xrange(3) if ....]
+
+presentations
+2018
+CodingTech - Python Generators
+https://www.youtube.com/watch?v=XEn_99daJro

@@ -34,5 +34,6 @@ https://assets.ctfassets.net/nn534z2fqr9f/M5ZEXvLMWsk4UcuQs0gCY/30ae2e789a4a3ab5
 
 articles
 2018
+https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59
 https://docs.browserless.io/blog/2018/06/04/puppeteer-best-practices.html
     https://habr.com/post/413547/

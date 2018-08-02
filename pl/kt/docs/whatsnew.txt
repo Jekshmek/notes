@@ -4,6 +4,7 @@ https://habrahabr.ru/company/redmadrobot/blog/351516/
     https://www.youtube.com/watch?v=gwk4rdgr36E
 
 1.2
+https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-2-60-is-out/
 https://blog.jetbrains.com/kotlin/2018/06/kotlin-1-2-50-is-out/
 https://blog.jetbrains.com/kotlin/2018/04/kotlin-1-2-40-is-out/
 https://www.infoq.com/news/2018/03/jetbrains-releases-kotlin-1.2.30

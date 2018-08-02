@@ -1,1 +1,4 @@
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+https://gitlens.amod.io/
+https://github.com/eamodio/vscode-gitlens
