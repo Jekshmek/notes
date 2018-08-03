@@ -1,2 +1,3 @@
 2018
+Fancher - The Book of FSharp
 Abraham - Get Programming with FSharp

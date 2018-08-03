@@ -4,6 +4,7 @@ https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles:
 2018
+https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html
 https://mark-simulacrum.github.io/2018/07/19/inband-lifetimes.html
     https://www.reddit.com/r/rust/comments/92bof7/exploring_inband_lifetimes_by_converting_librustc/
 http://www.squidarth.com/rc/rust/2018/06/04/rust-concurrency.html
