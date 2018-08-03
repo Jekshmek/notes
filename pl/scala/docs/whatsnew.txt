@@ -1,2 +1,3 @@
 2018
+https://jug.ru/2018/08/scala-digest-6/
 https://www.slideshare.net/Odersky/preparing-for-scala-3

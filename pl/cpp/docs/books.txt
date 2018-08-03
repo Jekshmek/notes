@@ -3,6 +3,10 @@ http://goalkicker.com/CPlusPlusBook/
 ds
 Weiss - Data Structures and Algorithms in Cpp 4th ed
 
+concurrency
+2018
+Williams - Cpp Concurrency in Action 2nd ed
+
 2018
 Pikus - Hands-On Design Patterns with Cpp (incomplete)
 Savitch - Problem Solving with Cpp 10th ed

@@ -63,6 +63,12 @@ HINT:
 
 ! Search Option !
 
+" Search as I type
+set incsearch
+set showmatch
+set hlsearch
+set ignorecase
+
 :set ic (ignorecase)
 	Ignore the case of search
 :set is (incsearch)

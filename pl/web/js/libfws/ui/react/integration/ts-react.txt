@@ -29,6 +29,7 @@ https://legacy.gitbook.com/book/charleslbryant/hello-react-and-typescript/detail
 
 articles
 2018
+https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript
 https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935
 https://codeburst.io/webpack-typescript-react-part-4-14582e9a33ce
 https://codeburst.io/webpack-typescript-react-part-3-82ce3000d25e
