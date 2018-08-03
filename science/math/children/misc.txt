@@ -4,3 +4,7 @@ https://proglib.io/p/logical-mathematical-tasks/
 2016
 Abstract and Concrete (very good comments)
 https://www.youtube.com/watch?v=7h2ZBIpVJ_Q
+
+motivating sample
+https://medium.com/google-design/google-photos-45b714dfbed1
+    http://css-live.ru/articles/kak-my-delali-veb-interfejs-dlya-google-photos-zaglyadyvaem-pod-kapot.html
