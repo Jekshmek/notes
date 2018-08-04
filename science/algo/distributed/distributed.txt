@@ -1,21 +1,3 @@
-Books:
-https://landing.google.com/sre/book/index.html
-Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
-Fokkink - Distributed Algorithms - Intuitive Approach
-https://www.piter.com/product/raspredelennye-algoritmy-intuitivnyy-podhod
-Burns - Designing Distributed Systems
-https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/
-https://github.com/brendandburns/designing-distributed-systems
-https://azure.microsoft.com/mediahandler/files/resourcefiles/baf44271-3870-454f-868c-23d48e7672cb/Designing_Distributed_Systems.pdf
-
-
-Presentations:
-Bonner - From Microlits to Microsystems
-https://www.infoq.com/presentations/microservices-principles-2017
-
-https://jpoint.ru/talks/crdt-conflict-free-synchronization-in-distributed-systems/
-https://assets.contentful.com/oxjq45e8ilak/bpJiv5zh16ek6OK22s6wu/371941ccbf133048ec11b9a996edd8b2/Andrey_Ershov._Resolve_conflicts_better__than_Cassandra.pdf
-
 lections
 http://mk.cs.msu.ru/index.php/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B
 Kosyakov
