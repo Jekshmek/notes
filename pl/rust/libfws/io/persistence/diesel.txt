@@ -2,6 +2,7 @@ http://diesel.rs/
 
 articles
 2018
+https://noyez.gitlab.io/post/2018-08-05-a-small-custom-bool-type-in-diesel/
 http://patshaughnessy.net/2018/6/9/from-activerecord-to-diesel
 2017
 http://spejss.com/index.php/2017/12/06/how-to-use-diesel-orm-in-rust/
