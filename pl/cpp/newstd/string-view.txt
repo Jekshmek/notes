@@ -1,3 +1,5 @@
 2018
+https://www.bfilipek.com/2018/08/init-string-member.html
+    https://www.reddit.com/r/cpp/comments/94ze01/how_to_initialize_a_string_member/
 https://www.bfilipek.com/2018/07/string-view-perf-followup.html
 https://www.bfilipek.com/2018/07/string-view-perf.html

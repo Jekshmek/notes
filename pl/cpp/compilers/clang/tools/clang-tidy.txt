@@ -1,2 +1,5 @@
 https://clang.llvm.org/extra/clang-tidy/
 https://clang.llvm.org/extra/clang-tidy/checks/list.html
+
+samples
+CXX=clang++ CXXFLAGS="-Xclang -add-plugin -Xclang clang-tidy -Xclang -plugin-arg-clang-tidy -Xclang -checks='-*, clang-analyzer-core.*'" juci [project-path]

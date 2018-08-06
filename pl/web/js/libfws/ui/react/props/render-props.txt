@@ -3,6 +3,9 @@ https://reactjs.org/docs/render-props.html
 2018
 https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e
     https://habr.com/post/418863/
+2017
+https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
+
 
 class PayPalLauncher extends React.Component {
     launchPayPal = () => { ... }

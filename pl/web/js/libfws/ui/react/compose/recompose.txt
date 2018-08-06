@@ -1,18 +1,33 @@
+https://www.npmjs.com/package/recompose
 https://github.com/acdlite/recompose
+
+wiki
+https://github.com/acdlite/recompose/wiki/Recipes
+
+api
 https://github.com/acdlite/recompose/blob/master/docs/API.md
 
 typescript
 https://github.com/acdlite/recompose/issues/231
 https://github.com/acdlite/recompose/pull/241
 
+guides
+https://recompose.docsforhumans.com/
+
 articles
 2018
 https://habr.com/company/raiffeisenbank/blog/354768/
+https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
+https://blog.cloudboost.io/react-functional-way-c533fceda2ce
+    good starting sample
 2017
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
+https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51
 
-samples
-https://jsfiddle.net/samsch/p3vsmrvo/24/
+presentations
+2016
+Clark - Recomposing your React application
+https://www.youtube.com/watch?v=zD_judE-bXk
 
 redux-samples
 https://jsfiddle.net/samsch/p3vsmrvo/24/
