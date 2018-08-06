@@ -1,0 +1,2 @@
+https://blogs.msdn.microsoft.com/dotnet/2018/07/26/announcing-f-4-5-preview/
+https://www.infoq.com/news/2018/08/fsharp-4.5-preview

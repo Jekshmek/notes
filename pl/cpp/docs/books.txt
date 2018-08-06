@@ -8,6 +8,7 @@ concurrency
 Williams - Cpp Concurrency in Action 2nd ed
 
 2018
+Vandervoorde - Cpp Templates The Complete Guide 2nd ed
 Pikus - Hands-On Design Patterns with Cpp (incomplete)
 Savitch - Problem Solving with Cpp 10th ed
 Swaminathan - Expert C++ Programming

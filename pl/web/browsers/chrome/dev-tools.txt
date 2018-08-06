@@ -16,6 +16,7 @@ https://umaar.com/dev-tips/
 
 articles
 2018
+https://www.offerzen.com/blog/debugging-with-chrome-devtools-quick-front-end-fixes
 https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 2017

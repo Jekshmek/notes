@@ -1,18 +1,16 @@
-https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes?qid=8ad19412-480c-4e82-92aa-24589c3a21ef&v=&b=&from_search=5
-https://www.slideshare.net/lukemarsden/how-to-install-and-use-kubernetes?qid=8ad19412-480c-4e82-92aa-24589c3a21ef&v=&b=&from_search=7
-https://habr.com/post/417999/
-
-redux q
-? check the absence of mutations inside reducers
+https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
+https://www.slideshare.net/lukemarsden/how-to-install-and-use-kubernetes
 
 URLs
+https://habr.com/post/417999/
+    correct translation
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Aug 4
+    Aug 6
 https://ru-bykov.livejournal.com/3187176.html
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
@@ -103,13 +101,13 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 101..119..134..142..147..154..158..206..217..224..236..241..245
+Wieruch - Taming the State in React                 - 107..119..134..142..147..154..158..206..217..224..236..241..245
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - chuma vmesto sifilisa 266
+Kantor - Hronika                                    - istoriya odnoi borby 272
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

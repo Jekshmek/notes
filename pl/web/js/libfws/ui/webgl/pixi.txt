@@ -21,3 +21,8 @@ interesting
 http://pixijs.io/examples/#/demos/alpha-mask.js
 layers, z-order
 drag, sort, light
+
+presentations
+2018
+CodingTech - Interactive Visualizations in JupyterLab and PixiJS
+https://www.youtube.com/watch?v=B5_7ps-JdxY

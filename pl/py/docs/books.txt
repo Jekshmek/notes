@@ -1,1 +1,4 @@
 http://goalkicker.com/PythonBook/
+
+2018
+Fedorov - Python Fundamentals ru (good intro!)

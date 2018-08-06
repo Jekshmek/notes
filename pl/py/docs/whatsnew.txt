@@ -1,4 +1,5 @@
 3.x
+https://proglib.io/p/python-3-7-optimization/
 https://github.com/arogozhnikov/python3_with_pleasure
 2018
 Webinar - Translating 2 to 3

@@ -13,6 +13,17 @@ DL School - Hohulin
 https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ
 https://vk.com/doc83865491_454180587
 
+Nikolenko Kadurin - 2018
+https://habrahabr.ru/company/piter/blog/346358/
+https://www.piter.com/product/glubokoe-obuchenie
+https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
+https://www.labirint.ru/books/622166/
+https://oz.by/books/more10663570.html
+https://www.ozon.ru/context/detail/id/142987816/
+
+2018
+Skansi - Introduction to Deep Learning
+
 Burtsev
 https://vk.com/doc4004138_453543210
 https://vk.com/doc4004138_453721152
@@ -45,11 +56,3 @@ Deng - 2014 - Deep Learning: Methods and Applications
 https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf#
 
 Gulli - Deep Learning with Keras ru
-
-Nikolenko !!! 2018
-https://habrahabr.ru/company/piter/blog/346358/
-https://www.piter.com/product/glubokoe-obuchenie
-https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
-https://www.labirint.ru/books/622166/
-https://oz.by/books/more10663570.html
-https://www.ozon.ru/context/detail/id/142987816/

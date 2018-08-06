@@ -16,6 +16,10 @@ https://rustycrate.ru/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/2018/01/2
 http://asquera.de/blog/2017-03-01/the-future-with-futures/
 https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34
 
+presentations
+2018
+https://www.infoq.com/presentations/rust-network-infrastructure
+
 internals
 https://cafbit.com/post/tokio_internals/
 

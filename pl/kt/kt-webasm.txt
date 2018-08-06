@@ -1,1 +1,3 @@
 https://superkotlin.com/kotlin-and-webassembly/
+
+https://github.com/wasm-tool/kotlin-loader
