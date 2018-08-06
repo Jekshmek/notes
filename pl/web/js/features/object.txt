@@ -1,0 +1,3 @@
+2018
+https://blog.halolabs.io/understanding-javascript-objects-d31cd24ca60f
+    https://habr.com/company/wirex/blog/419193/
