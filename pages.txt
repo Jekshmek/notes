@@ -55,7 +55,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 12                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 26                                         -   08:00 (of 39:29)
+Ivliev - 27                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 38                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -90,7 +90,8 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 245
-Razbor Poletov                                      - 172
+Razbor Poletov                                      - 173 56:00 (of 2:50:18)
+    http://traffic.libsyn.com/razborpoletov/razbor_173.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
 Series
@@ -105,7 +106,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - pravo byt nulyom 276
+Kantor - Hronika                                    - istoriya odnoi lochadi 287
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
