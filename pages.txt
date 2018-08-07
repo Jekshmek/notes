@@ -3,7 +3,7 @@ https://www.slideshare.net/lukemarsden/how-to-install-and-use-kubernetes
 
 URLs
 https://habr.com/post/417999/
-    correct translation
+    passive voice
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://habr.com/company/philtech/blog/354596/
@@ -11,7 +11,6 @@ https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Aug 7
-https://ru-bykov.livejournal.com/3187176.html
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -54,9 +53,9 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 11                             -   35:00 (of)
+Paschenko - Game 2 - 12                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 26                                         -   00:00 (of)
+Ivliev - 26                                         -   08:00 (of 39:29)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 38                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -81,9 +80,8 @@ https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 
-https://blog.predanie.ru/article/nasledie-russkogo-zarubezhya-v-missii-i-raskrytii-tserkvi/
-https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 Shallar
+https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
 https://blog.predanie.ru/article/evangelskij-ateizm/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     Lifshits
@@ -101,7 +99,7 @@ Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
 ???Python Fundamentals                              -   0301
 
 Books
-Wieruch - Taming the State in React                 - 107..119..134..142..147..154..158..206..217..224..236..241..245
+Wieruch - Taming the State in React                 - 119..134..142..147..154..158..206..217..224..236..241..245
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
@@ -118,3 +116,5 @@ have: 75,78,79,80,84-90
 clear at D:/Temp
     jna*.dll
     snappy*
+
+153-46-83
