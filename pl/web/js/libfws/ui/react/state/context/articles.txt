@@ -1,0 +1,20 @@
+2018
+https://daveceddia.com/context-api-vs-redux/
+    https://habr.com/post/419449/
+    https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/
+https://medium.com/@thehappybug/using-react-context-in-a-typescript-app-c4ef7504c858
+https://medium.com/@v.cibizov/new-react-context-560e7a40497f
+https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b
+https://css-tricks.com/digging-into-react-context/
+http://www.js-craft.io/blog/15-What-can-React-Context-API-do-for-you-Multi-language-Modals-Themes/
+https://css-tricks.com/putting-things-in-context-with-react/
+https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3
+https://scotch.io/tutorials/get-to-know-reacts-new-context-api
+    https://codesandbox.io/s/ox8q7zk0ly
+https://jwheatley.co/the-future-of-state-in-react/
+https://blog.alexdevero.com/react-context-multilingual-website-pt1
+https://blog.alexdevero.com/react-context-multilingual-website-pt2/
+https://wesbos.com/react-context/
+    https://www.youtube.com/watch?v=XLJN4JfniH4
+    https://github.com/wesbos/React-Context
+https://codeburst.io/code-your-own-react-state-management-library-using-the-new-context-api-part-1-64fb9d702e75

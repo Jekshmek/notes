@@ -1,20 +1,3 @@
-https://mobx.js.org/
-
-https://github.com/mobxjs/mobx-react
-
-mst
-https://github.com/mobxjs/mobx-state-tree
-https://codeburst.io/the-curious-case-of-mobx-state-tree-7b4e22d461f
-
-tutorials:
-https://github.com/markerikson/react-redux-links/blob/master/mobx-tutorials.md
-https://mobx.js.org/getting-started.html
-https://www.robinwieruch.de/mobx-react/
-
-api
-https://mobx.js.org/refguide/api.html
-
-articles
 2018
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
 https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
@@ -40,23 +23,3 @@ https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mob
 2015
 Becommin fully reactive
 https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
-
-presentations
-http://slides.com/mattruby/deck#/
-2017
-Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms
-https://www.youtube.com/watch?v=76FRrbY18Bs
-!!! Razetdinov - MobX in Yandex
-https://www.youtube.com/watch?v=yU_hJ2trMg4
-https://habr.com/company/yandex/blog/339054/
-2016
-React Amsterdam Autumn Meetup - MobX and Large Scale React Applications
-https://www.youtube.com/watch?v=etnPDw5PKqg
-
-books
-2018
-Podila - MobX Quick Start Guide
-
-whats new
-https://medium.com/@mweststrate/mobx-4-better-simpler-faster-smaller-c1fbc08008da
-https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443

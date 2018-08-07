@@ -1,0 +1,8 @@
+2018
+Academind - React 16.3 - New Context API
+    https://www.youtube.com/watch?v=yaZzJ37Qb0U
+How to use the new Context API in React 16.3
+    https://www.youtube.com/watch?v=cwEsT9PeRis
+2016
+ReactCast - Context
+https://www.youtube.com/playlist?list=PLrg7k46JdVjezIQvpSaH2oekMQavdvgqv
