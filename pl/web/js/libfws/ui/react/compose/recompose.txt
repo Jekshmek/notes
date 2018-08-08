@@ -16,6 +16,9 @@ https://recompose.docsforhumans.com/
 
 articles
 2018
+https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
+    https://habr.com/post/419559/
+https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
 https://habr.com/company/raiffeisenbank/blog/354768/
 https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
 https://blog.cloudboost.io/react-functional-way-c533fceda2ce
@@ -31,3 +34,9 @@ https://www.youtube.com/watch?v=zD_judE-bXk
 
 redux-samples
 https://jsfiddle.net/samsch/p3vsmrvo/24/
+
+toRenderProps/fromRenderProps
+
+typescript
+https://github.com/evolution-gaming/typed-recompose
+https://github.com/acdlite/recompose/issues/231

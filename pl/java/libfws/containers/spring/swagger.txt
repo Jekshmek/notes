@@ -1,5 +1,6 @@
 2018
 http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://habr.com/post/419525/
 
 https://github.com/eugenp/tutorials/blob/master/spring-security-rest
 https://github.com/eugenp/tutorials/blob/master/spring-security-rest/src/main/java/org/baeldung/spring/SwaggerConfig.java

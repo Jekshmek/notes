@@ -11,6 +11,8 @@ http://blog.alexnesterov.com/post/spring-your-next-microframework/
 https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 http://www.java-allandsundry.com/2017/03/spring-web-flux-first-steps.html
 https://dzone.com/articles/spring-webflux-first-steps
+https://habr.com/post/342498/
+https://habr.com/post/342506/
 
 presentations
 2017
