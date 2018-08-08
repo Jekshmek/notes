@@ -1,4 +1,7 @@
+https://www.w3.org/TR/css-variables/
+
 2018
+https://www.sitepoint.com/practical-guide-css-variables-custom-properties/
 CSS Variables Tutorial (CSS Custom Properties)
 https://www.youtube.com/watch?v=sQUB039MG0I
 CSS Variable Secrets
