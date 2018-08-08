@@ -19,6 +19,8 @@ scoop - a
     https://github.com/lukesampson/scoop-extras
 
 Video
+Goetz - evolving the java language
+    https://www.youtube.com/watch?v=A-mxj2vhVAA
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
@@ -89,8 +91,8 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
 
 Tracking
-This week in rust                                   - 245
-Razbor Poletov                                      - 173 56:00 (of 2:50:18)
+This week in rust                                   - 246
+Razbor Poletov                                      - 173 1:01:00 (of 2:50:18)
     http://traffic.libsyn.com/razborpoletov/razbor_173.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
@@ -111,11 +113,8 @@ Kantor - Hronika                                    - istoriya odnoi lochadi 287
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-need: 66, 69-74, 91-
-have: 75,78,79,80,84-90
+need: 66, 71-73, 81-82, 92-
 
 clear at D:/Temp
     jna*.dll
     snappy*
-
-153-46-83
