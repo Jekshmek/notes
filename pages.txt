@@ -1,5 +1,4 @@
 https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
-https://www.slideshare.net/lukemarsden/how-to-install-and-use-kubernetes
 
 URLs
 https://habr.com/post/417999/
@@ -10,7 +9,7 @@ https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Aug 8
+    Aug 9
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -59,7 +58,7 @@ Paschenko - Game 2 - 12                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 27                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 38                                      -   00:00 (of)
+Sorokin - B 39                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -68,7 +67,7 @@ Osipov - 2                                          -   00:00 (of)
 Chernyak - 24 of 34                                 - 1:00:00 (of 1:24:58)
     https://www.youtube.com/watch?v=prEpnl0HMqM
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sekackiy                                            -   29:30 (of 1:23:11)
+Sekackiy                                            - 1:07:00 (of 1:23:11)
     https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
@@ -92,7 +91,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 246
-Razbor Poletov                                      - 173 1:01:00 (of 2:50:18)
+Razbor Poletov                                      - 173 1:10:00 (of 2:50:18)
     http://traffic.libsyn.com/razborpoletov/razbor_173.mp3
 http://accu.org/index.php/journals/c78/             - 145
 
@@ -108,7 +107,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - istoriya odnoi lochadi 287
+Kantor - Hronika                                    - osoby put rossii 314
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

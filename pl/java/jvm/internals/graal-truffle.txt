@@ -33,6 +33,9 @@ http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.h
 
 articles
 2018
+https://chrisseaton.com/truffleruby/jokerconf17/
+    https://habr.com/post/419637/
+    https://www.youtube.com/watch?v=sFf15TvSXZ0
 https://www.infoq.com/articles/Graal-Java-JIT-Compiler
 https://habr.com/post/358700/
 http://www.opennet.ru/opennews/art.shtml?num=48472

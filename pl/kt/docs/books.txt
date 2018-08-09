@@ -8,6 +8,7 @@ Chakraborty - Hands-On Data Structures and Algorithms with Kotlin (incomplete)
 Kucherenko - Mastering High Performance with Kotlin
 Soshin - Hands-On Design Patterns with Kotlin
 Roy - Kotlin Programming Cookbook
+Urbanowicz - Kotlin Standard Library Cookbook
 
 2017
 Samuel - Programming Kotlin
