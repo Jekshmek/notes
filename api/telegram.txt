@@ -2,6 +2,7 @@ https://netology.ru/blog/prg-tg
 
 ollimp-prog
 UniLecs
+    small programming problems
 
 music
 retroma

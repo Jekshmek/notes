@@ -11,6 +11,8 @@ https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-m
 
 https://proglib.io/p/ds-cheatsheets/
 
+2018
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/super-cheatsheet-machine-learning.pdf
 2017
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
     https://habr.com/company/nixsolutions/blog/417935/

@@ -1,4 +1,5 @@
 2018
+https://hackernoon.com/how-do-i-use-react-context-3eeb879169a2
 https://daveceddia.com/context-api-vs-redux/
     https://habr.com/post/419449/
     https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/

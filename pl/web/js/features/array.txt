@@ -2,6 +2,7 @@
 https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays
 https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f
     https://habr.com/company/ruvds/blog/358306/
+    https://nuancesprog.ru/p/1186/
 CodingTrain - Array Functions
 https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aAEUqu96Newc-7qpuh-cxc
 
