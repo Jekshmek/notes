@@ -1,3 +1,4 @@
 2018
 Solis - Illustrated CSharp7 5th ed
 Sarcar - Design Patterns in CSharp
+Olsson - CSharp 7 Quick Syntax Reference 2nd ed
