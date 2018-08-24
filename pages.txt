@@ -90,7 +90,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
 
 Tracking
-This week in rust                                   - 246
+This week in rust                                   - 248
 Razbor Poletov                                      - 173 1:10:00 (of 2:50:18)
     http://traffic.libsyn.com/razborpoletov/razbor_173.mp3
 http://accu.org/index.php/journals/c78/             - 145

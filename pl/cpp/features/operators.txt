@@ -1,2 +1,3 @@
 2018
+https://blog.tartanllama.xyz/spaceship-operator/
 https://foonathan.net/blog/2018/07/19/ordering-relations-programming.html

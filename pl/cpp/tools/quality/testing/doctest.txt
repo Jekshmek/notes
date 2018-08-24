@@ -3,6 +3,7 @@ https://github.com/onqtam/doctest
 articles
 2018
 http://eao197.blogspot.com.by/2018/03/progc-doctest-vs-catch2.html
+https://www.reddit.com/r/cpp/comments/99nkhw/doctest_2_released_moved_to_c11_added/
 
 presentations
 2017

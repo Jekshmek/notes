@@ -1,6 +1,8 @@
 https://code.visualstudio.com/docs/languages/cpp
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
+
+https://blogs.msdn.microsoft.com/vcblog/2018/08/23/visual-studio-code-c-c-extension-august-2018-update/
 https://blogs.msdn.microsoft.com/vcblog/2018/06/21/visual-studio-code-cc-extension-june-2018-update/
 https://blogs.msdn.microsoft.com/vcblog/2017/04/25/visual-studio-code-cc-extension-april-2017-update/
 https://blogs.msdn.microsoft.com/vcblog/2017/05/19/visual-studio-code-cc-extension-may-2017-update/

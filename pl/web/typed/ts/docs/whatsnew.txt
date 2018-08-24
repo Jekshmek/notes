@@ -1,4 +1,5 @@
 3.0
+https://medium.com/webbdev/typescript-3-0-d25109306e40
 https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/
 https://www.infoq.com/news/2018/08/typescript-3-0-release
 2.9

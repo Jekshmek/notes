@@ -1,4 +1,6 @@
 3.x
+https://realpython.com/python37-new-features/
+    https://proglib.io/p/new-python/
 https://proglib.io/p/python-3-7-optimization/
 https://github.com/arogozhnikov/python3_with_pleasure
 2018
