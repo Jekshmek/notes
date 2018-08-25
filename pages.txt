@@ -117,3 +117,8 @@ need: 66, 71-73, 81-82, 92-
 clear at D:/Temp
     jna*.dll
     snappy*
+
+?
+remove clustering
+es1->6 migration
+matt fx

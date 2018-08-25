@@ -1,2 +1,5 @@
+2018
+https://www.codementor.io/thomas478/vuex-the-enterprise-setup-m90zecnd1
+    https://habr.com/company/ruvds/blog/420357/
 2017
 https://css-tricks.com/intro-to-vue-4-vuex/

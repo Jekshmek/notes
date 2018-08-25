@@ -5,3 +5,6 @@ https://apexcharts.com/features/
 https://apexcharts.com/docs/installation/
 
 https://apexcharts.com/javascript-chart-demos/
+
+2018
+https://blog.usejournal.com/bridging-the-gap-between-low-level-and-high-level-charting-libraries-a8f6c1819ba5

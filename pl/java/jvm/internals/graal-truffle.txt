@@ -70,5 +70,6 @@ samples
 https://www.richyhbm.co.uk/posts/compiling-kotlin-netty-webapp-with-graalvm/
 
 whatsnew
+https://medium.com/graalvm/graalvm-1-0-rc2-release-notes-498c8179f258
 https://www.infoq.com/news/2018/04/oracle-graalvm-v1
 https://blogs.oracle.com/developers/announcing-graalvm
