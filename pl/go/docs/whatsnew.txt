@@ -1,5 +1,6 @@
 1.11
 https://tip.golang.org/doc/go1.11
+http://www.opennet.ru/opennews/art.shtml?num=49183
 
 1.10
 http://www.opennet.ru/opennews/art.shtml?num=48096

@@ -1,6 +1,9 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
-2018
+7x
+https://itnext.io/angular-7-is-coming-766c2bf644f9
+
+6x
 https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6
     https://habr.com/company/ruvds/blog/418821/
 https://jaxenter.com/road-to-angular-v7-145326.html
@@ -14,7 +17,7 @@ https://habr.com/company/ispsystem/blog/358696/
 Academind - Angular 6 Upgrade
 https://www.youtube.com/watch?v=Xr5l7lT--YU
 
-2.0
+2x
 http://blog.goyello.com/2015/06/23/angular-2/
 http://www.sitepoint.com/whats-new-in-angularjs-2/
 http://habrahabr.ru/post/253469/

@@ -1,0 +1,2 @@
+https://github.com/rollbear/trompeloeil
+https://github.com/rollbear/trompeloeil/blob/master/docs/CookBook.md

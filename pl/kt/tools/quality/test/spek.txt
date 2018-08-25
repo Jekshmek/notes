@@ -5,10 +5,13 @@ https://github.com/JetBrains/spek
 
 https://bintray.com/jetbrains/spek/spek
 
-articles:
+articles
+2018
+https://habr.com/company/qiwi/blog/419699/
+2016
 https://medium.com/@juanchosaravia/keddit-part-9-unit-test-with-kotlin-mockito-spek-76709812e3b6
 
-presentations:
+presentations
 https://www.slideshare.net/rfletcher/testing-with-kotlin
 https://www.slideshare.net/BLStream/kotlin-spek-and-tests
 

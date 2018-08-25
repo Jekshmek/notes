@@ -3,7 +3,10 @@ https://rust-lang.github.io/book/second-edition/ch18-03-pattern-syntax.html
 https://www.reddit.com/r/rust/comments/5n5jt8/matching_enums/
 https://www.reddit.com/r/rust/comments/58vkfo/when_ignoring_in_pattern_matching_why_do_we_need/
 
-ergonomics:
+never-patterns
+http://smallcultfollowing.com/babysteps/blog/2018/08/13/never-patterns-exhaustive-matching-and-uninhabited-types-oh-my/
+
+ergonomics
 https://github.com/rust-lang/rfcs/blob/master/text/2005-match-ergonomics.md
 https://www.reddit.com/r/rust/comments/6h89kb/match_ergonomics_rfc_has_been_accepted/
 

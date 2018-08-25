@@ -1,6 +1,7 @@
 books
 2018
 Li - Jira Software Essentials 2nd ed
+Harned - Hands-On Agile Software Development with JIRA (short)
 
 
 https://confluence.atlassian.com/display/Cloud/Processing+JIRA+issues+with+commit+messages

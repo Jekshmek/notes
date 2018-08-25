@@ -1,3 +1,8 @@
+2018
+Otus - Naive Bayes Classifier ru
+https://habr.com/company/otus/blog/420729/
+    https://www.youtube.com/watch?v=DwLLOAm6lkk
+
 2017
 Bondarenko - Bayes Methods in ML
 https://www.youtube.com/watch?v=BrJ1Gl3N5r0

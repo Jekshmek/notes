@@ -1,0 +1,3 @@
+2018
+https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/
+https://kubuszok.com/2018/kinds-of-types-in-scala-part-2/
