@@ -1,4 +1,6 @@
 2018
+Edureka - Kubernetes Tutorial for Beginners
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
 Kubernetess Webinars
 https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
 Kubernetes The Easy Way

@@ -6,3 +6,5 @@ https://github.com/revolunet/JSbooks
 2018
 Morgan - Simplifying JavaScript
 Heverbeke - Eloquent JavaScript 3rd ed
+2016
+Morgan - 2016 - JavaScript for Kids ru

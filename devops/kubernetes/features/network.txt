@@ -1,3 +1,5 @@
+https://github.com/ahmetb/kubernetes-network-policy-recipes
+
 2017
 https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727
     https://habr.com/company/flant/blog/346304/
