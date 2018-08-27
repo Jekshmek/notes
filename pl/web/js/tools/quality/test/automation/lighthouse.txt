@@ -6,6 +6,7 @@ https://developers.google.com/web/fundamentals/performance/rail
 
 articles
 2018
+https://developers.google.com/web/updates/2018/08/web-performance-made-easy
 https://developers.google.com/web/updates/2018/05/lighthouse3
 https://developers.google.com/web/updates/2018/05/lighthouse
 http://css-live.ru/articles/sostoyanie-del-v-vebe-glavnye-strategii-optimizacii-izobrazhenij.html

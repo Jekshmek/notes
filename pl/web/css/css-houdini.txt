@@ -2,6 +2,7 @@ https://github.com/w3c/css-houdini-drafts/wiki
 
 articles
 2018
+https://css-tricks.com/simple-interactive-pie-chart-with-css-variables-and-houdini-magic/
 https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/
 https://habr.com/company/mailru/blog/282027/
 2016
