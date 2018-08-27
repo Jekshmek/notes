@@ -4,5 +4,8 @@ https://github.com/radare/radare2
 
 https://habrahabr.ru/company/pentestit/blog/339264/
 
+https://github.com/radareorg/cutter
+
 scoop
     radare2
+    cutter
