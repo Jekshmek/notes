@@ -266,3 +266,8 @@ The result of a projection across a map is a list consisting of the evaluation o
 
 Expression templating
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#expressions-templating
+
+static
+    @Getter
+    @Value("${num.fxproc:#{T(java.lang.Runtime).getRuntime().availableProcessors()}}")
+    private int numFXProc;

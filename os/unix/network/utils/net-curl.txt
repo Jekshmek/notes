@@ -14,3 +14,5 @@ curl -XPUT -k -u <usr>:<pwd> -T <filename> <url>/<filename>
 
 curl
     -I, --head
+    -s - silent
+        https://unix.stackexchange.com/questions/196549/hide-curl-output

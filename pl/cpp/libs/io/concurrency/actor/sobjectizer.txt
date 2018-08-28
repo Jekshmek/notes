@@ -8,3 +8,7 @@ https://habr.com/post/359212/
 http://eao197.blogspot.com/2018/06/prog-zguide-zeromq.html
 http://eao197.blogspot.com/2018/06/progflame-zeromq_14.html
 http://eao197.blogspot.com/2018/06/progthoughts-sobjectizer-zeromq.html
+
+presentations
+2018
+https://www.slideshare.net/YauheniAkhotnikau/c-st-petersburg-c-user-group-meetup-aug-2018

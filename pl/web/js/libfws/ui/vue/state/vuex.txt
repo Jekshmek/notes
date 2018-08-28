@@ -1,4 +1,6 @@
 2018
+https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45
+    https://habr.com/post/421551/
 https://www.codementor.io/thomas478/vuex-the-enterprise-setup-m90zecnd1
     https://habr.com/company/ruvds/blog/420357/
 2017

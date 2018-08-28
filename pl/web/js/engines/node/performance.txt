@@ -1,0 +1,8 @@
+2018
+https://nuancesprog.ru/p/1443/
+
+optimizations
+2018
+https://mathiasbynens.be/notes#performance
+https://mathiasbynens.be/notes/shapes-ics
+https://mathiasbynens.be/notes/prototypes
