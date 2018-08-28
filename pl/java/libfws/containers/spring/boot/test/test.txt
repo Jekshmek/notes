@@ -13,22 +13,6 @@ http://www.frommknecht.net/spring-spock-docker-integration/
 web-mvc-test:
 https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
 
-simple-default:
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
-
-@RunWith(SpringRunner.class)
-@SpringBootTest
-public class DemoApplicationTests {
-
-	@Test
-	public void contextLoads() {
-	}
-
-}
-
 whatsnew
 https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4
 https://groovy-coder.com/spring-boot-1-4-testing-features-with-spock/
@@ -40,7 +24,6 @@ https://github.com/spockframework/spock/pull/582/commits/29cac0ae2c1fcca7cb83e95
 
 spock-spring
 http://spockframework.org/spock/docs/1.1/all_in_one.html#_spring_module
-
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-testing-spring-boot-applications-with-spock
 
 dependencies {
@@ -63,5 +46,4 @@ https://github.com/spockframework/spock/tree/master/spock-spring/boot-test
 hang-init:
 https://github.com/spring-projects/spring-boot/blob/master/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/BackgroundPreinitializer.java
 
-misc:
 https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/client/MockRestServiceServer.html
