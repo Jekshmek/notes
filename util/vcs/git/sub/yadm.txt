@@ -1,0 +1,6 @@
+https://thelocehiliosan.github.io/yadm/
+https://github.com/TheLocehiliosan/yadm
+https://github.com/TheLocehiliosan/yadm/blob/master/yadm.md
+
+!
+not using symlinks

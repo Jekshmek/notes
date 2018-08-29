@@ -1,3 +1,11 @@
+2.x
+https://blog.golang.org/go2draft
+    https://www.youtube.com/watch?v=6wIP3rO6On8
+https://go.googlesource.com/proposal/+/master/design/go2draft.md
+https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md
+https://go.googlesource.com/proposal/+/master/design/go2draft-generics-overview.md
+https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
+
 1.11
 https://tip.golang.org/doc/go1.11
 http://www.opennet.ru/opennews/art.shtml?num=49183

@@ -1,4 +1,5 @@
 2018
+https://css-tricks.com/super-power-grid-components-with-css-custom-properties/
 https://medium.freecodecamp.org/css-grid-layout-multiply-conquer-or-how-to-actually-design-using-the-grid-745dfc51e114
 https://habr.com/company/skillbox/blog/418067/
     !!! good practical sample

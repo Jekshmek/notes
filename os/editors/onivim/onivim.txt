@@ -1,0 +1,18 @@
+https://www.onivim.io/
+https://github.com/onivim/oni
+
+https://onivim.github.io/oni-docs/#/
+
+https://github.com/onivim/oni/wiki/Features
+https://www.onivim.io/Features
+
+https://github.com/onivim/oni/wiki/Installation-Guide
+https://www.onivim.io/Download
+aur
+    oni
+    https://aur.archlinux.org/packages/oni/
+scoop/extras
+    oni
+
+presentations
+https://www.youtube.com/channel/UC0L_Wk0G_VShg8fJTBNIlpw
