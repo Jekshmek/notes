@@ -62,7 +62,7 @@ Paschenko - Game 2 - 13                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 28                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 39                                      -   00:00 (of)
+Sorokin - B 40                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -95,8 +95,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 248
-Razbor Poletov                                      - 177 06:40 (of 1:17:36)
-    http://traffic.libsyn.com/razborpoletov/razbor_177.mp3
+Razbor Poletov                                      - 178
     http://traffic.libsyn.com/razborpoletov/razbor_178.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/

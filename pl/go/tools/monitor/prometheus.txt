@@ -11,6 +11,12 @@ https://prometheus.io/download/
 https://github.com/prometheus/prometheus
 https://github.com/prometheus/promu
 
+storage
+https://prometheus.io/docs/prometheus/latest/storage/#operational-aspects
+https://prometheus.io/docs/operating/integrations/#remote-endpoints-and-storage
+https://coreos.com/blog/prometheus-2.0-storage-layer-optimization
+
+thanos
 https://github.com/improbable-eng/thanos
 https://improbable.io/games/blog/thanos-prometheus-at-scale
 https://www.infoq.com/news/2018/06/thanos-scalable-prometheus

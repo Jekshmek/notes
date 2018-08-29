@@ -1,0 +1,3 @@
+2016
+http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/
+    https://habr.com/post/421625/
