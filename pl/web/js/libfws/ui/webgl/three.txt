@@ -15,3 +15,6 @@ https://github.com/toxicFork/react-three-renderer-fiber
 books
 2013
 Sukin - Game Development with ThreeJS
+
+samples
+https://blog.usejournal.com/building-a-rubiks-cube-in-react-three-js-and-good-ole-javascript-96649d1172d9

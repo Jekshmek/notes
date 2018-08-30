@@ -2,10 +2,8 @@ https://abseil.io/
 
 https://github.com/abseil/abseil-cpp
 
-regular types
-https://abseil.io/blog/20180531-regular-types
 
-articles:
+articles
 2018
 https://abseil.io/blog/20180713-coroutine-types
 https://abseil.io/blog/20180227-what-should-go-stdlib
@@ -13,12 +11,13 @@ https://abseil.io/blog/20180227-what-should-go-stdlib
 https://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html
 http://www.opennet.ru/opennews/art.shtml?num=47275
 
-docs:
+docs
 https://abseil.io/about/intro
 https://abseil.io/about/philosophy
 https://abseil.io/about/design/
+https://abseil.io/about/compatibility
 
-dev-guide:
+dev-guide
 https://abseil.io/docs/cpp.html
 https://abseil.io/docs/cpp/quickstart
 https://abseil.io/docs/cpp/platforms/
@@ -31,3 +30,15 @@ https://abseil.io/docs/cpp/guides/
 https://abseil.io/docs/cpp/guides/base
 https://abseil.io/docs/cpp/guides/synchronization
 https://abseil.io/docs/cpp/guides/strings
+https://abseil.io/docs/cpp/guides/format
+
+clang-tidy checks
+https://abseil.io/blog/20180830-clang-tidy
+https://abseil.io/docs/cpp/tools/clang-tidy
+https://github.com/llvm-mirror/clang-tools-extra/tree/master/clang-tidy/abseil
+
+tips !!!
+https://abseil.io/tips/
+
+regular types
+https://abseil.io/blog/20180531-regular-types
