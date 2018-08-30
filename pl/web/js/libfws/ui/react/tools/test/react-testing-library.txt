@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/react-testing-library
+https://github.com/kentcdodds/react-testing-library
+
+replacement of enzyme
+
+2018
+https://www.youtube.com/watch?v=JKOwJUM4_RM

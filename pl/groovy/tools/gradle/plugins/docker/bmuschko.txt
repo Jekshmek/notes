@@ -73,3 +73,16 @@ docker {
         email = 'john.doe@gmail.com'
     }
 }
+
+spring-boot integration
+http://bmuschko.github.io/gradle-docker-plugin/#spring_boot_application_plugin
+https://bmuschko.com/blog/dockerized-spring-boot-app/
+https://github.com/bmuschko/gradle-docker-plugin/pull/619
+
+shading
+dependencies {
+    // dockerJava jar hell fix
+    dockerJava 'com.nirima:docker-java-shaded:0.16.2' -> docker-java-shaded-3.1.0-rc-3
+    dockerJava 'org.slf4j:slf4j-simple:1.7.5'
+    dockerJava 'cglib:cglib:3.2.0'
+}
