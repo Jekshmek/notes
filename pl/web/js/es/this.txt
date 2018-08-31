@@ -1,2 +1,0 @@
-2018
-https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/

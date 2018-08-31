@@ -1,4 +1,6 @@
 http://goalkicker.com/PythonBook/
+https://pavel-karateev.gitbook.io/intermediate-python/
+https://github.com/lancelote/interpy-ru/
 
 2018
 Fedorov - Python Fundamentals ru (good intro!)

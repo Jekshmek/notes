@@ -3,5 +3,8 @@ Ornbo - Go in 24 Hours
 Newmarch - Network Programming with Go
 Jain - Data Structures and Algorithms In Go
 
+2016
+Kennedy - Go in Action
+
 ?
 Dokski - Intro to Go Programming ru
