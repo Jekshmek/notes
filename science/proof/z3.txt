@@ -1,0 +1,6 @@
+https://github.com/Z3Prover/z3
+
+https://github.com/Z3Prover/z3/wiki/Slides
+https://github.com/Z3Prover/z3/wiki/Publications
+
+https://github.com/Z3Prover/z3/tree/master/examples/java

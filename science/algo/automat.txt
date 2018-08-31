@@ -2,6 +2,10 @@ Shalyto - SWITCH
 http://is.ifmo.ru/
 http://is.ifmo.ru/books/switch/1
 
+books
+2016
+Linz - An Introduction to Formal Languages and Automata 6th ed
+
 2018
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
 https://habrahabr.ru/company/ruvds/blog/346908/
