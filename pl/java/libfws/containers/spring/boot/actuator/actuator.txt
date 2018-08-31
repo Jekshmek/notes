@@ -5,10 +5,3 @@ https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/s
 https://spring.io/blog/2017/08/22/introducing-actuator-endpoints-in-spring-boot-2-0
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready
-
-metrics - micrometer
-https://micrometer.io/
-https://micrometer.io/docs
-https://micrometer.io/docs/concepts
-https://micrometer.io/docs/registry/prometheus
-https://github.com/micrometer-metrics/micrometer

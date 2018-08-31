@@ -3,3 +3,6 @@ http://goalkicker.com/PythonBook/
 2018
 Fedorov - Python Fundamentals ru (good intro!)
 Kalb - Learn to Program with Python 3 2nd ed
+
+2017
+Briggs - Python for Kids ru

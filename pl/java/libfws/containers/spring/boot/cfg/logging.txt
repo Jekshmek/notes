@@ -1,0 +1,8 @@
+2018
+https://memorynotfound.com/spring-boot-customize-actuator-info-endpoint-example-configuration/
+
+logging:
+  level:
+      - ".=info"
+      - "com.memorynotfound=debug"
+      - "org.springframework=info"

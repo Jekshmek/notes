@@ -16,6 +16,7 @@ https://recompose.docsforhumans.com/
 
 articles
 2018
+https://blog.usejournal.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
 https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
