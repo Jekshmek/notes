@@ -6,6 +6,8 @@ https://crates.io/crates/ndarray-linalg
 https://docs.rs/ndarray-linalg/0.3.0/ndarray_linalg/
 https://github.com/termoshtt/ndarray-linalg
 
+https://crates.io/crates/ndarray-csv
+
 whatsnew:
 https://jim.turner.link/pages/ndarray-0.11/
 https://bluss.github.io//rust/2017/04/09/ndarray-0.9/
