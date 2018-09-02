@@ -1,0 +1,9 @@
+https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
+https://github.com/vadimcn/vscode-lldb
+
+https://github.com/vadimcn/vscode-lldb/wiki
+https://github.com/vadimcn/vscode-lldb/wiki/Installing-on-Linux
+https://github.com/vadimcn/vscode-lldb/wiki/Installing-on-Windows
+https://github.com/vadimcn/vscode-lldb/wiki/Data-visualization
+
+https://github.com/vadimcn/vscode-lldb/blob/master/MANUAL.md
