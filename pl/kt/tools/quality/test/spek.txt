@@ -7,6 +7,7 @@ https://bintray.com/jetbrains/spek/spek
 
 articles
 2018
+https://blog.98elements.com/kotlin-gradle-spek-2-junit-5/
 https://habr.com/company/qiwi/blog/419699/
 2016
 https://medium.com/@juanchosaravia/keddit-part-9-unit-test-with-kotlin-mockito-spek-76709812e3b6

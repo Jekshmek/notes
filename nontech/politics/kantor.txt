@@ -43,6 +43,7 @@ http://flibusta.is/b/354038
     ! marsh besprizornikov
     ! zapiski vse esche ne sumasshedshego
     ! Chto budem delat
+    ! V ozhidanii fyurera
 
 misc
 piessa - medlenny ogon

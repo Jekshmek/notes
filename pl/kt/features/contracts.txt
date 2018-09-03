@@ -1,2 +1,5 @@
+https://github.com/Kotlin/KEEP/blob/master/proposals/kotlin-contracts.md
+
 2018
+https://proandroiddev.com/kotlin-contracts-make-great-deals-with-the-compiler-f524e57f11c
 https://www.bignerdranch.com/blog/write-better-code-using-kotlins-require-check-and-assert/
