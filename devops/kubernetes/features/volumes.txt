@@ -1,5 +1,6 @@
 https://kubernetes.io/docs/concepts/storage/volumes/
 
-persistent:
+persistent
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 https://www.youtube.com/watch?v=E8uGIeiaaUQ
+https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/

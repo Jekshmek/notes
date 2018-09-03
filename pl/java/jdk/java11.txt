@@ -10,3 +10,7 @@ https://dzone.com/articles/what-is-project-amber-in-java
 valhala
 http://jdk.java.net/valhalla/
 http://marxsoftware.blogspot.com/2018/08/valhalla-lworld-valuetypes-ea-build-0.html
+
+http-client
+https://dzone.com/articles/java-11-standardized-http-client-api
+https://github.com/manouti/java-http-client-api

@@ -1,3 +1,6 @@
+1.11
+https://kubernetes.io/blog/2018/06/27/kubernetes-1.11-release-announcement/
+
 1.10
 https://kubernetes.io/blog/2018/03/27/kubernetes-1.10-stabilizing-storage-security-networking/
 https://www.infoq.com/news/2018/04/kubernetes-1.10-cross-cloud
