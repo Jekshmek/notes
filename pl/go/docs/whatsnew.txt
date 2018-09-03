@@ -4,6 +4,7 @@ https://blog.golang.org/go2draft
 https://go.googlesource.com/proposal/+/master/design/go2draft.md
 https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md
 https://go.googlesource.com/proposal/+/master/design/go2draft-generics-overview.md
+    https://habr.com/post/422049/
 https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
 
 1.11

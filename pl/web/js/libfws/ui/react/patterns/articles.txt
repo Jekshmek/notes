@@ -1,4 +1,5 @@
 2018
+https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html
 http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 https://github.com/krasimir/react-in-patterns
 https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0

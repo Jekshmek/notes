@@ -1,0 +1,3 @@
+2018
+RustCast#7 - How to implement Iterator in Rust programming language
+https://www.youtube.com/watch?v=pgFWz0jgqMU
