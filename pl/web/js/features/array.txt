@@ -1,4 +1,6 @@
 2018
+https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c
+    https://habr.com/company/ruvds/blog/422091/
 https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays
 https://medium.freecodecamp.org/7-javascript-methods-that-will-boost-your-skills-in-less-than-8-minutes-4cc4c3dca03f
     https://habr.com/company/ruvds/blog/358306/
