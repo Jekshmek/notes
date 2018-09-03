@@ -96,6 +96,8 @@ Stru-ParenIzPreispodney
 Stru-VtoroeNashestvieMarsian
     2018-04-20-odin-0005 (around   45:00)
 Stru-Misc
+    2018-08-10-odin-0009
+        Zhensky obraz (30:00 ...)
     Bykov - Gogol - 1:08:00 (of 1:32:14)
         https://yadi.sk/d/g4XsD9h43ZEs3E
     2017-04-14-odin-0005

@@ -3,16 +3,15 @@ https://github.com/acdlite/recompose
 
 wiki
 https://github.com/acdlite/recompose/wiki/Recipes
-
 api
 https://github.com/acdlite/recompose/blob/master/docs/API.md
-
-typescript
-https://github.com/acdlite/recompose/issues/231
-https://github.com/acdlite/recompose/pull/241
-
 guides
 https://recompose.docsforhumans.com/
+
+typescript
+https://github.com/evolution-gaming/typed-recompose
+https://github.com/acdlite/recompose/issues/231
+https://github.com/acdlite/recompose/pull/241
 
 articles
 2018
@@ -29,7 +28,18 @@ https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51
 
 presentations
+2017
+Olena Sovyn - Understanding Recompose through examples
+https://www.slideshare.net/fwdays/olena-sovyn-understanding-recompose-through-examples
+    https://www.youtube.com/watch?v=apjcdriP7P0
+ReactCast#11 - Recompose (fuflo)
+https://www.youtube.com/watch?v=SQtrgiLy3Fo
+FroDev - Recompose - Higher-Order Components (need to look)
+https://www.youtube.com/watch?v=6-Xb3Eg40Fc
+https://www.youtube.com/watch?v=SzY5KQJ0mXw
 2016
+Gelman - Higher-Order Components
+https://www.slideshare.net/500Tech/higherorder-components-ilya-gelman
 Clark - Recomposing your React application
 https://www.youtube.com/watch?v=zD_judE-bXk
 
@@ -37,7 +47,3 @@ redux-samples
 https://jsfiddle.net/samsch/p3vsmrvo/24/
 
 toRenderProps/fromRenderProps
-
-typescript
-https://github.com/evolution-gaming/typed-recompose
-https://github.com/acdlite/recompose/issues/231
