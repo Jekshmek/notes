@@ -32,7 +32,7 @@ uchebnik risovaniya
 http://flibusta.is/b/260402/read
 http://flibusta.is/b/185227/read
 http://flibusta.is/b/185228/read
-krasny svet
+krasny svet !
 http://flibusta.is/b/326597/read
 hronika strizhki ovec
 http://flibusta.is/b/354038
@@ -44,6 +44,7 @@ http://flibusta.is/b/354038
     ! zapiski vse esche ne sumasshedshego
     ! Chto budem delat
     ! V ozhidanii fyurera
+    ! Dinariy Kesarya
 
 misc
 piessa - medlenny ogon
