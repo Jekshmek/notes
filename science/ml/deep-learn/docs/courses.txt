@@ -4,6 +4,7 @@ https://www.youtube.com/playlist?list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
     https://habr.com/post/414165/
 CMU 11-785
 http://deeplearning.cs.cmu.edu/
+    http://deeplearning.cs.cmu.edu/slides/
 VSHE - Deep Learning
 https://www.hse.ru/ba/ami/courses/205504078.html
 https://github.com/aosokin/DL_CSHSE_spring2018

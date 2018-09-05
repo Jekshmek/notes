@@ -106,6 +106,10 @@ torrents
 torrentus
 rutororg
 
+hacking
+hacker_lib
+hacker_frei
+
 puzzles, thinking
 prokachai_mozgi
 creative

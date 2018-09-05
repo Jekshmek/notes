@@ -14,7 +14,7 @@ http://flibusta.is/a/59222
 Imperiya Naiznanku
 http://flibusta.is/b/401450
 
-setevye publikacii
+setevye publikacii (overlaps with hronika)
 http://flibusta.is/b/307845/read
 
 small
@@ -45,6 +45,7 @@ http://flibusta.is/b/354038
     ! Chto budem delat
     ! V ozhidanii fyurera
     ! Dinariy Kesarya
+    ! Nash dobryi znokomyi (Vjacheslav Rudolfovich Menzhinskiy)
 
 misc
 piessa - medlenny ogon
