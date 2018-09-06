@@ -1,0 +1,5 @@
+2018
+https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type
+2017
+https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await
+https://lewissbaker.github.io/2017/09/25/coroutine-theory

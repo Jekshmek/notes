@@ -1,4 +1,5 @@
 2018
+https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 https://habr.com/post/416511/
