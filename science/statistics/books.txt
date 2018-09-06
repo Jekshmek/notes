@@ -42,8 +42,11 @@ Zhakod, Shiryaev - Predelnye teoremy
     https://vk.com/doc126754362_437463873
     https://vk.com/doc126754362_437463884
 
+2016
+Unpingco - Python for Probability, Statistics and Machine Learning
+
 2014
-Chung - 2014 - Elementary Probability Theory 4th ed ru !!!
+Chung - Elementary Probability Theory 4th ed ru !!!
 
 2006
 Volodin Tihonov Turilova - Math fundamentals of probability

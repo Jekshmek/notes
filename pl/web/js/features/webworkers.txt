@@ -1,4 +1,5 @@
 2018
+https://alligator.io/js/service-workers/
 https://auth0.com/blog/speedy-introduction-to-web-workers/
 https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2
     https://habrahabr.ru/company/ruvds/blog/352828/

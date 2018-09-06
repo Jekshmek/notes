@@ -30,3 +30,6 @@ presentations
 Uvarov - Chrome DevTools Overeview
 https://www.youtube.com/watch?v=P753B81-szE
     http://s.csssr.ru/U31J879TR/DevtoolsOverview.pdf
+
+whatsnew
+https://developers.google.com/web/updates/2018/08/devtools

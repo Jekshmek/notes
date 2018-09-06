@@ -6,3 +6,7 @@ CSS Variables Tutorial (CSS Custom Properties)
 https://www.youtube.com/watch?v=sQUB039MG0I
 CSS Variable Secrets
 https://www.youtube.com/watch?v=UQRSaG1hQ20
+
+2017
+https://codeburst.io/a-quick-guide-to-css-variables-6f7f5c7465dd
+    https://habr.com/company/poiskvps/blog/422487/
