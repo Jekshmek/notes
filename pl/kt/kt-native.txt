@@ -2,6 +2,7 @@ https://github.com/JetBrains/kotlin-native/
 https://github.com/JetBrains/kotlin-native/blob/master/INTEROP.md
 
 whatsnew
+https://blog.jetbrains.com/kotlin/2018/09/kotlinnative-v0-9-is-here/
 https://blog.jetbrains.com/kotlin/2018/07/kotlinnative-v0-8-released/
 https://blog.jetbrains.com/kotlin/2018/04/kotlinnative-v0-7-released-smoother-interop-frozen-objects-optimisations-and-more/
 https://blog.jetbrains.com/kotlin/2018/02/kotlinnative-v0-6-is-here/

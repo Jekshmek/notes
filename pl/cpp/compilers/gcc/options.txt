@@ -1,7 +1,14 @@
 2018
 https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/
 
-- optimization:
+optimization
 -O3
 -fomit-frame-pointer
 -funroll-all-loops
+
+prifiling
+-pg
+LDFLAGS="-pg"
+
+debug
+-g
