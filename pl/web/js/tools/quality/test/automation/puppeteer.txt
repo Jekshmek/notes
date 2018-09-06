@@ -26,6 +26,9 @@ https://github.com/checkly/puppeteer-recorder
 
 presentations
 2018
+Slobodin - How Headless Chrome works
+https://habr.com/company/oleg-bunin/blog/421137/
+https://www.youtube.com/watch?v=WPcahL2K27w
 Viziyanov - Autostop to Puppeteer ru
 https://www.youtube.com/watch?v=iw7XM5EBbGs
 google io - The power of Headless Chrome and browser automation

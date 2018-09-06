@@ -1,6 +1,8 @@
 zgc
 https://wiki.openjdk.java.net/display/zgc/Main
+
 2018
+https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
 https://jaxenter.com/jep-333-zgc-targeted-jdk-11-145414.html
 https://www.youtube.com/watch?v=tShc0dyFtgw
 
