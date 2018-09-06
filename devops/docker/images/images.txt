@@ -37,11 +37,3 @@ sudo docker build [options] .
 
 files:
 .dockerignore
-
-Cleanin up:
-
-docker rmi $(docker images -q -f "dangling=true")
-
-delete all images
-
-sudo docker rmi -f $(sudo docker images -q)
