@@ -1,1 +1,31 @@
 https://github.com/acdlite/recompose/blob/master/docs/API.md
+
+compose
+
+withState
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate
+    withState('isVisible', 'toggleVis', false)
+        * (stateName) the state key isVisible,
+        * (stateUpdaterName) a method to toggleVis,
+        * (initialState) - false.
+
+withHandlers
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withhandlers
+    create higher-order functions that accept a set of props and return a function handler
+
+    withHandlers({
+        toggleVisibility: ({ toggleVis, isVisible }) => {
+            return (event) => {
+                return toggleVis(!isVisible);
+            };
+        },
+    })
+
+withProps
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
+    withProps(({ isVisible }) => {
+        return {
+            title  : isVisible ? 'This is the visible title' : 'This is the default title',
+            message: isVisible ? 'Hello I am Visible'        : 'I am not visible yet, click the button!',
+        };
+    })

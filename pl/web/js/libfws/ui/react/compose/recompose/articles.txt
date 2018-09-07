@@ -18,9 +18,12 @@ http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
 2017
 https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
-https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51
 https://blog.bigbinary.com/2017/09/12/using-recompose-to-build-higher-order-components.html
 http://trevorgk.js.org/2017/06/18/react-component-composition/
+just a single compose-fun from recompose
+    https://www.robinwieruch.de/gentle-introduction-higher-order-components/
+    https://www.robinwieruch.de/conditional-rendering-react/
+    https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 2016
 https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101
