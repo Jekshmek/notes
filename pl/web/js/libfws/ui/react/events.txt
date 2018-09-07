@@ -1,6 +1,9 @@
 https://reactjs.org/docs/handling-events.html
 https://reactjs.org/docs/events.html
 
+2018
+https://css-tricks.com/working-with-events-in-react/
+
 react wraps browser native events to:
 SyntheticEvent
     .stopPropagation()

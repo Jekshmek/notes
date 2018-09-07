@@ -2,3 +2,5 @@ objdump
     -TC
     -p
         get imports table
+    -dr
+        show asm
