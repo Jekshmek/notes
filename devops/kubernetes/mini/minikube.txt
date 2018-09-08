@@ -61,3 +61,6 @@ users:
     machines/minikube/config.json
 
 https://stackoverflow.com/questions/38870277/minikube-how-to-ssh-into-the-vm
+
+tips
+docker save <registry-name>:<registry-port>/<img-name>:<img-tag> | ssh -i $(minikube ssh-key) docker@$(minikube ip) 'docker load'
