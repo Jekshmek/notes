@@ -1,5 +1,6 @@
 https://custom-elements-everywhere.com/
 https://github.com/webcomponents/custom-elements-everywhere
+https://developers.google.com/web/fundamentals/web-components/customelements
 
 https://learn.javascript.ru/webcomponent-core
 

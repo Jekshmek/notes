@@ -11,6 +11,11 @@ https://internals.rust-lang.org/t/blog-series-lowering-rust-traits-to-logic/4673
 
 presentations
 2018
+Hertleif - A generalists view of traits !!! good overview
+https://www.youtube.com/watch?v=3YCqgwpuFM0
+    https://media.ccc.de/v/rustcologne.2018.09.generalists-view-traits
+    https://killercup.github.io/presentation-traits-from-the-ground-up/index.html#/
+    https://github.com/killercup/presentation-traits-from-the-ground-up
 Shamrell-Harrington - Traits and You
 https://www.youtube.com/watch?v=grU-4u0Okto
 

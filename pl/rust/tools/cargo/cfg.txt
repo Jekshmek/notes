@@ -97,6 +97,8 @@ https://rust-lang.github.io/book/second-edition/ch14-03-cargo-workspaces.html
 add-one = { path = "add-one" }
 [workspace]
 
+workspace samples
+https://github.com/spacejam/sled/blob/master/Cargo.toml
 
 err-processing
 panic = 'abort'

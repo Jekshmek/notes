@@ -1,4 +1,5 @@
 2018
+Nelson - Getting to Know VueJS
 Macrae - VueJS up and Running
 
 2017
