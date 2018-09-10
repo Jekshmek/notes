@@ -30,6 +30,17 @@ withProps
         };
     })
 
+mapProps
+    map one props to another
+mapAsyncProps
+    ?
+when
+    ?
+renderComponent
+    ?
+pipe/mapValue/enhance
+    ?
+
 branch
     https://github.com/acdlite/recompose/blob/master/docs/API.md#branch
     const cashOnDelivery = 'CASH_ON_DELIVERY';

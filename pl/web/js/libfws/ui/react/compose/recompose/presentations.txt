@@ -7,6 +7,8 @@ https://www.slideshare.net/fwdays/olena-sovyn-understanding-recompose-through-ex
     https://www.youtube.com/watch?v=apjcdriP7P0
 BostonReact - Increasing Modularity with Recompose (no slides)
 https://www.youtube.com/watch?v=E1-Yc_p4Axo
+Graf - ReactEurope - Composition (misc stuff)
+https://www.youtube.com/watch?v=qJgff2spvzM
 ReactCast#11 - Recompose (fuflo)
 https://www.youtube.com/watch?v=SQtrgiLy3Fo
 2016

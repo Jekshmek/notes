@@ -78,6 +78,7 @@ http://flibusta.is/b/354038
     ! Nash dobryi znokomyi (Vjacheslav Rudolfovich Menzhinskiy)
     ! Restavracii ne poddaetsya
     ! Tsvet kardinalskoy shapki (grazhdanin pop)
+    ! Zvezdochki na pogonah
 
 misc
 piessa - medlenny ogon

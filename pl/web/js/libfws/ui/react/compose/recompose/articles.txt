@@ -19,6 +19,7 @@ https://blog.koan.co/easier-react-component-testing-through-dependency-injection
 2017
 https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
 https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51
+    https://medium.com/open-graphql/how-i-write-mutations-in-apollo-w-recompose-1c0ab06ef4ea
 https://blog.bigbinary.com/2017/09/12/using-recompose-to-build-higher-order-components.html
 http://trevorgk.js.org/2017/06/18/react-component-composition/
 just a single compose-fun from recompose

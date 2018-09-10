@@ -121,7 +121,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - klevetnikam rossii 788
+Kantor - Hronika                                    - ulybka dzhokondy 808
 Kantor - Imperiya nauznanku                         - 27.2 (of 767)
 
 nlp - word vectors
