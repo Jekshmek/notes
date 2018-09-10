@@ -14,3 +14,8 @@ https://speakerdeck.com/csssr/styled-components-artalar-react-moscow-meetup-numb
 https://www.youtube.com/watch?v=eOBz3_mQwo8
 Styled Components For Your React Apps
 https://www.youtube.com/watch?v=pHHsSkkjQns
+
+whatsnew
+https://www.styled-components.com/docs/faqs#what-do-i-need-to-do-to-migrate-to-v4
+https://medium.com/styled-components/announcing-styled-components-v4-better-faster-stronger-3fe1aba1a112
+    https://habr.com/company/ruvds/blog/422783/

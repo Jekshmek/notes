@@ -1,2 +1,5 @@
 https://blog.golang.org/defer-panic-and-recover
 https://hackernoon.com/correct-error-handling-is-hard-307ea72759c7
+
+2018
+https://habr.com/post/422419/
