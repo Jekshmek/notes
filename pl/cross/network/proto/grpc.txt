@@ -3,6 +3,9 @@ https://grpc.io/docs/
 https://developers.google.com/protocol-buffers/docs/reference/overview
 
 presentations:
+2018
+Bierleutgeb - Efficient Service Communication with gRPC
+https://www.infoq.com/presentations/grpc-service-communication
 2017
 Tsang - gRPC 101 for Java Developers
 https://www.youtube.com/watch?v=DU-q5kOf2Rc

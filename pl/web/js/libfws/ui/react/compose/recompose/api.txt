@@ -29,3 +29,20 @@ withProps
             message: isVisible ? 'Hello I am Visible'        : 'I am not visible yet, click the button!',
         };
     })
+
+branch
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#branch
+    const cashOnDelivery = 'CASH_ON_DELIVERY';
+    const enhance = branch(
+      (props) => (props.paymentType === cashOnDelivery)
+      renderComponent(CashScreen),
+      renderNothing
+    )
+
+renderComponent
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#rendercomponent
+    takes a component and returns an HOC version of it
+
+renderNothing
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#rendernothing
+    always renders null

@@ -5,7 +5,8 @@ extra
 
 books
 2018
-Verma - Net Core 2 by Example
+Metzgar - DotNET Core in Action
+Verma - NET Core 2 by Example
 
 dist
 https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-preview2-download.md

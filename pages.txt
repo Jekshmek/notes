@@ -1,5 +1,6 @@
 https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
 https://predanie.ru/somin-nikolay-vladimirovich/pravoslavnyy-socializm/slushat/
+https://towardsdatascience.com/lite-intro-into-reinforcement-learning-857ca5c924d9
 
 URLs
 https://habr.com/post/417999/
@@ -116,7 +117,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Hronika                                    - ruki i mylo 750
+Kantor - Hronika                                    - klevetnikam rossii 788
 Kantor - Imperiya nauznanku                         - 27.2 (of 767)
 
 nlp - word vectors
