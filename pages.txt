@@ -44,6 +44,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
+Pozner - Kantor                                     -   30:00 (of   50:23)
+    https://www.youtube.com/watch?v=nZI9VnxH_5Y
 Bykov - Svanidze - chto chitala strana              -   00:00 (of 1:34:56)
     https://www.youtube.com/watch?v=Da24qlDJYP0
 Bykov - Mayak 1                                     -   26:00 (of   41:31)
@@ -102,8 +104,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 250
-Razbor Poletov                                      - 180 35:00 (of 2:10:10)
-    http://traffic.libsyn.com/razborpoletov/razbor_179.mp3
+Razbor Poletov                                      - 180 1:36:00 (of 2:10:10)
     http://traffic.libsyn.com/razborpoletov/razbor_180.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
