@@ -2,3 +2,6 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 https://gitlens.amod.io/
 https://github.com/eamodio/vscode-gitlens
+
+2018
+CodingTech - GitHub PRs for VSCode

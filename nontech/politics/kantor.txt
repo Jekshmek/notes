@@ -79,6 +79,8 @@ http://flibusta.is/b/354038
     ! Restavracii ne poddaetsya
     ! Tsvet kardinalskoy shapki (grazhdanin pop)
     ! Zvezdochki na pogonah
+    ! Russkiy Intelligent (Viktor Leonidovich Toporov)
+    ! Princip Sirano
 
 misc
 piessa - medlenny ogon
