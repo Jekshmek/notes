@@ -13,3 +13,7 @@ presentations
 2018
 https://www.slideshare.net/YauheniAkhotnikau/c-st-petersburg-c-user-group-meetup-aug-2018
     https://www.youtube.com/watch?v=c1qSVSHoMjU
+
+articles
+2018
+http://eao197.blogspot.com/2018/09/progflame-akka-sobjectizer.html

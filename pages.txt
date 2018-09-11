@@ -44,13 +44,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Pozner - Kantor                                     -   30:00 (of   50:23)
-    https://www.youtube.com/watch?v=nZI9VnxH_5Y
-Bykov - Svanidze - chto chitala strana              -   00:00 (of 1:34:56)
-    https://www.youtube.com/watch?v=Da24qlDJYP0
-Bykov - Mayak 1                                     -   26:00 (of   41:31)
-    https://www.youtube.com/watch?v=lpOR_bgnAGA
-    https://www.youtube.com/watch?v=gl30cbnmAr4
+Bykov - Single                                      -   05:00 (of 1:46:47)
+    https://cdn.echo.msk.ru/snd/2018-08-31-odin-0006.mp3
 Tarkovsky
     https://www.youtube.com/watch?v=VR5Xe2mChOM
     https://www.youtube.com/watch?v=oGxfJLbGCxk
@@ -68,7 +63,7 @@ Kuraev                                              -   10:00 (of 1:31:35)
     https://www.youtube.com/watch?v=LZcnCyqaL9g
 Paschenko - Game 2 - 15 a                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 29                                         -   00:00 (of)
+Ivliev - 01                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 41                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -104,7 +99,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 250
-Razbor Poletov                                      - 180 1:36:00 (of 2:10:10)
+Razbor Poletov                                      - 180
     http://traffic.libsyn.com/razborpoletov/razbor_180.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
