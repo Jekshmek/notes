@@ -1,0 +1,3 @@
+2018
+https://blog.therocode.net/2018/08/simplest-entity-component-system
+    https://habr.com/company/otus/blog/422981/

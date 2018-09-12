@@ -40,6 +40,7 @@ vars
 RUSTUP_HOME (~/.rustup)
 
 RUSTUP_DIST_SERVER=https://dev-static.rust-lang.org rustup update nightly
+RUSTUP_DIST_SERVER=https://dev-static.rust-lang.org rustup update stable 
 
 fs:
 ~/.rustup
