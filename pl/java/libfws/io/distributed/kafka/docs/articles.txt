@@ -2,7 +2,12 @@
 https://habr.com/post/354486/
 https://habr.com/company/itsumma/blog/416629/ (kafka vs rabbit)
 
+2017
+https://www.confluent.io/blog/build-services-backbone-events/
+https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/
+
 2016
+https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/
 https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026
 http://aseigneurin.github.io/2016/03/02/kafka-spark-avro-kafka-101.html
 http://aseigneurin.github.io/2016/03/03/kafka-spark-avro-consume-messages-with-spark.html
