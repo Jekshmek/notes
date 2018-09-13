@@ -1,3 +1,5 @@
 2018
 https://itnext.io/turning-an-angular-6-app-into-a-progressive-web-app-9e6fc6361ba6
 https://habr.com/post/413679/
+
+https://developers.google.com/web/tools/workbox/

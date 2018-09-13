@@ -198,6 +198,11 @@ generics:
 http://hackage.haskell.org/package/server-generic
 http://www.haskellforall.com/2016/07/auto-generate-service-api-endpoints.html
 
+Dhall - 2018
+https://functional.works-hub.com/learn/bowl-full-of-lentils-fcbf3
+https://github.com/FintanH/blogs/blob/master/dhall-fp.md
+https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint.html
+
 Dhall - template:
 http://www.haskellforall.com/2017/06/dhall-is-now-template-engine.html
 

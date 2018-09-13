@@ -11,7 +11,7 @@ https://habr.com/company/philtech/blog/354596/
 https://habr.com/company/philtech/blog/414499/
     chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Aug 15
+    Aug 19
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -98,7 +98,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
 
 Tracking
-This week in rust                                   - 250
+This week in rust                                   - 251
 Razbor Poletov                                      - 181 03:00 (of 19:31)
     http://traffic.libsyn.com/razborpoletov/razbor_181.mp3
 ACCU Overload                                       - 146
@@ -116,7 +116,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 21.4 (of 767)
+Kantor - Imperiya nauznanku                         - 47.1 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

@@ -1,4 +1,5 @@
 https://github.com/rust-lang/rfcs/blob/master/text/1598-generic_associated_types.md
 
 2018
+https://medium.com/@koreanboy1120/rust-associated-type-2281dbf98229
 https://boats.gitlab.io/blog/post/async-methods-i/

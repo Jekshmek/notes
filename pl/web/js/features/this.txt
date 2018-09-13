@@ -1,4 +1,6 @@
 2018
+Academind - JS "this" and Function References
+https://www.youtube.com/watch?v=Pv9flm-80vM
 https://medium.freecodecamp.org/what-to-do-when-this-loses-context-f09664af076f
     https://habr.com/post/421959/
 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
