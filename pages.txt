@@ -44,7 +44,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   05:00 (of 1:46:47)
+Bykov - Single                                      - 1:26:00 (of 1:46:47)
     https://cdn.echo.msk.ru/snd/2018-08-31-odin-0006.mp3
 Tarkovsky
     https://www.youtube.com/watch?v=VR5Xe2mChOM
@@ -99,7 +99,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 251
-Razbor Poletov                                      - 181 03:00 (of 19:31)
+Razbor Poletov                                      - 181
     http://traffic.libsyn.com/razborpoletov/razbor_181.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
