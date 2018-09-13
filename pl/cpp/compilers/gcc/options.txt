@@ -2,6 +2,7 @@
 https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/
 
 optimization
+http://www.fsfla.org/~lxoliva/writeups/gOlogy/gOlogy.txt
 -O3
 -fomit-frame-pointer
 -funroll-all-loops

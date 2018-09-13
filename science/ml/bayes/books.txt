@@ -1,4 +1,6 @@
 Downey - Think Bayes
+
+2012
 Barber - Bayesian Reasoning and Machine Learning
     math and big
     http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/181115.pdf

@@ -39,6 +39,10 @@ cargo
         --open
     deadlinks
         to show dead links
+    fix
+        fix warning
+    clippy
+        check code for common mistakes
     test [test-name-or-substr]
         --help
         --test test-name-or-substr
