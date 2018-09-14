@@ -1,7 +1,11 @@
-SharedLibrary and StaticLibrary tasks are lifecycle tasks - such task does not define outputs but is a kind of task that is used to define dependency on it.
+SharedLibrary and StaticLibrary tasks are lifecycle tasks -
+    such task does not define outputs but is a kind of task that is used to define dependency on it.
 For instance check from java plugin task is a kind of such task. 
 
+dependentComponents
+    --all
 components
+
     list "build components" (for Native plugins)
 
 Source sets

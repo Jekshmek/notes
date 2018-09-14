@@ -13,3 +13,14 @@ sourceSets {
 task printProperties << }
     sourceSets.matching { it.purpose == "production" }.each { println it.name }
 }
+
+/*
+sourceSets {
+    main {
+        proto {
+            srcDirs = [ "${repoRootDir}/api/src/main/proto", ]
+            includes = [ '** / *.proto', ]
+        }
+    }
+}
+*/
