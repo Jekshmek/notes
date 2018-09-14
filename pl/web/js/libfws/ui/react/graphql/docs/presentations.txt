@@ -1,4 +1,6 @@
 2018
+CodingTech - GraphQL - The Good Parts
+https://www.youtube.com/watch?v=1c4M7fYs1Jk
 Zprucky - Fresh Look at GraphQL API
 https://www.youtube.com/watch?v=4diXbLnYrMs
     https://drive.google.com/file/d/174peSi-zvTuBB9g_Sgf9qyZnJCY9T4UG/view

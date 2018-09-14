@@ -1,7 +1,5 @@
-https://blog.predanie.ru/article/razmyshleniya-o-tserkovnoslavyanskom-yazyke/
 https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
 https://predanie.ru/somin-nikolay-vladimirovich/pravoslavnyy-socializm/slushat/
-https://towardsdatascience.com/lite-intro-into-reinforcement-learning-857ca5c924d9
 
 URLs
 https://habr.com/post/417999/

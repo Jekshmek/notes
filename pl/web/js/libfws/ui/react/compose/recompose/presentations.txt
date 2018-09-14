@@ -12,9 +12,9 @@ https://www.youtube.com/watch?v=qJgff2spvzM
 ReactCast#11 - Recompose (fuflo)
 https://www.youtube.com/watch?v=SQtrgiLy3Fo
 2016
-Gelman - Higher-Order Components
-https://www.slideshare.net/500Tech/higherorder-components-ilya-gelman
 Clark - Recomposing your React application (no slides)
 https://www.youtube.com/watch?v=zD_judE-bXk
+Gelman - Higher-Order Components
+https://www.slideshare.net/500Tech/higherorder-components-ilya-gelman
 ?
 http://slides.com/djgrant/deck#/

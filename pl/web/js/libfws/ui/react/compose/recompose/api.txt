@@ -20,6 +20,11 @@ withHandlers
             };
         },
     })
+    Handlers are passed to the base component as immutable props, whose identities are preserved across renders.
+    This avoids a common pitfall where functional components create handlers inside the body of the function,
+    which results in a new handler on every render and breaks downstream shouldComponentUpdate() optimizations that rely on prop equality.
+    This is the main reason to use withHandlers to create handlers instead of using mapProps or withProps,
+    which will create new handlers every time when it get updated.
 
 withProps
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
@@ -30,6 +35,24 @@ withProps
         };
     })
 
+nest
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#nest
+    Composes components by nesting each one inside the previous.
+        https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
+
+    // Given components A, B, and C
+    const ABC = nest(A, B, C)
+    <ABC pass="through">Child</ABC>
+
+    // Effectively the same as
+    <A pass="through">
+        <B pass="through">
+            <C pass="through">
+                Child
+            </C>
+        </B>
+    </A>
+    
 mapProps
     map one props to another
 mapAsyncProps
