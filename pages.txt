@@ -43,8 +43,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      - 1:26:00 (of 1:46:47)
-    https://cdn.echo.msk.ru/snd/2018-08-31-odin-0006.mp3
+Bykov - about school                                -   20:00 (of 1:12:24)
+    https://www.youtube.com/watch?v=MYgpfgCu0Xk
 Tarkovsky
     https://www.youtube.com/watch?v=VR5Xe2mChOM
     https://www.youtube.com/watch?v=oGxfJLbGCxk
@@ -115,7 +115,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 47.1 (of 767)
+Kantor - Imperiya nauznanku                         - 72.4 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
