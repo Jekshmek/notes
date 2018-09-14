@@ -76,6 +76,9 @@ targetPlatform.operatingSystem.windows
 
 allprojects.each ...
 
-FileCollection:
-https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileCollection.html
+Files
 https://docs.gradle.org/current/userguide/working_with_files.html
+FileCollection
+https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileCollection.html
+FileTree
+https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileTree.html
