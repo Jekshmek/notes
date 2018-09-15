@@ -1,4 +1,6 @@
 Downey - Think Bayes
+http://greenteapress.com/wp/think-bayes/
+http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 
 2012
 Barber - Bayesian Reasoning and Machine Learning

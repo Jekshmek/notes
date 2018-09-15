@@ -9,7 +9,11 @@ Wheelan - Naked Statistics ru
 http://flibusta.is/b/437394
 
 Downey - Think Stats
+http://www.greenteapress.com/thinkstats/
 http://greenteapress.com/thinkstats/thinkstats.pdf
+Downey - Think Bayes
+http://greenteapress.com/wp/think-bayes/
+http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 
 Bruce - Practical Statistics for Data Scientists: 50 Essential Concepts
 
