@@ -1,4 +1,5 @@
 2018
+http://pusheen-machine.com/reinforcement-learning-an-introduction/
 https://towardsdatascience.com/lite-intro-into-reinforcement-learning-857ca5c924d9
 https://github.com/yandexdataschool/Practical_RL
 
