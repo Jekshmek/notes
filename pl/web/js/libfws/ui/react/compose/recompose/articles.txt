@@ -15,6 +15,7 @@ https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
 https://lilydbarrett.com/2018/05/05/recompose-with-react-vr-pt-2/
 https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
 http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
+
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
 2017
 https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
