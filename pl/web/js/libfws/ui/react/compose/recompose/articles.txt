@@ -8,15 +8,18 @@ https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-
     https://habr.com/post/419559/
 https://habr.com/company/raiffeisenbank/blog/354768/
 https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
-https://blog.cloudboost.io/react-functional-way-c533fceda2ce
-    good starting sample
 https://www.zivtech.com/blog/how-use-recompose-transform-react-development
 https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
 https://lilydbarrett.com/2018/05/05/recompose-with-react-vr-pt-2/
 https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
-http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
 
+with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
+https://blog.cloudboost.io/react-functional-way-c533fceda2ce
+simple
+http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
+    https://codesandbox.io/s/znrzvk078x
+
 2017
 https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
 https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51

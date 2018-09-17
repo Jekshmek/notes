@@ -26,6 +26,10 @@ withHandlers
     This is the main reason to use withHandlers to create handlers instead of using mapProps or withProps,
     which will create new handlers every time when it get updated.
 
+withStateHadlers
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withstatehandlers
+    ... both withState and withHandlers
+
 withProps
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
     withProps(({ isVisible }) => {

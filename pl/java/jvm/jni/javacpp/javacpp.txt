@@ -1,4 +1,7 @@
+http://bytedeco.org/
 https://github.com/bytedeco/javacpp
+
+https://java.libhunt.com/compare-jnr-ffi-vs-javacpp
 
 cache:
 .javacpp/cache/<name>.jar/.../*.so
