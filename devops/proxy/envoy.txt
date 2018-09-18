@@ -1,0 +1,14 @@
+https://www.envoyproxy.io/
+https://github.com/envoyproxy/envoy
+
+https://www.envoyproxy.io/docs/envoy/latest/
+https://www.envoyproxy.io/docs/envoy/latest/start/start
+https://www.envoyproxy.io/docs/envoy/latest/faq/overview
+
+presentations
+2017
+Matt Klein - Lyft's Envoy: From Monolith to Service Mesh
+https://www.slideshare.net/datawire/lyfts-envoy-from-monolith-to-service-mesh-matt-klein-lyft
+https://www.youtube.com/watch?v=RVZX4CwKhGE
+
+https://github.com/envoyproxy/envoy-tools

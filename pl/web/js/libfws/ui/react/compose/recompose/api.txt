@@ -8,6 +8,28 @@ withState
         * (stateName) the state key isVisible,
         * (stateUpdaterName) a method to toggleVis,
         * (initialState) - false.
+withReducer
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withreducer
+    Similar to withState(), but state updates are applied using a reducer function.
+    A reducer is a function that receives a state and an action, and returns a new state.
+    const counterReducer = (count, action) => {
+        switch (action.type) {
+        case INCREMENT:
+            return count + 1
+        case DECREMENT:
+            return count - 1
+        default:
+            return count
+        }
+    }
+
+    const enhance = withReducer('counter', 'dispatch', counterReducer, 0)
+    const Counter = enhance(({ counter, dispatch }) =>
+    <div>
+        Count: {counter}
+        <button onClick={() => dispatch({ type: INCREMENT })}>Increment</button>
+        <button onClick={() => dispatch({ type: DECREMENT })}>Decrement</button>
+    </div>
 
 withHandlers
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withhandlers
@@ -84,3 +106,26 @@ renderComponent
 renderNothing
     https://github.com/acdlite/recompose/blob/master/docs/API.md#rendernothing
     always renders null
+
+====== CONTEXT =======
+
+2017
+https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3
+
+getContext
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#getcontext
+    Gets values from context and passes them along as props. Use along with withContext().
+
+withContext
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withcontext
+    Provides context to the component's children.
+
+======= REDUX ========
+
+mapProps
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#mapprops
+    Accepts a function that maps owner props to a new collection of props that are passed to the base component.
+
+withProps
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
+    Like mapProps(), except the newly created props are merged with the owner props.

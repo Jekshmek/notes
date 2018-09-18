@@ -9,6 +9,8 @@ docker run --volume-driver=...
     [MacOnly] -v /src/webapp:/webapp:cached
 
 docker volume
+    prune
+        prune obsolete stuff
     ls -q --f[ilter] 'name=<feature-name>'
     rm ...
     create -d convoy --opt o=size=20GB my-named-volume

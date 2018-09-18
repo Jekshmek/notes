@@ -9,9 +9,9 @@ https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-
 https://habr.com/company/raiffeisenbank/blog/354768/
 https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
 https://www.zivtech.com/blog/how-use-recompose-transform-react-development
-https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
 https://lilydbarrett.com/2018/05/05/recompose-with-react-vr-pt-2/
 https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
+    ...perform the most common React patterns
 
 with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
@@ -19,8 +19,11 @@ https://blog.cloudboost.io/react-functional-way-c533fceda2ce
 simple
 http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
     https://codesandbox.io/s/znrzvk078x
+https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
 
 2017
+https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3
+    provider and context
 https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
 https://blog.apollographql.com/simplify-your-react-components-with-apollo-and-recompose-8b9e302dea51
     https://medium.com/open-graphql/how-i-write-mutations-in-apollo-w-recompose-1c0ab06ef4ea
@@ -31,4 +34,5 @@ just a single compose-fun from recompose
     https://www.robinwieruch.de/conditional-rendering-react/
     https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 2016
+https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198
 https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101
