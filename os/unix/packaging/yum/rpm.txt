@@ -1,10 +1,8 @@
 Query:
 
 rpm
-  -qa
-    list all the installed packages
   -qa <package>
-    ???
+    list <package/all> the installed packages
   -q <package>
     check if the package is installed
   -qc <package>
