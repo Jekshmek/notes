@@ -6,9 +6,6 @@ https://habr.com/post/417999/
     passive voice
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
-https://habr.com/company/philtech/blog/354596/
-https://habr.com/company/philtech/blog/414499/
-    chap 1
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Sep 1
 Shalyto - motivation - 016 of 873p
@@ -43,9 +40,9 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Vysotski                                    -   05:00 (of   59:33)
-    https://www.youtube.com/watch?v=Nw1Dt0FiWLQ
-Tarkovsky                                           -   25:00 (Of   45:15)
+Bykov - Single                                      -   03:00 (of 1:43:34)
+    https://cdn.echo.msk.ru/snd/2018-09-07-odin-0005.mp3
+Tarkovsky                                           -   25:00 (of   45:15)
     https://www.youtube.com/watch?v=VR5Xe2mChOM
     https://www.youtube.com/watch?v=oGxfJLbGCxk
 Volkova Rome                                        -   06:00 (of 1:32:09)
@@ -59,7 +56,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 15 b                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 01                                         -   00:00 (of)
+Ivliev - 2-02                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 42                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -95,8 +92,8 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 251
-Razbor Poletov                                      - 181
-    http://traffic.libsyn.com/razborpoletov/razbor_181.mp3
+Razbor Poletov                                      - 182
+    http://traffic.libsyn.com/razborpoletov/razbor_182.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 

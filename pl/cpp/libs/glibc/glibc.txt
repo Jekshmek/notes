@@ -1,0 +1,7 @@
+https://serverfault.com/questions/894625/safely-upgrade-glibc-on-centos-7
+
+manjaro
+    2.28-4
+
+cos7
+    2.17
