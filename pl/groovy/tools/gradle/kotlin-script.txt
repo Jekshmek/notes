@@ -17,6 +17,8 @@ https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
 https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
 articles:
+2018
+http://the-cogitator.com/2018/08/29/gradle-kotlin-dsl-first-impressions.html
 https://blog.gradle.org/kotlin-meets-gradle
 https://dzone.com/articles/a-look-at-gradle-kotlin-dsl
 https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl

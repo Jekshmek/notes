@@ -1,3 +1,5 @@
+2018
+https://www.reddit.com/r/rust/comments/9govr2/what_is_the_difference_with_str_and_string/
 2017
 http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html
 https://stackoverflow.com/questions/24158114/what-are-the-differences-between-rusts-string-and-str
