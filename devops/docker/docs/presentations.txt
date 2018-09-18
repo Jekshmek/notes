@@ -1,1 +1,5 @@
 https://www.slideshare.net/docker
+
+2018
+Sasha Goldshtein — Linux container performance tools for JVM applications
+https://www.youtube.com/watch?v=vD9o219Z13k

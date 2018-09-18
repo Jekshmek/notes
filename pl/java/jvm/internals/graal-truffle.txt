@@ -49,6 +49,8 @@ https://blog.plan99.net/graal-truffle-134d8f28fb69
 
 presentations
 2018
+Chiruhin - Graal Value Types and Loom
+https://www.youtube.com/watch?v=hnadkXBIC1k
 Sedlar - Graal VM
 https://www.youtube.com/watch?v=wBegU4d4GRc
 ? - Grall - how to use the new JVM JIT compiler in real life

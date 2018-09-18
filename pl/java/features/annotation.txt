@@ -1,4 +1,5 @@
 2018
+https://jaxenter.com/understand-annotations-java-148001.html
 Compile Time Annoations
 https://habr.com/post/414715/
 Albano - Creating Annotations in Java

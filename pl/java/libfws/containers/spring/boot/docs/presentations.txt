@@ -1,4 +1,7 @@
 2018
+Borisov Tolkachev - Boot Yourself, Spring is Coming
+https://www.youtube.com/watch?v=UYre4_bytD4
+https://www.youtube.com/watch?v=wQcZK0Tln30
 https://www.infoq.com/presentations/spring-boot-auto-configuration
 2017
 Borisov, Tolkachev - Boot yourself, Spring is coming
