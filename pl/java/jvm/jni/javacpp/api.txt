@@ -1,1 +1,5 @@
 http://bytedeco.org/javacpp/apidocs/
+
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/Loader.html
+
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/PointerScope.html
