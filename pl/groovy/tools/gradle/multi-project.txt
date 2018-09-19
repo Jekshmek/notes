@@ -2,12 +2,15 @@ https://docs.gradle.org/current/userguide/multi_project_builds.html
 
 https://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-multi-project-build/
 
-samples:
+samples
 https://github.com/pkainulainen/gradle-examples/tree/master/multi-project-build
 https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-i-nested/
 https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-ii-flat/
 
-guides:
+guides
+https://docs.gradle.org/current/userguide/multi_project_builds.html
+https://guides.gradle.org/creating-multi-project-builds/
+    https://github.com/gradle-guides/creating-multi-project-builds/
 https://spring.io/guides/gs/multi-module/
 
 buildSrc:
@@ -55,7 +58,7 @@ subprojects {
     }
 }
 
-evaluation-order:
+evaluation-order
 evaluationDependsOn(':producer')
 evaluationDependsOnChildren()
 

@@ -10,8 +10,6 @@ https://habr.com/company/raiffeisenbank/blog/354768/
 https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
 https://www.zivtech.com/blog/how-use-recompose-transform-react-development
 https://lilydbarrett.com/2018/05/05/recompose-with-react-vr-pt-2/
-https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
-    ...perform the most common React patterns
 
 with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
@@ -20,6 +18,8 @@ simple
 http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
     https://codesandbox.io/s/znrzvk078x
 https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
+tons of samples
+https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
 
 2017
 https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3

@@ -61,23 +61,6 @@ withProps
         };
     })
 
-nest
-    https://github.com/acdlite/recompose/blob/master/docs/API.md#nest
-    Composes components by nesting each one inside the previous.
-        https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
-
-    // Given components A, B, and C
-    const ABC = nest(A, B, C)
-    <ABC pass="through">Child</ABC>
-
-    // Effectively the same as
-    <A pass="through">
-        <B pass="through">
-            <C pass="through">
-                Child
-            </C>
-        </B>
-    </A>
     
 mapProps
     map one props to another
@@ -107,6 +90,12 @@ renderNothing
     https://github.com/acdlite/recompose/blob/master/docs/API.md#rendernothing
     always renders null
 
+
+onlyUpdateForKeys
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#onlyupdateforkeys
+    Prevents the component from updating unless a prop corresponding to one of the given keys has updated.
+    Uses shallowEqual() to test for changes.
+
 ====== CONTEXT =======
 
 2017
@@ -129,3 +118,39 @@ mapProps
 withProps
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
     Like mapProps(), except the newly created props are merged with the owner props.
+
+====== STATIC PROPERTY HELPERS
+
+componentFromProp
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#componentfromprop
+    Creates a component that accepts a component as a prop and renders it with the remaining props.
+
+nest
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#nest
+    Composes components by nesting each one inside the previous.
+        https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566
+
+    // Given components A, B, and C
+    const ABC = nest(A, B, C)
+    <ABC pass="through">Child</ABC>
+
+    // Effectively the same as
+    <A pass="through">
+        <B pass="through">
+            <C pass="through">
+                Child
+            </C>
+        </B>
+    </A>
+
+====== UTILS
+
+getDisplayName
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#getdisplayname
+    Returns the display name of a React component. Falls back to 'Component'.
+
+wrapDisplayName
+
+toClass
+
+shallowEqual
