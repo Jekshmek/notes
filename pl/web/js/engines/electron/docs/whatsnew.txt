@@ -1,2 +1,4 @@
+https://electronjs.org/blog/electron-3-0
+    http://www.opennet.ru/opennews/art.shtml?num=49298
 https://electronjs.org/blog/electron-2-0
     http://www.opennet.ru/opennews/art.shtml?num=48540
