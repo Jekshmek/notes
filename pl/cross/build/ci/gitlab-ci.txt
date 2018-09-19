@@ -5,3 +5,5 @@ https://docs.gitlab.com/ee/user/project/integrations/kubernetes.html
 
 https://vadosware.io/post/continuous-integration-to-continous-delivery-haskell-project-with-gitlab/
 
+2018
+https://nuancesprog.ru/p/1807/

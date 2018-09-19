@@ -81,6 +81,8 @@ https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slu
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
+https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-problematika/slushat/
+https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 
 Shallar
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
@@ -91,7 +93,7 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
     social aspects
 
 Tracking
-This week in rust                                   - 251
+This week in rust                                   - 252
 Razbor Poletov                                      - 182
     http://traffic.libsyn.com/razborpoletov/razbor_182.mp3
 ACCU Overload                                       - 146

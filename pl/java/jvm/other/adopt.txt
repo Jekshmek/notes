@@ -1,0 +1,12 @@
+https://adoptopenjdk.net/
+https://adoptopenjdk.net/index.html
+https://adoptopenjdk.net/installation.html
+
+https://blog.adoptopenjdk.net/
+
+https://github.com/AdoptOpenJDK
+
+https://hub.docker.com/r/adoptopenjdk/
+
+2018
+https://blog.joda.org/2018/08/java-is-still-available-at-zero-cost.html

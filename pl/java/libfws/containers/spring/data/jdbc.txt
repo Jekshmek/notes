@@ -1,0 +1,8 @@
+https://projects.spring.io/spring-data-jdbc/
+https://docs.spring.io/spring-data/jdbc/docs/1.0.0.RC2/reference/html/
+
+https://github.com/spring-projects/spring-data-jdbc
+https://github.com/spring-projects/spring-data-examples/tree/master/jdbc
+
+2018
+https://habr.com/post/423697/
