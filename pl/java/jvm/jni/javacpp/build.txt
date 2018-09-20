@@ -1,6 +1,11 @@
 https://github.com/bytedeco/javacpp/wiki/Gradle
 https://gist.github.com/bongole/05021bdd1f21578e1f6f
 
+at manifest
+Main-Class: org.bytedeco.javacpp.tools.Builder
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/tools/Builder.html
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/tools/Builder.java
+
 javaexec {
     main = 'org.bytedeco.javacpp.tools.Builder'
     classpath = files(configurations.javacpp.asPath)
@@ -13,3 +18,23 @@ javaexec {
         "-d", "$jniDir/x86/"
     ]
 }
+
+Builder {
+...
+    int compile(
+        String[] sourceFilenames,
+        String outputFilename,
+        ClassProperties properties,
+        File workingDirectory) throws IOException, InterruptedException {
+        ...
+        logger.info(text);
+
+        ProcessBuilder pb = new ProcessBuilder(command);
+        // Use the library output path as the working directory so that all
+        // build files, including intermediate ones from MSVC, are dumped there
+        pb.directory(workingDirectory);
+        if (environmentVariables != null) {
+            pb.environment().putAll(environmentVariables);
+        }
+        return pb.inheritIO().start().waitFor();
+    }

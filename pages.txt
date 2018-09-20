@@ -1,3 +1,4 @@
+https://github.com/bytedeco/javacpp#using-complex-c-types
 https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
 https://predanie.ru/somin-nikolay-vladimirovich/pravoslavnyy-socializm/slushat/
 
@@ -82,7 +83,8 @@ https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-problematika/slushat/
-https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
+Bezdomnye - 1:19:00
+    https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 
 Shallar
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/

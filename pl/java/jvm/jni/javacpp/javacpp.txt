@@ -1,4 +1,5 @@
 http://bytedeco.org/
+Samuel Audet - creator of JavaCPP
 https://github.com/bytedeco/javacpp
 
 https://gitter.im/bytedeco/javacpp/
@@ -8,6 +9,3 @@ https://mvnrepository.com/artifact/org.bytedeco/javacpp/
     1.4.2
 
 https://java.libhunt.com/compare-jnr-ffi-vs-javacpp
-
-cache:
-.javacpp/cache/<name>.jar/.../*.so
