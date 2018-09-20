@@ -96,6 +96,9 @@ onlyUpdateForKeys
     Prevents the component from updating unless a prop corresponding to one of the given keys has updated.
     Uses shallowEqual() to test for changes.
 
+fromRenderProps
+    https://github.com/acdlite/recompose/issues/702
+
 ====== CONTEXT =======
 
 2017
@@ -104,6 +107,8 @@ https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompos
 getContext
     https://github.com/acdlite/recompose/blob/master/docs/API.md#getcontext
     Gets values from context and passes them along as props. Use along with withContext().
+    https://lilydbarrett.com/2018/05/05/recompose-with-react-vr-pt-2/
+    getContext, used in a child component, allows us to pull out useful information from the parent context and provide it to the component at hand — No need to drill props down through the app!
 
 withContext
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withcontext

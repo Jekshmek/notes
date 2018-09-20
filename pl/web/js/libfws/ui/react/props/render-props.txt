@@ -32,3 +32,7 @@ class Page extends React.Component {
 }
 
 instead of elements, we pass a function as a child to PayPalLauncher
+
+samples
+https://blog.kentcdodds.com/introducing-downshift-for-react-b1de3fca0817
+https://github.com/paypal/downshift

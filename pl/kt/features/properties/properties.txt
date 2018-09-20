@@ -5,4 +5,5 @@ https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-observable-prope
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-delegates/index.html
 
 2018
+https://proandroiddev.com/backing-properties-in-kotlin-cb78dfebfd90
 https://www.kotlindevelopment.com/delegates-observable/

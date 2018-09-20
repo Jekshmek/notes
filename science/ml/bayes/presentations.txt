@@ -1,4 +1,6 @@
 2018
+Coyle - Probabilistic Programming: A Modern Bayesian Workflow
+https://www.youtube.com/watch?v=7QlKZKbQa6M
 Otus - Naive Bayes Classifier ru
 https://habr.com/company/otus/blog/420729/
     https://www.youtube.com/watch?v=DwLLOAm6lkk

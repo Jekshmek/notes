@@ -1,5 +1,6 @@
 https://vuejs.org/v2/guide/components-slots.html
 
 2018
+https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
 The Trick to Understanding Scoped Slots in Vue.js
 https://www.youtube.com/watch?v=GWdOucfAzTo&t=505s
