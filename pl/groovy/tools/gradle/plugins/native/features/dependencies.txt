@@ -1,0 +1,7 @@
+model {
+    ...
+    tasks.compileLttprotoStaticLibraryLttprotoCpp {
+        dependsOn extractProtoArchive
+    }
+}
+

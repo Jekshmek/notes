@@ -1,2 +1,4 @@
 2018
+https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html
+    https://www.youtube.com/watch?v=nySib7ipZdk
 https://medium.com/@dave_lunny/how-to-use-reacts-experimental-new-profiler-feature-c340674e5d0e

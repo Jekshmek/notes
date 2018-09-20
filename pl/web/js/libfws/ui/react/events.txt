@@ -2,6 +2,8 @@ https://reactjs.org/docs/handling-events.html
 https://reactjs.org/docs/events.html
 
 2018
+https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
+    () => ... handlers are not equal to each other
 https://css-tricks.com/working-with-events-in-react/
 
 react wraps browser native events to:
