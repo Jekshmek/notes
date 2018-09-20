@@ -19,6 +19,8 @@ Grebennikov-KubernetessDeployAsATsar
 https://www.youtube.com/watch?v=TFj-w2-ISVg
 Izmailov - from CoreOS to Kubernetess
 https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
+Hoffer - Orchestrating Microservices with Kubernetes
+https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
 
 2016
 Ghe Children Guide

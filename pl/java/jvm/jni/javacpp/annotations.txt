@@ -1,0 +1,22 @@
+org.bytedeco.javacpp.annotation.Platform
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/Platform.java
+
+@Platform(
+    cinclude // a list of C headers to include at the top of generated code
+
+    include="SomeFile.h"
+        {"openblas_config.h", "cblas.h"}
+    includepath includeresource
+
+    link linkpath linkresource
+    preloadpath preloadresource preload
+
+    value = "linux-x86_64",
+    preloadpath = {"/lib64/", "/lib/", "/usr/lib64/", "/usr/lib/", "/opt/intel/lib/intel64/", "/opt/intel/mkl/lib/intel64/"},
+
+    framework frameworkpath
+)
+
+
+@StdWString
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdWString.java
