@@ -1,4 +1,6 @@
 2018
+Nedelcu - A Tale of Two Monix Stream
+https://www.youtube.com/watch?v=y7QfAWIun2k
 Kunicki - Practical Reactive Streams with Monix
 https://www.youtube.com/watch?v=eV709ToPYSU
 

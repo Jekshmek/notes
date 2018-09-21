@@ -60,6 +60,7 @@ yarn[pkg]
     upgrade
         ...
     upgrade-interactive
+        https://www.youtube.com/watch?v=zrX1GUERzXY
     remove
         [package]
 

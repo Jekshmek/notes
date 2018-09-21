@@ -1,3 +1,5 @@
 2018
+Sabin - Adding kind-polymorphism
+https://www.youtube.com/watch?v=v6e7rYOXdcM
 https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/
 https://kubuszok.com/2018/kinds-of-types-in-scala-part-2/

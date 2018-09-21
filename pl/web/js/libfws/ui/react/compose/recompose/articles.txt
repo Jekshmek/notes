@@ -1,24 +1,24 @@
 2018
-https://medium.com/@ilyasz/mastering-react-functional-components-with-recompose-d4dd6ac98834
+https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
     big sample
-https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
-https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
-https://sparkyspace.com/recomposing-redux/
-https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
-https://blog.usejournal.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
 https://habr.com/company/raiffeisenbank/blog/354768/
-https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
-https://www.zivtech.com/blog/how-use-recompose-transform-react-development
+https://sparkyspace.com/recomposing-redux/
+https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
+https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
+https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
 
 with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
 https://blog.cloudboost.io/react-functional-way-c533fceda2ce
 simple
+https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
+    https://github.com/lblima/react-recompose-01
 http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
     https://codesandbox.io/s/znrzvk078x
 https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
+https://www.zivtech.com/blog/how-use-recompose-transform-react-development
 tons of samples
 https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
 

@@ -5,3 +5,6 @@ https://github.com/mozilla/serviceworker-cookbook
 TraversyMedia - Intro To Service Workers and Caching
 https://www.youtube.com/watch?v=ksXwaWHCW6k
 https://www.keycdn.com/blog/service-workers/
+
+samples
+https://github.com/lblima/react-recompose-01/blob/master/src/registerServiceWorker.js

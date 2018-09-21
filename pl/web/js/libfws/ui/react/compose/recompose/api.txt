@@ -61,7 +61,11 @@ withProps
         };
     })
 
-    
+defaultProps
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#defaultprops
+    Specifies props to be passed by default to the base component.
+    Similar to withProps(), except the props from the owner take precedence over props provided to the HoC.
+
 mapProps
     map one props to another
 mapAsyncProps
@@ -129,6 +133,13 @@ withProps
 componentFromProp
     https://github.com/acdlite/recompose/blob/master/docs/API.md#componentfromprop
     Creates a component that accepts a component as a prop and renders it with the remaining props.
+    https://www.zivtech.com/blog/how-use-recompose-transform-react-development
+    <Button component="a">This is a link element</a>
+    <Button component="button">This is a button element</a>
+    <Button component="p">This is a paragraph element</a>
+    ...
+    import { Link } from 'react-router'
+    <Button component={Link}>This is a router link!</Button>
 
 nest
     https://github.com/acdlite/recompose/blob/master/docs/API.md#nest
@@ -159,3 +170,8 @@ wrapDisplayName
 toClass
 
 shallowEqual
+
+======== PROP TYPES =====
+
+setPropTypes
+    https://www.zivtech.com/blog/how-use-recompose-transform-react-development
