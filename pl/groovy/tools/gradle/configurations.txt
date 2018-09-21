@@ -1,0 +1,17 @@
+configurations {
+    javacpp
+}
+
+dependencies {
+    javacpp libraries.javacpp
+}
+
+task abc {
+    javaexec {
+        classpath = files(configurations.javacpp.asPath)
+    }
+    doLast {
+        def collectedFileNames = configurations.compile.collect { it.getAbsoluteFile() }.join(pathSep.toString()) // getName
+        println "Hello ${collectedFileNames}"
+    }
+}    

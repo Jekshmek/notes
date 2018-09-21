@@ -1,6 +1,23 @@
 https://github.com/bytedeco/javacpp/wiki/Gradle
 https://gist.github.com/bongole/05021bdd1f21578e1f6f
 
+Usage: java -jar javacpp.jar [options] [class or package (suffixed with .* or .**)]
+where options include:
+    -classpath <path>      Load user classes from path
+    -encoding <name>       Character encoding used for input and output files
+    -d <directory>         Output all generated files to directory
+    -o <name>              Output everything in a file named after given name
+    -nocompile             Do not compile or delete the generated source files
+    -nodelete              Do not delete generated C++ JNI files after compilation
+    -header                Generate header file with declarations of callbacks functions
+    -copylibs              Copy to output directory dependent libraries (link and preload)
+    -copyresources         Copy to output directory resources listed in properties
+    -jarprefix <prefix>    Also create a JAR file named "<prefix>-<platform>.jar" !!! otherwise - do not create a jar
+    -properties <resource> Load all properties from resource
+    -propertyfile <file>   Load all properties from file
+    -D<property>=<value>   Set property to value
+    -Xcompiler <option>    Pass option directly to compiler
+
 at manifest
 Main-Class: org.bytedeco.javacpp.tools.Builder
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/tools/Builder.html

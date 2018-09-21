@@ -14,6 +14,8 @@ dependencies
     list all the dependencies for all the configs
 compileJava - instance:w
 of JavaCompile class
+    https://docs.gradle.org/current/dsl/org.gradle.api.tasks.compile.JavaCompile.html
+        javaCompile.destinationDir
 compileGroovy
 
 :common:compileJ

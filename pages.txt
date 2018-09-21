@@ -6,7 +6,7 @@ https://habr.com/post/417999/
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Sep 1
+    Sep 8
 Shalyto - motivation - 016 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 

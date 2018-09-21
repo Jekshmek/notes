@@ -1,3 +1,6 @@
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/Loader.java
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/ClassProperties.java
+
 -Dorg.bytedeco.javacpp.maxbytes
     this allows you to specify the off-heap memory limit.
 -Dorg.bytedeco.javacpp.maxphysicalbytes
@@ -8,6 +11,14 @@ The important point here is that the on-heap (JVM) memory and off-heap (ND4J/Jav
 
 -Dorg.bytedeco.javacpp.logger.debug 
 -Dorg.bytedeco.javacpp.logger=slf4j
+
+platform
+-Dplatform.root=/usr/local/opt/android-ndk
+-Dplatform.compiler=/usr/local/opt/android-ndk/toolchains/x86-4.6/prebuilt/darwin-x86_64/bin/i686-linux-android-g++
+-Dplatform.includepath=sources/cxx-stl/gnu-libstdc++/4.6/include/:sources/cxx-stl/gnu-libstdc++/4.6/libs/x86/include/:$projectDir/jni/include
+
+prefix
+platform.includepath.prefix=-I
 
 cache
 .javacpp/cache/<name>.jar/.../*.so

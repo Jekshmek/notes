@@ -62,3 +62,8 @@ linux-x86_64/libjniNativeLibrary.so
 
 $ java -cp ~/Downloads/javacpp-1.4.2.jar:. NativeLibrary
 Hello World!aaa
+
+
+
+https://github.com/bytedeco/javacpp/blob/master/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+https://github.com/bytedeco/javacpp/blob/master/src/test/resources/org/bytedeco/javacpp/AdapterTest.h
