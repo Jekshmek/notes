@@ -1,0 +1,10 @@
+contract-testing
+https://www.infoq.com/minibooks/emag-testing-distributed-systems
+https://spring.io/guides/gs/contract-rest/
+https://docs.pact.io/readme
+
+https://cloud.spring.io/spring-cloud-contract/
+
+2018
+https://habr.com/post/424057/
+    https://github.com/dehasi/scc_gp

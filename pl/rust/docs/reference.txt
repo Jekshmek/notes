@@ -1,2 +1,5 @@
+https://doc.rust-lang.org/reference
 https://doc.rust-lang.org/nightly/reference/
 https://github.com/rust-lang-nursery/reference
+
+https://doc.rust-lang.org/stable/grammar.html
