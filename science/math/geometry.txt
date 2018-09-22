@@ -2,3 +2,7 @@ http://geometry.ru/books.php
 https://www.mccme.ru/free-books/shen/shen-geometry.pdf
 
 http://math.ru/lib/files/pdf/geometry/Ponarin-I.pdf
+
+2006
+Shen - About Math Rigorisity
+https://www.mccme.ru/free-books/shen/shen-rigor.pdf
