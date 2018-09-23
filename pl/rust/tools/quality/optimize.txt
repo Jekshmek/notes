@@ -1,4 +1,5 @@
-articles:
+articles
+https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
 https://jamesmunns.com/update/2018/04/01/tinyrocket.html
 https://llogiq.github.io/2017/06/01/perf-pitfalls.html
 https://www.reddit.com/r/rust/comments/5pxgka/howto_optimize_rust_programs_on_linux/
