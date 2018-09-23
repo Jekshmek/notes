@@ -8,12 +8,15 @@ https://crates.io/crates/nalgebra
 https://github.com/sebcrozet/nalgebra
 
 https://crates.io/crates/nalgebra-lapack
-https://docs.rs/nalgebra-lapack/0.4.0/nalgebra_lapack/
+https://docs.rs/nalgebra-lapack
 https://github.com/strawlab/nalgebra-lapack
 
 https://crates.io/crates/lapack
-https://docs.rs/lapack/0.11.2/lapack/
+https://docs.rs/lapack
 https://github.com/stainless-steel/lapack
 
 https://crates.io/crates/netlib-provider
 https://crates.io/crates/netlib-src
+
+2018
+https://www.patreon.com/posts/21589538

@@ -1,2 +1,3 @@
 2018
+https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n
 https://css-tricks.com/vue-typescript-a-match-made-in-your-code-editor/

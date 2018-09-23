@@ -1,5 +1,8 @@
 2018
 https://david-abel.github.io/blog/posts/misc/icml_2018.pdf
+Berkley - Deep Reinforcement Learning
+http://rail.eecs.berkeley.edu/deeprlcourse/
+https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 2017
 Stanford - NLP with DL
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
