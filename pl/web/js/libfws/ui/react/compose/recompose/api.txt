@@ -1,6 +1,7 @@
 https://github.com/acdlite/recompose/blob/master/docs/API.md
 
 compose
+    function compose(...funcs) {   return funcs.reduce((a, b) => (...args) => a(b(...args))) } 
 
 withState
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate

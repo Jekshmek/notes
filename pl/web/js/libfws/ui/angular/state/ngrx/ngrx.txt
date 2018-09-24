@@ -17,6 +17,7 @@ https://toddmotto.com/ngrx/
 https://medium.com/ngrx
 
 2018
+https://itnext.io/level-up-your-ngrx-game-42652afc25bd
 https://medium.com/default-to-open/understanding-a-large-scale-angular-app-with-ngrx-80f9fc5660cc
 https://www.infoq.com/articles/angular-component-communication
 http://stackabuse.com/beginners-guide-to-ngrx-and-angular/

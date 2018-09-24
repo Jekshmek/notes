@@ -1,4 +1,6 @@
 2018
+http://lea.verou.me/2018/09/refresh-css-bookmarklet-v2/
+    https://habr.com/company/poiskvps/blog/423709/
 https://www.sitepoint.com/css-grid-retrofit/
 https://blogs.igalia.com/mrego/2018/08/10/changes-on-css-grid-layout-in-percentages-and-indefinite-height/
 https://css-tricks.com/super-power-grid-components-with-css-custom-properties/
