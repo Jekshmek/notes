@@ -1,0 +1,7 @@
+codecvt_utf8_utf16
+
+https://en.cppreference.com/w/cpp/locale/wstring_convert/converted
+https://en.cppreference.com/w/cpp/locale/codecvt_utf8
+
+http://qaru.site/questions/300873/converting-c-stdwstring-to-utf8-with-stdcodecvtxxx
+http://qaru.site/questions/42416/how-to-convert-wstring-into-string
