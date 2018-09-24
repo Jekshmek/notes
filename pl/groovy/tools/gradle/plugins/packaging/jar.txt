@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/4871656/using-gradle-to-build-a-jar-with-dependencies
+
+doFirst {
+    from { configurations.runtime.collect { it.isDirectory() ? it : zipTree(it) } }
+}

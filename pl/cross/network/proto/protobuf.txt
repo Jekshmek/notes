@@ -47,4 +47,5 @@ bool ParseFromIstream(istream* input)
 
 build
 mkdir build && cd build
-cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON ../cmake 
+cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX11_ABI=0 ../cmake 
+
