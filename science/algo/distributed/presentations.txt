@@ -2,6 +2,9 @@
 Inside Azure Service Fabric
 https://www.youtube.com/playlist?list=PLlrxD0HtieHh73JryJJ-GWcUtrqpcg2Pb
 https://blogs.msdn.microsoft.com/azuredev/2018/08/15/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture/
+Cesar Ruiz-Meraz - Azure Event Hubs
+https://blogs.msdn.microsoft.com/opensourcemsft/2015/08/08/choosing-between-azure-event-hub-and-kafka-what-you-need-to-know/
+https://www.youtube.com/watch?v=OxXGnbHAXB0
 
 
 ?

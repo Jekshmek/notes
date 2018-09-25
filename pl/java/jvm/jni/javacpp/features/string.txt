@@ -162,3 +162,18 @@ tools/Generator.java
         return type;
     }
 
+
+misc check
+            CharPointer res = l.getSuffix2();
+            System.out.println("addSuffix2: " + res.getString()); 
+            System.out.println("limit: " + res.limit()); 
+            System.out.println("capacity: " + res.capacity()); 
+            System.out.println("sizeof: " + res.sizeof()); 
+            System.out.println("position: " + res.position()); 
+
+            long resCharNum = res.limit() * res.sizeof();
+            System.out.println("resCharNum: " + resCharNum); 
+            char[] c2 = new char[(int)resCharNum];
+            res.get(c2);
+            System.out.println("c2: " + new String(c2)); 
+

@@ -1,6 +1,7 @@
 2018
 CppCon
 https://cppcon2018.sched.com/
+https://github.com/CppCon/CppCon2018
 CppNow
 https://github.com/boostcon/cppnow_presentations_2018
 https://www.youtube.com/playlist?list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH

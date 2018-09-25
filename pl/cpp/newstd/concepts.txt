@@ -5,5 +5,6 @@ http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4674.pdf
 https://www.cjdb.com.au/blog/2018/05/15/prepping-yourself-to-conceptify-algorithms
 https://www.cjdb.com.au/transforming-std-find-into-std-ranges-find
 https://www.cjdb.com.au/a-prime-opportunity-for-ranges
+https://quuxplusone.github.io/blog/2018/09/24/concepts-as-door-opening-robots/
 https://quuxplusone.github.io/blog/2018/09/17/i-can-haz-member-concepts/
 https://quuxplusone.github.io/blog/2018/07/06/thoughts-on-sanely-move-assignable/

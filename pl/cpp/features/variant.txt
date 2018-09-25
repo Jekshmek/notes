@@ -1,4 +1,6 @@
 2018
+C++ Weekly - Ep 134 - The Best Possible Way To Create A Visitor
+https://www.youtube.com/watch?v=EsUmnLgz8QY
 https://www.bfilipek.com/2018/09/visit-variants.html
 https://pabloariasal.github.io/2018/06/26/std-variant/
 https://www.bfilipek.com/2018/06/variant.html

@@ -44,9 +44,5 @@ https://codepen.io/osublake/pen/EEaPKe
 plugins
 https://greensock.com/plugins/
 
-tools
-https://greensock.com/gsdevtools
-https://www.youtube.com/watch?v=cN4iJ38sG4s
-
 svg-drag
 https://greensock.com/svg-drag

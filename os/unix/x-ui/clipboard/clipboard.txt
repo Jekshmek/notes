@@ -5,3 +5,6 @@ alias pbpaste='xclip -selection clipboard -o'
 
 alias pbcopy='xsel --clipboard --input'
 alias pbpaste='xsel --clipboard --output'
+
+# from Alex Fr
+set clipboard^=unnamed,unnamedplus

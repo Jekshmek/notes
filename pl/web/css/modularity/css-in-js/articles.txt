@@ -1,21 +1,3 @@
-http://cssinjs.org
-
-https://github.com/tuchk4/awesome-css-in-js
-
-http://michelebertoli.github.io/css-in-js/
-    https://github.com/MicheleBertoli/css-in-js
-
-https://material-ui.com/customization/css-in-js/
-
-http://cssinjs.org/react-jss
-    https://github.com/cssinjs/react-jss
-    https://preact.gitbooks.io/react-book/content/how_preact_does_css_in_react.html
-http://cssinjs.org/styled-jss
-http://cssinjs.org/jss-preset-default
-http://cssinjs.org/aphrodite-jss
-    https://github.com/Khan/aphrodite
-
-articles
 2018
 https://habr.com/post/417707/
 https://css-tricks.com/whats-wrong-with-css-in-js/
@@ -35,13 +17,3 @@ https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-an
 https://mxstbr.blog/2016/11/inline-styles-vs-css-in-js/
 2015
 https://medium.com/@oleg008/jss-is-css-d7d41400b635
-
-presentations
-2017
-Frischman - CSS in JS
-https://speakerdeck.com/rofrischmann/css-in-js-the-good-and-bad-parts
-    https://www.infoq.com/presentations/javascript-css
-http://2017.holyjs-piter.ru/talks/css-in-js-why-and-how/
-    https://downloads.ctfassets.net/nn534z2fqr9f/73zaX85dokgYs6GUaayU8G/bff756e1e4fa2e1079c00b2c36f5fadb/CSS-in-JS_Sorokobatko.pdf
-2014
-https://speakerdeck.com/vjeux/react-css-in-js

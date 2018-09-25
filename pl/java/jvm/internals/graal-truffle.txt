@@ -2,6 +2,8 @@ http://openjdk.java.net/projects/graal/
 http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html
 http://www.oracle.com/technetwork/oracle-labs/program-languages/downloads/index.html
 http://www.oracle.com/technetwork/oracle-labs/program-languages/learnmore/index.html
+to browse links inside
+https://habr.com/company/jugru/blog/424237/
 
 -XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler
 
