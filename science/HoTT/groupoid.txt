@@ -7,7 +7,9 @@ https://mokum.place/5ht
 https://github.com/groupoid/infinity
 http://groupoid.space/mltt/types/
 
-t.me/systemflow
+http://t.me/groupoid
+http://t.me/systemflow
+http://t.me/formalphilosophy
 
 exe:
 https://github.com/groupoid/exe/blob/master/doc/

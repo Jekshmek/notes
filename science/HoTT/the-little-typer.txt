@@ -1,0 +1,4 @@
+https://mitpress.mit.edu/books/little-typer
+
+2018
+https://www.reddit.com/r/haskell/comments/9igdgx/the_little_typer_by_daniel_p_friedman_and_david/
