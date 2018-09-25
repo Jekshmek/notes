@@ -56,6 +56,11 @@ https://habrahabr.ru/company/ods/blog/344044/
 https://habrahabr.ru/company/mailru/blog/344982/.com.-neyronnye-seti-v-mashi
 https://www.youtube.com/playlist?list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP
 https://vk.com/videos-75410445?section=album_3
+https://medium.com/open-machine-learning-course
+https://github.com/Yorko/mlcourse.ai
+https://github.com/Yorko/mlcourse.ai/wiki
+    https://habr.com/company/ods/blog/418727/
+    http://snap.stanford.edu/decagon/
 Lectorium - ML (misc stuff)
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAVwvhnk-6V22MvKDWNrkXDJ
 Utah

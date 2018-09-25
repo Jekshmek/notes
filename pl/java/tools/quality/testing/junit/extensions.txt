@@ -1,1 +1,5 @@
 https://junit.org/junit5/docs/current/user-guide/#extensions
+
+2018
+https://blog.codefx.org/design/architecture/junit-5-extension-model/
+    https://github.com/CodeFX-org/demo-junit-5/tree/master/src/main/java/org/codefx/demo/junit5

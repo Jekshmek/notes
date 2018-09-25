@@ -34,6 +34,9 @@ https://www.youtube.com/watch?v=gbDfkk-C4Aw
 
 http://www.slideshare.net/xebia/testworks-conf-performance-testing-made-easy-with-gatling-guillaume-corre
 
+whatsnew
+https://gatling.io/2018/09/17/gatling-3-launching-release-candidates/
+
 sbt plugin:
 https://github.com/Pravoru/gatling-remote-sbt
 

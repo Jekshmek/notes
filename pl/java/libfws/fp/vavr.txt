@@ -1,0 +1,2 @@
+2018
+https://blog.pragmatists.com/functional-programming-in-java-with-vavr-9861e704301c

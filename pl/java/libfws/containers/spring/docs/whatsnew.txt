@@ -1,8 +1,8 @@
 https://github.com/spring-projects/spring-framework/wiki/What's-New-in-the-Spring-Framework
 
 5:
+https://spring.io/blog/2018/09/21/spring-framework-5-1-goes-ga
 https://spring.io/blog/2018/07/26/spring-framework-5-1-goes-rc1
-https://spring.io/blog/2017/09/28/spring-framework-5-0-goes-ga
 https://github.com/spring-projects/spring-framework/wiki/Migrating-to-Spring-Framework-5.x
 https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-5-FAQ
 https://www.ibm.com/developerworks/library/j-whats-new-in-spring-framework-5-theedom/index.html
