@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+https://docs.microsoft.com/en-us/windows/wsl/install-manual
+
+https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#check-your-build-number

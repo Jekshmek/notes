@@ -12,6 +12,7 @@ http://blog.rangle.io/from-rest-to-graphql/
 https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/
 https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-2/
 https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0
+https://medium.freecodecamp.org/a-beginners-guide-to-graphql-60e43b0a41f5
 
 2017:
 https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336

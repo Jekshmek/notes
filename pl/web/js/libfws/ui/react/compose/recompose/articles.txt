@@ -6,7 +6,6 @@ https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-
 https://sparkyspace.com/recomposing-redux/
 https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
 https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
-https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
 
 with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
@@ -20,6 +19,7 @@ https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
 https://www.zivtech.com/blog/how-use-recompose-transform-react-development
 https://habr.com/company/raiffeisenbank/blog/354768/
     https://codepen.io/Grigorov/pen/Zorxbm
+https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
 tons of samples
 https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
 

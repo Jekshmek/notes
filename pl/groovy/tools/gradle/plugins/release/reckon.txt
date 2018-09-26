@@ -1,0 +1,8 @@
+https://github.com/ajoberstar/reckon
+
+https://github.com/ajoberstar/reckon/blob/master/docs/index.md
+
+reckonTagPush
+    -Preckon.stage=beta|rc|final
+    -Preckon.scope=minor|patch
+        minor is the default

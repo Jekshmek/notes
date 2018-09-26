@@ -1,0 +1,2 @@
+2018
+https://blaztinn.gitlab.io/post/simulating-recursion-with-generators/

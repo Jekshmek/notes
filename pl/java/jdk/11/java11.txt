@@ -1,3 +1,11 @@
+https://www.oracle.com/corporate/pressrelease/java-11-092518.html
+http://www.opennet.ru/opennews/art.shtml?num=49336
+https://www.infoq.com/news/2018/09/java11-released
+
+http://jdk.java.net/11
+http://openjdk.java.net/projects/jdk/11/
+https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A
+
 2018
 https://blog.takipi.com/java-11-will-include-more-than-just-features/
 https://medium.com/criciumadev/its-time-migrating-to-java-11-5eb3868354f9
