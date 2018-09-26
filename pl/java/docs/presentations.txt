@@ -1,4 +1,6 @@
 2018
+Goetz - Evolving the Java Language 
+https://www.youtube.com/watch?v=A-mxj2vhVAA
 Rogozin - Java and Linux
 https://www.youtube.com/watch?v=HVVsjyVxcJ8
 https://www.youtube.com/watch?v=zvMt_gq3vV0

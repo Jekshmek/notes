@@ -3,6 +3,7 @@ https://codingnest.com/basic-cmake/
 http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/
 Arias - It's time to do CMake right
 https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+https://arne-mertz.de/2018/05/hello-cmake/
 
 2017
 Idiomatic CMake

@@ -1,1 +1,5 @@
 https://github.com/reyreaud-l/simple-cpp-setup
+
+2018
+https://joshpeterson.github.io/a-cpp-template-project
+https://github.com/joshpeterson/cpp-template
