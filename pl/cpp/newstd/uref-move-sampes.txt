@@ -96,6 +96,7 @@ Reference collapsing is used for:
 - decltypes
 
 Ex 5.
+http://candcplusplus.com/c-difference-between-emplace_back-and-push_back-function/
 
 template<class... Args>
 void emplace_back(Args &&... args);
