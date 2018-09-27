@@ -80,6 +80,9 @@ https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
 https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-problematika/slushat/
+https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
+https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
+https://predanie.ru/bez-avtora/gordynya-samoocenka-i-maniya-velichiya-kak-pravilno-lyubit-sebya/slushat/
 
 Shallar
 https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
@@ -108,7 +111,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 294.0 (of 767)
+Kantor - Imperiya nauznanku                         - 304.0 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

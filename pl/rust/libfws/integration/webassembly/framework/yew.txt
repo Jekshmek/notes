@@ -4,6 +4,12 @@ https://github.com/DenisKolodin/yew
 https://crates.io/crates/yew_simple
 https://github.com/vitiral/yew_simple
 
+samples
+https://github.com/saschagrunert/webapp.rs
+https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471
+
 2018
+https://habr.com/company/jugru/blog/422253/
+    https://www.youtube.com/watch?v=OqFOXMIwzTc
 https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471
     https://habr.com/company/ruvds/blog/416933/

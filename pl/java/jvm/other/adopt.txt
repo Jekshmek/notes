@@ -10,3 +10,6 @@ https://hub.docker.com/r/adoptopenjdk/
 
 2018
 https://blog.joda.org/2018/08/java-is-still-available-at-zero-cost.html
+
+qa
+https://stackoverflow.com/questions/52431764/difference-between-openjdk-and-adoptopenjdk/52431765#52431765

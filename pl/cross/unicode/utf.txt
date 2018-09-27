@@ -1,10 +1,16 @@
+https://en.wikipedia.org/wiki/UTF-8
+https://en.wikipedia.org/wiki/UTF-16
 https://en.wikipedia.org/wiki/UTF-32
 
-http://www.joelonsoftware.com/articles/Unicode.html
-http://utf8everywhere.org/
+faq
+https://www.unicode.org/faq/utf_bom.html
 
 UTF-8 videos:
 https://www.youtube.com/playlist?list=PLDtJOX2xbq5s98jW1FUKpDDkobOj2jfa8
+
+articles
+http://www.joelonsoftware.com/articles/Unicode.html
+http://utf8everywhere.org/
 
 http://stackoverflow.com/questions/1527856/how-can-i-iterate-through-the-unicode-codepoints-of-a-java-string
 http://stackoverflow.com/questions/1029897/comparing-a-char-to-a-code-point
@@ -29,52 +35,3 @@ http://bugs.java.com/bugdatabase/view%5Fbug.do?bug%5Fid=5003547
 
 cpp
 https://github.com/apertium/lttoolbox/blob/master/lttoolbox/xml_parse_util.cc
-
-wstring
-XMLParseUtil::towstring(xmlChar const * input)
-{
-  wstring result = L"";
-
-  for(int i = 0, limit = xmlStrlen(input); i != limit; i++)
-  {
-    int val = 0;
-    if(((unsigned char) input[i] & 0x80) == 0x0)
-    {
-      val = static_cast<wchar_t>(input[i]);
-    }
-    else if(((unsigned char) input[i] & 0xE0) == 0xC0)
-    {
-      val = (input[i] & 0x1F) << 6;
-      i++;
-      val += input[i] & 0x7F;
-    }
-    else if(((unsigned char) input[i] & 0xF0) == 0xE0)
-    {
-      val = (input[i] & 0x0F) << 6;
-      i++;
-      val += input[i] & 0x7F;
-      val = val << 6;
-      i++;
-      val += input[i] & 0x7F;
-    }
-    else if(((unsigned char) input[i] & 0xF8) == 0xF0)
-    {
-      val = (input[i] & 0x07) << 6;
-      i++;
-      val += input[i] & 0x7F;
-      val = val << 6;
-      i++;
-      val += input[i] & 0x7F;
-      val = val << 6;
-      i++;
-      val += input[i] & 0x7F;
-    }
-    else
-    {
-      wcerr << L"UTF-8 invalid string" << endl;
-      exit(EXIT_FAILURE);
-    }
-    result += static_cast<wchar_t>(val);
-  }
-  return result;
-}

@@ -5,11 +5,13 @@ https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-
     https://habr.com/post/419559/
 https://sparkyspace.com/recomposing-redux/
 https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
-https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
 
 with redux
 https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
 https://blog.cloudboost.io/react-functional-way-c533fceda2ce
+philosophical
+https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
+    https://github.com/featherart/functionaSetState
 simple
 https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
     https://github.com/lblima/react-recompose-01
