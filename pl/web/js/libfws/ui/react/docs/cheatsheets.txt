@@ -6,3 +6,5 @@ https://devhints.io/awesome-redux
 https://devhints.io/react-router
 
 https://reactcheatsheet.com/
+
+http://www.developer-cheatsheets.com/react
