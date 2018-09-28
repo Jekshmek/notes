@@ -8,3 +8,5 @@ https://habrahabr.ru/post/324334/
 
 2017
 Juba - Learning PostgreSQL 10 2nd ed
+Luzanov
+https://postgrespro.ru/media/2017/06/06/introbook_v3finalrelease1-text.pdf

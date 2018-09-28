@@ -1,0 +1,4 @@
+2018
+https://opensource.com/article/18/1/analyzing-linux-boot-process
+https://opensource.com/article/17/2/linux-boot-and-startup
+    https://habr.com/company/otus/blog/424761/

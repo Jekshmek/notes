@@ -1,4 +1,6 @@
 2018
+Sutter - Thoughts on a more powerful and simpler C++ (5 of N)
+    https://www.youtube.com/watch?v=80BZxujhY38
 Josuttis - Beware of Cpp17
     https://corehard.by/2018/06/13/corehard-spring-2018-nicolai-josuttis-beware-of-c17/
     https://www.slideshare.net/corehard_by/beware-of-c17

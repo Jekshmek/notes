@@ -3,11 +3,13 @@ https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd
     big sample
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
-https://sparkyspace.com/recomposing-redux/
 
 with redux
     https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
     https://blog.cloudboost.io/react-functional-way-c533fceda2ce
+kind of simple clone of redux
+https://sparkyspace.com/recomposing-redux/
+    https://codesandbox.io/s/rWjAYwRw
 philosophical
     https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
         https://github.com/featherart/functionaSetState
