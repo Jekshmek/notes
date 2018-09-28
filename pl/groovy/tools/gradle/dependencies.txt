@@ -1,5 +1,5 @@
 tasks:
-dep[endencies]
+dep[endencies] [--configuration compile|test|...]
     list transitive dependencies
         org.slf4j:slf4j-api:1.7.7 -> 1.7.12 (conflict resolution)
 

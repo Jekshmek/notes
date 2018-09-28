@@ -1,3 +1,5 @@
+-Dlogback.configurationFile=~/fxsvc-custom-log-config.xml\
+
 config:
 http://logback.qos.ch/manual/configuration.html
 http://logback.qos.ch/manual/groovy.html
@@ -14,6 +16,17 @@ http://logback.qos.ch/manual/layouts.html#coloring
 <configuration debug="true" scan="true" scanPeriod="30 seconds">
     ...
 </configuration>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds">
+    <contextName>nlp-service</contextName>
+    <jmxConfigurator/>
+    <springProperty name="application.name" source="spring.application.name"/>
+    <springProperty name="application.version" source="spring.application.version"/>
+    <springProperty name="application.lang.id" source="lang.id"/>
+    <conversionRule conversionWord="clr" converterClass="org.springframework.boot.logging.logback.ColorConverter"/>
+    <conversionRule conversionWord="wex"
+                    converterClass="org.springframework.boot.logging.logback.WhitespaceThrowableProxyConverter"/>
 
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
@@ -41,6 +54,14 @@ http://logback.qos.ch/manual/layouts.html#coloring
         </encoder>
     </appender>
 
+    <root level="info">
+        <!-- Output to stdout -->
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+</configuration>
+
+misc
     <!-- logger name="com.clarabridge.fxservice.protomap.RelationTypeMapperUniversal" level="DEBUG" / -->
     <!-- logger name="com.clarabridge.fx.config.ConfigParser" level="DEBUG">
         <appender-ref ref="STDOUT"/>
@@ -51,3 +72,10 @@ http://logback.qos.ch/manual/layouts.html#coloring
     <logger name="com.clarabridge.fx.module.NativeModule.gazetteer" level="DEBUG">
         <appender-ref ref="STDOUT"/>
     </logger -->
+
+JSON
+:l13
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder">
+            <jsonGeneratorDecorator class="net.logstash.logback.decorate.PrettyPrintingJsonGeneratorDecorator"/>
+            <providers> ...

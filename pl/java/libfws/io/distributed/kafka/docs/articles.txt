@@ -1,4 +1,6 @@
 2018
+https://blog.softwaremill.com/event-sourcing-using-kafka-53dfd72ad45d
+    https://habr.com/company/piter/blog/424739/
 https://habr.com/post/354486/
 https://habr.com/company/itsumma/blog/416629/ (kafka vs rabbit)
 
