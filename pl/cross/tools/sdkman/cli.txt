@@ -11,3 +11,8 @@ sdk
     unsinstall|rm <package [ver]>
 
     outdated <package>
+
+    d[efault]   <fackage [ver]>
+        set as a default
+    u[se]       <fackage [ver]>
+        use in this shell

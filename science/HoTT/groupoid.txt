@@ -227,6 +227,9 @@ https://github.com/zeitraffer/tex-cats/releases
 Rust-CPS:
 http://maxim.livejournal.com/492713.html
 
+yt
+https://www.youtube.com/playlist?list=PLGMl-uAnnXVXCLSnGy-c4hSQGFc65OoFj
+
 github:
 https://github.com/groupoid/groupoid.space
 

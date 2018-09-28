@@ -172,6 +172,10 @@ toClass
 
 shallowEqual
 
+====== OBSERVABLE UTILS
+
+https://github.com/acdlite/recompose/blob/master/docs/API.md#observable-utilities
+
 ======== PROP TYPES =====
 
 setPropTypes

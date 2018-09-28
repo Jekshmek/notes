@@ -4,26 +4,27 @@ https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
 https://sparkyspace.com/recomposing-redux/
-https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
 
 with redux
-https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
-https://blog.cloudboost.io/react-functional-way-c533fceda2ce
+    https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
+    https://blog.cloudboost.io/react-functional-way-c533fceda2ce
 philosophical
-https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
-    https://github.com/featherart/functionaSetState
+    https://medium.com/@featherart/the-tldr-part-of-this-story-is-use-recompose-if-you-are-a-react-developer-now-ill-explain-why-3427d16c5d87
+        https://github.com/featherart/functionaSetState
+good details!
+    https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
 simple
-https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
-    https://github.com/lblima/react-recompose-01
-http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
-    https://codesandbox.io/s/znrzvk078x
-https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
-https://www.zivtech.com/blog/how-use-recompose-transform-react-development
-https://habr.com/company/raiffeisenbank/blog/354768/
-    https://codepen.io/Grigorov/pen/Zorxbm
-https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
+    https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
+        https://github.com/lblima/react-recompose-01
+    http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/
+        https://codesandbox.io/s/znrzvk078x
+    https://blog.castiel.me/posts/006-reusable-hoc-with-recompose.html
+    https://www.zivtech.com/blog/how-use-recompose-transform-react-development
+    https://habr.com/company/raiffeisenbank/blog/354768/
+        https://codepen.io/Grigorov/pen/Zorxbm
+    https://blog.logrocket.com/using-recompose-to-write-clean-higher-order-components-3019a6daf44c
 tons of samples
-https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
+    https://reactjsexample.com/a-react-utility-belt-for-function-components-and-higher-order-components/
 
 2017
 https://medium.com/@leathcooper/roll-your-own-provider-and-connect-with-recompose-ceb73ba29dd3
