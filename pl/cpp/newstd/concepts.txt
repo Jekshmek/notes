@@ -1,7 +1,10 @@
+https://en.cppreference.com/w/cpp/language/constraints
+
 http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0898r2.pdf
 http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4674.pdf
 
 2018
+https://www.inversepalindrome.com/blog/2018/9/26/concepts
 Stroustrup - Concepts: The Future of Generic Programming (the future is here)
 https://www.youtube.com/watch?v=HddFGPTAmtU
 https://www.youtube.com/watch?v=IT3AA1JHoYY

@@ -1,6 +1,6 @@
 2018
 https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
-    big sample
+    step 2
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
 

@@ -52,6 +52,7 @@ withHandlers
 withStateHadlers
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withstatehandlers
     ... both withState and withHandlers
+    https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
 
 withProps
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withprops
