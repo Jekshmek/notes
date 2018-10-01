@@ -1,3 +1,6 @@
 2018
+Fitzgerald - Rust and Wasm
+https://rustwasm.github.io/sfhtml5-rust-and-wasm/#1
+    https://www.youtube.com/watch?v=ZiiTRxWk8gA
 TensorProgramming - Web Assembly
 https://www.youtube.com/playlist?list=PLJbE2Yu2zumDDxkhXFwZrjxC1xCoWEVE2
