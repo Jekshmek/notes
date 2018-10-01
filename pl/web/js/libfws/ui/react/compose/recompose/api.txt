@@ -1,5 +1,10 @@
 https://github.com/acdlite/recompose/blob/master/docs/API.md
 
+pure
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#pure
+    Prevents the component from updating unless a prop has changed.
+    Uses shallowEqual() to test for changes.
+
 compose
     function compose(...funcs) {   return funcs.reduce((a, b) => (...args) => a(b(...args))) } 
 
@@ -35,6 +40,8 @@ withReducer
 withHandlers
     https://github.com/acdlite/recompose/blob/master/docs/API.md#withhandlers
     create higher-order functions that accept a set of props and return a function handler
+    https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
+    withHandlers is a special version of withProps, which is intended to be used with arrow functions (which degrade performance in a usual case)
 
     withHandlers({
         toggleVisibility: ({ toggleVis, isVisible }) => {

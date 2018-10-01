@@ -1,4 +1,5 @@
 2018
+https://blog.logrocket.com/managing-multiple-central-stores-with-vuex-74cc44646043
 https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45
     https://habr.com/post/421551/
 https://www.codementor.io/thomas478/vuex-the-enterprise-setup-m90zecnd1
