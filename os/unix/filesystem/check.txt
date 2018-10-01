@@ -1,13 +1,22 @@
 https://wiki.archlinux.org/index.php/fsck
 
-tune2fs -l /dev/sda2 | grep "Last checked:"
+e2fsck
+    -C0 -f -v /dev/sdNN
+
+badblocks
+    -vsn /dev/sdNN
+
+tune2fs
+    -l /dev/sda2 | grep "Last checked:"
 
 upstart-way of fsck:
     sudo touch /forcefsck
     sudo shutdown -rF now
 
 smartmontools
-    smartctl -i
+    smartctl
+        -i /dev/sdNN
+        --all /dev/sdNN
 
 /etc/mkinitcpio.conf
 HOOKS="base udev autodetect modconf block resume keyboard keymap filesystems fsck"
@@ -15,7 +24,6 @@ HOOKS="base udev autodetect modconf block resume keyboard keymap filesystems fsc
 
 https://bbs.archlinux.org/viewtopic.php?id=165309
 
-e2fsck
 
 fsck.service
 https://www.freedesktop.org/software/systemd/man/systemd-fsck@.service.html
