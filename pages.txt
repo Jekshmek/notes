@@ -1,5 +1,6 @@
 https://predanie.ru/somin-nikolay-vladimirovich/pravoslavnyy-socializm/slushat/
 https://ubuntuforums.org/showthread.php?t=982699
+https://askubuntu.com/questions/381518/recover-from-a-corrupted-filesystem-when-fsck-do-not-help
 
 URLs
 https://habr.com/post/417999/
