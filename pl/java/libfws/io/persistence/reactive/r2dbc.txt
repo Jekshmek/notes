@@ -1,0 +1,8 @@
+https://github.com/r2dbc
+https://github.com/r2dbc/r2dbc-postgresql
+
+http://rsocket.io/
+
+2018
+https://www.infoq.com/news/2018/10/springone-r2dbc
+https://www.infoq.com/news/2018/10/rsocket-facebook
