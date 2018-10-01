@@ -1,0 +1,2 @@
+2018
+http://the-cogitator.com/2018/09/29/by-the-way-exploring-delegation-in-kotlin.html

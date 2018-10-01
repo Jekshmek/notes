@@ -12,7 +12,12 @@ http://www.cyberciti.biz/faq/curl-command-resume-broken-download/
 Samples:
 curl -XPUT -k -u <usr>:<pwd> -T <filename> <url>/<filename>
 
+encode
+https://unix.stackexchange.com/questions/86729/any-way-to-encode-the-url-in-curl-command
+
 curl
+    -v
+        verbose
     -I, --head
     -s - silent
         https://unix.stackexchange.com/questions/196549/hide-curl-output
