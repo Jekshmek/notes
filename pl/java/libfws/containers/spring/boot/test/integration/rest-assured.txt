@@ -23,6 +23,9 @@ https://octoperf.com/blog/2018/02/22/spring-boot-rest-tutorial/#restassured-unit
 https://habr.com/sandbox/114308/
 https://habr.com/post/421005/
 
+qa
+https://stackoverflow.com/questions/40665315/testing-spring-boot-rest-application-with-restassured
+
 samples
 https://techbeacon.com/how-perform-api-testing-rest-assured
 

@@ -43,9 +43,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Fokin                                       - 1:30:00 (of 1:38:37)
-    https://yadi.sk/d/t5xUhTnCQtIjaA
-Bykov - Single                                      -   02:00 (of 1:45:03)
+Bykov - Single                                      - 1:25:00 (of 1:45:02)
     https://cdn.echo.msk.ru/snd/2018-09-21-odin-0005.mp3
 Schipkov
     https://www.youtube.com/watch?v=pbwEdzQqTAI
@@ -60,7 +58,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 16 b                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-03                                       -   00:00 (of)
+Ivliev - 2-04                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 44                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -102,8 +100,8 @@ https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
 
 Tracking
 This week in rust                                   - 252
-Razbor Poletov                                      - 184
-    http://traffic.libsyn.com/razborpoletov/razbor_184.mp3
+Razbor Poletov                                      - 185 58:00 (of 1:59:43)
+    http://traffic.libsyn.com/razborpoletov/razbor_185.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 

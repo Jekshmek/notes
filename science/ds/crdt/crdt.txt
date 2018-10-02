@@ -1,6 +1,7 @@
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
 2018
+https://habr.com/company/jugru/blog/424763/
 Sobo - Real-time, Fine-grained Version Control with CRDTs
     https://www.infoq.com/presentations/github-crdt
 https://habr.com/post/418897/

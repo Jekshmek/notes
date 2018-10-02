@@ -1,0 +1,18 @@
+https://sourcegraph.com/github.com/sourcegraph/sourcegraph
+
+https://about.sourcegraph.com/
+https://github.com/sourcegraph/about
+
+https://github.com/sourcegraph/sourcegraph
+https://github.com/sourcegraph/sourcegraph-extension-api
+
+
+https://github.com/sourcegraph/sourcegraph/blob/master/docs/FAQ.md
+https://github.com/sourcegraph/sourcegraph/blob/master/docs/architecture.md
+https://github.com/sourcegraph/sourcegraph/blob/master/docs/storage.md
+https://github.com/sourcegraph/sourcegraph/blob/master/docs/style.md
+https://github.com/sourcegraph/sourcegraph/blob/master/docs/api.md
+
+2018
+https://about.sourcegraph.com/blog/sourcegraph-is-now-open-source/
+    http://www.opennet.ru/opennews/art.shtml?num=49382
