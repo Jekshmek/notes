@@ -1,3 +1,8 @@
+2018
+Generic Params Validation in REST controllers
+https://habr.com/post/425001/
+    https://github.com/Okapist/IntegerValidationExample
+
 https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#validation
 
 https://spring.io/guides/gs/validating-form-input/

@@ -4,3 +4,6 @@ https://techbeacon.com/efficient-api-testing-how-get-started-rest-assured
 
 2018
 https://habr.com/post/421005/
+2017
+http://automation-remarks.com/2017/code-generation/index.html
+    http://www.jsonschema2pojo.org/

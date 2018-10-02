@@ -1,10 +1,10 @@
 2018
+with RxJS
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
     https://github.com/yazeedb/recompose-github-ui
     https://codesandbox.io/s/github/yazeedb/recompose-github-ui
         chicken-egg
-
 with redux
     https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
     https://blog.cloudboost.io/react-functional-way-c533fceda2ce
