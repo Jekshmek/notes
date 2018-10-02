@@ -1,3 +1,6 @@
+2018
+https://stackify.com/types-of-exceptions-java/
+
 Thread.currentThread().getStackTrace()
 
 Thread.setDefaultUncaughtExceptionHandler(

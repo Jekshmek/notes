@@ -184,6 +184,48 @@ shallowEqual
 
 https://github.com/acdlite/recompose/blob/master/docs/API.md#observable-utilities
 
+https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
+    https://habr.com/post/419559/
+
+setObservableConfig
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#setobservableconfig
+
+    import { from } from 'rxjs';
+    import { setObservableConfig } from 'recompose';
+    setObservableConfig({
+        fromESObservable: from
+    });
+
+componentFromStream
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#componentfromstream
+
+    const App = componentFromStream(prop$ => {
+      return prop$.pipe(
+        map(() => (
+          <div>
+            <input placeholder="GitHub username" />
+          </div>
+        ))
+      )
+    });
+
+createEventHandler
+    https://github.com/acdlite/recompose/blob/master/docs/API.md#createeventhandler
+
+    const App = componentFromStream(prop$ => {
+      const { handler, stream } = createEventHandler();
+      return prop$.pipe(
+        map(() => (
+          <div>
+            <input
+              onChange={handler}
+              placeholder="GitHub username"
+            />
+          </div>
+        ))
+      )
+    });
+
 ======== PROP TYPES =====
 
 setPropTypes

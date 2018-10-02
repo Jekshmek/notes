@@ -1,2 +1,5 @@
+2018
+https://habr.com/post/423469/
+2017
 http://fabiensanglard.net/floating_point_visually_explained/index.php
-https://habrahabr.ru/post/337260/
+    https://habr.com/post/337260/

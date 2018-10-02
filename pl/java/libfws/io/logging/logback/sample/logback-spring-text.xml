@@ -1,25 +1,6 @@
--Dlogback.configurationFile=~/fxsvc-custom-log-config.xml\
-
-config:
-http://logback.qos.ch/manual/configuration.html
-http://logback.qos.ch/manual/groovy.html
-
-http://logback.qos.ch/manual/layouts.html#ClassicPatternLayout
-http://logback.qos.ch/xref/ch/qos/logback/classic/PatternLayout.html
-http://logback.qos.ch/manual/layouts.html#conversionWord
-http://logback.qos.ch/manual/layouts.html#formatModifiers
-http://logback.qos.ch/manual/layouts.html#cwOptions
-http://logback.qos.ch/manual/layouts.html#Parentheses
-http://logback.qos.ch/manual/layouts.html#coloring
-
-
-<configuration debug="true" scan="true" scanPeriod="30 seconds">
-    ...
-</configuration>
-
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration scan="true" scanPeriod="60 seconds">
-    <contextName>nlp-service</contextName>
+    <contextName>!!!-some-service</contextName>
     <jmxConfigurator/>
     <springProperty name="application.name" source="spring.application.name"/>
     <springProperty name="application.version" source="spring.application.version"/>
@@ -43,7 +24,7 @@ http://logback.qos.ch/manual/layouts.html#coloring
         <append>true</append>
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
             <!-- daily rollover -->
-            <fileNamePattern>${LOG_PATH:-./logs}/nlp-service.%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+            <fileNamePattern>${LOG_PATH:-./logs}/some-service.%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
             <!-- each file should be at most 100MB, keep 30 days worth of history, but at most 5GB -->
             <maxFileSize>100MB</maxFileSize>
             <maxHistory>30</maxHistory>
@@ -60,22 +41,3 @@ http://logback.qos.ch/manual/layouts.html#coloring
         <appender-ref ref="FILE"/>
     </root>
 </configuration>
-
-misc
-    <!-- logger name="com.clarabridge.fxservice.protomap.RelationTypeMapperUniversal" level="DEBUG" / -->
-    <!-- logger name="com.clarabridge.fx.config.ConfigParser" level="DEBUG">
-        <appender-ref ref="STDOUT"/>
-    </logger>
-    <logger name="com.clarabridge.fx.module.NativeModule" level="DEBUG">
-        <appender-ref ref="STDOUT"/>
-    </logger
-    <logger name="com.clarabridge.fx.module.NativeModule.gazetteer" level="DEBUG">
-        <appender-ref ref="STDOUT"/>
-    </logger -->
-
-JSON
-:l13
-    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
-        <encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder">
-            <jsonGeneratorDecorator class="net.logstash.logback.decorate.PrettyPrintingJsonGeneratorDecorator"/>
-            <providers> ...

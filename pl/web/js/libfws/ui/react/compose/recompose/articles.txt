@@ -1,9 +1,9 @@
 2018
-https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
-    https://github.com/suzdalnitski/medium-mastering-recompose
-    step 5
 https://medium.freecodecamp.org/how-to-build-a-github-search-in-react-with-rxjs-6-and-recompose-e9c6cc727e7f
     https://habr.com/post/419559/
+    https://github.com/yazeedb/recompose-github-ui
+    https://codesandbox.io/s/github/yazeedb/recompose-github-ui
+        chicken-egg
 
 with redux
     https://blog.koan.co/easier-react-component-testing-through-dependency-injection-hocs-706c97a9b1db
@@ -16,6 +16,8 @@ philosophical
         https://github.com/featherart/functionaSetState
 good details!
     https://itnext.io/my-favorite-recompose-functions-c8ff98ea308f
+    https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
+        https://github.com/suzdalnitski/medium-mastering-recompose
 simple
     https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
         https://github.com/lblima/react-recompose-01

@@ -13,6 +13,9 @@ articles
 https://realpython.com/python-matplotlib-guide/
     https://python-scripts.com/matplotlib
 
+whatsnew
+https://matplotlib.org/users/whats_new.html
+
 tutorials
 https://matplotlib.org/tutorials/index.html
 https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
