@@ -1,0 +1,10 @@
+https://quip.com/1TYDAdJowAgJ
+
+2017
+https://medium.com/@wisegain/minikube-cheat-sheet-a273385e66c9
+https://www.codeproject.com/Articles/1185089/An-Introduction-to-Kubernetes-with-Minikube
+2016
+https://medium.com/@claudiopro/getting-started-with-kubernetes-via-minikube-ada8c7a29620
+    https://habrahabr.ru/company/flant/blog/333470/
+https://sweetcode.io/learning-kubernetes-getting-started-minikube/
+http://www.bogotobogo.com/DevOps/DevOps-Kubernetes-1-Running-Kubernetes-Locally-via-Minikube.php
