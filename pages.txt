@@ -22,7 +22,7 @@ Keynote                                             -   15:00 (of   50:23)
     https://videoportal.epam.com/video/LoE5vkod
 Goetz - evolving the java language                  -   05:00 (of   50:12)
     https://www.youtube.com/watch?v=A-mxj2vhVAA
-Clark - Recomposing your React application          -   06:00 (of   29:55)
+Clark - Recomposing your React application          -   17:00 (of   29:55)
     https://www.youtube.com/watch?v=zD_judE-bXk
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
