@@ -11,3 +11,9 @@ http://hc.apache.org/httpcomponents-client-ga/tutorial/html/index.html
 
 http://hc.apache.org/httpcomponents-client-ga/examples.html
 http://hc.apache.org/httpcomponents-client-ga/primer.html
+
+api
+http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/index.html
+
+?
+http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/org/apache/http/impl/client/HttpClientBuilder.html
