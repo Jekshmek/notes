@@ -1,6 +1,7 @@
 3.1
 https://blogs.msdn.microsoft.com/typescript/announcing-typescript-3-1/
 https://blogs.msdn.microsoft.com/typescript/2018/09/13/announcing-typescript-3-1-rc/
+https://www.infoq.com/news/2018/10/typescript-mappable-tuple-array
 
 3.0
 https://medium.com/webbdev/typescript-3-0-d25109306e40
