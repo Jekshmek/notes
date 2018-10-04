@@ -3,27 +3,30 @@ minikube
     start
     stop
     status
+        minikube: Running
+        cluster: Running
+        kubectl: Correctly Configured: pointing to minikube-vm at 192.168.0.103
+    logs
+        print logs
+    mount
+        mount specified directory to the minikube
+        ? do we really need this for driver none
+    profile <name>
+        sets the current profile name
+
+    service <name>
+        get the URL for the service <name>
+
+    ssh-keys
+        path to ssh-key
+        ~/.minikube/machines/minikube/id_rsa
     ssh
     docker-env
-
-# non-exist
-# --bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf
-
-# ? insufficient
-# --fail-swap-on=false 
-# --client-ca-file=/var/lib/minikube/certs/ca.crt
-
-# unknown
---cadvisor-port=0
-
-# deprecated
-# --allow-privileged=true
-# --cgroup-driver=cgroupfs
-# --pod-manifest-path=/etc/kubernetes/manifests
-# --cluster-domain=cluster.local
-# --authorization-mode=Webhook
-
-/usr/bin/kubelet  --kubeconfig=/etc/kubernetes/kubelet.conf
-
-# --hostname-override=minikube
-# --cluster-dns=10.96.0.10
+        none driver does not support these commands
+    ip
+        192.168.0.103
+    dashboard
+        http://192.168.0.103:30000
+    update-check
+    update-context
+        ?

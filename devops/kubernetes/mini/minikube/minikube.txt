@@ -1,16 +1,8 @@
 https://github.com/kubernetes/minikube
 
-https://kubernetes.io/docs/setup/minikube/
-https://kubernetes.io/docs/tasks/tools/install-minikube/
-
 https://kubernetes.io/docs/getting-started-guides/minikube/
 https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 
 https://www.linux.com/learn/getting-started-kubernetes-easy-minikube
 https://www.linux.com/learn/rolling-updates-and-rollbacks-using-kubernetes-deployments
 https://www.linux.com/learn/helm-kubernetes-package-manager
-
-https://stackoverflow.com/questions/38870277/minikube-how-to-ssh-into-the-vm
-
-tips
-docker save <registry-name>:<registry-port>/<img-name>:<img-tag> | ssh -i $(minikube ssh-key) docker@$(minikube ip) 'docker load'

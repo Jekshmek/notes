@@ -4,6 +4,8 @@ https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
 https://kubernetes.io/docs/tasks/tools/install-kubectl/
 
 kubectl
+    config
+        https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-set-context-em-
     cluster-info
     get
         nodes

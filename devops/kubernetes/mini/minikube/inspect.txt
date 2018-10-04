@@ -1,0 +1,63 @@
+https://kubernetes.io/docs/setup/minikube/
+
+tips
+docker save <registry-name>:<registry-port>/<img-name>:<img-tag> | ssh -i $(minikube ssh-key) docker@$(minikube ip) 'docker load'
+
+https://stackoverflow.com/questions/38870277/how-do-i-ssh-into-the-vm-for-minikube
+
+kubectl
+    version
+
+    options
+        -n, --namespace (kube-system)
+        --all-namespaces
+        list available global options
+
+    cluster-info
+        Kubernetes master is running at https://192.168.0.103:8443
+        CoreDNS is running at https://192.168.0.103:8443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+
+        dump
+            --all-namespaces
+            --namespaces default,kube-system
+            --output=json|yaml|name|template|go-template|go-template-file|templatefile|jsonpath-file|jsonpath.
+            --output-directory=/path/to/cluster-state
+                creates directory hier...
+
+            detailed json-dump
+
+    describe
+        --all-namespaces
+        --namespace
+
+    config
+        get-clusters
+        current-context
+        get-contexts
+
+        set-context
+        use-context
+
+        view
+
+    get
+        po[ds]
+        --context=minikube
+        -n kube-system
+
+
+kubectl config set-context minikube
+kubectl get po -n kube-system
+
+1.10
+NAME                                    READY   STATUS    RESTARTS   AGE
+coredns-c4cffd6dc-kdzmx                 1/1     Running   1          1h
+etcd-minikube                           1/1     Running   0          11m
+kube-addon-manager-minikube             1/1     Running   1          1h
+kube-apiserver-minikube                 1/1     Running   0          12m
+kube-controller-manager-minikube        1/1     Running   1          11m
+kube-dns-86f4d74b45-s7bw7               3/3     Running   3          1h
+kube-proxy-2nm6n                        1/1     Running   1          1h
+kube-scheduler-minikube                 1/1     Running   1          1h
+kubernetes-dashboard-6f4cfc5d87-dvs4f   1/1     Running   2          1h
+storage-provisioner                     1/1     Running   1          1h
