@@ -22,3 +22,26 @@ users:
 
 ~/.minikube/
     machines/minikube/config.json
+    ... tons of other stuff
+
+
+/etc/crictl.yaml
+runtime-endpoint: unix:///run/containerd/containerd.sock
+image-endpoint: unix:///run/containerd/containerd.sock
+timeout: 10
+debug: false
+
+
+WARNING: IT IS RECOMMENDED NOT TO RUN THE NONE DRIVER ON PERSONAL WORKSTATIONS
+	The 'none' driver will run an insecure kubernetes apiserver as root that may leave the host vulnerable to CSRF attacks
+
+When using the none driver, the kubectl config and credentials generated will be root owned and will appear in the root home directory.
+You will need to move the files to the appropriate location and then set the correct permissions.  An example of this is below:
+
+	sudo mv /root/.kube $HOME/.kube # this will write over any previous configuration
+	sudo chown -R $USER $HOME/.kube
+	sudo chgrp -R $USER $HOME/.kube
+
+	sudo mv /root/.minikube $HOME/.minikube # this will write over any previous configuration
+	sudo chown -R $USER $HOME/.minikube
+	sudo chgrp -R $USER $HOME/.minikube

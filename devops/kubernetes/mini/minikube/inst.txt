@@ -3,4 +3,12 @@ scoop
     minikube
 AUR
     minikube
+        https://aur.archlinux.org/packages/minikube/
+        https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=minikube
+    minikube-bin
+        https://aur.archlinux.org/packages/minikube-bin/
+        https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=minikube-bin
+    crictl
+    crictl-bin
+        cli tool for kubelet container runtime interface (CRI)
     kubectl-bin

@@ -4,6 +4,7 @@ minikube
     stop
     status
     ssh
+    docker-env
 
 # non-exist
 # --bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf
