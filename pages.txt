@@ -18,7 +18,7 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Keynote                                             -   15:00 (of   50:23)
+Keynote                                             -   27:00 (of   50:23)
     https://videoportal.epam.com/video/LoE5vkod
 Goetz - evolving the java language                  -   05:00 (of   50:12)
     https://www.youtube.com/watch?v=A-mxj2vhVAA
@@ -45,7 +45,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   50:00 (of 1:44:45)
+Bykov - Single                                      - 1:21:00 (of 1:44:45)
     https://cdn.echo.msk.ru/snd/2018-09-28-odin-0005.mp3
 Schipkov
     https://www.youtube.com/watch?v=pbwEdzQqTAI
@@ -73,7 +73,7 @@ Chernyak - 25 of 34                                 -   20:00 (of 2:08:34)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sekackiy                                            - 1:07:00 (of 1:23:11)
     https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
-Filonik, Perevezencev                               -   12:00 (of 2:45:05)
+Filonik, Perevezencev                               -   34:00 (of 2:45:05)
     https://predanie.ru/bez-avtora/gordynya-samoocenka-i-maniya-velichiya-kak-pravilno-lyubit-sebya/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
