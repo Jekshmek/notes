@@ -5,6 +5,7 @@ Borisov Tolkachev - Boot Yourself, Spring is Coming
 https://www.infoq.com/presentations/spring-boot-auto-configuration
 2017
 Borisov, Tolkachev - Boot yourself, Spring is coming
+https://habr.com/company/jugru/blog/425333/
 https://habr.com/company/jugru/blog/424503/
     https://www.youtube.com/watch?v=yy43NOreJG4
     https://www.youtube.com/watch?v=7Cq5zEm2wq0

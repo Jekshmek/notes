@@ -1,10 +1,4 @@
-https://predanie.ru/somin-nikolay-vladimirovich/pravoslavnyy-socializm/slushat/
-https://ubuntuforums.org/showthread.php?t=982699
-https://askubuntu.com/questions/381518/recover-from-a-corrupted-filesystem-when-fsck-do-not-help
-
 URLs
-https://habr.com/post/417999/
-    passive voice
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -111,7 +105,6 @@ ACCU Overload                                       - 146
 Series
 Linux Networking 04                                 -   06:00 (of 1:04:40)
 Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
-???Python Fundamentals                              -   0301
 
 Books
 Wieruch - Taming the State in React                 - 119..134..142..147..154..158..206..217..224..236..241..245
@@ -125,7 +118,7 @@ Kantor - Imperiya nauznanku                         - 386.3 (of 767)
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-need: 66, 71-73, 81-82, 93-
+zis 110 need: 66, 71-73, 81-82, 93-
 
 clear at D:/Temp
     jna*.dll

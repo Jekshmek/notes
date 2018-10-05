@@ -2,6 +2,7 @@
 https://kubernetes.io/blog/2018/09/27/kubernetes-1.12-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets-vmss-move-to-general-availability/
 https://cloud.google.com/blog/products/containers-kubernetes/digging-into-kubernetes-1-12
 https://habr.com/company/flant/blog/424331/
+https://www.infoq.com/news/2018/10/kubernetes-1-12
 
 1.11
 https://kubernetes.io/blog/2018/06/27/kubernetes-1.11-release-announcement/

@@ -2,3 +2,6 @@ https://fetch.spec.whatwg.org/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+2018
+https://medium.com/webbdev/fetch-3d0b811ffcb5

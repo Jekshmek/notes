@@ -1,4 +1,5 @@
 2018
+https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/
 Academind - JS "this" and Function References
 https://www.youtube.com/watch?v=Pv9flm-80vM
 https://medium.freecodecamp.org/what-to-do-when-this-loses-context-f09664af076f
