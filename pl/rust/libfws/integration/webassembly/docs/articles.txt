@@ -1,4 +1,6 @@
 2018
+https://frehberg.wordpress.com/webassembly-and-dynamic-memory/
+    https://github.com/frehberg/wasm-dyn-mem
 https://mnt.io/2018/08/22/from-rust-to-beyond-the-webassembly-galaxy/
 https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html
 Rust DC - Learn+Try: Rust in the Browser via WebAssembly
