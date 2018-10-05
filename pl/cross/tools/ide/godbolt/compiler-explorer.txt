@@ -1,6 +1,15 @@
-https://gcc.godbolt.org/
+https://www.godbolt.org/
 https://github.com/mattgodbolt/compiler-explorer
 https://github.com/dobokirisame/CompilerExplorer
+
+https://gcc.godbolt.org/
+https://rust.godbolt.org/
+https://go.godbolt.org/
+https://d.godbolt.org/
+https://haskell.godbolt.org/
+https://cuda.godbolt.org/
+https://swift.godbolt.org/
+https://zig.godbolt.org/
 
 2017
 CppWeekly - Installing Compiler Explorer

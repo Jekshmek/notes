@@ -1,1 +1,5 @@
+2018
+https://itsfoss.com/what-is-zfs/
+    https://habr.com/post/424651/
+2017
 https://habrahabr.ru/post/314506/
