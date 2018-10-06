@@ -1,4 +1,6 @@
 2018
+House Goodbye REST APIs. Hello GraphQL!
+    https://www.infoq.com/presentations/rest-graphql
 CodingTech - GraphQL - The Good Parts
 https://www.youtube.com/watch?v=1c4M7fYs1Jk
 Zprucky - Fresh Look at GraphQL API

@@ -4,5 +4,7 @@ https://www.w3.org/TR/css3-box/
 
 http://learn.shayhowe.com/html-css/opening-the-box-model/
 
+2018
+https://klassynihal.github.io/blog/A-Noobs-Guide-For-CSS-Box-Model
 2016
 https://habr.com/company/netcracker/blog/281008/

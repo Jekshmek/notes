@@ -1,0 +1,5 @@
+https://stryker-mutator.io/
+https://github.com/stryker-mutator/
+
+2018
+https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e

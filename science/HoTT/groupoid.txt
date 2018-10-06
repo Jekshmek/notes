@@ -6,6 +6,7 @@ https://mokum.place/5ht
 
 https://github.com/groupoid/infinity
 http://groupoid.space/mltt/types/
+https://github.com/groupoid/groupoid.space/blob/master/tex/dissertation/manuscript/dissertation.pdf
 
 http://t.me/groupoid
 http://t.me/systemflow
