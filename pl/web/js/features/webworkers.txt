@@ -3,3 +3,8 @@ https://alligator.io/js/service-workers/
 https://auth0.com/blog/speedy-introduction-to-web-workers/
 https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2
     https://habrahabr.ru/company/ruvds/blog/352828/
+
+
+https://github.com/GoogleChromeLabs/comlink
+2018
+https://paul.kinlan.me/barcode-detection-in-a-web-worker-using-comlink-/

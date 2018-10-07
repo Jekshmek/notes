@@ -1,3 +1,4 @@
 2018
+https://tylermcginnis.com/beginners-guide-to-javascript-prototype/
 https://mathiasbynens.be/notes/prototypes
     https://habr.com/company/ruvds/blog/422321/
