@@ -1,0 +1,7 @@
+https://oatpp.io/
+https://github.com/oatpp/oatpp
+
+https://oatpp.io/docs/start
+
+2018
+https://www.reddit.com/r/cpp/comments/9lz88d/zerodependency_performance_oriented/

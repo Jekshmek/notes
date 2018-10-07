@@ -1,0 +1,4 @@
+https://tailwindcss.com/
+https://github.com/tailwindcss/tailwindcss
+
+https://tailwindcss.com/docs/what-is-tailwind/
