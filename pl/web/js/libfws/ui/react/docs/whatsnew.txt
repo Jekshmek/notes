@@ -3,6 +3,7 @@ http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/0
 
 2018
 https://medium.freecodecamp.org/why-react16-is-a-blessing-to-react-developers-31433bfc210a
+    https://nuancesprog.ru/p/2125/
 https://reactjs.org/blog/2018/05/23/react-v-16-4.html
     https://habr.com/post/359264/
 https://reactjs.org/blog/2018/03/29/react-v-16-3.html

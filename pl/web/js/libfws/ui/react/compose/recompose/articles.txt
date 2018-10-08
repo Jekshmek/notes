@@ -19,6 +19,7 @@ good details!
     https://hackernoon.com/mastering-react-functional-components-with-recompose-d4dd6ac98834
         https://github.com/suzdalnitski/medium-mastering-recompose
 simple
+    https://css-tricks.com/using-recompose-to-share-functionality-between-react-components/
     https://medium.com/@leonardobrunolima/react-tips-recompose-ae6f83579423
         https://github.com/lblima/react-recompose-01
     http://jefflau.net/improving-your-react-workflow-with-recompose-and-hoc/

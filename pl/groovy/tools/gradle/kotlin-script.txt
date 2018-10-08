@@ -1,4 +1,5 @@
 https://github.com/gradle/gradle-script-kotlin
+
 https://github.com/gradle/kotlin-dsl
     provider/src/main/kotlin/org/gradle/kotlin/dsl/
 
@@ -16,8 +17,9 @@ ug:
 https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
 https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
-articles:
+articles
 2018
+https://blog.gradle.org/gradle-kotlin-dsl-release-candidate
 http://the-cogitator.com/2018/08/29/gradle-kotlin-dsl-first-impressions.html
 https://blog.gradle.org/kotlin-meets-gradle
 https://dzone.com/articles/a-look-at-gradle-kotlin-dsl
@@ -25,7 +27,7 @@ https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl
 https://techdev.io/en/developer-blog/building-a-fat-jar-with-gradle-script-kotlin
 https://discuss.kotlinlang.org/t/gradle-script-kotlin-how-to-configure-asciidoctor-plugin/2458
 
-releases:
+releases
 https://github.com/gradle/kotlin-dsl/releases
 
 samples:

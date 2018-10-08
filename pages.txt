@@ -1,9 +1,11 @@
 URLs
+https://blog.predanie.ru/article/novoe-srednevekov-e/
+    nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Oct 8
-Shalyto - motivation - 016 of 873p
+Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
@@ -69,6 +71,8 @@ Sekackiy                                            - 1:07:00 (of 1:23:11)
     https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
 Filonik, Perevezencev                               - 1:20:00 (of 2:45:05)
     https://predanie.ru/bez-avtora/gordynya-samoocenka-i-maniya-velichiya-kak-pravilno-lyubit-sebya/slushat/
+Uliyanov - Ukrain autokefaliya                      - 31:00 (of 3:09:07)
+    https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
@@ -84,17 +88,7 @@ https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
 https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-problematika/slushat/
 https://predanie.ru/somov-aleksey-borisovich/pritcha-o-bogache-i-lazare-uchenie-o-zagrobnoy-mire-ili-propoved-pravednoy-zhizni/slushat/
 https://predanie.ru/mihaylova-marina-valentinovna/molchanie-vnutri-boltayuschey-civilizacii/slushat/
-Uliyanov - Ukrain autokefaliya                      - 31:00 (of 3:09:07)
-    https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
-
-Shallar
-https://blog.predanie.ru/article/hristianskaya-ortodoksiya-vs-pravoslavnoe-hristianstvo/
-https://blog.predanie.ru/article/evangelskij-ateizm/
-https://blog.predanie.ru/article/novoe-srednevekov-e/
-    Lifshits
-https://blog.predanie.ru/article/apologija-bezdel-ja-ili-protiv-aktivnosti/
-    social aspects
 
 Tracking
 This week in rust                                   - 254
@@ -114,7 +108,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 401.3 (of 767)
+Kantor - Imperiya nauznanku                         - 410.5 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
