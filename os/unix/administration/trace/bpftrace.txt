@@ -1,0 +1,9 @@
+https://github.com/iovisor/bpftrace
+https://github.com/iovisor/bcc
+
+https://github.com/iovisor/bpftrace/blob/master/docs/tutorial_one_liners.md
+https://github.com/iovisor/bpftrace/blob/master/docs/reference_guide.md
+
+2018
+http://www.opennet.ru/opennews/art.shtml?num=49414
+http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html

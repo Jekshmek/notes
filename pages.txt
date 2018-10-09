@@ -1,4 +1,6 @@
 URLs
+https://www.youtube.com/user/Dzmitryism/videos
+https://vk.com/id172268970
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
@@ -41,7 +43,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bycov - Cards                                       -   01:00 (of 1:28:16)
+Bycov - Cards                                       - 1:04:00 (of 1:28:16)
     https://yadi.sk/d/FWljxsPFTM9OwQ
 Schipkov
     https://www.youtube.com/watch?v=pbwEdzQqTAI
@@ -56,7 +58,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 17 a                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-04                                       -   00:00 (of)
+Ivliev - 2-05                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 45                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
@@ -69,9 +71,9 @@ Chernyak - 25 of 34                                 -   20:00 (of 2:08:34)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Sekackiy                                            - 1:07:00 (of 1:23:11)
     https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
-Filonik, Perevezencev                               - 1:20:00 (of 2:45:05)
+Filonik, Perevezencev                               - 1:46:00 (of 2:45:05)
     https://predanie.ru/bez-avtora/gordynya-samoocenka-i-maniya-velichiya-kak-pravilno-lyubit-sebya/slushat/
-Uliyanov - Ukrain autokefaliya                      - 31:00 (of 3:09:07)
+Uliyanov - Ukrain autokefaliya                      - 41:00 (of 3:09:07)
     https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -92,8 +94,8 @@ https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-strada
 
 Tracking
 This week in rust                                   - 254
-Razbor Poletov                                      - 186
-    http://traffic.libsyn.com/razborpoletov/razbor_186.mp3
+Razbor Poletov                                      - 187
+    http://traffic.libsyn.com/razborpoletov/razbor_187.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
