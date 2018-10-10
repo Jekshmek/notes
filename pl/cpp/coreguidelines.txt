@@ -4,6 +4,9 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 
 lifetime
+Sutter - Thoughts on a more powerful and simpler C++ (5 of N)
+https://www.youtube.com/watch?v=80BZxujhY38
+    https://habr.com/post/425873/
 https://www.infoworld.com/article/3307522/c-plus-plus/revised-proposal-could-solve-longstanding-c-bugs.html
 https://github.com/isocpp/CppCoreGuidelines/blob/master/docs/Lifetime.pdf
 https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/

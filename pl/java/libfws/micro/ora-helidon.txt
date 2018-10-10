@@ -5,5 +5,6 @@ https://helidon.io/docs/latest/#/about/01_introduction
 https://helidon.io/docs/latest/#/getting-started/02_base-example
 
 2018
+https://www.infoq.com/news/2018/10/oracle-introduces-helidon
 https://medium.com/oracledevs/helidon-takes-flight-fb7e9e390e9c
     https://habr.com/post/424607/
