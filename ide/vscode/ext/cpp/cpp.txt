@@ -11,6 +11,8 @@ https://blogs.msdn.microsoft.com/vcblog/2018/04/09/intellisense-for-remote-linux
 https://caphyon.github.io/clang-power-tools/
 
 2018
+Lu - C++ Development with Visual Studio Code
+    https://www.youtube.com/watch?v=UHS-aenkPPg
 https://habr.com/company/microsoft/blog/333680/
 Bartolesi - Work with C++ on Mac, Linux and Windows with Visual Studio Code
 https://www.youtube.com/watch?v=Kma6g3EsiE4

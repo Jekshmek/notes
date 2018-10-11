@@ -18,6 +18,7 @@ https://forum.manjaro.org/t/manjaro-net-lxqt-17-0-5/31686
 i3
 https://osdn.net/projects/manjaro-community/storage/i3/
 https://forum.manjaro.org/t/manjaro-cinnamon-deepin-i3-17-1-5-17-1-6/41039
+https://osdn.net/projects/manjaro-community/storage/i3/17.1.12/minimal/
 
 bspwm
 https://forum.manjaro.org/t/bspwm-v17-1-7-stable-isos-released/43687

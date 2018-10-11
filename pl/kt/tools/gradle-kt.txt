@@ -1,5 +1,8 @@
+2018
+https://blog.kotlin-academy.com/gradle-kotlin-the-missing-piece-of-the-puzzle-7528a85f0d2c
 https://blog.jetbrains.com/kotlin/2018/02/using-gradle-build-cache-with-kotlin/
 
+https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
 https://guides.gradle.org/building-kotlin-jvm-libraries/
 https://github.com/JetBrains/kotlin-examples
 

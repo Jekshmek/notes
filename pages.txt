@@ -55,6 +55,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
+Bykov - Single                                      -   21:00 (of 1:49:49)
+    https://cdn.echo.msk.ru/snd/2018-10-02-odin-2305.mp3
 Bycov - Money                                       -   00:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Schipkov
@@ -81,7 +83,7 @@ Osipov - 2                                          -   00:00 (of)
 Chernyak - 25 of 34                                 -   47:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Uliyanov - Ukrain autokefaliya                      - 1:08:00 (of 3:09:07)
+Uliyanov - Ukrain autokefaliya                      - 1:43:00 (of 3:09:07)
     https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -101,7 +103,7 @@ https://predanie.ru/mihaylova-marina-valentinovna/molchanie-vnutri-boltayuschey-
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
 
 Tracking
-This week in rust                                   - 254
+This week in rust                                   - 255
 Razbor Poletov                                      - 187
     http://traffic.libsyn.com/razborpoletov/razbor_187.mp3
 ACCU Overload                                       - 146

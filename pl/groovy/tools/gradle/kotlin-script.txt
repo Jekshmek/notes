@@ -19,6 +19,8 @@ https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
 articles
 2018
+https://blog.kotlin-academy.com/gradle-kotlin-the-missing-piece-of-the-puzzle-7528a85f0d2c
+    https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
 https://blog.gradle.org/gradle-kotlin-dsl-release-candidate
 http://the-cogitator.com/2018/08/29/gradle-kotlin-dsl-first-impressions.html
 https://blog.gradle.org/kotlin-meets-gradle

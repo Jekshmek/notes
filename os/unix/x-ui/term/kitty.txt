@@ -1,0 +1,4 @@
+https://sw.kovidgoyal.net/kitty/
+https://github.com/kovidgoyal/kitty
+
+https://sw.kovidgoyal.net/kitty/conf.html

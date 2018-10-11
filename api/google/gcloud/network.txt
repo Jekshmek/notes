@@ -1,0 +1,2 @@
+2018
+https://cloud.google.com/blog/products/networking/simplifying-cloud-networking-for-enterprises-announcing-cloud-nat-and-more
