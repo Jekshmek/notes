@@ -11,3 +11,6 @@ https://thelocehiliosan.github.io/yadm/docs/examples
 https://thelocehiliosan.github.io/yadm/docs/bootstrap
 
 https://github.com/TheLocehiliosan/yadm/blob/master/yadm.md
+
+samples
+https://github.com/alexfridlyand/dotfiles/blob/master/.yadm/bootstrap
