@@ -1,4 +1,6 @@
 2018
+Lorenz - Understanding Why The New V8 Is So Fast, One Demo At A Time
+    https://www.youtube.com/watch?v=J9HAvlW7BqA
 https://nuancesprog.ru/p/1443/
 
 optimizations

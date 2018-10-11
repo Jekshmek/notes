@@ -1,5 +1,4 @@
 URLs
-https://habr.com/post/425837/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
@@ -56,8 +55,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bycov - Cards                                       - 1:04:00 (of 1:28:16)
-    https://yadi.sk/d/FWljxsPFTM9OwQ
+Bycov - Money                                       -   00:00 (of 1:33:11)
+    https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Schipkov
     https://www.youtube.com/watch?v=pbwEdzQqTAI
 Volkova Rome                                        -   06:00 (of 1:32:09)
@@ -79,12 +78,10 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 25 of 34                                 -   20:00 (of 2:08:34)
+Chernyak - 25 of 34                                 -   47:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Sekackiy                                            - 1:07:00 (of 1:23:11)
-    https://predanie.ru/sekackiy-aleksandr-kupriyanovich/chelovek-mezhdu-svobodoy-i-fatalizmom/slushat/
-Uliyanov - Ukrain autokefaliya                      - 50:00 (of 3:09:07)
+Uliyanov - Ukrain autokefaliya                      - 1:08:00 (of 3:09:07)
     https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
