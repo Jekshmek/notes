@@ -1,0 +1,4 @@
+http://vivien.github.io/i3blocks
+http://vivien.github.io/i3blocks/i3blocks.1.html
+
+/etc/i3blocks.conf

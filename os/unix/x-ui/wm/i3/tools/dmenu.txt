@@ -1,0 +1,5 @@
+https://build.i3wm.org/docs/i3-dmenu-desktop.html
+
+https://github.com/enkore/j4-dmenu-desktop
+2013
+https://www.youtube.com/watch?v=OGFl4tAIx5A
