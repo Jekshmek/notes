@@ -1,0 +1,9 @@
+2017
+how to install arch linux i3wm
+https://www.youtube.com/watch?v=oSgtKyZUM4M
+2016
+i3 Window Manager from the Ground Up
+https://www.youtube.com/watch?v=bchjTtDoWUM
+2015
+i3-gaps: How to use and configure.
+https://www.youtube.com/watch?v=SkseU0SIxTg

@@ -1,0 +1,6 @@
+2018
+http://dreamingofbits.com/post/future-directions-for-cbindgen-rust-ffi/
+https://travisf.net/capstone-rs-unsafety-adventure
+2017
+http://fitzgeraldnick.com/2017/03/07/what-the-ffi.html
+https://medium.com/@andoriyu/forbidden-diaries-of-pandemonium-part-1-tips-for-calling-c-from-rust-3b9667f07398

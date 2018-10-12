@@ -1,2 +1,3 @@
+alexfridlyand
 https://github.com/alexfridlyand/dotfiles-old/tree/master/linuxold/i3
 https://github.com/alexfridlyand/dotfiles-old/tree/master/linuxold/i3status

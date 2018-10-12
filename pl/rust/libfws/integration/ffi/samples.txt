@@ -1,0 +1,2 @@
+http://jakegoulding.com/rust-ffi-omnibus/
+https://github.com/rust-lang/regex/tree/master/regex-capi

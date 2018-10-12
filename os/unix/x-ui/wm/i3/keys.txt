@@ -1,0 +1,4 @@
+Win-CR
+    terminal
+Win-<num>
+    go to workspace number <num>

@@ -7,4 +7,7 @@ https://apexcharts.com/docs/installation/
 https://apexcharts.com/javascript-chart-demos/
 
 2018
+TraversyMedia - Data Display With ApexCharts
+    https://www.youtube.com/watch?v=JxEyXOlSgV0
+    https://codepen.io/bradtraversy/pen/KGqqmr
 https://blog.usejournal.com/bridging-the-gap-between-low-level-and-high-level-charting-libraries-a8f6c1819ba5

@@ -1,4 +1,5 @@
 2018
+Freeman - Pro Angular 6 3rd ed
 NinjaSquad - Become A Ninja With Angular (good starter!)
 Kunz - Mastring Angular Components 2nd ed
 Seshadri - Angular up and Running

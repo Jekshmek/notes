@@ -13,6 +13,8 @@ https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/
     !!! godbolt samples (what is cppx compiler)?
         https://godbolt.org/z/szJjnH
     https://www.reddit.com/r/cpp/comments/9hmoqb/herb_sutter_blog_lifetime_profile_v10_posted/
+clang support for lifetime
+https://github.com/CppCon/CppCon2018/blob/master/Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf
 
 2018
 https://www.reddit.com/r/cpp/comments/8sge59/what_happened_to_msvc_cppcoreguideline_checker/
