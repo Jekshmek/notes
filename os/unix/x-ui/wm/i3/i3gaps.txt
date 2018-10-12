@@ -46,3 +46,6 @@ community/
     dmenu-manjaro (i3-manjaro)
     i3status replacement - goblocks
     i3status-rust
+
+aur/
+    i3blocks

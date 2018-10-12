@@ -1,6 +1,7 @@
 2018
 https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda
     https://habr.com/company/ruvds/blog/424967/
+    https://medium.com/webbdev/closures-9a20e84b62cd
 https://proglib.io/p/js-closures-1/
 https://proglib.io/p/js-closures-2/
 2017

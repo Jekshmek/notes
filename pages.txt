@@ -28,6 +28,8 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
+i3gaps                                              -   01:00 (of    7:25)
+    https://www.youtube.com/watch?v=SkseU0SIxTg
 Keynote                                             -   32:00 (of   50:23)
     https://videoportal.epam.com/video/LoE5vkod
 Goetz - evolving the java language                  -   05:00 (of   50:12)
