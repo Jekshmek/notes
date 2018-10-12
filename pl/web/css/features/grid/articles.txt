@@ -1,4 +1,5 @@
 2018
+https://proglib.io/p/css-grid/
 https://zellwk.com/blog/remember-css-grid-properties/
 https://www.sitepoint.com/creating-css-grid-layouts/
 https://habr.com/company/poiskvps/blog/423709/
