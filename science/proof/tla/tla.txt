@@ -7,3 +7,7 @@ http://lamport.azurewebsites.net/tla/p-manual.pdf
 
 tutorials
 http://lamport.azurewebsites.net/video/videos.html
+
+books
+2018
+Wayne - Practical TLAPlus

@@ -1,4 +1,5 @@
 https://leanpub.com/effective-cmake
 
 2018
+Bast - CMake Cookbook
 Scott - Professional CMake - A Practical Guide
