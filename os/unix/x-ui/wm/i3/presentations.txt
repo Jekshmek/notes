@@ -1,9 +1,54 @@
+2018
+Manjaro i3 edition install&review
+    https://www.youtube.com/watch?v=-vG9ORRUkUQ
+Obscure window manager project - i3 Gaps
+    https://www.youtube.com/watch?v=fT8l4IYxCtY
+A look at the keystroke commands, and configuration file of i3wm, just out of interest
+    https://www.youtube.com/watch?v=VPBFTv6Nqo0
+Example of using linux with i3
+    https://www.youtube.com/watch?v=vJCzSD6Tvug
+(long) i3 on Fedora
+    https://www.youtube.com/watch?v=Z8Lyz6WWkKY
+(no) Mouse-Mode in i3wm
+    https://www.youtube.com/watch?v=_IdScTkP7XI
+(no) Opensuse with i3wm, a secret treat?
+    https://www.youtube.com/watch?v=zZhXnMtOp0Y
 2017
 how to install arch linux i3wm
-https://www.youtube.com/watch?v=oSgtKyZUM4M
+    https://www.youtube.com/watch?v=oSgtKyZUM4M
+i3 Window Manager: Using pywal to theme Xresources
+    https://www.youtube.com/watch?v=DLnku7QmlpI
+    https://github.com/dylanaraps/pywal
+i3wm, Ubuntu minimal
+    https://www.youtube.com/watch?v=zNxzMMqU54E
+Let's Linux #007: i3 rename instances
+    https://www.youtube.com/watch?v=9ZJLMid348M
+ArchMerge : 67 All you need to know about tweaking and theming i3
+    https://www.youtube.com/watch?v=p4Tco8g4ts0
+i3 on Linux Mint 18 (24 videos)
+    https://www.youtube.com/playlist?list=PLlloYVGq5pS5MdZYAdyZTTYbb19775KWW
 2016
 i3 Window Manager from the Ground Up
-https://www.youtube.com/watch?v=bchjTtDoWUM
+    https://www.youtube.com/watch?v=bchjTtDoWUM
+Manjaro with i3wm
+    https://www.youtube.com/watch?v=YSylhvsDoIg
+My i3wm Setup in Manjaro Linux
+    https://www.youtube.com/watch?v=b-e8qi1-xCs
+(Part 1) i3wm Configuration on Manjaro - Container and Workspace Settings
+    https://www.youtube.com/watch?v=7y6ugdomLiQ
+(Part 2) i3wm Configuration on Manjaro: Appearance Settings
+    https://www.youtube.com/watch?v=U7nuzmhB7O8
 2015
-i3-gaps: How to use and configure.
-https://www.youtube.com/watch?v=SkseU0SIxTg
+Checking out Manjaro i3 Edition 0.8.13.1
+    https://www.youtube.com/watch?v=OMu0APlhKM8
+(looked) i3-gaps: How to use and configure.
+    https://www.youtube.com/watch?v=SkseU0SIxTg
+i3wm Quick Overview - Arch Linux
+    https://www.youtube.com/watch?v=2SmvtMP2vMI
+Ustanovka nastroika zapusk i3
+    https://www.youtube.com/watch?v=iHyjI1IPUCg
+CodeCast - i3 wm (3 videos)
+    https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcIf
+2014
+Irish's Desktop pt2: i3config
+    https://www.youtube.com/watch?v=3QYcUN1QvFU

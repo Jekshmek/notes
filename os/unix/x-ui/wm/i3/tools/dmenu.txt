@@ -1,3 +1,4 @@
+standard (part of i3-gaps)
 https://build.i3wm.org/docs/i3-dmenu-desktop.html
 
 ???

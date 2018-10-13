@@ -11,10 +11,16 @@ themes
 https://github.com/DaveDavenport/rofi-themes
 https://github.com/DaveDavenport/rofi-themes/blob/master/Official%20Themes/solarized.rasi
 
+green-clip
+https://github.com/gotbletu/shownotes/blob/master/rofi_clipboard_via_greenclip.md
+    https://www.youtube.com/watch?v=4IycORAdW9M
+
 2018
+https://github.com/budRich/letslinux/tree/master/16-18-rofi-setup
 Let's Linux #016: rofi setup
-https://www.youtube.com/watch?v=Sa9SWMvAMIU
-    https://github.com/budRich/letslinux/tree/master/16-18-rofi-setup
+    https://www.youtube.com/watch?v=Sa9SWMvAMIU
+Theming Rofi
+    https://www.youtube.com/watch?v=KFlNymiahwk
 2016
 Rofi - Dmenu Replacement Launcher - Linux GUI
 https://www.youtube.com/watch?v=2FYEch1iljE
