@@ -6,6 +6,8 @@ https://github.com/budlabs/youtube/tree/master/letslinux/039-keybindings-rofi-1
     https://www.youtube.com/watch?v=Y6ldzp8_x0Y
 https://github.com/budlabs/youtube/tree/master/letslinux/040-keybindings-rofi-2
     https://www.youtube.com/watch?v=Pfh0-jTPiUM
+Custom Menu Using Rofi + Polybar/i3gaps-tutorial
+    https://www.youtube.com/watch?v=gmQMhU-hw3s
 Let's Linux #019: fonts are awesome with polybar
     https://www.youtube.com/watch?v=DK6aun1FbhM
     https://github.com/budlabs/youtube/tree/master/letslinux/019-fonts-are-awesome

@@ -1,12 +1,21 @@
 2018
 Manjaro i3 edition install&review
     https://www.youtube.com/watch?v=-vG9ORRUkUQ
+Checking out Manjaro i3 17.1.6
+    https://www.youtube.com/watch?v=LlU3E0D2qJo
 Obscure window manager project - i3 Gaps
     https://www.youtube.com/watch?v=fT8l4IYxCtY
 A look at the keystroke commands, and configuration file of i3wm, just out of interest
     https://www.youtube.com/watch?v=VPBFTv6Nqo0
 Example of using linux with i3
     https://www.youtube.com/watch?v=vJCzSD6Tvug
+Arch Linux : 43 Arch Linux i3wm seasoned with Arco spices - Phase 4 - overview
+    https://www.youtube.com/watch?v=hKJI9ifEC7s
+    https://arcolinuxd.com/12-installation-of-i3-on-arch-linux-phase-4/
+An i3-wm User Switches to... Linux Lite?!
+    https://www.youtube.com/watch?v=x7PFtsoRnvw
+Arch Linux + i3wm + Numix Solarized Dark (Demo)
+    https://www.youtube.com/watch?v=H6F15cd0K0A
 (long) i3 on Fedora
     https://www.youtube.com/watch?v=Z8Lyz6WWkKY
 (no) Mouse-Mode in i3wm
@@ -14,6 +23,8 @@ Example of using linux with i3
 (no) Opensuse with i3wm, a secret treat?
     https://www.youtube.com/watch?v=zZhXnMtOp0Y
 2017
+i3-gaps Setup (Nearing Perfection; August 2017)
+    https://www.youtube.com/watch?v=-BOW61luzF4
 how to install arch linux i3wm
     https://www.youtube.com/watch?v=oSgtKyZUM4M
 i3 Window Manager: Using pywal to theme Xresources
@@ -25,6 +36,12 @@ Let's Linux #007: i3 rename instances
     https://www.youtube.com/watch?v=9ZJLMid348M
 ArchMerge : 67 All you need to know about tweaking and theming i3
     https://www.youtube.com/watch?v=p4Tco8g4ts0
+(floating) i3 Tidbits - Open Floating Applications
+    https://www.youtube.com/watch?v=8FKf0-DbHHk
+(too simple) What Is a Tiling Window Manager?
+    https://www.youtube.com/watch?v=QN6IUoL0j8c
+Setup i3 WM on Arch on WSL
+    https://www.youtube.com/watch?v=DUXONNnLW5g
 i3 on Linux Mint 18 (24 videos)
     https://www.youtube.com/playlist?list=PLlloYVGq5pS5MdZYAdyZTTYbb19775KWW
 2016
@@ -34,6 +51,9 @@ Manjaro with i3wm
     https://www.youtube.com/watch?v=YSylhvsDoIg
 My i3wm Setup in Manjaro Linux
     https://www.youtube.com/watch?v=b-e8qi1-xCs
+i3 window manager Arch Linux
+    https://www.youtube.com/watch?v=-YoAUMin7h0
+    https://github.com/midfingr/youtube_notes/blob/master/i3_examples
 (Part 1) i3wm Configuration on Manjaro - Container and Workspace Settings
     https://www.youtube.com/watch?v=7y6ugdomLiQ
 (Part 2) i3wm Configuration on Manjaro: Appearance Settings
@@ -47,8 +67,19 @@ i3wm Quick Overview - Arch Linux
     https://www.youtube.com/watch?v=2SmvtMP2vMI
 Ustanovka nastroika zapusk i3
     https://www.youtube.com/watch?v=iHyjI1IPUCg
+i3 window manager: Auto start applications
+    https://www.youtube.com/watch?v=abKAzDtq_CA
+Configure i3 part 3
+    https://www.youtube.com/watch?v=5khA_RsXgkA
 CodeCast - i3 wm (3 videos)
     https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcIf
 2014
 Irish's Desktop pt2: i3config
     https://www.youtube.com/watch?v=3QYcUN1QvFU
+(simple) - I3 tiling window manager demonstration
+    https://www.youtube.com/watch?v=RUKXZjxou3U
+2012
+(Google Tech Talk) - i3 - An Improved Tiling Window Manager
+    https://www.youtube.com/watch?v=QnYN2CTb1hM
+(simple) i3 Window Manager Overview
+    https://www.youtube.com/watch?v=pSPcQ7Sdoh4

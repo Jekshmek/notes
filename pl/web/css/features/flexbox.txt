@@ -10,6 +10,7 @@ https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignm
 https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
 https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/
 https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/
+    https://habr.com/post/424419/
 https://www.smashingmagazine.com/2018/08/flexbox-alignment/
     https://habr.com/post/420935/
 

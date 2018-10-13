@@ -1,3 +1,33 @@
+https://polybar.github.io/
+https://wiki.archlinux.org/index.php/Polybar
+
+https://github.com/jaagr/polybar
+https://github.com/jaagr/polybar/wiki
+https://github.com/jaagr/polybar/wiki/Configuration
+https://github.com/jaagr/polybar/wiki/Module:-i3
+
+issues
+https://github.com/jaagr/polybar/issues/871
+
+!!! need dependency
+extra/libmpdclient
+
+community/
+    polybar
+    ttf-polybar-icons
+        /usr/share/fonts/TTF/polybar-icons.ttf
+aur/
+    polybar
+    polybar-git
+
+Get started with the example configuration:
+    $ install -Dm644 /usr/share/doc/polybar/config $HOME/.config/polybar/config
+    $ polybar example
+
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
 2018
+Arch + i3 + Polybar - New rice for a new ultra wide screen
+    https://www.youtube.com/watch?v=y1o4WteLj3o
 ArchMerge : 170 detailed information about polybar module i3
     https://www.youtube.com/watch?v=QkmDpV3JbtA
