@@ -1,34 +1,3 @@
-https://www.youtube.com/watch?v=DdJb2N8twbU
-https://www.youtube.com/watch?v=RDoIy2BEbXE
-https://www.youtube.com/watch?v=QqDMpuIikXA
-https://www.youtube.com/watch?v=Tw-V9Yrk7KY
-https://www.youtube.com/watch?v=PL45u2kdH5g
-https://www.youtube.com/watch?v=gVXCqLnyGUc
-https://www.youtube.com/watch?v=UGr5CDXfH1U
-https://www.youtube.com/watch?v=flecUhZQGTk
-https://www.youtube.com/watch?v=-3fORrNSSw8
-https://www.youtube.com/watch?v=CDOT1fGVbHU
-https://www.youtube.com/watch?v=jWPntjD61Bk
-https://www.youtube.com/watch?v=Wu7g6btpZiw
-https://www.youtube.com/watch?v=fizoyz28nnY
-https://www.youtube.com/watch?v=9ofq4gpG_lM
-https://www.youtube.com/watch?v=bchjTtDoWUM
-https://www.youtube.com/watch?v=eDC48AhoE9Q
-https://www.youtube.com/watch?v=XQcCywaD4y4
-https://www.youtube.com/watch?v=fT8l4IYxCtY
-https://www.youtube.com/watch?v=wQQXN-DWueA
-https://www.youtube.com/watch?v=SkseU0SIxTg
-
-https://www.youtube.com/playlist?list=PLPwcd94kzjSMtx0DVVmpIX8iWELZ6NU4E
-https://www.youtube.com/playlist?list=PLhCcS9axTPaiAbiE4qh-H5OS98PuBZ68R
-https://www.youtube.com/playlist?list=PLy5zoTI70OCNf8vD3KbQ7EZevu8tEVTLw
-https://www.youtube.com/playlist?list=PLsvBLoSkp6Yum6IqiTjUUiSQwrqCXT_xd
-https://www.youtube.com/playlist?list=PLMNXR8SUaxm2QPRJ4BlOJ5wJOnkL73LMt
-https://www.youtube.com/playlist?list=PL4zp6NA8CRZzCXIftFXc2AbUYh2BVkJ6P
-https://www.youtube.com/playlist?list=PLPvef-Dolyl9UFiezasutvYdB-7HNUjy6
-https://www.youtube.com/playlist?list=PL6FHMytFXW466bVP1laVwSXv5NZVHMIeB
-https://www.youtube.com/playlist?list=PLffXTwSr62UoStoqzenWY_wvcC4musTch
-https://www.youtube.com/playlist?list=PLkbgdHEdupSZYwKt8ghr6lSchrjWI3vyv
 https://www.youtube.com/playlist?list=PLIXCx09CB9SY7fsUWXq7JzjHAvlj2HgCm
 https://www.youtube.com/playlist?list=PLbB3oBQdzXOFluLcLvNPdrA2n_8fyqKTr
 https://www.youtube.com/playlist?list=PL6GKZld75SJAlS7szieBFHjuZwJXtzqUa
@@ -50,7 +19,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 13
+    Oct 14
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 

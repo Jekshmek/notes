@@ -26,7 +26,10 @@ Get started with the example configuration:
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
+
 2018
+"Mouse Mode" in i3-wm
+    https://www.youtube.com/watch?v=_IdScTkP7XI
 Arch + i3 + Polybar - New rice for a new ultra wide screen
     https://www.youtube.com/watch?v=y1o4WteLj3o
 ArchMerge : 170 detailed information about polybar module i3

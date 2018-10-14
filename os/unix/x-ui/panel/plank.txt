@@ -1,6 +1,10 @@
 https://launchpad.net/plank
 
+https://github.com/erikdubois/plankthemes
+
 2017
+ArchLabs : 127 how to autostart plank, change settings and set or get more themes
+    https://www.youtube.com/watch?v=iipiQOy9zww
 https://losst.ru/plank-bystraya-panel-zapuska-dlya-linux
 
 plank-themer
