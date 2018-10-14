@@ -77,6 +77,8 @@ Setup i3 WM on Arch on WSL
 i3 on Linux Mint 18 (24 videos)
     https://www.youtube.com/playlist?list=PLlloYVGq5pS5MdZYAdyZTTYbb19775KWW
 2016
+Manjaro 16.06 i3 Edition - Linux distro review
+    https://www.youtube.com/watch?v=wQiUKIb8AT8
 i3 Window Manager from the Ground Up
     https://www.youtube.com/watch?v=bchjTtDoWUM
 Manjaro with i3wm
@@ -93,10 +95,6 @@ i3 Window Manager from the Ground Up
 i3 window manager Arch Linux
     https://www.youtube.com/watch?v=-YoAUMin7h0
     https://github.com/midfingr/youtube_notes/blob/master/i3_examples
-(Part 1) i3wm Configuration on Manjaro - Container and Workspace Settings
-    https://www.youtube.com/watch?v=7y6ugdomLiQ
-(Part 2) i3wm Configuration on Manjaro: Appearance Settings
-    https://www.youtube.com/watch?v=U7nuzmhB7O8
 2015
 Checking out Manjaro i3 Edition 0.8.13.1
     https://www.youtube.com/watch?v=OMu0APlhKM8
@@ -130,6 +128,8 @@ Irish's Desktop pt2: i3config
     https://www.youtube.com/watch?v=3QYcUN1QvFU
 (simple) - I3 tiling window manager demonstration
     https://www.youtube.com/watch?v=RUKXZjxou3U
+(simple) - A Better Linux Window Manager: i3 Tiling Basics
+    https://www.youtube.com/watch?v=9ofq4gpG_lM
 2012
 (Google Tech Talk) - i3 - An Improved Tiling Window Manager
     https://www.youtube.com/watch?v=QnYN2CTb1hM
