@@ -30,8 +30,10 @@ https://medium.com/@kpgalligan/kotlin-native-stranger-threads-c0cf0e0fb847
 
 presentations
 2018
+Igotti - Kotlin/Native Concurrency Model
+    https://www.youtube.com/watch?v=nw6YTfEyfO0
 Igotti - Developing Kotlin/Native infrastructure with LLVM
-https://www.youtube.com/watch?v=DqsYo_4QWSg
+    https://www.youtube.com/watch?v=DqsYo_4QWSg
 
 samples
 https://github.com/JetBrains/kotlin-native/tree/master/samples/tensorflow

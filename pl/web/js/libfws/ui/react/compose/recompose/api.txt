@@ -230,3 +230,9 @@ createEventHandler
 
 setPropTypes
     https://www.zivtech.com/blog/how-use-recompose-transform-react-development
+
+
+======== OPTIMIZATION =====
+
+? createEagerComponent
+? statelessFunctionalComponent

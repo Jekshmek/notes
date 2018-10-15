@@ -1,4 +1,6 @@
-community/i3status
+community/
+    i3status
+    i3status-manjaro
 
 replacements
 https://wiki.archlinux.org/index.php/i3

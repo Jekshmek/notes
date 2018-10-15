@@ -30,12 +30,8 @@ scoop extras - a
 Video
 i3gaps                                              -   01:00 (of    7:25)
     https://www.youtube.com/watch?v=SkseU0SIxTg
-Keynote                                             -   32:00 (of   50:23)
-    https://videoportal.epam.com/video/LoE5vkod
 Goetz - evolving the java language                  -   05:00 (of   50:12)
     https://www.youtube.com/watch?v=A-mxj2vhVAA
-Clark - Recomposing your React application          -   17:00 (of   29:55)
-    https://www.youtube.com/watch?v=zD_judE-bXk
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
@@ -57,7 +53,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   21:00 (of 1:49:49)
+Bykov - Single                                      - 1:07:00 (of 1:49:49)
     https://cdn.echo.msk.ru/snd/2018-10-02-odin-2305.mp3
 Bycov - Money                                       -   00:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
