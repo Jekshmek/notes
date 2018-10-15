@@ -5,6 +5,13 @@ https://www.linux.org.ru/forum/desktop/12590886
 2015
 https://classicforum.manjaro.org/index.php?topic=27260.0
 
+samples
+https://github.com/clehner/.files/blob/master/i3/config
+
+for window ...;...
+    border 1pixel
+    move scratchpad
+
 ~/.config/i3/config
 
 # workspace <ws> gaps inner <px>

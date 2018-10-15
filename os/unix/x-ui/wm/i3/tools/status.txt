@@ -1,3 +1,5 @@
+https://i3wm.org/i3status/manpage.html
+
 community/
     i3status
     i3status-manjaro

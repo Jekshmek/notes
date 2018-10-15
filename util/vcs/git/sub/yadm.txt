@@ -1,6 +1,10 @@
 https://thelocehiliosan.github.io/yadm/
 https://github.com/TheLocehiliosan/yadm
 
+aur/yadm-git
+    https://aur.archlinux.org/packages/yadm-git/
+    https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=yadm-git
+
 !!! not using symlinks
 
 https://thelocehiliosan.github.io/yadm/docs/overview
@@ -16,3 +20,25 @@ https://github.com/TheLocehiliosan/yadm/blob/master/yadm.md
 
 samples
 https://github.com/alexfridlyand/dotfiles/blob/master/.yadm/bootstrap
+
+2017
+https://blog.danielaguilar.org/handling-dotfiles-with-yadm/
+2015
+https://gist.github.com/bentheax/a0307d464b7534593eac
+
+cli
+yadm
+    commit
+        -av ???
+
+encryption
+yadm
+    encrypt
+    decrypt
+
+~/.yadm/encrypt
+
+.config/secrets
+.ssh/*
+!.ssh/authorized_keys
+!.ssh/known_hosts*

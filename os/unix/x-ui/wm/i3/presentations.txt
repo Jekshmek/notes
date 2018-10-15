@@ -64,6 +64,8 @@ ArchMerge : 67 All you need to know about tweaking and theming i3
     https://www.youtube.com/watch?v=p4Tco8g4ts0
 how to install arch linux i3wm and do some desktop tuning (theme,icons,cursor,fonts,...)
     https://www.youtube.com/watch?v=gVXCqLnyGUc
+(interesting conf) - how to install arch linux budgie and i3wm - working with i3 tips and trics
+    https://www.youtube.com/watch?v=kyAkSX9N3_A
 (floating) i3 Tidbits - Open Floating Applications
     https://www.youtube.com/watch?v=8FKf0-DbHHk
 (too simple) What Is a Tiling Window Manager?

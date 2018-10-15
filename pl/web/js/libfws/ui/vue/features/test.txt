@@ -1,6 +1,8 @@
 https://vue-test-utils.vuejs.org/
 https://github.com/vuejs/vue-test-utils/
 
+2018
+https://frontstuff.io/unit-test-your-first-vuejs-component
 2017
 https://medium.freecodecamp.org/simple-unit-tests-with-vue-test-utils-and-jest-c384d7abc321
     https://medium.com/devschacht/simple-unit-tests-with-vue-test-utils-and-jest-a93f4ed3de64
