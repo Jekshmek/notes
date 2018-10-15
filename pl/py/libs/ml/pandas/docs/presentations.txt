@@ -1,29 +1,31 @@
 http://pandas.pydata.org/talks.html
 2018
+Caudron - Introduction To Data Analytics With Pandas
+    https://www.youtube.com/watch?v=WrAkpobchUk
 Using Pandas for Better (and Worse)
-https://www.youtube.com/watch?v=3Bj0o90V15g
+    https://www.youtube.com/watch?v=3Bj0o90V15g
 KITE - Visualization using Pandas
-https://www.youtube.com/playlist?list=PLO_jkkJQGPa78IgBgZhgkQ0e0qmImAe-y
+    https://www.youtube.com/playlist?list=PLO_jkkJQGPa78IgBgZhgkQ0e0qmImAe-y
 2017
 Caudron - Introduction To Data Analytics With Pandas
-https://www.youtube.com/watch?v=5XGycFIe8qE
-https://www.slideshare.net/dyakonov/pandas-54795658
+    https://www.youtube.com/watch?v=5XGycFIe8qE
+    https://www.slideshare.net/dyakonov/pandas-54795658
 Chen - Pandas for Data Analysis
-https://www.youtube.com/watch?v=oGzU688xCUs
-https://github.com/chendaniely/scipy-2017-tutorial-pandas
+    https://www.youtube.com/watch?v=oGzU688xCUs
+    https://github.com/chendaniely/scipy-2017-tutorial-pandas
 2016
 Chen - Introduction to Pandas
-https://www.youtube.com/watch?v=dye7rDktJ2E
+    https://www.youtube.com/watch?v=dye7rDktJ2E
 2015
 Wirth - A Visual Guide to Pandas
-https://www.youtube.com/watch?v=9d5-Ti6onew
+    https://www.youtube.com/watch?v=9d5-Ti6onew
 Bossche - Introduction to Pandas
-https://www.youtube.com/watch?v=TSsSWuhBpmY
+    https://www.youtube.com/watch?v=TSsSWuhBpmY
 Rhodes - Pandas from the Ground Up
-https://www.youtube.com/watch?v=5JnMutdy6Fw
-https://github.com/brandon-rhodes/pycon-pandas-tutorial
+    https://www.youtube.com/watch?v=5JnMutdy6Fw
+    https://github.com/brandon-rhodes/pycon-pandas-tutorial
 2013
 http://conference.scipy.org/scipy2013/tutorial_detail.php?id=109
 2012
 McKinney - Data analysis in Python with pandas
-https://www.youtube.com/watch?v=w26x-z-BdWQ
+    https://www.youtube.com/watch?v=w26x-z-BdWQ
