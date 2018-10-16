@@ -192,7 +192,7 @@ https://wiki.archlinux.org/index.php/locale
 
 ~/.config/openbox/rc.xml:
 
-replace thunar by pcmanfm
+replace thunar by pcmanfm-gtk3
 
 
 --- Oblogout

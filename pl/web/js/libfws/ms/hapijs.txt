@@ -1,4 +1,5 @@
 https://hapijs.com/
+https://www.npmjs.com/package/hapi
 
 https://github.com/hapijs/hapi
 https://github.com/hapijs/discuss

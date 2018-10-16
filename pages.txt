@@ -1,4 +1,7 @@
 URLs
+https://blog.predanie.ru/article/v-koltse-lyubvi/
+    comments
+https://blog.predanie.ru/article/u-detej-est-prichiny-byt-plohimi/
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
