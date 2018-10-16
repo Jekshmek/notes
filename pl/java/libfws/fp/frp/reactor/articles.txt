@@ -1,4 +1,5 @@
 2018
+https://javatechnicalwealth.com/blog/reactive-flatmap/
 Java and Project Reactor
 https://habr.com/company/funcorp/blog/350996/
 https://habr.com/company/funcorp/blog/359194/
