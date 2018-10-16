@@ -1,4 +1,5 @@
 2018
+https://blogs.msdn.microsoft.com/vcblog/2018/10/16/standard-library-algorithms-changes-and-additions-in-c17/
 https://foonathan.net/blog/2018/10/01/ordering-algorithms.html
 https://foonathan.net/blog/2018/09/07/three-way-comparison.html
 https://foonathan.net/blog/2018/07/19/ordering-relations-programming.html

@@ -1,3 +1,4 @@
 2018
+https://medium.com/coding-blocks/the-joy-of-building-vue-apps-in-typescript-part-1-vue-class-components-8291bb6213d8
 https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n
 https://css-tricks.com/vue-typescript-a-match-made-in-your-code-editor/
