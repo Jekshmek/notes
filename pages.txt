@@ -7,7 +7,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 15
+    Oct 16
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -73,7 +73,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 17 a                           -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-05                                       -   13:00 (of)
+Ivliev - 2-05                                       -   25:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 46                                      -   23:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
