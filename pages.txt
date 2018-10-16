@@ -33,7 +33,7 @@ scoop extras - a
 Video
 i3gaps                                              -   01:00 (of    7:25)
     https://www.youtube.com/watch?v=SkseU0SIxTg
-Goetz - evolving the java language                  -   05:00 (of   50:12)
+Goetz - evolving the java language                  -   29:00 (of   50:12)
     https://www.youtube.com/watch?v=A-mxj2vhVAA
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
@@ -56,7 +56,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   00:00 (of)
+Bykov - Single                                      -   01:00 (of 1:45:11)
     https://cdn.echo.msk.ru/snd/2018-10-12-odin-0005.mp3
 Bycov - Money                                       -   00:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g

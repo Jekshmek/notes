@@ -24,4 +24,4 @@ cli
 helm
     install
     upgrade
-    delete --purge <name>
+    del[ete] --purge <name>

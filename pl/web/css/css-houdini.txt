@@ -12,7 +12,9 @@ https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-develop
 
 presentations
 2018
+CodingTech - The Future of CSS: CSS Houdini
+    https://www.youtube.com/watch?v=lOAKU5h-lpQ
 Elendt - Patterns and Techniques Used in the Houdini 3D Graphics Application
-https://www.youtube.com/watch?v=2YXwg0n9e7E
+    https://www.youtube.com/watch?v=2YXwg0n9e7E
 2015
 https://qconsf.com/sf2015/system/files/presentation-slides/houdini_-_explaining_css.pdf
