@@ -8,9 +8,17 @@ https://classicforum.manjaro.org/index.php?topic=27260.0
 samples
 https://github.com/clehner/.files/blob/master/i3/config
 
+# use xprop (extra/xorg-xprop) for finding a class
+assign classes
+https://forum.level1techs.com/t/i3wm-open-terminal-on-startup-on-a-specific-workspace/124695/4
+https://software-empathy.pl/2017/03/i3-tiling-window-manager-try-it-out/
+
+#? for_window
 for window ...;...
     border 1pixel
     move scratchpad
+    floating enable
+
 
 ~/.config/i3/config
 

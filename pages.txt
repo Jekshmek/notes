@@ -102,6 +102,8 @@ https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-prob
 https://predanie.ru/somov-aleksey-borisovich/pritcha-o-bogache-i-lazare-uchenie-o-zagrobnoy-mire-ili-propoved-pravednoy-zhizni/slushat/
 https://predanie.ru/mihaylova-marina-valentinovna/molchanie-vnutri-boltayuschey-civilizacii/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
+https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
+https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-predposylki/slushat/
 
 Tracking
 This week in rust                                   - 255

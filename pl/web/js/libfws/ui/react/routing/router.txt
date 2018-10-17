@@ -19,6 +19,8 @@ https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997
 https://mxstbr.blog/2016/01/react-apps-with-pages/
 
 books
+2018
+Ganatra - React Router - Quick Start Guide
 Paciansky - React Router Course ru
     https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details
     https://maxfarseer.gitbooks.io/react-router-course-ru/content/
