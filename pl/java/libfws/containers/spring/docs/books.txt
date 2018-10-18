@@ -5,5 +5,6 @@ Kunjumohamed - Spring Essentials
 2018
 Dewailly - Building RESTful Web Services 2nd ed
 Oliveira - Spring 5  by Example
+Salazar - Software Architecture with Spring 5
 2017
 Balachandar - RESTful Java Web Services 3rd ed

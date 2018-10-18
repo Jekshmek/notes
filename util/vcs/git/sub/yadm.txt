@@ -28,14 +28,34 @@ https://gist.github.com/bentheax/a0307d464b7534593eac
 
 cli
 yadm
+    help
+    version
+    config
+    gitconfig
+        --unset status.showUntrackedFiles
+    enter
+        enter a subshell
+    init
+        ($HOME/.yadm/repo.git)
+    list [-a]
+        of files, managed by yadm
     commit
         -av ???
-
-encryption
-yadm
+    stash
+        show -p
+        apply
+        pop
     encrypt
     decrypt
 
+configuration
+~/.yadm/config
+    local.class
+    local.os
+    local.hostname
+    local.user
+
+encryption
 ~/.yadm/encrypt
 
 .config/secrets

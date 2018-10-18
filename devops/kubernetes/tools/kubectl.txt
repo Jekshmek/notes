@@ -1,5 +1,6 @@
 https://habrahabr.ru/company/flant/blog/333956/
 https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 
 https://kubernetes.io/docs/tasks/tools/install-kubectl/
 
@@ -44,3 +45,7 @@ kubectl
         <pod-name>
             [-ti]
             -- <cmd>
+
+    wait
+        https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#wait
+        --for=condition=ready --timeout=60s pod/<pod-id> -n <node-id>

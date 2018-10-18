@@ -106,7 +106,7 @@ https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-g
 https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-predposylki/slushat/
 
 Tracking
-This week in rust                                   - 255
+This week in rust                                   - 256
 Razbor Poletov                                      - 187
     http://traffic.libsyn.com/razborpoletov/razbor_187.mp3
 ACCU Overload                                       - 146
@@ -123,7 +123,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 457.8 (of 767)
+Kantor - Imperiya nauznanku                         - 483.9 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

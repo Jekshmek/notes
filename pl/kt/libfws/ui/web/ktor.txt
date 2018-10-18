@@ -9,6 +9,8 @@ https://ktor.io/samples/index.html
 https://ktor.io/advanced/index.html
 
 2018
+Harter - Building Server Backends with Ktor
+    https://www.youtube.com/watch?v=V4PS3IjIzlw
 https://piotrminkowski.wordpress.com/2018/10/09/kotlin-microservices-with-ktor/
 2017
 https://www.bignerdranch.com/blog/want-kotlin-on-the-server-do-ktor/
