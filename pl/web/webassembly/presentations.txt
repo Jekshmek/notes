@@ -1,20 +1,22 @@
 Coding Tech - WebAssembly
 https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 2018
+CodingTech - Disrupting JavaScript
+    https://www.youtube.com/watch?v=7mBf3Gig9io
 https://nxxm.github.io/cppcon2018/CPP_EVERYWHERE_WITH_WASM.html#/
 Rubanov - Simply about WebAssembly ru
-https://www.youtube.com/watch?v=anVHSZtJhfc
+    https://www.youtube.com/watch?v=anVHSZtJhfc
 Eberhardt - WebAssembly and the deatch of JS
-https://www.infoq.com/presentations/webassembly-javascript
+    https://www.infoq.com/presentations/webassembly-javascript
 google io 2018 - Build the future of the web with WebAssembly and more
-https://www.youtube.com/watch?v=BnYq7JapeDA
+    https://www.youtube.com/watch?v=BnYq7JapeDA
 Phelps - The WebAssembly Revolution
-https://www.infoq.com/presentations/webassembly-wasm-intro
+    https://www.infoq.com/presentations/webassembly-wasm-intro
 Using WebAssembly with NodeJS
-https://www.youtube.com/watch?v=hYrg3GNn1As
+    https://www.youtube.com/watch?v=hYrg3GNn1As
 2017
 Zimin - EPAM Ryazan - Meet WebAssembly
-https://www.youtube.com/watch?v=JO-L1s2Y5W0
+    https://www.youtube.com/watch?v=JO-L1s2Y5W0
 Phelps - WebAssembly Demystified
-https://www.youtube.com/watch?v=6Y3W94_8scw
-https://www.youtube.com/watch?v=cRwUD5SxF4o
+    https://www.youtube.com/watch?v=6Y3W94_8scw
+    https://www.youtube.com/watch?v=cRwUD5SxF4o
