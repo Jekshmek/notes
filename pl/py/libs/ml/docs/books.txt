@@ -1,2 +1,3 @@
 2018
 Nelli - Python Data Analytics 2nd ed
+Galea - Applied Deep Learning with Python

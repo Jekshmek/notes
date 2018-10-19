@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=H0XScE08hy8
 devtool (? obsolete)
 
 debugging
+https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
+    https://chromedevtoolsdemo.herokuapp.com/
 https://nodejs.org/en/docs/guides/debugging-getting-started/
 https://canonium.com/articles/debugging-nodejs-in-chrome-devtools
 

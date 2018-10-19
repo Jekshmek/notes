@@ -5,6 +5,8 @@ https://docs.pipenv.org/
 https://docs.pipenv.org/install/
 aur
     python-pipenv
+        https://www.archlinux.org/packages/community/any/python-pipenv/
+        https://git.archlinux.org/svntogit/community.git/tree/trunk/PKGBUILD?h=packages/python-pipenv
     python2-pipenv
 $ curl https://raw.githubusercontent.com/kennethreitz/pipenv/master/get-pipenv.py | python
 $ pip install --user pipenv
@@ -74,3 +76,7 @@ https://pip.pypa.io/en/stable/user_guide/#configuration
 export PIP_CONFIG_FILE=/etc/pip.conf
 [global]
 cache-dir=/var/cache/pip
+
+issues
+https://github.com/pypa/pipenv/issues/2924
+    pipenv run python -m pip install pip==18.0
