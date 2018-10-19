@@ -1,3 +1,4 @@
 2018
 Antonov - Spring Boot 2 Cookbook 2nd ed
 Sadakath - Spring Boot 2 Projects
+Karanam - Spring Microservices with Spring Boot (short)

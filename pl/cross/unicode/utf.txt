@@ -43,3 +43,6 @@ http://bugs.java.com/bugdatabase/view%5Fbug.do?bug%5Fid=5003547
 
 cpp
 https://github.com/apertium/lttoolbox/blob/master/lttoolbox/xml_parse_util.cc
+
+tools
+http://www.catonmat.net/blog/online-utf8-tools/

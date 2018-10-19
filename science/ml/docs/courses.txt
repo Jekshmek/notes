@@ -9,21 +9,24 @@ google
 https://developers.google.com/machine-learning/crash-course/
 
 2018
+VSHE - Schurov
+    https://www.youtube.com/channel/UC8wh_LB6mxOFYadH2l27P2Q
+    http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BC%D0%B0%D1%82%D1%84%D0%B0%D0%BA%D0%B5_2018/2019
 Nikolenko - ML at Lectorium
-https://www.youtube.com/playlist?list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF
+    https://www.youtube.com/playlist?list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF
 MFTI - ML
-https://www.youtube.com/playlist?list=PL0Ks75aof3Ti5IBKAD4234VkMVnI4ecky
+    https://www.youtube.com/playlist?list=PL0Ks75aof3Ti5IBKAD4234VkMVnI4ecky
 CMU - NN
-https://www.youtube.com/watch?v=Qbztx1CfSfo
-https://www.youtube.com/watch?v=zlnQyxiEGNM
-https://www.youtube.com/watch?v=HyjB2uMZK5k
+    https://www.youtube.com/watch?v=Qbztx1CfSfo
+    https://www.youtube.com/watch?v=zlnQyxiEGNM
+    https://www.youtube.com/watch?v=HyjB2uMZK5k
 AI and ML history
-https://www.youtube.com/playlist?list=PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz
+    https://www.youtube.com/playlist?list=PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz
 Notes of Ng - Intro to DeepLearning
-https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
+    https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 Python for Data Analysis
-https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg
-https://github.com/cuttlefishh/python-for-data-analysis
+    https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg
+    https://github.com/cuttlefishh/python-for-data-analysis
 
 2017
 Kashnitsky (scipy based)!!!:

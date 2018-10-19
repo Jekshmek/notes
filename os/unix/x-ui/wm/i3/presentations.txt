@@ -32,6 +32,7 @@ Obscure WIndow Manager Project - i3 Gaps - DT LIVE
     https://www.youtube.com/watch?v=XQcCywaD4y4
 (ru) i3wm тайловый оконный менеджер
     https://www.youtube.com/watch?v=flecUhZQGTk
+        Mod + F<n> exec <some-prog>
 (long) i3 on Fedora
     https://www.youtube.com/watch?v=Z8Lyz6WWkKY
 (no) Mouse-Mode in i3wm
@@ -40,8 +41,9 @@ Obscure WIndow Manager Project - i3 Gaps - DT LIVE
     https://www.youtube.com/watch?v=zZhXnMtOp0Y
 (simple) - Building a proper Arch+i3-gaps setup - Brief Explaination
     https://www.youtube.com/watch?v=TTQcWrsIjt8
-Luke Smith - i3 Ricing and Configuration (8 video)
+(!!! DANKE) - Luke Smith - i3 Ricing and Configuration (8 video)
     https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz
+
 2017
 (!!!) Let's Linux #006: minimize windows in i3wm
     https://www.youtube.com/watch?v=QqDMpuIikXA
@@ -78,6 +80,7 @@ Setup i3 WM on Arch on WSL
     https://www.youtube.com/watch?v=CDOT1fGVbHU
 i3 on Linux Mint 18 (24 videos)
     https://www.youtube.com/playlist?list=PLlloYVGq5pS5MdZYAdyZTTYbb19775KWW
+    https://github.com/erikdubois/LinuxMint18i3
 2016
 Manjaro 16.06 i3 Edition - Linux distro review
     https://www.youtube.com/watch?v=wQiUKIb8AT8

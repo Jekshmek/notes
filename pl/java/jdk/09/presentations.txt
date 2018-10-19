@@ -1,26 +1,9 @@
-https://docs.oracle.com/javase/9/index.html
-
-multi-release jar files
-http://openjdk.java.net/jeps/238
-
-books
-Patel - Java 9 Dependency Injection
-
-presentations
 2018
 Ritter - 55 New Features in JDK9
 https://www.infoq.com/presentations/55-new-features-jdk-9
 Horstmann - Java 9 The Good Parts
 https://www.youtube.com/watch?v=_cvgg9szPH8
 https://downloads.contentful.com/oxjq45e8ilak/2s5MGeyxUYYkKKyyswaO4g/c23bb60468136f8a050124fbb6fd8e4a/CayHorstmann-Java9.pdf
-
-jlink
-https://dzone.com/articles/jlink-in-java-9
-https://blog.knoldus.com/2018/01/08/jlink-in-java-9/
-
-presentations
-modules in idea
-2018
 Mak - Migrating to Java 9 Modules
 https://www.infoq.com/presentations/java9-modules
 Advanced Support for Java 9 Modules in IntelliJ IDEA 
