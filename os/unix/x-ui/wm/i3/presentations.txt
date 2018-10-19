@@ -126,6 +126,7 @@ CodeCast - i3 wm (3 videos)
     https://www.youtube.com/watch?v=j1I63wGcvU4
     https://www.youtube.com/watch?v=8-S0cWnLBKg
     https://www.youtube.com/watch?v=ARKIwOlazKI
+        !!! a lot of ricing customizations
 2014
 (basic) - A Better Linux Window Manager: i3 Tiling Basics
     https://www.youtube.com/watch?v=9ofq4gpG_lM
