@@ -2,6 +2,8 @@ https://arturbosch.github.io/detekt/
 https://github.com/arturbosch/detekt
 
 2018
+droidcon NYC 2018 - Static Code Analysis For Kotlin
+    https://www.youtube.com/watch?v=LT6m5_LO2DQ
 https://medium.com/@vanniktech/writing-your-first-detekt-rule-ee940e56428d
 https://blog.frankel.ch/check-quality-kotlin-code/
 2017

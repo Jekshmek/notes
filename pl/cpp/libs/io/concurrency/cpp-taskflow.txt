@@ -1,1 +1,4 @@
 https://github.com/cpp-taskflow/cpp-taskflow
+
+https://github.com/cpp-taskflow/cpp-taskflow/blob/master/doc/
+https://github.com/cpp-taskflow/cpp-taskflow/blob/master/doc/home.md
