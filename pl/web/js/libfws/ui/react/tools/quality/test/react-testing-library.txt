@@ -4,4 +4,6 @@ https://github.com/kentcdodds/react-testing-library
 replacement of enzyme
 
 2018
-https://www.youtube.com/watch?v=JKOwJUM4_RM
+https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a
+LevelUpTuts - What Is React Testing Library?
+    https://www.youtube.com/watch?v=JKOwJUM4_RM
