@@ -1,0 +1,6 @@
+https://github.com/confluentinc/cp-helm-charts
+https://www.confluent.io/confluent-operator/
+
+2018
+Gamov - Helm 101: Apache Kafka and Confluent Platform for Kubernetes Explained
+    https://www.youtube.com/watch?v=9cyXXmRlGWQ
