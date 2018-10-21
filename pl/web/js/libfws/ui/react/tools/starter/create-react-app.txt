@@ -28,5 +28,7 @@ https://github.com/timarney/react-app-rewired
 
 articles
 https://github.com/tuchk4/awesome-create-react-app
+2018
+https://elijahmanor.com/cra2-playlist/
 2017
 https://habrahabr.ru/company/plarium/blog/326520/
