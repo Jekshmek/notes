@@ -1,17 +1,23 @@
-https://arvid.io/2016/12/09/simd-instruction-format/
-https://www.youtube.com/watch?v=w5Z4JlMJ1VQ
-https://github.com/hainest/Presentations/tree/master/CppCon2016
-https://github.com/CppCon/CppCon2016/blob/master/Presentations/Improving%20Performance%20Through%20Compiler%20Switches/Improving%20Performance%20Through%20Compiler%20Switches%20-%20Tim%20Haines%20-%20CppCon%202016.pdf
-https://www.reddit.com/r/cpp/comments/54uquh/cppcon_2016_tim_haines_improving_performance/
+https://software.intel.com/sites/landingpage/IntrinsicsGuide/
 
 Moller - Design of a low-level C++ template SIMD library
     https://www.ti.uni-bielefeld.de/downloads/publications/templateSIMD.pdf
 
+2018
 hadmade hero
-https://www.youtube.com/playlist?list=PLEMXAbCVnmY5qGQB96s7Vysr1nJcX_BW_
-https://www.youtube.com/watch?v=YnnTb0AQgYM
-https://www.youtube.com/watch?v=1CVmlnhgT3g
-https://www.youtube.com/watch?v=ucZLbYLTmd0
+    https://www.youtube.com/playlist?list=PLEMXAbCVnmY5qGQB96s7Vysr1nJcX_BW_
+    https://www.youtube.com/watch?v=YnnTb0AQgYM
+    https://www.youtube.com/watch?v=1CVmlnhgT3g
+    https://www.youtube.com/watch?v=ucZLbYLTmd0
+2016
+https://arvid.io/2016/12/09/simd-instruction-format/
+Haines - Improving Performance Through Compiler Switches...
+    https://www.youtube.com/watch?v=w5Z4JlMJ1VQ
+    https://github.com/hainest/Presentations/tree/master/CppCon2016
+    https://github.com/CppCon/CppCon2016/blob/master/Presentations/Improving%20Performance%20Through%20Compiler%20Switches/Improving%20Performance%20Through%20Compiler%20Switches%20-%20Tim%20Haines%20-%20CppCon%202016.pdf
+    https://www.reddit.com/r/cpp/comments/54uquh/cppcon_2016_tim_haines_improving_performance/
 
 samples
-http://0x80.pl/articles/simd-byte-lookup.html
+2018
+SIMDized check which bytes are in a set
+    http://0x80.pl/articles/simd-byte-lookup.html
