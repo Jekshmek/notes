@@ -3,6 +3,7 @@ https://github.com/rest-assured/rest-assured
 https://techbeacon.com/efficient-api-testing-how-get-started-rest-assured
 
 2018
+https://habr.com/company/maxilect/blog/427307/
 https://habr.com/post/421005/
 2017
 http://automation-remarks.com/2017/code-generation/index.html
