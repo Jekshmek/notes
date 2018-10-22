@@ -32,3 +32,7 @@ You can also set it to 'none' to disable any default behavior. Learn more: https
 
 webpack.config.d
 https://github.com/Kotlin/kotlin-fullstack-sample/tree/master/frontend/webpack.config.d
+
+2018
+Webpack config splitting
+    https://habr.com/post/422697/

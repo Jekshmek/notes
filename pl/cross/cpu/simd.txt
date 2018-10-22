@@ -1,3 +1,4 @@
+https://ispc.github.io/ispc.html
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/
 
 Moller - Design of a low-level C++ template SIMD library
@@ -19,5 +20,6 @@ Haines - Improving Performance Through Compiler Switches...
 
 samples
 2018
+https://chryswoods.com/vector_c++/README.html
 SIMDized check which bytes are in a set
     http://0x80.pl/articles/simd-byte-lookup.html

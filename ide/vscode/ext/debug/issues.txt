@@ -1,0 +1,3 @@
+gdb crash
+https://github.com/Microsoft/vscode-cpptools/issues/103
+https://github.com/Microsoft/vscode-cpptools/issues/793

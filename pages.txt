@@ -1,13 +1,12 @@
 URLs
-https://blog.predanie.ru/article/v-koltse-lyubvi/
-    comments
 https://blog.predanie.ru/article/u-detej-est-prichiny-byt-plohimi/
+    part 2
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 21
+    Oct 22
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -102,6 +101,7 @@ https://predanie.ru/mihaylova-marina-valentinovna/molchanie-vnutri-boltayuschey-
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
 https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-predposylki/slushat/
+https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
 
 Tracking
 This week in rust                                   - 256

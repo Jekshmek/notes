@@ -2,6 +2,7 @@ https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 7x
 https://itnext.io/angular-7-is-coming-766c2bf644f9
+https://medium.com/@sendilkumarn/how-to-migrate-from-angular-6-to-7-1efc0da86d4f
 
 6x
 https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6
