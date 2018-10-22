@@ -29,9 +29,6 @@ Python for Data Analysis
     https://github.com/cuttlefishh/python-for-data-analysis
 
 2017
-Kashnitsky (scipy based)!!!:
-https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
-https://www.youtube.com/playlist?list=PLVlY_7IJCMJcIWApmupNhBIGkXiYa6m_3
 Small...
 https://vk.com/wall-54530371_62307
 Shamin:
@@ -62,8 +59,13 @@ https://vk.com/videos-75410445?section=album_3
 https://medium.com/open-machine-learning-course
 https://github.com/Yorko/mlcourse.ai
 https://github.com/Yorko/mlcourse.ai/wiki
+    https://vk.com/mlcourse
     https://habr.com/company/ods/blog/418727/
     http://snap.stanford.edu/decagon/
+    https://www.youtube.com/playlist?list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX
+    Kashnitsky (scipy based)!!!:
+    https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+    https://www.youtube.com/playlist?list=PLVlY_7IJCMJcIWApmupNhBIGkXiYa6m_3
 Lectorium - ML (misc stuff)
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAVwvhnk-6V22MvKDWNrkXDJ
 Utah
