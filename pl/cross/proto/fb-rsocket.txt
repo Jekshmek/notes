@@ -1,0 +1,15 @@
+http://rsocket.io/
+
+https://github.com/rsocket
+https://github.com/rsocket/rsocket-cpp
+https://github.com/rsocket/rsocket-js
+https://github.com/rsocket/rsocket-java
+https://github.com/rsocket/rsocket-kotlin
+
+http://rsocket.io/docs/FAQ
+http://rsocket.io/docs/Motivations
+http://rsocket.io/docs/Protocol.html
+
+2018
+https://www.infoq.com/news/2018/10/rsocket-facebook
+https://www.infoq.com/articles/give-rest-a-rest-rsocket

@@ -1,0 +1,4 @@
+https://jdk.java.net/jmc/
+
+2018
+https://dzone.com/articles/using-java-flight-recorder-with-openjdk-11-1

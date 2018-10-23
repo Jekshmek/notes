@@ -37,5 +37,8 @@ https://habr.com/post/424029/
 val
 https://projectlombok.org/features/val.html
 
+@Builder and fluent
+https://dzone.com/articles/making-java-fluent-api-more-flexible
+
 whatsnew
 https://projectlombok.org/changelog
