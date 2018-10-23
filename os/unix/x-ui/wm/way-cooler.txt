@@ -1,10 +1,18 @@
 http://way-cooler.org/
 
+https://github.com/way-cooler
 https://github.com/way-cooler/way-cooler
+https://github.com/way-cooler/way-cooler/releases
 
 http://way-cooler.org/docs/
+http://way-cooler.org/docs/lua
+
 http://way-cooler.org/blog/
 http://way-cooler.org/download/
 
-aur:
+aur
 https://aur.archlinux.org/packages/way-cooler/
+
+issues
+https://github.com/way-cooler/way-cooler/issues/15
+https://github.com/way-cooler/way-cooler/issues/446

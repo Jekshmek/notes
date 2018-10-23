@@ -1,0 +1,3 @@
+2018
+https://joshlf.com/post/2018/10/18/rust-higher-kinded-types-already/
+    https://www.reddit.com/r/rust/comments/9qihgo/rust_has_higher_kinded_types_already_sort_of/
