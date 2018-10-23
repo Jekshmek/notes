@@ -1,4 +1,5 @@
 https://i3wm.org/i3status/manpage.html
+https://www.reddit.com/r/i3wm/wiki/faq/i3i3bari3status
 
 community/
     i3status

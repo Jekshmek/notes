@@ -4,3 +4,6 @@ https://stackify.com/solid-design-liskov-substitution-principle/
 https://stackify.com/interface-segregation-principle/
 
 https://stackify.com/dependency-inversion-principle/
+
+2018
+https://medium.com/webbdev/solid-4ffc018077da

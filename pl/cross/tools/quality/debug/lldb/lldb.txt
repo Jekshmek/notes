@@ -1,0 +1,60 @@
+https://lldb.llvm.org
+https://lldb.llvm.org/features.html
+https://lldb.llvm.org/projects.html
+
+arch
+https://lldb.llvm.org/architecture/index.html
+https://lldb.llvm.org/varformats.html
+https://lldb.llvm.org/architecture/varformats.html
+
+blog
+http://blog.llvm.org/search/label/LLDB
+
+tutorial
+https://lldb.llvm.org/tutorial.html
+
+src
+https://lldb.llvm.org/source.html
+http://llvm.org/svn/llvm-project/lldb/trunk/
+http://llvm.org/viewvc/llvm-project/lldb/trunk/
+
+api
+https://lldb.llvm.org/cpp_reference/html/index.html
+https://lldb.llvm.org/python-reference.html
+
+misc
+https://lldb.llvm.org/lldb-gdb.html
+https://lldb.llvm.org/symbolication.html
+https://lldb.llvm.org/formats.html
+
+extra/lldb
+/usr/bin/
+    lldb
+    lldb-argdumper
+    lldb-mi
+    lldb-server
+    lldb-test
+
+config files ordered
+~/.lldbinit-debugger
+    (~/.lldbinit-lldb for cmd-line lldb, ~/.lldbinit-Xcode for xcode, ...)
+~/.lldbinit
+.lldbinit
+
+lldb
+    -- arg1 arg2 ...
+
+
+commands
+    h ...
+        help
+    b[reakpoint] ...
+        set a breakpoint
+    r ...
+        run
+    n ...
+        next
+    s ...
+        step
+
+    w[atchpoint] set|list|write|read
