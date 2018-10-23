@@ -101,5 +101,9 @@ subprojects {
     }
 }
 
+dependenciy locking
+https://docs.gradle.org/current/userguide/dependency_locking.html
+
 source dependencies (from 4.10)
+https://dzone.com/articles/introducing-source-dependencies-in-gradle
 https://blog.gradle.org/introducing-source-dependencies

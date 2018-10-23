@@ -6,6 +6,7 @@ https://github.com/DiUS/pact-jvm
 
 
 2018
+https://dzone.com/articles/testing-microservices-tools-and-frameworks
 https://medium.com/build-smarter/consumer-driven-contracts-with-pact-eddb234278dd
 https://www.baeldung.com/pact-junit-consumer-driven-contracts
 https://reflectoring.io/consumer-driven-contract-feign-pact/

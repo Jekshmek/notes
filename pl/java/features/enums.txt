@@ -1,0 +1,9 @@
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+2018
+https://dzone.com/articles/18-points-every-java-developer-should-know-about-e
+2015
+https://javaconceptoftheday.com/18-points-every-java-developer-should-know-about-enums-in-java/
+https://javaconceptoftheday.com/java-practice-coding-questions-on-enum-types/
+2014
+https://javaconceptoftheday.com/java-enums-tutorial-with-examples/

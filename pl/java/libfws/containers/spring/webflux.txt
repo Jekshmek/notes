@@ -1,12 +1,11 @@
 articles
-
 2018
+https://dzone.com/articles/understanding-spring-reactiveintroducing-spring-we
 https://www.e4developer.com/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/
 https://www.e4developer.com/2018/04/28/springs-webflux-reactor-parallelism-and-backpressure/
 https://medium.com/@the.raj.saxena/springboot-2-performance-servlet-stack-vs-webflux-reactive-stack-528ad5e9dadc
 https://www.infoq.com/articles/Servlet-and-Reactive-Stacks-Spring-Framework-5
 https://habrahabr.ru/company/funcorp/blog/350996/
-
 2017
 http://blog.alexnesterov.com/post/spring-your-next-microframework/
     https://habrahabr.ru/post/337604/
