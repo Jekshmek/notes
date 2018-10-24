@@ -1,1 +1,6 @@
 https://www.katacoda.com/courses/kubernetes
+
+2018
+https://github.com/heptio/tgik
+https://github.com/heptio/tgik/blob/master/playlist.md
+https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ

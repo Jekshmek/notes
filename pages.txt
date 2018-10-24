@@ -1,12 +1,10 @@
 URLs
-https://blog.predanie.ru/article/u-detej-est-prichiny-byt-plohimi/
-    part 2
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 22
+    Oct 24
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -16,8 +14,6 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-i3gaps                                              -   01:00 (of    7:25)
-    https://www.youtube.com/watch?v=SkseU0SIxTg
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
@@ -88,6 +84,8 @@ https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-strada
 https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
 https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-predposylki/slushat/
 https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
+https://predanie.ru/dyagileva-lyubov/chto-mozhno-nelzya-tvoemu-rebenku-i-kto-za-eto-otvechaet/slushat/
+https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 
 Tracking
 This week in rust                                   - 256
@@ -107,7 +105,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 544.0 (of 767)
+Kantor - Imperiya nauznanku                         - 560.3 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

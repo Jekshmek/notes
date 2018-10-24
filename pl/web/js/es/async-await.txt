@@ -1,3 +1,7 @@
+cheatsheet
+https://frontarm.com/toolbox/promises-async-await-cheatsheet/
+https://github.com/frontarm/async-javascript-cheatsheet
+
 2018
 http://telegra.ph/Konstrukciya-asyncawait-v-JavaScript-08-02
 https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda
