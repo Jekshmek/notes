@@ -2,7 +2,7 @@ URLs
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/
-https://www.robinwieruch.de/gentle-introduction-higher-order-components/
+https://www.robinwieruch.de/react-render-props-pattern/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Oct 24
 Shalyto - motivation - 018 of 873p
@@ -35,9 +35,9 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      - 1:07:00 (of 1:45:11)
-    https://cdn.echo.msk.ru/snd/2018-10-12-odin-0005.mp3
-Bycov - Money                                       -   00:00 (of 1:33:11)
+Bykov - Single                                      -   21:00 (of 1:44:54)
+    https://cdn.echo.msk.ru/snd/2018-10-19-odin-0005.mp3
+Bykov - Money                                       -   16:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Schipkov
     https://www.youtube.com/watch?v=pbwEdzQqTAI
@@ -54,7 +54,7 @@ Paschenko - Game 2 - 17 b                           -   56:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-06                                       -   27:30 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 46                                      -   23:00 (of)
+Sorokin - B 48                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -63,8 +63,6 @@ Osipov - 2                                          -   00:00 (of)
 Chernyak - 25 of 34                                 -   47:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Uliyanov - Ukrain autokefaliya                      - 2:41:00 (of 3:09:07)
-    https://predanie.ru/oleg-germanovich-ulyanov/darovanie-avtokefalii-pro-et-contra-vzglyad-istorika-i-bogoslova/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
@@ -89,8 +87,8 @@ https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 
 Tracking
 This week in rust                                   - 256
-Razbor Poletov                                      - 187
-    http://traffic.libsyn.com/razborpoletov/razbor_187.mp3
+Razbor Poletov                                      - 189
+    http://traffic.libsyn.com/razborpoletov/razbor_189.mp3
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
