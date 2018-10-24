@@ -4,3 +4,4 @@ https://www.infoq.com/minibooks/spring-boot-building-api-backend
 Antonov - Spring Boot 2 Cookbook 2nd ed
 Sadakath - Spring Boot 2 Projects
 Karanam - Spring Microservices with Spring Boot (short)
+Rajput - Mastering Spring Boot 2 (to broad set of topics)

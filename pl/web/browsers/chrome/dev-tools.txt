@@ -4,8 +4,6 @@ https://www.youtube.com/watch?v=H0XScE08hy8
 devtool (? obsolete)
 
 debugging
-https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools
-    http://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html
 https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
     https://chromedevtoolsdemo.herokuapp.com/
 https://nodejs.org/en/docs/guides/debugging-getting-started/
@@ -20,8 +18,9 @@ https://umaar.com/dev-tips/
 
 articles
 2018
-https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools
 https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools-(part-2)
+https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools
+    http://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html
 https://www.offerzen.com/blog/debugging-with-chrome-devtools-quick-front-end-fixes
 https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started

@@ -10,6 +10,7 @@ http://docs.micronaut.io/snapshot/api/
 http://micronaut.io/announcement.html
 
 2018
+https://habr.com/post/427595/
 https://www.infoq.com/news/2018/10/the-road-to-micronaut-1.0
 https://www.infoq.com/articles/micronaut-tutorial-microservices-jvm
 http://www.baeldung.com/micronaut
