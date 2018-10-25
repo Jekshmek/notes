@@ -3,10 +3,6 @@ https://nixos.org/nix/about.html
 A lot of links:
 http://blog.timsears.com/posts/morenix.html
 
-Nix manual:
-http://nixos.org/nix/manual/
-http://nixos.org/nix/manual/#ch-env-variables
-
 Nix Error Messages:
 https://nixos.org/wiki/Error_Messages
 http://blog.gmane.org/gmane.linux.distributions.nixos/month=20140101
@@ -17,18 +13,3 @@ Configuration:
 
 Multi-user install:
 http://sandervanderburg.blogspot.com/2013/06/setting-up-multi-user-nix-installation.html
-
-
-
-https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/
-
-Nix package manager:
-https://nixos.org/nix/
-https://nixos.org/nixpkgs/manual/
-https://github.com/nixos/nixpkgs
-
-
-Haskell and NIX:
-http://stackoverflow.com/questions/27968909/how-to-get-cabal-and-nix-work-together
-https://github.com/NixOS/nixpkgs/blob/master/pkgs/development/haskell-modules/configuration-common.nix
-https://ocharles.org.uk/blog/posts/2014-02-04-how-i-develop-with-nixos.html

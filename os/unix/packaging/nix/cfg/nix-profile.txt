@@ -1,0 +1,4 @@
+~/.nix-profile/
+    bin
+    lib
+    include

@@ -1,0 +1,1 @@
+http://nixos.org/nix/manual/#ch-env-variables

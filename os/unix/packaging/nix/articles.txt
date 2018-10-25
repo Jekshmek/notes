@@ -1,0 +1,8 @@
+2018
+http://www.haskellforall.com/2018/08/nixos-in-production.html
+2017
+https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html
+2016
+https://habr.com/post/281611/
+2014
+https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/

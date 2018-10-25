@@ -1,0 +1,19 @@
+nix-env
+    --dry-run
+    -v, --verbose
+
+    -u [*]
+        upgrade
+        # nix-channel --update nixpkgs
+    -i args...
+        -f <some-stuff.nix> -E <specific-nix-expr>
+        -f https://github.com/NixOS/nixpkgs-channels/archive/nixos-14.12.tar.gz -iA firefox
+        install
+    -e, --uninstall drvnames...
+
+    --list-generations
+    --switch-generation
+    --rollback
+
+    -qa [package]
+        search for a package on a channel

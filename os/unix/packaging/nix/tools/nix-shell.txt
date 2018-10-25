@@ -1,0 +1,3 @@
+nix-shell
+    -p <pkg>
+        try pkg in a shell without installing

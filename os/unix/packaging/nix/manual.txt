@@ -1,0 +1,2 @@
+http://nixos.org/nix/manual/
+https://nixos.org/releases/nix/latest/manual/
