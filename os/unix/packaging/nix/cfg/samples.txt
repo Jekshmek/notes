@@ -1,0 +1,4 @@
+http://nequissimus.com/DevSetup/
+http://nequissimus.com/DevSetup/config-basic/
+https://github.com/NeQuissimus/DevSetup
+https://github.com/NeQuissimus/DevSetup/blob/master/p320.nix

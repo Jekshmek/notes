@@ -1,6 +1,10 @@
 https://awesomewm.org/
 https://github.com/awesomeWM/awesome
 
+aur
+    awesome
+    vicious
+
 https://awesomewm.org/doc/
 https://awesomewm.org/doc/api/
 https://awesomewm.org/doc/api/documentation/07-my-first-awesome.md.html

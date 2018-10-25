@@ -6,3 +6,4 @@ https://ramsdenj.com/2017/06/19/switching-to-nixos-from-arch-linux.html
 https://habr.com/post/281611/
 2014
 https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/
+https://www.infoq.com/articles/configuration-management-with-nix

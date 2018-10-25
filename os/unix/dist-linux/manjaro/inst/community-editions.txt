@@ -18,6 +18,7 @@ https://osdn.net/projects/manjaro-community/storage/i3/17.1.12/minimal/
 awesome
 https://osdn.net/projects/manjaro-community/storage/awesome/
 https://forum.manjaro.org/t/manjaro-awesome-edition-17-1-12-updated-to-17-1-12-1/57380
+https://forum.manjaro.org/t/awesome-edition-17-1-7-released/44557/70
 
 openbox
 https://osdn.net/projects/manjaro-community/storage/openbox/
