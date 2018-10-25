@@ -5,7 +5,7 @@ https://ru-bykov.livejournal.com/3588833.html
 https://nixos.org/releases/nix/latest/manual/#ch-env-variables
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
-https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript-classes
+https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-arrow-functions
 https://www.robinwieruch.de/react-render-props-pattern/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Oct 24

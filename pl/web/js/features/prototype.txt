@@ -1,3 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
 2018
 https://tylermcginnis.com/beginners-guide-to-javascript-prototype/
 https://mathiasbynens.be/notes/prototypes
