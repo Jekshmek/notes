@@ -1,6 +1,10 @@
 https://awesomewm.org/
 https://github.com/awesomeWM/awesome
 
+!!!
+https://github.com/atsepkov/awesome-awesome-wm
+https://github.com/lcpz/awesome-copycats
+
 community
     awesome
     awesome-freedesktop

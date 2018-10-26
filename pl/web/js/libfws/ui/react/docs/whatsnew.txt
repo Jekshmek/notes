@@ -2,6 +2,8 @@
 http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/0
 
 2018
+16.6
+    https://www.youtube.com/watch?v=BnasObkCGtQ
 https://medium.freecodecamp.org/why-react16-is-a-blessing-to-react-developers-31433bfc210a
     https://nuancesprog.ru/p/2125/
 https://reactjs.org/blog/2018/05/23/react-v-16-4.html

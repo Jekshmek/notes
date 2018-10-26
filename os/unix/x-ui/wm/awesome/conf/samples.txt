@@ -1,3 +1,23 @@
+2018
+! galery !
+https://www.linux.org.ru/tag/awesome?section=3
+https://github.com/actionless/awesome_config
+    https://www.linux.org.ru/gallery/screenshots/14543979
+    https://github.com/themix-project/oomox/blob/master/colors/retro/classic_x_new
+https://www.linux.org.ru/gallery/screenshots/13757632
 https://github.com/rasendubi/dotfiles/blob/master/.config/awesome
+Obscure Window Manager Project - Awesome WM
+    https://www.youtube.com/watch?v=vAh05O43JmE
+    https://github.com/lcpz/lain
+2017
+!!!
+http://sollus-soft.blogspot.com/2017/03/awesome-wm-4.html
 https://github.com/worron/awesome-config
+    https://www.youtube.com/channel/UCJWTeiGsxY57W-OGLgTU8Vg/videos
     https://www.youtube.com/watch?v=OoSts990-lY
+    https://www.youtube.com/watch?v=-yNALqST1-Y
+2016
+https://thibaultmarin.github.io/blog/posts/2016-10-05-Awesome-wm_configuration.html
+2012
+https://www.linux.org.ru/gallery/screenshots/7368491
+    http://dotshare.it/dots/310/
