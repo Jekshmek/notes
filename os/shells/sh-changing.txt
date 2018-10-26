@@ -1,2 +1,1 @@
-chsh `which zsh`
-
+chsh -s `which zsh`

@@ -1,3 +1,6 @@
+2018
+https://blog.purestorage.com/stateful-sidecar-containers-in-build-pipelines-at-the-speed-of-flash/
+
 2016
 https://engineering.riotgames.com/news/thinking-inside-container-dockercon-talk-and-story-so-far
 https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial
