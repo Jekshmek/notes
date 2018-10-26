@@ -1,0 +1,5 @@
+https://awesomewm.org/doc/api/documentation/07-my-first-awesome.md.html
+https://awesomewm.org/doc/manpages/awesome.1.html
+
+Mod+l
+ globalkeys = gears.table.join( awful.key({ }, Mod4, hotkeys_popup.show_help, {description="show help", group="awesome"}),

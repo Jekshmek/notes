@@ -5,8 +5,3 @@ https://github.com/search?q=topic%3Aawesomewm
 
 http://pavelmakhov.com/awesome-wm-widgets
 https://github.com/horst3180/arc-icon-theme
-
-cfg samples
-https://github.com/rasendubi/dotfiles/blob/master/.config/awesome
-https://github.com/worron/awesome-config
-    https://www.youtube.com/watch?v=OoSts990-lY

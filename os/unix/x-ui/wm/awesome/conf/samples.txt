@@ -1,0 +1,3 @@
+https://github.com/rasendubi/dotfiles/blob/master/.config/awesome
+https://github.com/worron/awesome-config
+    https://www.youtube.com/watch?v=OoSts990-lY

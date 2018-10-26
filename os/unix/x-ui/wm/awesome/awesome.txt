@@ -1,23 +1,37 @@
 https://awesomewm.org/
 https://github.com/awesomeWM/awesome
 
-aur
+community
     awesome
+    awesome-freedesktop
+        Freedesktop.org menu and desktop icons support for Awesome WM
+    manjaro-awesome-settings
+    awesome-wallpapers
+        Wallpapers for awesome wm
+    cesious-theme
+        Cesious theme for awesome wm
+    lain
     vicious
+        widgets
+
+
+aur
+    awesome-scratch-git
+    awesome-themes-git
+    awesome-terminal-fonts-git
+    awesome-terminal-fonts-patched
+    awesome-treetile
+    vicious-git
+
+/usr/share/doc/awesome/
+    ...
 
 https://awesomewm.org/doc/
-https://awesomewm.org/doc/api/
-https://awesomewm.org/doc/api/documentation/07-my-first-awesome.md.html
 
 https://awesomewm.org/community/
 
 faq
 https://github.com/awesomeWM/awesome/blob/master/docs/90-FAQ.md
-
-man
-https://awesomewm.org/doc/manpages/awesome.1.html
-https://awesomewm.org/doc/manpages/awesomerc.5.html
-https://awesomewm.org/doc/manpages/awesome-client.1.html
 
 api
 https://awesomewm.org/doc/api/
