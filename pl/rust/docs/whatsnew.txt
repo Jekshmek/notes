@@ -1,3 +1,8 @@
+https://blog.rust-lang.org/2018/10/25/Rust-1.30.0.html
+    https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1300-2018-10-25
+
+https://blog.rust-lang.org/2018/07/27/what-is-rust-2018.html
+
 https://blog.rust-lang.org/2018/10/12/Rust-1.29.2.html
 https://blog.rust-lang.org/2018/09/13/Rust-1.29.html
 

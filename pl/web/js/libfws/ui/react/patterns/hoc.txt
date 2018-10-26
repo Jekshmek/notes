@@ -5,6 +5,7 @@ http://andrew-r.ru/notes/react-hocs
 
 articles
 2018
+https://tylermcginnis.com/react-higher-order-components/
 https://css-tricks.com/what-are-higher-order-components-in-react/
 2017
 https://www.robinwieruch.de/gentle-introduction-higher-order-components/

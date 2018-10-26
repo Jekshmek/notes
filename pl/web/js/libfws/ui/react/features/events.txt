@@ -2,6 +2,7 @@ https://reactjs.org/docs/handling-events.html
 https://reactjs.org/docs/events.html
 
 2018
+https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0
 https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
     https://habr.com/company/ruvds/blog/426053/
     () => ... handlers are not equal to each other

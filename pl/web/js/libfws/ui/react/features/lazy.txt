@@ -1,0 +1,6 @@
+https://reactjs.org/docs/code-splitting.html#reactlazy
+
+2018
+https://dev.to/vigzmv/reactlazy-what-and-how-to-use-in-your-app-p9a
+    http://vigneshm.com/react-lazy-example/
+    https://github.com/vigzmv/react-lazy-example
