@@ -1,14 +1,16 @@
 2018
+Building AI with TensorFlow: An Overview
+    https://www.youtube.com/watch?v=WwON0inOEnc
 Recurrent Neural Networks (RNN) - Deep Learning w/ Python, TensorFlow & Keras p.7
-https://www.youtube.com/watch?v=BSpXCRTOLJA
+    https://www.youtube.com/watch?v=BSpXCRTOLJA
 Good Patterns For Deep Learning With TensorFlow
-https://www.youtube.com/watch?v=Fudxo6WZHO0
+    https://www.youtube.com/watch?v=Fudxo6WZHO0
 TensorFlow in production
-https://www.youtube.com/watch?v=CxUc5FJF_9w
+    https://www.youtube.com/watch?v=CxUc5FJF_9w
 TensorFlow Tutorial - Deep Learning
-https://www.youtube.com/watch?v=Xl4pk2ZOc_0
+    https://www.youtube.com/watch?v=Xl4pk2ZOc_0
 What is TensorFlow? | Introduction to TensorFlow | TensorFlow Tutorial For Beginners | Simplilearn
-https://www.youtube.com/watch?v=E8n_k6HNAgs
+    https://www.youtube.com/watch?v=E8n_k6HNAgs
 
 2017
 Fullwood - A gentle introduction to deep learning with TensorFlow
