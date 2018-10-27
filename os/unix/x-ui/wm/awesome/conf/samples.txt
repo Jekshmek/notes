@@ -9,6 +9,10 @@ https://github.com/rasendubi/dotfiles/blob/master/.config/awesome
 Obscure Window Manager Project - Awesome WM
     https://www.youtube.com/watch?v=vAh05O43JmE
     https://github.com/lcpz/lain
+https://github.com/msjche/AwesomeWM_3.5_Laptop
+    https://www.youtube.com/watch?v=cOWp_AaWvRs
+Andrey Birkos - ru
+    https://www.youtube.com/playlist?list=PLwBfBKxBFC0Q_2F43lijT2wH_fkdYOKEZ
 2017
 !!!
 http://sollus-soft.blogspot.com/2017/03/awesome-wm-4.html
@@ -16,8 +20,17 @@ https://github.com/worron/awesome-config
     https://www.youtube.com/channel/UCJWTeiGsxY57W-OGLgTU8Vg/videos
     https://www.youtube.com/watch?v=OoSts990-lY
     https://www.youtube.com/watch?v=-yNALqST1-Y
+msjche
+    https://www.youtube.com/playlist?list=PLJlflqlkb5PZmwbynm0kMB1RIxd-7hW3a
+    https://www.youtube.com/playlist?list=PLJlflqlkb5PZ18R-7LOZsDbfkHTf3FaWw
+?
+irishluck
+    https://www.youtube.com/playlist?list=PLPvef-Dolyl9pkfwawNAgeyUrjbLTJ9OL
 2016
 https://thibaultmarin.github.io/blog/posts/2016-10-05-Awesome-wm_configuration.html
+2014
+Linux and - Awesome ru
+    https://www.youtube.com/playlist?list=PL7PLwWArfrqc6dQGgilD64ELKUe1HpjUR
 2012
 https://www.linux.org.ru/gallery/screenshots/7368491
     http://dotshare.it/dots/310/

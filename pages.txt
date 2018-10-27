@@ -1,14 +1,13 @@
 URLs
-https://ru-bykov.livejournal.com/3588571.html
 https://ru-bykov.livejournal.com/3588833.html
-    2
+    4
 https://nixos.org/releases/nix/latest/manual/#ch-env-variables
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-arrow-functions
 https://www.robinwieruch.de/react-render-props-pattern/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 26
+    Oct 27
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 

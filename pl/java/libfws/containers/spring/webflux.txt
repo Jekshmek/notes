@@ -16,9 +16,13 @@ https://habr.com/post/342498/
 https://habr.com/post/342506/
 
 presentations
+2018
+Stoyanchev - Guide to "Reactive" for Spring MVC Developers
+    https://www.infoq.com/presentations/spring-reactive-webflux
+    https://github.com/rstoyanchev/reactive-for-webmvc
 2017
 Long - Spring Web Flux Reactive Client
-https://www.youtube.com/watch?v=leZdgr-O4LE
+    https://www.youtube.com/watch?v=leZdgr-O4LE
 
 doc
 https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/web/webflux.adoc

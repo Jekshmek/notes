@@ -1,0 +1,19 @@
+https://github.com/dbartolini/data-oriented-design
+
+book
+Fabian - DOD
+    http://www.dataorienteddesign.com/dodbook/
+    k
+2018
+Prackevicius - ECS and DOD
+    http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf
+Nikolov - OOP is dead, long live DOD
+    https://www.youtube.com/watch?v=yy8jQgmhbAU
+    https://github.com/CppCon/CppCon2018/blob/master/Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf
+    https://www.reddit.com/r/cpp/comments/9rnof7/cppcon_2018_stoyan_nikolov_oop_is_dead_long_live/
+2014
+Mike Acton - Data-Oriented Design and C++
+    https://www.youtube.com/watch?v=rX0ItVEVjHc
+    https://github.com/CppCon/CppCon2014/blob/master/Presentations/Data-Oriented%20Design%20and%20C%2B%2B/Data-Oriented%20Design%20and%20C%2B%2B%20-%20Mike%20Acton%20-%20CppCon%202014.pptx
+Albrecht - Pitfalls of OOP
+    https://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09

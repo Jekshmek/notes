@@ -2,3 +2,6 @@
 Obscure Window Manager Project - Awesome WM
     https://www.youtube.com/watch?v=vAh05O43JmE
     https://github.com/lcpz/lain
+Dubious - misc
+    https://www.youtube.com/watch?v=PyFnQrEsE5A
+    https://www.youtube.com/playlist?list=PLlloYVGq5pS7TN_k4PTeSdPOztzXd7_AL
