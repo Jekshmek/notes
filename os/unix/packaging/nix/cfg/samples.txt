@@ -2,3 +2,7 @@ http://nequissimus.com/DevSetup/
 http://nequissimus.com/DevSetup/config-basic/
 https://github.com/NeQuissimus/DevSetup
 https://github.com/NeQuissimus/DevSetup/blob/master/p320.nix
+
+2014
+https://github.com/chaoflow/nixos-configurations
+    https://www.linux.org.ru/news/linux-general/10443946
