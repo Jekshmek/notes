@@ -7,6 +7,7 @@ https://docs.rs/ndarray-linalg/0.3.0/ndarray_linalg/
 https://github.com/termoshtt/ndarray-linalg
 
 https://crates.io/crates/ndarray-csv
+https://paulkernfeld.com/2018/10/27/improving-ndarray-csv.html
 https://paulkernfeld.com/2018/10/13/ndarray-csv-reflections.html
 
 whatsnew:

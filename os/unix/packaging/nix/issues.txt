@@ -1,8 +1,0 @@
-"Could not initialize GLX"
-https://github.com/guibou/nixGL
-https://github.com/deepfire/nix-install-vendor-gl
-https://github.com/NixOS/nixpkgs/issues/9415
-https://github.com/NixOS/nixpkgs/issues/40776
-
-video
-https://github.com/NixOS/nixpkgs/issues/24711#issuecomment-401630839

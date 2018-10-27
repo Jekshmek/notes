@@ -1,0 +1,5 @@
+nix-channel
+    --add https://nixos.org/channels/nixpkgs-unstable
+        http://nixos.org/channels/nixos-14.12
+
+    --update

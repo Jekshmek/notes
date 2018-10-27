@@ -1,10 +1,10 @@
 URLs
 https://ru-bykov.livejournal.com/3588833.html
     4
-https://nixos.org/releases/nix/latest/manual/#ch-env-variables
+https://nixos.org/releases/nix/latest/manual/#sec-profiles
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
-https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-arrow-functions
+https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-class-component-syntax
 https://www.robinwieruch.de/react-render-props-pattern/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Oct 27
@@ -113,7 +113,7 @@ Kantor - Imperiya nauznanku                         - 581.0 (of 767)
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
-zis 110 need: 66, 71-73, 81-82, 93-
+zis 110 need: 66, 71-73, 81-82, 93, 95-
 
 clear at D:/Temp
     jna*.dll
