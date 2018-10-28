@@ -1,4 +1,6 @@
 URLs
+https://ru-bykov.livejournal.com/3591995.html
+https://ru-bykov.livejournal.com/3592193.html
 https://ru-bykov.livejournal.com/3588833.html
     4
 https://nixos.org/releases/nix/latest/manual/#sec-profiles

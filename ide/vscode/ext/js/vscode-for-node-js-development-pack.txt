@@ -1,0 +1,5 @@
+https://marketplace.visualstudio.com/items?itemName=nodesource.vscode-for-node-js-development-pack
+https://github.com/nodesource/vs-code-for-node-js-development-pack
+
+2017
+https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development

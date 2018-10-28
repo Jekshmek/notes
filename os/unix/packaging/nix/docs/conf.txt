@@ -3,6 +3,7 @@ https://www.youtube.com/c/NixCon/
 2018
 https://nixcon2018.org/
 https://github.com/nix-community/nixcon2018.org
+https://www.youtube.com/playlist?list=PLgknCdxP89ReJKWX3sthcsbBYsoihzSQX
 2017
 http://nixcon2017.org/
 https://www.youtube.com/playlist?list=PLgknCdxP89ReQzhfKwMYjLdwWsc7us8ns

@@ -9,6 +9,7 @@ Kucherenko - Mastering High Performance with Kotlin
 Soshin - Hands-On Design Patterns with Kotlin
 Roy - Kotlin Programming Cookbook
 Urbanowicz - Kotlin Standard Library Cookbook
+Vasic - Building Applications with Spring5 and Kotlin
 
 2017
 Samuel - Programming Kotlin
