@@ -5,6 +5,8 @@ Mod+S
     help
 Mod+P
     menubar
+Mod+T
+    toogle keep on top
 
 Mod+<1..9>
     go to tag 1..9

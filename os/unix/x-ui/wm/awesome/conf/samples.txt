@@ -1,10 +1,32 @@
-2018
-! galery !
+galery
+https://github.com/awesomeWM/awesome/issues/1395
 https://www.linux.org.ru/tag/awesome?section=3
+
+2018
+!!! actionless
 https://github.com/actionless/awesome_config
     https://www.linux.org.ru/gallery/screenshots/14543979
     https://github.com/themix-project/oomox/blob/master/colors/retro/classic_x_new
+        pacman -Qql awesome_config_actionless_meta
+        /usr/bin/
+            awesome_argb
+            awesome_no_argb
+        /usr/share/xsessions/
+            awesome_argb.desktop
+            awesome_no_argb.desktop
+    !!! highly depends on beautiful.gtk
+    https://github.com/awesomeWM/awesome/commit/4bd5b1940dbfb7d8275cc8a55b870b5fde55ebfc#diff-45ad409b45603061b8a7d3bd863c9555
+! elenapan - mac-os like
+    https://github.com/elenapan/dotfiles
+! lcpz copycats
 https://www.linux.org.ru/gallery/screenshots/13757632
+    https://github.com/lcpz/awesome-copycats/
+! barbuk - clone of lcpz copycats
+https://github.com/barbuk/awesome-copycats
+! alfunx
+https://github.com/alfunx/.dotfiles/tree/master/.config/awesome
+
+
 https://github.com/rasendubi/dotfiles/blob/master/.config/awesome
 Obscure Window Manager Project - Awesome WM
     https://www.youtube.com/watch?v=vAh05O43JmE
@@ -14,13 +36,16 @@ https://github.com/msjche/AwesomeWM_3.5_Laptop
 Andrey Birkos - ru
     https://www.youtube.com/playlist?list=PLwBfBKxBFC0Q_2F43lijT2wH_fkdYOKEZ
 2017
-!!!
+!a lot of misc stuff!
 http://sollus-soft.blogspot.com/2017/03/awesome-wm-4.html
+! worron
 https://github.com/worron/awesome-config
     https://www.youtube.com/channel/UCJWTeiGsxY57W-OGLgTU8Vg/videos
     https://www.youtube.com/watch?v=OoSts990-lY
     https://www.youtube.com/watch?v=-yNALqST1-Y
-msjche
+! worron mod
+https://github.com/t60r/dots/tree/master/.config/awesome
+! msjche
     https://www.youtube.com/playlist?list=PLJlflqlkb5PZmwbynm0kMB1RIxd-7hW3a
     https://www.youtube.com/playlist?list=PLJlflqlkb5PZ18R-7LOZsDbfkHTf3FaWw
 ?
