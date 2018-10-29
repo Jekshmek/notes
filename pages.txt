@@ -1,4 +1,5 @@
 URLs
+https://tproger.ru/news/node-js-11-0-release/
 https://ru-bykov.livejournal.com/3591995.html
 https://ru-bykov.livejournal.com/3592193.html
 https://ru-bykov.livejournal.com/3588833.html
@@ -19,9 +20,11 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Reinhold                                            -   00:00 (of 1:37:19)
-    https://www.infoq.com/news/2018/10/codeone-java-keynote
+Reinhold                                            -   08:00 (of 1:37:19)
     https://www.youtube.com/watch?v=nKJbDYRsO0s
+    https://www.infoq.com/news/2018/10/codeone-java-keynote
+CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
+    https://www.youtube.com/watch?v=bFSnXNIsK4A
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
@@ -43,7 +46,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   40:00 (of 1:44:54)
+Bykov - Single                                      -   44:00 (of 1:44:54)
     https://cdn.echo.msk.ru/snd/2018-10-19-odin-0005.mp3
 Bykov - Money                                       -   16:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
@@ -58,9 +61,9 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 17 b                           -   56:00 (of)
+Paschenko - Game 2 - 18                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-06                                       -   27:30 (of)
+Ivliev - 2-06                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 48                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/

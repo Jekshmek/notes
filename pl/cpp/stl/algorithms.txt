@@ -1,4 +1,6 @@
 2018
+CodingTech - 105 STL Algorithms in Less Than an Hour
+    https://www.youtube.com/watch?v=bFSnXNIsK4A
 https://blogs.msdn.microsoft.com/vcblog/2018/10/16/standard-library-algorithms-changes-and-additions-in-c17/
 https://foonathan.net/blog/2018/10/01/ordering-algorithms.html
 https://foonathan.net/blog/2018/09/07/three-way-comparison.html

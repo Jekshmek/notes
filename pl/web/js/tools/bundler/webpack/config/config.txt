@@ -34,5 +34,7 @@ webpack.config.d
 https://github.com/Kotlin/kotlin-fullstack-sample/tree/master/frontend/webpack.config.d
 
 2018
+Big - Welch - An Annotated webpack 4 Config for Frontend Web Development
+    https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development
 Webpack config splitting
     https://habr.com/post/422697/
