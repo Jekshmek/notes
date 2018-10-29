@@ -1,0 +1,2 @@
+https://crates.io/crates/xcp
+https://bitbucket.org/tarkasteve/xcp/

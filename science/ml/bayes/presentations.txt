@@ -1,8 +1,10 @@
 2018
+!!!  Naive Bayes Classifier | Text Based Classification (concept) | Machine Learning Algorithm (2018)
+    https://www.youtube.com/watch?v=Zt83JnjD8zg
 Coyle - Probabilistic Programming: A Modern Bayesian Workflow
-https://www.youtube.com/watch?v=7QlKZKbQa6M
+    https://www.youtube.com/watch?v=7QlKZKbQa6M
 Otus - Naive Bayes Classifier ru
-https://habr.com/company/otus/blog/420729/
+    https://habr.com/company/otus/blog/420729/
     https://www.youtube.com/watch?v=DwLLOAm6lkk
 
 2017
