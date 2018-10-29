@@ -1,10 +1,10 @@
-inst:
+inst
 yaourt -S rxvt-unicode-patched gtk2-perl urxvt-tabbedex urxvt-perls
 
-aur:
+aur
 https://aur.archlinux.org/packages/rxvt-unicode-patched/
 
-dist:
+dist
 rxvt-unicode-9.22.tar.bz2
 https://ftp.osuosl.org/pub/blfs/conglomeration/rxvt-unicode/rxvt-unicode-9.22.tar.bz2
 https://ftp.osuosl.org/pub/blfs/conglomeration/rxvt-unicode/$_pkgname-$pkgver.tar.bz2
@@ -25,6 +25,7 @@ http://www.askapache.com/linux/rxvt-xresources.html
 https://wiki.archlinux.org/index.php/X_resources
 .Xresources samples:
 https://github.com/xintron/configs/blob/master/.Xresources
+https://github.com/cschooley/dotfiles/blob/master/.Xresources
 
 ~/.xinitrc:
 [[ -f ~/.Xdefaults ]] && xrdb -merge ~/.Xdefaults

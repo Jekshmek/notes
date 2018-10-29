@@ -3,6 +3,10 @@ https://facebook.github.io/relay/docs/thinking-in-graphql.html
 https://www.howtographql.com/
 
 2018
+Wieruch - ...
+    https://www.robinwieruch.de/getting-started-github-graphql-api/
+    https://www.robinwieruch.de/react-with-graphql-tutorial/
+    https://www.robinwieruch.de/react-graphql-apollo-tutorial/
 https://www.robinwieruch.de/graphql-apollo-server-tutorial/
 https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 https://www.robinwieruch.de/react-graphql-client-library/
