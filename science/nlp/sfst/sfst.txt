@@ -3,6 +3,7 @@ http://www.cis.uni-muenchen.de/~schmid/tools/SFST/data/SFST-Tutorial.pdf
 http://www.cis.uni-muenchen.de/~schmid/tools/SFST/data/SFST-Manual.pdf
 
 http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/
+http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/data/SMOR-linux.tar.gz
 
 tools
 fst-compiler-[utf8]

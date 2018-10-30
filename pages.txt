@@ -1,5 +1,7 @@
 URLs
-https://tproger.ru/news/node-js-11-0-release/
+lucidcharts
+https://ru-bykov.livejournal.com/3594258.html
+https://ru-bykov.livejournal.com/3593612.html
 https://ru-bykov.livejournal.com/3592193.html
 https://ru-bykov.livejournal.com/3591995.html
     1
@@ -45,8 +47,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   44:00 (of 1:44:54)
-    https://cdn.echo.msk.ru/snd/2018-10-19-odin-0005.mp3
+Bykov - Single                                      -   11:00 (of 1:45:30)
+    https://cdn.echo.msk.ru/snd/2018-10-26-odin-0010.mp3
 Bykov - Money                                       -   16:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Schipkov
@@ -62,7 +64,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 18                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-06                                       -   00:00 (of)
+Ivliev - 2-08                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 48                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/

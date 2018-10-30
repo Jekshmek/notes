@@ -10,3 +10,6 @@ http://blog.plover.com/prog/git-pre-commit-hook.html
 http://pre-commit.com/
 http://pre-commit.com/hooks.html
 https://github.com/pre-commit/pre-commit
+
+prepend branch-name
+https://andy-carter.com/blog/automating-git-commit-messages-with-git-hooks
