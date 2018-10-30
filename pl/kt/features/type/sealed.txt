@@ -1,6 +1,7 @@
 https://kotlinlang.org/docs/reference/sealed-classes.html
 
 2018
+https://engineering.udacity.com/simplifying-ui-states-with-kotlin-sealed-classes-and-databinding-2128112d0631
 https://codeascraft.com/2018/04/12/sealed-classes-opened-my-mind/
 
 https://tech.io/playgrounds/6539/kotlin-sealed-classes-in-action
