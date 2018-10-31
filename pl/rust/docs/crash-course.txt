@@ -1,0 +1,6 @@
+2018
+https://www.snoyman.com/blog/2018/10/rust-crash-course-02-basics-of-ownership-solutions
+https://www.snoyman.com/blog/2018/10/rust-crash-course-02-basics-of-ownership
+https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires-solutions
+https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires
+https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course

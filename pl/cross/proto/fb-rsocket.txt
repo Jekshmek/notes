@@ -11,5 +11,6 @@ http://rsocket.io/docs/Motivations
 http://rsocket.io/docs/Protocol.html
 
 2018
+https://www.infoq.com/presentations/reactive-streams-rsocket
 https://www.infoq.com/news/2018/10/rsocket-facebook
 https://www.infoq.com/articles/give-rest-a-rest-rsocket

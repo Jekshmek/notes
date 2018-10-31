@@ -1,9 +1,5 @@
 2018
 http://eao197.blogspot.com.by/2018/04/progflame-rust-c-corehard-spring.html
-https://www.snoyman.com/blog/2018/10/rust-crash-course-02-basics-of-ownership
-https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires-solutions
-https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires
-https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course
 
 2017
 https://beachape.com/blog/2017/05/24/rust-from-scala/

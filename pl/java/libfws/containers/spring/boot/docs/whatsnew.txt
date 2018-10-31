@@ -1,8 +1,9 @@
-2.x
-2.0.2
+2.1.x
+https://spring.io/blog/2018/10/17/spring-boot-2-1-0-rc1-available-now
+    https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.1.0-RC1-Release-Notes
+2.0.x
 https://github.com/spring-projects/spring-boot/milestone/109?closed=1
 https://spring.io/blog/2018/05/09/spring-project-vulnerability-reports-published
-2.0
 https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga
 https://spring.io/blog/2018/01/31/spring-boot-2-0-0-rc1-available-now
 http://www.baeldung.com/new-spring-boot-2
