@@ -1,0 +1,10 @@
+https://www.linux.org.ru/tag/xmonad?section=3
+http://dotshare.it/category/wms/xmonad/
+
+https://www.linux.org.ru/gallery/screenshots/10184213
+    https://github.com/MPogoda/dotfiles
+    https://github.com/MPogoda/dotfiles/tree/master/xmonad
+https://www.linux.org.ru/gallery/screenshots/12420258
+    https://github.com/pltanton/dotfiles
+https://www.linux.org.ru/gallery/screenshots/14520741
+    https://github.com/Minda1975/xmonad

@@ -1,6 +1,7 @@
 galery
 https://github.com/awesomeWM/awesome/issues/1395
 https://www.linux.org.ru/tag/awesome?section=3
+http://dotshare.it/category/wms/awesome/
 
 2018
 !!! actionless

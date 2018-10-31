@@ -1,0 +1,5 @@
+2018
+http://sitr.us/2018/05/13/build-xmonad-with-stack.html
+https://functor.tokyo/blog/2018-02-16-setup-xmonad-on-nixos
+2017
+https://brianbuccola.com/how-to-install-xmonad-and-xmobar-via-stack/

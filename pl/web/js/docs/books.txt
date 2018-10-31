@@ -2,6 +2,7 @@ http://books.goalkicker.com/JavaScriptBook/
 
 https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks
+http://learn.javascript.ru/es-modern
 
 2018
 Morgan - Simplifying JavaScript

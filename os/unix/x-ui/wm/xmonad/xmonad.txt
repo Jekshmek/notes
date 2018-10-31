@@ -1,0 +1,30 @@
+https://xmonad.org/
+https://wiki.haskell.org/Xmonad
+https://wiki.archlinux.org/index.php/xmonad
+
+https://github.com/xmonad/xmonad
+https://github.com/xmonad/xmonad-contrib
+
+https://xmonad.org/download.html
+
+http://hackage.haskell.org/package/xmonad
+http://hackage.haskell.org/package/xmonad-contrib
+
+https://xmonad.org/documentation.html
+https://xmonad.org/about.html
+https://xmonad.org/tour.html
+https://wiki.haskell.org/File:Xmbindings.png
+https://xmonad.org/community.html
+
+https://wiki.haskell.org/Xmonad/Config_archive
+http://hackage.haskell.org/package/xmonad-contrib-0.15/docs/XMonad-Doc-Extending.html
+
+https://wiki.haskell.org/Xmonad/xmonad_development_tutorial
+
+articles
+https://ro-che.info/docs/xmonad/
+
+presentations
+2017
+XMonad Demo
+    https://www.youtube.com/watch?v=70IxjLEmomg

@@ -1,5 +1,6 @@
 1.3
 https://blog.jetbrains.com/kotlin/2018/10/kotlin-1-3/
+    https://habr.com/company/JetBrains/blog/428291/
 https://www.infoq.com/news/2018/10/kotlin-1.3-rc
 https://blog.jetbrains.com/kotlin/2018/09/kotlin-1-3-rc-is-here-migrate-your-coroutines/
 https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-3-m2/
