@@ -1,8 +1,8 @@
-books:
+books
 https://doc.rust-lang.org/stable/book/second-edition/ch19-02-advanced-lifetimes.html
 https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
-articles:
+articles
 2018
 https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html
 https://mark-simulacrum.github.io/2018/07/19/inband-lifetimes.html
@@ -64,35 +64,6 @@ without the 'a parameter, Rust would not be able to distinguish between
         which may contain only `&'static str` (e.g. string literals) and
     BagOfStrings<'some_stack_scope>
         which may have `&str`'s pointing into a `String` on the stack  
-
-NLL (Non-lexical lifetimes)
-http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
-https://santiagopastorino.com/how-to-use-rust-non-lexical-lifetimes-on-nightly/
-    -Znll-dump-cause
-https://rust-lang.github.io/rfcs/2094-nll.html
-https://github.com/rust-lang/rfcs/blob/master/text/2094-nll.md
-
-https://github.com/rust-lang/rfcs/pull/2094
-https://github.com/rust-lang/rust/pull/45538
-
-https://github.com/rust-lang/rust/issues/44928
-    https://www.reddit.com/r/rust/comments/739n4u/nonlexical_lifetimes_rfc_was_just_merged/
-    https://www.reddit.com/r/rust/comments/73cehd/how_to_reason_about_nlls/
-https://github.com/nikomatsakis/nll-rfc/
-https://github.com/rust-lang/rust-roadmap/issues/16
-
-http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/
-http://smallcultfollowing.com/babysteps/blog/2016/05/09/non-lexical-lifetimes-adding-the-outlives-relation/
-http://smallcultfollowing.com/babysteps/blog/2017/02/21/non-lexical-lifetimes-using-liveness-and-location/
-http://smallcultfollowing.com/babysteps/blog/2017/03/01/nested-method-calls-via-two-phase-borrowing/
-http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/
-http://smallcultfollowing.com/babysteps/blog/2018/06/15/mir-based-borrow-check-nll-status-update/
-https://github.com/nikomatsakis/borrowck
-https://internals.rust-lang.org/t/non-lexical-lifetimes-based-on-liveness/3428
-
-https://www.reddit.com/r/rust/comments/6r730x/the_nonlexical_lifetimes_rfc_was_just_opened_up/
-https://www.reddit.com/r/rust/comments/7lq5t3/featurenll_available_in_nightly/
-
 
 ArgumentLifetimes:
 https://github.com/rust-lang/rfcs/blob/master/text/2115-argument-lifetimes.md
