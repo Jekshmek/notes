@@ -1,3 +1,6 @@
+2018
+Patil - Webapps in Go
+
 2017
 Ornbo - Go in 24 Hours
 Newmarch - Network Programming with Go

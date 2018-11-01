@@ -11,7 +11,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript-variables
 https://www.robinwieruch.de/react-render-props-pattern/
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Oct 31
+    Nov 1
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
