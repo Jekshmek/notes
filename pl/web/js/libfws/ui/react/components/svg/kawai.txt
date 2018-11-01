@@ -1,4 +1,5 @@
-https://miukimiu.github.io/react-kawaii/
+https://react-kawaii.now.sh/
+
 https://github.com/miukimiu/react-kawaii
 
 articles

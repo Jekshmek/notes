@@ -1,4 +1,5 @@
-2018
+https://usehooks.com/
+
 https://reactjs.org/docs/hooks-intro.html
 https://reactjs.org/docs/hooks-overview.html
 https://reactjs.org/docs/hooks-state.html
@@ -8,8 +9,21 @@ https://reactjs.org/docs/hooks-custom.html
 https://reactjs.org/docs/hooks-reference.html
 https://reactjs.org/docs/hooks-faq.html
 
+https://github.com/rehooks/awesome-react-hooks
+
+hook collection
+https://github.com/kitze/react-hanger
+    https://codesandbox.io/s/44m70xm70
+https://github.com/palmerhq/the-platform
+
+2018
+https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
+https://daveceddia.com/intro-to-hooks
+https://dev.to/kayis/react-hooks-demystified-2af6
+
 https://www.npmjs.com/package/eslint-plugin-react-hooks
 
+samples
 useState
 useContext
 useReducer

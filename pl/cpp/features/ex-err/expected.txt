@@ -1,0 +1,3 @@
+2018
+Alexandrescu - Expect the expected
+    https://www.youtube.com/watch?v=PH4WBuE1BHI

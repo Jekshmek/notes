@@ -1,6 +1,8 @@
 NLL (Non-lexical lifetimes)
+http://smallcultfollowing.com/babysteps/blog/2018/11/01/after-nll-interprocedural-conflicts/
 http://smallcultfollowing.com/babysteps/blog/2018/10/31/mir-based-borrowck-is-almost-here/
 http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
+http://smallcultfollowing.com/babysteps/blog/2018/04/24/rust-pattern-precise-closure-capture-clauses/
 https://santiagopastorino.com/how-to-use-rust-non-lexical-lifetimes-on-nightly/
     -Znll-dump-cause
 https://rust-lang.github.io/rfcs/2094-nll.html
