@@ -1,2 +1,4 @@
 2018
+https://habr.com/company/binarydistrict/blog/428255/
+    https://github.com/dkorobchenko-nv/transfer-learning-food
 http://ruder.io/transfer-learning/

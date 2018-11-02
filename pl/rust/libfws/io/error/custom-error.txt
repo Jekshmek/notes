@@ -1,0 +1,3 @@
+https://crates.io/crates/custom_error
+https://docs.rs/custom_error
+https://github.com/lovasoa/custom_error

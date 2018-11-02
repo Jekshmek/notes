@@ -1,0 +1,2 @@
+2018
+Stone - Algorithms for Functional Programming
