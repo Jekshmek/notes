@@ -1,4 +1,5 @@
 2018
+https://css-tricks.com/simple-named-grid-areas/
 https://medium.com/webbdev/grid-47c3076539c3
 https://proglib.io/p/css-grid/
 https://zellwk.com/blog/remember-css-grid-properties/

@@ -1,4 +1,6 @@
 2017
-https://habrahabr.ru/post/342106/
+https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0
+    https://habr.com/post/352994/
+https://habr.com/post/342106/
 Dunaev - Data Visualization using D3
-https://habrahabr.ru/company/oleg-bunin/blog/320874/
+https://habr.com/company/oleg-bunin/blog/320874/

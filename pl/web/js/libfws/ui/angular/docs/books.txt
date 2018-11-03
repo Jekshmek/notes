@@ -1,4 +1,5 @@
 2018
+Vuika - Developing With Angular
 Freeman - Pro Angular 6 3rd ed
 NinjaSquad - Become A Ninja With Angular (good starter!)
 Kunz - Mastring Angular Components 2nd ed
