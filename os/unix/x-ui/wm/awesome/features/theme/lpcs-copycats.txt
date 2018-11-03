@@ -1,0 +1,4 @@
+https://www.linux.org.ru/gallery/screenshots/13757632
+    https://github.com/lcpz/awesome-copycats/
+! barbuk - clone of lcpz copycats
+https://github.com/barbuk/awesome-copycats

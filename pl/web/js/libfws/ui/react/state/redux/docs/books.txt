@@ -10,3 +10,5 @@ https://rajdee.gitbooks.io/redux-in-russian/
 
 2018
 Garreau - Redux in Action
+2017
+Gelman - The Complete Redux Book
