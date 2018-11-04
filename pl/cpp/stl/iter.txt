@@ -3,5 +3,6 @@ Iterator Traits (7.5), traits, std::iterator<>
 http://en.cppreference.com/w/cpp/iterator
 
 2018
+https://infektor.net/posts/2018-11-03-iterators-what-must-be-done.html
 https://github.com/codereport/Cplusplus/blob/master/Iterators.cpp
 https://www.youtube.com/watch?v=yTi46Pb32qg

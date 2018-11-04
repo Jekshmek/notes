@@ -1,14 +1,10 @@
 URLs
-https://medium.com/webbdev/bind-18396622ddc4
-    3
-https://ru-bykov.livejournal.com/3593612.html
 https://ru-bykov.livejournal.com/3592193.html
 https://ru-bykov.livejournal.com/3591995.html
     2
-https://nixos.org/releases/nix/latest/manual/#sec-profiles
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
-https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-import-export-statements
+https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-libraries
 https://www.robinwieruch.de/react-render-props-pattern/
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
@@ -99,6 +95,7 @@ https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-pre
 https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
 https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
+https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
 
 Tracking
 This week in rust                                   - 258

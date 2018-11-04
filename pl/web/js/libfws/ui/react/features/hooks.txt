@@ -17,6 +17,7 @@ https://github.com/kitze/react-hanger
 https://github.com/palmerhq/the-platform
 
 2018
+https://scotch.io/tutorials/getting-started-with-react-hooks
 https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
     https://habr.com/company/piter/blog/428632/
 https://daveceddia.com/intro-to-hooks
