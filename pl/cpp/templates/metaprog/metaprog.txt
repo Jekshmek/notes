@@ -1,7 +1,3 @@
-Picus - Cpp Metaprogramming
-https://www.reddit.com/r/cpp/comments/3pjosp/cppcon_2015_fedor_pikus_c_metaprogramming_journey/
-https://www.youtube.com/watch?v=CZi6QqZSbFg
-https://github.com/CppCon/CppCon2015/tree/master/Presentations/C%2B%2B%20Metaprogramming
 
 Joren Heit - TMPP: Template Metaprogramming Programming
 http://www.codeproject.com/Articles/650289/TMPP-Template-Metaprogramming-Programming
@@ -23,6 +19,3 @@ http://abel.web.elte.hu/mpllibs/metamonad/manual.html
 FP With Cpp Template Metaprograms:
 Implementing Monads for Cpp Template Metaprograms:
 http://aszt.inf.elte.hu/~gsd/s/cikkek/abel/metamonad.pdf
-
-Reggie Meisler - Practical Meta-programming
-http://www.slideshare.net/ReggieM/practical-meta-programming

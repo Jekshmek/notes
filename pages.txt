@@ -12,7 +12,7 @@ https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-im
 https://www.robinwieruch.de/react-render-props-pattern/
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 3
+    Nov 4
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 

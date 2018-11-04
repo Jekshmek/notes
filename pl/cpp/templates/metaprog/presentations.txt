@@ -1,0 +1,12 @@
+2016
+Dionne - C++ Metaprogramming: evolution and future direction
+    https://www.youtube.com/watch?v=X_p9X5RzBJE
+
+????
+Picus - Cpp Metaprogramming
+https://www.reddit.com/r/cpp/comments/3pjosp/cppcon_2015_fedor_pikus_c_metaprogramming_journey/
+https://www.youtube.com/watch?v=CZi6QqZSbFg
+https://github.com/CppCon/CppCon2015/tree/master/Presentations/C%2B%2B%20Metaprogramming
+
+Reggie Meisler - Practical Meta-programming
+http://www.slideshare.net/ReggieM/practical-meta-programming

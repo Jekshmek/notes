@@ -3,6 +3,9 @@ https://www.linux.org.ru/tag/awesome?section=3
 https://github.com/awesomeWM/awesome/issues/1395
 https://www.deviantart.com/tag/awesomewm
 http://dotshare.it/category/wms/awesome/
+https://github.com/topics/awesome-wm-configuration?s=updated
+https://github.com/topics/awesome-wm?s=updated
+https://github.com/topics/awesomewm
 
 2018
 ! elenapan - mac-os like
