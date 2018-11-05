@@ -5,3 +5,6 @@ https://github.com/plotly/react-plotly.js
 
 types
 https://plot.ly/javascript/line-charts/
+
+2018
+https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e

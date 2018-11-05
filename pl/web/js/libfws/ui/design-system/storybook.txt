@@ -6,3 +6,6 @@ https://github.com/storybooks/storybook
 articles
 2017
 https://medium.com/storybookjs/the-storybook-story-dd3c1ab0d2ce
+
+whatsnew
+https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de
