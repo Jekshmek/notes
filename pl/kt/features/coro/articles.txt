@@ -1,4 +1,5 @@
 2018
+https://kotlinexpertise.com/kotlin-coroutines-concurrency/
 https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761
 https://medium.com/@elizarov/futures-cancellation-and-coroutines-b5ce9c3ede3a
 https://nuancesprog.ru/p/2149/

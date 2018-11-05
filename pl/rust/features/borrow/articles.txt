@@ -1,6 +1,7 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 2018
+https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html
 https://phaazon.net/blog/on-owning-borrowing-pub-interface
 https://medium.com/@thomascountz/ownership-in-rust-part-2-c3e1da89956e
 https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b
