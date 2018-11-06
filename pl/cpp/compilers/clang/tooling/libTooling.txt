@@ -7,3 +7,7 @@ https://www.packtpub.com/mapt/book/application_development/9781782166924/10
 
 https://github.com/kevinaboos/LibToolingExample
 https://github.com/facebook/facebook-clang-plugins/tree/master/libtooling
+
+2018
+Bennett - Refactoring Legacy Codebases with LibTooling
+    https://www.youtube.com/watch?v=tUBUqJSGr54
