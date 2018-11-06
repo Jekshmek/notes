@@ -1,0 +1,2 @@
+https://goreleaser.com/
+https://github.com/goreleaser/goreleaser

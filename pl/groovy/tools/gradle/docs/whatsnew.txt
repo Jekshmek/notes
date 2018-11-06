@@ -1,5 +1,8 @@
 https://github.com/gradle/gradle/releases
 
+5.x
+https://docs.gradle.org/5.0-rc-1/release-notes.html#
+
 4.x
 https://docs.gradle.org/4.7/release-notes.html
 https://www.infoq.com/news/2018/05/gradle-releases-version-4.7
