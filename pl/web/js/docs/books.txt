@@ -1,4 +1,5 @@
 http://books.goalkicker.com/JavaScriptBook/
+http://exploringjs.com/impatient-js/toc.html
 
 https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks

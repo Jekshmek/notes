@@ -11,4 +11,5 @@ Kalb - Learn to Program with Python 3 2nd ed
 Molina - Modern Python Standard Library Cookbook
 
 2017
+Rother - Pro Python Best Practices
 Briggs - Python for Kids ru

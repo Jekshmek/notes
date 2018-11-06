@@ -1,3 +1,5 @@
+https://docs.python.org/3/library/typing.html
+
 PEPs
 https://www.python.org/dev/peps/pep-0484/
 https://www.python.org/dev/peps/pep-0526/

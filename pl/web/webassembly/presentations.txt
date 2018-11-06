@@ -1,6 +1,8 @@
 Coding Tech - WebAssembly
 https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
 2018
+Haas - WebAssembly Disentangled
+    https://www.youtube.com/watch?v=OekKui_QOpU
 CodingTech - Disrupting JavaScript
     https://www.youtube.com/watch?v=7mBf3Gig9io
 https://nxxm.github.io/cppcon2018/CPP_EVERYWHERE_WITH_WASM.html#/

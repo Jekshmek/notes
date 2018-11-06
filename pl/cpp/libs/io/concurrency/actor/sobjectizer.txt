@@ -11,6 +11,7 @@ http://eao197.blogspot.com/2018/06/progthoughts-sobjectizer-zeromq.html
 
 presentations
 2018
+https://www.slideshare.net/YauheniAkhotnikau/c-corehard-autumn-2018-actors-vs-csp-vs-task
 https://www.slideshare.net/YauheniAkhotnikau/c-st-petersburg-c-user-group-meetup-aug-2018
     https://www.youtube.com/watch?v=c1qSVSHoMjU
 

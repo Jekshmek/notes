@@ -1,12 +1,13 @@
+https://pptr.dev/
 https://developers.google.com/web/tools/puppeteer/
 https://try-puppeteer.appspot.com/
 https://pptraas.com/
+
 https://github.com/GoogleChrome/puppeteer
+
 https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md
 https://developers.google.com/web/tools/puppeteer/get-started
 https://github.com/GoogleChromeLabs/puppeteer-examples
-
-https://developers.google.com/web/updates/2017/04/headless-chrome
 
 https://www.npmjs.com/package/chrome-remote-interface
 https://github.com/cyrus-and/chrome-remote-interface
@@ -23,22 +24,3 @@ https://github.com/GoogleChromeLabs/first-input-delay
 https://developers.google.com/web/updates/2018/05/first-input-delay
 
 https://github.com/checkly/puppeteer-recorder
-
-presentations
-2018
-Slobodin - How Headless Chrome works
-https://habr.com/company/oleg-bunin/blog/421137/
-https://www.youtube.com/watch?v=WPcahL2K27w
-Viziyanov - Autostop to Puppeteer ru
-https://www.youtube.com/watch?v=iw7XM5EBbGs
-google io - The power of Headless Chrome and browser automation
-https://www.youtube.com/watch?v=lhZOFUY1weo
-holly js - Slobodin - Headless browsers
-https://www.youtube.com/watch?v=kkP0PFeRJdQ
-https://assets.ctfassets.net/nn534z2fqr9f/M5ZEXvLMWsk4UcuQs0gCY/30ae2e789a4a3ab5887bccdd3c989727/Slobodin_Headless_Browsers.pdf
-
-articles
-2018
-https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59
-https://docs.browserless.io/blog/2018/06/04/puppeteer-best-practices.html
-    https://habr.com/post/413547/
