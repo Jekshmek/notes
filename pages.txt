@@ -4,11 +4,10 @@ https://ru-bykov.livejournal.com/3591995.html
     rus cubes
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
-https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-javascript-learn
 https://www.robinwieruch.de/react-render-props-pattern/
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 6
+    Nov 7
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
