@@ -4,6 +4,9 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 
 lifetime
+Gehre - Implementing the C++ Core Guidelines’ Lifetime Safety Profile in Clang
+    https://www.youtube.com/watch?v=sjnp3P9x5jA
+    https://github.com/CppCon/CppCon2018/blob/master/Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf
 Sutter - Thoughts on a more powerful and simpler C++ (5 of N)
 https://www.youtube.com/watch?v=80BZxujhY38
     https://habr.com/post/425873/
@@ -33,3 +36,7 @@ https://www.reddit.com/r/cpp/comments/8zle4k/current_state_of_the_lifetime_check
 https://github.com/duneroadrunner/misc/blob/master/lifetime%20checker%20observations%20-%20Jun%202018.md
 https://github.com/duneroadrunner/misc/blob/master/201/8/Jul/implications%20of%20the%20lifetime%20checker%20restrictions.md
 https://reviews.llvm.org/D15032
+
+samples
+[[gsl::lifetime(a, b)]]
+...
