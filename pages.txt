@@ -5,9 +5,10 @@ https://ru-bykov.livejournal.com/3591995.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/react-render-props-pattern/
+    Just render them within the Component
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 7
+    Nov 8
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -113,7 +114,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 644.0 (of 767)
+Kantor - Imperiya nauznanku                         - 651.3 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

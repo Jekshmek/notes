@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/otus/blog/428449/
 https://dzone.com/articles/compact-strings-in-java-9
     https://habr.com/company/otus/blog/426621/
 https://habr.com/post/424539/
