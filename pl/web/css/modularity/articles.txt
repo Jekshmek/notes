@@ -1,4 +1,5 @@
 2018
+https://snipcart.com/blog/organize-css-modular-architecture
 https://medium.com/openmindonline/state-of-the-art-in-css-a-closer-look-at-css-architecture-systems-544339a6c625
     http://jem-space.ru/urovien-razvitiia-v-css-pristalnyi-vzghliad-na-css-arkhitiektury/
 
