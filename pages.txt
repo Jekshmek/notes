@@ -22,9 +22,10 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Reinhold                                            - 1:25:40 (of 1:37:19)
-    https://www.youtube.com/watch?v=nKJbDYRsO0s
-    https://www.infoq.com/news/2018/10/codeone-java-keynote
+Mission                                             -   26:00 (of 48:20)
+    https://www.youtube.com/watch?v=WCMsYrCJDvc
+Osipov                                              -   14:00 (of 50:28)
+    https://www.youtube.com/watch?v=CqWJRn2_914
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
     https://www.youtube.com/watch?v=bFSnXNIsK4A
 Kurginyan - 2018
@@ -48,12 +49,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   01:00 (of 1:44:27)
-    https://cdn.echo.msk.ru/snd/2018-11-02-odin-0005.mp3
-Bykov - Money                                       -   18:00 (of 1:33:11)
+Bykov - Money                                       -   23:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
-Schipkov
-    https://www.youtube.com/watch?v=pbwEdzQqTAI
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -67,18 +64,18 @@ Paschenko - Game 2 - 19                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-09                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 49                                      -   00:00 (of)
+Sorokin - B 50                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 25 of 34                                 -   58:00 (of 2:08:34)
+Chernyak - 25 of 34                                 - 1:05:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Dyagileva                                           -   32:00 (of 1:00:16)
+Dyagileva                                           -   41:00 (of 1:00:16)
     https://predanie.ru/dyagileva-lyubov/chto-mozhno-nelzya-tvoemu-rebenku-i-kto-za-eto-otvechaet/slushat/
-Gertsev                                             -   37:00 (of 1:35:01)
+Gertsev                                             - 1:30:00 (of 1:35:01)
     https://predanie.ru/gercev-igor/chetyre-shaga-k-novoy-rabote-kak-nayti-prizvanie-i-obyazatelno-li-menyat-pri-etom-professiyu/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -100,6 +97,7 @@ https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
 https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
 https://predanie.ru/bez-avtora/otkrytyy-vzglyad-na-bezdomnyh-lyudey/slushat/
+https://predanie.ru/bez-avtora/fenomen-vlasti-istoriya-i-sovremennost/slushat/
 
 Tracking
 This week in rust                                   - 258
