@@ -1,3 +1,7 @@
+TBD
+    scoop tortoisesvn
+        https://github.com/lukesampson/scoop-extras/issues/1395
+
 URLs
 https://ru-bykov.livejournal.com/3592193.html
 https://ru-bykov.livejournal.com/3591995.html
@@ -8,7 +12,7 @@ https://www.robinwieruch.de/react-render-props-pattern/
     Just render them within the Component
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 8
+    Nov 9
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
