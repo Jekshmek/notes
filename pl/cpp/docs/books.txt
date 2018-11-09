@@ -1,4 +1,5 @@
-http://goalkicker.com/CPlusPlusBook/
+Cpp Notes for Professionals
+    http://goalkicker.com/CPlusPlusBook/
 
 ds
 Weiss - Data Structures and Algorithms in Cpp 4th ed

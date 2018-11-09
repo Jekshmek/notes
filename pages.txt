@@ -9,7 +9,7 @@ https://ru-bykov.livejournal.com/3591995.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://www.robinwieruch.de/react-render-props-pattern/
-    Just render them within the Component
+    Component composition with children prop
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Nov 9
@@ -49,6 +49,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
+Bykov - Single                                      -   23:00 (of 1:47:19)
+    https://cdn.echo.msk.ru/snd/2018-11-09-odin-0005.mp3
 Bykov - Money                                       -   23:00 (of 1:33:11)
     https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Volkova Rome                                        -   06:00 (of 1:32:09)
@@ -70,13 +72,11 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 25 of 34                                 - 1:05:00 (of 2:08:34)
+Chernyak - 25 of 34                                 - 1:18:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Dyagileva                                           -   41:00 (of 1:00:16)
+Dyagileva                                           -   50:00 (of 1:00:16)
     https://predanie.ru/dyagileva-lyubov/chto-mozhno-nelzya-tvoemu-rebenku-i-kto-za-eto-otvechaet/slushat/
-Gertsev                                             - 1:30:00 (of 1:35:01)
-    https://predanie.ru/gercev-igor/chetyre-shaga-k-novoy-rabote-kak-nayti-prizvanie-i-obyazatelno-li-menyat-pri-etom-professiyu/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
