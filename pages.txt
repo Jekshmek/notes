@@ -22,8 +22,6 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Mission                                             -   26:00 (of 48:20)
-    https://www.youtube.com/watch?v=WCMsYrCJDvc
 Osipov                                              -   14:00 (of 50:28)
     https://www.youtube.com/watch?v=CqWJRn2_914
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
@@ -49,10 +47,8 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   23:00 (of 1:47:19)
+Bykov - Single                                      -   38:00 (of 1:47:19)
     https://cdn.echo.msk.ru/snd/2018-11-09-odin-0005.mp3
-Bykov - Money                                       -   23:00 (of 1:33:11)
-    https://yadi.sk/d/mx_Qt5TA-Sjq3g
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
