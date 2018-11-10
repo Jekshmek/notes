@@ -19,6 +19,7 @@ https://umaar.com/dev-tips/
 articles
 2018
 https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools-(part-2)
+    http://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-2.html
 https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools
     http://css-live.ru/faq/prokachivaem-navyki-otladki-s-pomoshhyu-instrumentov-razrabotchika-chrome-chast-1.html
 https://www.offerzen.com/blog/debugging-with-chrome-devtools-quick-front-end-fixes

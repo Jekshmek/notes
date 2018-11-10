@@ -21,5 +21,7 @@ Note: a lot of yield syntax with distinct semantics
 
 presentations
 2018
+CodingTech - A Story of Generator
+    https://www.youtube.com/watch?v=WkWIGEOydkQ
 CodingTech - Python Generators
-https://www.youtube.com/watch?v=XEn_99daJro
+    https://www.youtube.com/watch?v=XEn_99daJro
