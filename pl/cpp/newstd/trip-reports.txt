@@ -1,1 +1,3 @@
+2018
+https://hackmd.io/s/H19sHNB67#
 https://www.reddit.com/r/cpp/comments/9vwvbz/2018_san_diego_iso_c_committee_trip_report_ranges/
