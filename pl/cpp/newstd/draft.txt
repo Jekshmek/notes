@@ -1,0 +1,3 @@
+http://eel.is/c++draft
+
+http://eel.is/c++draft/container.requirements#dataraces
