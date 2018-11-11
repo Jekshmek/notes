@@ -7,9 +7,10 @@ https://ru-bykov.livejournal.com/3607917.html
 https://ru-bykov.livejournal.com/3607773.html
     Marusya 2
 https://ru-bykov.livejournal.com/3592193.html
-    begin
+    Napoleon
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
+http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#root-of-the-problem-panics
 https://www.robinwieruch.de/react-render-props-pattern/
     Render Prop Component Alternative: Higher-Order Component
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
