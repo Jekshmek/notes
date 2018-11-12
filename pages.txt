@@ -1,7 +1,3 @@
-TBD
-    scoop tortoisesvn
-        https://github.com/lukesampson/scoop-extras/issues/1395
-
 URLs
 https://ru-bykov.livejournal.com/3607917.html
 https://ru-bykov.livejournal.com/3607773.html
@@ -47,7 +43,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   38:00 (of 1:47:19)
+Bykov - Single                                      - 1:23:00 (of 1:47:19)
     https://cdn.echo.msk.ru/snd/2018-11-09-odin-0005.mp3
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
@@ -60,7 +56,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 19                             -   00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-09                                       -   00:00 (of)
+Ivliev - 2-10                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
 Sorokin - B 50                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/

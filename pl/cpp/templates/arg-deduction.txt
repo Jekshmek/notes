@@ -1,1 +1,6 @@
+2018
+Lavavej - Class Template Argument Deduction for Everyone
+    https://www.youtube.com/watch?v=-H-ut6j1BYU
+    https://github.com/CppCon/CppCon2018/blob/master/Presentations/class_template_argument_deduction_for_everyone/class_template_argument_deduction_for_everyone__stephan_t_lavavej__cppcon_2018.pdf
+2017
 https://arne-mertz.de/2017/06/class-template-argument-deduction/
