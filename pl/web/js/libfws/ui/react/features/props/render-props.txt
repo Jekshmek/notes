@@ -5,8 +5,12 @@ https://github.com/the-road-to-learn-react/react-slot-pattern-example
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://tylermcginnis.com/react-render-props
 https://www.robinwieruch.de/react-render-props-pattern/
+    https://www.robinwieruch.de/react-state-without-constructor/
+    https://github.com/the-road-to-learn-react/react-children-as-a-function-example
 https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e
     https://habr.com/post/418863/
+https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
+https://www.richardkotze.com/coding/hoc-vs-render-props-react
 2017
 https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce
 

@@ -1,6 +1,8 @@
 https://medium.com/web-standards/regarding-broken-promise-of-web-components-385d63de4959
 
 2018
+Dan Abramov - critique
+    https://dev.to/dan_abramov/comment/6kdc
 https://habr.com/post/422499/
 https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/
 https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/

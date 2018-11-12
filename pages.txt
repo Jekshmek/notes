@@ -11,11 +11,8 @@ https://ru-bykov.livejournal.com/3592193.html
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#root-of-the-problem-panics
-https://www.robinwieruch.de/react-render-props-pattern/
-    Render Prop Component Alternative: Higher-Order Component
-https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 11
+    Nov 12
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
@@ -115,7 +112,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Imperiya nauznanku                         - 670.9 (of 767)
+Kantor - Imperiya nauznanku                         - 680.7 (of 767)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
