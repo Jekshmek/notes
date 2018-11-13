@@ -1,4 +1,6 @@
 2018
+McMillan - Designing for Efficient Cache Usage
+    https://www.youtube.com/watch?v=3-ityWN-FdE
 https://habr.com/post/354748/
 2017
 https://fuzzyreflection.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/

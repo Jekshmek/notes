@@ -8,6 +8,8 @@ https://nuxtjs.org/guide
 
 articles
 2018
+https://habr.com/company/umbrellaitcom/blog/429756/
+https://habr.com/company/umbrellaitcom/blog/425053/
 https://www.telerik.com/blogs/getting-started-with-nuxtjs
 https://www.infoq.com/news/2018/01/universal-vue-framework-nuxt-js
 2017

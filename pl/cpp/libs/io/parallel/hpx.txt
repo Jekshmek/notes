@@ -1,0 +1,5 @@
+http://stellar-group.org/libraries/hpx/
+https://github.com/STEllAR-GROUP/hpx
+
+2018
+http://stellar-group.org/2018/11/hpx-1-2-0-released/
