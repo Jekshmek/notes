@@ -1,3 +1,12 @@
+2018
+Spring Boot 2.0 Web Applications
+    https://www.youtube.com/watch?v=6a1F4PWOYiM
+Hale - Reactive Relational Database Connectivity
+    https://www.youtube.com/watch?v=idApf9DMdfkI
+Georgieva - Reactor Netty, the Default Spring Boot 2.0 Runtime
+    https://www.youtube.com/watch?v=flzWgXmynaA
+Guide to "Reactive" for Spring MVC Developers
+    https://www.youtube.com/watch?v=IZ2SoXUiS7M
 2017
 Dokuka - Refactor to Reactive with Spring 5 and Project Reactor
     https://www.youtube.com/watch?v=0vKCib_hI2g

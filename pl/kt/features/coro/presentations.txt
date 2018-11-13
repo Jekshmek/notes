@@ -1,4 +1,6 @@
 2018
+Kaminski - Asynchronous Programming with Kotlin Coroutines in Spring
+    https://www.youtube.com/watch?v=aG4ArTL8KHY
 Elizarov - Kotlin Coroutines in Practice
     https://www.youtube.com/watch?v=a3agLJQ6vt8
 

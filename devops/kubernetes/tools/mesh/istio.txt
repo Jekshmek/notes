@@ -10,6 +10,8 @@ https://istio.io/docs/concepts/traffic-management/pilot.html
 
 presentations
 2018
+Tsang - Reducing Microservices Architecture Complexity with Istio and Kubernetes
+    https://www.youtube.com/watch?v=k42jqkjtYKY
 Craig Box — Managing your microservices with Kubernetes and Istio
     https://www.youtube.com/watch?v=RnBXQpo6Mjs
     https://habr.com/company/jugru/blog/423011/

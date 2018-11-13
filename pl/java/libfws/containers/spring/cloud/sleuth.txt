@@ -3,4 +3,8 @@ https://cloud.spring.io/spring-cloud-sleuth/spring-cloud-sleuth.html
 
 presentations
 2018
+Observability with Spring-Based Distributed Systems
+    https://www.youtube.com/watch?v=PM0mO4IxpSE
+How Sleuth Bravely Cracked the Case of "Too Much to Code"
+    https://www.youtube.com/watch?v=6o9zPMiM6F0
 https://www.infoq.com/presentations/distributed-tracing-spring-cloud-zipkin

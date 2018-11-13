@@ -1,16 +1,17 @@
 2018
+What's New in Reactor "Californium"
+    https://www.youtube.com/watch?v=szEHXgWeF3Q
 Maldini - Project Reactor - Now and Tomorrow
-https://www.infoq.com/presentations/spring-reactor
+    https://www.infoq.com/presentations/spring-reactor
 Hale - Designing Implementing and Using Reactive APIs
-https://www.infoq.com/presentations/cloud-foundry-reactive-api
+    https://www.infoq.com/presentations/cloud-foundry-reactive-api
 Grazi - Reactor in Action
-https://www.infoq.com/presentations/reactor-demo
+    https://www.infoq.com/presentations/reactor-demo
 
 2017
 Stoyanchev - ServletVsReactiveStacksIn5UseCases
-https://www.infoq.com/presentations/servlet-reactive-stack
+    https://www.infoq.com/presentations/servlet-reactive-stack
 Gorelikov - Reactive System Design
-https://www.youtube.com/watch?v=tjp8pTOyiWg
-
+    https://www.youtube.com/watch?v=tjp8pTOyiWg
 Long - Reactive Spring
-https://www.youtube.com/watch?v=zVNIZXf4BG8
+    https://www.youtube.com/watch?v=zVNIZXf4BG8

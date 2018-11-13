@@ -11,6 +11,8 @@ http://rsocket.io/docs/Motivations
 http://rsocket.io/docs/Protocol.html
 
 2018
+Multi-Service Reactive Streams Using Spring, Reactor, and RSocket
+    https://www.youtube.com/watch?v=e-N4BchYXws
 https://www.infoq.com/presentations/reactive-streams-rsocket
 https://www.infoq.com/news/2018/10/rsocket-facebook
 https://www.infoq.com/articles/give-rest-a-rest-rsocket

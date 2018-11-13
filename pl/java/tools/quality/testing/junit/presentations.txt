@@ -1,6 +1,8 @@
 2018
+JUnit 5: the Next Step in Automated Testing
+    https://www.youtube.com/watch?v=K7g2HUhWbNE
 Brannen - JUnit 5 — New Opportunities for Testing on the JVM
-https://www.infoq.com/presentations/junit-5-demo
+    https://www.infoq.com/presentations/junit-5-demo
 2017
 Philipp, Brannen - JUnit 5 - The New Testing Framework for Java and Platform for the JVM
-https://www.youtube.com/watch?v=oGaatK5ShUs
+    https://www.youtube.com/watch?v=oGaatK5ShUs
