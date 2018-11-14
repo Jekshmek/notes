@@ -1,4 +1,5 @@
 http://arrow-kt.io/
+https://tinycards.duolingo.com/collections/W1aS1cV/arrow-kt-functional-programming-for-kotlin
 
 course
 https://caster.io/courses/functional-programming-in-kotlin-with-arrow

@@ -1,13 +1,6 @@
 Cpp Notes for Professionals
     http://goalkicker.com/CPlusPlusBook/
 
-ds
-Weiss - Data Structures and Algorithms in Cpp 4th ed
-
-concurrency
-2018
-Williams - Cpp Concurrency in Action 2nd ed
-
 2018
 Vandervoorde - Cpp Templates The Complete Guide 2nd ed
 Pikus - Hands-On Design Patterns with Cpp (incomplete)
@@ -16,3 +9,14 @@ Swaminathan - Expert C++ Programming
 Horton - Beginning Cpp17 5th ed
 Gregorie - Professional Cpp 4th ed
 Nesteruk - Design Patterns in Cpp
+
+Children
+2018
+Spraun - Think Like a Programmer ru
+
+ds
+Weiss - Data Structures and Algorithms in Cpp 4th ed
+
+concurrency
+2018
+Williams - Cpp Concurrency in Action 2nd ed

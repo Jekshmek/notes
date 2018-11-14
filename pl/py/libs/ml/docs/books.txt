@@ -1,3 +1,4 @@
 2018
+McKinney - Python for Data Analysis 2nd ed
 Nelli - Python Data Analytics 2nd ed
 Galea - Applied Deep Learning with Python

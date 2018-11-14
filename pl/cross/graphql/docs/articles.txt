@@ -3,6 +3,7 @@ https://facebook.github.io/relay/docs/thinking-in-graphql.html
 https://www.howtographql.com/
 
 2018
+https://scotch.io/tutorials/graphql-the-good-and-the-bad
 Wieruch - ...
     https://www.robinwieruch.de/getting-started-github-graphql-api/
     https://www.robinwieruch.de/react-with-graphql-tutorial/
