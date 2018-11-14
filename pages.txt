@@ -1,10 +1,8 @@
 URLs
-https://dzone.com/articles/java-patterns-for-concurrency
-https://blog.predanie.ru/article/konstantinopol-i-problema-nedogovorosposobnosti/
 https://ru-bykov.livejournal.com/3607917.html
     Marusya 5
 https://ru-bykov.livejournal.com/3592193.html
-    Napoleon
+    Dachnoe chtenie
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#a-more-robust-sentinel
@@ -19,7 +17,7 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Osipov                                              -   14:00 (of 50:28)
+Osipov                                              -   23:00 (of 50:28)
     https://www.youtube.com/watch?v=CqWJRn2_914
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
     https://www.youtube.com/watch?v=bFSnXNIsK4A
@@ -57,21 +55,19 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 19                             - 1:03:00 (of 2:03:47)
+Paschenko - Game 2 - 20a                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-10                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 50                                      -   00:00 (of)
+Sorokin - B 51                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 25 of 34                                 - 1:18:00 (of 2:08:34)
+Chernyak - 25 of 34                                 - 1:40:00 (of 2:08:34)
     https://www.youtube.com/watch?v=WT1mJZt3QIE
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Dyagileva                                           -   54:00 (of 1:00:16)
-    https://predanie.ru/dyagileva-lyubov/chto-mozhno-nelzya-tvoemu-rebenku-i-kto-za-eto-otvechaet/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
