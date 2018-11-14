@@ -1,7 +1,7 @@
 2004
 Raihmist - Zadachnik po Matematike
     1.
-        042
+        041,42
         061,63
         071,72
         081,89

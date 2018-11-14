@@ -4,6 +4,7 @@ https://www.youtube.com/playlist?list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB
 https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html
 
 2018
+https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184
 https://habr.com/company/jugru/blog/416161/
 https://dzone.com/articles/a-beginners-guide-to-kubernetes
 https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes
