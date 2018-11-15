@@ -3,6 +3,10 @@ https://github.com/rust-lang-nursery/wg-verification
 https://www.cs.washington.edu/tr/2015/03/UW-CSE-15-03-02.pdf
 
 2018
+Weiss - Rust Distilled: An Expressive Tower of Languages
+    https://www.youtube.com/watch?v=SFPTxWH-PgY
+    http://www.ccs.neu.edu/home/amal/papers/rustdistilled.pdf
+    https://arxiv.org/abs/1806.02693
 KRust - ... executable semantics
 https://arxiv.org/abs/1804.10806
 https://internals.rust-lang.org/t/announcing-the-formal-verification-working-group/7240
