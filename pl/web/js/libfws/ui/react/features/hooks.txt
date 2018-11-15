@@ -18,6 +18,7 @@ https://github.com/palmerhq/the-platform
 https://nikgraf.github.io/react-hooks/
 
 2018
+https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af
 https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/
     https://habr.com/post/429712/
 https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349

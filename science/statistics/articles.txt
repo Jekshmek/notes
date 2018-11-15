@@ -1,3 +1,5 @@
 2018
+https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+    https://nuancesprog.ru/p/2479/
 MathOps - a lot of practical stuff
-https://habr.com/company/okmeter/blog/350666/
+    https://habr.com/company/okmeter/blog/350666/

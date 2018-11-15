@@ -1,11 +1,9 @@
 URLs
-https://ru-bykov.livejournal.com/3616690.html
-
 https://ru-bykov.livejournal.com/3592193.html
     sovremennost
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
-http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#a-more-robust-sentinel
+http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#observation-most-collections-do-not-allocate-when-empty
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Nov 15
 Shalyto - motivation - 018 of 873p
