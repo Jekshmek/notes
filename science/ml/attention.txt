@@ -1,0 +1,7 @@
+2018
+Attention Is All You Need
+    https://www.youtube.com/watch?v=iDulhoQ2pro
+    https://arxiv.org/abs/1706.03762
+
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W-2AUeK-mUk
