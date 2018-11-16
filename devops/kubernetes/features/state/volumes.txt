@@ -4,3 +4,6 @@ persistent
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 https://www.youtube.com/watch?v=E8uGIeiaaUQ
 https://kubernetes.io/blog/2018/07/12/resizing-persistent-volumes-using-kubernetes/
+
+https://github.com/IntelAI/vck
+    https://ai.intel.com/kubernetes-volume-controller-kvc-data-management-tailored-for-machine-learning-workloads-in-kubernetes/
