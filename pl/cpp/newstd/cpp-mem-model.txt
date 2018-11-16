@@ -6,3 +6,8 @@ The compiler (by default) does not about our shared memory locations.
 https://davmac.wordpress.com/2018/04/03/understanding-the-c-c-memory-model-part-2/
 Tony van Eerd - C++ Memory Model & Lock-Free Programming
     https://www.youtube.com/watch?v=14ntPfyNaKE
+
+2014
+Ziegler - C++ Memory Model
+    https://www.think-cell.com/en/career/talks/pdf/think-cell_talk_memorymodel.pdf
+    https://www.youtube.com/watch?v=gpsz8sc6mNU

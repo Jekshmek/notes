@@ -85,7 +85,6 @@ https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-pre
 https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
 https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
-https://predanie.ru/bez-avtora/fenomen-vlasti-istoriya-i-sovremennost/slushat/
 
 Tracking
 This week in rust                                   - 260
