@@ -5,3 +5,19 @@ Attention Is All You Need
 
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
 https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W-2AUeK-mUk
+https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
+
+BERT
+https://github.com/google-research/bert/
+https://arxiv.org/abs/1810.04805
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+https://www.reddit.com/r/MachineLearning/comments/9nfqxz/r_bert_pretraining_of_deep_bidirectional/
+
+seq2seq
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+LSTMs
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/

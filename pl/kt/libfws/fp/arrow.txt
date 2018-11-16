@@ -18,6 +18,7 @@ http://arrow-kt.io/docs/quickstart/projects/
 http://arrow-kt.io/docs/quickstart/blogs/
 
 2018
+https://lordraydenmk.github.io/2018/functional-hangman-in-kotlin-with-arrow/
 http://www.pacoworks.com/2018/01/15/arrow-functional-companion-to-kotlin-standard-library/
 https://www.47deg.com/blog/announcing-arrow-for-kotlin/
 https://speakerdeck.com/pakoito/state-of-the-functional-ecosystem-in-kotlin-mid-2018-checkup

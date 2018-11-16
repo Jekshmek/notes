@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/southbridge/blog/429340/
 https://habr.com/company/flant/blog/423239/
 https://dzone.com/articles/the-art-of-the-helm-chart-patterns-from-the-offici
 https://habr.com/company/flant/blog/420437/

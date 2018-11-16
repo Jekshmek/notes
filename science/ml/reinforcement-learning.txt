@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/X5RetailGroup/blog/430112/
 https://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html
     https://habr.com/post/427847/
 http://pusheen-machine.com/reinforcement-learning-an-introduction/

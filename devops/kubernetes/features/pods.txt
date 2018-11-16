@@ -12,3 +12,7 @@ spec:
       command:
       - sleep
       - "60"
+
+2018
+https://medium.com/@dominik.tornow/what-the-hell-is-a-pod-anyways-72e5534b892c
+    https://habr.com/company/flant/blog/427819/
