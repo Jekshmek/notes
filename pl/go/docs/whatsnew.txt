@@ -1,4 +1,6 @@
 2.x
+Rob Pike - Go 2 Draft Specifications
+    https://www.youtube.com/watch?v=RIvL2ONhFBI
 https://blog.golang.org/go2draft
     https://www.youtube.com/watch?v=6wIP3rO6On8
 https://go.googlesource.com/proposal/+/master/design/go2draft.md

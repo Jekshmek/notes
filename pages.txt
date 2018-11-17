@@ -5,7 +5,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/#observation-most-collections-do-not-allocate-when-empty
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 15
+    Nov 17
 Shalyto - motivation - 018 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
