@@ -3,6 +3,7 @@ https://frontarm.com/toolbox/promises-async-await-cheatsheet/
 https://github.com/frontarm/async-javascript-cheatsheet
 
 2018
+https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc
 https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/
 http://telegra.ph/Konstrukciya-asyncawait-v-JavaScript-08-02
 https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda
