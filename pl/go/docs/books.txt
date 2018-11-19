@@ -1,4 +1,5 @@
 2018
+Youngman - Get Programming with Go
 Patil - Webapps in Go
 Schaaf - Production Go
 
