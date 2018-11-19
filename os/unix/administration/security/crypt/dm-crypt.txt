@@ -1,4 +1,10 @@
 https://wiki.archlinux.org/index.php/Dm-crypt
 https://wiki.archlinux.org/index.php/Dm-crypt/Device_encryption
+
+https://en.wikipedia.org/wiki/Dm-crypt
+https://wiki.gentoo.org/wiki/Dm-crypt
+    https://wiki.gentoo.org/wiki/Dm-crypt/ru
+http://xgu.ru/wiki/dm-crypt
+
 https://www.howtoforge.com/automatically-unlock-luks-encrypted-drives-with-a-keyfile
 http://superuser.com/questions/919590/dm-crypt-with-luks-etc-crypttab-using-either-keyfile-or-passphrase

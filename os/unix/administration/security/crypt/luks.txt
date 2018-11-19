@@ -1,5 +1,8 @@
 https://habrahabr.ru/post/308032/
 
+luks1
+https://mirrors.edge.kernel.org/pub/linux/utils/cryptsetup/LUKS_docs/on-disk-format.pdf
+
 samples
 https://gist.github.com/martijnvermaat/76f2e24d0239470dd71050358b4d5134
 http://nequissimus.com/DevSetup/installation/
