@@ -5,3 +5,5 @@ Raihmist - Zadachnik po Matematike
         061,63,69
         071,72,73
         081,89
+        102
+        111

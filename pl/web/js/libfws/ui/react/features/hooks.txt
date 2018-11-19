@@ -18,6 +18,8 @@ https://github.com/palmerhq/the-platform
 https://nikgraf.github.io/react-hooks/
 
 2018
+https://www.reaktor.com/blog/make-react-reactive-by-using-hooks/
+https://medium.freecodecamp.org/hooked-on-hooks-how-to-use-reacts-usereducer-2fe8f486b963
 TraversyMedia - Introducing React Hooks
     https://www.youtube.com/watch?v=mxK8b99iJTg
 https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af

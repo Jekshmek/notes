@@ -1,4 +1,7 @@
 2018
+https://medium.freecodecamp.org/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4
+    https://medium.com/devschacht/daniel-simmons-get-started-with-webassembly-using-only-14-lines-of-javascript-89960df71498
+    https://github.com/lordpoint/wasm-demo
 https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
 https://blog.scottlogic.com/2018/07/20/wasm-future.html
 http://fitzgeraldnick.com/2018/02/09/wee-alloc.html
@@ -8,4 +11,4 @@ https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-an
 https://habrahabr.ru/post/342180/
 https://habrahabr.ru/post/344246/
 Clark - A Cartoon Intro to WebAssembly
-https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
+    https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
