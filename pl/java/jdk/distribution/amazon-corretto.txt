@@ -5,6 +5,8 @@ https://docs.aws.amazon.com/corretto/
 https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/what-is-corretto-8.html
 
 2018
+https://aws.amazon.com/ru/blogs/opensource/amazon-corretto-no-cost-distribution-openjdk-long-term-support/
+    https://habr.com/post/430362/
 https://aws.amazon.com/blogs/opensource/amazon-corretto-no-cost-distribution-openjdk-long-term-support/
 https://aws.amazon.com/blogs/compute/re-affirming-long-term-support-for-java-in-amazon-linux/
 http://www.opennet.ru/opennews/art.shtml?num=49623
