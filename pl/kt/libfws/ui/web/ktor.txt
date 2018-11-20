@@ -1,4 +1,6 @@
 https://ktor.io/
+https://start.ktor.io/#
+
 https://github.com/Kotlin/ktor
 
 https://ktor.io/quickstart/index.html
@@ -18,3 +20,6 @@ https://blog.simon-wirtz.de/web-app-kotlin-ktor/
 
 samples
 https://github.com/raharrison/kotlin-ktor-exposed-starter
+
+whatsnew
+https://blog.jetbrains.com/kotlin/2018/11/ktor-1-0/
