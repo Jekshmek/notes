@@ -8,10 +8,11 @@ https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-yo
 https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
 BERT
+https://www.infoq.com/news/2018/11/google-bert-nlp
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html
 https://github.com/google-research/bert/
 https://arxiv.org/abs/1810.04805
-https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 
