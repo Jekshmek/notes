@@ -13,5 +13,7 @@ http://tachyons.io/components/cards/profile-card-title-subtitle/index.html
 
 https://varun.ca/tachyons-components/
 
+2018
+https://blog.rangle.io/styling-with-functional-css/
 2017
 http://notebook.hongkonggong.com/2017/12/11/a-tachyons-css-reading-list/

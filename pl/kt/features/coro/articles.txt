@@ -1,4 +1,5 @@
 2018
+https://codinginfinite.com/kotlin-coroutines-best-practices-example/
 https://medium.com/@elizarov/explicit-concurrency-67a8e8fd9b25
 https://kotlinexpertise.com/kotlin-coroutines-concurrency/
 https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761

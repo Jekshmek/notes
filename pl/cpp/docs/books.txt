@@ -9,6 +9,7 @@ Swaminathan - Expert C++ Programming
 Horton - Beginning Cpp17 5th ed
 Gregorie - Professional Cpp 4th ed
 Nesteruk - Design Patterns in Cpp
+Olsson - Cpp17 Quick Syntax Reference 3rd ed
 
 Children
 2018
