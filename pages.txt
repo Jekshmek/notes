@@ -55,14 +55,14 @@ Paschenko - Game 2 - 20a                             -  46:00 (of 1:05:45)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-12                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 52                                      -   00:00 (of)
+Sorokin - B 53                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 27 of 34                                 - 1:19:00 (of 1:37:57)
-    https://www.youtube.com/watch?v=s6XTew5WtrM
+Chernyak - 28 of 34                                 -   11:00 (of 1:56:18)
+    https://www.youtube.com/watch?v=cF2_buYbgUg
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -101,7 +101,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiyauznanku                         - 9.0 (of 1388)
+Kantor - Demokratiy                                 - 9.0 (of 1388)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

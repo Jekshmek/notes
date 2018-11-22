@@ -1,0 +1,3 @@
+https://github.com/gradle/native-samples/blob/master/c/application/build.gradle
+
+GccCompatibleToolChain

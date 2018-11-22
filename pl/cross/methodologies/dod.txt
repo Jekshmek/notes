@@ -10,6 +10,7 @@ Prackevicius - ECS and DOD
 Nikolov - OOP is dead, long live DOD
     https://www.youtube.com/watch?v=g1TsP60z2OQ
     https://www.youtube.com/watch?v=yy8jQgmhbAU
+    https://meetingcpp.com/mcpp/slides/2018/Data-oriented%20design%20in%20practice_Nikolov_MeetingCpp18.pdf
     https://github.com/CppCon/CppCon2018/blob/master/Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf
     https://www.reddit.com/r/cpp/comments/9rnof7/cppcon_2018_stoyan_nikolov_oop_is_dead_long_live/
 2014
