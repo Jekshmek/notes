@@ -3,8 +3,8 @@ https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Nov 21
-Shalyto - motivation - 018 of 873p
+    Nov 22
+Shalyto - motivation - 027 of 873p
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 
 track
@@ -67,22 +67,20 @@ Chernyak - 28 of 34                                 -   11:00 (of 1:56:18)
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
-https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/palamarchuk-anastasiya/kak-stat-svyatoy-nesmotrya-na-tipichno-zhenskie-nedostatki/slushat/
+https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
+https://predanie.ru/balakshina-yuliya-valentinovna/svoboda-ravenstvo-bratstva/slushat/
 https://predanie.ru/ivanov-vladimir/hramy-vysokoy-grazhdanstvennosti-kak-arhitektura-sssr-pereosmyslivala-pravoslavnuyu-tradiciyu/slushat/
 https://predanie.ru/shmaina-velikanova-anna-ilinichna/bibleyskie-predposylki-poetiki-borisa-pasternaka/slushat/
 https://predanie.ru/nemcev-mihail-yurevich/kollektivnaya-otvetstvennost-istoriya-ponyatiya/slushat/
 https://predanie.ru/krivovichev-sergey-diakon/hristianstvo-i-nauka-vek-xxi-y/slushat/
 https://predanie.ru/shihachevskiy-sergey/peschernye-cerkvi-kappadokii/slushat/
-https://predanie.ru/matveev-dmitriy/kak-govorit-o-boge-v-xxi-veke/slushat/
 https://predanie.ru/desnickiy-andrey-sergeevich/bibliya-i-hristianstvo/slushat/
-https://predanie.ru/matveev-dmitriy/ideya-svobody-v-hristianstve-istoriya-i-problematika/slushat/
 https://predanie.ru/somov-aleksey-borisovich/pritcha-o-bogache-i-lazare-uchenie-o-zagrobnoy-mire-ili-propoved-pravednoy-zhizni/slushat/
-https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
 https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-predposylki/slushat/
 https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
-https://predanie.ru/palamarchuk-anastasiya/mify-i-realnost-inkvizicii/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
+https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
 
 Tracking
 This week in rust                                   - 260
