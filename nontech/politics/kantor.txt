@@ -73,7 +73,7 @@ http://flibusta.is/b/260402/read
 http://flibusta.is/b/185227/read
 http://flibusta.is/b/185228/read
 hronika strizhki ovec
-http://flibusta.is/b/354038
+    http://flibusta.is/b/354038
     ! Most
     ! 7e noyabrya
     ! pamyati komunny
@@ -90,8 +90,8 @@ http://flibusta.is/b/354038
     ! Russkiy Intelligent (Viktor Leonidovich Toporov)
     ! Princip Sirano
 Imperiya Naiznanku
+    http://flibusta.is/b/401450
     https://www.novayagazeta.ru/articles/2014/12/08/62251-imperiya-naiznanku
-http://flibusta.is/b/401450
     ! Maie - falshivaya realnost
 
 misc

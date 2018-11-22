@@ -17,5 +17,6 @@ https://github.com/pest-parser/pest
 https://github.com/dbrgn/pest.vim
 
 2018
+https://compenguy.github.io/hobbies/rust/ebnf-to-pest.html
 https://phaazon.net/blog/glsl-pest-part-2
 https://phaazon.net/blog/glsl-pest-part-1
