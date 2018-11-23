@@ -54,3 +54,6 @@ import org.bytedeco.javacpp.tools.InfoMapper;
 public class openblas_nolapack implements LoadEnabled, InfoMapper {
     ...
 }
+
+!!!
+Loader.load(concrete class)
