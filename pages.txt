@@ -13,6 +13,8 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
+Dud - Tabakov
+    https://www.youtube.com/watch?v=6oGpWlfYtRM
 Osipov                                              -   23:00 (of 50:28)
     https://www.youtube.com/watch?v=CqWJRn2_914
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
