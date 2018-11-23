@@ -1,4 +1,5 @@
 2018
+https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 https://habr.com/post/430280/
 https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
 2015

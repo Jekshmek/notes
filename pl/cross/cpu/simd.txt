@@ -25,3 +25,8 @@ samples
 https://chryswoods.com/vector_c++/README.html
 SIMDized check which bytes are in a set
     http://0x80.pl/articles/simd-byte-lookup.html
+
+https://github.com/ospray/tsimd
+2018
+Amstutz - Compute More in Less Time Using C++ Simd Wrapper Libraries
+    https://www.youtube.com/watch?v=8khWb-Bhhvs
