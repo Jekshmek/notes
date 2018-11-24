@@ -1,5 +1,8 @@
+https://www.tensorflow.org/community/roadmap
+
 2.x
 https://towardsdatascience.com/announcement-tensorflow-2-0-is-coming-7e17e8e333e3
+https://groups.google.com/a/tensorflow.org/forum/#!topic/discuss/bgug1G6a89A
 1.5
 https://developers.googleblog.com/2018/01/announcing-tensorflow-15.html
 https://www.techleer.com/articles/457-the-new-version-of-tensorflow-150-released/
