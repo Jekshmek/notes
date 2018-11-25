@@ -1,4 +1,7 @@
 2018
+VueMastery - Vuex - Intro Tutorial
+    https://medium.com/vue-mastery/vuex-explained-visually-f17c8c76d6c4
+    https://www.youtube.com/watch?v=_2_C9j-8CtM
 https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c
 https://blog.logrocket.com/managing-multiple-central-stores-with-vuex-74cc44646043
 https://medium.com/dailyjs/mastering-vuex-zero-to-hero-e0ca1f421d45

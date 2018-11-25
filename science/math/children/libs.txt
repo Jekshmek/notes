@@ -1,0 +1,23 @@
+from VGE
+http://alleng.org/
+http://alleng.org/edu/math5.htm
+http://alleng.org/edu/math1.htm
+    5-11, nikolsy, potapov
+http://alleng.org/edu/math4.htm 
+    geom
+http://alleng.org/edu/math2.htm
+    problems, ollymp
+    http://alleng.org/d/math/math445.htm
+        shen, glefand
+    http://alleng.org/d/math/math742.htm
+        raihmist
+    http://alleng.org/d/math/math1426.htm
+        balayan - olymp
+http://alleng.org/edu/math7.htm
+    oge
+http://alleng.org/edu/math3.htm
+    ege
+http://alleng.org/edu/schgdz1.htm
+    reshebniki
+http://alleng.org/edu/math9.htm
+    studentam
