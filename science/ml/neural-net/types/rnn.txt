@@ -18,9 +18,11 @@ https://habrahabr.ru/post/326966/
 
 presentations
 2018
+Recurrent Neural Networks - EXPLAINED!
+    https://www.youtube.com/watch?v=yZv_yRgOvMg
 https://indico.cern.ch/event/722319/contributions/3001310/attachments/1661268/2661638/IML-Sequence.pdf
 Simplilearn - Recurrent Neural Network (RNN) Tutorial
-https://www.youtube.com/watch?v=lWkFhVq9-nc
+    https://www.youtube.com/watch?v=lWkFhVq9-nc
 2017
 Recurrent Neural Networks (DLAI D7L1 2017 UPC Deep Learning for Artificial Intelligence)
-https://www.youtube.com/watch?v=N3DzDnzL19U
+    https://www.youtube.com/watch?v=N3DzDnzL19U
