@@ -1,3 +1,6 @@
+https://docs.gradle.org/5.0/userguide/kotlin_dsl.html
+https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/
+
 https://github.com/gradle/gradle-script-kotlin
 
 https://github.com/gradle/kotlin-dsl

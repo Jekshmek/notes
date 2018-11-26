@@ -1,6 +1,8 @@
 https://github.com/gradle/gradle/releases
 
 5.x
+https://docs.gradle.org/5.0/userguide/upgrading_version_4.html
+https://docs.gradle.org/5.0/release-notes.html
 https://docs.gradle.org/5.0-rc-1/release-notes.html#
 
 4.x
