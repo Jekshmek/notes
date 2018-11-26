@@ -1,0 +1,6 @@
+https://xstate.js.org/
+https://xstate.js.org/docs/
+https://github.com/davidkpiano/xstate
+
+2018
+https://medium.com/@carloslfu/tackling-ui-complexity-with-state-machines-b3f1eb6d1a97

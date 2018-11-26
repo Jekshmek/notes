@@ -1,4 +1,5 @@
 2018
+https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/
 !!! ts-support of redux
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
 https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d

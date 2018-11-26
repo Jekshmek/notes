@@ -1,7 +1,7 @@
 2004
 Raihmist - Zadachnik po Matematike
     1.
-        001,02
+        001,02,03
         021
         041,42,43
         051
@@ -15,4 +15,4 @@ Raihmist - Zadachnik po Matematike
 Farkov
     5 class
         1 - 4,5,6
-        2 - 1,5
+        2 - 1,2,5

@@ -12,8 +12,10 @@ Then you can simply stream.toList() or stream.asSequence() to move back into the
 A case such as Files.list(path) forces you into a Stream when you may not want it,
 and these extensions can help you to shift back into the standard collections and Kotlin API.
 
+sequence
+https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/
+
 cheatsheet
 http://jussi.hallila.com/Kollections/
 https://github.com/Xantier/Kollections
 https://github.com/Xantier/Kollections/raw/master/docs/xantier_kotlin_collection-extensions.pdf
-
