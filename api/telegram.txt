@@ -177,6 +177,9 @@ unilecs
 ?
 data_analysis
 
+economy
+blablanomika
+
 catalogs
 @catalog_channels
 CatalogTelegram
@@ -189,3 +192,4 @@ vpn
 http://telegra.ph/Je-suis-telegram-04-13
 https://habrahabr.ru/company/kingservers/blog/353428/
 https://telegram.veesecurity.com/
+

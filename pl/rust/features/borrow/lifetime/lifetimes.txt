@@ -4,6 +4,8 @@ https://doc.rust-lang.org/book/second-edition/ch10-03-lifetime-syntax.html
 
 articles
 2018
+https://phaazon.net/blog/rust-traits-privacy
+    https://www.reddit.com/r/rust/comments/a0qu4f/rust_traits_and_their_lack_of_privacy/
 https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html
 https://mark-simulacrum.github.io/2018/07/19/inband-lifetimes.html
     https://www.reddit.com/r/rust/comments/92bof7/exploring_inband_lifetimes_by_converting_librustc/
