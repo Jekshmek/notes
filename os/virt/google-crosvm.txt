@@ -1,0 +1,6 @@
+https://chromium.googlesource.com/chromiumos/containers/
+https://chromium.googlesource.com/chromiumos/platform/crosvm/
+
+2018
+https://blog.google/products/chromebooks/linux-on-chromebooks/
+    https://www.opennet.ru/opennews/art.shtml?num=48563

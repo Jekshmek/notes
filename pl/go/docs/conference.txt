@@ -1,3 +1,8 @@
+2018
+MailRu - Go in Production
+https://habr.com/company/mailru/blog/431140/
+    https://drive.google.com/drive/u/0/folders/1bCKK4RfLtfjpYo4RSI43yQEvl3AY7xLQ
+
 2017
 Goland UK
 
