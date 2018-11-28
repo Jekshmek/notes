@@ -10,6 +10,7 @@ Soshin - Hands-On Design Patterns with Kotlin
 Roy - Kotlin Programming Cookbook
 Urbanowicz - Kotlin Standard Library Cookbook
 Vasic - Building Applications with Spring5 and Kotlin
+Soshin - Hands on Design Patterns with Kotlin
 
 2017
 Samuel - Programming Kotlin

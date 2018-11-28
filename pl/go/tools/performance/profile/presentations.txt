@@ -1,3 +1,5 @@
+2018
+Shveenkov - Milliar of Pushes (mail ru)
 2017
 Heney - 
 https://www.infoq.com/presentations/go-programming-language
@@ -9,8 +11,3 @@ Campoy -
 https://medium.com/justforfunc/using-the-go-execution-tracer-to-speed-up-fractal-rendering-c06bb3760507
 https://www.youtube.com/watch?v=ySy3sR1LFCQ
 https://github.com/campoy/justforfunc/tree/master/22-perf
-
-2014
-https://software.intel.com/en-us/blogs/2014/05/10/debugging-performance-issues-in-go-programs
-2011
-https://blog.golang.org/profiling-go-programs
