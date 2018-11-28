@@ -1,5 +1,9 @@
 articles
 https://habrahabr.ru/post/327460/
 
+2018
+Subramanian - Java Streams vs Reactive Streams
+    https://www.youtube.com/watch?v=kG2SEcl1aMM
+
 perf
 https://github.com/akarnokd/akarnokd-misc/issues/7

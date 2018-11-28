@@ -11,6 +11,8 @@ https://www.youtube.com/playlist?list=PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH
 https://www.youtube.com/playlist?list=PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE
 CppRussia
 https://www.youtube.com/playlist?list=PLZN9ZGiWZoZoFa2q0NqD6metQxavT2JYP
+CoreHard
+https://www.youtube.com/playlist?list=PLgsLnJ-wgYTbaNXfp3mjf-eOb62Md9-33
 
 2017
 CppNow

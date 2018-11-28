@@ -1,3 +1,5 @@
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+
 google
     vscode linux c#
 
@@ -30,3 +32,5 @@ https://github.com/OmniSharp/omnisharp-vscode/wiki/Desktop-.NET-Framework
 ?mono
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.mono-debug
 
+razor
+https://habr.com/company/microsoft/blog/430962/

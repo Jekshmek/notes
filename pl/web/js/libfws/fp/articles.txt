@@ -1,4 +1,9 @@
+https://github.com/MostlyAdequate/mostly-adequate-guide
+https://github.com/MostlyAdequate/mostly-adequate-guide-ru
+
 2018
+https://habr.com/company/mailru/blog/327522/
+    https://tproger.ru/translations/functional-js-1/
 https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
 https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/

@@ -1,5 +1,6 @@
 2018
-What's New in Reactor "Californium"
+Maldini - What's New in Reactor "Californium"
+    https://www.infoq.com/presentations/reactor-californium
     https://www.youtube.com/watch?v=szEHXgWeF3Q
 Maldini - Project Reactor - Now and Tomorrow
     https://www.infoq.com/presentations/spring-reactor
