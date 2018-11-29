@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Barton%E2%80%93Nackman_trick
+https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Barton-Nackman_trick
