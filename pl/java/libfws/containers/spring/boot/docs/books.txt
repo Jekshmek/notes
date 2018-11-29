@@ -1,4 +1,5 @@
 2018
+Deinum - Spring Boot 2 Recipes
 https://www.infoq.com/minibooks/spring-boot-building-api-backend
     https://github.com/wimdeblauwe/spring-boot-building-api-backend
 Antonov - Spring Boot 2 Cookbook 2nd ed
