@@ -1,0 +1,3 @@
+2018
+https://gist.github.com/Icelandjack/02069708bc75f4284ac625cd0e2ec81f
+    https://www.reddit.com/r/haskell/comments/a0nyjj/yoneda_intuition_from_humble_beginnings/

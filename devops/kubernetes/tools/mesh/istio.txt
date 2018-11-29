@@ -10,6 +10,12 @@ https://istio.io/docs/concepts/traffic-management/pilot.html
 
 presentations
 2018
+Tsang - Making Microservices Micro with Istio and Kubernetes
+    https://www.youtube.com/watch?v=4x79RfMaOyo
+Sutter - Meshy Microservices with Istio and Envoy
+    https://www.youtube.com/watch?v=9QAJAyF1GVk
+Munz - Istio: Will a Service Mesh Become the New Service Bus?
+    https://www.youtube.com/watch?v=fDmJf9kWFws
 Tsang - Reducing Microservices Architecture Complexity with Istio and Kubernetes
     https://www.youtube.com/watch?v=k42jqkjtYKY
 Craig Box — Managing your microservices with Kubernetes and Istio

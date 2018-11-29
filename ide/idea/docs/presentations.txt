@@ -1,3 +1,4 @@
 2018
+    https://github.com/maximn/capitalizing-on-a-great-idea
 Kazakova - Debug C++ Without Running
-https://www.youtube.com/watch?v=GkedFz5XF-o
+    https://www.youtube.com/watch?v=GkedFz5XF-o

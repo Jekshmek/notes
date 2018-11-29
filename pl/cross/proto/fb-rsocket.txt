@@ -10,7 +10,10 @@ http://rsocket.io/docs/FAQ
 http://rsocket.io/docs/Motivations
 http://rsocket.io/docs/Protocol.html
 
+presentations
 2018
+Hale, Maldini - Distributed Reactive Streams with RSocket, Reactor, and Spring
+    https://www.youtube.com/watch?v=WVnAbv65uCU
 Multi-Service Reactive Streams Using Spring, Reactor, and RSocket
     https://www.youtube.com/watch?v=e-N4BchYXws
 https://www.infoq.com/presentations/reactive-streams-rsocket

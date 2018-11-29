@@ -1,4 +1,6 @@
 2018
+Kabutz - Thread Safety with Phaser, StampedLock, and VarHandle
+    https://www.youtube.com/watch?v=Xro4KwoMNJ8
 Otus
 https://www.youtube.com/watch?v=D5RlTEtr-MY
 https://www.youtube.com/watch?v=znh1btTKlVE

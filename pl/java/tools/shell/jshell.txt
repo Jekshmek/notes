@@ -1,2 +1,8 @@
+articles
 2018
 https://www.infoq.com/articles/jshell-java-repl
+
+presentations
+2018
+Kishida - Let's Start Java11 from the Beginning with JShell
+    https://www.youtube.com/watch?v=QieSw-Rc-FY
