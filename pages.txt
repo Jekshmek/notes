@@ -51,15 +51,17 @@ Paschenko - Game 2 - 21a                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-13                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 58                                      -   00:00 (of)
+Sorokin - B 59                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 28 of 34                                 - 1:36:00 (of 1:56:18)
-    https://www.youtube.com/watch?v=cF2_buYbgUg
+Chernyak - 29 of 34                                 -   10:00 (of 1:36:57)
+    https://www.youtube.com/watch?v=E5-31PZwrzg
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+Kravecki                                            -   36:00 (of 2:12:04)
+    https://predanie.ru/kraveckiy-aleksandr-gennadevich/bogosluzhenie-na-russkom-yazyke-o-chem-spor/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
@@ -77,9 +79,9 @@ https://predanie.ru/rashkovskiy-evgeniy-borisovich/vera-i-kultura-bibleyskie-pre
 https://predanie.ru/bez-avtora/chitaem-vmeste-blez-paskal-mysli/slushat/
 https://predanie.ru/samsonov-dmitriy-svyaschennik/klayv-s-lyuis-zachem-my-stradaem/slushat/
 https://predanie.ru/dimitriy-sizonenko-protoierey/toska-pechal-depressiya-chto-govoryat-ob-etom-otcy-cerkvi-i-mirovaya-kultura/slushat/
-https://predanie.ru/kraveckiy-aleksandr-gennadevich/bogosluzhenie-na-russkom-yazyke-o-chem-spor/slushat/
 https://predanie.ru/bez-avtora/radost-voploschennogo-duha/slushat/
 https://predanie.ru/bez-avtora/vyshel-seyatel-seyat-nasledie-otca-aleksandra-menya-segodnya/slushat/
+https://predanie.ru/kruglov-sergey-gennadevich-ierey/poeticheskiy-vecher-v-moskve/slushat/
 
 Tracking
 This week in rust                                   - 262
