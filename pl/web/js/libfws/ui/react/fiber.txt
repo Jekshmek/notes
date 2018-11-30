@@ -2,6 +2,7 @@ https://github.com/toxicFork/react-three-renderer-fiber
 https://github.com/acdlite/react-fiber-architecture
 
 2018
+https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
 Brandon Dail - Algebraic effects, Fibers, Coroutines Oh my!
     https://www.youtube.com/watch?v=7GcrT0SBSnI
 https://habr.com/post/413791/

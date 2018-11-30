@@ -1,4 +1,5 @@
 2018
+http://dkandalov.github.io/type-variance-of-an-assignment
 https://blog.kotlin-academy.com/kotlin-generics-variance-modifiers-36b82c7caa39
 
 2017

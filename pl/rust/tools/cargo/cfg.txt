@@ -1,4 +1,7 @@
-targets:
+!!!
+edition = "2018"
+
+targets
 [[bin]], [lib], [[bench]], [[test]], [[example]] 
 
 # can have multiple [[bin]]

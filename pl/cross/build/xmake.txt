@@ -1,3 +1,5 @@
 https://xmake.io/#/
 https://github.com/tboox/xmake
 
+whatsnew
+https://tboox.org/2018/11/30/xmake-update-v2.2.3/
