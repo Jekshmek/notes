@@ -17,3 +17,6 @@ Thumbprint Algorithm: sha1
 Thumbprint:
 47 be ab c9 22 ea e8 0e 78 78 34 62 a7 9f 45 c2 54 fd e6 8b
 27 ac 93 69 fa f2 52 07 bb 26 27 ce fa cc be 4e f9 c3 19 b8
+
+bintray cert
+sudo keytool -import -alias bintray -keystore "$JAVA_HOME/lib/security/cacerts" -file ~/-bintraycom.crt`

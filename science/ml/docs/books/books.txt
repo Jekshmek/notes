@@ -19,6 +19,7 @@ Sarkar - Practical ML with Python
 Albon - Machine Learning with Python Cookbook
 Kruk - Practical Python AI Projects
 Ayyadevara - Pro Machine Learning Algorithms
+Natingga - Data Science Algorithms in a Week 2nd ed (basic stuff in a shallow way)
 
 2017
 Sugomori - Deep Learning: Practical Neural Networks with Java
