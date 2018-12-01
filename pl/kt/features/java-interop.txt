@@ -1,5 +1,9 @@
 https://medium.com/@colriot/writing-java-friendly-kotlin-code-c408b24fb4e
 
+2018
+Chanddru - Teach Kotlin to play well with Java - Optimization tips for Interoperability
+    https://www.youtube.com/watch?v=1fA7-0hJOjk
+
 class
 https://discuss.kotlinlang.org/t/myclass-class-syntax-in-kotlin/825/13
 some_var::class
