@@ -1,1 +1,7 @@
-https://habrahabr.ru/post/342510/
+2017
+http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html
+    https://habrahabr.ru/post/342510/
+
+books
+2016
+Lengyel - Foundations of Game Engine Development vol1 Mathematics

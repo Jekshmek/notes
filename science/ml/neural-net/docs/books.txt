@@ -1,5 +1,5 @@
 2016:
-Rashid - Make Your Own Neural Network
+Rashid - Make Your Own Neural Network (+ru)
 https://www.ozon.ru/context/detail/id/141796497/
 https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork
 https://www.youtube.com/watch?v=2sevic5Vy4E
