@@ -1,4 +1,6 @@
 2018
+https://jamie.build/const
+    https://medium.com/webbdev/vs-b15bc3155c63
 https://andy-carter.com/blog/variable-scope-in-modern-javascript
 https://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6
     https://habr.com/company/ruvds/blog/420359/

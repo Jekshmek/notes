@@ -7,3 +7,4 @@ https://github.com/firecracker-microvm/firecracker/blob/master/docs/design.md
 2018
 https://aws.amazon.com/ru/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/
     http://www.opennet.ru/opennews/art.shtml?num=49667
+    https://www.infoq.com/news/2018/12/aws-firecracker

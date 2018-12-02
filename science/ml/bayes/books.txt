@@ -2,6 +2,7 @@ Downey - Think Bayes
 http://greenteapress.com/wp/think-bayes/
 http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 
+
 2012
 Barber - Bayesian Reasoning and Machine Learning
     math and big
@@ -10,7 +11,9 @@ Barber - Bayesian Reasoning and Machine Learning
 Bayesian Methods for Hackers
 https://habr.com/company/piter/blog/413653/
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/
 http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb
+http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb
 
 http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 Murphy - Machine Learning - A Probabilistic Perspective
