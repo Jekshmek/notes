@@ -1,4 +1,5 @@
 2018
+https://www.snoyman.com/blog/2018/12/rust-crash-course-07-async-futures-tokio
 https://www.snoyman.com/blog/2018/11/rust-crash-course-06-lifetimes-slices-solutions
 https://www.snoyman.com/blog/2018/11/rust-crash-course-06-lifetimes-slices
 https://www.snoyman.com/blog/2018/11/rust-crash-course-05-rule-of-three-solutions
