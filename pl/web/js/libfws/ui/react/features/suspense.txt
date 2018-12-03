@@ -1,0 +1,4 @@
+https://reactjs.org/docs/code-splitting.html#reactlazy
+
+2018
+https://www.infoq.com/news/2018/12/react-suspense-redux-alternative
