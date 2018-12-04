@@ -1,8 +1,8 @@
 https://redux-saga.github.io/redux-saga/
 https://github.com/redux-saga/redux-saga
 
-presentations
 2018
+https://habr.com/post/432070/
 Dedkov - Redux Saga ru
 https://www.youtube.com/watch?v=R_DPcxk4ml8
     https://drive.google.com/file/d/1OWakTpJh6V9GkYOtJmI4VleInZqXS39V/view

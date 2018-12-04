@@ -217,6 +217,7 @@ Commands:
   startvm                   <uuid|vmname>...
                             [--type gui|sdl|headless|separate]
                             [-E|--putenv <NAME>[=<VALUE>]]
+    vboxmanage startvm <vm-uuid> --type emergencystop
 
   controlvm                 <uuid|vmname>
                             pause|resume|reset|poweroff|savestate|

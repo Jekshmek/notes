@@ -1,6 +1,8 @@
 minikube
     version
     start
+        --kubernetes-version=v1.12.0
+        --vm-driver=vritualbox
     stop
     status
         minikube: Running

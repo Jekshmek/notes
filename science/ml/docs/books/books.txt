@@ -20,6 +20,8 @@ Albon - Machine Learning with Python Cookbook
 Kruk - Practical Python AI Projects
 Ayyadevara - Pro Machine Learning Algorithms
 Natingga - Data Science Algorithms in a Week 2nd ed (basic stuff in a shallow way)
+VanderPlas - Python Data Science Handbook ru (!!!)
+https://vk.com/doc44301783_457112102
 
 2017
 Sugomori - Deep Learning: Practical Neural Networks with Java
@@ -45,8 +47,6 @@ python
 Muller - Introduction to Machine Learning with Python
     https://vk.com/doc90175155_462550667
 Muller - Introduction to Machine Learning with Python (ru)
-VanderPlas - Python Data Science Handbook ru (!!!)
-https://vk.com/doc44301783_457112102
 Cilien - Introducing Data Science ru
 https://vk.com/doc44301783_457112161
 Grus - Data Science from Scrutch ru

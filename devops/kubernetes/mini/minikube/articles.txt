@@ -1,6 +1,9 @@
 https://quip.com/1TYDAdJowAgJ
+https://letsclearitup.com.ua/kubernetes/ustanovka-minikube.html
 
 2017
+https://medium.com/@claudiopro/getting-started-with-kubernetes-via-minikube-ada8c7a29620
+    https://habr.com/company/flant/blog/333470/
 https://medium.com/@wisegain/minikube-cheat-sheet-a273385e66c9
 https://www.codeproject.com/Articles/1185089/An-Introduction-to-Kubernetes-with-Minikube
 2016
