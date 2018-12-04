@@ -1,3 +1,5 @@
+https://www.testcontainers.org/usage/kafka_containers.html
+
 https://github.com/testcontainers/testcontainers-java/pull/546
 
 https://github.com/testcontainers/testcontainers-java/tree/master/modules/kafka

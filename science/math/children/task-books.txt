@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1Ug3crAdMARfw_Zg8_LuGjhBx0IJOB3CY/view
 md5=2350600C93BA411C7928644DB350B910
 Raihmist - Zadachnik po Matematike
     1.
-        001,02,03
+        001,02,03,04
         021,22
         041,42,43
         051,52
@@ -22,4 +22,5 @@ Farkov
     5 class
         1 - 1,2,3,4,5,6
         2 - 1,2,3,4,5,6
-        3 - 1,2,3
+        3 - 1,2,3,4,5
+        4 - 1

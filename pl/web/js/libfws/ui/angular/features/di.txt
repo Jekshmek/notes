@@ -1,3 +1,5 @@
 2018
+https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f
+    https://habr.com/post/429342/
 OtusRu - Open Webinar DI in Angular
-https://www.youtube.com/watch?v=sNGhaLIm2ho
+    https://www.youtube.com/watch?v=sNGhaLIm2ho

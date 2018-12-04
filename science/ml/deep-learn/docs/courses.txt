@@ -11,6 +11,8 @@ VSHE - Deep Learning
 https://www.hse.ru/ba/ami/courses/205504078.html
 https://github.com/aosokin/DL_CSHSE_spring2018
 https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld
+Deep Learning School
+https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos
 MFTI - Deep Learning School
 https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S
 https://selfdrivingcars.mit.edu/
@@ -24,8 +26,6 @@ https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 https://www.youtube.com/playlist?list=PLBAGcD3siRDhWZhNJvhhSVxm8Zppaq56G
 
 2017
-Deep Learning School
-https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos
 Jay - Deep Learning Concepts
 https://www.youtube.com/playlist?list=PLX-LrBk6h3wQKdrSyGZeN9m4I3n_bDmzg
 UPC/Barcelona TECH - DLAI

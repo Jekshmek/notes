@@ -6,4 +6,5 @@ https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.io/java.io.-file/index.html
 
 articles
 2018
+https://medium.com/victoriagonda/using-the-kotlin-stdlib-in-java-code-2565818ba016
 https://tech.okcupid.com/hidden-gems-in-kotlin-stdlib/

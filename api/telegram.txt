@@ -78,6 +78,7 @@ forwebdev
 js_kitchen
 react_js
 front_end_dev
+angular_ru
 
 robots
 robotics_channel
