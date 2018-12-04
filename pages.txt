@@ -11,17 +11,18 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Varfolomei                                          -   04:00 (of 51:03)
+Varfolomei                                          -   12:00 (of 51:03)
     https://www.youtube.com/watch?v=HtdzuoA4f64
 Dud - Tabakov
     https://www.youtube.com/watch?v=6oGpWlfYtRM
+Ryzhyk - System of excercises in geometry           -   15:00 (of 1:27:57)
+    https://www.youtube.com/watch?v=_OuXfW5DQVk
+    https://www.youtube.com/watch?v=KCCc9hsgZmQ
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
     https://www.youtube.com/watch?v=bFSnXNIsK4A
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Ryzhyk - System of excercises in geometry           -   15:00 (of 1:27:57)
-    https://www.youtube.com/watch?v=_OuXfW5DQVk
 Bashmakov - Project Method
     https://www.youtube.com/watch?v=ZSYTXyOk8kc
 Olympiad problems at Lesson
@@ -38,6 +39,13 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
+Bykov - Galich                                      -   29:00 (of   53:58)
+    https://www.youtube.com/watch?v=T5RILnJjFfA
+Bykov - Agora                                       -   00:00 (of   59:55)
+    https://www.youtube.com/watch?v=7RYt_Ckuw8c
+Bykov - Marusya                                     -   00:00 (of)
+    https://www.youtube.com/watch?v=gt_tPgnEe5E
+    https://www.youtube.com/watch?v=Ks_keQQo834
 Volkova Rome                                        -   06:00 (of 1:32:09)
     https://www.youtube.com/watch?v=OcOrUp9MAho
     https://www.youtube.com/playlist?list=PLGsJxQg4LPTEDpyRZ8cZAYrLZji8_LHvv
@@ -49,15 +57,15 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Paschenko - Game 2 - 21b                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
-Ivliev - 2-13                                       -   00:00 (of)
+Ivliev - 2-14                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 60                                      -   18:00 (of)
+Sorokin - B 61                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 29 of 34                                 -   19:00 (of 1:36:57)
+Chernyak - 29 of 34                                 -   43:00 (of 1:36:57)
     https://www.youtube.com/watch?v=E5-31PZwrzg
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 Kravecki                                            -   36:00 (of 2:12:04)
