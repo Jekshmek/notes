@@ -1,0 +1,3 @@
+https://github.com/bytedeco/javacpp/wiki/Basic-Architecture#the-pointer
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/Pointer.html
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/PointerScope.html

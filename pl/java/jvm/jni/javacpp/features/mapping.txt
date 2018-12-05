@@ -1,5 +1,9 @@
 https://github.com/bytedeco/javacpp/wiki/Mapping-Recipes
 
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/tools/Info.html
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/tools/InfoMap.html
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/tools/InfoMapper.html
+
 https://github.com/bytedeco/javacpp/issues/261
 
 import org.bytedeco.javacpp.tools.Info;

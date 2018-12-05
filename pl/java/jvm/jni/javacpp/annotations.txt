@@ -1,3 +1,5 @@
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/package-summary.html
+
 org.bytedeco.javacpp.annotation.Platform
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/Platform.java
 
@@ -17,6 +19,16 @@ https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javac
     framework frameworkpath
 )
 
-
+@Adapter
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/Adapter.html
 @StdWString
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdWString.java
+
+@ByVal
+@ByRef
+
+@NoException
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/NoException.html
+
+@NoOffset
+@Virtual

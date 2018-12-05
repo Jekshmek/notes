@@ -11,22 +11,27 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
-Varfolomei                                          -   12:00 (of 51:03)
+Varfolomei                                          -   25:00 (of   51:03)
     https://www.youtube.com/watch?v=HtdzuoA4f64
-Dud - Tabakov
+Dud - Tabakov                                       -   12:00 (of 1:19:58)
     https://www.youtube.com/watch?v=6oGpWlfYtRM
-Ryzhyk - System of excercises in geometry           -   15:00 (of 1:27:57)
+    https://www.youtube.com/watch?v=7Kxy0i7h17o
+Dud - Mihalkov
+    https://www.youtube.com/watch?v=6cjcgu865ok
+Ryzhyk - System of excercises in geometry           -   22:00 (of 1:27:57)
     https://www.youtube.com/watch?v=_OuXfW5DQVk
     https://www.youtube.com/watch?v=KCCc9hsgZmQ
+        10:00
+    https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
+Bashmakov - Project Method                          -   00:00 (of)
+    https://www.youtube.com/watch?v=TWEHkTsGHTs
+Olympiad problems at Lesson
+    https://www.youtube.com/watch?v=J4YwGyWtBqM
 CodingTech - 105 STL Algorithms in Less Than an Hour-   00:00 (of 56:47)
     https://www.youtube.com/watch?v=bFSnXNIsK4A
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
-Bashmakov - Project Method
-    https://www.youtube.com/watch?v=ZSYTXyOk8kc
-Olympiad problems at Lesson
-    https://www.youtube.com/watch?v=J4YwGyWtBqM
 Vorontsov 005 (of 024)                              -   38:00 (of 1:23:03)
     https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Vorontsov - ML                                      -   45..136
@@ -39,9 +44,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Galich                                      -   29:00 (of   53:58)
-    https://www.youtube.com/watch?v=T5RILnJjFfA
-Bykov - Agora                                       -   00:00 (of   59:55)
+Bykov - Agora                                       -   23:00 (of   59:55)
     https://www.youtube.com/watch?v=7RYt_Ckuw8c
 Bykov - Marusya                                     -   00:00 (of)
     https://www.youtube.com/watch?v=gt_tPgnEe5E
@@ -59,16 +62,16 @@ Paschenko - Game 2 - 21b                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-14                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 61                                      -   00:00 (of)
+Sorokin - B 62                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 29 of 34                                 -   43:00 (of 1:36:57)
+Chernyak - 29 of 34                                 - 1:03:00 (of 1:36:57)
     https://www.youtube.com/watch?v=E5-31PZwrzg
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
-Kravecki                                            -   36:00 (of 2:12:04)
+Kravecki                                            -   53:00 (of 2:12:04)
     https://predanie.ru/kraveckiy-aleksandr-gennadevich/bogosluzhenie-na-russkom-yazyke-o-chem-spor/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/

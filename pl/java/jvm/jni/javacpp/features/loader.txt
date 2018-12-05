@@ -1,0 +1,2 @@
+https://github.com/bytedeco/javacpp/wiki/Basic-Architecture#the-loader
+http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/Loader.html

@@ -1,11 +1,14 @@
 git clone:
 http://git-scm.com/docs/git-clone
 
-git clone -n <remote-repo>
--n is --no-checkout
+git clone
+    -n <remote-repo>
+    -n is --no-checkout
 
-git clone -l --no-hardlinks <local-repo-path>
--l is --local
+    -l --no-hardlinks <local-repo-path>
+    -l is --local
+
+    --branch <branch-name>
 
 
 MIRRORING:
@@ -16,4 +19,3 @@ git clone --mirror ...
 git remote -v update --prune
 :: git fetch --prune -v --multiple --all
 :: git fetch --append --prune -v origin
-

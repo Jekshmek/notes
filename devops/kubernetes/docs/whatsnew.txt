@@ -1,5 +1,6 @@
 1.13
 https://kubernetes.io/blog/2018/12/03/kubernetes-1-13-release-announcement/
+    http://www.opennet.ru/opennews/art.shtml?num=49722
 
 1.12
 https://kubernetes.io/blog/2018/09/27/kubernetes-1.12-kubelet-tls-bootstrap-and-azure-virtual-machine-scale-sets-vmss-move-to-general-availability/
