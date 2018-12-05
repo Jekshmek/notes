@@ -1,5 +1,10 @@
 https://github.com/onqtam/doctest
 
+https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md
+https://github.com/onqtam/doctest/blob/master/doc/markdown/configuration.md
+
+https://github.com/onqtam/doctest/tree/master/examples
+
 articles
 2018
 http://eao197.blogspot.com.by/2018/03/progc-doctest-vs-catch2.html
