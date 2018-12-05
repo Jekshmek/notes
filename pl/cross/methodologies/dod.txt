@@ -1,7 +1,9 @@
+resources
 https://github.com/dbartolini/data-oriented-design
 
 book
 Fabian - DOD
+    http://dataorienteddesign.com/site.php?postid=138
     http://www.dataorienteddesign.com/dodbook/
     k
 2018

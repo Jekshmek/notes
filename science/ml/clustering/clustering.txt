@@ -1,20 +1,4 @@
 http://scikit-learn.org/stable/modules/clustering.html
 
-2018
-interesting clustering algos
-    https://habr.com/post/321216/
-    https://habr.com/post/322034/
-    https://habr.com/post/334220/
-    https://habr.com/post/338868/
-    https://habr.com/post/340360/
-https://medium.freecodecamp.org/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba
-    https://habr.com/company/nixsolutions/blog/413269/
-http://stackabuse.com/k-means-clustering-with-scikit-learn/
-Simplelearn - K Means Clustering
-https://www.youtube.com/watch?v=Xvwt7y2jf5E
-
 KNN Vorontsov
 LOO (leave-one-out) - skolzyschi kontrol
-
-k-means
-https://www.datascience.com/blog/k-means-clustering

@@ -1,0 +1,4 @@
+minikube
+    start
+        --kubernetes-version=v1.12.0
+        --vm-driver=vritualbox

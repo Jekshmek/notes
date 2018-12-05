@@ -3,6 +3,7 @@ https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
 2018
+https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815
 https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
     http://telegra.ph/Vvedenie-v-bajesovskuyu-linejnuyu-regressiyu-04-17
 https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac

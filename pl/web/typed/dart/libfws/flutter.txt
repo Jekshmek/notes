@@ -9,6 +9,8 @@ https://flutter.io/docs/development/ui/widgets-intro
 https://flutter.io/docs/development/tools/hot-reload
 
 2018
+https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html
+    https://www.infoq.com/news/2018/12/flutter-1.0-released
 Luchaninov - Flutter - silver bullet of mobile development ru
     https://www.youtube.com/watch?v=Y3kk4Qu79Qc
 https://habr.com/post/430918/
