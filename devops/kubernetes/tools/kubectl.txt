@@ -7,17 +7,22 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl/
 kubectl
     config
         https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-em-set-context-em-
+        use-context minikube
     cluster-info
     get
         nodes
         events
-        pods
+        po[ds]
             [--namespace=kube-system]
             -l app=<name>
         svc
         ingress
         secrets
         configmap
+        rs[replicaset]
+    edit
+        deployment
+        ? what else ?
     run
         first-deployment --image=katacoda/docker-http-server --port=80
     expose

@@ -21,14 +21,16 @@ users:
     client-key: /home/iharh/.minikube/client.key
 
 ~/.minikube/
+    profiles/minikube/config.json
     machines/minikube/config.json
+        ... longer version of ....
 
 {
     "MachineConfig": {
         "MinikubeISO": "https://storage.googleapis.com/minikube/iso/minikube-v0.30.0.iso",
-        "Memory": 2048,
+        "Memory": 4096,
         "CPUs": 2,
-        "DiskSize": 20000,
+        "DiskSize": 40000,
         "VMDriver": "virtualbox",
         "HyperkitVpnKitSock": "",
         "HyperkitVSockPorts": [],
@@ -62,7 +64,6 @@ users:
         "ShouldLoadCachedImages": false
     }
 }
-
 
 /etc/crictl.yaml
 runtime-endpoint: unix:///run/containerd/containerd.sock

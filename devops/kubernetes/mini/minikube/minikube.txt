@@ -1,5 +1,6 @@
 https://github.com/kubernetes/minikube
 
+https://kubernetes.io/docs/setup/minikube/
 https://kubernetes.io/docs/getting-started-guides/minikube/
 https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 

@@ -25,8 +25,16 @@ minikube
         none driver does not support these commands
     ip
         192.168.0.103
+    tunnel
+        https://github.com/kubernetes/minikube/blob/master/docs/tunnel.md
+        https://github.com/kubernetes/minikube/blob/master/docs/networking.md
     dashboard
         http://192.168.0.103:30000
     update-check
     update-context
         ?
+    cache
+        https://github.com/kubernetes/minikube/blob/master/docs/cache.md
+        list
+        delete
+        add
