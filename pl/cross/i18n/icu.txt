@@ -11,6 +11,10 @@ http://site.icu-project.org/download/62
 https://github.com/DuffsDevice/tinyutf8/
 https://github.com/DuffsDevice/tinyutf8/commit/72c599252826ef0c77fb41ab950cec63812086b4
 
+
+http://userguide.icu-project.org/strings
+http://userguide.icu-project.org/strings/utf-8
+
 static std::string
 naiveToNative(const UnicodeString &str)
 {
@@ -19,8 +23,8 @@ naiveToNative(const UnicodeString &str)
     return std::string(pBuf);
 }
 
-static std::string
-fromUnicode(const UnicodeString &ustr)
+inline std::string
+fromUnicodeString(const UnicodeString &ustr)
 {
     UErrorCode errorCode = U_ZERO_ERROR;
     int32_t length = ustr.extract(0, 0, errorCode);
@@ -33,4 +37,18 @@ fromUnicode(const UnicodeString &ustr)
     assert(reslen == length);
 
     return result;
+}
+
+inline icu::UnicodeString
+toUnicodeString(const std::string &src)
+{
+    assert(src.length() < boost::integer_traits<int>::const_max);
+    UErrorCode ccode = U_ZERO_ERROR;
+#ifdef _DEBUG
+    icu::UnicodeString result(src.c_str(), (int)src.length(), (UConverter*)0, ccode);
+    assert(U_SUCCESS(ccode));
+    return result;
+#else
+    return icu::UnicodeString(src.c_str(), (::int32_t)src.length(), (UConverter*)0, ccode);
+#endif
 }
