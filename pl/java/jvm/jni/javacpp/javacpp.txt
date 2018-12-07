@@ -8,4 +8,5 @@ https://groups.google.com/forum/#!forum/javacpp-project
 https://mvnrepository.com/artifact/org.bytedeco/javacpp/
     1.4.2
 
+compare
 https://java.libhunt.com/compare-jnr-ffi-vs-javacpp

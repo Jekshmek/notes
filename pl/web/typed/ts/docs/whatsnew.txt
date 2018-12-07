@@ -1,6 +1,7 @@
 https://github.com/Microsoft/TypeScript/wiki/Roadmap
 
 3.2
+https://tproger.ru/news/microsoft-release-typescript32/
 https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/
 https://www.infoq.com/news/2018/11/typescript-3-2-release-bigint
 
