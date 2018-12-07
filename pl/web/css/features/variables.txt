@@ -1,6 +1,7 @@
 https://www.w3.org/TR/css-variables/
 
 2018
+https://css-tricks.com/dry-state-switching-with-css-variables-fallbacks-and-invalid-values/
 https://css-tricks.com/dry-switching-with-css-variables-the-difference-of-one-declaration/
 https://css-tricks.com/updating-a-css-variable-with-javascript/
 https://css-tricks.com/tag/custom-properties/

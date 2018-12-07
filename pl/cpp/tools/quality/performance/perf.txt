@@ -8,4 +8,11 @@ http://sandsoftwaresound.net/perf/perf-tut-profile-hw-events/
 
 articles
 2018
+https://dendibakh.github.io/blog/2018/09/04/Performance-Analysis-Vocabulary
+https://dendibakh.github.io/blog/2018/08/26/Basics-of-profiling-with-perf
 https://dendibakh.github.io/blog/2018/06/01/PMU-counters-and-profiling-basics
+
+presentations
+2018
+Bakhvalov - about Dealing with performance analysis in C and C++
+    https://www.youtube.com/watch?v=Lxw3K37OP-w

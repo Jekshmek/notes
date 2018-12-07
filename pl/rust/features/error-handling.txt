@@ -8,3 +8,6 @@ https://github.com/rust-lang/rfcs/pull/1937
 
 Try-trait
 https://github.com/rust-lang/rfcs/pull/1859
+
+2018
+https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
