@@ -1,21 +1,32 @@
-articles:
+https://rocket.rs
+https://github.com/SergioBenitez/Rocket
+
+https://rocket.rs/overview/
+
+articles
 https://mgattozzi.com/diesel-powered-rocket
 https://github.com/mgattozzi/mgattozzi
-
+2017
 http://blog.stephanbuys.com/2017/01/rocket-rocks-using-fromformvalue-traits.html
 
-guide:
+guide
 https://rocket.rs/guide/
 
-codegen:
+api
+https://api.rocket.rs
+
+whatsnew
+https://rocket.rs/news/
+https://rocket.rs/news/2018-12-08-version-0.4/
+https://rocket.rs/news/2017-07-14-version-0.3/
+https://rocket.rs/news/2017-02-06-version-0.2/
+
+codegen
 https://api.rocket.rs/rocket_codegen/index.html
 
-2FA:
+2FA
 https://skinkade.github.io/rocket-auth-demo/
 
-multipart:
+multipart
 https://www.reddit.com/r/rust/comments/65ikab/help_with_rocket_abonandermultipart/
 http://stackoverflow.com/questions/43424982/how-to-parse-multipart-forms-using-abonander-multipart-with-rocket
-
-whatsnew:
-https://rocket.rs/news/2017-02-06-version-0.2/

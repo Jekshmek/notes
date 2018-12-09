@@ -1,0 +1,2 @@
+2018
+Kusswurm - Modern x86 Assembly Language Programming 2nd ed

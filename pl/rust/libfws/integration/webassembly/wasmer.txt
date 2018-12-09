@@ -1,2 +1,5 @@
 https://wasmer.io/
 https://github.com/wasmerio/wasmer
+
+2018
+https://medium.com/@syrusakbary/running-nginx-with-webassembly-6353c02c08ac

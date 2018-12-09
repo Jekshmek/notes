@@ -23,6 +23,7 @@ https://www.ozon.ru/context/detail/id/142987816/
 
 2018
 Skansi - Introduction to Deep Learning
+Krohn - Deep Learning Illustrated (small, without math)
 
 Burtsev
 https://vk.com/doc4004138_453543210

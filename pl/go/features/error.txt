@@ -2,5 +2,7 @@ https://blog.golang.org/defer-panic-and-recover
 https://hackernoon.com/correct-error-handling-is-hard-307ea72759c7
 
 2018
+https://hackernoon.com/golang-handling-errors-gracefully-8e27f1db729f
+    https://nuancesprog.ru/p/2601/
 https://habr.com/post/425145/
 https://habr.com/post/422419/

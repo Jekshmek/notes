@@ -1,4 +1,5 @@
 2018
+https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/
 https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e
 https://codinginfinite.com/kotlin-coroutines-best-practices-example/
 https://medium.com/@elizarov/explicit-concurrency-67a8e8fd9b25

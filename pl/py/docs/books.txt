@@ -5,6 +5,9 @@ https://github.com/lancelote/interpy-ru/
 children
 https://habr.com/company/raiffeisenbank/blog/425843/
 
+2019
+Danjou - Serious Python
+
 2018
 Fedorov - Python Fundamentals ru (good intro!)
 Kalb - Learn to Program with Python 3 2nd ed
