@@ -2,6 +2,7 @@ Cpp Notes for Professionals
     http://goalkicker.com/CPlusPlusBook/
 
 2018
+Stroustroup - A Tour of Cpp 2nd ed
 Vandervoorde - Cpp Templates The Complete Guide 2nd ed
 Pikus - Hands-On Design Patterns with Cpp (incomplete)
 Savitch - Problem Solving with Cpp 10th ed

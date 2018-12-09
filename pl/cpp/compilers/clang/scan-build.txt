@@ -1,6 +1,10 @@
 https://clang-analyzer.llvm.org/
 https://clang-analyzer.llvm.org/scan-build.html
 
+2018
+Dergachev - Faster, Stronger C++ Analysis with the Clang Static Analyzer
+    https://www.youtube.com/watch?v=4n3l-ZcDJNY
+
     scan-build [clang|gcc] -c a.c
 
 https://clang-analyzer.llvm.org/installation.html
