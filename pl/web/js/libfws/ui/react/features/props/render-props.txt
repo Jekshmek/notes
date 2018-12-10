@@ -2,6 +2,7 @@ https://reactjs.org/docs/render-props.html
 https://github.com/the-road-to-learn-react/react-slot-pattern-example
 
 2018
+https://nuancesprog.ru/p/2623/
 https://css-tricks.com/an-overview-of-render-props-in-react/
 https://tylermcginnis.com/react-render-props
 https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
