@@ -1,4 +1,5 @@
 2018
+https://blogs.msdn.microsoft.com/vcblog/2018/12/10/guaranteed-copy-elision-does-not-elide-copies/
 Aloni - Rust - System Programming Language
     http://blog.aloni.org/rust-featurewise-slides-1/#/front-page
 https://www.fluentcpp.com/2018/07/17/how-to-construct-c-objects-without-making-copies/
