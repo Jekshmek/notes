@@ -21,6 +21,8 @@ clang support for lifetime
 https://github.com/CppCon/CppCon2018/blob/master/Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf
 
 2018
+Otus - GSL
+    https://www.youtube.com/watch?v=GafUgFxbZL4
 https://www.reddit.com/r/cpp/comments/8sge59/what_happened_to_msvc_cppcoreguideline_checker/
 
 2017

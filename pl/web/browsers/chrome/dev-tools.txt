@@ -15,6 +15,7 @@ https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-con
 
 tips
 https://umaar.com/dev-tips/
+https://www.heartinternet.uk/blog/16-devtools-tips-and-tricks-every-css-developer-need-to-know/
 
 articles
 2018

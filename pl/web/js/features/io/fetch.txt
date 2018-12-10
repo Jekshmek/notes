@@ -2,6 +2,7 @@ https://fetch.spec.whatwg.org/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://developers.google.com/web/updates/2018/12/background-fetch
 
 2018
 https://medium.com/google-developer-experts/background-fetch-api-get-ready-to-use-it-69cca522cd8f

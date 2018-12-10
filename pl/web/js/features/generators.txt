@@ -1,4 +1,5 @@
 2018
+https://medium.com/@andreasimonecosta/goodbye-transform-streams-long-live-es9-async-generators-86e60284fb80
 https://itnext.io/iterators-and-generators-do-have-a-place-in-modern-javascript-d4cb589b491
 https://hackernoon.com/javascript-es6-you-dont-really-need-to-learn-generators-96aa2e9114fa
     https://habr.com/company/ruvds/blog/417481/

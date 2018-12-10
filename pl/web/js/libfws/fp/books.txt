@@ -1,1 +1,4 @@
 https://github.com/MostlyAdequate/mostly-adequate-guide-ru
+
+2018
+Aravinth - Beginning Functional JavaScript 2nd ed

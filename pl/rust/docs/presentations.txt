@@ -4,6 +4,8 @@ https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists
 https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/videos
 
 2018
+Aloni - Rust - System Programming Language
+    http://blog.aloni.org/rust-featurewise-slides-1/#/front-page
 Kyren - ECS
 https://kyren.github.io/rustconf_2018_slides/index.html
 Oppermann - The Rust Way of OS Development

@@ -1,4 +1,6 @@
 2018
+https://quuxplusone.github.io/blog/2018/12/09/wctad/
+https://akrzemi1.wordpress.com/2018/12/09/deducing-your-intentions/
 Lavavej - Class Template Argument Deduction for Everyone
     https://www.youtube.com/watch?v=-H-ut6j1BYU
     https://github.com/CppCon/CppCon2018/blob/master/Presentations/class_template_argument_deduction_for_everyone/class_template_argument_deduction_for_everyone__stephan_t_lavavej__cppcon_2018.pdf
