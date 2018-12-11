@@ -1,0 +1,3 @@
+2018
+https://dzone.com/articles/hacking-lambda-expressions-in-java
+    https://habr.com/company/haulmont/blog/432418/
