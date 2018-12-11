@@ -1,3 +1,5 @@
 2018
+Borisov Tolkachev - Curse of the Spring Boot Test
+    https://www.youtube.com/watch?v=7mZqJShu_3c
 Bootiful Testing
     https://www.youtube.com/watch?v=1W5_tOiwEAc
