@@ -9,3 +9,6 @@ http://xion.io/post/code/rust-iter-patterns.html
 
 2016
 http://xion.io/post/code/rust-for-loop.html
+
+SO
+https://stackoverflow.com/questions/36368843/whats-the-most-idiomatic-way-of-working-with-an-iterator-of-results

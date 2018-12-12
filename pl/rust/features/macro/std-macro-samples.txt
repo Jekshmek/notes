@@ -1,0 +1,6 @@
+assert!
+assert_eq!
+format!
+println!
+try!
+vec!

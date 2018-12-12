@@ -2,9 +2,6 @@ URLs
 https://stackoverflow.com/questions/49785136/unwrap-or-continue-in-a-loop
 https://www.reddit.com/r/rust/comments/3ovk6p/what_to_use_when_you_want_to_unwrap_or/
 https://blog.codeship.com/understanding-rust-loops/
-https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html
-https://stackoverflow.com/questions/36368843/whats-the-most-idiomatic-way-of-working-with-an-iterator-of-results
-https://habr.com/post/270371/
 
 https://habr.com/post/432846/
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works

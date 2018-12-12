@@ -96,7 +96,13 @@ rustup
             x86_64-unknown-linux-musl
         ??
 
-    ? which|doc|man|set|completions
+    doc
+        --path
+        --std
+        --book
+        --reference
+
+    ? which|man|set|completions
 
 shorthands:
 rustc +nightly foo.rs

@@ -1,3 +1,9 @@
+https://doc.rust-lang.org/book/ch09-00-error-handling.html
+    https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#handling-potential-failure-with-the-result-type
+    https://habr.com/post/270371/
+
+https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html
+
 http://blog.burntsushi.net/rust-error-handling/
 
 ?-operator
