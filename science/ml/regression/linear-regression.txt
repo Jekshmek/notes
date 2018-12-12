@@ -3,6 +3,7 @@ https://habrahabr.ru/post/324890/
 https://habrahabr.ru/company/ods/blog/322076/
 
 2018
+https://towardsdatascience.com/step-by-step-tutorial-on-linear-regression-with-stochastic-gradient-descent-1d35b088a843
 Linear Regression Analysis | Linear Regression in Python | Machine Learning Algorithms | Simplilearn
 https://www.youtube.com/watch?v=NUXdtN1W1FE
 https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc

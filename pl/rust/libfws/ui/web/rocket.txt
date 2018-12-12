@@ -3,6 +3,35 @@ https://github.com/SergioBenitez/Rocket
 
 https://rocket.rs/overview/
 
+https://crates.io/crates/rocket
+https://crates.io/crates/rocket_http
+https://crates.io/crates/rocket_codegen
+https://crates.io/crates/rocket_cors
+https://crates.io/crates/rocket_contrib
+https://crates.io/crates/rocket-simpleauth
+https://crates.io/crates/rocket_static_fs
+https://crates.io/crates/rocket-include-static-resources
+https://crates.io/crates/rocket-include-handlebars
+https://crates.io/crates/rocket-lenient-json
+https://crates.io/crates/rocket-auth-login
+https://crates.io/crates/rocket-etagged-file-response
+https://crates.io/crates/rocket-download-response
+https://crates.io/crates/rocket-client-addr
+https://crates.io/crates/rocket_i18n
+https://crates.io/crates/rocket-etag-if-none-match
+https://crates.io/crates/rocket-slog
+https://crates.io/crates/rocket-multipart-form-data
+https://crates.io/crates/rocket-json-response
+https://crates.io/crates/rocket-cache-response
+https://crates.io/crates/rocket-accept-language
+https://crates.io/crates/rocket-raw-response
+https://crates.io/crates/rocket-etagged-raw-response
+https://crates.io/crates/rocket-mongo-file-center-raw-response
+https://crates.io/crates/rocket_failure
+https://crates.io/crates/rocket_igniter
+https://crates.io/crates/rocket_oauth2
+https://crates.io/crates/rocket-mongo-file-center-download-response
+
 articles
 https://mgattozzi.com/diesel-powered-rocket
 https://github.com/mgattozzi/mgattozzi
@@ -11,6 +40,7 @@ http://blog.stephanbuys.com/2017/01/rocket-rocks-using-fromformvalue-traits.html
 
 guide
 https://rocket.rs/guide/
+https://rocket.rs/guide/getting-started/
 
 api
 https://api.rocket.rs
@@ -32,3 +62,7 @@ https://www.reddit.com/r/rust/comments/65ikab/help_with_rocket_abonandermultipar
 http://stackoverflow.com/questions/43424982/how-to-parse-multipart-forms-using-abonander-multipart-with-rocket
 
 https://github.com/kpcyrd/rocket_failure
+
+samples
+https://github.com/SergioBenitez/Rocket/tree/master/examples
+https://github.com/SergioBenitez/Rocket/tree/master/examples/hello_world

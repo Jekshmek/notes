@@ -1,9 +1,10 @@
 URLs
+https://habr.com/post/432846/
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Dec 10
+    Dec 12
 
 track
 scoop extras - a
@@ -91,6 +92,8 @@ https://predanie.ru/bez-avtora/radost-voploschennogo-duha/slushat/
 https://predanie.ru/bez-avtora/vyshel-seyatel-seyat-nasledie-otca-aleksandra-menya-segodnya/slushat/
 https://predanie.ru/kruglov-sergey-gennadevich-ierey/poeticheskiy-vecher-v-moskve/slushat/
 https://predanie.ru/svjashcennik-konstantin-parhomenko/pritchi-hristovy-o-chem-oni-na-samom-dele/slushat/
+https://predanie.ru/bez-avtora/unynie-pechal-depressiya-v-chem-raznica-i-chto-delat/slushat/
+https://predanie.ru/safronov-petr/socialnye-koncepcii-hristianskih-cerkvey-v-poiskah-spravedlivosti/slushat/
 
 Tracking
 This week in rust                                   - 262

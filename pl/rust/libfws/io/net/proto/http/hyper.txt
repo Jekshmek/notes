@@ -1,9 +1,13 @@
 https://hyper.rs/
+
 https://crates.io/crates/hyper
 https://docs.rs/hyper
 https://github.com/hyperium/hyper
 
 https://hyper.rs/guides/
+https://hyper.rs/guides/server/hello-world/
+https://hyper.rs/guides/server/echo/
+https://hyper.rs/guides/client/basic/
 
 async
 https://mgattozzi.com/hyper-async
