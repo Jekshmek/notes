@@ -8,6 +8,11 @@ cargo
         -f <name>
             update installed <name>
     new <prj-name>
+        create a new cargo package
+        --bin (default)
+        --lib
+    init <prj-name>
+        create a new cargo package in existing directory
         --bin (default)
         --lib
     check
