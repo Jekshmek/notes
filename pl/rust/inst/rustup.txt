@@ -60,13 +60,6 @@ rustup
         
         $RUSTUP_HOME/settings.toml:
         default_toolchain = "stable-x86_64-unknown-linux-gnu"
-
-    toolchain
-        list
-        uninstall
-            <toolchain>
-    run
-        <toolchain> cmd
     override
         set <toolchain>
             directory overrides at $RUSTUP_HOME/settings.toml
@@ -76,6 +69,13 @@ rustup
 
             [overrides]
             "/data/wrk/prj/cargo/s1" = "nightly-x86_64-unknown-linux-gnu"
+
+    toolchain
+        list
+        uninstall
+            <toolchain>
+    run
+        <toolchain> cmd
     component
         add
             rust-src

@@ -1,4 +1,11 @@
 URLs
+https://stackoverflow.com/questions/49785136/unwrap-or-continue-in-a-loop
+https://www.reddit.com/r/rust/comments/3ovk6p/what_to_use_when_you_want_to_unwrap_or/
+https://blog.codeship.com/understanding-rust-loops/
+https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html
+https://stackoverflow.com/questions/36368843/whats-the-most-idiomatic-way-of-working-with-an-iterator-of-results
+https://habr.com/post/270371/
+
 https://habr.com/post/432846/
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -63,7 +70,7 @@ Paschenko - Game 2 - 21v                             -  00:00 (of 1:17:32)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-15                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 66                                      -   03:00 (of)
+Sorokin - B 67                                      -   16:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
