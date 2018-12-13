@@ -1,3 +1,6 @@
+2019
+Gutierrez - Pro Spring Boot 2 2nd ed 
+
 2018
 Deinum - Spring Boot 2 Recipes
 https://www.infoq.com/minibooks/spring-boot-building-api-backend
