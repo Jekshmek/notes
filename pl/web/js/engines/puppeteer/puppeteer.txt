@@ -24,3 +24,6 @@ https://github.com/GoogleChromeLabs/first-input-delay
 https://developers.google.com/web/updates/2018/05/first-input-delay
 
 https://github.com/checkly/puppeteer-recorder
+
+for firefox
+https://github.com/GoogleChrome/puppeteer/tree/master/experimental/puppeteer-firefox

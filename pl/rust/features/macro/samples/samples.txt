@@ -16,5 +16,3 @@ externs![rocket, rocket_contrib, serde_json,
 chrono, dotenv, postgres, r2d2, 
 r2d2_postgres, r2d2_diesel, tera, 
 serde_derive, toml, glob];
-
-http://maxim.livejournal.com/508988.html

@@ -1,6 +1,7 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
 2018
+https://v8.dev/blog/spread-elements
 https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/
 
 arr - array

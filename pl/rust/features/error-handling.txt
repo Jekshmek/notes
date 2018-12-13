@@ -4,7 +4,14 @@ https://doc.rust-lang.org/book/ch09-00-error-handling.html
 
 https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html
 
+io::Error
+https://rust-lang-nursery.github.io/edition-guide/rust-2018/error-handling-and-panics/question-mark-in-main-and-tests.html
+
 http://blog.burntsushi.net/rust-error-handling/
+
+https://doc.rust-lang.org/book/ch17-02-trait-objects.html
+type DynErrT = Box<dyn std::error::Error>;
+type ResT<T> = Result<T, DynErrT>;
 
 ?-operator
 https://www.reddit.com/r/rust/comments/6e9bvb/extend_to_operate_over_other_types_rfc_has_been/
