@@ -1,4 +1,5 @@
 2018
+https://medium.com/@xiaonuo.gantan/rust-module-best-practices-d85f18610522
 https://medium.com/@erik.tate/rust-modules-in-less-than-5-minutes-9bff7f617798
 https://medium.com/@eonil/rust-module-system-why-not-just-one-directory-for-one-module-84bc71a3f347
 https://chronicbuildfailure.co/splitting-up-modules-in-rust-5ad7713201d5

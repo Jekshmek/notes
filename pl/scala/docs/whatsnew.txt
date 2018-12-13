@@ -1,5 +1,7 @@
 2018
+Odersky - New Functional Constructs in Scala 3
+    https://www.youtube.com/watch?v=6P06YHc8faw
 Zeiger - Migrating to Scala 2.13
-https://www.youtube.com/watch?v=8pl90az8eTY
+    https://www.youtube.com/watch?v=8pl90az8eTY
 https://jug.ru/2018/08/scala-digest-6/
 https://www.slideshare.net/Odersky/preparing-for-scala-3

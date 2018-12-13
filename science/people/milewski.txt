@@ -1,4 +1,5 @@
 2018
+https://bartoszmilewski.com/2018/12/11/keep-it-simplex-stupid/
 https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
 https://bartoszmilewski.com/2018/07/30/free-monoid-from-free-algebra-part-1/
 https://bartoszmilewski.com/2018/07/30/free-monoid-from-free-algebra-part-2/
