@@ -5,6 +5,8 @@ Moller - Design of a low-level C++ template SIMD library
     https://www.ti.uni-bielefeld.de/downloads/publications/templateSIMD.pdf
 
 2018
+Mott - SIMD Intrinsics
+    https://www.youtube.com/watch?v=4Gs_CA_vm3o
 Amstutz - Compute More in Less Time Using C++ Simd Wrapper Libraries
     https://www.youtube.com/watch?v=8khWb-Bhhvs
 hadmade hero

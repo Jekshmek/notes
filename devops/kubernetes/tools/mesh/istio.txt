@@ -53,6 +53,9 @@ https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes
 misc
 https://istio.io/help/ops/component-debugging/
 
+gke
+https://cloud.google.com/istio/docs/istio-on-gke/overview
+
 whatsnew
 https://www.infoq.com/news/2018/08/istio-1.0-service-mesh
 https://www.infoq.com/news/2018/08/Istio-lin-sun
