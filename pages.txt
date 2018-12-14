@@ -1,5 +1,4 @@
 URLs
-https://stackoverflow.com/questions/49785136/unwrap-or-continue-in-a-loop
 https://www.reddit.com/r/rust/comments/3ovk6p/what_to_use_when_you_want_to_unwrap_or/
 https://blog.codeship.com/understanding-rust-loops/
 
@@ -8,7 +7,7 @@ https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Dec 13
+    Dec 14
 
 track
 scoop extras - a

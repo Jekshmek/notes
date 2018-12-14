@@ -1,0 +1,6 @@
+https://crates.io/crates/warp
+https://docs.rs/warp
+https://github.com/seanmonstar/warp
+
+2018
+https://seanmonstar.com/post/176530511587/warp

@@ -16,6 +16,8 @@ https://hub.docker.com/r/microsoft/dotnet/
 https://github.com/dotnet/dotnet-docker
 
 whatsnew
+https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-net-core-2-2/
+    https://habr.com/company/jugru/blog/433144/
 https://github.com/dotnet/core/tree/master/release-notes
 https://www.infoq.com/news/2017/06/dotnetcore2-preview2
 https://blogs.msdn.microsoft.com/dotnet/2017/06/28/announcing-net-core-2-0-preview-2/

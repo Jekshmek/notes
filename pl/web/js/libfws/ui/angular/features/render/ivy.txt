@@ -1,3 +1,4 @@
 2018
+https://blog.nrwl.io/metaprogramming-higher-order-components-and-mixins-with-angular-ivy-75748fcbc310
 https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/
     https://habr.com/company/piter/blog/419389/
