@@ -38,3 +38,5 @@ minikube
         list
         delete
         add
+
+    addons

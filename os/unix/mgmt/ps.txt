@@ -4,7 +4,7 @@ alias psmem='ps auxf | sort -nr -k 4'
 ## get top process eating cpu ##
 alias pscpu='ps auxf | sort -nr -k 3'
 
-ps -o pid,cmd,pmem,vsz
+ps -o pid,cmd,pmem,vsz,size,rss
   print pid and cmd-line
 
 # get top process eating memory
