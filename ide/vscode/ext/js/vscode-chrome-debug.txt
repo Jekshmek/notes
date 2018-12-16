@@ -1,2 +1,5 @@
 https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 https://github.com/Microsoft/vscode-chrome-debug
+
+2018
+https://wallabyjs.com/docs/intro/value-explorer.html

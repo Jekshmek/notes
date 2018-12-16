@@ -19,6 +19,7 @@ https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
 2018
+https://overreacted.io/why-do-hooks-rely-on-call-order/
 https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba
 https://blog.bitsrc.io/simple-code-reuse-with-react-hooks-432f390696bf
 https://www.reaktor.com/blog/make-react-reactive-by-using-hooks/

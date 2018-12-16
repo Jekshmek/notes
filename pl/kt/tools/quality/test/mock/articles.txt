@@ -1,2 +1,3 @@
 2018
+https://blog.kotlin-academy.com/advent-of-kotlin-week-4-mocking-cde699ec9963
 https://medium.com/@ibosz/mocking-static-method-in-kotlin-614df89482ae

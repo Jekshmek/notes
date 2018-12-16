@@ -1,4 +1,5 @@
 2018
+https://www.freedomlayer.org/offst/option-iterator/
 https://paulkernfeld.com/2018/11/03/flatten-nested-iterator-result.html
     https://www.reddit.com/r/rust/comments/9u6846/rust_puzzle_flatten_a_nested_iterator_of_results/
 
