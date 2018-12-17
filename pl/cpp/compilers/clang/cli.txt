@@ -8,5 +8,6 @@ https://llvm.org/docs/LangRef.html#getelementptr-instruction
 https://llvm.org/docs/GetElementPtr.html
 
 -O0 -S -emit-llvm
+    -c -emit-llvm
     2018
     https://blog.regehr.org/archives/1605

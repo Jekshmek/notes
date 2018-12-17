@@ -22,3 +22,6 @@ https://habr.com/post/426983/
 https://habr.com/post/423879/
 https://habr.com/post/423497/
 http://eao197.blogspot.com/2018/09/progflame-akka-sobjectizer.html
+
+testing
+http://eao197.blogspot.com/2018/12/progc-unit-sobjectizer.html
