@@ -1,4 +1,6 @@
 2018
+https://blog.frankel.ch/even-odd-coroutines/
+    https://www.reddit.com/r/programming/comments/a6qoc7/even_and_odd_with_coroutines/
 https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/
 https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e
 https://codinginfinite.com/kotlin-coroutines-best-practices-example/

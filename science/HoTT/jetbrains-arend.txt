@@ -1,0 +1,30 @@
+https://research.jetbrains.org/ru/groups/group-for-dependent-types-and-hott
+    https://vk.com/typetheory
+
+https://arend.readthedocs.io/en/latest/
+https://arend.readthedocs.io/en/latest/getting-started/
+https://arend.readthedocs.io/en/latest/language-reference/
+
+https://github.com/JetBrains/Arend
+https://github.com/JetBrains/arend-lib
+
+plugin
+https://github.com/JetBrains/intellij-arend
+
+people
+https://github.com/edgarzhavoronkov
+    https://vk.com/ed.zhavoronkov
+valis (Valery Isaev)
+https://github.com/valis
+    https://research.jetbrains.org/ru/researchers/valis
+    https://github.com/esengie/Master-thesis/blob/master/diploma.pdf
+    https://www.youtube.com/channel/UCKjg3udGxUrfI1T1pEiyQYg
+    https://www.youtube.com/channel/UCKjg3udGxUrfI1T1pEiyQYg/videos
+        https://github.com/valis/DT2018
+https://github.com/valis/hott-doc
+https://github.com/valis/valis.github.io
+    https://github.com/valis/valis.github.io/blob/master/vclang.pdf
+    https://github.com/valis/valis.github.io/blob/master/tau.pdf
+    https://github.com/valis/valis.github.io/blob/master/doc.pdf
+    https://github.com/valis/valis.github.io/blob/master/algtt.pdf
+https://github.com/valis/DT2018

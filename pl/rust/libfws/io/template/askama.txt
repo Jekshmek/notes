@@ -1,6 +1,0 @@
-https://crates.io/crates/askama
-https://crates.io/crates/askama_derive
-
-https://docs.rs/askama/0.3.1/askama/
-
-https://github.com/djc/askama

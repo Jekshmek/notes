@@ -1,4 +1,5 @@
 2018
+https://blog.therocode.net/2018/12/exploring-cpp-20-three-way-comparison-aka-spaceship-operator
 https://foonathan.net/blog/2018/09/07/three-way-comparison.html
 https://blog.tartanllama.xyz/spaceship-operator/
 https://foonathan.net/blog/2018/07/19/ordering-relations-programming.html
