@@ -1,6 +1,4 @@
 URLs
-https://www.reddit.com/r/rust/comments/3ovk6p/what_to_use_when_you_want_to_unwrap_or/
-
 https://habr.com/post/432846/
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/

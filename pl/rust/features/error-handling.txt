@@ -27,6 +27,7 @@ https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
 
 misc
 https://stackoverflow.com/questions/49785136/unwrap-or-continue-in-a-loop
+https://www.reddit.com/r/rust/comments/3ovk6p/what_to_use_when_you_want_to_unwrap_or/
 
 warn!
 skip_fail!

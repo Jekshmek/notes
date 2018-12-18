@@ -1,4 +1,5 @@
 2018
+https://habr.com/company/otus/blog/432302/
 https://habr.com/company/otus/blog/430780/
 https://medium.com/analytics-vidhya/https-medium-com-tomkenter-why-care-about-byte-level-seq2seq-models-in-nlp-26bcf05dd7d3
 Sequence to Sequence models: Attention Models
