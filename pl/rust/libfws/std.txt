@@ -7,6 +7,11 @@ prelude
 https://doc.rust-lang.org/std/prelude/
 https://doc.rust-lang.org/std/io/prelude/
 
+result
+https://doc.rust-lang.org/std/result/
+    .and_then(|d| d.bla_bla())
+    .unwrap_or_else(|e| e.exit())
+
 RefCounting
 https://doc.rust-lang.org/nightly/std/rc/
 https://doc.rust-lang.org/nightly/std/sync/struct.Arc.html
