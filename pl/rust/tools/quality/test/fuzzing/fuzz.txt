@@ -1,5 +1,8 @@
 https://github.com/rust-fuzz/cargo-fuzz
 
+books
+https://fuzz.rs/book/
+
 articles
 2018
 https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30

@@ -1,6 +1,8 @@
 https://deeplearning.mit.edu/
 
 2018
+https://stanford.edu/~shervine/teaching/cs-229.html
+    https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en
 MyCS - Deep Learning Full Course
     https://www.youtube.com/playlist?list=PLqrmzsjOpq5jctokAY61zrLxlE6Ub4tW_
 Simon Kozlov - Deep Learning Course ru

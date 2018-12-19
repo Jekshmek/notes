@@ -1,4 +1,6 @@
 2018
+https://itnext.io/how-to-optimize-angular-applications-99bfab0f0b7c
+    https://nuancesprog.ru/p/2720/
 https://www.toptal.com/angular/angular-6-tutorial-new-features-power
 https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4
 https://www.sitepoint.com/change-detection-angular/

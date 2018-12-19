@@ -7,6 +7,7 @@ https://arend.readthedocs.io/en/latest/language-reference/
 
 https://github.com/JetBrains/Arend
 https://github.com/JetBrains/arend-lib
+https://github.com/groupoid/infinity/tree/master/arend
 
 plugin
 https://github.com/JetBrains/intellij-arend

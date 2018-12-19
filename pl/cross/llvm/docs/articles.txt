@@ -12,4 +12,7 @@ https://habrahabr.ru/post/336980/
 https://habrahabr.ru/post/337240/
 
 2018
+https://blog.regehr.org/archives/1605
+    https://habr.com/post/431688/
+    https://www.cs.cmu.edu/~fp/courses/15411-f13/lectures/17-loopopt.pdf
 https://blog.regehr.org/archives/1603

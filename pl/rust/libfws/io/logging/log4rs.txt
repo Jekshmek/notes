@@ -1,5 +1,0 @@
-https://crates.io/crates/log4rs
-https://docs.rs/log4rs
-https://github.com/sfackler/log4rs
-
-https://rust-lang-nursery.github.io/rust-cookbook/logging.html#ex-log-custom
