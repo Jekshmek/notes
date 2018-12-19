@@ -1,0 +1,4 @@
+https://crates.io/crates/xml-rs
+http://netvl.github.io/xml-rs/xml/index.html
+
+http://netvl.github.io/xml-rs/xml/escape/fn.escape_str_attribute.html
