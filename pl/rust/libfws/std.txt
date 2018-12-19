@@ -38,6 +38,7 @@ http://www.cs.brandeis.edu/%7Ecs146a/rust/doc-02-21-2015/nightly/std/sync/struct
 
 path
 https://doc.rust-lang.org/std/path/
+https://doc.rust-lang.org/std/path/struct.Path.html
 
 iter
 https://doc.rust-lang.org/std/iter/index.html
