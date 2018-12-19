@@ -1,4 +1,5 @@
 2018
+https://medium.freecodecamp.org/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f
 https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
     https://habr.com/company/ruvds/blog/418633/
     https://medium.com/webbdev/%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-javascript-479594e680b7

@@ -1,2 +1,3 @@
 2018
+https://hashnode.com/post/currying-in-rust-part-2-a-glimpse-of-generics-cjphbgun90025pms241ggh3d9
 https://hashnode.com/post/currying-in-rust-cjpfb0i2z00cm56s2aideuo4z

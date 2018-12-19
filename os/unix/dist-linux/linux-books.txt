@@ -1,1 +1,10 @@
+http://www.linuxfromscratch.org/
+http://www.linuxfromscratch.org/lfs/
+    http://www.linuxfromscratch.org/lfs/download.html
+    http://www.linuxfromscratch.org/lfs/read.html
+    https://book.linuxfromscratch.org.ru/systemd/chapter03/introduction.html
+http://www.linuxfromscratch.org/blfs/
+    http://www.linuxfromscratch.org/blfs/view/svn/
+http://www.linuxfromscratch.org/alfs/
+
 LaCroix - Mastering Linux Network Administration
