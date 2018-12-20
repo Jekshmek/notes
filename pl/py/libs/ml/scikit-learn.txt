@@ -4,3 +4,7 @@ https://habr.com/post/430280/
 https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
 2015
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
+
+books
+2018
+Saleh - 2018 - Machine Learning Fundamentals

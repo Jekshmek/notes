@@ -1,4 +1,5 @@
 2018
+Borggreve - Server-Side Enterprise Development with Angular (too short and simple)
 NinjaSquad - Become A Ninja With Angular
 Vuika - Developing With Angular
 Freeman - Pro Angular 6 3rd ed

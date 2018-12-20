@@ -10,6 +10,9 @@ misc books review:
 https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
 
+2019
+Porcu - Python for Data Mining (too short)
+
 2018
 Mathematics for ML
     https://mml-book.github.io/

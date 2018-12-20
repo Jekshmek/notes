@@ -22,6 +22,7 @@ https://oz.by/books/more10663570.html
 https://www.ozon.ru/context/detail/id/142987816/
 
 2018
+Vieira - Introduction to Deep Learning Business Applications for Developers (too shallow)
 Skansi - Introduction to Deep Learning
 Krohn - Deep Learning Illustrated (small, without math)
 
