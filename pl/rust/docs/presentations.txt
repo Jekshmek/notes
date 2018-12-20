@@ -1,5 +1,6 @@
 https://speakerdeck.com/hywan/hello-rust-an-overview
 
+https://www.youtube.com/c/rustvideos
 https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists
 https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/videos
 https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/videos

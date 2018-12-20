@@ -8,11 +8,14 @@ https://github.com/groupoid/infinity
 http://groupoid.space/mltt/types/
 https://github.com/groupoid/groupoid.space/blob/master/tex/dissertation/manuscript/dissertation.pdf
 
+library
+http://cubical.systems/
+
 http://t.me/groupoid
 http://t.me/systemflow
 http://t.me/formalphilosophy
 
-exe:
+exe
 https://github.com/groupoid/exe/blob/master/doc/
     proposal.pdf
     encoding.pdf

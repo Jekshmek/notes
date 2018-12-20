@@ -1,6 +1,6 @@
 URLs
 https://ru-bykov.livejournal.com/3669214.html
-    2
+    3
 https://habr.com/post/432846/
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
@@ -71,7 +71,8 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 30 of 34                                 -   41:00 (of 2:39:11)
+Chernyak - 31 of 34                                 -   02:00 (of 2:18:30)
+    https://www.youtube.com/watch?v=j1DzjFQ2tEY
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
@@ -115,7 +116,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiy                                 - 241.0 (of 1388)
+Kantor - Demokratiy                                 - 268.0 (of 1388)
 Shalyto - motivation                                - 030   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 

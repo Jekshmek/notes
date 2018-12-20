@@ -20,6 +20,7 @@ cargo
     build
         [-v] --verbose
         --all
+        --example <example-name>
         [--release]
         --features 'simd-accel avx-accel'
         --features="experimental"
@@ -32,6 +33,7 @@ cargo
         https://www.reddit.com/r/rust/comments/5a21b8/cargoupdate_check_for_updates_to_your/
     test [--no-build]
     run
+        --example <example-name>
     edit
         https://github.com/killercup/cargo-edit
         + add
