@@ -1,6 +1,8 @@
 https://flaviocopes.com/console-api/
 
 2018
+https://thedevs.network/blog/you-have-been-using-console-wrong-the-whole-time
+    https://proglib.io/p/console-gift/
 https://wallabyjs.com/docs/intro/advanced-logging.html
 https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8
 https://itnext.io/10-console-tricks-to-debug-like-a-pro-66ee2225ec57

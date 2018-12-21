@@ -1,2 +1,3 @@
 2018
+https://v8.dev/blog/v8-release-72
 http://jem-space.ru/kak-rabotaiet-javascript/
