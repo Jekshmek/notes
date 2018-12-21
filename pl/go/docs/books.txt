@@ -1,3 +1,10 @@
+https://github.com/golang/go/wiki/Books
+
+https://www.golang-book.com/
+https://www.golang-book.com/books/intro
+http://golang-book.ru/
+    https://github.com/zenwalker/golang-book
+
 2018
 Tsoukalos - Mastering Go
 Youngman - Get Programming with Go

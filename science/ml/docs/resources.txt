@@ -16,6 +16,10 @@ https://proglib.io/p/learning-ml/
 
 https://habrahabr.ru/company/spbifmo/blog/326894/
 
+homemade
+https://github.com/trekhleb/homemade-machine-learning
+    https://habr.com/post/433886/
+
 google stuff
 https://distill.pub/about/
 https://github.com/distillpub

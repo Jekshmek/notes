@@ -6,3 +6,9 @@ McNellis - Unwinding the stack
 Edwards - Cpp Exception Handling - The gory details of an implementation
     https://isainmdom.com/~peadar/eximpl/
     https://www.youtube.com/watch?v=XpRL7exdFL8
+
+2016
+https://monoinfinito.wordpress.com/series/exception-handling-in-c/
+    https://habr.com/post/279149/
+    https://habr.com/post/279151/
+    https://habr.com/post/279111/

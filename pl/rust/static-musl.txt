@@ -4,7 +4,7 @@ cargo build --target=i686-unknown-linux-musl --release
 
 https://github.com/fornwall/rust-static-builder
 
-docker:
+docker
 ekidd/rust-musl-builder:stable
 ekidd/rust-musl-builder:nightly
 clux/muslrust:stable

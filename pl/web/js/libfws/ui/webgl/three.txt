@@ -12,6 +12,10 @@ http://tower-defence.bitballoon.com/
 https://github.com/qvantor/react-tower-defence
 https://github.com/toxicFork/react-three-renderer-fiber
 
+2018
+https://habr.com/post/433876/
+    https://github.com/sfi0zy/christmas-tree
+
 books
 2013
 Sukin - Game Development with ThreeJS

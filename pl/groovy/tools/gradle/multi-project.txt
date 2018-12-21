@@ -1,5 +1,9 @@
 https://docs.gradle.org/current/userguide/multi_project_builds.html
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:execution_rules_for_multi_project_builds
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:project_jar_dependencies
+https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:depending_on_output_of_another_project
 
+2015
 https://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-multi-project-build/
 
 samples
@@ -8,7 +12,6 @@ https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-i-n
 https://idodevjobs.wordpress.com/2017/02/25/gradle-multi-module-example-type-ii-flat/
 
 guides
-https://docs.gradle.org/current/userguide/multi_project_builds.html
 https://guides.gradle.org/creating-multi-project-builds/
     https://github.com/gradle-guides/creating-multi-project-builds/
 https://spring.io/guides/gs/multi-module/

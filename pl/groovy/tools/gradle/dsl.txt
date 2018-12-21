@@ -17,6 +17,8 @@ FileCollection
 https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileCollection.html
 FileTree
 https://docs.gradle.org/current/javadoc/org/gradle/api/file/FileTree.html
+ProjectDescriptor
+https://docs.gradle.org/current/javadoc/org/gradle/api/initialization/ProjectDescriptor.html
 
 src
 https://github.com/gradle/gradle/blob/master/subprojects/docs/src/docs/dsl/dsl.xml

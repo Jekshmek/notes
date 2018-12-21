@@ -4,6 +4,7 @@ https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
 
 articles
 2018
+https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html
 https://tinkering.xyz/posts/introduction-to-proc-macros/
 
 https://habrahabr.ru/post/321564/

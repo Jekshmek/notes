@@ -1,0 +1,3 @@
+https://crates.io/crates/rhai
+https://docs.rs/rhai
+https://github.com/jonathandturner/rhai

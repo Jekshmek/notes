@@ -8,3 +8,6 @@ https://mvnrepository.com/artifact/org.mock-server/mockserver-client
 https://mvnrepository.com/artifact/org.mock-server/mockserver-logging
 https://mvnrepository.com/artifact/org.mock-server/mockserver-netty
 https://mvnrepository.com/artifact/org.mock-server/mockserver-integration-testing
+
+2018
+https://www.baeldung.com/mockserver

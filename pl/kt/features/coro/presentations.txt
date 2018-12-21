@@ -1,4 +1,7 @@
 2018
+Elizarov - Kotlin Coroutines
+    https://assets.ctfassets.net/oxjq45e8ilak/6fO6Fs6geWoKeaqAAYAQmy/38bafe413ebb263ef274844d5e2cd638/Elizarov_-_Kotlin_Coroutines_-_2018_JPoint.pdf
+    https://www.youtube.com/watch?v=rB5Q3y73FTo
 PradeepK - Kotlin Coroutines Introduction (short)
     https://www.youtube.com/watch?v=gxTFZ7GeNVg
 Kaminski - Asynchronous Programming with Kotlin Coroutines in Spring
