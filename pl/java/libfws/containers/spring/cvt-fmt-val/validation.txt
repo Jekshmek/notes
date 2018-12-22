@@ -1,3 +1,5 @@
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html#boot-features-external-config-validation
+
 2018
 https://reflectoring.io/bean-validation-with-spring-boot/
 https://habr.com/post/424819/

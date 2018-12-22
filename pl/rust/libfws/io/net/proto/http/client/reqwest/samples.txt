@@ -8,3 +8,7 @@ https://docs.rs/machinebox
     https://github.com/encabulators/machinebox/blob/master/src/lib.rs
     https://github.com/encabulators/machinebox/blob/master/src/textbox.rs
     https://medium.com/@KevinHoffman/democratizing-machine-learning-with-machinebox-and-rust-dc08fcfb6791
+
+let resp = client.get("http://localhost:8080/analyze")
+    .query(&[("text", text)])
+    .send()?;

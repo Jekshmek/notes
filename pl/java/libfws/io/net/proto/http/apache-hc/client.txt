@@ -17,3 +17,7 @@ http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/index.html
 
 ?
 http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/org/apache/http/impl/client/HttpClientBuilder.html
+
+2018
+https://stackoverflow.com/questions/12059278/how-to-post-json-request-using-apache-httpclient
+https://www.baeldung.com/httpclient-post-http-request
