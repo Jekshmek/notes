@@ -2,11 +2,12 @@ URLs
 https://www.youtube.com/watch?v=NduEemWCpKM
     tank
 https://habr.com/post/432846/
+    podhod homskogo i marra
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Dec 23
+    Dec 24
 
 track
 scoop extras - a
@@ -98,6 +99,8 @@ https://predanie.ru/svjashcennik-konstantin-parhomenko/pritchi-hristovy-o-chem-o
 https://predanie.ru/bez-avtora/unynie-pechal-depressiya-v-chem-raznica-i-chto-delat/slushat/
 https://predanie.ru/safronov-petr/socialnye-koncepcii-hristianskih-cerkvey-v-poiskah-spravedlivosti/slushat/
 https://predanie.ru/bez-avtora/vzroslye-deti-i-ih-roditeli-kak-eti-otnosheniya-vliyayut-na-nas-i-chto-s-etim-delat/slushat/
+https://predanie.ru/bogina-elena-vladimirovna/pyat-velikih-detskih-igr-igrovoy-uroven-otnosheniy-roditelya-s-rebenkom/slushat/
+https://predanie.ru/volchkov-aleksey-ierey/iail-i-dalila-zhenschiny-knigi-sudey/slushat/
 
 Tracking
 This week in rust                                   - 265
@@ -149,3 +152,13 @@ kill order 2017
      1.3
 myortvye zemli
      1.5
+
+poputchik
+snyper ghost shooter
+snyper special ops
+snyper ultimate kill
+snyper 2014
+terminator 2
+terminator genesis
+predator 2018
+terminator 1984
