@@ -2,7 +2,7 @@ URLs
 https://www.youtube.com/watch?v=NduEemWCpKM
     tank
 https://habr.com/post/432846/
-    podhod homskogo i marra
+    Hebb plasticity
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
@@ -103,7 +103,7 @@ https://predanie.ru/bogina-elena-vladimirovna/pyat-velikih-detskih-igr-igrovoy-u
 https://predanie.ru/volchkov-aleksey-ierey/iail-i-dalila-zhenschiny-knigi-sudey/slushat/
 
 Tracking
-This week in rust                                   - 265
+This week in rust                                   - 266
 Razbor Poletov                                      - 191
     http://traffic.libsyn.com/razborpoletov/razbor_191.mp3
 ACCU Overload                                       - 146
