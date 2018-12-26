@@ -10,3 +10,5 @@ http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html
 books
 2016
 Lengyel - Foundations of Game Engine Development vol1 Mathematics
+2008
+Vince - Geometric Algebra for Computer Graphics
