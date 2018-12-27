@@ -1,4 +1,6 @@
 2018
+https://medium.com/vuetify/productivity-in-vue-part-1-de56e9c1d97d
+    https://habr.com/post/433864/
 https://medium.com/@matuspeciar/vue-gotchas-29abd5541f49
 https://medium.freecodecamp.org/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f
 https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d

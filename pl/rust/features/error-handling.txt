@@ -23,6 +23,7 @@ Try-trait
 https://github.com/rust-lang/rfcs/pull/1859
 
 2018
+https://www.reddit.com/r/rust/comments/a9wbs8/eli5_error_handling_errorchain_failure_upcoming/ecnosdi/
 https://medium.com/learning-rust/rust-error-handling-72a8e036dd3
 
 misc

@@ -1,3 +1,4 @@
 2018
+https://medium.freecodecamp.org/an-introduction-to-next-js-for-everyone-507d2d90ab54
 https://pusher.com/tutorials/polling-web-app-nextjs
 https://www.storyblok.com/tp/next-js-react-guide
