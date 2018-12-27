@@ -26,3 +26,6 @@ Simplilearn - Recurrent Neural Network (RNN) Tutorial
 2017
 Recurrent Neural Networks (DLAI D7L1 2017 UPC Deep Learning for Artificial Intelligence)
     https://www.youtube.com/watch?v=N3DzDnzL19U
+
+cheatsheet
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks

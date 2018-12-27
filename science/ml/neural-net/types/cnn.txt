@@ -39,5 +39,8 @@ http://cs231n.stanford.edu/
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 
+cheatsheet
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+
 visualization
 https://github.com/vdumoulin/conv_arithmetic
