@@ -3,3 +3,19 @@ https://docs.gradle.org/current/userguide/ant.html
 taskdef
 https://stackoverflow.com/questions/26000235/run-ant-script-from-gradle
 https://discuss.gradle.org/t/ant-imports-taskdefs-failed-to-create-task-or-type-junit/7517/4
+
+        <!-- Required for Gradle -->
+        <path id="junit.cp">
+            <fileset dir="/home/iharh/.sdkman/candidates/ant/current/lib" includes="ant-juni*.jar" />
+            <!-- pathelement location="/home/iharh/.sdkman/candidates/ant/current/lib/ant-junit.jar" />
+            <pathelement location="/home/iharh/.sdkman/candidates/ant/current/lib/ant-junit4.jar" / -->
+        </path>
+
+        <taskdef name="junit"
+            classname="org.apache.tools.ant.taskdefs.optional.junit.JUnitTask"
+            classpathref="junit.cp"
+        />
+        <taskdef name="junitreport"
+            classname="org.apache.tools.ant.taskdefs.optional.junit.XMLResultAggregator"
+            classpathref="junit.cp"
+        />
