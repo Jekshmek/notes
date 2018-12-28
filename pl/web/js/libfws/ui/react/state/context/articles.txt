@@ -1,5 +1,6 @@
 2018
 https://css-tricks.com/compound-components-in-react-using-the-context-api/
+https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c
 https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59
 https://hackernoon.com/how-do-i-use-react-context-3eeb879169a2
 https://daveceddia.com/context-api-vs-redux/
@@ -21,4 +22,3 @@ https://wesbos.com/react-context/
     https://www.youtube.com/watch?v=XLJN4JfniH4
     https://github.com/wesbos/React-Context
 https://codeburst.io/code-your-own-react-state-management-library-using-the-new-context-api-part-1-64fb9d702e75
-https://medium.freecodecamp.org/how-to-get-started-with-the-react-context-api-ccc41728fa59

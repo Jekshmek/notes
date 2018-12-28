@@ -8,5 +8,7 @@ Bhasin - Algorithms - Design and Analysis
 Dasgupta - Algorithms ru
 Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
 https://logic.pdmi.ras.ru/~kulikov/sites/default/files/algorithms_href.pdf
+2013
+Stephens - Essential Algorithms ru
 2006
 Levitin - Introduction to the Design and Analysis of Algorithms ru
