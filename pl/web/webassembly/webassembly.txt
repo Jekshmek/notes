@@ -14,6 +14,9 @@ http://webassembly.org/getting-started/developers-guide/
 browser support
 https://www.infoq.com/news/2017/12/webassembly-browser-support
 
+faq
+https://webassembly.org/docs/faq/
+
 tools
 WasmExplorer
 wabt
