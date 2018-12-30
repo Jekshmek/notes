@@ -1,4 +1,6 @@
 2018
+Simplilearn - Naive Bayes Classifier
+    https://www.youtube.com/watch?v=l3dZ6ZNFjo0
 !!!  Naive Bayes Classifier | Text Based Classification (concept) | Machine Learning Algorithm (2018)
     https://www.youtube.com/watch?v=Zt83JnjD8zg
 Coyle - Probabilistic Programming: A Modern Bayesian Workflow
