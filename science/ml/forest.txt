@@ -1,4 +1,7 @@
 2018
+CodeBasics - Machine Learning Tutorial Python - 11 Random Forest
+    https://www.youtube.com/watch?v=ok2s1vV9XW0
+    https://github.com/codebasics/py/blob/master/ML/11_random_forest/11_random_forest.ipynb
 http://parrt.cs.usfca.edu/doc/rf-importance/index.html
 Simplilearn - Random Forest Algorithm - Random Forest Explained | Random Forest In Machine Learning
 https://www.youtube.com/watch?v=eM4uJ6XGnSM
