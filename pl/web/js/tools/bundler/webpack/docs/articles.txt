@@ -1,4 +1,5 @@
 2018
+https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c
 https://tproger.ru/translations/configure-webpack4/
 https://habrahabr.ru/post/350886/
 https://proglib.io/p/webpack-in-15/

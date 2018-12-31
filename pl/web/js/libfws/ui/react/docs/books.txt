@@ -12,6 +12,8 @@ Paciansky - React Router Course ru
     https://www.gitbook.com/book/maxfarseer/react-router-course-ru/details
     https://maxfarseer.gitbooks.io/react-router-course-ru/content/
     https://github.com/ReactTraining/react-router
+Paciansky - channel
+    https://www.youtube.com/channel/UCqJyAVWwIqPWKEkfCSP1y4Q
 
 https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html
 
