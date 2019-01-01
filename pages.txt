@@ -100,6 +100,8 @@ https://predanie.ru/safronov-petr/socialnye-koncepcii-hristianskih-cerkvey-v-poi
 https://predanie.ru/bez-avtora/vzroslye-deti-i-ih-roditeli-kak-eti-otnosheniya-vliyayut-na-nas-i-chto-s-etim-delat/slushat/
 https://predanie.ru/bogina-elena-vladimirovna/pyat-velikih-detskih-igr-igrovoy-uroven-otnosheniy-roditelya-s-rebenkom/slushat/
 https://predanie.ru/volchkov-aleksey-ierey/iail-i-dalila-zhenschiny-knigi-sudey/slushat/
+https://predanie.ru/gazaryan-aleksey/kuda-zhit-praktikum-po-postroeniyu-planov-na-2019-god/slushat/
+https://predanie.ru/lyzlov-aleksey/grani-svobody-v-vospitanii-rebenka/slushat/
 
 Tracking
 This week in rust                                   - 266
