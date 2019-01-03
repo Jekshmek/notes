@@ -1,3 +1,5 @@
+2019
+https://habr.com/company/oleg-bunin/blog/433320/
 2018
 https://v6.robweychert.com/blog/2018/11/css-grid-editorial-layouts/
 https://medium.com/webbdev/grid-f81f2dd422bc
