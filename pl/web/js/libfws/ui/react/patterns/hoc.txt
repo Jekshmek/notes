@@ -5,6 +5,7 @@ http://andrew-r.ru/notes/react-hocs
 
 articles
 2018
+https://medium.com/@evedes/how-to-develop-your-react-superpowers-with-the-hoc-pattern-61293651d59
 https://tylermcginnis.com/react-higher-order-components/
 https://css-tricks.com/what-are-higher-order-components-in-react/
 2017

@@ -133,3 +133,6 @@ https://drive.google.com/open?id=0B9dLexguZDURdDFSeURTVjEtZTA
 clear at D:/Temp
     jna*.dll
     snappy*
+
+need
+Okli - Dumai kak Matematik
