@@ -4,6 +4,9 @@ Fun with the Functional Web Framework
     https://www.youtube.com/watch?v=jCjrxG9pHZ8
 
 articles
+2019
+https://habr.com/post/434810/
+    https://github.com/lynx-r/tictactoe-microservices-example
 2018
 https://dzone.com/articles/understanding-spring-reactiveintroducing-spring-we
 https://www.e4developer.com/2018/04/11/getting-reactive-with-spring-boot-2-0-and-reactor/
