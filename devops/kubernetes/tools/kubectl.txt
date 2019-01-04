@@ -54,3 +54,6 @@ kubectl
     wait
         https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#wait
         --for=condition=ready --timeout=60s pod/<pod-id> -n <node-id>
+
+    diff
+        https://github.com/kubernetes/enhancements/issues/491
