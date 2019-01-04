@@ -1,3 +1,0 @@
-2018
-https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-    https://nuancesprog.ru/p/2583/
