@@ -22,3 +22,7 @@ Weiss - Data Structures and Algorithms in Cpp 4th ed
 concurrency
 2018
 Williams - Cpp Concurrency in Action 2nd ed
+
+pointers
+2013
+Reese - Understanding and Using C Pointers

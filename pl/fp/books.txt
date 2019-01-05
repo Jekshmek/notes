@@ -1,2 +1,3 @@
 2018
+Friedman - The Little Typer
 Stone - Algorithms for Functional Programming
