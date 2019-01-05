@@ -1,0 +1,6 @@
+https://www.onlyoffice.com/
+https://www.onlyoffice.com/download-desktop.aspx
+
+aur
+    onlyoffice-bin
+    onlyoffice-documentserver

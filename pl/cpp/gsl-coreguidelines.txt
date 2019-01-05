@@ -3,6 +3,8 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 
+https://github.com/martinmoene/gsl-lite
+
 lifetime
 https://quuxplusone.github.io/blog/2018/11/12/parameter-lifetime-and-trivial-abi/
 Gehre - Implementing the C++ Core Guidelines’ Lifetime Safety Profile in Clang
@@ -20,6 +22,8 @@ https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/
 clang support for lifetime
 https://github.com/CppCon/CppCon2018/blob/master/Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf
 
+2019
+https://www.reddit.com/r/cpp/comments/acspkq/guideline_support_library_what_a_mess/
 2018
 Otus - GSL
     https://www.youtube.com/watch?v=GafUgFxbZL4
