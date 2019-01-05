@@ -1,0 +1,11 @@
+http://thelittletyper.com/
+http://thelittletyper.com/errata.html
+    38, 
+
+Downloading repository
+    https://github.com/the-little-typer/pie.git
+dependencies of pie:
+   todo-list
+    https://github.com/david-christiansen/todo-list.git
+
+#lang pie

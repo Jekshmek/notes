@@ -1,0 +1,4 @@
+2019
+http://fixpt.de/blog/2018-12-30-strictness-analysis-part-2.html
+2017
+http://fixpt.de/blog/2017-12-04-strictness-analysis-part-1.html
