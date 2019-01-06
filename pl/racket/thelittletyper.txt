@@ -1,6 +1,13 @@
+https://mitpress.mit.edu/books/little-typer
+
 http://thelittletyper.com/
 http://thelittletyper.com/errata.html
     38, 
+
+http://davidchristiansen.dk/
+http://davidchristiansen.dk/tutorials/
+http://davidchristiansen.dk/tutorials/nbe/
+https://corecursive.com/023-little-typer-and-pie-language/
 
 Downloading repository
     https://github.com/the-little-typer/pie.git
@@ -9,3 +16,21 @@ dependencies of pie:
     https://github.com/david-christiansen/todo-list.git
 
 #lang pie
+
+2018
+https://www.reddit.com/r/haskell/comments/9igdgx/the_little_typer_by_daniel_p_friedman_and_david/
+2017
+David Christiansen - A Little Taste of Types
+    https://www.youtube.com/watch?v=3z9nISI4ppw
+
+notes
+expressions, that describe other expressions, such as Atom, are called types
+
+A form of judgement is an observation with blank spaces in it:
+1. ___ is a ___
+2. ___ is the same ___ as ___
+3. ___ is a type
+4. ___ and ___ are the same types
+
+Judgements are acts of knowing, and
+believing is part of knowing

@@ -11,4 +11,5 @@ Heverbeke - Eloquent JavaScript 3rd ed
 2017
 Kaskiaro - NodeJS Design Patterns 2nd ed ru
 2016
-Morgan - 2016 - JavaScript for Kids ru
+Morgan - JavaScript for Kids ru
+Belyaev - JavaScript Game Development ru
