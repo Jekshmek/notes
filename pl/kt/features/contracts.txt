@@ -1,5 +1,7 @@
 https://github.com/Kotlin/KEEP/blob/master/proposals/kotlin-contracts.md
 
+2019
+https://blog.kotlin-academy.com/understanding-kotlin-contracts-f255ded41ef2
 2018
 Kotlin Contracts
     https://www.youtube.com/watch?v=IsW1KiU6rQI
