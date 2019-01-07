@@ -88,6 +88,8 @@ Kuralenok
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld
 Abbakumov (ru) - R-based:
 https://www.youtube.com/playlist?list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
+CMTV - NN Simple
+https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
 2016
 Howard - Practical DL for coders
