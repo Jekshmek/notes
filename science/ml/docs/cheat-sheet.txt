@@ -1,3 +1,4 @@
+https://ml-cheatsheet.readthedocs.io/en/latest/index.html
 https://github.com/dformoso/machine-learning-mindmap
 https://github.com/kailashahirwar/cheatsheets-ai
 https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5

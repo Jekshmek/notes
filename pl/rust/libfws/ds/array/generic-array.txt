@@ -2,8 +2,7 @@ https://crates.io/crates/generic-array
 http://fizyk20.github.io/generic-array/generic_array/
 https://github.com/fizyk20/generic-array
 
-https://www.reddit.com/r/rust/comments/86hnzg/new_releases_of_genericarray_and_numericarray/
+https://github.com/fizyk20/generic-array/blob/master/DESIGN.md
 
-https://crates.io/crates/numeric-array
-https://docs.rs/numeric-array
-https://github.com/novacrazy/numeric-array
+2018
+https://www.reddit.com/r/rust/comments/86hnzg/new_releases_of_genericarray_and_numericarray/
