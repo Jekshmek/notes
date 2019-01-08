@@ -17,6 +17,9 @@ http://t.me/groupoid
 http://t.me/systemflow
 http://t.me/formalphilosophy
 
+video
+https://www.youtube.com/user/masique/videos
+
 exe
 https://github.com/groupoid/exe/blob/master/doc/
     proposal.pdf

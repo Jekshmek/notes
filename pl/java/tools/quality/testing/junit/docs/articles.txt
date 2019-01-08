@@ -1,3 +1,6 @@
+2019
+https://bmuschko.com/blog/junit5-vs-spock-showdown/
+    https://github.com/bmuschko/junit5-vs-spock-feature-comparison
 2018
 https://blog.codecentric.de/en/2018/09/structured-junit-5-testing/
 

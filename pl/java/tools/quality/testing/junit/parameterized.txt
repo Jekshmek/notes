@@ -5,3 +5,6 @@ http://junit.org/junit5/docs/current/user-guide/#writing-tests-parameterized-tes
 @MethodSource
 @CsvSource, @CsvFileSource
 @ArgumentsSource, custom ArgumentsProvider
+
+2019
+https://bmuschko.com/blog/junit5-vs-spock-showdown/#data-driven-tests

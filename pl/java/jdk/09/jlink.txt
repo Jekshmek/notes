@@ -1,2 +1,6 @@
 https://dzone.com/articles/jlink-in-java-9
+
+2019
+https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+2018
 https://blog.knoldus.com/2018/01/08/jlink-in-java-9/

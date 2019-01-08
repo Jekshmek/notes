@@ -1,0 +1,4 @@
+https://spring.io/projects/spring-cloud-config
+
+2018
+https://dzone.com/articles/validating-external-data-with-an-oracle

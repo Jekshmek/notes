@@ -22,3 +22,4 @@ Sukin - Game Development with ThreeJS
 
 samples
 https://blog.usejournal.com/building-a-rubiks-cube-in-react-three-js-and-good-ole-javascript-96649d1172d9
+https://codepen.io/HunorMarton/full/JwWLJo

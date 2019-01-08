@@ -34,3 +34,8 @@ A form of judgement is an observation with blank spaces in it:
 
 Judgements are acts of knowing, and
 believing is part of knowing
+
+Some forms of judgement only make sense after an earlier judgement (pre-supposition)
+
+The normal [form] of an expression is the most direct way of writing it
+    Sameness is always according to a type

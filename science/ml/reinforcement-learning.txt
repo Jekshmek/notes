@@ -1,3 +1,5 @@
+2019
+https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f
 2018
 https://habr.com/company/X5RetailGroup/blog/430112/
 https://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html
