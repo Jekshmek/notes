@@ -29,7 +29,7 @@ https://projectlombok.org/features/Synchronized.html
 @SneakyThrows
 https://projectlombok.org/features/SneakyThrows.html
 
-@Cleanup
+@Cleanup (for AutoCloseable)
 https://projectlombok.org/features/Cleanup
 
 @Delegate

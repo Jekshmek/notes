@@ -20,3 +20,4 @@ https://habrahabr.ru/post/350904/
 java.util.function
     Function
     Supplier
+    Consumer
