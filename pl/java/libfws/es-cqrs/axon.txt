@@ -10,6 +10,8 @@ https://docs.axonframework.org/
 http://www.axonframework.org/faq/
 http://www.axonframework.org/apidocs/3.3/
 
+2019
+https://habr.com/post/435522/
 2018
 Bootiful CQRS and Event Sourcing with Axon Framework
     https://www.youtube.com/watch?v=7e5euKxHhTE
