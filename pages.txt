@@ -1,11 +1,12 @@
 URLs
-http://www.limonow.de/myfavorites/DB_NOBEL.html#2019.01.07
+http://www.limonow.de/myfavorites/DB_NOBEL.html
+    bob dilan
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 8
+    Jan 9
 
 track
 scoop extras - a
@@ -127,7 +128,7 @@ OpenSSL Cookbook                                    - 29 (of 58)
 Kantor - Demokratiy                                 - 324.0 (of 1388)
 Shalyto - motivation                                - 046   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer                                    - 028   (of  418)
+The Little Typer                                    - 033..046 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

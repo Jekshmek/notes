@@ -1,0 +1,4 @@
+https://github.com/square/sqldelight
+
+2019
+https://medium.com/@anstrong22/announcing-sqldelight-1-0-d482aa408f64

@@ -1,7 +1,11 @@
 spock mvn repo:
 http://mvnrepository.com/artifact/org.spockframework/spock-core
 
-articles:
+articles
+2018
+http://grailsblog.objectcomputing.com/posts/2018/06/22/mock-vs-stub-vs-spy.html
+    https://habr.com/company/haulmont/blog/435488/
+2016
 http://jakubdziworski.github.io/java/groovy/spock/2016/05/14/spock-cheatsheet.html
 
 Presentations/Talks:
