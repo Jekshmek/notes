@@ -1,52 +1,5 @@
-2015
-https://babeljs.io/learn-es2015/
-
 http://es6-features.org
 es6 in action
 
-async for
-https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements
-http://2ality.com/2018/04/async-iter-nodejs.html
-    https://habrahabr.ru/post/353886/
-
-modules
-esm
-https://nodejs.org/api/esm.html
-2018
-CodingTech - ECMAScript Modules: Past, Present, and Future
-https://www.youtube.com/watch?v=3U3Av7tM7_U
-https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71
---experimental-modules
-https://www.youtube.com/watch?v=teDVlOjOCT0
-https://habrahabr.ru/company/tuturu/blog/326716/
-
 search
 mdn <term>
-
-import
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
-
-const
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-
-let
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
-
-class
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
-
-proxy
-https://www.sitepoint.com/es6-proxies/
-https://www.atyantik.com/proxy-javascript-es6-feature/
-    https://habr.com/company/ruvds/blog/359060/
-
-regexp
-http://www.zsoltnagy.eu/es2018-regular-expression-updates-an-opinionated-summary/
-
-symbols
-https://www.sitepoint.com/es6-symbols-uses/
-https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
-    https://habr.com/company/ruvds/blog/359004/
-
-functions
-https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/

@@ -7,6 +7,8 @@ primer
 https://eriksvjansson.net/papers/cppcpdac.pdf
 https://eriksvjansson.net/papers/cppcpdacd.pdf
 
+2019
+https://brevzin.github.io/c++/2019/01/09/concept-templates/
 2018
 https://blog.feabhas.com/2018/12/a-brief-introduction-to-concepts-part-2/
 https://blog.feabhas.com/2018/12/a-brief-introduction-to-concepts-part-1/
