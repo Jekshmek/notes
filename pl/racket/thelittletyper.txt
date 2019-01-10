@@ -50,3 +50,16 @@ then they have identical normal forms,
 and if two types have identical normal forms,
 then they are the same types
     - expr is a ___  (expr has a type of ___)
+
+(claim one Nat)
+(define one (add1 zero))
+
+An expression with a constructor at the top is called a value
+    - a value is not always normal
+
+The c-tors of
+    - Nat are "zero" and "add1"
+    - Pair - "cons" 
+
+In a value, the top constructor's arguments need not be normal
+    - each expression has only one normal form

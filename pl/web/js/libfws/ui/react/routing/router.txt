@@ -4,6 +4,9 @@ https://github.com/ReactTraining/react-router
 npm i -S react-router-dom
 
 articles
+2019
+https://tylermcginnis.com/react-router-recursive-paths/
+    https://www.youtube.com/watch?v=gb74jqcPN_Q
 2018
 https://habr.com/company/rambler-co/blog/424025/
 https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10

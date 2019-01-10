@@ -1,3 +1,5 @@
+2019
+https://proglib.io/p/react-developer-2019/
 2018
 https://tproger.ru/translations/react-after-learning-basics/
 https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621
