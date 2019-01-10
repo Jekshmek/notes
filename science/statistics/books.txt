@@ -61,3 +61,6 @@ Ventsel - Probability Excercises ru
 ?
 Practical Statistics for Data Scientists
 https://vk.com/doc273848965_448552419
+
+lists
+https://habr.com/company/plarium/blog/435534/

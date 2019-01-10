@@ -1,3 +1,6 @@
+2019
+TraversyMedia - VueJS crash course
+    https://www.youtube.com/watch?v=Wy9q22isx3U
 2018
 Patel - Vue.js: Power and Flexiblity
     https://www.youtube.com/watch?v=3aEm4Id5mTo

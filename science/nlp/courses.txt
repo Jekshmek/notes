@@ -1,4 +1,8 @@
 2018
+TMPA - Computer Text Processing
+    https://www.youtube.com/playlist?list=PL8Ql2_5rYPjiveqi6Con59HKzNnPuvDUT
+    https://www.youtube.com/playlist?list=PL8Ql2_5rYPjggoBs4FtebY0Ml0ePWi7Vp
+    https://speakerdeck.com/exactpro/komp-iutiernaia-obrabotka-tiekstov-5bc65162-5dfe-4765-b0a7-5ca03ca7b94b
 CMU - Neural Nets for NLP
 http://phontron.com/class/
 http://phontron.com/class/nn4nlp2018/
