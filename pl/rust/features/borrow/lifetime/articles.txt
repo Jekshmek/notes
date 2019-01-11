@@ -1,0 +1,2 @@
+2019
+https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa

@@ -63,3 +63,11 @@ The c-tors of
 
 In a value, the top constructor's arguments need not be normal
     - each expression has only one normal form
+
+
+Evaluation is - finding a value that is the same as some staring exression
+
+In Pie, everyting is an expression (even values)
+
+! Definitions are forever !
+

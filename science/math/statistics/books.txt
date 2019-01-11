@@ -56,6 +56,9 @@ Chung - Elementary Probability Theory 4th ed ru !!!
 Volodin Tihonov Turilova - Math fundamentals of probability
 http://kpfu.ru/docs/F1662245716/MOV.pdf
 
+2004
+Soong - Fundamentals of Probability and Statistics for Engineers
+
 Ventsel - Probability Excercises ru
 
 ?

@@ -8,3 +8,7 @@ C:/Users/<>/AppData/Roaming/Code/
 
 https://code.visualstudio.com/docs/supporting/faq#_how-do-i-opt-out-of-vs-code-autoupdates
 https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting
+
+2019
+https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76
+    https://habr.com/post/435770/

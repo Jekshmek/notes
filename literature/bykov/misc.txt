@@ -2,6 +2,8 @@ stenograms
 http://www.limonow.de/myfavorites/DB_LPR.html
 nobel
 http://www.limonow.de/myfavorites/DB_NOBEL.html
+    http://www.limonow.de/myfavorites/DB_NOBEL.html#2019.01.11
+        Bob Dylan
 
 Nina Semenovna Katerli 70-h godov
     http://nkaterli.livejournal.com/
