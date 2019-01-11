@@ -1,4 +1,9 @@
 2018
+O'Dwyer - Trivially Relocatable
+    https://www.youtube.com/watch?v=xxta6LEn9Hk
+    https://p1144.godbolt.org/z/Qvyuvr
+O'Dwyer - Return Value Optimization: Harder Than It Looks
+    https://www.youtube.com/watch?v=hA1WNtNyNbo
 https://www.fluentcpp.com/2018/12/11/overview-of-std-map-insertion-emplacement-methods-in-cpp17/
 https://blogs.msdn.microsoft.com/vcblog/2018/12/10/guaranteed-copy-elision-does-not-elide-copies/
 Aloni - Rust - System Programming Language
