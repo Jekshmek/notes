@@ -1,2 +1,4 @@
+2019
+https://medium.com/@Trott/using-worker-threads-in-node-js-80494136dbb6
 2018
 https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953

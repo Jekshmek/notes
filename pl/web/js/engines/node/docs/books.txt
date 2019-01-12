@@ -1,5 +1,6 @@
 http://books.goalkicker.com/NodeJSBook/
 https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e
+https://github.com/azat-co/practicalnode
 
 2018
 Herron - 2018 - NodeJS Web Development 4th ed
