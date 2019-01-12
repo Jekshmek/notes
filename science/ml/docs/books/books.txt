@@ -37,6 +37,7 @@ Brink - Real-World Machine Learning ru
 https://vk.com/doc247540843_456982697
 Joshi - Artificial Intelligence with Python
     https://vk.com/doc182314867_467597874
+Grus - Data Science from Scratch ru
 
 2014:
 Sutton - Reinforcement Learning

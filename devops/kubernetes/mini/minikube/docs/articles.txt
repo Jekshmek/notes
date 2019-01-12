@@ -1,6 +1,9 @@
 https://quip.com/1TYDAdJowAgJ
 https://letsclearitup.com.ua/kubernetes/ustanovka-minikube.html
 
+2019
+https://cloud.google.com/blog/products/containers-kubernetes/easier-kubernetes-development-from-your-laptop
+
 2017
 https://medium.com/@claudiopro/getting-started-with-kubernetes-via-minikube-ada8c7a29620
     https://habr.com/company/flant/blog/333470/

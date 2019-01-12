@@ -2,6 +2,9 @@ bayesian:
 https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
+2019
+https://towardsdatascience.com/taming-false-discoveries-with-empirical-bayes-2ce81aa8f407
+
 2018
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815

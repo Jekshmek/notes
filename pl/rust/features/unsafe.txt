@@ -1,4 +1,10 @@
-articles:
+book
+https://doc.rust-lang.org/nomicon/working-with-unsafe.html
+    unsafe does more than pollute a whole function: it pollutes a whole module.
+    Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.
+
+2019
+https://www.ralfj.de/blog/2019/01/12/rust-2019.html
 
 2018
 Orendorf - Building on an unsafe foundation
@@ -26,8 +32,3 @@ https://www.reddit.com/r/rust/comments/5u3vrq/undefined_behavior_unsafe_programm
 
 2016
 http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/
-
-book
-https://doc.rust-lang.org/nomicon/working-with-unsafe.html
-    unsafe does more than pollute a whole function: it pollutes a whole module.
-    Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.
