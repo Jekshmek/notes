@@ -1,5 +1,7 @@
 intro:
 Grigorev - Mastering Java for Data Science
+Burkov - The 100 Page ...
+    http://themlbook.com/wiki/doku.php
 
 lists:
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md

@@ -34,3 +34,7 @@ Reese - Understanding and Using C Pointers
 functional
 1997
 Hartel - Functional C
+
+reference
+2003
+Loudon - Cpp Pocket Reference
