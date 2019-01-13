@@ -29,6 +29,9 @@ demo
 https://try.noisesearch.org/demo/1/description
 
 articles
+2019
+https://medium.com/@abecodes/native-node-modules-with-rust-and-neon-dc3f299c9fcd
+    https://github.com/abecodes/native_module
 2018
 https://medium.com/@benjcal/rust-node-js-are-awesome-a50d63411773
 https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/
