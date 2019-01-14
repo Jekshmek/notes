@@ -21,5 +21,6 @@ books
 Sukin - Game Development with ThreeJS
 
 samples
+https://tympanus.net/codrops/2019/01/08/animated-mesh-lines/
 https://blog.usejournal.com/building-a-rubiks-cube-in-react-three-js-and-good-ole-javascript-96649d1172d9
 https://codepen.io/HunorMarton/full/JwWLJo

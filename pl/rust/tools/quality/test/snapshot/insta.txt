@@ -1,0 +1,3 @@
+https://crates.io/crates/insta
+https://docs.rs/insta
+https://github.com/mitsuhiko/insta

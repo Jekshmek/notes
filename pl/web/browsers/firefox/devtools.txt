@@ -1,3 +1,7 @@
+https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_Flexbox_layouts
+
+2019
+https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/
 2018
 https://www.sitepoint.com/performance-auditing-a-firefox-developer-tools-deep-dive/
 https://hackernoon.com/10-firefox-dev-tools-tricks-that-will-blow-your-mind-d641f1714903

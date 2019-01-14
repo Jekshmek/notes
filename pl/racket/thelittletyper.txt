@@ -71,3 +71,12 @@ In Pie, everyting is an expression (even values)
 
 ! Definitions are forever !
 
+! atoms are constructors (construct themselves),
+    atoms are also values (of type Atom)
+
+Pair, Nat and Atom - are type constructors (not a [value] constructors)
+
+! car, however, is neigher a c-tor, nor a type c-tor
+! car (and cdr) are eliminators
+
+Constructors build values, and eliminators take apart values built by constructors
