@@ -50,7 +50,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   55:00 (of 1:41:04)
+Bykov - Single                                      - 1:02:00 (of 1:41:04)
     https://cdn.echo.msk.ru/snd/2019-01-10-odin-2305.mp3
     https://cdn.echo.msk.ru/snd/2019-01-03-odin-2305.mp3
     https://cdn.echo.msk.ru/snd/2018-12-31-odin-2305.mp3
@@ -72,11 +72,11 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Paschenko - Game 2 - 22a                             - 1:29:00 (of 1:37:42)
+Paschenko - Game 2 - 22v                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 2-17                                       -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev/i-uvidel-ya-novoe-nebo-i-novuyu-zemlyu-kommentariy-k-apokalipsisu/slushat/
-Sorokin - B 76                                      -   00:00 (of)
+Sorokin - B 77                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -85,6 +85,7 @@ Osipov - 2                                          -   00:00 (of)
 Chernyak - 31 of 34                                 -   02:00 (of 2:18:30)
     https://www.youtube.com/watch?v=j1DzjFQ2tEY
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
+https://predanie.ru/bez-avtora/chto-takoe-medlennoe-chtenie-i-kak-emu-nauchit/slushat/
 https://predanie.ru/strelov-vladimir-sergeevich/kak-chitat-bibliyu-2/slushat/
 https://predanie.ru/siluan-tumanov-igumen/kakie-byvayut-liturgii-raznye-formy-odna-sut/slushat/
 https://predanie.ru/siluan-tumanov-igumen/ladan-mezhdu-zolotom-i-smirnoy/slushat/
@@ -117,6 +118,7 @@ https://predanie.ru/lyzlov-aleksey/grani-svobody-v-vospitanii-rebenka/slushat/
 https://predanie.ru/kukin-mihail-yurevich/breygel-v-vene-virtualnaya-ekskursiya-po-vystavke/slushat/
 https://predanie.ru/kukin-mihail-yurevich/vethiy-i-novyy-zavet-v-zhivopisi-pitera-breygelya/slushat/
 https://predanie.ru/gazaryan-aleksey/kuda-zhit-praktikum-po-postroeniyu-planov-na-2019-god/slushat/
+https://predanie.ru/bez-avtora/problema-chelovecheskoy-telesnosti-v-hristianstve-i-v-evropeyskoy-metafizike/slushat/
 
 Tracking
 This week in rust                                   - 268

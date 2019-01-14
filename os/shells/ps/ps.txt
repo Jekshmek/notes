@@ -24,7 +24,7 @@ https://blogs.technet.microsoft.com/heyscriptingguy/2013/01/04/understanding-and
 
 # To display the path to the Windows PowerShell profile, type:
 $profile
-C:\Users\Ihar_Hancharenka\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
+C:\Users\Ihar_Hancharenka\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 
 # To determine whether a Windows PowerShell profile has been created on the system, type:
 # If the profile exists, the response is True; otherwise, it is False.
