@@ -1,4 +1,7 @@
 http://pandas.pydata.org/talks.html
+2019
+Chen - Cleaning and Tidying Data in Pandas
+    https://www.youtube.com/watch?v=MbgdYZE1e8I
 2018
 Caudron - Introduction To Data Analytics With Pandas
     https://www.youtube.com/watch?v=WrAkpobchUk

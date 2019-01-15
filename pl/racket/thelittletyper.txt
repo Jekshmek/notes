@@ -80,3 +80,33 @@ Pair, Nat and Atom - are type constructors (not a [value] constructors)
 ! car (and cdr) are eliminators
 
 Constructors build values, and eliminators take apart values built by constructors
+
+every lambda-expression is a value
+
+! Applying a [lambda] function to arguments is the eliminator for functions
+
+Alpha-conversion is renaming lambda-variables in a consistent way (per Alonzo Church) 
+
+! The initial law of application:
+if f is an
+    (-> Y  X)
+and arg is a
+    Y
+then (f arg) is an
+    X.
+
+! The initial first Commandment of lambda
+Two lambda-expressions, that expect the same number of arguments are the same if their bodies are the same
+after consistently renaming their variables (arguments)
+
+! The initial second Commandment of lambda
+if f is an (-> Y  X)
+then f is the same (-> Y  X)
+as
+    (\ (y)
+      (f y))
+as long as y does not occur in f.
+
+! The law of renaming variables
+Consistently renaming variables can't change the meaning of anything.
+
