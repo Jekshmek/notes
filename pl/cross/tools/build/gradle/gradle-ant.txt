@@ -1,5 +1,11 @@
 https://docs.gradle.org/current/userguide/ant.html
 
+https://docs.gradle.org/current/userguide/ant.html#sec:ant_logging
+    ant.lifecycleLogLevel = "INFO"
+
+embedded
+https://discuss.gradle.org/t/when-importing-an-ant-build-file-in-to-build-gradle-do-i-have-to-redefine-the-dependencies-in-gradles-way/5198
+
 taskdef
 https://stackoverflow.com/questions/26000235/run-ant-script-from-gradle
 https://discuss.gradle.org/t/ant-imports-taskdefs-failed-to-create-task-or-type-junit/7517/4
