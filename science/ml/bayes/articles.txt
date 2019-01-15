@@ -7,6 +7,7 @@ https://towardsdatascience.com/taming-false-discoveries-with-empirical-bayes-2ce
 
 2018
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
+    https://proglib.io/p/bayes-theorem/
 https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815
 https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
     http://telegra.ph/Vvedenie-v-bajesovskuyu-linejnuyu-regressiyu-04-17

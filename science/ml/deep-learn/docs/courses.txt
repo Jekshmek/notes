@@ -1,6 +1,8 @@
 https://deeplearning.mit.edu/
 
 2019
+DeepMind - Advanced DL
+    https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://m2dsupsdlclass.github.io/lectures-labs/
     https://github.com/m2dsupsdlclass/lectures-labs/
 2018
