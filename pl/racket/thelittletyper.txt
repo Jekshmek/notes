@@ -110,3 +110,14 @@ as long as y does not occur in f.
 ! The law of renaming variables
 Consistently renaming variables can't change the meaning of anything.
 
+! Neutral expressions - are not values and can not yet be evaluated due to a variable
+    - (cdr x)  where x is a (Pair Nat Atom) is a neutral expression, because cdr is not a c-tor, but an elim
+but
+    - (cons y, 'rutabaga) is a value because by definition it has c-tor at the top
+
+! If two expressions have identical eliminators at the top and all arguments to the eliminators are the same,
+then the expressions are the same
+
+! The Commandment of Neutral Expressions
+Neutral expressions that are written identically are the same, no matter their type
+

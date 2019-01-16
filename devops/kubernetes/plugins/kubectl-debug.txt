@@ -1,0 +1,4 @@
+https://github.com/aylei/kubectl-debug
+
+2019
+https://habr.com/ru/company/flant/blog/436112/

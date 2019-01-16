@@ -1,0 +1,2 @@
+http://antkorwin.com/junit5/junit5_parallel_execution.html
+    https://github.com/antkorwin/junit5-prallel-execution
