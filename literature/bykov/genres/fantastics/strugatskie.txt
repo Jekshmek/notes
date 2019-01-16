@@ -27,7 +27,8 @@ Stru-Piknik
         i idet po planu-bumazhke
     
 Stru-Grad
-    htts://cdn.echo.msk.ru/snd/2018-12-14-odin-0005.mp3 - 1:23:00
+    https://cdn.echo.msk.ru/snd/2018-12-20-odin-2306.mp3 - 1:28:00
+    https://cdn.echo.msk.ru/snd/2018-12-14-odin-0005.mp3 - 1:23:00
         nravstvennaya revolyutsiya predpolagaet unichtozhenie sebja
  2018-05-11-odin-0005 - 29:00
     https://www.youtube.com/watch?v=sjkbQyvvM0k
@@ -97,6 +98,8 @@ Stru-ParenIzPreispodney
     2018-02-16-odin-0005 (around 1:00:00)
 Stru-VtoroeNashestvieMarsian
     2018-04-20-odin-0005 (around   45:00)
+Stru-DiavolSrediLyudei
+    https://cdn.echo.msk.ru/snd/2018-12-20-odin-2306.mp3 - 1:20:00
 Stru-Misc
     Svanidze - 2018 - chto chitala strana (1:09:00)
         https://www.youtube.com/watch?v=Da24qlDJYP0
