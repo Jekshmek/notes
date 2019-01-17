@@ -12,6 +12,9 @@ http://tower-defence.bitballoon.com/
 https://github.com/qvantor/react-tower-defence
 https://github.com/toxicFork/react-three-renderer-fiber
 
+shaders
+https://habr.com/ru/post/436482/
+
 2018
 https://habr.com/post/433876/
     https://github.com/sfi0zy/christmas-tree

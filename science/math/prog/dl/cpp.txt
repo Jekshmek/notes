@@ -5,8 +5,11 @@ stepik
 https://stepik.org/course/363/
 
 misc
+http://dl.gsu.by/NForum/posts/topicshow/2567.dl?postid=63941#63941
 http://dl.gsu.by/NForum/posts/topicshow/2072.dl?postid=55799#55799
+http://dl.gsu.by/NForum/posts/topicshow/2567.dl?postid=64005#64005
 
+wiki
 http://confluence.newit.gsu.by/display/dldoc/CPP
 http://confluence.newit.gsu.by/pages/viewpage.action?pageId=30277637
 

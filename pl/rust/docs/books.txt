@@ -69,6 +69,7 @@ Milanesi - Beginning Rust
 Gomez - Rust Programming by Example (Gamedev)
 Chanda - Network Programming with Rust
 Milanesi - Beginning Rust
+Blandy - Programming Rust ru
 2017
 Blandy - Programming Rust
 Kaihlarita - Mastering Rust
