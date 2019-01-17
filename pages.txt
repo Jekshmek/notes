@@ -11,7 +11,7 @@ https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 16
+    Jan 17
 
 track
 scoop extras - a
