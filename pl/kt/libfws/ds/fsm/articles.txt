@@ -1,0 +1,2 @@
+2019
+https://medium.com/@spaghetticode/finite-state-machines-in-kotlin-part-1-57e68d54d93b

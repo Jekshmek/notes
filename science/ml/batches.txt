@@ -1,3 +1,5 @@
+2019
+https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
 2018
 https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
 https://blog.paperspace.com/busting-the-myths-about-batch-normalization/

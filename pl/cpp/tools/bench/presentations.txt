@@ -1,0 +1,4 @@
+2019
+Beranek - Going down the CPU microarchitecture rabbit hole
+    https://www.youtube.com/watch?v=OM0AKazCNM4
+    https://github.com/Kobzol/hardware-effects

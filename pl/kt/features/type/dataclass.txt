@@ -1,2 +1,4 @@
+2019
+https://zsmb.co/data-classes-arent-that-magical
 2018
 https://proandroiddev.com/kotlin-data-classes-enough-boilerplate-c4647e475485

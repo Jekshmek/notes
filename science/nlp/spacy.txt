@@ -6,6 +6,8 @@ https://github.com/explosion/spaCy
 
 https://prodi.gy/
 
-2017:
+2019
+https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
+2017
 https://github.com/explosion/talks/blob/master/2017-11-02___Practical-and-Effective-Neural-NER.pdf
 https://www.youtube.com/watch?v=sqDHBH9IjRU

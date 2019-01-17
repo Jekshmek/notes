@@ -1,0 +1,6 @@
+2013
+Gale - Machines and Their Languages (short and good)
+    https://www.dcs.warwick.ac.uk/michael_gale/publications/2013-01-14-machines-and-their-languages.html
+
+2006
+Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd ed
