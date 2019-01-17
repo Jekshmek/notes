@@ -121,3 +121,21 @@ then the expressions are the same
 ! The Commandment of Neutral Expressions
 Neutral expressions that are written identically are the same, no matter their type
 
+! The Law and Commandment of define
+Following
+    (claim name X) and (define name expr)
+if
+    expr is an X [has type of X],
+then
+    name is an X [has type of X]
+and
+    name is the same X as expr.
+
+! The seconce Commandment of cons
+If p is a (Pair A D), then it is the same (Pair A D) as
+    (cons (car p) (cdr p))
+
+! Names in definitions
+In Pie, only names that are not already used, whether for constructors, eliminators,
+or previous definitions, can be used with claim or define.
+
