@@ -1,3 +1,5 @@
+2019
+https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8
 2018
 https://medium.freecodecamp.org/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4
     https://medium.com/devschacht/daniel-simmons-get-started-with-webassembly-using-only-14-lines-of-javascript-89960df71498

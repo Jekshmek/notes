@@ -1,3 +1,5 @@
+2019
+https://reactgo.com/graphql-react-apollo-client/
 2018
 http://jacobwesleysmith.com/2018/09/10/new-streamline-react-apollo-and-graphql.html
 https://habr.com/company/rambler-co/blog/418417/

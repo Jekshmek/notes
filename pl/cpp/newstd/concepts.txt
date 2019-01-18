@@ -28,6 +28,9 @@ https://quuxplusone.github.io/blog/2018/09/24/concepts-as-door-opening-robots/
 https://quuxplusone.github.io/blog/2018/09/17/i-can-haz-member-concepts/
 https://quuxplusone.github.io/blog/2018/07/06/thoughts-on-sanely-move-assignable/
 https://www.reddit.com/r/cpp/comments/9w8q4f/resourcesinspirations_for_using_c20_concepts/e9je6bv/
+2017
+Jusiak - Concepts driven design
+    https://www.youtube.com/watch?v=TorW5ekkL_w
 
 gcc
     -fconcepts

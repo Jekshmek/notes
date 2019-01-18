@@ -1,3 +1,7 @@
+dbg!(expr)
+    https://doc.rust-lang.org/beta/std/macro.dbg.html
+    https://www.reddit.com/r/rust/comments/ah1mzu/announcing_rust_1320/
+
 https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/
 
 cargo-expand

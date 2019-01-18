@@ -15,7 +15,7 @@ cargo
         create a new cargo package in existing directory
         --bin (default)
         --lib
-    check
+    c[heck]
         check without codegen (faster)
     build
         [-v] --verbose
