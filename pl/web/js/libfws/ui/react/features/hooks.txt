@@ -18,6 +18,8 @@ https://github.com/palmerhq/the-platform
 https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
+2019
+https://css-tricks.com/intro-to-react-hooks/
 2018
 https://overreacted.io/why-do-hooks-rely-on-call-order/
 https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba

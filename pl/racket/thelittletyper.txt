@@ -139,3 +139,34 @@ If p is a (Pair A D), then it is the same (Pair A D) as
 In Pie, only names that are not already used, whether for constructors, eliminators,
 or previous definitions, can be used with claim or define.
 
+Nat-eliminator:
+(which-Nat target
+    base
+    step)
+
+! Dim names
+Unused names are written dimly, but they do need to be there
+
+! The law or which-Nat
+If target is a Nat, base is an X, and step is an
+    (-> Nat
+        X),
+then
+    (which-Nat target
+        base
+        step)
+is an X.
+
+! The first Commandment of which-Nat
+If (which-Nat zero
+    base
+    step)
+is an X, then it is the same X as base.
+
+! The second Commandment of which-Nat
+If (which-Nat (add1 n)
+    base
+    step)
+is an X, then it is the same X as (step n).
+
+

@@ -4,6 +4,7 @@ Halliday - VueJS 2 Design Patterns
 Freeman - Pro VueJS 2
 Nelson - Getting to Know VueJS
 Macrae - VueJS up and Running
+Hanchett - VueJS in Action
 
 2017
 Street - VueJS 2x by Example

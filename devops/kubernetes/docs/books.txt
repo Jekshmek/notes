@@ -12,4 +12,4 @@ Vohra - Kubernetes Management Design Patterns
 2017
 Baier - Getting Started with Kubernetes 2nd ed
 Sayfan - Mastering Kubernetes
-??? Poulton - The Kubernetes Book
+Poulton - The Kubernetes Book (too short)

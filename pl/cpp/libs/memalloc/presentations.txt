@@ -1,0 +1,4 @@
+2018
+Weis - Taming dynamic memory
+    https://www.youtube.com/watch?v=R3cBbvIFqFk
+    https://github.com/ComicSansMS/presentations/releases/download/meetingcpp2018/taming_dynamic_memory.pdf
