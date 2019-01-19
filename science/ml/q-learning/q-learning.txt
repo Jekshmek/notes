@@ -1,2 +1,8 @@
+2019
+https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding-recurrency-and-reward-shaping-b9e0ee095c8b
+    https://habr.com/ru/post/436628/
+2018
+https://medium.com/@alexeybnk/can-reinforcement-learning-trade-stock-implementation-in-r-8cd54d13165c
+    https://habr.com/ru/post/433182/
 2017
 https://habrahabr.ru/post/345656/

@@ -1,17 +1,16 @@
 URLs
-http://antkorwin.com/concurrency/synchronization_by_value.html
 http://www.limonow.de/myfavorites/DB_NOBEL.html#2019.01.11
 https://blog.predanie.ru/article/v-poiskah-sinteza/
 https://blog.predanie.ru/article/neischezayushhaya-lyubov/
 https://blog.predanie.ru/article/horoshij/
-http://www.limonow.de/myfavorites/DB_NOBEL.html
-    bob dilan
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
+http://www.limonow.de/myfavorites/DB_NOBEL.html
+    bob dilan
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 17
+    Jan 19
 
 track
 scoop extras - a
@@ -142,7 +141,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiy                                 - 504.5 (of 1388)
+Kantor - Demokratiy                                 - 522.0 (of 1388)
 Shalyto - motivation                                - 069   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 The Little Typer                                    - 068..075 (of  418)

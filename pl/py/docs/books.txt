@@ -15,6 +15,7 @@ Kalb - Learn to Program with Python 3 2nd ed
 Molina - Modern Python Standard Library Cookbook
 Beyder - Python Tricks
 Omondi - Python Fundamentals (too short and simple)
+Phillips - Python 3 OOP 3rd ed
 
 2017
 Rother - Pro Python Best Practices
