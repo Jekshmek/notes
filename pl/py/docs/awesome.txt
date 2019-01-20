@@ -1,2 +1,2 @@
 https://awesome-python.com/
-https://github.com/vinta/awesome-python
+    https://github.com/vinta/awesome-python

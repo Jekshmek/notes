@@ -1,4 +1,6 @@
 2018
+https://developer.okta.com/blog/2018/12/04/angular-7-oidc-oauth2-pkce
+    https://www.sitepoint.com/build-an-app-with-everything-new-noteworthy-in-angular-7/
 https://itnext.io/how-to-optimize-angular-applications-99bfab0f0b7c
     https://nuancesprog.ru/p/2720/
 https://www.toptal.com/angular/angular-6-tutorial-new-features-power
