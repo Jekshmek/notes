@@ -5,6 +5,9 @@ https://www.golang-book.com/books/intro
 http://golang-book.ru/
     https://github.com/zenwalker/golang-book
 
+2019
+McGavren - Head First Go ER
+
 2018
 Tsoukalos - Mastering Go
 Youngman - Get Programming with Go

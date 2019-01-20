@@ -2,10 +2,10 @@ resources
 https://github.com/dbartolini/data-oriented-design
 
 book
-Fabian - DOD
+Fabian - 2018 - Data Oriented Design
     http://dataorienteddesign.com/site.php?postid=138
     http://www.dataorienteddesign.com/dodbook/
-    k
+
 2018
 Prackevicius - ECS and DOD
     http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf
