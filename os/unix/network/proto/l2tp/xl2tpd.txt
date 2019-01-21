@@ -1,3 +1,5 @@
+https://wiki.archlinux.org/index.php/Openswan_L2TP/IPsec_VPN_client_setup
+
 http://linuxexplore.com/how-tos/l2tp-vpn-using-xl2tpd/
 https://wiki.archlinux.org/index.php/L2TP/IPsec_VPN_client_setup
 
@@ -76,3 +78,6 @@ replacedefaultroute
 # client	server	secret			IP addresses
 <usr>		*	<pwd>
 
+
+ipsec auto --up L2TP-PSK
+031 "L2TP-PSK": cannot initiate connection with ID wildcards (kind=CK_TEMPLATE)
