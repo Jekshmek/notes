@@ -169,4 +169,30 @@ If (which-Nat (add1 n)
     step)
 is an X, then it is the same X as (step n).
 
+! Type Values
+An expression that is described by a type is a value when it has a "c-tor" at its top.
+Similarly, an expression that is a type is a value when it has a "type c-tor" at its top.
+
+Note: Type c-tors:
+    Nat, Atom, Pair, ->, U
+
+Note: The following expression is a type, but not a value
+    (car (cons Atom 'prune))
+    because car is neither c-tor, not a type c-tor
+
+Judging that expr is a type requires knowing its c-tors.
+But the meaning of U is not given by knowing all the type c-tors,
+because new types can be introduced
+
+! Every U Is a Type
+Every expression, described by U is a type,
+but not every type is described by U.
+
+Sample:
+(clame Pear
+    U)
+(define Pear
+    (Pair Nat Nat))
+
+Pear is not a value (names, defined with "define", are nither c-tor, nor type-c-tors)
 

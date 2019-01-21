@@ -1,4 +1,6 @@
 2018
+Livingston - Scaling Bayesian Inference: A Case Study
+    https://www.infoq.com/presentations/flight-bayesian-prediction
 Simplilearn - Naive Bayes Classifier
     https://www.youtube.com/watch?v=l3dZ6ZNFjo0
 !!!  Naive Bayes Classifier | Text Based Classification (concept) | Machine Learning Algorithm (2018)

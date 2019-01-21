@@ -1,6 +1,10 @@
 https://deeplearning.mit.edu/
 
 2019
+DataScientists - Deep Learning
+    https://www.youtube.com/playlist?list=PLnp9m9snUe9JR5FwYGivBVw9FEFStVUOA
+DataScientists - Express Deep Learning Course
+    https://www.youtube.com/playlist?list=PLnp9m9snUe9JhmslpDg9xIiH0a7XD3zUp
 DeepMind - Advanced DL
     https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://m2dsupsdlclass.github.io/lectures-labs/
