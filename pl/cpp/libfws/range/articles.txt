@@ -1,3 +1,6 @@
+2019
+https://ezoeryou.github.io/blog/article/2019-01-22-ranges-projection.html
+    https://github.com/EzoeRyou/blog/blob/master/article/2019-01-22-ranges-projection.html
 2018
 https://www.fluentcpp.com/2018/12/07/algorithms-on-ranges/
 http://ericniebler.com/2018/12/05/standard-ranges/

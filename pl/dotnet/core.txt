@@ -4,6 +4,8 @@ extra
     mono
 
 books
+2019
+https://www.infoq.com/minibooks/emag-net-core
 2018
 Metzgar - DotNET Core in Action
 Verma - NET Core 2 by Example
