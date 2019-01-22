@@ -8,3 +8,6 @@ http://www.linuxfromscratch.org/blfs/
 http://www.linuxfromscratch.org/alfs/
 
 LaCroix - Mastering Linux Network Administration
+
+2018
+Kerrisk - Linux API ru
