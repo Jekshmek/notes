@@ -1,0 +1,2 @@
+https://github.com/rust-analyzer/rust-analyzer
+https://github.com/rust-analyzer/rust-analyzer/blob/master/guide.md

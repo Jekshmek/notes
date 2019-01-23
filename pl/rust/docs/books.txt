@@ -52,6 +52,8 @@ api-guidelines
 https://rust-lang-nursery.github.io/api-guidelines/
 https://github.com/rust-lang-nursery/api-guidelines
 
+ecma
+https://freemasen.github.io/rusty-ecma-book/
 
 Published
 Kaihlavirta - Mastering Rust

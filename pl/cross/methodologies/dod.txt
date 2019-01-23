@@ -15,6 +15,8 @@ Nikolov - OOP is dead, long live DOD
     https://meetingcpp.com/mcpp/slides/2018/Data-oriented%20design%20in%20practice_Nikolov_MeetingCpp18.pdf
     https://github.com/CppCon/CppCon2018/blob/master/Presentations/oop_is_dead_long_live_dataoriented_design/oop_is_dead_long_live_dataoriented_design__stoyan_nikolov__cppcon_2018.pdf
     https://www.reddit.com/r/cpp/comments/9rnof7/cppcon_2018_stoyan_nikolov_oop_is_dead_long_live/
+Nikolov - Data oriented design in practice
+    https://www.youtube.com/watch?v=NWMx1Q66c14
 2014
 Mike Acton - Data-Oriented Design and C++
     https://www.youtube.com/watch?v=rX0ItVEVjHc
