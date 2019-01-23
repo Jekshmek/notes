@@ -1,3 +1,6 @@
 https://crates.io/crates/insta
 https://docs.rs/insta
 https://github.com/mitsuhiko/insta
+
+2019
+https://www.reddit.com/r/rust/comments/aitlww/new_release_of_insta_and_cargoinsta_050_snapshot/

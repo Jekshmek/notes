@@ -1,3 +1,5 @@
+2019
+https://mpark.github.io/programming/2019/01/22/variant-visitation-v2/
 2018
 C++ Weekly - Ep 134 - The Best Possible Way To Create A Visitor
 https://www.youtube.com/watch?v=EsUmnLgz8QY

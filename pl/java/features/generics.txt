@@ -1,4 +1,10 @@
+2019
+https://medium.com/androidiots/generics-variance-2def0411ce1b
+2018
+https://habr.com/company/sberbank/blog/416413/
+2016
 https://advancedweb.hu/2016/05/03/java_variance/
+
 https://www.infoq.com/presentations/java-generics
 
 Matorin - Tricky Java Generics
@@ -14,6 +20,3 @@ If it represents a T consumer, use
 public static <T> T max(
     Collection<? extends T> collection,
     Comparator<? super T> comparator)
-
-2018
-https://habr.com/company/sberbank/blog/416413/

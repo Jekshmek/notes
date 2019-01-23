@@ -12,6 +12,8 @@ https://github.com/sfackler/serde-transcode
 https://crates.io/crates/serde_shims
 
 articles
+2019
+http://timryan.org/2019/01/22/exporting-serde-types-to-typescript.html
 2018
 https://noyez.gitlab.io/post/2018-08-14-short-serde-deserialize-exapmle/
 https://rreverser.com/derive-serdebug/

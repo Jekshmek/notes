@@ -1,3 +1,7 @@
+2019
+https://dzone.com/refcardz/spring-annotations
+
+2016
 https://readlearncode.com/2016/02/13/insights-from-stackoverflow-most-voted-for-spring-4-questions/
 
     <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>

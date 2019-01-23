@@ -1,2 +1,4 @@
+2019
+https://dzone.com/articles/spring-rest-service-exception-handling-1
 2018
 https://dzone.com/articles/customize-error-responses-in-spring-boot
