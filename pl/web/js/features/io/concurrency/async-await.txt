@@ -3,6 +3,8 @@ https://frontarm.com/toolbox/promises-async-await-cheatsheet/
 https://github.com/frontarm/async-javascript-cheatsheet
 
 2019
+https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad
+    https://habr.com/ru/company/ruvds/blog/436884/
 https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda
 2018
 https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
