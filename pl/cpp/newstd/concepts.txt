@@ -14,6 +14,7 @@ https://blog.feabhas.com/2018/12/a-brief-introduction-to-concepts-part-2/
 https://blog.feabhas.com/2018/12/a-brief-introduction-to-concepts-part-1/
 Pusz - Concepts and Ranges
     https://meetingcpp.com/mcpp/slides/2018/C++%20Concepts%20and%20Ranges%20-%20How%20to%20use%20them.pdf
+    https://www.youtube.com/watch?v=pe05ZWdh0N0
 https://www.reddit.com/r/cpp/comments/9w8q4f/resourcesinspirations_for_using_c20_concepts/
 https://brevzin.github.io/c++/2018/10/20/concepts-declarations/
 https://www.inversepalindrome.com/blog/2018/9/26/concepts

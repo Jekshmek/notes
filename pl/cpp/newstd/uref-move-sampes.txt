@@ -1,3 +1,5 @@
+2019
+https://medium.com/@winwardo/c-moves-for-people-who-dont-know-or-care-what-rvalues-are-%EF%B8%8F-56ee122dda7
 2018
 O'Dwyer - Trivially Relocatable
     https://www.youtube.com/watch?v=xxta6LEn9Hk

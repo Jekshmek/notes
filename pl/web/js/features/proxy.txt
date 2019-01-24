@@ -1,4 +1,6 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy
 
+2019
+https://itnext.io/meta-programming-in-javascript-with-proxies-64fa4898070e
 2018
 https://blog.logrocket.com/terrible-use-cases-for-javascript-proxies-2b585705da01

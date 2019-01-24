@@ -1,3 +1,6 @@
+2019
+https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46
+https://medium.com/@KevinHoffman/signing-webassembly-modules-with-rust-dd45fbb6987a
 2018
 https://www.fastly.com/blog/edge-programming-rust-web-assembly
 https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html
