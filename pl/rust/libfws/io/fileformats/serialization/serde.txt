@@ -48,6 +48,10 @@ json-to-serde
 https://transform.now.sh/json-to-rust-serde
 http://vestera.as/json_typegen/
 
+ext typetag
+https://github.com/dtolnay/typetag
+https://www.reddit.com/r/rust/comments/aj2b7u/announcing_serde_trait_objects_finally_the_way/
+
 issues
 https://www.reddit.com/r/rust/comments/5u1q5e/incompatibility_between_serde_derive_and_rustc/
 https://www.reddit.com/r/rust/comments/6o1p46/serde_state_stateful_serde_deserialization/

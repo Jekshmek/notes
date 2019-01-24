@@ -198,3 +198,28 @@ Pear is not a value (names, defined with "define", are nither c-tor, nor type-c-
 
 ! Definitions are unnecessary
 Everything can be done without definitions, but they do improve understanding
+
+
+### Recess: A Forkful of Pie
+
+the-expressions are also referred as "type annotations"
+
+! The law of "the"
+If X is a type and e is an X, then
+    (the X e)
+is an X.
+
+! The Commandment of "the"
+If X is a type and e is an X, then
+    (the X e)
+is the same X as e.
+
+Note: U is a type, but it does not have a type
+    when expression is a type, but does not have its own type,
+    Pie replies with just its normal form
+Other such samples ar:
+    (Pair U U), (Pair Atom U), (-> U U)
+
+
+### 3: Eliminate all Natural Numbers
+

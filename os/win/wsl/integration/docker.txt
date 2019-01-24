@@ -14,6 +14,8 @@ https://docs.docker.com/docker-for-windows/kubernetes/
     https://github.com/juliostanley/scoop-windows-linux-containers
 
 2018
+https://medium.freecodecamp.org/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991
+    https://nuancesprog.ru/p/2971/
 https://embed.vidyard.com/share/txhmiXXLzoQqDKKnZeo5nj
 https://dockercon2018.hubs.vidyard.com/watch/w3RJr1Su6oamQmemhGtaK3
     https://www.slideshare.net/Docker/docker-for-developers-on-mac-and-windows
