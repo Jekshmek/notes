@@ -1,4 +1,7 @@
 2018
+Fresh Async with Kotlin
+    https://files.gotocon.com/uploads/slides/conference_10/597/original/2018%20GOTOcph%20-%20Fresh%20Async%20with%20Kotlin.pdf
+    https://www.youtube.com/watch?v=hb0hfHVWCS0
 Elizarov - Kotlin Coroutines
     https://assets.ctfassets.net/oxjq45e8ilak/6fO6Fs6geWoKeaqAAYAQmy/38bafe413ebb263ef274844d5e2cd638/Elizarov_-_Kotlin_Coroutines_-_2018_JPoint.pdf
     https://www.youtube.com/watch?v=rB5Q3y73FTo
