@@ -8,7 +8,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 24
+    Jan 25
 
 track
 scoop extras - a
@@ -145,7 +145,7 @@ OpenSSL Cookbook                                    - 29 (of 58)
 Kantor - Demokratiy                                 - 596.0 (of 1388)
 Shalyto - motivation                                - 079   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 084..106 (of  418)
+The Little Typer - 3                                - 087..106 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

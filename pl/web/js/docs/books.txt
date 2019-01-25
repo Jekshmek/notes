@@ -5,6 +5,8 @@ https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks
 http://learn.javascript.ru/es-modern
 
+2019
+Bae - JavaScript Data Structures and Algorithms
 2018
 Morgan - Simplifying JavaScript
 Heverbeke - Eloquent JavaScript 3rd ed

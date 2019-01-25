@@ -223,3 +223,12 @@ Other such samples ar:
 
 ### 3: Eliminate all Natural Numbers
 
+! Sameness
+If a "same as" chart could show that two expressions are the same,
+then this fact can be used anywhere without further justification.
+"Same as" charts are only to help build understanding.
+
+! Total function
+A function that always assigns a value to every possible argument
+is called a total function
+

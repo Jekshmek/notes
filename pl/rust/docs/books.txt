@@ -35,7 +35,7 @@ https://brson.github.io/rust-cookbook/
 https://github.com/brson/rust-cookbook
 still need a lot of help:
 https://internals.rust-lang.org/t/rust-libz-blitz/5184/47
-Ferner - Rust Standard Library Cookbook
+Ferner - 2018 - Rust Standard Library Cookbook
 
 RBE:
 https://doc.rust-lang.org/rust-by-example/
@@ -76,3 +76,4 @@ Blandy - Why Rust:
     https://www.reddit.com/r/cpp/comments/3kkgfz/why_rust_brief_introduction_but_good_for_c/
     http://feederio.com/book/46/why-rust
     http://feederio.com/files/book/14853357981385_30cfdedd0fe9372c2505f762cb70d575.pdf
+Balbaert - Rust Essentials
