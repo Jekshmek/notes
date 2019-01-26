@@ -1,7 +1,4 @@
 URLs
-https://ru-bykov.livejournal.com/3730243.html
-    2
-https://github.com/lukesampson/scoop-extras/issues/1653
 https://blog.predanie.ru/article/aleksandr-men-hristotsentrichnost/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
@@ -10,7 +7,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 25
+    Jan 26
 
 track
 scoop extras - a
@@ -144,7 +141,7 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiy                                 - 603.2 (of 1388)
+Kantor - Demokratiy                                 - 606.8 (of 1388)
 Shalyto - motivation                                - 082   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 The Little Typer - 3                                - 087..106 (of  418)

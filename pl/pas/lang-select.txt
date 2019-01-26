@@ -1,5 +1,11 @@
 http://dl.gsu.by/NForum/posts/topicshow/2567.dl?&page=1
-http://dl.gsu.by/NForum/posts/topicshow/2567.dl?&page=4
+http://dl.gsu.by/NForum/posts/topicshow/2567.dl?&page=5
 
 strong argument
 http://dl.gsu.by/NForum/posts/topicshow/2567.dl?postid=64038#64038
+
+egor suvorov
+http://codeforces.com/blog/entry/4237
+
+BY/GO
+ollympiad problems
