@@ -1,4 +1,6 @@
 URLs
+https://ru-bykov.livejournal.com/3730243.html
+    2
 https://github.com/lukesampson/scoop-extras/issues/1653
 https://blog.predanie.ru/article/aleksandr-men-hristotsentrichnost/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
