@@ -18,15 +18,17 @@ DL School - Hohulin
 https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ
 https://vk.com/doc83865491_454180587
 
-Nikolenko Kadurin - 2018
-https://habrahabr.ru/company/piter/blog/346358/
-https://www.piter.com/product/glubokoe-obuchenie
-https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
-https://www.labirint.ru/books/622166/
-https://oz.by/books/more10663570.html
-https://www.ozon.ru/context/detail/id/142987816/
+2019
+Trask - 2019 - Grokking Deep Learning
 
 2018
+Nikolenko Kadurin
+    https://habrahabr.ru/company/piter/blog/346358/
+    https://www.piter.com/product/glubokoe-obuchenie
+    https://books.google.by/books?id=Zi48DwAAQBAJ&printsec=frontcover&hl=ru#v=onepage&q&f=false
+    https://www.labirint.ru/books/622166/
+    https://oz.by/books/more10663570.html
+    https://www.ozon.ru/context/detail/id/142987816/
 Vieira - Introduction to Deep Learning Business Applications for Developers (too shallow)
 Skansi - Introduction to Deep Learning
 Krohn - Deep Learning Illustrated (small, without math)

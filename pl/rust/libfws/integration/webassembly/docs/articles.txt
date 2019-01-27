@@ -1,4 +1,6 @@
 2019
+https://medium.com/@jain.sm/webassembly-and-rust-f6a968463d58
+https://medium.com/@jain.sm/web-assembly-introduction-8a745501bba0
 https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46
 https://medium.com/@KevinHoffman/signing-webassembly-modules-with-rust-dd45fbb6987a
 2018

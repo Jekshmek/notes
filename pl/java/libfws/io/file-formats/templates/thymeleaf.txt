@@ -6,3 +6,9 @@ http://www.thymeleaf.org/documentation.html
 http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html
 http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html
 http://www.thymeleaf.org/doc/tutorials/3.0/extendingthymeleaf.html
+
+2019
+https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html
+    https://habr.com/ru/post/437658/
+    https://habr.com/ru/post/435080/
+    https://habr.com/ru/post/435062/

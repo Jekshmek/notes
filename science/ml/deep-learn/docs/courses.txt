@@ -1,6 +1,8 @@
 https://deeplearning.mit.edu/
 
 2019
+Berkley - STAT-157
+    https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
 Practical Deep Learning for Coders v3
     https://course.fast.ai/
     https://www.fast.ai/2019/01/24/course-v3/
