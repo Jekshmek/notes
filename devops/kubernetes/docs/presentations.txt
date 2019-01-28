@@ -1,29 +1,35 @@
+2019
+Slynko - All you need to know to deploy applications on Kubernetes
+    https://www.infoq.com/presentations/kubernetes-yaml
+    https://www.slideshare.net/offslinker/all-you-need-to-know-to-deploy-applications-on-kubernetes-116440914
+    https://gist.github.com/alex-slynko/f9d51244e3351c40b475568cc560fe18
 2018
+https://www.slideshare.net/offslinker/all-you-need-to-know-to-deploy-applications-on-kubernetes-116440914
 Edureka - Kubernetes Tutorial for Beginners
-https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
+    https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP
 Kubernetess Webinars
-https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
+    https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
 Kubernetes The Easy Way
-https://www.youtube.com/watch?v=kOa_llowQ1c
+    https://www.youtube.com/watch?v=kOa_llowQ1c
 Lukyanchenko - K8s in local dev
-https://www.youtube.com/watch?v=RRuqzYunXsE
+    https://www.youtube.com/watch?v=RRuqzYunXsE
 
 2017
 JavaScriptNinja - Intro to Kubernetes
-https://www.youtube.com/watch?v=L3tgJXsMUTU
+    https://www.youtube.com/watch?v=L3tgJXsMUTU
 Kubernetes Deconstructed
-https://www.youtube.com/watch?v=90kZRyPcRZw
+    https://www.youtube.com/watch?v=90kZRyPcRZw
 Orlov - Kubernetess as a Microservice Platform
-https://www.youtube.com/watch?v=7JqgxJpCfRE
+    https://www.youtube.com/watch?v=7JqgxJpCfRE
 Grebennikov-KubernetessDeployAsATsar
-https://www.youtube.com/watch?v=TFj-w2-ISVg
+    https://www.youtube.com/watch?v=TFj-w2-ISVg
 Izmailov - from CoreOS to Kubernetess
-https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
+    https://www.slideshare.net/denisizmaylov/from-coreos-to-kubernetes-and-concourse-ci
 Hoffer - Orchestrating Microservices with Kubernetes
-https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
+    https://www.slideshare.net/weaveworks/orchestrating-microservices-with-kubernetes
 
 2016
 Ghe Children Guide
-https://www.youtube.com/watch?v=4ht22ReBjno
+    https://www.youtube.com/watch?v=4ht22ReBjno
 Hightower - k8s for sysadmins
-https://www.youtube.com/watch?v=HlAXp0-M6SY
+    https://www.youtube.com/watch?v=HlAXp0-M6SY

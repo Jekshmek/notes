@@ -232,3 +232,43 @@ then this fact can be used anywhere without further justification.
 A function that always assigns a value to every possible argument
 is called a total function
 
+Note: in Pie all functions are total. That's why the order of subexpressions evaluation is not important
+
+Nat-eliminators
+    - which-Nat
+    - iter-Nat
+
+! The law of iter-Nat
+If target is a Nat, base is an X, and step is an
+    (-> X
+        X),
+then
+    (iter-Nat target
+        base
+        step)
+is an X.
+
+! The First Commandment of iter-Nat
+If (iter-Nat zero
+        base
+        step)
+is an X, then it is the same X as base.
+
+! The Second Commandment of iter-Nat
+If (iter-Nat (add1 n)
+        base
+        step)
+is an X, then it is the same X as
+    (step
+        (iter-Nat n
+            base
+            step)).
+
+
+Sample:
+    (iter-Nat 5
+        3
+        (\ (smaller)
+            (add1 smaller)))
+    is 8 because it is the same as
+        (add1 (add1 (add1 (add1 (add1 3)))))

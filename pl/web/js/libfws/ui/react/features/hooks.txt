@@ -19,6 +19,7 @@ https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
 2019
+https://overreacted.io/why-isnt-x-a-hook/
 https://medium.freecodecamp.org/how-i-built-an-async-form-validation-library-in-100-lines-of-code-with-react-hooks-81dbff6c4a04
 https://css-tricks.com/intro-to-react-hooks/
 2018

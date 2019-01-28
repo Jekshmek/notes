@@ -7,7 +7,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 27
+    Jan 28
 
 track
 scoop extras - a
@@ -141,10 +141,10 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiy                                 - 606.8 (of 1388)
-Shalyto - motivation                                - 082   (of  873)
+Kantor - Demokratiy                                 - 636.0 (of 1388)
+Shalyto - motivation                                - 085   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 087..106 (of  418)
+The Little Typer - 3                                - 089..106 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

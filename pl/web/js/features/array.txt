@@ -1,4 +1,7 @@
+2019
+https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f
 2018
+https://www.zeptobook.com/eleven-ways-to-learn-javascript-array-iteration-effectively/
 https://scotch.io/tutorials/4-uses-of-javascripts-arraymap-you-should-know
 https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c
     https://habr.com/company/ruvds/blog/422091/

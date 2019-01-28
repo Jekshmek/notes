@@ -17,6 +17,9 @@ tips
 https://umaar.com/dev-tips/
 https://www.heartinternet.uk/blog/16-devtools-tips-and-tricks-every-css-developer-need-to-know/
 
+css-stuff
+https://blog.logrocket.com/firefox-devtools-for-css-authors-1511f41d1e3
+
 articles
 2018
 https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools-(part-2)
@@ -43,4 +46,6 @@ https://www.youtube.com/watch?v=P753B81-szE
     http://s.csssr.ru/U31J879TR/DevtoolsOverview.pdf
 
 whatsnew
+https://developers.google.com/web/updates/2019/01/devtools
+    logpoints
 https://developers.google.com/web/updates/2018/08/devtools

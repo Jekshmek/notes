@@ -1,3 +1,5 @@
+2019
+https://vector-of-bool.github.io/2019/01/27/modules-doa.html
 2018
 https://cor3ntin.github.io/posts/modules_naming/
 https://cor3ntin.github.io/posts/modules_mapping/

@@ -3,6 +3,12 @@ https://yarnpkg.com/en/
 
 https://github.com/yarnpkg/yarn/
 
+scoop
+    yarn
+community
+    yarn
+    nodejs
+
 https://yarnpkg.com/en/docs
 https://yarnpkg.com/en/docs/getting-started
 https://yarnpkg.com/en/docs/install
@@ -37,11 +43,9 @@ https://yarnpkg.com/en/docs/dependencies
     https://yarnpkg.com/en/docs/selective-version-resolutions
 https://yarnpkg.com/en/docs/workspaces
 
-scoop
-    yarn
-community
-    yarn
-    nodejs
+whatsnew
+    https://github.com/yarnpkg/yarn/issues/6953
+
 
 cli
     yarn[pkg]

@@ -12,6 +12,10 @@ https://developers.google.com/web/updates/2016/05/houdini
 https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
 
 presentations
+2019
+Houdini Tutorial - CSS Painting and Custom Properties
+    https://seesparkbox.com/foundry/houdini_tutorial_css_paint_custom_properties_api
+    https://www.youtube.com/watch?v=5s6MuG6lioY
 2018
 CodingTech - State of CSS Houdini
     https://www.youtube.com/watch?v=G7KOgwuKBJQ

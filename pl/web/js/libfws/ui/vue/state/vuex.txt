@@ -1,3 +1,5 @@
+2019
+https://medium.com/@KucherDev/vuex-%D1%8D%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-6807d9ad330d
 2018
 VueMastery - Vuex - Intro Tutorial
     https://medium.com/vue-mastery/vuex-explained-visually-f17c8c76d6c4
