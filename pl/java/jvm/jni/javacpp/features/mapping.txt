@@ -33,3 +33,10 @@ public static class GetClipboardTextFn_Pointer extends FunctionPointer {
     public native @Cast("const char*") BytePointer call(Pointer user_data);
 }
 @MemberGetter public native GetClipboardTextFn_Pointer GetClipboardTextFn();
+
+https://github.com/bytedeco/javacpp/issues/29
+
+StringVector
+https://raw.githubusercontent.com/bytedeco/javacpp-presets/master/caffe/src/main/java/org/bytedeco/javacpp/caffe.java
+    FieldDescriptorVector
+https://github.com/bytedeco/javacpp/issues/22

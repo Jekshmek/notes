@@ -26,6 +26,9 @@ https://github.com/distillpub
 https://github.com/distillpub/template
 https://distill.pub/guide/
 
+2019
+https://habr.com/ru/company/mailru/blog/437940/
+
 2017
 https://vk.com/topic-138477641_34886254
 https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524

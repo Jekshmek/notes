@@ -1,0 +1,6 @@
+https://flatpak.org/
+
+whatsnew
+1.2
+https://blogs.gnome.org/mclasen/2019/01/28/whats-new-in-flatpak-1-2/
+    http://www.opennet.ru/opennews/art.shtml?num=50040

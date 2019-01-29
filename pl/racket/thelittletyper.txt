@@ -272,3 +272,17 @@ Sample:
             (add1 smaller)))
     is 8 because it is the same as
         (add1 (add1 (add1 (add1 (add1 3)))))
+
+(claim step-+
+    (-> Nat
+        Nat))
+(define step-+
+    (\ (+_(n-1))
+        (add1 +_(n-1)))
+
+(define +
+    (\ n j
+        (iter-Nat n
+            j
+            step-+)))
+

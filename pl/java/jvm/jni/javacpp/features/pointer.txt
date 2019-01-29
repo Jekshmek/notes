@@ -1,3 +1,15 @@
 https://github.com/bytedeco/javacpp/wiki/Basic-Architecture#the-pointer
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/Pointer.html
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/PointerScope.html
+
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/IntPointer.java
+    // java
+    public native void getInt(@ByPtr IntPointer i);
+    // cpp
+    void getInt(int *pI) { *pI = 7; }
+
+    IntPointer iP = new IntPointer(1); // 1 element
+    l.getInt(iP);
+    assertThat(iP.get()).isEqualTo(7);
+    iP.deallocate();
+

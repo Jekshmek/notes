@@ -21,14 +21,27 @@ https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javac
 
 @Adapter
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/Adapter.html
+
+@StdString
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdString.java
 @StdWString
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdWString.java
+@StdVector
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdVector.java
+    public native int sum(@StdVector int [] elements);
 
+
+@Const
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/Const.java
 @ByVal
 @ByRef
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/ByRef.java
 
 @NoException
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/NoException.html
 
 @NoOffset
 @Virtual
+
+@FunctionalPointer
+    calling java back from c++ is very slow
