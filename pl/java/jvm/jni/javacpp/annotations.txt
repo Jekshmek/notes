@@ -28,8 +28,6 @@ https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javac
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdWString.java
 @StdVector
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/StdVector.java
-    public native int sum(@StdVector int [] elements);
-
 
 @Const
 https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/Const.java
@@ -45,3 +43,5 @@ http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/NoException.
 
 @FunctionalPointer
     calling java back from c++ is very slow
+@UniquePtr
+https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javacpp/annotation/UniquePtr.java

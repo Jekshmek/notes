@@ -281,8 +281,14 @@ Sample:
         (add1 +_(n-1)))
 
 (define +
-    (\ n j
+    (\ (n j)
         (iter-Nat n
             j
             step-+)))
 
+(define gaus
+    (\ (n)
+        (rec-Nat n
+            0
+            (\ (n-1 gaus_(n-1))
+                (+ (add1 n-1) gaus_(n-1))))))

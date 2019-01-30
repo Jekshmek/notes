@@ -1,6 +1,9 @@
 books
 Marlow-ParallelAndConcurrentProgrammingInHaskell - ch 8
 
+2019
+https://www.fpcomplete.com/blog/defining-exceptions-in-haskell
+
 asynch exceptions
 2018
 https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
