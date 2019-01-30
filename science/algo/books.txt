@@ -10,5 +10,7 @@ Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
 https://logic.pdmi.ras.ru/~kulikov/sites/default/files/algorithms_href.pdf
 2013
 Stephens - Essential Algorithms ru
+2008
+Kao - Encyclopedia of Algorithms
 2006
 Levitin - Introduction to the Design and Analysis of Algorithms ru

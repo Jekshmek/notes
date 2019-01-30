@@ -1,2 +1,2 @@
 2018
-Galowitz - Cpp17 STL Cookbook
+Galowicz - Cpp17 stl Cookbook ru
