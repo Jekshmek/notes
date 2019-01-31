@@ -17,6 +17,9 @@ Galutsioniruy kak Trump
 https://habrahabr.ru/post/326966/
 
 presentations
+2019
+Eduonix - Machine Learning With Tensor Flow | Recurrent Neural Networks | Part 3
+    https://www.youtube.com/watch?v=NyrmaSS9qqA
 2018
 Recurrent Neural Networks - EXPLAINED!
     https://www.youtube.com/watch?v=yZv_yRgOvMg

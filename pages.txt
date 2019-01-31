@@ -10,7 +10,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Jan 29
+    Jan 31
 
 track
 scoop extras - a
@@ -80,7 +80,7 @@ Paschenko - Game 2 - 23a                             -  00:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - B 89                                      -   03:00 (of)
+Sorokin - B 90                                      -   00:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -142,10 +142,11 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Kantor - Demokratiy                                 - 682.0 (of 1388)
-Shalyto - motivation                                - 091   (of  873)
+Zhitinsky                                           - 17.3
+Kantor - Demokratiy                                 - 688.0 (of 1388)
+Shalyto - motivation                                - 093   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 094..106 (of  418)
+The Little Typer - 3                                - 096..106 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

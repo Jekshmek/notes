@@ -1,2 +1,4 @@
 2018
+https://dzone.com/articles/var-work-in-progress
+    https://habr.com/ru/post/438206/
 https://www.infoq.com/articles/java-10-var-type

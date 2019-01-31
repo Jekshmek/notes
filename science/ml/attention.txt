@@ -1,4 +1,5 @@
 2019
+https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html
 https://habr.com/ru/post/436878/
 2018
 Attention Is All You Need

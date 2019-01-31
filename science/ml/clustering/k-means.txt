@@ -1,1 +1,4 @@
 https://www.datascience.com/blog/k-means-clustering
+
+2019
+https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7
