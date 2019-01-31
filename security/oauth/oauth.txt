@@ -11,6 +11,10 @@ https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
 books
 2017
 Richer - OAuth2 in Action
+2015
+Bihis - Mastering OAuth 2
+2013
+Spasovski - OAuth 2 Identity and Access Management Patterns
 
 presentations
 2017
