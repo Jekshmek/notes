@@ -107,9 +107,9 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Zhitinsky                                           - 17.3
-Kantor - Demokratiy                                 - 688.0 (of 1388)
-Shalyto - motivation                                - 093   (of  873)
+Zhitinsky                                           - 31.1
+Kantor - Medlennye Chelyusti Demokratii             - 706.0 (of 1388)
+Shalyto - motivation                                - 095   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 The Little Typer - 3                                - 098..106 (of  418)
 

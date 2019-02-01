@@ -1,6 +1,10 @@
 2019
 https://mpark.github.io/programming/2019/01/22/variant-visitation-v2/
 2018
+Wuttke - std variant and the power of pattern matching
+    https://github.com/lethal-guitar/VariantTalk
+    https://github.com/lethal-guitar/VariantTalk/blob/master/slides/PatternMatching.pdf
+    https://www.youtube.com/watch?v=CELWr9roNno
 C++ Weekly - Ep 134 - The Best Possible Way To Create A Visitor
 https://www.youtube.com/watch?v=EsUmnLgz8QY
 https://www.bfilipek.com/2018/09/visit-variants.html

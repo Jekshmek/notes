@@ -5,14 +5,13 @@ https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aa
 https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5
 https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-d4dbdb509708
 2018
-https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-part-1-2-4f62ecc4f99b
 https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e
+https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-part-1-2-4f62ecc4f99b
     https://habr.com/post/432942/
 https://medium.com/@patricksteiger/migrating-experimental-kotlin-coroutines-to-stable-version-ccc683092339
 https://blog.frankel.ch/even-odd-coroutines/
     https://www.reddit.com/r/programming/comments/a6qoc7/even_and_odd_with_coroutines/
 https://developers.redhat.com/blog/2018/12/03/how-kotlins-coroutines-improve-code-readability/
-https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e
 https://codinginfinite.com/kotlin-coroutines-best-practices-example/
 https://medium.com/@elizarov/explicit-concurrency-67a8e8fd9b25
 https://kotlinexpertise.com/kotlin-coroutines-concurrency/
