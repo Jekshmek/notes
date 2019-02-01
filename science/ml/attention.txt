@@ -20,7 +20,9 @@ https://www.infoq.com/news/2018/11/google-bert-nlp
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html
 https://github.com/google-research/bert/
-https://arxiv.org/abs/1810.04805
+BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding
+    https://www.youtube.com/watch?v=-9evrZnBorM
+    https://arxiv.org/abs/1810.04805
 
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 

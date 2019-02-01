@@ -1,3 +1,6 @@
+https://en.cppreference.com/w/cpp/language/move_assignment
+https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp
+
 2019
 https://medium.com/@winwardo/c-moves-for-people-who-dont-know-or-care-what-rvalues-are-%EF%B8%8F-56ee122dda7
 2018
@@ -114,3 +117,6 @@ void emplace_back(Args &&... args);
 
 Appends a new element to the end of the container. The element is constructed in-place, i.e. no copy or move operations are performed.
 
+vector samples
+https://pagefault.blog/2018/03/01/common-misconception-with-cpp-move-semantics/
+https://habr.com/ru/post/174019/

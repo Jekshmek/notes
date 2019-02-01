@@ -95,3 +95,7 @@ captureExpression(RhsT const &rhs) {
         .setRhs(Catch::toString(m_rhs))
         .setOp(Internal::OperatorTraits<Op>::getName());
 }
+
+// generators
+
+https://github.com/catchorg/Catch2/blob/master/docs/generators.md

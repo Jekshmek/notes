@@ -292,3 +292,12 @@ Sample:
             0
             (\ (n-1 gaus_(n-1))
                 (+ (add1 n-1) gaus_(n-1))))))
+
+
+(claim step-gaus
+    (-> Nat Nat
+        Nat))
+
+(define step-gaus
+    (\ (n-1 gaus_(n-1))
+        (+ (add1 n-1) gaus_(n-1))))
