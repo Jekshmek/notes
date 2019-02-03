@@ -1,6 +1,8 @@
 https://serviceworke.rs/
 https://github.com/mozilla/serviceworker-cookbook
 
+2019
+https://blog.bitsrc.io/prefetching-links-using-service-workers-d9f6babfd0b
 2018
 TraversyMedia - Intro To Service Workers and Caching
 https://www.youtube.com/watch?v=ksXwaWHCW6k

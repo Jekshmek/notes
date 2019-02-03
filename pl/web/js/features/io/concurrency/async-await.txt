@@ -22,3 +22,4 @@ https://medium.com/@vkozulya/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%BD%D0%B5-%
 2017
 https://lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795/
     https://habr.com/post/435084/
+    https://medium.com/webbdev/js-8dfa059cae97
