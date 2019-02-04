@@ -1,3 +1,5 @@
+https://github.com/Yelp/swagger-gradle-codegen
+
 2018
 https://habr.com/post/420841/
 http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
