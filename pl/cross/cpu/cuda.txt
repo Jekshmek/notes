@@ -1,0 +1,4 @@
+books
+2016
+Storti - CUDA for Engineers
+Soyata - GPU Parallel Program Development using CUDA

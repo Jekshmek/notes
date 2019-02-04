@@ -1,3 +1,5 @@
+2019
+https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12
 2018
 https://medium.freecodecamp.org/lets-explore-objects-in-javascript-4a4ad76af798
     https://habr.com/company/ruvds/blog/420615/

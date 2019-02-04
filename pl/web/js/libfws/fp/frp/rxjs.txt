@@ -7,6 +7,8 @@ http://xgrommx.github.io/rx-book/
 Mansilla - 2018 - Reactive Programming with RxJS 5
 
 articles
+2019
+https://habr.com/ru/post/438642/
 2018
 https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
 2017

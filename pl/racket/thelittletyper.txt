@@ -301,3 +301,9 @@ Sample:
 (define step-gaus
     (\ (n-1 gaus_(n-1))
         (+ (add1 n-1) gaus_(n-1))))
+
+(define gaus
+    (\ (n)
+        (rec-Nat n
+            0
+            step-gaus)))

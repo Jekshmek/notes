@@ -21,6 +21,8 @@ management:
       exposure:
         include: info,health,prometheus
 
+2019
+https://www.infoq.com/presentations/metrics-apache-geode-micrometer
 2018
 https://dzone.com/articles/using-micrometer-with-spring-boot-2
 https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector
