@@ -2,3 +2,7 @@ books
 2016
 Storti - CUDA for Engineers
 Soyata - GPU Parallel Program Development using CUDA
+Necrasov - Common Parallel Calculations using GPUs ru
+    http://elar.urfu.ru/bitstream/10995/40616/1/978-5-7996-1722-6_2016.pdf
+2011
+Sanders - 2011 - CUDA by Example

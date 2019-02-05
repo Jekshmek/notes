@@ -2,15 +2,6 @@ https://abseil.io/
 
 https://github.com/abseil/abseil-cpp
 
-
-articles
-2018
-https://abseil.io/blog/20180713-coroutine-types
-https://abseil.io/blog/20180227-what-should-go-stdlib
-2017
-https://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html
-http://www.opennet.ru/opennews/art.shtml?num=47275
-
 docs
 https://abseil.io/about/intro
 https://abseil.io/about/philosophy
@@ -42,10 +33,3 @@ https://abseil.io/tips/
 
 regular types
 https://abseil.io/blog/20180531-regular-types
-
-hash tables
-https://abseil.io/blog/20180927-swisstables
-    https://www.reddit.com/r/cpp/comments/9jhk7r/swiss_tables_and_abslhash/
-
-time
-https://abseil.io/blog/20181010-civil-time

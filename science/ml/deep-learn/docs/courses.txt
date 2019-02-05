@@ -1,6 +1,8 @@
 https://deeplearning.mit.edu/
 
 2019
+https://dlcourse.ai/
+    https://habr.com/ru/company/ods/blog/438940/
 Berkley - STAT-157
     https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
 Practical Deep Learning for Coders v3

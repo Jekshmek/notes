@@ -1,2 +1,4 @@
+2019
+https://habr.com/ru/post/437806/
 2018
 https://thenewstack.io/whats-coming-up-in-javascript-2018-async-generators-better-regex

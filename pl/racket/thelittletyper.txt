@@ -307,3 +307,35 @@ Sample:
         (rec-Nat n
             0
             step-gaus)))
+
+
+(claim *
+    (-> Nat Nat
+        Nat))
+
+(claim make-step-*
+    (-> Nat
+        (-> Nat Nat
+            Nat)))
+
+(claim make-step-*
+    (-> Nat
+        (-> Nat Nat
+            Nat)))
+
+(define make-step-*
+    (\ (j)
+        (\ (n-1 *_(n-1))
+            (+ j *_(n-1)))))
+
+The shorter way would be
+
+(claim step-*
+    (-> Nat Nat Nat
+        Nat))
+
+(define step-*
+    (\ (j n-1 *_(n-1))
+        (+ j *_(n-1))))
+
+

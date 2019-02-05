@@ -1,7 +1,8 @@
 http://books.goalkicker.com/HaskellBook/
 
 2018
-http://reasonablypolymorphic.com/blog/book-of-types/index.html
+Putrady - Practical Web Development with Haskell
 Kurt - Get Programming with Haskell
+http://reasonablypolymorphic.com/blog/book-of-types/index.html
 2016
 Thomasson - Haskell High Performance Programming

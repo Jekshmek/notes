@@ -1,4 +1,6 @@
 https://www.datascience.com/blog/k-means-clustering
 
 2019
+Codebasics - Machine Learning Tutorial Python - 13: K Means Clustering
+    https://www.youtube.com/watch?v=EItlUEPCIzM
 https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7
