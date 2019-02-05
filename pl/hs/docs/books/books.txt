@@ -4,5 +4,9 @@ http://books.goalkicker.com/HaskellBook/
 Putrady - Practical Web Development with Haskell
 Kurt - Get Programming with Haskell
 http://reasonablypolymorphic.com/blog/book-of-types/index.html
+2017
+Mihailescu - Practical Concurrent Haskell
 2016
 Thomasson - Haskell High Performance Programming
+2013
+Marlow - Parallel and Concurrent Programming in Haskell

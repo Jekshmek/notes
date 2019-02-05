@@ -338,4 +338,38 @@ The shorter way would be
     (\ (j n-1 *_(n-1))
         (+ j *_(n-1))))
 
+(define *
+    (\ (n j)
+        (rec-Nat n
+            0
+            (step-* j))))
+
+! The Law of rec-Nat
+If target is a Nat, base is an X, and step is an
+    (-> Nat X
+        X)
+then
+    (rec-Nat target
+        base
+        step)
+is an X.
+
+! The First Commandment of rec-Nat
+If
+    (rec-Nat zero
+        base
+        step)
+is an X, then it is the same X as base.
+
+! The Second Commandment of rec-Nat
+If
+    (rec-Nat (add1 n)
+        base
+        step)
+is an X, then it is the same X as
+    (step n
+        (rec-Nat n
+            base
+            step)).
+
 

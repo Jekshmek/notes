@@ -2,3 +2,4 @@
 Urma - Modern Java in Action 2nd ed
 Sharan - Java Language Features 2nd ed
 Farrell - Java Programming 9th ed
+Horstman - Core Java SE 9 for the Impatient 2nd ed
