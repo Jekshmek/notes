@@ -58,3 +58,7 @@ kubectl
 
     diff
         https://github.com/kubernetes/enhancements/issues/491
+
+
+plugins
+https://ahmet.im/blog/kubectl-plugins/
