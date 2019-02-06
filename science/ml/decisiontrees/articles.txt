@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/company/mailru/blog/438560/
 https://medium.com/@rileypredum/predicting-kickstarter-campaign-success-with-gradient-boosted-decision-trees-a-machine-learning-23077436c5f7
 2018
 https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-decision-trees-adb2165ccab7
