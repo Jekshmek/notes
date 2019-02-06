@@ -102,11 +102,11 @@ Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
-Zhitinsky                                           - 129.0 (of 1150)
+Zhitinsky                                           - 153.6 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 746.0 (of 1388)
-Shalyto - motivation                                - 107   (of  873)
+Shalyto - motivation                                - 111   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 108..122 (of  418)
+The Little Typer - 3                                - 110..122 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

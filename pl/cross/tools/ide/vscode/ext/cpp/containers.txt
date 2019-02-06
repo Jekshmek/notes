@@ -1,0 +1,2 @@
+2019
+https://blogs.msdn.microsoft.com/vcblog/2019/02/06/using-vs-code-for-c-development-with-containers/

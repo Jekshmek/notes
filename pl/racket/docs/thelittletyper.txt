@@ -373,3 +373,23 @@ is an X, then it is the same X as
             step)).
 
 
+### 4: Easy a Pie
+
+(claim Pear
+    U)
+(define Pear
+    (Pair Nat Nat))
+
+(claim kar
+    (-> (Pair Nat Nat)
+        Nat))
+(define kar
+    (\ (p)
+        (elim-Pair
+            Nat Nat
+            Nat
+            p
+            (\ (a d)
+                a))))
+
+Note: elim-Pair has not been defined yet

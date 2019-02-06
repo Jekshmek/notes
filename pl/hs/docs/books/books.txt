@@ -8,5 +8,10 @@ http://reasonablypolymorphic.com/blog/book-of-types/index.html
 Mihailescu - Practical Concurrent Haskell
 2016
 Thomasson - Haskell High Performance Programming
+Hutton - Programming in Haskell 2nd ed
+2015
+Bird - Thinking Functionally with Haskell
 2013
 Marlow - Parallel and Concurrent Programming in Haskell
+1998
+Bird - Introduction To Functional Programming Using Haskell 2nd ed
