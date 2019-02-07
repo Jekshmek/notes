@@ -1,6 +1,9 @@
 https://lewissbaker.github.io/
 
 2018
+Reischuck - Coroutine TS a new way of thinking
+    https://www.youtube.com/watch?v=RL5oYUl5548
+    https://github.com/arBmind/2018-cogen-en
 https://hackernoon.com/c-coroutine-ts-its-about-inversion-of-control-d1588c4c4c31
 https://habr.com/company/yandex/blog/420861/
 https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type

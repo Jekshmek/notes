@@ -1,4 +1,0 @@
-https://kotlin.link/
-https://kotlin.libhunt.com/
-
-https://github.com/KotlinBy/awesome-kotlin

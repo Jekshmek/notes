@@ -1,4 +1,4 @@
-
+samples
     private static List<String> getResourceLines(final String resName) {
         final InputStream is = SfstTests.class.getResourceAsStream(RES_PREFIX + resName);
         try {
@@ -10,3 +10,11 @@
             IOUtils.closeQuietly(is);
         }
     }
+
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+        byte[] encoded = Files.readAllBytes(Paths.get("src/test/resources/test.txt"));
+        String testString = new String(encoded, Charset.forName("UTF-8"));
+

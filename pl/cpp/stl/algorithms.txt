@@ -6,6 +6,8 @@ https://github.com/srcmake/cpp-stl-algorithms
     https://www.youtube.com/watch?v=9XGqSDjaW24
 
 2019
+https://awfulcode.io/2019/02/07/inside-the-stl-the-implementation-of-rotate/
+    rotate
 CodeReport - stl algorithms
     https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5
     https://github.com/codereport/Algorithms
