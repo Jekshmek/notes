@@ -1,7 +1,6 @@
-catboost
-https://habrahabr.ru/company/jugru/blog/339384/
-https://habrahabr.ru/company/jugru/blog/339386/
-https://smartdataconf.ru/2017/spb/talks/5fe6kggg7sowicic6mgemk/
+2019
+https://habr.com/ru/company/mailru/blog/438562/
+https://habr.com/ru/company/mailru/blog/438560/
 
 2018
 Dmitriev - Master Class solving Classification Problems using CatBoost
@@ -30,6 +29,11 @@ https://habrahabr.ru/post/307312/
 
 2013
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/
+
+catboost
+https://habrahabr.ru/company/jugru/blog/339384/
+https://habrahabr.ru/company/jugru/blog/339386/
+https://smartdataconf.ru/2017/spb/talks/5fe6kggg7sowicic6mgemk/
 
 ?
 Diakonov

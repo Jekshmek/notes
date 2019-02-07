@@ -393,3 +393,31 @@ is an X, then it is the same X as
                 a))))
 
 Note: elim-Pair has not been defined yet
+
+(claim kdr
+    (-> (Pair Nat Nat)
+        Nat))
+(define kdr
+    (\ (p)
+        (elim-Pair
+            Nat Nat
+            Nat
+            p
+            (\ (a d)
+                d))))
+
+Note: elim-Pair has not been defined yet (as well as for the case of kar)
+
+
+(claim swap
+    (-> (Pair Nat Atom)
+        (Pair Atom Nat)))
+(define swap
+    (\ (p)
+        (elim-Pair
+            Nat Atom
+            (Pair Atom Nat)
+            p
+            (\ (a d)
+                (cons d a)))))
+

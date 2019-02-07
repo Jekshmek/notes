@@ -4,4 +4,7 @@ https://github.com/fmtlib/fmt
 fmt/core.h
 
 2018
+Engert - Socializing with {fmt}
+    https://www.youtube.com/watch?v=Az-hi8tKLGY
+    https://danielae.github.io/fmt-MeetingCPP/MeetingC++2018/pdf/socializing-with-fmt.pdf
 https://www.fluentcpp.com/2018/12/04/an-extraterrestrial-guide-to-c-formatting/

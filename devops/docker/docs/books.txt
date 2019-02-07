@@ -1,2 +1,5 @@
 Gallagher - Mastering Docker
 Raj - Learning Docker
+
+2018
+Bhat - Practical Docker with Python
