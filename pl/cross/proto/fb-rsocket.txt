@@ -11,6 +11,8 @@ http://rsocket.io/docs/Motivations
 http://rsocket.io/docs/Protocol.html
 
 presentations
+2019
+https://www.infoq.com/presentations/messaging-architecture-future
 2018
 Hale, Maldini - Distributed Reactive Streams with RSocket, Reactor, and Spring
     https://www.youtube.com/watch?v=WVnAbv65uCU
