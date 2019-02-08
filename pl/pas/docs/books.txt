@@ -7,3 +7,6 @@ zubkov
     https://books.ifmo.ru/file/pdf/603.pdf
 eremin
     http://moul49.narod.ru/informatika/PascalABC.pdf
+
+graphics
+http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf
