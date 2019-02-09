@@ -7,6 +7,7 @@ https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://github.com/owainlewis/awesome-artificial-intelligence
 https://rushter.com/dsreader/
     https://github.com/rushter/data-science-blogs
+https://github.com/EthicalML/awesome-machine-learning-operations
 
 https://proglib.io/p/jupyter-notebook-best/
 

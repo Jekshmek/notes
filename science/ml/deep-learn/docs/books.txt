@@ -32,6 +32,7 @@ Nikolenko Kadurin
 Vieira - Introduction to Deep Learning Business Applications for Developers (too shallow)
 Skansi - Introduction to Deep Learning
 Krohn - Deep Learning Illustrated (small, without math)
+Shhollet - Deep Learning with Python ru
 
 Burtsev
 https://vk.com/doc4004138_453543210
