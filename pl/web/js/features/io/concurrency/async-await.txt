@@ -10,6 +10,7 @@ https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-a
 2018
 https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
     https://nuancesprog.ru/p/2583/
+    https://habr.com/ru/post/439620/
 https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc
 https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/
 http://telegra.ph/Konstrukciya-asyncawait-v-JavaScript-08-02

@@ -1,3 +1,5 @@
+2019
+https://coaxion.net/blog/2019/02/mpsc-channel-api-for-painless-usage-of-threads-with-gtk-in-rust/
 2018
 https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791
 https://gsquire.github.io/static/post/a-rusty-go-at-channels/
