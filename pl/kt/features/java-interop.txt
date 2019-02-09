@@ -10,3 +10,6 @@ some_var::class
 
 static
 @JvmStatic
+
+@JvmDefault
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-default/index.html

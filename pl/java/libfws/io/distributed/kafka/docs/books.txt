@@ -10,3 +10,4 @@ https://martin.kleppmann.com/2015/01/24/stream-processing-at-dev-winter.html
 
 2018
 Bejeck - Kafka Streams in Action
+Stopford - Designing Event-Driven Systems
