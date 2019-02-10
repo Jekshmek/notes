@@ -3,6 +3,7 @@ https://frontarm.com/toolbox/promises-async-await-cheatsheet/
 https://github.com/frontarm/async-javascript-cheatsheet
 
 2019
+https://medium.com/webbdev/%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-javascript-d5487d1f5e36
 https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad
     https://habr.com/ru/company/plarium/blog/438318/
     https://habr.com/ru/company/ruvds/blog/436884/
