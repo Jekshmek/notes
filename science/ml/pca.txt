@@ -1,1 +1,5 @@
 https://arxiv.org/pdf/1404.1100.pdf
+
+2019
+Serrano - Principal Component Analysis (PCA)
+    https://www.youtube.com/watch?v=g-Hb26agBFg

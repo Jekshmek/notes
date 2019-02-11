@@ -15,3 +15,6 @@ file!  line!  column!
 https://doc.rust-lang.org/std/macro.file.html
 https://doc.rust-lang.org/std/macro.line.html
 https://doc.rust-lang.org/std/macro.column.html
+
+2019
+https://medium.com/@knoldus/are-you-still-using-println-in-rust-for-debugging-fcffd4df5da5

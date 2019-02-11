@@ -7,6 +7,8 @@ cargo
         --vers ="^0.1.0"
         -f <name>
             update installed <name>
+        --path .
+            from local path
     new <prj-name>
         create a new cargo package
         --bin (default)
