@@ -1,3 +1,6 @@
+2019
+Mueller - Python for Data Science For Dummies 2nd ed
+
 2018
 McKinney - Python for Data Analysis 2nd ed
 Nelli - Python Data Analytics 2nd ed
