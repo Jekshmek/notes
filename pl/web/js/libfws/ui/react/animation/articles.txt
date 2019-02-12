@@ -1,3 +1,6 @@
+2019
+https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf
+
 2018
 https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/
 https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
