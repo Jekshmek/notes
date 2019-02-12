@@ -421,3 +421,11 @@ Note: elim-Pair has not been defined yet (as well as for the case of kar)
             (\ (a d)
                 (cons d a)))))
 
+! The Intermediate Law of Application
+if f is a
+    (PI ((Y U))
+        X)
+and Z is a U, then
+    (f Z)
+is an X
+    where every Y has been consistently replaced by Z.

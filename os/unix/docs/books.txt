@@ -1,2 +1,5 @@
 2018
-Stevens - Unix Professional Programming 3rd ed ru
+Stevens - Advanced Programming in the Unix Environment 3rd ed ru
+
+2013
+Stevens - Advanced Programming in the Unix Environment 3rd ed

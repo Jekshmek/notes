@@ -1,3 +1,6 @@
+2019
+http://blog.llvm.org/2019/02/eurollvm19-developers-meeting-program.html
+
 DevMtg
 2018
 http://llvm.org/devmtg/2018-10/

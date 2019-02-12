@@ -1,2 +1,16 @@
 http://hackage.haskell.org/package/turtle
 https://github.com/Gabriel439/Haskell-Turtle-Library
+
+2019
+http://www.haskellforall.com/2019/02/haskell-command-line-utility-using-ghc.html
+
+2015
+https://snoyberg.github.io/generated/2015-11-10-twitter-haskell-fast-concurrent-robust-services.html#/8/1
+
+
+#!/usr/bin/env stack
+-- stack --resolver lts-3.2 --install-ghc runghc --package turtle
+{-# LANGUAGE OverloadedStrings #-}
+import Turtle
+main = echo "Hello World!"
+
