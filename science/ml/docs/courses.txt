@@ -8,6 +8,9 @@ https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/playlists
 google
 https://developers.google.com/machine-learning/crash-course/
 
+JetBrains
+https://www.youtube.com/channel/UCdeSxuESqLOxuuwXNnqqbrA/playlists
+
 2019
 Berkeley
     https://inst.eecs.berkeley.edu/~cs188/fa18/

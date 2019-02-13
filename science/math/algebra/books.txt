@@ -1,0 +1,6 @@
+2018
+Boyd - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares
+https://web.stanford.edu/~boyd/vmls/
+https://web.stanford.edu/~boyd/vmls/vmls.pdf
+https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf
+http://stanford.edu/class/ee103/103exercises.pdf
