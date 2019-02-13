@@ -429,3 +429,19 @@ and Z is a U, then
     (f Z)
 is an X
     where every Y has been consistently replaced by Z.
+
+
+(claim elim-Pair
+    (PI ((A U)
+         (D U)
+         (X U))
+        (-> (Pair A D)
+            (-> A D
+                X)
+            X)))
+(define elim-Pair
+    (\ (A D X)
+        (\ (p f)
+            (f (car p) (cdr p)))))
+
+
