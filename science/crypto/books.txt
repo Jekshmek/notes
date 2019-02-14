@@ -4,3 +4,5 @@ Aumasson - Serious Cryptography
 Romankov - Cryptography Introduction 2nd ed ru
 2011
 Davies - Implementing SSL and TLS using Cryptography and PKI
+2009
+Panasenko - Encryption Algorithms Reference ru

@@ -1,1 +1,5 @@
 elfutils
+
+books
+2016
+ONeil - Learning Linux Binary Analysis

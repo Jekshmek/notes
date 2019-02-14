@@ -1,5 +1,6 @@
 https://rustwasm.github.io/
 
+https://rustwasm.github.io/2019/02/13/this-week-in-rust-and-wasm-010.html
 https://rustwasm.github.io/2018/11/28/this-week-in-rust-wasm-009.html
 https://rustwasm.github.io/2018/10/01/this-week-in-rust-wasm-008.html
 https://rustwasm.github.io/2018/09/04/this-week-in-rust-wasm-007.html

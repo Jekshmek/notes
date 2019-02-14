@@ -7,3 +7,4 @@ NinjaSquad - Become A Ninja With Angular (good starter!)
 Kunz - Mastring Angular Components 2nd ed
 Seshadri - Angular up and Running
 Uluca - Angular 6 for Enterprise-Ready Web Applications
+Fain - Angular 2 Development with TypeScript ru

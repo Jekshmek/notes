@@ -1,5 +1,8 @@
 2018
 Stevens - Advanced Programming in the Unix Environment 3rd ed ru
 
+2016
+Binnie - Practical Linux Topics
+
 2013
 Stevens - Advanced Programming in the Unix Environment 3rd ed

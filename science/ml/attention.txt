@@ -1,4 +1,7 @@
 2019
+Kurbanov - Attention, attention
+    https://www.youtube.com/watch?v=q9svwVYduSo
+    https://research.jetbrains.org/files/material/5c642f68c724e.pdf
 https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html
 https://habr.com/ru/post/436878/
 2018
