@@ -6,4 +6,5 @@ https://github.com/cilium/cilium
 https://cilium.readthedocs.io/en/stable/
 
 2019
+http://www.opennet.ru/opennews/art.shtml?num=50144
 https://www.infoq.com/presentations/linux-cilium-ebpf
