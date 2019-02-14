@@ -1,3 +1,5 @@
 2018
+Molchanov - Async in Python
+https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
 Otus - Async Programming in Python ru
-https://www.youtube.com/watch?v=LROBh6pgEp8
+    https://www.youtube.com/watch?v=LROBh6pgEp8

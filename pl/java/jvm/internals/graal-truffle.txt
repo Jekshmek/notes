@@ -72,6 +72,8 @@ https://blog.plan99.net/graal-truffle-134d8f28fb69
 
 presentations
 2018
+Selajev - Run Programs Faster Anywhere
+    https://www.youtube.com/watch?v=MN6jNIwl2FQ
 Chiruhin - Graal Value Types and Loom
 https://www.youtube.com/watch?v=hnadkXBIC1k
 Sedlar - Graal VM

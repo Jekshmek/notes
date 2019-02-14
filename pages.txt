@@ -1,9 +1,5 @@
 URLs
 http://www.iarex.ru/articles/61581.html
-https://vk.com/mathforchildren
-    2017-Jan-29 - 2017-Jan-1
-https://vk.com/mccme
-    2014-Feb-6
 https://blog.predanie.ru/article/andrej-platonov-velichajshij-pisatel-revolyutsii-kak-bogoslov/
     teurgiya
 https://blog.predanie.ru/article/vysotskij-smert-v-dva-akta/
@@ -14,6 +10,10 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
+https://vk.com/mccme
+    2014-Feb-6
+https://vk.com/mathforchildren
+    Feb 14
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Feb 14
 
