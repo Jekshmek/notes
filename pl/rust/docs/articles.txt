@@ -1,4 +1,6 @@
 2019
+https://hacks.mozilla.org/2019/02/fearless-security-thread-safety/
+https://hacks.mozilla.org/2019/01/fearless-security-memory-safety/
 http://eao197.blogspot.com/2019/02/progthoughts-rust-compiler-driven.html
 http://eao197.blogspot.com/2019/01/progflame-rust.html
     https://habr.com/post/434200/

@@ -18,6 +18,7 @@ babel
 https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring
 
 react
+https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor
 https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack
 jsx
 https://javascriptplayground.com/vscode-go-to-definition-jsx/

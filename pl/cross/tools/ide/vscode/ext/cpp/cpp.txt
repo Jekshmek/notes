@@ -10,6 +10,7 @@ https://blogs.msdn.microsoft.com/vcblog/2017/05/19/visual-studio-code-cc-extensi
 https://blogs.msdn.microsoft.com/vcblog/2018/04/09/intellisense-for-remote-linux-headers/
 
 2019
+https://habr.com/ru/company/aktiv-company/blog/440142/
 https://pspdfkit.com/blog/2019/visual-studio-code-for-cpp/
 
 2018
