@@ -12,6 +12,10 @@ misc books review:
 https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
 
+????
+Stanford - Leskovec - Mining of Massive DataSets
+http://www.mmds.org/
+
 2019
 Porcu - Python for Data Mining (too short)
 
