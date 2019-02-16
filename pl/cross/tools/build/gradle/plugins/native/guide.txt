@@ -1,1 +1,5 @@
+https://blog.gradle.org/introducing-the-new-cpp-plugins
+    !!! new one
 https://docs.gradle.org/current/userguide/native_software.html
+    !!! obsolete
+https://github.com/gradle/native-samples
