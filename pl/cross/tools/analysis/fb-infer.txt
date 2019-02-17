@@ -12,7 +12,12 @@ http://fbinfer.com/docs/limitations.html
 
 http://fbinfer.com/blog/
 
-articles:
-https://www.infoq.com/news/2015/06/facebook-infer
+articles
+2019
+https://towardsdatascience.com/machine-learning-for-detecting-code-bugs-a79f37f144b7
+    https://habr.com/ru/company/skillbox/blog/440536/
+2017
 https://code.facebook.com/posts/277643589367408/al-a-new-declarative-language-for-detecting-bugs-with-infer
 https://www.infoq.com/news/2017/05/facebook-al-infer-static-checker
+2015
+https://www.infoq.com/news/2015/06/facebook-infer
