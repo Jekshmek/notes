@@ -1,2 +1,4 @@
+2019
+https://blog.bazel.build/2019/02/11/configurable-builds-part-1.html
 2018
 https://codeburst.io/bazel-an-experimental-and-unofficial-feature-of-angular-6-946e880b4637

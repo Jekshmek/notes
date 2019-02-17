@@ -7,6 +7,7 @@ oracle:
 https://github.com/JetBrains/Exposed/pull/62
 
 2019
+http://thetechstack.net/light-weight-sql-kotlin-library/
 https://medium.com/@pjagielski/how-we-use-kotlin-with-exposed-at-touk-eacaae4565b5
 
 https://medium.com/@OhadShai/first-steps-with-kotlin-exposed-cb361a9bf5ac
