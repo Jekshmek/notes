@@ -502,3 +502,8 @@ consistently replacing every Y in X with T.
             (:: 'tried-cleaning
                 (:: 'understood
                     (:: 'slept nil))))))
+
+! The Law of List
+If E is a type, then (List E) is a type.
+
+nil - is a c-tor

@@ -1,3 +1,7 @@
+2019
+Kuksenko - Quantum Performance Effects - Beyond The Core
+    https://www.infoq.com/presentations/cpu-microarchitecture
+    https://github.com/kuksenko/quantum2
 2018
 Tene - Java at Speed
-https://www.infoq.com/presentations/java-jvm-perf
+    https://www.infoq.com/presentations/java-jvm-perf

@@ -10,3 +10,9 @@ https://habrahabr.ru/post/332886/
 2014
 https://habrahabr.ru/company/kingservers/blog/209644/
 https://habrahabr.ru/company/kingservers/blog/209970/
+
+books
+2014
+Vermeulen - SELinux Cookbook
+2013
+Vermeulen - SELinux System Administration
