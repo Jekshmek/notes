@@ -26,3 +26,6 @@ libsDir
 
 dump properties
     tasks['lttSharedLibrary'].properties.each { println "$it.key -> $it.value" }
+
+~/.gradle/gradle.properties
+org.gradle.jvmargs=-Xmx4096m
