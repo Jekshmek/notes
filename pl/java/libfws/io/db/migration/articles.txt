@@ -1,0 +1,3 @@
+2019
+https://reflectoring.io/database-refactoring-flyway-vs-liquibase/
+    https://habr.com/ru/company/haulmont/blog/440696/

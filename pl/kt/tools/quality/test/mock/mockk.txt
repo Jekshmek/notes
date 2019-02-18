@@ -3,6 +3,8 @@ https://github.com/oleksiyp/mockk
 
 https://habrahabr.ru/post/341202/
 
+2019
+https://blog.kotlin-academy.com/mocking-is-not-rocket-science-mockk-advanced-features-42277e5983b5
 2018
 https://medium.com/@oleksiypylypenko/mockk-intentions-dbe378106a6b
 https://medium.com/@darych90/kotlin-spring-boot-mockk-6d1c1a6463ac
