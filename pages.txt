@@ -102,11 +102,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 231.1 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 827.0 (of 1388)
-Shalyto - motivation                                - 133   (of  873)
+Zhitinsky                                           - 243.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 835.0 (of 1388)
+Shalyto - motivation                                - 135   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 126..140 (of  418)
+The Little Typer - 3                                - 128..140 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

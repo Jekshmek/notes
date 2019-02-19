@@ -507,3 +507,11 @@ consistently replacing every Y in X with T.
 If E is a type, then (List E) is a type.
 
 nil - is a c-tor
+::  - is another c-tor
+
+! The Law of nil
+nil is a (List E), no matter what type E is.
+
+! The Law of ::
+If e is an E and es is a (List E),
+then (:: e es) is a (List E).

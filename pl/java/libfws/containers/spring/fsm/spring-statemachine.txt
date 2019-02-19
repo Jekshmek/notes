@@ -1,0 +1,6 @@
+https://projects.spring.io/spring-statemachine/
+
+https://docs.spring.io/spring-statemachine/docs/2.1.0.RELEASE/reference/htmlsingle/#state-machine-via-builder
+
+2019
+https://habr.com/ru/post/440788/
