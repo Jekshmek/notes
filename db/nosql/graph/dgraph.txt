@@ -1,0 +1,9 @@
+https://dgraph.io/
+
+https://docs.dgraph.io/get-started/
+
+https://tour.dgraph.io/
+
+https://github.com/dgraph-io/dgraph
+
+https://crates.io/crates/dgraph
