@@ -1,6 +1,7 @@
 2018
 OConnor - Alices's Adventures in Template Land
     https://github.com/ninkibah/talks/blob/master/alice/Alices%20Adventures%20in%20Template%20Land.pdf
+    https://www.youtube.com/watch?v=LSVdQJzblBQ
 Josuttis - C++ Templates Revised
     https://www.youtube.com/watch?v=9PFMllbyaLM
 

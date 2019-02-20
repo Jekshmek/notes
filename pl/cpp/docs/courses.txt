@@ -1,0 +1,3 @@
+2019
+http://www.ece.uvic.ca/~frodo/cppbook/
+http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2019-02-04.pdf
