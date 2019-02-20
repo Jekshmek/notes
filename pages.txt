@@ -84,7 +84,7 @@ Chernyak - 33 of 34                                 -   20:00 (of 1:57:49)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 273
+This week in rust                                   - 274
 Razbor Poletov                                      - 191
     http://traffic.libsyn.com/razborpoletov/razbor_191.mp3
 ACCU Overload                                       - 146
@@ -104,9 +104,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 243.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 835.0 (of 1388)
-Shalyto - motivation                                - 135   (of  873)
+Shalyto - motivation                                - 137   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 128..140 (of  418)
+The Little Typer - 3                                - 130..140 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
