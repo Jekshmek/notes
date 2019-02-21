@@ -1,0 +1,3 @@
+2019
+https://medium.freecodecamp.org/how-to-understand-reducers-you-can-use-them-without-redux-2935208bdb12
+    https://nuancesprog.ru/p/3155

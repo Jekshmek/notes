@@ -1,5 +1,9 @@
 Coding Tech - WebAssembly
 https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
+2019
+Nagih - WebAssembly real samples
+    https://habr.com/ru/company/jugru/blog/441140/
+    https://www.youtube.com/watch?v=uqG9DiT80UE
 2018
 Haas - WebAssembly Disentangled
     https://www.youtube.com/watch?v=OekKui_QOpU
