@@ -1,3 +1,5 @@
+2019
+https://rushsteve1.us/wp/getting-started-with-rust-ffi/
 2018
 http://dreamingofbits.com/post/future-directions-for-cbindgen-rust-ffi/
 https://travisf.net/capstone-rs-unsafety-adventure

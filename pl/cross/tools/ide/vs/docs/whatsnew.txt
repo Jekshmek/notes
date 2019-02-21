@@ -1,0 +1,2 @@
+2019
+https://devblogs.microsoft.com/cppblog/visual-studio-2019-preview-2-blog-rollup/

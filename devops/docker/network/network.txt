@@ -1,20 +1,3 @@
-Articles:
-https://habrahabr.ru/post/333874/
-https://habrahabr.ru/post/334004/
-
-http://www.ibm.com/developerworks/linux/library/l-docker-network/index.html
-https://www.elastic.co/blog/docker-networking
-https://medium.com/statuscode/debugging-a-docker-heisenbug-in-production-586ccb265f7c
-
-Presentations:
-2017
-Docker Networking Tutorial
-https://www.youtube.com/watch?v=EWG3d3XCBsg
-
-https://www.slideshare.net/MadhuVenugopal2/dcus17-docker-networking-deep-dive
-https://www.slideshare.net/Docker/docker-networking-in-production-at-visa-sasi-kannappan-visa-and-mark-church-docker
-http://www.slideshare.net/BadooDev/docker-networking-63521575
-
 /etc/sysconfig/docker-network
 #DOCKER_NETWORK_OPTIONS=-H fd:// -H tcp://0.0.0.0:2375
 DOCKER_NETWORK_OPTIONS='-H tcp://0.0.0.0:2375 -H unix:///var/run/docker.sock'

@@ -1,3 +1,10 @@
-2019
 http://www.ece.uvic.ca/~frodo/cppbook/
+https://github.com/mdadams/cppbook_companion
+https://github.com/mdadams/sde
+
 http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2019-02-04.pdf
+http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2018-02-15.pdf
+
+https://www.youtube.com/user/iamcanadian1867
+2017
+https://www.youtube.com/playlist?list=PLbHYdvrWBMxY9onUxT2l7-ZyuFEEI8Qpv

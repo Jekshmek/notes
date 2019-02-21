@@ -526,3 +526,20 @@ then
         step)
 is an X.
 
+! The First Commandment of rec-List
+If (rec-List nil
+        base
+        step)
+is an X, then it is the same X as base.
+
+! The Second Commandment of rec-List
+If (rec-List (:: e es)
+        base
+        step)
+is an X, then it is the same X as an
+    (step e es
+        (rec-List es
+            base
+            step)).
+
+

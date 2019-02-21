@@ -19,6 +19,8 @@ https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
 2019
+Academind - ReactJS Hooks Crash Course
+    https://www.youtube.com/watch?v=-MlNBTSg_Ww
 https://blog.usejournal.com/react-hooks-the-rebirth-of-state-management-and-beyond-7d84f6026d87
 https://hashnode.com/post/write-your-first-react-hook-cjrt8lfci00aw18s1z8v9s06n
 https://reactjs.org/blog/2019/02/06/react-v16.8.0.html

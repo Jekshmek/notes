@@ -3,3 +3,9 @@ Raj - Learning Docker
 
 2018
 Bhat - Practical Docker with Python
+
+2016
+Goasguen - Docker Cookbook
+
+2015
+Johnston - Docker in Production

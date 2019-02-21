@@ -3,3 +3,7 @@ https://github.com/odeke-em/drive
 https://github.com/odeke-em/drive/blob/master/platform_packages.md
 AUR - drive
 https://gitlab.com/jean-christophe-manciot/Drive/wikis/Drive-Automation-Scripts:-Startup-Guide-and-Screenshots
+
+2019
+JS Access
+    https://habr.com/ru/post/440844/

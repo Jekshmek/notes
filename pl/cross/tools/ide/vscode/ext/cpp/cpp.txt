@@ -2,27 +2,6 @@ https://code.visualstudio.com/docs/languages/cpp
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 https://marketplace.visualstudio.com/items?itemName=vector-of-bool.cmake-tools
 
-https://blogs.msdn.microsoft.com/vcblog/2018/12/05/visual-studio-code-cpp-extension-october-2018-update-and-a-simplified-insiders-program/
-https://blogs.msdn.microsoft.com/vcblog/2018/08/23/visual-studio-code-c-c-extension-august-2018-update/
-https://blogs.msdn.microsoft.com/vcblog/2018/06/21/visual-studio-code-cc-extension-june-2018-update/
-https://blogs.msdn.microsoft.com/vcblog/2017/04/25/visual-studio-code-cc-extension-april-2017-update/
-https://blogs.msdn.microsoft.com/vcblog/2017/05/19/visual-studio-code-cc-extension-may-2017-update/
-https://blogs.msdn.microsoft.com/vcblog/2018/04/09/intellisense-for-remote-linux-headers/
-
-2019
-https://habr.com/ru/company/aktiv-company/blog/440142/
-https://pspdfkit.com/blog/2019/visual-studio-code-for-cpp/
-
-2018
-Lu - C++ Development with Visual Studio Code (8:00 of)
-    https://www.youtube.com/watch?v=UHS-aenkPPg
-https://habr.com/company/microsoft/blog/333680/
-Bartolesi - Work with C++ on Mac, Linux and Windows with Visual Studio Code
-https://www.youtube.com/watch?v=Kma6g3EsiE4
-https://github.com/italiancpp/itcppcon18/blob/master/Work%20with%20C%2B%2B%20on%20Mac%20Linux%20and%20Windows%20with%20Visual%20Studio%20Code%20-%20Emanuele%20Bartolesi.pdf
-
-
-
 https://aka.ms/vscode-cpptools
 https://github.com/Microsoft/vscode-cpptools
 https://github.com/Microsoft/vscode-cpptools/tree/master/Documentation
@@ -31,14 +10,3 @@ https://github.com/Microsoft/vscode-cpptools/blob/master/Documentation/LanguageS
 https://github.com/Microsoft/vscode-cpptools/blob/master/launch.md
 
 https://caphyon.github.io/clang-power-tools/
-
-keys
-F5  - start debug/continue
-F9  - toggle breakpoint
-F10 - step into
-F11 - step out
-
-issues
-https://github.com/Microsoft/vscode/wiki/Performance-Issues
-https://github.com/Microsoft/vscode-cpptools/issues/363
-https://github.com/Microsoft/vscode-cpptools/issues/1580
