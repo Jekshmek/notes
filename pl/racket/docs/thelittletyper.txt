@@ -542,4 +542,21 @@ is an X, then it is the same X as an
             base
             step)).
 
+(claim length
+    (PI ((E U))
+        (-> (List E)
+            Nat)))
+(claim step-length
+    (PI ((E U))
+        (-> E (List E) Nat
+            Nat)))
 
+(define step-length
+    (\ (E)
+        (\ (e es length_es)
+            (add1 length_es))))
+(define length
+    (\ (E)
+        (\ (es)
+            (rec-List es
+                (step-length E)))))

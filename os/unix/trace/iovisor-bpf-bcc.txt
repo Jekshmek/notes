@@ -20,6 +20,8 @@ https://github.com/cilium/cilium
 https://www.infoq.com/presentations/linux-cilium-ebpf
 
 2019
+https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html
+    https://habr.com/ru/company/itsumma/blog/441258/
 https://habr.com/ru/company/otus/blog/436528/
 http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
     https://habr.com/post/435142/

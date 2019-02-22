@@ -5,6 +5,9 @@ https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA/playlists
 https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/videos
 https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ/videos
 
+2019
+TraversyMedia - Rust Crash Course
+    https://www.youtube.com/watch?v=zF34dRivLOw
 2018
 Aloni - Rust - System Programming Language
     http://blog.aloni.org/rust-featurewise-slides-1/#/front-page

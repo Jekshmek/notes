@@ -1,4 +1,8 @@
 https://dhall-lang.org/
+https://github.com/dhall-lang/dhall-lang
+https://github.com/dhall-lang/dhall-haskell
+https://github.com/dhall-lang/dhall-kubernetes
+https://github.com/dhall-lang/dhall-nethack
 https://github.com/Gabriel439/Haskell-Dhall-Library
 
 presentations
@@ -8,6 +12,7 @@ https://www.youtube.com/watch?v=Ih9Ngu7FlCc
 
 
 2019
+http://www.haskellforall.com/2019/02/dhall-survey-results-2019-2019.html
 http://www.haskellforall.com/2019/01/dhall-year-in-review-2018-2019.html
 
 2018
