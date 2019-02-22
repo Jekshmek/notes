@@ -1,3 +1,6 @@
+2019
+TraversyMedia - Express JS Crash Course
+    https://www.youtube.com/watch?v=L72fhGm1tfE
 2018
 https://developer.okta.com/blog/2018/11/15/node-express-typescript
 https://www.sitepoint.com/how-to-use-typescript-to-build-a-node-api-with-express/
