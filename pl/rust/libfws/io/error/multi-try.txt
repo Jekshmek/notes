@@ -1,0 +1,4 @@
+https://github.com/JoshMcguigan/multi_try
+
+2019
+https://www.joshmcguigan.com/blog/multi-try-improved-validation-logic-rust/

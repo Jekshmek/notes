@@ -1,3 +1,6 @@
+2019
+https://towardsdatascience.com/why-deep-learning-is-not-a-silver-bullet-for-autonomous-vehicles-371c74c1a02b
+
 2018
 https://proglib.io/p/deep-learning-tricks/
 applied deep learning
