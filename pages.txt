@@ -1,13 +1,10 @@
 URLs
 https://ru-bykov.livejournal.com/3761582.html
-    2
+    3
 serie - shkolnye mat kruzhki
     http://www.ashap.info/Knigi/Matkruzhki/
 https://www.ozon.ru/category/40026/?category=40026&page=2&publisher=857185%2C136459980
-SPBSU
-    https://www.ozon.ru/context/detail/id/148190338/
-Kungozhin - aziatsko-tihookean
-    https://www.ozon.ru/context/detail/id/140340891/
+
 http://ashap.info/Knigi/Matkruzhki/03-Arifmetika.pdf
 http://ipk.68edu.ru/images/stories/2017/seminars/5-10-2017/2_pyaterochka.pdf
 http://www.iarex.ru/articles/64396.html
@@ -27,7 +24,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Feb 23
+    Feb 24
 
 track
 scoop extras - a
