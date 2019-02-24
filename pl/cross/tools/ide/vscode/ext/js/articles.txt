@@ -1,4 +1,5 @@
 2019
+http://tilomitra.com/vs-code-settings-and-extensions-for-faster-javascript-development/
 https://habr.com/ru/post/440066/
 2018
 https://blog.bitsrc.io/top-10-vs-code-extensions-for-frontend-developers-in-2018-7992282db2ca
