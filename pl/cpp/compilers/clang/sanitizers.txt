@@ -24,3 +24,7 @@ http://llvm.org/docs/CommandGuide/llvm-symbolizer.html
 
 cmake-integration
 https://genbattle.bitbucket.io/blog/2018/01/05/Dev-Santa-Claus-Part-1/
+
+issues
+https://github.com/google/sanitizers/issues/796
+    so-link problems

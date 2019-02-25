@@ -1,0 +1,2 @@
+2019
+https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2
