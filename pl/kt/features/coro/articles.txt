@@ -1,4 +1,5 @@
 2019
+https://medium.com/@trionkidnapper/launching-a-kotlin-coroutine-for-immediate-execution-on-the-main-thread-8555e701163b
 https://medium.com/@elizarov/deadlocks-in-non-hierarchical-csp-e5910d137cc
 https://medium.com/@desaismital/kotlin-coroutines-chain-of-responsibility-924a1ac95a9d
 https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aae4bfd9991

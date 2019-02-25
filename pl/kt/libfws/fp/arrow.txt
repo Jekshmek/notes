@@ -18,6 +18,7 @@ http://arrow-kt.io/docs/quickstart/projects/
 http://arrow-kt.io/docs/quickstart/blogs/
 
 2019
+https://blog.frankel.ch/imperative-functional-programming/3/
 https://blog.frankel.ch/imperative-functional-programming/2/
 https://blog.frankel.ch/imperative-functional-programming/1/
 https://lordraydenmk.github.io//2018/functional-hangman-in-kotlin-with-arrow-part-2/

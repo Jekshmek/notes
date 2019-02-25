@@ -1,9 +1,9 @@
+2.21
+http://www.opennet.ru/opennews/art.shtml?num=50202
 2.20
 http://www.opennet.ru/opennews/art.shtml?num=49751
-
 2.19
 https://www.infoq.com/news/2018/09/git-2.19-released
-
 2.18
 http://www.opennet.ru/opennews/art.shtml?num=48819
 https://lkml.org/lkml/2018/6/21/594

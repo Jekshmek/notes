@@ -20,6 +20,8 @@ http://www.mmds.org/
 Porcu - Python for Data Mining (too short)
 
 2018
+Albon - Machine Learning with Python Cookbook
+    good, a lot of samples
 Mathematics for ML
     https://mml-book.github.io/
     https://github.com/mml-book/mml-book.github.io
@@ -30,7 +32,7 @@ Kruk - Practical Python AI Projects
 Ayyadevara - Pro Machine Learning Algorithms
 Natingga - Data Science Algorithms in a Week 2nd ed (basic stuff in a shallow way)
 VanderPlas - Python Data Science Handbook ru (!!!)
-https://vk.com/doc44301783_457112102
+    https://vk.com/doc44301783_457112102
 
 2017
 Sugomori - Deep Learning: Practical Neural Networks with Java

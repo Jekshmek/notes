@@ -560,3 +560,19 @@ is an X, then it is the same X as an
         (\ (es)
             (rec-List es
                 (step-length E)))))
+
+Narrowing this down to concrete types (of E) gieves us
+
+(claim length-Atom
+    (-> (List Atom)
+        Nat))
+(define length-Atom
+    (length Atom))
+
+! List Entry Types
+All the entries in a list must have the same type
+
+(claim append
+    (PI ((E U))
+        (-> (List E) (List E)
+            (List E))))
