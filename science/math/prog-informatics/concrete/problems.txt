@@ -3,5 +3,7 @@ http://acm.timus.ru
 https://spoj.com
 https://projecteuler.net
 
+https://informatics.mccme.ru/
+
 2018
 https://habr.com/company/hexlet/blog/434786/
