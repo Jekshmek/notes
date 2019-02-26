@@ -576,3 +576,20 @@ All the entries in a list must have the same type
     (PI ((E U))
         (-> (List E) (List E)
             (List E))))
+
+(claim step-append
+    (PI ((E U))
+        (-> E (List E) (List E)
+            (List E))))
+
+(define step-append
+    (\ (E)
+        (\ (e es append_es)
+            (:: e append_es))))
+
+(define append
+    (\ (E)
+        (\ (start end)
+            (rec-List start
+                end
+                (step-append E)))))

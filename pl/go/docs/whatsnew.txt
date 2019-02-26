@@ -10,6 +10,10 @@ https://go.googlesource.com/proposal/+/master/design/go2draft-generics-overview.
     https://habr.com/post/422049/
 https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
 
+1.12
+https://blog.golang.org/go1.12
+https://golang.org/doc/go1.12
+http://www.opennet.ru/opennews/art.shtml?num=50210
 1.11
 https://tip.golang.org/doc/go1.11
 http://www.opennet.ru/opennews/art.shtml?num=49183

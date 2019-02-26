@@ -1,6 +1,7 @@
 https://en.wikipedia.org/wiki/C%2B%2B20
 
 2019
+https://www.bfilipek.com/2019/02/lambdas-story-part1.html
 https://www.reddit.com/r/cpp/comments/au0c4x/201902_kona_iso_c_committee_trip_report_c20/
 
 2018

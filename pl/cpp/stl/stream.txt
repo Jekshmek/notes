@@ -1,3 +1,8 @@
+endl
+https://accu.org/index.php/journals/2619
+https://www.reddit.com/r/cpp/comments/aupw3q/dont_use_stdendl/
+
+
 It is important to note for streams that are both read and written that it is not possible to switch arbitrarily between
 reading and writing![8] Once you started to read or to write a file you have to perform a seek operation, potentially
 to the current position, to switch from reading to writing or vice versa. The only exception to this rule is if you

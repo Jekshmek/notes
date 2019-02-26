@@ -1,13 +1,11 @@
 URLs
-https://ru-bykov.livejournal.com/3761582.html
-    4
-http://ashap.info/Knigi/Matkruzhki/03-Arifmetika.pdf
-
-http://www.iarex.ru/articles/64396.html
+http://www.iarex.ru/articles/64705.html
+http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
+http://www.iarex.ru/articles/64768.html
 https://blog.predanie.ru/article/andrej-platonov-velichajshij-pisatel-revolyutsii-kak-bogoslov/
-    beskonechny vostorg
+    religy and science
 https://blog.predanie.ru/article/vysotskij-smert-v-dva-akta/
 https://blog.predanie.ru/article/vysotskij-pomozhet-okean-vzvaliv-na-plechi/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
@@ -20,7 +18,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Feb 24
+    Feb 26
 
 track
 scoop extras - a
@@ -39,6 +37,8 @@ Seminar
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
 Kurginyan - 2018
     https://www.youtube.com/watch?v=PKFPjLJ-Fic
+Guschin                                             -   00:00 (of   42:34)
+    https://www.youtube.com/watch?v=J3F0DhMZOqg
 https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
 Raygorodsky - 1                                     -   53:00 (of 1:17:24)
 Ivanov - EGE                                        -   16:00 (of 1:11:29)
@@ -106,11 +106,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 257.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 847.0 (of 1388)
-Shalyto - motivation                                - 139   (of  873)
+Zhitinsky                                           - 280.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 856.0 (of 1388)
+Shalyto - motivation                                - 141   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 136..140 (of  418)
+The Little Typer - 3                                - 138..140 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
