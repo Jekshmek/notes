@@ -1,4 +1,3 @@
-http://codeforces.com
 http://acm.timus.ru
 https://spoj.com
 https://projecteuler.net

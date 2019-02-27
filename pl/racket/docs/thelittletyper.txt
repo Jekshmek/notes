@@ -576,7 +576,6 @@ All the entries in a list must have the same type
     (PI ((E U))
         (-> (List E) (List E)
             (List E))))
-
 (claim step-append
     (PI ((E U))
         (-> E (List E) (List E)
@@ -586,10 +585,45 @@ All the entries in a list must have the same type
     (\ (E)
         (\ (e es append_es)
             (:: e append_es))))
-
 (define append
     (\ (E)
         (\ (start end)
             (rec-List start
                 end
                 (step-append E)))))
+
+(claim snoc
+    (PI ((E U))
+        (-> (List E) E
+            (List E))))
+(define snoc
+    (\ (E)
+        (\ (start e)
+            (rec-List start
+                (:: e nil)
+                (step-append E)))))
+
+(claim concat
+    (PI ((E U))
+        (-> (List E) (List E)
+            (List E))))
+(claim step-concat
+    (PI ((E U))
+        (-> E (List E) (List E)
+            (List E))))
+
+(define step-concat
+    (\ (E)
+        (\ (e es concat_es)
+            (snoc E concat_es e))))
+(define concat
+    (\ (E)
+        (\ (start end)
+            (rec-List end
+                start
+                (step-concat E)))))
+
+(claim reverse
+    (PI ((E U))
+        (-> (List E)
+            (List E))))

@@ -5,6 +5,8 @@ https://github.com/rollup
 https://github.com/rollup/rollup
 
 articles
+2019
+https://habr.com/ru/post/440946/
 2017
 https://habrahabr.ru/post/331412/
 https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c

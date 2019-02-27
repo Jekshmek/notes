@@ -11,8 +11,11 @@ Horton - Beginning Cpp17 5th ed
 Gregorie - Professional Cpp 4th ed
 Nesteruk - Design Patterns in Cpp
 Olsson - Cpp17 Quick Syntax Reference 3rd ed
+Spraul - Think Like a Programmer ru
+    intro for children
 2016
 Meyers - Effective Modern Cpp ru
+McGrath - C Programming Easy Steps 4th ed ru
 
 Children
 2018
