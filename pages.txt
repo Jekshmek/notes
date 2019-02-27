@@ -1,11 +1,12 @@
 URLs
-http://www.iarex.ru/articles/64705.html
+https://ru-bykov.livejournal.com/3767120.html
+    2
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
 http://www.iarex.ru/articles/64768.html
 https://blog.predanie.ru/article/andrej-platonov-velichajshij-pisatel-revolyutsii-kak-bogoslov/
-    religy and science
+    Hristos
 https://blog.predanie.ru/article/vysotskij-smert-v-dva-akta/
 https://blog.predanie.ru/article/vysotskij-pomozhet-okean-vzvaliv-na-plechi/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb

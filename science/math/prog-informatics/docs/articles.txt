@@ -1,0 +1,3 @@
+2018
+https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe
+    https://proglib.io/p/dp-vs-dc/

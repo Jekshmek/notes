@@ -1,2 +1,5 @@
-articles:
+articles
+2019
+https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity
+2017
 https://deque.blog/2017/02/06/code-your-own-quickcheck-hof/
