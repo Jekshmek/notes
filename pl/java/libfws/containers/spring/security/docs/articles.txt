@@ -1,5 +1,7 @@
 2018
 http://www.baeldung.com/security-spring
+https://octoperf.com/blog/2018/03/08/securing-rest-api-spring-security/
+    !!!
 https://habrahabr.ru/post/346628/
 https://habrahabr.ru/post/346296/
 
@@ -19,7 +21,8 @@ http://www.devglan.com/spring-security/spring-boot-security-rest-basic-authentic
 https://stormpath.com/blog/service-to-service
 
 2014
-https://habrahabr.ru/post/226791/
+https://habr.com/ru/post/245415/
+https://habr.com/ru/post/226791/
 
 2013
-https://habrahabr.ru/post/203318/
+https://habr.com/ru/post/203318/

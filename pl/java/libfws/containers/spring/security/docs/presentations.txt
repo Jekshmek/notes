@@ -8,7 +8,6 @@ Securing OAuth 2.0 Resources in Spring Security 5.0
     https://www.youtube.com/watch?v=1N-xwmoN83w
 2017
 Gasimov - Secured REST Microservices with Spring Cloud
-https://www.youtube.com/watch?v=dq4RzFdm1Y0
-
+    https://www.youtube.com/watch?v=dq4RzFdm1Y0
 2014
 http://presos.dsyer.com/decks/microservice-security.html

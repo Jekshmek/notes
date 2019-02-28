@@ -19,6 +19,8 @@ https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
 2019
+https://tech.okcupid.com/getting-hooked-on-react-hooks/
+https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/
 https://habr.com/ru/post/441722/
     https://github.com/coderaiser/putout/tree/master/packages/plugin-react-hooks
 Academind - ReactJS Hooks Crash Course

@@ -115,15 +115,8 @@ clear at D:/Temp
     jna*.dll
     snappy*
 
-
 Kudryavtsev - 2017 - Teoriya Avtomatov
 Marchenkov - 2016 - Konechnye Avtomaty
-Stenli - Perechislitelnaya Kombinatorika
 Raizer - 1966 - Combinatory Math
 Riordan - Intro to Combinatory Analysis
-Holl - 1970 - Combinatorics
-Hopkroft - Intro to the Automaton theory and computations
 Anderson - Discrete Math and Combinatorics
-Shults - 1999 - Combinatorics. Uchebnoe posobie
-Reingold - 1980 - Combinatorial Algorithms Theory and Practice
-Kovalyov M Ja - Teoriya Algoritmov - Priblizhennye Algoritmy
