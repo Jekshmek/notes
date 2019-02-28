@@ -627,3 +627,14 @@ All the entries in a list must have the same type
     (PI ((E U))
         (-> (List E)
             (List E))))
+(define reverse
+    (\ (E)
+        (\ (es)
+            (rec-List es
+                nil
+                (step-reverse E)))))
+
+
+### 6. Precisely How Many?
+
+! The Law of Vec

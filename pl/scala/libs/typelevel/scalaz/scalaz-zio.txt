@@ -1,0 +1,5 @@
+https://scalaz.github.io/scalaz-zio/
+https://github.com/scalaz/scalaz-zio
+
+2019
+http://degoes.net/articles/zio-environment
