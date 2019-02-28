@@ -1,0 +1,6 @@
+import com.clarabridge.common.security.annotation.AnySecureParameters;
+import com.clarabridge.common.security.annotation.SecureParameter;
+
+    @AnySecurityParameters(parameters = {  
+        @SecureParameter(ym = write_char(c, buffer, &n);
+

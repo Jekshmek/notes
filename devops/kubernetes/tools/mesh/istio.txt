@@ -39,6 +39,7 @@ https://istio.io/talks/istio_talk_gluecon_2017.pdf
 
 articles
 2019
+https://hackernoon.com/zero-downtime-releases-using-kubernetes-and-istio-ce56f1cf84dc
 https://dzone.com/articles/istio-service-mesh-the-step-by-step-guide-part-2-t
 https://dzone.com/articles/metadata-management-in-big-data-systems-a-complete-1
 2018

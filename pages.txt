@@ -32,8 +32,8 @@ Dud - Tabakov                                       -   12:00 (of 1:19:58)
     https://www.youtube.com/watch?v=7Kxy0i7h17o
 Dud - Mihalkov
     https://www.youtube.com/watch?v=6cjcgu865ok
-Guschin                                             -   15:00 (of   42:34)
-    https://www.youtube.com/watch?v=J3F0DhMZOqg
+Sgibnev                                             -   07:00 (of   41:07)
+    https://www.youtube.com/watch?v=hRcED4U0kqg
 Seminar
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH_k7PORKXnsISmLTPMQwn
 Kurginyan - 2018
@@ -48,15 +48,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 
 Lit
-Bykov - Single                                      -   34:00 (of 2:48:05)
-    https://cdn.echo.msk.ru/snd/2019-02-15-odin-0005.mp3
-    https://cdn.echo.msk.ru/snd/2019-02-08-odin-0005.mp3
-    https://cdn.echo.msk.ru/snd/2019-02-01-odin-0005.mp3
-    https://cdn.echo.msk.ru/snd/2019-01-24-odin-2305.mp3
-    https://cdn.echo.msk.ru/snd/2019-01-17-odin-2305.mp3
-    https://cdn.echo.msk.ru/snd/2019-01-10-odin-2305.mp3
-    https://cdn.echo.msk.ru/snd/2019-01-03-odin-2305.mp3
-    https://cdn.echo.msk.ru/snd/2018-12-31-odin-2305.mp3
+Bykov - Single                                      - 1:30:00 (of 2:48:05)
     https://cdn.echo.msk.ru/snd/2018-12-30-parents-1310.mp3
 Bykov - Agora                                       -   23:00 (of   59:55)
     https://www.youtube.com/watch?v=7RYt_Ckuw8c
@@ -76,13 +68,13 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - B 108                                     -   00:00 (of)
+Sorokin - B 109                                     -   19:00 (of)
     http://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-bytiya/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 33 of 34                                 - 1:08:00 (of 1:57:49)
+Chernyak - 33 of 34                                 - 1:43:00 (of 1:57:49)
     https://www.youtube.com/watch?v=T8Rj_9hxCSo
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
@@ -122,3 +114,16 @@ https://drive.google.com/open?id=0B9dLexguZDURdDFSeURTVjEtZTA
 clear at D:/Temp
     jna*.dll
     snappy*
+
+
+Kudryavtsev - 2017 - Teoriya Avtomatov
+Marchenkov - 2016 - Konechnye Avtomaty
+Stenli - Perechislitelnaya Kombinatorika
+Raizer - 1966 - Combinatory Math
+Riordan - Intro to Combinatory Analysis
+Holl - 1970 - Combinatorics
+Hopkroft - Intro to the Automaton theory and computations
+Anderson - Discrete Math and Combinatorics
+Shults - 1999 - Combinatorics. Uchebnoe posobie
+Reingold - 1980 - Combinatorial Algorithms Theory and Practice
+Kovalyov M Ja - Teoriya Algoritmov - Priblizhennye Algoritmy

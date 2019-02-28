@@ -3,3 +3,5 @@ John - Hands-On Spring Security 5 for Reactive Applications
     https://github.com/lynx-r/Hands-On-Spring-Security-5-for-Reactive-Applications
 2017
 Knutson - Spring Security 3rd ed
+2016
+Nachimuthu - 2016 - Spring Security Essentials
