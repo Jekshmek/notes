@@ -1,4 +1,5 @@
 https://blog.rust-lang.org/2019/02/28/Rust-1.33.0.html
+    https://habr.com/ru/post/442244/
 
 https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html
     https://www.reddit.com/r/rust/comments/ah1mzu/announcing_rust_1320/
