@@ -8,6 +8,9 @@ articles
 https://proandroiddev.com/data-driven-testing-with-kotlintest-a07ac60e70fc
 https://medium.com/@sam_57450/kotlintest-pro-tips-54ce19c32c68
 
+whatsnew
+https://proandroiddev.com/whats-new-in-kotlintest-3-2-and-3-3-affbc1b25e1d
+
 
 { ... }.config(invocations = 20, threads = 4, tags = setOf(ElasticSearch, Windows))
 
