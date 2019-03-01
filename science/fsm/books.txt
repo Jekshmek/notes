@@ -1,10 +1,14 @@
 2013
 Gale - Machines and Their Languages (short and good)
     https://www.dcs.warwick.ac.uk/michael_gale/publications/2013-01-14-machines-and-their-languages.html
-
+Ozhiganov - Automata Theory ru
 2008
+Korotkova - Mathematical Theory of Automatas ru
 Levelt - An Introduction to the Theory of Formal Languages and Automata
-    150p
-2006
+Gorbatov - Automaton Theory ru
+2007
 Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd ed
-    70p
+2003
+Karpov - Automata Theory ru
+2000
+Lupal - Automata Theory ru

@@ -1,4 +1,6 @@
 2019
+CodingTech - Vue & Vuex: Structure Your App With Centralized State Management
+    https://www.youtube.com/watch?v=vu9C3YpN5OI
 TraversyMedia - VueJS crash course
     https://www.youtube.com/watch?v=Wy9q22isx3U
 2018

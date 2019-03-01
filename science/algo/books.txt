@@ -2,6 +2,8 @@ http://goalkicker.com/AlgorithmsBook/
 
 2017
 Shen - Programmings - Theorems and Problems 6th ed ru
+2016
+Igoshin - Algorithms Theory ru
 2015
 Bhasin - Algorithms - Design and Analysis
 2014

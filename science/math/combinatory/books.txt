@@ -7,3 +7,19 @@ Peregozhin - Discrete Math 2nd ed ru
 
 2016
 Costyukova - Combinatory Algorithms 2nd ed ru
+
+2009
+Stanley - Enumerative Combinatorics vol2 ru
+
+2004
+Hu - Combinatorial Algorithms ru
+Sachkov - Discrete Math Combinatorial Methods Introduction ru
+
+2000
+Hohlov - Data Structures and Combinatorial Algorithms ru
+
+1990
+Stanley - Enumerative Combinatorics vol1 ru
+
+1977
+Reingold - Combinatorial Algorithms ru

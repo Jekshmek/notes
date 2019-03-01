@@ -1,11 +1,11 @@
 2018
 Omelchenko - Graph Theory ru
 
-2007
-Melnikov - Neznayka in the Graph Land 3rd ed ru
-
 2003
 Harary - Graph Tehory ru
 
 2000
 Ore - Graphs and Their Uses ru
+
+1990
+Emelichev - Graph Theory Lections ru

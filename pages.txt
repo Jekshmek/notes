@@ -1,4 +1,5 @@
 URLs
+https://www.youtube.com/watch?v=arMH5GjBwUQ
 https://ru-bykov.livejournal.com/3767120.html
     3
 http://www.iarex.ru/articles/64719.html
@@ -97,11 +98,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 306.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 883.0 (of 1388)
-Shalyto - motivation                                - 145   (of  873)
+Zhitinsky                                           - 315.4 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 892.0 (of 1388)
+Shalyto - motivation                                - 147   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 146..156 (of  418)
+The Little Typer - 3                                - 148..156 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

@@ -638,3 +638,15 @@ All the entries in a list must have the same type
 ### 6. Precisely How Many?
 
 ! The Law of Vec
+If E is a type and k is a Nat,
+then (Vec E k) is a type
+
+! The Law of vecnil
+vecnil is a (Vec E zero).
+
+! The Law of vec::
+If e is an E and es is a (Vec E, k),
+then (vec:: e es) is a (Vec E (add1 k)).
+
+
+
