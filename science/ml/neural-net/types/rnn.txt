@@ -7,6 +7,8 @@ understanding hidden memories of RNNs
 https://arxiv.org/pdf/1710.10777.pdf
 
 articles
+2019
+https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce
 2018
 https://habr.com/post/417311/
 https://habr.com/post/417657/

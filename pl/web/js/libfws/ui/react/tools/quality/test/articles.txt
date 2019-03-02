@@ -1,3 +1,5 @@
+2019
+https://css-tricks.com/writing-tests-for-react-applications-using-jest-and-enzyme/
 2018
 https://www.robinwieruch.de/react-testing-tutorial/
 https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875

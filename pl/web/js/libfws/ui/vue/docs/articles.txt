@@ -1,6 +1,7 @@
 2019
 https://habr.com/ru/company/constanta/blog/435700/
 https://medium.com/vuetify/productivity-in-vue-part-2-1dc209062cae
+    https://habr.com/ru/post/442344/
 2018
 https://medium.com/vuetify/productivity-in-vue-part-1-de56e9c1d97d
     https://habr.com/post/433864/

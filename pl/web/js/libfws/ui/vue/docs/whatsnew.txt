@@ -1,4 +1,6 @@
 3.x
+https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138
+    https://nuancesprog.ru/p/3199
 https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547
 https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf
     https://habr.com/post/425213/

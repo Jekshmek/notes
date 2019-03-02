@@ -2,3 +2,9 @@ https://en.wikipedia.org/wiki/Stochastic_matrix
 https://www.youtube.com/watch?v=Flj52QaHYVU
 
 https://stats.stackexchange.com/questions/81626/random-walk-kings-on-a-chessboard
+
+2019
+https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab
+2018
+https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d
+    https://proglib.io/p/markov-chain/

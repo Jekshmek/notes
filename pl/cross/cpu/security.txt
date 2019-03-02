@@ -1,5 +1,6 @@
 meltdown
 2019
+https://habr.com/ru/company/1cloud/blog/442140/
 https://www.infoq.com/news/2019/02/spectre-will-haunt-us-for-years
 https://habr.com/ru/post/441378/
 ????
