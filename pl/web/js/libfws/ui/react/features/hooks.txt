@@ -19,6 +19,8 @@ https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
 2019
+https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
+    https://nuancesprog.ru/p/3205
 https://tech.okcupid.com/getting-hooked-on-react-hooks/
 https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/
 https://habr.com/ru/post/441722/

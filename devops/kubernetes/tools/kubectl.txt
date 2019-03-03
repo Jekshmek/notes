@@ -58,6 +58,8 @@ kubectl
 
     diff
         https://github.com/kubernetes/enhancements/issues/491
+    uncordon
+        ???
 
 
 plugins

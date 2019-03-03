@@ -21,6 +21,8 @@ https://github.com/gradle/kotlin-dsl/tree/master/doc/getting-started
 https://gradle.github.io/gradle-script-kotlin-docs/userguide/userguide.html
 
 articles
+2019
+https://sniphub.net/2019/03/02/Scripting-with-Kotlin-and-Gradle.html
 2018
 https://blog.kotlin-academy.com/gradle-kotlin-the-missing-piece-of-the-puzzle-7528a85f0d2c
     https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/

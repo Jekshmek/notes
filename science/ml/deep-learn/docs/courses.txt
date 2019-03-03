@@ -29,11 +29,15 @@ CMU 11-785
 http://deeplearning.cs.cmu.edu/
     http://deeplearning.cs.cmu.edu/slides/
 VSHE - Deep Learning
-https://www.hse.ru/ba/ami/courses/205504078.html
-https://github.com/aosokin/DL_CSHSE_spring2018
-https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld
-Deep Learning School
-https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos
+    https://www.hse.ru/ba/ami/courses/205504078.html
+    https://github.com/aosokin/DL_CSHSE_spring2018
+    https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld
+MFTI - Deep Learning School
+    https://www.dlschool.org/
+    https://vk.com/dlschlmipt
+    https://github.com/DLSchool/dlschool
+    https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos
+    https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A/playlists
 MFTI - Deep Learning School
 https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S
 https://selfdrivingcars.mit.edu/

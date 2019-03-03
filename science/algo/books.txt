@@ -2,8 +2,10 @@ http://goalkicker.com/AlgorithmsBook/
 
 2017
 Shen - Programmings - Theorems and Problems 6th ed ru
+Heineman - Cpp Algorithms in a Nutshell 2nd ed ru
 2016
 Igoshin - Algorithms Theory ru
+Lobarev - Algorithms Theory ru
 2015
 Bhasin - Algorithms - Design and Analysis
 2014
@@ -12,6 +14,8 @@ Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
 https://logic.pdmi.ras.ru/~kulikov/sites/default/files/algorithms_href.pdf
 2013
 Stephens - Essential Algorithms ru
+2012
+Polyakov - Algorithm Theory Fundamentals ru
 2008
 Kao - Encyclopedia of Algorithms
 2006
