@@ -56,6 +56,7 @@ Chung - Elementary Probability Theory 4th ed ru !!!
 2013
 Semenov - Probability Theory and Math Statistics ru !
 Hastie - The Elements of Statistical Learning 2nd ed
+Gorlach - Probability Theory and Math Statistics ru !
 
 2012
 Turchin - Probability Theory and Math Statistics ru

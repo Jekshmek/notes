@@ -648,5 +648,22 @@ vecnil is a (Vec E zero).
 If e is an E and es is a (Vec E, k),
 then (vec:: e es) is a (Vec E (add1 k)).
 
+eliminators - head and tail
 
+(claim first-of-one
+    (PI ((E U))
+        (-> (Vec E 1)
+            E)))
+(define first-of-one
+    (\ (E)
+        (\ (es)
+            (head es))))
 
+(claim first-of-two
+    (PI ((E U))
+        (-> (Vec E 2)
+            E)))
+(define first-of-one
+    (\ (E)
+        (\ (es)
+            (head es))))

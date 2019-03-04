@@ -1,6 +1,6 @@
 URLs
 https://ru-bykov.livejournal.com/3767527.html
-    1
+    3
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
@@ -103,9 +103,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 315.4 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 892.0 (of 1388)
-Shalyto - motivation                                - 147   (of  873)
+Shalyto - motivation                                - 149   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 148..156 (of  418)
+The Little Typer - 3                                - 150..156 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

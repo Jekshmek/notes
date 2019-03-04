@@ -8,4 +8,9 @@ https://vk.com/doc177425717_449768285
 Mauerer - Professional Linux Kernel Architecture
 
 whatsnew
-http://www.opennet.ru/opennews/art.shtml?num=48712
+5.x
+https://lkml.org/lkml/2019/3/3/236
+    http://www.opennet.ru/opennews/art.shtml?num=50201
+4.x
+https://lkml.org/lkml/2018/6/3/142
+    http://www.opennet.ru/opennews/art.shtml?num=48712

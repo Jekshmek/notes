@@ -4,6 +4,8 @@ https://postnauka.ru/video/81696
 https://postnauka.ru/video/82060
 https://postnauka.ru/faq/35960
 
+2019
+https://towardsdatascience.com/fundamentals-of-machine-learning-part-3-b305933f00cd
 2018
 https://towardsdatascience.com/so-is-your-algorithm-not-working-aa8e4ebd2066
 2017
