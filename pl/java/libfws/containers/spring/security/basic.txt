@@ -1,0 +1,42 @@
+2018
+https://www.baeldung.com/spring-security-basic-authentication
+    https://github.com/eugenp/tutorials/tree/master/spring-security-rest-basic-auth
+https://dzone.com/articles/how-does-http-basic-authentication-work-in-spring
+https://insource.io/blog/articles/stateless-api-security-with-spring-boot-part-2.html
+https://insource.io/blog/articles/custom-authentication-with-spring-boot.html
+2017
+http://websystique.com/spring-security/secure-spring-rest-api-using-basic-authentication/
+https://www.oodlestechnologies.com/blogs/Spring-Security-with-Token-Based-Authentication
+2015
+https://shout.setfive.com/2015/11/02/spring-boot-authentication-with-custom-http-header/
+2014
+https://habr.com/ru/post/245415/
+
+api
+https://docs.spring.io/spring-security/site/docs/4.2.11.RELEASE/apidocs/org/springframework/security/config/annotation/web/configurers/HttpBasicConfigurer.html
+    returned by httpBasic()
+
+sample
+@EnableWebSecurity
+public class MySecurityConfig extends WebSecurityConfigurerAdapter {
+
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http
+            .authorizeRequests()
+                //.antMatchers("/v1/**").permitAll()
+                // .anyRequest().hasRole("USER")
+                .anyRequest().authenticated()
+                .and()
+            .httpBasic()
+            //.formLogin().loginPage("/login").failureUrl("/login-error")
+        ;
+    }
+
+    @Autowired
+    public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
+        auth
+            .inMemoryAuthentication()
+                .withUser("user").password("password").roles("USER");
+    }
+}
