@@ -1,6 +1,8 @@
 URLs
+https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-1-po-bukve-slova-pisaniya-inogda-ne-soobrazny-s-istinoj-dazhe-bessmyslenny-i-nevozmozhny/
+    2
 https://ru-bykov.livejournal.com/3767527.html
-    3
+    4
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
@@ -101,11 +103,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 315.4 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 892.0 (of 1388)
-Shalyto - motivation                                - 149   (of  873)
+Zhitinsky                                           - 332.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 904.0 (of 1388)
+Shalyto - motivation                                - 151   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 150..156 (of  418)
+The Little Typer - 3                                - 152..156 (of  418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

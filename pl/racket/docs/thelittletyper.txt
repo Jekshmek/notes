@@ -667,3 +667,18 @@ eliminators - head and tail
     (\ (E)
         (\ (es)
             (head es))))
+
+! probably the first sample of real dependent type is !
+(claim first
+    (PI ((E U)
+         (l Nat))
+        (-> (Vec E (add1 l))
+            E)))
+
+! The Law of PI !
+The expression
+    (PI ((y Y))
+        X)
+is a type when Y is a type, and X is a type if y is a Y.
+
+

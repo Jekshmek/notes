@@ -2,8 +2,8 @@
 http://www.baeldung.com/security-spring
 https://octoperf.com/blog/2018/03/08/securing-rest-api-spring-security/
     !!!
-https://habrahabr.ru/post/346628/
-https://habrahabr.ru/post/346296/
+https://habr.com/ru/post/346628/
+https://habr.com/ru/post/346296/
 
 2017
 !!!

@@ -12,6 +12,9 @@ https://shout.setfive.com/2015/11/02/spring-boot-authentication-with-custom-http
 2014
 https://habr.com/ru/post/245415/
 
+BasicAuthenticationFilter extending
+https://stackoverflow.com/questions/23314902/spring-security-commence-method-in-class-extending-basicauthenticationentrypoin
+
 api
 https://docs.spring.io/spring-security/site/docs/4.2.11.RELEASE/apidocs/org/springframework/security/config/annotation/web/configurers/HttpBasicConfigurer.html
     returned by httpBasic()
