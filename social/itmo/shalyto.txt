@@ -1,4 +1,9 @@
 http://is.ifmo.ru/
+http://is.ifmo.ru/books/
+http://is.ifmo.ru/works/_avl.pdf
+http://is.ifmo.ru/works/turing
+    http://is.ifmo.ru/download/turing.pdf
+_
 
 motivation - 873p, 7635 notes
 http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
@@ -27,7 +32,7 @@ kadry
 http://is.ifmo.ru/belletristic/2011/Shalyto-IT-kadry.pdf
 
 2008
-automat programming
+Polikarpova - Automat Programming
 http://is.ifmo.ru/books/_book.pdf
 Automat programming vodka and letter-yo
 http://is.ifmo.ru/download/2008-03-17_automata.pdf
