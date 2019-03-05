@@ -74,8 +74,11 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
         protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain) throws IOException, ServletException {
             logger.info("!!! myFilter enter !!!");
 
-            final Authentication authResult = new MyAuthenticationToken();
-            SecurityContextHolder.getContext().setAuthentication(authResult);
+            final String myHeaderVal = request.getHeader("myheader");
+            if ("12345".equals(myHeaderVal)) {
+                final Authentication authResult = new MyAuthenticationToken();
+                SecurityContextHolder.getContext().setAuthentication(authResult);
+            }
             
             chain.doFilter(request, response);
         }
