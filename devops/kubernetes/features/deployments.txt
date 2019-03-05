@@ -1,1 +1,6 @@
 Declarative opertations description agaist a group of pods
+
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+
+2019
+https://www.exoscale.com/syslog/kubernetes-zero-downtime-deployment/
