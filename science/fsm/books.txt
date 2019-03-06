@@ -1,14 +1,31 @@
+http://is.ifmo.ru/works/
+
 2013
 Gale - Machines and Their Languages (short and good)
     https://www.dcs.warwick.ac.uk/michael_gale/publications/2013-01-14-machines-and-their-languages.html
 Ozhiganov - Automata Theory ru
+2011
+PolikarpovaShalyto - Automata Programming 2nd ed ru
+Shalyto - Automata Programs Verification ru
 2008
 Korotkova - Mathematical Theory of Automatas ru
 Levelt - An Introduction to the Theory of Formal Languages and Automata
 Gorbatov - Automaton Theory ru
 2007
 Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd ed
+2004
+Adamczyk - A Pattern Language for Implementing Finite State Machines 
+    https://hillside.net/plop/2004/papers/padamczyk0/PLoP2004_padamczyk0_0.pdf
 2003
 Karpov - Automata Theory ru
+2002
+Shalyto - Algorithms Hardware and Software Implementation Methods ru
+Shalyto - Recursive Algorithms Implementation using Automata Approach
+    http://www.ict.edu.ru/ft/003758/recurse.pdf
 2000
 Lupal - Automata Theory ru
+1998
+Shalyto - SWITCH Technology ru
+????
+Adamczyk - INTRODUCTION Selected Patterns for Implementing Finite State Machines
+    http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.94.2987

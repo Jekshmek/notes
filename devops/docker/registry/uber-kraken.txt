@@ -1,0 +1,5 @@
+https://github.com/uber/kraken
+https://github.com/uber/kraken/tree/master/docs
+
+2019
+https://eng.uber.com/introducing-kraken/

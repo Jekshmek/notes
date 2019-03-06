@@ -681,4 +681,21 @@ The expression
         X)
 is a type when Y is a type, and X is a type if y is a Y.
 
+! The -> and PI
+The type
+    (-> Y
+        X)
+is a shorter way of writing
+    (PI ((y Y))
+        X)
+when y is not used in X.
+
+! The Final Law of \
+If x is xn X when y is an Y, then
+    (\ (y)
+        x)
+is a
+    (PI ((y Y))
+        X)
+
 

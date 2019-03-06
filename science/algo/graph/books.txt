@@ -3,6 +3,7 @@ Omelchenko - Graph Theory ru
 
 2003
 Harary - Graph Tehory ru
+Kasyanov - Graphs in Programming ru
 
 2000
 Ore - Graphs and Their Uses ru
