@@ -1,11 +1,10 @@
 URLs
-https://blog.predanie.ru/article/popytka-ponyat-cheloveka/
+http://is.ifmo.ru/works/Orshanskiy.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
 http://www.iarex.ru/articles/64768.html
 http://www.iarex.ru/articles/57576.html
-http://www.iarex.ru/articles/60791.html
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/

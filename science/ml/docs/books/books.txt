@@ -47,9 +47,13 @@ Joshi - Artificial Intelligence with Python
     https://vk.com/doc182314867_467597874
 Grus - Data Science from Scratch ru
 
-2014:
+2014
 Sutton - Reinforcement Learning
 https://vk.com/doc44301783_454908883
+
+2012
+Murphy - Machine Learning - A Probabilistic Perspective
+    https://vk.com/doc182314867_482945784?hash=5efafc1730fe09e4c3
 
 Statistics:
 Unpingco - Python for Probability, Statistics and Machine Learning
