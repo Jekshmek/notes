@@ -1,0 +1,7 @@
+https://kind.sigs.k8s.io/
+https://github.com/kubernetes-sigs/kind
+
+https://kind.sigs.k8s.io/docs/user/quick-start
+
+2019
+https://www.tweag.io/posts/2019-03-07-configuring-and-testing-kubernetes-clusters.html
