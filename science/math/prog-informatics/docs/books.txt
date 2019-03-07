@@ -20,11 +20,60 @@ http://elib.bsu.by/bitstream/123456789/181529/1/Kotov.pdf
 
 2010
 KotovVolkovLapo - Advanced Informatics - Algorithmization ru
+    https://www.studmed.ru/kotov-vm-volkov-ia-lapo-ai-informatika-metody-algoritmizacii_0a3f151d02b.html
     !!!
+Zlatopolsky
+    https://www.studmed.ru/zlatopolskiy-dm-didakticheskie-materialy-po-programmirovaniyucelochislennaya-arifmetika-logicheskie-velichiny-usloviya_1929c3d2585.html
+
+2009
+Menshikov
+    https://www.studmed.ru/menshikov-fv-olimpiadnye-zadachi-po-programmirovaniyu_f4c73bb8185.html
+Haliulin - Informatics Olimpiads ru
+    https://www.studmed.ru/haliullin-rn-sopuev-a-olimpiady-po-informatike_1f1adeb0eaf.html
+
+2008
+Regeda - Algorithmization and Programming Fundamentals ru
+    https://www.studmed.ru/regeda-vv-regeda-on-osnovy-algoritmizacii_6865a37aaa4.html
+
+2007
+Krasikov - Algorithms Simple as 2x2 ru
+    misc - cpp
+    https://www.studmed.ru/krasikov-iv-krasikova-ie-algoritmy-kak-22_1c4139d7d67.html
 
 2006
 Zlatopolsky - Recurrence Relations
 D032EAD3F8B8BB93C3A21F2A617411CF
+Melnikov - Olimpiad Programming Problems ru
+Andreeva - Moscow Informatics Olimpiads ru
+    https://www.olympiads.ru/books/mskolymp/mosinformatolymp.pdf
+    https://www.studmed.ru/andreeva-ev-antonov-vyu-i-dr-moskovskie-olimpiady-po-informatike_0b4575a4ffa.html
+Dolinskiy
+    https://www.studmed.ru/dolinskiy-ms-reshenie-slozhnyh-i-olimpiadnyh-zadach-po-programmirovaniyu_5e14b44a50d.html
+
+2005
+AlexeevTalanov - Graphs Computational Models Data Structures ru
+    https://www.studmed.ru/download/alekseev-ve-talanov-va-grafy-modeli-vychisleniy-struktury-dannyh_ec35a0a1e7c.html
+Skiena
+    https://www.studmed.ru/skiena-ss-revilla-ma-olimpiadnye-zadachi-po-programmirovaniyu-rukovodstvo-po-podgotovke-k-sorevnovaniyam_0efc9d0c206.html
+
+2004
+Shen - Programming Theorems and Problems ru
+    https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_f72ababc4b1.html
+    https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_9d8f453b892.html
+Hicenko - 2004 - Practicum EVM Algorithms ru
+    !!!
+    https://www.studmed.ru/hicenko-vp-shaposhnikova-ta-praktikum-na-evm-algoritmy_1f97a374307.html
+Dauletkulov - Informatics Olimpiads ru
+    https://www.studmed.ru/dauletkulov-ab-olimpiady-po-informatike-uchebno-metodicheskoe-posobie_3a4722333b9.html
+
+2003
+Belov - Algorithmization and Programming Fundamentals ru
+    https://www.studmed.ru/belov-mp-osnovy-algoritmizacii-i-programmirovaniya_f70fe838165.html
+
+2000
+Berov - National Informatics Olimpiad Problems Specifics ru
+    !!!
 
 1990
 BrudnoCaplan - Moscow Programming Olimpiads ru
+    https://www.studmed.ru/brudno-al-kaplan-li-moskovskie-olimpiady-po-programmirovaniyu_a12d321d9a4.html

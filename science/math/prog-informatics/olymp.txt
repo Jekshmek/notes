@@ -1,6 +1,7 @@
 http://acmp.ru/
 
-itmo
+
+IFMO
 http://neerc.ifmo.ru/information/index.html
 http://neerc.ifmo.ru/archive/
 http://neerc.ifmo.ru/archive/2018.html
@@ -13,6 +14,12 @@ http://neerc.ifmo.ru/archive/2018/neerc-2018-analysis.pdf
     https://olymp.innopolis.ru/ooui/informatics/archive/
     https://vk.com/olymp.innopolis
     https://vk.com/oisch
+
+NSU
+http://anngeorg.ru/olimp/materials
+
+studmed
+https://www.studmed.ru/andreeva-ev-antonov-vyu-i-dr-moskovskie-olimpiady-po-informatike_0b4575a4ffa.html
 
 2019
 https://habr.com/ru/company/hh/blog/441804/
