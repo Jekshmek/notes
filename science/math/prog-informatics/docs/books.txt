@@ -25,3 +25,6 @@ KotovVolkovLapo - Advanced Informatics - Algorithmization ru
 2006
 Zlatopolsky - Recurrence Relations
 D032EAD3F8B8BB93C3A21F2A617411CF
+
+1990
+BrudnoCaplan - Moscow Programming Olimpiads ru

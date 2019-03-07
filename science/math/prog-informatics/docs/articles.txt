@@ -1,3 +1,16 @@
 2018
 https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe
     https://proglib.io/p/dp-vs-dc/
+2006
+ParfenovShalyto - ACM ICPC Final ru
+2004
+http://www.ict.edu.ru/ft/001781/team_champ_2003_2004_1.pdf
+http://www.ict.edu.ru/ft/001781/team_champ_2003_2004_2.pdf
+http://www.ict.edu.ru/ft/001781/team_champ_2003_2004_3.pdf
+http://www.ict.edu.ru/ft/001781/team_champ_2003_2004_4.pdf
+http://www.ict.edu.ru/ft/001781/team_champ_2003_2004_5.pdf
+2003
+http://www.ict.edu.ru/ft/001780/olimp_2003_2004_3.pdf
+2000
+Parvenov - Dramma ...
+    https://cyberleninka.ru/article/n/drama-v-treh-aktah-iz-zhizni-programmistov

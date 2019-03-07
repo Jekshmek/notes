@@ -5,4 +5,5 @@ https://github.com/NationalSecurityAgency/ghidra
 https://github.com/NationalSecurityAgency/ghidra/wiki/Frequently-asked-questions
 
 2019
+https://www.rsaconference.com/writable/presentations/file_upload/png-t09-come-get-your-free-nsa-reverse-engineering-tool_.pdf
 http://www.opennet.ru/opennews/art.shtml?num=50260

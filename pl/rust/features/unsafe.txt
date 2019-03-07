@@ -4,6 +4,7 @@ https://doc.rust-lang.org/nomicon/working-with-unsafe.html
     Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.
 
 2019
+https://blog.knoldus.com/safe-way-to-access-private-fields-in-rust/
 https://www.ralfj.de/blog/2019/01/12/rust-2019.html
 
 2018

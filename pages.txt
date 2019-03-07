@@ -105,7 +105,7 @@ Zhitinsky                                           - 343.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 918.0 (of 1388)
 Shalyto - motivation                                - 153   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 154..156 (of  418)
+The Little Typer - 3                                - 158..178 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

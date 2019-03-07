@@ -1,4 +1,5 @@
 http://is.ifmo.ru/works/
+http://is.ifmo.ru/automata/
 
 2013
 Gale - Machines and Their Languages (short and good)
