@@ -1,3 +1,6 @@
+2019
+https://gcc.gnu.org/gcc-9/changes.html
+https://developers.redhat.com/blog/2019/03/08/usability-improvements-in-gcc-9/
 2018
 https://gcc.gnu.org/ml/gcc-announce/2018/msg00001.html
 http://www.opennet.ru/opennews/art.shtml?num=48535

@@ -1,2 +1,3 @@
 whatsnew
 https://mirage.io/blog/announcing-mirage-35-release
+    http://www.opennet.ru/opennews/art.shtml?num=50278

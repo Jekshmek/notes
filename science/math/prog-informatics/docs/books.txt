@@ -18,6 +18,9 @@ http://elib.bsu.by/handle/123456789/181529
 http://elib.bsu.by/bitstream/123456789/181529/1/Kotov.pdf
     !!!
 
+2012
+AlexeevTalanov - Graphs and Algorithms ru
+
 2010
 KotovVolkovLapo - Advanced Informatics - Algorithmization ru
     https://www.studmed.ru/kotov-vm-volkov-ia-lapo-ai-informatika-metody-algoritmizacii_0a3f151d02b.html
@@ -65,12 +68,25 @@ Hicenko - Practicum EVM Algorithms ru
     https://www.studmed.ru/hicenko-vp-shaposhnikova-ta-praktikum-na-evm-algoritmy_1f97a374307.html
 Dauletkulov - Informatics Olimpiads ru
     https://www.studmed.ru/dauletkulov-ab-olimpiady-po-informatike-uchebno-metodicheskoe-posobie_3a4722333b9.html
-
+UskovaGorbenko - Best Olimp Programming Problems Solutions ru
+    https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-1_0614be71e93.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-2_bbe65ffc045.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-3_77b40407be5.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-4_c2306301a0e.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-5_ef0d612f6e7.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-6_84d4027c335.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-7_68c86908c0f.html
+        DBB4DA89ADC18352D011B197058EE831
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-8_941fd435dfa.html
+    https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-9_4514ba316ae.html
+    
 2003
 Belov - Algorithmization and Programming Fundamentals ru
     https://www.studmed.ru/belov-mp-osnovy-algoritmizacii-i-programmirovaniya_f70fe838165.html
 
 2000
+Erusalimskiy - Discrete Math ru
+    short
 Berov - National Informatics Olimpiad Problems Specifics ru
     !!!
 

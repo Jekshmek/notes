@@ -1,16 +1,6 @@
 URLs
 bzdyn - 2017 oct 31
 
-https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-1_0614be71e93.html
-https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-2_bbe65ffc045.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-3_77b40407be5.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-4_c2306301a0e.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-5_ef0d612f6e7.html
-https://www.studmed.ru/uskova-of-gorbenko-od-i-dr-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-6_84d4027c335.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-7_68c86908c0f.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-chast-8_941fd435dfa.html
-https://www.studmed.ru/uskova-of-gorbenko-od-olimpiadnye-zadachi-po-programmirovaniyu-luchshie-resheniya-uchebnoe-izdanie-chast-9_4514ba316ae.html
-
 algo
 https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
 https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html

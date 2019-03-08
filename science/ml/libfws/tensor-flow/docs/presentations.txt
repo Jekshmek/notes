@@ -1,3 +1,7 @@
+2019
+Introducing TensorFlow 2.0 and its high-level APIs
+    https://www.youtube.com/watch?v=k5c-vg4rjBw
+
 2018
 Building AI with TensorFlow: An Overview
     https://www.youtube.com/watch?v=WwON0inOEnc

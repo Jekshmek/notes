@@ -10,3 +10,6 @@ Ore - Graphs and Their Uses ru
 
 1990
 Emelichev - Graph Theory Lections ru
+
+1978
+Cristofides - Graph Theory Algorithmic Approach ru

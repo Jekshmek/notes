@@ -13,17 +13,30 @@ Nesteruk - Design Patterns in Cpp
 Olsson - Cpp17 Quick Syntax Reference 3rd ed
 Spraul - Think Like a Programmer ru
     intro for children
+
 2017
 Rao - Teach Yourself Cpp 8th ed ru
+
 2016
 Meyers - Effective Modern Cpp ru
 McGrath - C Programming Easy Steps 4th ed ru
+
+2014
+Lippman - Cpp Primer 5th ed ru
+
+2013
+Schildt - Cpp a Beginners Guide Step by Step ru
+
+2010
+Schildt - Cpp from the Ground Up 3rd ed ru
 
 Children
 2018
 Spraun - Think Like a Programmer ru
 2016
 Dawson - Beginning Cpp through Game Programming ru
+2009
+Kultin - Cpp in Problems and Samples ru
 
 ds
 Weiss - Data Structures and Algorithms in Cpp 4th ed
