@@ -1,0 +1,4 @@
+https://github.com/commercialhaskell/rio
+
+2019
+https://www.fpcomplete.com/blog/rio-standard-library-for-haskell

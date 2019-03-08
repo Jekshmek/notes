@@ -23,6 +23,9 @@ Karpov - Automata Theory ru
 Shalyto - Algorithms Hardware and Software Implementation Methods ru
 Shalyto - Recursive Algorithms Implementation using Automata Approach
     http://www.ict.edu.ru/ft/003758/recurse.pdf
+2001
+Vyhovanec - Automata Theory ru
+    https://www.studmed.ru/vyhovanec-vs-teoriya-avtomatov_9a1626eb6a7.html
 2000
 Lupal - Automata Theory ru
 1998

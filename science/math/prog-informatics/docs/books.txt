@@ -60,7 +60,7 @@ Skiena
 Shen - Programming Theorems and Problems ru
     https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_f72ababc4b1.html
     https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_9d8f453b892.html
-Hicenko - 2004 - Practicum EVM Algorithms ru
+Hicenko - Practicum EVM Algorithms ru
     !!!
     https://www.studmed.ru/hicenko-vp-shaposhnikova-ta-praktikum-na-evm-algoritmy_1f97a374307.html
 Dauletkulov - Informatics Olimpiads ru

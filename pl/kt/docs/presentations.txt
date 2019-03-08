@@ -1,3 +1,7 @@
+2019
+Wharton - Kotlin: Write Once, Run (Actually) Everywhere
+    https://www.infoq.com/presentations/kotlin-run-anywhere
+
 2018
 Breslav - KotlinConf - Conference Opening Keynote
     https://www.youtube.com/watch?v=PsaFVLr8t4E

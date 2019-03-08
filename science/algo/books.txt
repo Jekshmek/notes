@@ -22,3 +22,5 @@ Kao - Encyclopedia of Algorithms
 Levitin - Introduction to the Design and Analysis of Algorithms ru
     https://www.studmed.ru/levitin-a-algoritmy-vvedenie-v-razrabotku-i-analiz_0de7d080a05.html
     https://www.studmed.ru/levitin-a-algoritmy-vvedenie-v-razrabotku-i-analiz_4a67f8b5de3.html
+2001
+McConnell - Analysis of Algorithms

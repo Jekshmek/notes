@@ -18,6 +18,9 @@ https://github.com/palmerhq/the-platform
 https://nikgraf.github.io/react-hooks/
 https://github.com/getify/tng-hooks
 
+ts-integration
+https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
+
 2019
 https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
     https://nuancesprog.ru/p/3205
@@ -69,3 +72,6 @@ useLayoutEffect
 https://github.com/getify/TNG-Hooks
 2019
 https://www.infoq.com/news/2019/02/tng-hooks
+
+????
+https://github.com/kesne/with-react-hooks

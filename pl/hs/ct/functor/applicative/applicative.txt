@@ -1,5 +1,7 @@
-Applicative Functors:
+2019
+https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf
 
+????
 Ruegg - Applicative Functors in Haskell
 Powers - Applicative Functors (https://vimeo.com/31168331, https://vimeo.com/31518213)
 
