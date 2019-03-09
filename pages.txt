@@ -1,5 +1,5 @@
 URLs
-bzdyn - 2017 oct 31
+bzdyn - 2017 oct 1
 
 algo
 https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
