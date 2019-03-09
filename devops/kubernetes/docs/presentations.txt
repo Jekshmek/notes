@@ -1,4 +1,7 @@
 2019
+AirBnb - Developing Kubernetes Services
+    https://www.infoq.com/news/2019/03/airbnb-kubernetes-workflow
+    https://qconlondon.com/system/files/presentation-slides/qcon_london_2019.pdf
 Slynko - All you need to know to deploy applications on Kubernetes
     https://www.infoq.com/presentations/kubernetes-yaml
     https://www.slideshare.net/offslinker/all-you-need-to-know-to-deploy-applications-on-kubernetes-116440914
