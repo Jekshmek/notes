@@ -7,6 +7,11 @@ Razvitie Intellekta Shkolnikov
 
 2018
 KotovLapo - Informatics ru
+Laaksonen - Olympiad Programming
+    https://cses.fi/book/book.pdf
+    https://oz.by/books/more10778997.html
+    https://www.labirint.ru/books/649871/
+    https://www.ozon.ru/context/detail/id/146462877/
 
 2014
 BigData Program
@@ -17,6 +22,11 @@ Kotov - Algorithms Theory Problems Book
 http://elib.bsu.by/handle/123456789/181529
 http://elib.bsu.by/bitstream/123456789/181529/1/Kotov.pdf
     !!!
+
+2013
+Halim - Competitive Programming 3rd ed ru
+    EABCCEC887295E5DA350302DECA61D7C
+    F6F195012783A8B3C8BB7628882A51B7
 
 2012
 AlexeevTalanov - Graphs and Algorithms ru
