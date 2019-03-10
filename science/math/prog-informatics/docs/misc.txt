@@ -1,4 +1,6 @@
 2014
 Moskvitina - Programming Problems ru
+Data Structures and Program Design 3rd ed ru
+
 2000
 Amelina - Programming Problems ru

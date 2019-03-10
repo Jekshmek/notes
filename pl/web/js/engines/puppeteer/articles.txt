@@ -1,4 +1,5 @@
 2019
+https://www.codemate.com/en/awesome-things-to-do-with-puppeteer/
 https://ericbidelman.com/posts/2019/02/pptrstagingserver
 2018
 https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59
