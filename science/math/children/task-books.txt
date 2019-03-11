@@ -35,8 +35,10 @@ Raihmist - Zadachnik po Matematike
         071,72,73,74,75,76,77
         081,82,83,84,85,86,87     89
 (103)   101,02,03,04,05,06,07     10
-        111,12,13,14,15
+        111,12,13,14,15,16
 
+Gorbachev
+    Combinatory - 183
 
 Farkov
     5 class

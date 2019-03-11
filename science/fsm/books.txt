@@ -17,6 +17,8 @@ Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd 
 2004
 Adamczyk - A Pattern Language for Implementing Finite State Machines 
     https://hillside.net/plop/2004/papers/padamczyk0/PLoP2004_padamczyk0_0.pdf
+Podzorov - Algorithm Theory Conspect ru
+    https://www.studmed.ru/podzorov-syu-teoriya-algoritmov-polnyy-konspekt-lekciy-po-kursu_8617d0def97.html
 2003
 Karpov - Automata Theory ru
 2002

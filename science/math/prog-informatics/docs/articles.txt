@@ -5,6 +5,7 @@ https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe
 2006
 ParfenovShalyto - ACM ICPC Final ru
 OrshanskiyShalyto - Using Dynamic Programming ru
+Parfenov - 7 Vseros Command School Olimp ru
 
 2005
 Orshanskiy - About ACM ICPC Problems Solving ru
@@ -27,3 +28,6 @@ Parvenov - Dramma ...
 1999
 Mironov - Scool Command Competition ru
     samples
+
+????
+Parfenov - Vseros Command School Olimpiads

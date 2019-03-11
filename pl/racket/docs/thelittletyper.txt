@@ -742,3 +742,26 @@ because es is not used in E.
 
 ### 7: All Depends on the Motive
 
+! Dependent Types
+A type that is determined by something that is not a type is called a dependent type
+
+(claim peas
+    (PI ((how-many-peas Nat))
+        (Vec Atom how-many-peas)))
+
+the rec-Nat can't be used to define peas (because the base must have the same type as the peas_l-1)
+
+We need ind-Nat, who need a motive of type
+    (-> Nat
+        U)
+
+! Use ind-Nat for Dependent Types
+Use ind-Nat instead of rec-Nat when the rec-Nat- or ind-Nat-expression's type depends on target Nat.
+The ind-Nat-expression's type is the motive applied to the target.
+
+(claim mot-peas
+    (-> Nat
+        U))
+(define mot-peas
+    (\ (k)
+        (Vec Atom k)))

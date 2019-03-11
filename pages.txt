@@ -1,26 +1,40 @@
 URLs
-bzdyn - 2017 oct 1
+bzdyn - 2017 sep 14
 
 algo
-https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
 https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html
 https://www.studmed.ru/aho-a-hopkroft-dzh-ulman-dzh-struktury-dannyh-i-algoritmy_b604821c5fe.html
+https://www.studmed.ru/hopcroft-john-e-motwani-rajeev-ullman-jeffrey-d-introduction-to-automata-theory-languages-and-computation-2nd-edition_eb57e5e0cd7.html
+https://www.studmed.ru/markov-aa-teoriya-algoritmov_27abf0e12ea.html
 https://www.studmed.ru/kao-m-y-ed-encyclopedia-of-algorithms_e3b605f59dc.html
 https://www.studmed.ru/tomas-k-charlz-l-algoritmy-postroenie-i-analiz_7b5e2180d66.html
 https://www.studmed.ru/kormen-th-leyzerson-chi-rivest-rl-shtayn-k-algoritmy-postroenie-i-analiz-2-e-izdanie_03f870120fa.html
 https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
-https://www.studmed.ru/kuzyurin-nn-fomin-sa-slozhnost-kombinatornyh-algoritmov-kurs-lekciy_f3577f4fd00.html
-https://www.studmed.ru/nosov-va-osnovy-teorii-algoritmov-i-analiza-ih-slozhnosti_147d5e362d0.html
 https://www.studmed.ru/papadimitriu-x-stayglic-k-kombinatornaya-optimizaciya-algoritmy-i-slozhnost_dbbafdb8b04.html
 https://www.studmed.ru/skiena-s-algoritmy-rukovodstvo-po-razrabotke_9c6a9a5a6c1.html
 https://www.studmed.ru/charras-c-lecroq-t-handbook-of-exact-string-matching-algorithms_21e843b52e0.html
 https://www.studmed.ru/korotkov-ma-stepanov-eo-osnovy-teorii-algoritmov_e5573c9bc7f.html
-https://www.studmed.ru/hopcroft-john-e-motwani-rajeev-ullman-jeffrey-d-introduction-to-automata-theory-languages-and-computation-2nd-edition_eb57e5e0cd7.html
-https://www.studmed.ru/vereschagin-nk-shen-a-lekcii-po-matematicheskoy-logike-i-teorii-algoritmov-chasti-123_423d3de3f1c.html
-https://www.studmed.ru/lupanov-ob-kasim-zade-om-slozhnost-umnozheniya-matric_497bb07a6ff.html
+
+not needed
+https://www.studmed.ru/uspenskiy-va-semenov-al-teoriya-algoritmov-osnovnye-otkrytiya-i-prilozheniya_5f860114e20.html
+https://www.studmed.ru/drozdov-s-kombinatornye-zadachi-i-elementy-teorii-vychislitelnoy-slozhnosti_2c1a2286048.html
+https://www.studmed.ru/nosov-va-osnovy-teorii-algoritmov-i-analiza-ih-slozhnosti_147d5e362d0.html
+https://www.studmed.ru/samohin-av-matematicheskaya-logika-i-teoriya-algoritmov_c3349748f90.html
+https://www.studmed.ru/guk-ak-matematicheskaya-logika-i-teoriya-algoritmov_dbf2d174dad.html
+https://www.studmed.ru/kozmidiadi-va-maslov-an-petri-nv-red-slozhnost-vychisleniy-i-algoritmov_941d7062424.html
+https://www.studmed.ru/bityuckiy-vp-papulovskaya-nv-teoriya-algoritmov_9dc72b9fb7a.html
+https://www.studmed.ru/alferova-zv-teoriya-algoritmov_cb5585c42f0.html
+https://www.studmed.ru/bilgaeva-nc-teoriya-algoritmov-formalnyh-yazykov-grammatik-i-avtomatov_3a4c7325a1c.html
+https://www.studmed.ru/download/spiricheva-nr-struktura-dannyh-i-osnovnye-algoritmy_d009c0cef91.html
+https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teoriyu-avtomatov-teoriyu-vychislimosti-teoriyu-slozhnosti-teoriyu-algoritmov-randomizaciyu-teoriyu-svyazi-i-kriptografiyu_b1fc42304dc.html
+https://www.studmed.ru/peter-r-rekursivnye-funkcii_b66ed24ee53.html
+https://www.studmed.ru/marchenkov-ss-elementarnye-rekursivnye-funkcii_4b55f24965b.html
+https://www.studmed.ru/rodzhers-h-teoriya-rekursivnyh-funkciy-i-effektivnaya-vychislimost_edcec9a3179.html
+https://www.studmed.ru/katlend-n-vychislimost-vvedenie-v-teoriyu-rekursivnyh-funkciy_6e63665bf4f.html
+https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii-dlya-programmistov_d9da14db9a8.html
+https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
 
 problematic
-https://www.studmed.ru/download/spiricheva-nr-struktura-dannyh-i-osnovnye-algoritmy_d009c0cef91.html
 https://www.studmed.ru/makarov-vl-programmirovanie-i-osnovy-algoritmizacii_dab226cd822.html
 https://www.studmed.ru/kronrod-as-besedy-o-programmirovanii_7c6ac798ef2.html
 https://www.studmed.ru/barron-d-rekursivnye-metody-v-programmirovanii_cc996c6f352.html
@@ -33,6 +47,7 @@ https://www.studmed.ru/programmirovanie-na-yazyke-vysokogo-urovnya_361b8d9964e.h
 https://www.studmed.ru/nivergelt-yu-farrar-dzh-reyngold-e-mashinnyy-podhod-k-resheniyu-matematicheskih-zadach_4b35c5a969f.html
 https://www.studmed.ru/grin-d-knut-d-matematicheskie-metody-analiza-algoritmov_871afa27f68.html
 https://www.studmed.ru/kuzin-sg-osnovy-algoritmizacii_69262019766.html
+https://www.studmed.ru/vereschagin-nk-shen-a-lekcii-po-matematicheskoy-logike-i-teorii-algoritmov-chasti-123_423d3de3f1c.html
 
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
@@ -50,7 +65,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Mar 10
+    Mar 11
 
 track
 scoop extras - a
@@ -136,11 +151,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 343.5 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 918.0 (of 1388)
-Shalyto - motivation                                - 153   (of  873)
+Zhitinsky                                           - 375.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 933.0 (of 1388)
+Shalyto - motivation                                - 155   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 158..178 (of  375..418)
+The Little Typer - 3                                - 160..178 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

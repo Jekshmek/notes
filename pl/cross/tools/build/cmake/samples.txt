@@ -1,3 +1,8 @@
+http://ttroy50.github.io/cmake-examples/
+    https://github.com/ttroy50/cmake-examples
+
+https://github.com/pr0g/cmake-examples
+
 https://github.com/reyreaud-l/simple-cpp-setup
 
 2018

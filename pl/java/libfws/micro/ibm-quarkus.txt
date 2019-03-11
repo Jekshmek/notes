@@ -1,0 +1,10 @@
+https://quarkus.io/
+https://quarkus.io/get-started/
+https://quarkus.io/guides/
+https://quarkus.io/extensions/
+https://quarkus.io/community/
+
+https://github.com/quarkusio/quarkus
+
+2019
+https://habr.com/ru/company/haulmont/blog/443242/
