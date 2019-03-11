@@ -1,4 +1,6 @@
 2019
+https://habr.com/ru/company/e-Legion/blog/442920/
+    https://www.youtube.com/watch?v=wsYou5lx6zA
 https://medium.com/@elizarov/coroutine-context-and-scope-c8b255d59055
 https://medium.com/@trionkidnapper/launching-a-kotlin-coroutine-for-immediate-execution-on-the-main-thread-8555e701163b
 https://medium.com/@elizarov/deadlocks-in-non-hierarchical-csp-e5910d137cc

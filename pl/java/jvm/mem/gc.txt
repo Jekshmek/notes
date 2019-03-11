@@ -1,6 +1,13 @@
 zgc
 https://wiki.openjdk.java.net/display/zgc/Main
 
+books
+http://gchandbook.org/
+https://www.cs.kent.ac.uk/people/staff/rej/gcbib/gcbib.pdf
+
+2019
+https://shipilev.net/jvm/diy-gc/
+    https://habr.com/ru/company/jugru/blog/443250/
 2018
 https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/
 https://jaxenter.com/jep-333-zgc-targeted-jdk-11-145414.html

@@ -21,14 +21,27 @@ Rao - Teach Yourself Cpp 8th ed ru
 Meyers - Effective Modern Cpp ru
 McGrath - C Programming Easy Steps 4th ed ru
 
+2015
+Prata - C Primer Plus 6th ed ru
+
 2014
 Lippman - Cpp Primer 5th ed ru
 
 2013
 Schildt - Cpp a Beginners Guide Step by Step ru
 
+2011
+Prata - Cpp Primer Plus 6th ed
+    ! good illustrations
+
 2010
 Schildt - Cpp from the Ground Up 3rd ed ru
+
+2006
+Wilson - Imperfect Cpp ru
+
+2005
+Sutter - Exceptional Cpp ru
 
 Children
 2018
