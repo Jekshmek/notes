@@ -22,6 +22,7 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://habr.com/ru/post/443488/
 https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
     https://nuancesprog.ru/p/3205
 https://tech.okcupid.com/getting-hooked-on-react-hooks/

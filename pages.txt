@@ -1,5 +1,5 @@
 URLs
-bzdyn - 2018 apr 1
+bzdyn - 2018 may 3
 
 algo
 https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html
@@ -50,7 +50,7 @@ http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
 http://www.iarex.ru/articles/64768.html
-http://www.iarex.ru/articles/57630.html
+http://www.iarex.ru/articles/57643.html
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
