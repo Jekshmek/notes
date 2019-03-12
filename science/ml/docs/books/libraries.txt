@@ -1,5 +1,28 @@
 http://libgen.io
+    http://gen.lib.rus.ec/
+
 https://booksdescr.com/
-http://gen.lib.rus.ec/
 
 https://www.twirpx.com
+
+studmed
+    https://www.studmed.ru
+not needed
+    https://www.studmed.ru/alferova-zv-teoriya-algoritmov_cb5585c42f0.html
+    https://www.studmed.ru/bilgaeva-nc-teoriya-algoritmov-formalnyh-yazykov-grammatik-i-avtomatov_3a4c7325a1c.html
+    https://www.studmed.ru/bityuckiy-vp-papulovskaya-nv-teoriya-algoritmov_9dc72b9fb7a.html
+    https://www.studmed.ru/drozdov-s-kombinatornye-zadachi-i-elementy-teorii-vychislitelnoy-slozhnosti_2c1a2286048.html
+    https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii-dlya-programmistov_d9da14db9a8.html
+    https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
+    https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teoriyu-avtomatov-teoriyu-vychislimosti-teoriyu-slozhnosti-teoriyu-algoritmov-randomizaciyu-teoriyu-svyazi-i-kriptografiyu_b1fc42304dc.html
+    https://www.studmed.ru/guk-ak-matematicheskaya-logika-i-teoriya-algoritmov_dbf2d174dad.html
+    https://www.studmed.ru/katlend-n-vychislimost-vvedenie-v-teoriyu-rekursivnyh-funkciy_6e63665bf4f.html
+    https://www.studmed.ru/korotkov-ma-stepanov-eo-osnovy-teorii-algoritmov_e5573c9bc7f.html
+    https://www.studmed.ru/kozmidiadi-va-maslov-an-petri-nv-red-slozhnost-vychisleniy-i-algoritmov_941d7062424.html
+    https://www.studmed.ru/marchenkov-ss-elementarnye-rekursivnye-funkcii_4b55f24965b.html
+    https://www.studmed.ru/nosov-va-osnovy-teorii-algoritmov-i-analiza-ih-slozhnosti_147d5e362d0.html
+    https://www.studmed.ru/peter-r-rekursivnye-funkcii_b66ed24ee53.html
+    https://www.studmed.ru/rodzhers-h-teoriya-rekursivnyh-funkciy-i-effektivnaya-vychislimost_edcec9a3179.html
+    https://www.studmed.ru/samohin-av-matematicheskaya-logika-i-teoriya-algoritmov_c3349748f90.html
+    https://www.studmed.ru/download/spiricheva-nr-struktura-dannyh-i-osnovnye-algoritmy_d009c0cef91.html
+    https://www.studmed.ru/uspenskiy-va-semenov-al-teoriya-algoritmov-osnovnye-otkrytiya-i-prilozheniya_5f860114e20.html

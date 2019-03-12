@@ -28,8 +28,10 @@ https://fpmi.bsu.by/ImgFpmi/Cache/35503.pdf
 
 2008
 Sbornik zadach po teorii algoritmov
-9bc34d0bcdca5d8211caaff81c5b93a1
-9bc34d0bcdca5d8211caaff81c5b93a1
+    9bc34d0bcdca5d8211caaff81c5b93a1
+    9bc34d0bcdca5d8211caaff81c5b93a1
+Asanov - Combinatorial Algorithms ru
+    https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
 
 2002
 Aproximate Algorithms
@@ -37,11 +39,8 @@ http://elib.bsu.by/handle/123456789/27561
 http://elib.bsu.by/bitstream/123456789/27561/1/%d0%9a%d0%be%d1%82%d0%be%d0%b2%d0%9a%d0%be%d0%b2%d0%b0%d0%bb%d0%b5%d0%b2%d0%bb%d0%b5%d0%bf%d0%b8%d0%bd.pdf
 
 2000
-KovovVolkovLapo - Algorithmization Methods ru
+KovovVolkovLapo - Lagorithmization Methods ru
     https://www.studmed.ru/kotov-vm-volkov-ia-lapo-ai-informatika-metody-algoritmizacii_0a3f151d02b.html
-    http://alleng.org/d/comp/comp89.htm
-    https://drive.google.com/file/d/0B6696ckkWj_zVUpVS2NEeUgxWE0/view
-    https://uch-lit.ru/informatika/kotov-v-m-volkov-i-a-lapo-a-i-informatik
 
 1994
 ftp://u168.ru/%C4%F0%F3%E3%EE%E5/%C4%EE%EA%F3%EC%E5%ED%F2%E0%F6%E8%FF/%CF%F0%EE%E3%F0%E0%EC%E8%F0%EE%E2%E0%ED%E8%E5/%C7%E0%E4%E0%F7%E8%20%E8%20%EE%EB%E8%EC%EF%E8%E0%E4%FB%20%EF%EE%20%EF%F0%EE%E3%F0%E0%EC%EC%E8%F0%EE%E2%E0%ED%E8%FE/Volkov%20&%20Kotov/ALL.txt

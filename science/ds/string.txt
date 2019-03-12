@@ -9,5 +9,6 @@ https://habr.com/post/423939/
 books
 2004
 Charras - Handbook of Exact String Matching Algorithms
+    https://www.studmed.ru/charras-c-lecroq-t-handbook-of-exact-string-matching-algorithms_21e843b52e0.html
 1994
 Stephen - String Searching Altorithms

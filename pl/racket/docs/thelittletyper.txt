@@ -765,3 +765,12 @@ The ind-Nat-expression's type is the motive applied to the target.
 (define mot-peas
     (\ (k)
         (Vec Atom k)))
+
+(claim step-peas
+    (PI ((l-1 Nat))
+        (-> (mot-peas l-1)
+            (mot-peas (add1 l-1)))))
+(define step-peas
+    (\ (l-1)
+        (\ (peas_l-1)
+            (vec:: 'pea peas_l-1))))

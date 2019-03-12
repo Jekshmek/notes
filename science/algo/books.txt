@@ -18,9 +18,16 @@ Stephens - Essential Algorithms ru
 Polyakov - Algorithm Theory Fundamentals ru
 2008
 Kao - Encyclopedia of Algorithms
+    https://www.studmed.ru/kao-m-y-ed-encyclopedia-of-algorithms_e3b605f59dc.html
 2006
 Levitin - Introduction to the Design and Analysis of Algorithms ru
     https://www.studmed.ru/levitin-a-algoritmy-vvedenie-v-razrabotku-i-analiz_0de7d080a05.html
     https://www.studmed.ru/levitin-a-algoritmy-vvedenie-v-razrabotku-i-analiz_4a67f8b5de3.html
 2001
 McConnell - Analysis of Algorithms
+1984
+MarkovNagorny - Algorithms Theory ru
+    https://www.studmed.ru/markov-aa-nagornyy-nm-teoriya-algoritmov_ea1d7873d4c.html
+1954
+Markov - Algorithms Theory ru
+    https://www.studmed.ru/markov-aa-teoriya-algoritmov_27abf0e12ea.html

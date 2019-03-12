@@ -8,6 +8,10 @@ Peregozhin - Discrete Math 2nd ed ru
 2016
 Costyukova - Combinatory Algorithms 2nd ed ru
 
+2008
+Asanov - Combinatorial Algorithms ru !
+    https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
+
 2009
 Stanley - Enumerative Combinatorics vol2 ru
 

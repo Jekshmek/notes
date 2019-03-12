@@ -37,6 +37,10 @@ Prata - Cpp Primer Plus 6th ed
 2010
 Schildt - Cpp from the Ground Up 3rd ed ru
 
+2007
+BaturaBusko - Algorithmization and Programming Fundamentals C Language ru
+    https://www.bsuir.by/m/12_100229_1_124427.pdf
+
 2006
 Wilson - Imperfect Cpp ru
 
