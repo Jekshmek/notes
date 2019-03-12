@@ -22,6 +22,7 @@ Meyers - Effective Modern Cpp ru
 McGrath - C Programming Easy Steps 4th ed ru
 
 2015
+Davis - Beginning Programming with Cpp for Dummies 2nd ed
 Prata - C Primer Plus 6th ed ru
 
 2014
