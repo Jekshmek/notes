@@ -73,7 +73,7 @@ Eli Friedman
     ERrWMBJ4
 Gorbushin - Kubernetes for Beginners
     nJL03VJ9
-Susman                                              -   13:00 (of   3x:00)
+Susman                                              -   23:00 (of   3x:00)
     https://www.youtube.com/watch?v=arMH5GjBwUQ
 Dud - Tabakov                                       -   12:00 (of 1:19:58)
     https://www.youtube.com/watch?v=6oGpWlfYtRM
