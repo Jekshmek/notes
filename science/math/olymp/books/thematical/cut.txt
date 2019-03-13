@@ -11,5 +11,8 @@ http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf
 Vavilov - Mnogougolniki i Reshetki
 http://geometry.ru/books/vavilovustinov.pdf
 
+1977
+Lindgren - Recreational Problems in Geometric Dissections ru
+
 misc
 https://studbooks.net/2558220/matematika_himiya_fizika/invarianty_raskraski

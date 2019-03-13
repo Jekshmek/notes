@@ -774,3 +774,22 @@ The ind-Nat-expression's type is the motive applied to the target.
     (\ (l-1)
         (\ (peas_l-1)
             (vec:: 'pea peas_l-1))))
+
+! The Law of ind-Nat
+If target is a Nat, mot is an
+    (-> Nat
+        U),
+base is a (mot zero), and step is a
+    (PI ((n-1 Nat))
+        (-> (mot n-1)
+            (mot (add1 n-1)))),
+then
+    (ind-Nat target
+        mot
+        base
+        step)
+is a (mot target).
+
+! The First Commandment of ind-Nat
+    
+

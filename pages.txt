@@ -1,14 +1,10 @@
 URLs
-bzdyn - 2018 may 3
+https://www.euclidea.xyz/ru/
 
 algo
 https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html
 https://www.studmed.ru/aho-a-hopkroft-dzh-ulman-dzh-struktury-dannyh-i-algoritmy_b604821c5fe.html
 https://www.studmed.ru/hopcroft-john-e-motwani-rajeev-ullman-jeffrey-d-introduction-to-automata-theory-languages-and-computation-2nd-edition_eb57e5e0cd7.html
-https://www.studmed.ru/kormen-th-leyzerson-chi-rivest-rl-shtayn-k-algoritmy-postroenie-i-analiz-2-e-izdanie_03f870120fa.html
-https://www.studmed.ru/tomas-k-charlz-l-algoritmy-postroenie-i-analiz_7b5e2180d66.html
-https://www.studmed.ru/skiena-s-algoritmy-rukovodstvo-po-razrabotke_9c6a9a5a6c1.html
-https://www.studmed.ru/papadimitriu-x-stayglic-k-kombinatornaya-optimizaciya-algoritmy-i-slozhnost_dbbafdb8b04.html
 
 not needed
 https://www.studmed.ru/alferova-zv-teoriya-algoritmov_cb5585c42f0.html
@@ -45,6 +41,11 @@ https://www.studmed.ru/grin-d-knut-d-matematicheskie-metody-analiza-algoritmov_8
 https://www.studmed.ru/kuzin-sg-osnovy-algoritmizacii_69262019766.html
 https://www.studmed.ru/vereschagin-nk-shen-a-lekcii-po-matematicheskoy-logike-i-teorii-algoritmov-chasti-123_423d3de3f1c.html
 
+Kudryavtsev - Automata Theory
+https://biblio-online.ru/book/teoriya-avtomatov-414568
+https://biblio-online.ru/viewer/teoriya-avtomatov-414568#page/1
+https://uchitel.by/catalog/book/479485
+
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
@@ -61,7 +62,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Mar 12
+    Mar 13
 
 track
 scoop extras - a
@@ -153,7 +154,7 @@ Zhitinsky                                           - 398.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 948.0 (of 1388)
 Shalyto - motivation                                - 157   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 162..178 (of  375..418)
+The Little Typer - 3                                - 163..178 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

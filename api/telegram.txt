@@ -9,6 +9,7 @@ retroma
 
 
 books:
+bzd_channel
 progbook
 proglibrary
     https://vk.com/proglib
