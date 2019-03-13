@@ -1,5 +1,8 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
+2019
+https://fullyfaithful.eu/bounds-check-elision-rust/
+
 2018
 https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html
 https://phaazon.net/blog/on-owning-borrowing-pub-interface

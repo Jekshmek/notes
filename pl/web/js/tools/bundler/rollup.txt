@@ -45,3 +45,8 @@ https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eRM5oTjUdn2CQ7lPf-zmhVD
 
 rollup-yarn
 https://github.com/yarnpkg/yarn/pull/809
+
+code-splitting
+https://rollupjs.org/guide/en#code-splitting
+https://www.infoq.com/news/2019/03/rollup-code-splitting
+https://levelup.gitconnected.com/code-splitting-for-libraries-bundling-for-npm-with-rollup-1-0-2522c7437697

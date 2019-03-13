@@ -1,0 +1,2 @@
+2019
+https://www.reddit.com/r/rust/comments/b0leg9/overhead_of_calling_rust_ffi_from_java_jnrjni/
