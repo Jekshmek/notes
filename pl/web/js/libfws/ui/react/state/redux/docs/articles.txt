@@ -1,4 +1,5 @@
 2019
+https://daveceddia.com/redux-tutorial/
 https://habr.com/ru/post/440940/
 https://www.carlrippon.com/strongly-typed-react-redux-code-with-typescript/
 https://habr.com/ru/post/439104/

@@ -22,6 +22,8 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://upmostly.com/tutorials/form-validation-using-custom-react-hooks/
+https://overreacted.io/a-complete-guide-to-useeffect/
 https://habr.com/ru/post/443488/
 https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
     https://nuancesprog.ru/p/3205
@@ -76,3 +78,5 @@ https://www.infoq.com/news/2019/02/tng-hooks
 
 ????
 https://github.com/kesne/with-react-hooks
+
+https://github.com/Swizec/useDimensions

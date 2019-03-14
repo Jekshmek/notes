@@ -32,6 +32,9 @@ Lippman - Cpp Primer 5th ed ru
 2013
 Schildt - Cpp a Beginners Guide Step by Step ru
 
+2012
+Dewhurst - Cpp Common Knowledge ru
+
 2011
 Stroustrup - The Cpp Programming Language special ed ru
 Prata - Cpp Primer Plus 6th ed
@@ -49,9 +52,11 @@ Mozgovoy - Cpp Master Class ru
 
 2006
 Wilson - Imperfect Cpp ru
+Dewhurst - Cpp Gotchas ru
 
 2005
 Sutter - Exceptional Cpp ru
+Coplien - Advanced Cpp Programming Styles and Idioms ru
 
 2004
 Podbelskiy - C Programming ru

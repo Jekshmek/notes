@@ -1,2 +1,4 @@
+2019
+Long - Cloud Native Java ru
 2018
 Minkowski - Mastering Spring Cloud

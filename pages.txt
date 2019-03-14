@@ -1,4 +1,17 @@
 URLs
+CSC - 2019 - Rust
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e
+CSC - 2019 - Cpp part 1
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL
+CSC - 2019 - Cpp part 2
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN
+CSC - 2018 - Kotlin
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRWQNlOIhvCV9aquTH-Y0eU
+CSC - 2018 - GPU
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTgwAm0GBkvn5XA0NokovJJ
+CSC - 2016 - asymptotical analysis and probability theory
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpS634rDf15afbmKJRSYmH50
+
 https://www.euclidea.xyz/ru/
 https://newpavlov.github.io/rust-isp-2019/01/#33
 https://newpavlov.github.io/rust-isp-2019/02/#1
