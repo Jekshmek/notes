@@ -2,14 +2,20 @@ http://dl.gsu.by/NForum/posts/topicshow/2829.dl?postid=76379#76379
 
 2019
 https://vk.com/topic-45356308_29170530
+
+2015
+RasolkoKremen - Pascal Programming Practice ru
+    2e83043de40d66fe7ef5fc6910f3c179
+    http://magazin.belkniga.by/catalog/pedagogika_obrazovanie_vospitanie/dlya_vuzov_i_suzov_uchebno_meto/teor_i_prakt_progr_na_yaz_pascai_z_2377_3/
+
+2014
+Kruse - Data Structures and Program Design 3rd ed ru
+
 2009
 zubkov
     https://books.ifmo.ru/file/pdf/603.pdf
 eremin
     http://moul49.narod.ru/informatika/PascalABC.pdf
-
-2014
-Kruse - Data Structures and Program Design 3rd ed ru
 
 graphics
 http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf

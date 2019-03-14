@@ -1,5 +1,8 @@
 URLs
 https://www.euclidea.xyz/ru/
+https://newpavlov.github.io/rust-isp-2019/01/#33
+https://newpavlov.github.io/rust-isp-2019/02/#1
+https://newpavlov.github.io/rust-isp-2019/03/#1
 
 algo
 https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html
