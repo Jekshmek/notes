@@ -791,5 +791,47 @@ then
 is a (mot target).
 
 ! The First Commandment of ind-Nat
-    
+The ind-Nat expression
+    (ind-Nat zero
+        mot
+        base
+        step)
+is the same (mot zero) as base.
+
+! The Second Commandment of ind-Nat
+The ind-Nat expression
+    (ind-Nat (add1 n)
+        mot
+        base
+        step)
+and
+    (step n
+        (ind-Nat n
+            mot
+            base
+            step))
+are the same (mot (add1 n)).
+
+! Induction on Natural Numbers
+Building a value for any natural number by giving a value for zero and
+a way to transform a value for n into a value for (n + 1)
+is called "induction on natural numbers"
+
+The base replaces each zero with vecnil (because vecnil is the only (Vec Atom zero)),
+step-peas replaces each add1 with a vec::
+
+(define peas
+    (\ (how-many-peas)
+        (ind-Nat how-many-peas
+            mot-peas
+            vecnil
+            step-peas)))
+
+
+(claim last
+    (PI ((E U)
+         (l Nat))
+        (-> (Vec E (add1 l))
+            E)))
+
 

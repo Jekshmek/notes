@@ -8,5 +8,8 @@ zubkov
 eremin
     http://moul49.narod.ru/informatika/PascalABC.pdf
 
+2014
+Kruse - Data Structures and Program Design 3rd ed ru
+
 graphics
 http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf

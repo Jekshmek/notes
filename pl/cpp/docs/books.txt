@@ -33,6 +33,7 @@ Lippman - Cpp Primer 5th ed ru
 Schildt - Cpp a Beginners Guide Step by Step ru
 
 2011
+Stroustrup - The Cpp Programming Language special ed ru
 Prata - Cpp Primer Plus 6th ed
     ! good illustrations
 
@@ -43,11 +44,19 @@ Schildt - Cpp from the Ground Up 3rd ed ru
 BaturaBusko - Algorithmization and Programming Fundamentals C Language ru
     https://www.bsuir.by/m/12_100229_1_124427.pdf
 Liberty - Cpp in 21 Day ru
+Mozgovoy - Cpp Master Class ru
+    ! samples use stl !
 
 2006
 Wilson - Imperfect Cpp ru
 
 2005
+Sutter - Exceptional Cpp ru
+
+2004
+Podbelskiy - C Programming ru
+
+2002
 Sutter - Exceptional Cpp ru
 
 Children
