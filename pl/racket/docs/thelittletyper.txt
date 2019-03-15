@@ -834,4 +834,15 @@ step-peas replaces each add1 with a vec::
         (-> (Vec E (add1 l))
             E)))
 
+(claim base-last
+    (PI ((E U))
+        (-> (Vec E (add1 l))
+            E)))
+(define base-last
+    (\ (E)
+        (\ (es)
+            (head es))))
+
+! ind-Nat's Base Type
+In ind-Nat, the base's type is the motive, applied to the the target zero.
 
