@@ -1,7 +1,7 @@
-http://www.baeldung.com/rest-api-spring-oauth2-angularjs
-
 http://projects.spring.io/spring-security-oauth/docs/oauth2.html
 
+2019
+http://www.baeldung.com/rest-api-spring-oauth2-angularjs
 2018
 https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
 https://www.infoq.com/presentations/oauth-2-spring-security-google

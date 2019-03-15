@@ -1,3 +1,6 @@
+2019
+https://www.dataquest.io/blog/pandas-big-data
+    https://habr.com/ru/company/ruvds/blog/442516/
 2018
 https://rushter.com/blog/pandas-data-type-inference/
 2017

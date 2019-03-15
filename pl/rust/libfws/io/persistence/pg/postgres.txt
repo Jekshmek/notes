@@ -6,4 +6,12 @@ https://crates.io/crates/postgres-protocol
 https://docs.rs/postgres-protocol
 https://github.com/sfackler/rust-postgres
 
+https://crates.io/crates/postgres-binary-copy
+https://crates.io/crates/postgres_large_object
+https://crates.io/crates/fraction
+https://crates.io/crates/postgres_range
+
 https://crates.io/crates/tokio-postgres
+
+2011
+http://siciarz.net/24-days-of-rust-postgres/

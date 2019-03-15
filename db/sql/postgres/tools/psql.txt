@@ -55,6 +55,7 @@ $ psql postgresql://dbmaster:5433/mydb?sslmode=require
     If pattern is specified, only databases whose names match the pattern are listed.
     If + is appended to the command name, database sizes, default tablespaces, and descriptions are also displayed.
     (Size information is only available for databases that the current user can connect to.)
+\dg[S+] [ pattern ]
 \du[S+] [ pattern ]
     Lists database roles.
     (Since the concepts of “users” and “groups” have been unified into “roles”, this command is now equivalent to \dg.)

@@ -1,3 +1,6 @@
+2019
+https://houssein.me/progressive-react
+    https://habr.com/ru/company/ruvds/blog/442650/
 2018
 https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/
 http://jem-space.ru/praktichieskii-react-upravliaiem-riendieringhom-musor-i-pierformans/

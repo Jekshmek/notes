@@ -1,3 +1,5 @@
+https://doc.rust-lang.org/edition-guide/rust-2018/module-system/path-clarity.html
+
 2018
 https://medium.com/@xiaonuo.gantan/rust-module-best-practices-d85f18610522
 https://medium.com/@erik.tate/rust-modules-in-less-than-5-minutes-9bff7f617798

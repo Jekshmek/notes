@@ -16,6 +16,8 @@ http://www.cyberciti.biz/faq/curl-command-resume-broken-download/
 Samples:
 curl -XPUT -k -u <usr>:<pwd> -T <filename> <url>/<filename>
 
+    -XPOST -d "param1=value1&param2=value2"
+
 encode
 https://unix.stackexchange.com/questions/86729/any-way-to-encode-the-url-in-curl-command
 
