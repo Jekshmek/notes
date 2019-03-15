@@ -1,66 +1,5 @@
 URLs
-CSC - 2019 - Rust
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e
-CSC - 2019 - Cpp part 1
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL
-CSC - 2019 - Cpp part 2
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN
-CSC - 2018 - Kotlin
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRWQNlOIhvCV9aquTH-Y0eU
-CSC - 2018 - GPU
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTgwAm0GBkvn5XA0NokovJJ
-CSC - 2016 - asymptotical analysis and probability theory
-    https://www.youtube.com/playlist?list=PLlb7e2G7aSpS634rDf15afbmKJRSYmH50
-
 https://www.euclidea.xyz/ru/
-https://newpavlov.github.io/rust-isp-2019/01/#33
-https://newpavlov.github.io/rust-isp-2019/02/#1
-https://newpavlov.github.io/rust-isp-2019/03/#1
-
-algo
-https://www.studmed.ru/aho-a-postroenie-i-analiz-vychislitelnyh-algoritmov_26f8cf1b25d.html
-https://www.studmed.ru/aho-a-hopkroft-dzh-ulman-dzh-struktury-dannyh-i-algoritmy_b604821c5fe.html
-https://www.studmed.ru/hopcroft-john-e-motwani-rajeev-ullman-jeffrey-d-introduction-to-automata-theory-languages-and-computation-2nd-edition_eb57e5e0cd7.html
-
-not needed
-https://www.studmed.ru/alferova-zv-teoriya-algoritmov_cb5585c42f0.html
-https://www.studmed.ru/bilgaeva-nc-teoriya-algoritmov-formalnyh-yazykov-grammatik-i-avtomatov_3a4c7325a1c.html
-https://www.studmed.ru/bityuckiy-vp-papulovskaya-nv-teoriya-algoritmov_9dc72b9fb7a.html
-https://www.studmed.ru/drozdov-s-kombinatornye-zadachi-i-elementy-teorii-vychislitelnoy-slozhnosti_2c1a2286048.html
-https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii-dlya-programmistov_d9da14db9a8.html
-https://www.studmed.ru/goloveshkin-va-ulyanov-mv-teoriya-rekursii_6ceb1e55180.html
-https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teoriyu-avtomatov-teoriyu-vychislimosti-teoriyu-slozhnosti-teoriyu-algoritmov-randomizaciyu-teoriyu-svyazi-i-kriptografiyu_b1fc42304dc.html
-https://www.studmed.ru/guk-ak-matematicheskaya-logika-i-teoriya-algoritmov_dbf2d174dad.html
-https://www.studmed.ru/katlend-n-vychislimost-vvedenie-v-teoriyu-rekursivnyh-funkciy_6e63665bf4f.html
-https://www.studmed.ru/korotkov-ma-stepanov-eo-osnovy-teorii-algoritmov_e5573c9bc7f.html
-https://www.studmed.ru/kozmidiadi-va-maslov-an-petri-nv-red-slozhnost-vychisleniy-i-algoritmov_941d7062424.html
-https://www.studmed.ru/marchenkov-ss-elementarnye-rekursivnye-funkcii_4b55f24965b.html
-https://www.studmed.ru/nosov-va-osnovy-teorii-algoritmov-i-analiza-ih-slozhnosti_147d5e362d0.html
-https://www.studmed.ru/peter-r-rekursivnye-funkcii_b66ed24ee53.html
-https://www.studmed.ru/rodzhers-h-teoriya-rekursivnyh-funkciy-i-effektivnaya-vychislimost_edcec9a3179.html
-https://www.studmed.ru/samohin-av-matematicheskaya-logika-i-teoriya-algoritmov_c3349748f90.html
-https://www.studmed.ru/download/spiricheva-nr-struktura-dannyh-i-osnovnye-algoritmy_d009c0cef91.html
-https://www.studmed.ru/uspenskiy-va-semenov-al-teoriya-algoritmov-osnovnye-otkrytiya-i-prilozheniya_5f860114e20.html
-
-problematic
-https://www.studmed.ru/makarov-vl-programmirovanie-i-osnovy-algoritmizacii_dab226cd822.html
-https://www.studmed.ru/kronrod-as-besedy-o-programmirovanii_7c6ac798ef2.html
-https://www.studmed.ru/barron-d-rekursivnye-metody-v-programmirovanii_cc996c6f352.html
-https://www.studmed.ru/berdzh-v-metody-rekursivnogo-programmirovaniya_0989adbe346.html
-https://www.studmed.ru/pitts-em-semantika-yazykov-programmirovaniya_65a434f93e1.html
-https://www.studmed.ru/anderson-r-dokazatelstvo-pravilnosti-programm_9fec4703b60.html
-https://www.studmed.ru/komleva-nv-smirnov-aa-hripkov-dv-informatika-i-programmirovanie_0f781a58ef3.html
-https://www.studmed.ru/hohlov-dg-zaharova-zh-praktikum-po-strukturam-dannyh-i-kombinatornym-algoritmam_6abf2abf989.html
-https://www.studmed.ru/programmirovanie-na-yazyke-vysokogo-urovnya_361b8d9964e.html
-https://www.studmed.ru/nivergelt-yu-farrar-dzh-reyngold-e-mashinnyy-podhod-k-resheniyu-matematicheskih-zadach_4b35c5a969f.html
-https://www.studmed.ru/grin-d-knut-d-matematicheskie-metody-analiza-algoritmov_871afa27f68.html
-https://www.studmed.ru/kuzin-sg-osnovy-algoritmizacii_69262019766.html
-https://www.studmed.ru/vereschagin-nk-shen-a-lekcii-po-matematicheskoy-logike-i-teorii-algoritmov-chasti-123_423d3de3f1c.html
-
-Kudryavtsev - Automata Theory
-https://biblio-online.ru/book/teoriya-avtomatov-414568
-https://biblio-online.ru/viewer/teoriya-avtomatov-414568#page/1
-https://uchitel.by/catalog/book/479485
 
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
@@ -78,7 +17,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Mar 13
+    Mar 15
 
 track
 scoop extras - a
@@ -117,8 +56,6 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
 Platoshkin - ?
 
 Lit
-Bykov - Theory of BringingUp                        - 1:40:00 (of 1:48:22)
-    https://yadi.sk/d/JR9zQ6ix40saRQ
 Bykov - Agora                                       -   12:00 (of   59:55)
     https://www.youtube.com/watch?v=7RYt_Ckuw8c
 Mashevsky - I - 2                                   -   43:00 (of 1:56:42)
@@ -137,7 +74,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 02                                      -   00:00 (of)
+Sorokin - I 03                                      -   00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/

@@ -95,8 +95,6 @@ Belov - Algorithmization and Programming Fundamentals ru
     https://www.studmed.ru/belov-mp-osnovy-algoritmizacii-i-programmirovaniya_f70fe838165.html
 
 2000
-Erusalimskiy - Discrete Math ru
-    short
 Berov - National Informatics Olimpiad Problems Specifics ru
     !!!
 

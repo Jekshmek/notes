@@ -1,6 +1,11 @@
+2.2.x
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2-Release-Notes
+    https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2.0-M1-Configuration-Changelog
+https://spring.io/blog/2019/03/08/spring-boot-2-2-m1
+https://www.infoq.com/news/2019/03/spring-boot-22-milestone
 2.1.x
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.1.0-RC1-Release-Notes
 https://spring.io/blog/2018/10/17/spring-boot-2-1-0-rc1-available-now
-    https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.1.0-RC1-Release-Notes
 2.0.x
 https://github.com/spring-projects/spring-boot/milestone/109?closed=1
 https://spring.io/blog/2018/05/09/spring-project-vulnerability-reports-published

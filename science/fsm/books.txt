@@ -27,6 +27,8 @@ Shalyto - Recursive Algorithms Implementation using Automata Approach
     http://www.ict.edu.ru/ft/003758/recurse.pdf
 2001
 Vyhovanec - Automata Theory ru
+    http://valery.vykhovanets.ru/
+    http://valery.vykhovanets.ru/Texts/2001/Vykhovanets2001_m1.pdf
     https://www.studmed.ru/vyhovanec-vs-teoriya-avtomatov_9a1626eb6a7.html
 2000
 Lupal - Automata Theory ru

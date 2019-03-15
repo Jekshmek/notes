@@ -18,3 +18,7 @@ Tsang - gRPC 101 for Java Developers
 
 samples
 https://github.com/Hixon10/grpc-nginx/tree/master/client
+
+health check
+https://github.com/grpc/grpc/blob/master/doc/health-checking.md
+https://github.com/grpc-ecosystem/grpc-health-probe

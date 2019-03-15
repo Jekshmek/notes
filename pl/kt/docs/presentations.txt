@@ -1,4 +1,6 @@
 2019
+CSC - 2018 - Kotlin
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRWQNlOIhvCV9aquTH-Y0eU
 Wharton - Kotlin: Write Once, Run (Actually) Everywhere
     https://www.infoq.com/presentations/kotlin-run-anywhere
 

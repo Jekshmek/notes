@@ -6,6 +6,9 @@ Depman - World of Numbers
 Vilenkin - Behind the Pages of Math Teachbook ru
 1989
 Vilenkin - Behind the Pages of Math Teachbook ru
+1967
+Depman - Tails about Old and New Algebra ru
+    p 37 - Pifagor Theorem
 1957
 Depman - Tails about Problems Solving ru
     https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_135fb419926.html (absent)
@@ -14,3 +17,4 @@ Depman - Tails about Problems Solving ru
 1956
 Depman - Tails about Mathematics ru
     https://www.studmed.ru/depman-iya-rasskazy-o-matematike_5613acf2538.html
+Depman - Measurements ru

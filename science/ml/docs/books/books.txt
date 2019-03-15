@@ -73,8 +73,8 @@ https://vk.com/doc190970339_437111950
 Rashid - Make your own Neural Network
 
 Haykin - 2006 - NNs A Comprehensive Foundation 2nd ed ru:
-https://vk.com/doc4004138_437978172
-https://vk.com/doc123534285_437548299
+    https://vk.com/doc4004138_437978172
+    https://vk.com/doc123534285_437548299
 
 ?
 Flach - Machine Learning

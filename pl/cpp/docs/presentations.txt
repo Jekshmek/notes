@@ -1,3 +1,8 @@
+2019
+CSC - 2019 - Cpp part 1
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL
+CSC - 2019 - Cpp part 2
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN
 2018
 Sutter - Thoughts on a more powerful and simpler C++ (5 of N)
     https://www.youtube.com/watch?v=80BZxujhY38
