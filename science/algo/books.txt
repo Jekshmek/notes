@@ -8,6 +8,7 @@ Roughgarden - Algorithms Illuminated (part1 and part 2)
 2016
 Igoshin - Algorithms Theory ru
 Lobarev - Algorithms Theory ru
+Kleinberg - Algorithms Design ru
 
 2015
 Bhasin - Algorithms - Design and Analysis
@@ -52,6 +53,9 @@ McConnell - Analysis of Algorithms
 2000
 AhoHopcroftUlmat - Data Structures and Algorithms ru
     https://www.studmed.ru/aho-a-hopkroft-dzh-ulman-dzh-struktury-dannyh-i-algoritmy_b604821c5fe.html
+
+1986
+Knuth - The Art of Computer Programming v4a part1
 
 1984
 MarkovNagorny - Algorithms Theory ru
