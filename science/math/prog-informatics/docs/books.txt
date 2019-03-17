@@ -1,3 +1,6 @@
+lists
+https://www.twirpx.com/files/informatics/languages/olympics/
+
 series
 Razvitie Intellekta Shkolnikov
     https://www.livelib.ru/pubseries/717491-razvitie-intellekta-shkolnikov
@@ -22,6 +25,8 @@ Kotov - Algorithms Theory Problems Book
 http://elib.bsu.by/handle/123456789/181529
 http://elib.bsu.by/bitstream/123456789/181529/1/Kotov.pdf
     !!!
+Arlazarov - Sport Programming ru
+http://olymp.misis.ru/Portals/45/Documents/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%202017.pdf
 
 2013
 Halim - Competitive Programming 3rd ed ru
@@ -30,6 +35,12 @@ Halim - Competitive Programming 3rd ed ru
 
 2012
 AlexeevTalanov - Graphs and Algorithms ru
+Simonenko - Sport Programming ru
+    cpp tips
+
+2011
+Halim - Competitive Programming 2nd ed
+    6F1574A682A5F05C748E142FA791A429
 
 2010
 KotovVolkovLapo - Advanced Informatics - Algorithmization ru
@@ -43,6 +54,9 @@ Menshikov
     https://www.studmed.ru/menshikov-fv-olimpiadnye-zadachi-po-programmirovaniyu_f4c73bb8185.html
 Haliulin - Informatics Olimpiads ru (too simple)
     https://www.studmed.ru/haliullin-rn-sopuev-a-olimpiady-po-informatike_1f1adeb0eaf.html
+Gustokashin - Olimpiad Informatics Lection Couse ru
+    cpp-based
+    3E0824538C74189D3A88DE8597D2D0A3
 
 2008
 Regeda - Algorithmization and Programming Fundamentals ru
@@ -96,6 +110,7 @@ Belov - Algorithmization and Programming Fundamentals ru
 
 2000
 Berov - National Informatics Olimpiad Problems Specifics ru
+    CB708B557495EB144CC45A086D18CE0C
     !!!
 
 1990

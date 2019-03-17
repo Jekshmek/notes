@@ -2,6 +2,7 @@
 Dudeney - Medieval Puzzles ru
 2007
 Longe - Math Tricks ru
+Troshin - Magics of Numbers ru
 1999
 Arutyunyan - Entertaining Math ru
     ! good explanations !
@@ -18,14 +19,14 @@ Halamayzer - Pifagor ru
 Olehnik - Old Entertaining Problems 2nd ed ru
 1987
 Barr - Puzzles Placers ru
-1984
-Nagibin - Math Shkatulka 4th ed
 1979
 Ignatiev - In the Kingdom of Savvy 2nd ed ru
 1975
 Lehmann - Entertaining Math ru
 1974
 Studenetskiy - Puzzle Workshop ru
+1969
+Akentiev - From the Second Look ru
 1961
 Elenskiy - Po Sledam Pifagora ru
 1948
