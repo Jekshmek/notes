@@ -4,3 +4,5 @@ Ivin - Logics ru
 Ivin - The Art of Correct Thinking ru
 1958
 Uemov - Logical Mistakes ru
+1941
+Tarski - Logics Introduction ru

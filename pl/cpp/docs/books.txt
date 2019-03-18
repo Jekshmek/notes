@@ -31,6 +31,7 @@ Lippman - Cpp Primer 5th ed ru
 
 2013
 Schildt - Cpp a Beginners Guide Step by Step ru
+Yurichev - Cpp Programming Language Notes ru
 
 2012
 Dewhurst - Cpp Common Knowledge ru
@@ -60,9 +61,11 @@ Dewhurst - Cpp Gotchas ru
 2005
 Sutter - Exceptional Cpp ru
 Coplien - Advanced Cpp Programming Styles and Idioms ru
+Coplien - Multi-Paradigm Design for Cpp
 
 2004
 Podbelskiy - C Programming ru
+Kubensky - Cpp Structures and Algorithms ru
 
 2002
 Sutter - Exceptional Cpp ru

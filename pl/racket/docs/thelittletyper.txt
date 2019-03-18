@@ -846,3 +846,15 @@ step-peas replaces each add1 with a vec::
 ! ind-Nat's Base Type
 In ind-Nat, the base's type is the motive, applied to the the target zero.
 
+The step transforms a
+    last
+function for
+    l
+into a
+    last
+function for
+    (add1 l).
+
+! ind-Nat's Step Type
+In ind-Nat, the step must take two arguments: some Nat n
+and an almost-answer

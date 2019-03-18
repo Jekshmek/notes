@@ -16,3 +16,5 @@ DeSouzaOliveira - Mastering Reactive JavaScript
 2016
 Morgan - JavaScript for Kids ru
 Belyaev - JavaScript Game Development ru
+2015
+Kantor - JavaScript Programming Language part1 ru

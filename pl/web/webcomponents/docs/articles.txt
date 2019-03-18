@@ -1,6 +1,7 @@
 https://medium.com/web-standards/regarding-broken-promise-of-web-components-385d63de4959
 
 2019
+https://tproger.ru/translations/web-components/
 https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components
 2018
 Dan Abramov - critique

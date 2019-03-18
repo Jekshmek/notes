@@ -23,3 +23,7 @@ http://docs.grafana.org/plugins/developing/defaults-and-editor-mode/
 
 good design sample
 http://docs.grafana.org/features/panels/singlestat/
+
+whatsnew
+2019
+https://habr.com/ru/company/1cloud/blog/443006/

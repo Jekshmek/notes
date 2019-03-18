@@ -1,4 +1,5 @@
 2019
+https://tproger.ru/translations/webpack-from-zero-to-hero/
 https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5
 2018
 https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c
