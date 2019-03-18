@@ -1,0 +1,13 @@
+2019
+https://www.baeldung.com/spring-security-5-oauth2-login
+    https://github.com/Baeldung/spring-security-oauth
+http://www.baeldung.com/rest-api-spring-oauth2-angularjs
+https://www.baeldung.com/rest-api-spring-oauth2-angular
+    modern sample of auth-server
+    AuthorizationServerConfigurerAdapter
+    WebSecurityConfigurerAdapter
+2018
+https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
+    https://github.com/adamzareba/company-structure-spring-security-oauth2-authorities
+https://www.infoq.com/presentations/oauth-2-spring-security-google
+https://blog.couchbase.com/spring-security-oauth2_authentication/
