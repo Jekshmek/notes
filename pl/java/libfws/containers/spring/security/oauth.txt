@@ -2,6 +2,42 @@ http://projects.spring.io/spring-security-oauth/docs/oauth2.html
 
 2019
 http://www.baeldung.com/rest-api-spring-oauth2-angularjs
+https://www.baeldung.com/rest-api-spring-oauth2-angular
+    modern sample of auth-server
+    AuthorizationServerConfigurerAdapter
+    WebSecurityConfigurerAdapter
 2018
 https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
+    https://github.com/adamzareba/company-structure-spring-security-oauth2-authorities
 https://www.infoq.com/presentations/oauth-2-spring-security-google
+
+
+api
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/
+
+AuthServer
+
+endpoints
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/endpoint/package-summary.html
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/endpoint/CheckTokenEndpoint.html
+    /oauth/check_token
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/endpoint/TokenKeyEndpoint.html
+    /oauth/token_key
+
+
+AuthClient
+
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/client/package-summary.html
+
+
+AuthProvider
+
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/package-summary.html
+
+config.annotation
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/config/annotation/
+config.xml
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/config/xml/package-summary.html
+
+common
+https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/common/package-summary.html
