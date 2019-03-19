@@ -857,4 +857,40 @@ function for
 
 ! ind-Nat's Step Type
 In ind-Nat, the step must take two arguments: some Nat n
-and an almost-answer
+and an almost-answer, whose type is the motive, applied to n.
+The type of the answer from the step is the motive, applied to (add1 n).
+The step's type is:
+    (PI ((n Nat))
+        (-> (mot n)
+            (mot (add1 n))))
+
+(claim step-last
+    (PI ((E U)
+         (l-1 Nat))
+        (-> (mot-last E l-1)
+            (mot-last E (add1 l-1)))))
+
+(define step-last
+    (\ (E l-1)
+        (\ (last_l-1)
+            (\ (es)
+                (last_l-1 (tail es))))))
+
+last_l-1 - is almost the right function, but only for a list of l-1 entries
+es type is
+    (Vec E (add1
+        (add1 l-1))
+(tail es) type is
+    (Vec E (add1 l-1))
+last_l-1 type is
+    (-> (Vec E (add1 l-1))
+        E)
+which is the value of (mot-last l-1).
+
+Now it is a time to
+(define last
+    (\ (E l)
+        (ind-Nat l
+            (mot-last E)
+            (base-last E)
+            (step-last E))))

@@ -8,6 +8,11 @@ https://prodi.gy/
 
 2019
 https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
+2018
+https://proglib.io/p/fun-nlp/
 2017
 https://github.com/explosion/talks/blob/master/2017-11-02___Practical-and-Effective-Neural-NER.pdf
 https://www.youtube.com/watch?v=sqDHBH9IjRU
+
+whatsnew
+https://explosion.ai/blog/spacy-v2-1
