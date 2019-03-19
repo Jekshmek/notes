@@ -80,6 +80,9 @@ Kremer - Probability Theory and Math Statistics 2nd ed ru
 Ventsel - Probability Theory ru
 Ventsel - Probability Excercises ru
 
+1958
+BlackwellGirshick - Theory of Games and Statistical Decisions ru
+
 ?
 Practical Statistics for Data Scientists
 https://vk.com/doc273848965_448552419

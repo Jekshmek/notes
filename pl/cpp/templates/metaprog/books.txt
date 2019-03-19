@@ -1,3 +1,4 @@
 DiGennaro - Advanced Metaprogramming in Classic Cpp
 
-Krasnov - Cpp Metaprogrammimg in MathPhisics Problems ru
+2017
+Krasnov - Cpp Template Metaprogramming in Math Phisics Problems ru

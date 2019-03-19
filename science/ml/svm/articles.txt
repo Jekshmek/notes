@@ -1,3 +1,7 @@
+2019
+https://towardsdatascience.com/demystifying-maths-of-svm-part-2-30308a73e072
+https://towardsdatascience.com/demystifying-maths-of-svm-13ccfe00091e
+
 2018
 Vapnik vs Jakel
 https://habr.com/company/speechpro/blog/414161/

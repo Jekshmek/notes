@@ -16,6 +16,7 @@ Spraul - Think Like a Programmer ru
 
 2017
 Rao - Teach Yourself Cpp 8th ed ru
+KonovaPollak - Cpp Algorithms 2nd ed ru
 
 2016
 Meyers - Effective Modern Cpp ru
@@ -57,6 +58,7 @@ Mozgovoy - Cpp Master Class ru
 2006
 Wilson - Imperfect Cpp ru
 Dewhurst - Cpp Gotchas ru
+Dinman - Master Cpp by Examples ru
 
 2005
 Sutter - Exceptional Cpp ru
@@ -69,6 +71,10 @@ Kubensky - Cpp Structures and Algorithms ru
 
 2002
 Sutter - Exceptional Cpp ru
+
+2001
+Holub - Enough Rope to Shoot Your Foot ru
+Alexandrescu - Modern Cpp Design
 
 Children
 2018

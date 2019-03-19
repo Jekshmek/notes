@@ -46,6 +46,11 @@ https://vk.com/doc247540843_456982697
 Joshi - Artificial Intelligence with Python
     https://vk.com/doc182314867_467597874
 Grus - Data Science from Scratch ru
+Pierson - Data Science For Dummies 2nd ed
+
+2015
+Marsland - Machine Learning - An Algorithmic Perspective 2nd ed
+    interesting and balanced
 
 2014
 Sutton - Reinforcement Learning

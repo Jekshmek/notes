@@ -1,4 +1,5 @@
 2.2.x
+https://www.infoq.com/news/2019/03/spring-boot-22-milestone
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2-Release-Notes
     https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2.0-M1-Configuration-Changelog
 https://spring.io/blog/2019/03/08/spring-boot-2-2-m1
