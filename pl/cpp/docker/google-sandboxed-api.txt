@@ -1,0 +1,5 @@
+https://github.com/google/sandboxed-api/
+
+2019
+https://security.googleblog.com/2019/03/open-sourcing-sandboxed-api.html
+    http://www.opennet.ru/opennews/art.shtml?num=50349
