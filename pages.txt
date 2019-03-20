@@ -1,4 +1,7 @@
 URLs
+https://habr.com/ru/post/178253/
+https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
+http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://habr.com/ru/company/jugru/blog/444212/
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
 https://www.euclidea.xyz/ru/
@@ -87,9 +90,18 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 277
-Razbor Poletov                                      - 191
-    http://traffic.libsyn.com/razborpoletov/razbor_191.mp3
+This week in rust                                   - 278
+Razbor Poletov                                      - 192 00:00 (of)
+    https://razborpoletov.com/2019/03/episode-201.html
+    https://razborpoletov.com/2019/02/episode-200.html
+    https://razborpoletov.com/2019/02/episode-199.html
+    https://razborpoletov.com/2019/01/episode-198.html
+    https://razborpoletov.com/2019/01/episode-197.html
+    https://razborpoletov.com/2018/12/episode-196.html
+    https://razborpoletov.com/2018/12/episode-195.html
+    https://razborpoletov.com/2018/12/episode-194.html
+    https://razborpoletov.com/2018/12/episode-193.html
+    https://razborpoletov.com/2018/12/episode-192.html
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 

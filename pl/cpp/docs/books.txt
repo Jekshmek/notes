@@ -38,6 +38,8 @@ Kalicharan - Advanced Topics in C
 
 2012
 Dewhurst - Cpp Common Knowledge ru
+Boswell - The Art of Readable Code ru
+    tips
 
 2011
 Stroustrup - The Cpp Programming Language special ed ru
@@ -46,6 +48,9 @@ Prata - Cpp Primer Plus 6th ed
 
 2010
 Schildt - Cpp from the Ground Up 3rd ed ru
+
+2009
+Kernighan - The C Programming Language 2nd ed ru
 
 2008
 Deitel - Cpp How to Program ru
@@ -77,11 +82,15 @@ Kubensky - Cpp Structures and Algorithms ru
 Krupnik - Learn Cpp ru
     short intro
 
+2003
+Averkin - Cpp Programming ru
+
 2002
 Sutter - Exceptional Cpp ru
 
 2001
 Holub - Enough Rope to Shoot Your Foot ru
+    tips
 Alexandrescu - Modern Cpp Design
 
 Children

@@ -2,11 +2,16 @@ http://goalkicker.com/SpringFrameworkBook/
 
 Kunjumohamed - Spring Essentials
 
+2019
+CosminaHarrop - Spring 5 for Professionals ru
+    ! todo: find appropriate en
+
 2018
 Dewailly - Building RESTful Web Services 2nd ed
 Oliveira - Spring 5  by Example
 Salazar - Software Architecture with Spring 5
 Walls - Spring in Action 5th ed
+
 2017
 Balachandar - RESTful Java Web Services 3rd ed
 Deinum - Spring 5 Recipes 4th ed
