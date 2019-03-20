@@ -33,6 +33,8 @@ Lippman - Cpp Primer 5th ed ru
 2013
 Schildt - Cpp a Beginners Guide Step by Step ru
 Yurichev - Cpp Programming Language Notes ru
+Kalicharan - Advanced Topics in C
+    ! mostly on data structures
 
 2012
 Dewhurst - Cpp Common Knowledge ru
@@ -64,10 +66,16 @@ Dinman - Master Cpp by Examples ru
 Sutter - Exceptional Cpp ru
 Coplien - Advanced Cpp Programming Styles and Idioms ru
 Coplien - Multi-Paradigm Design for Cpp
+Marchenko - Cpp Velvet Way ru
+    bad djvu quality
+Overland - Cpp Without Fear
+Krupnik - Cpp Tutorial ru
 
 2004
 Podbelskiy - C Programming ru
 Kubensky - Cpp Structures and Algorithms ru
+Krupnik - Learn Cpp ru
+    short intro
 
 2002
 Sutter - Exceptional Cpp ru

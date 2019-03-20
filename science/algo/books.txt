@@ -4,6 +4,8 @@ http://goalkicker.com/AlgorithmsBook/
 Shen - Programmings - Theorems and Problems 6th ed ru
 Heineman - Cpp Algorithms in a Nutshell 2nd ed ru
 Roughgarden - Algorithms Illuminated (part1 and part 2)
+Mueller - Algorithms For Dummies
+    using python
 
 2016
 Igoshin - Algorithms Theory ru

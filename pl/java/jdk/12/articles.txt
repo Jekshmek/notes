@@ -1,2 +1,4 @@
 2019
+https://blogs.oracle.com/java-platform-group/the-arrival-of-java-12
+    https://www.infoq.com/news/2019/03/java12-released
 https://habr.com/ru/company/jugru/blog/444434/

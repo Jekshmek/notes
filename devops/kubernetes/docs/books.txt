@@ -12,3 +12,4 @@ Baier - Getting Started with Kubernetes 2nd ed
 Sayfan - Mastering Kubernetes
 Poulton - The Kubernetes Book (too short)
 Saito - DevOps with Kubernetes
+Krochmalski - Docker and Kubernetes for Java Developers

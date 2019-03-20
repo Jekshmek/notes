@@ -14,6 +14,7 @@ https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
 https://blog.golang.org/go1.12
 https://golang.org/doc/go1.12
 http://www.opennet.ru/opennews/art.shtml?num=50210
+https://www.infoq.com/news/2019/03/golang-1.12-released
 1.11
 https://tip.golang.org/doc/go1.11
 http://www.opennet.ru/opennews/art.shtml?num=49183
