@@ -896,3 +896,18 @@ Now it is a time to
             (step-last E))))
 
 
+(claim drop-last
+    (PU ((E U)
+        (l Nat))
+        (-> (Vec E (add1 l))
+            (Vec E l))))
+
+(claim base-drop-last
+    (PU ((E U)
+        (l Nat))
+        (-> (Vec E (add1 l))
+            (Vec E l))))
+(define base-drop-last
+    (\ (E)
+        (\ (es)
+            (vecnil))))
