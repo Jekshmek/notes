@@ -1,3 +1,5 @@
+2019
+https://morioh.com/p/ecb38c8342ba/an-illustrated-guide-to-kubernetes-networking
 2017
 https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
     https://habr.com/ru/company/ruvds/blog/442646/

@@ -7,6 +7,9 @@ http://gradle-pitest-plugin.solidsoft.info/
 
 http://pitest.org/quickstart/mutators/
 
-2017:
+2017
 Leszko - Mutation Testing
 https://www.youtube.com/watch?v=sVqdog7S0sY
+
+samples
+https://github.com/isicju/pitesting
