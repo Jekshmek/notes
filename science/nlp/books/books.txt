@@ -1,9 +1,11 @@
 https://proglib.io/p/how-to-start-nlp/
 
 2018
-Beysolow - Applied Natural Language Processing with Python
+BeysolowII - Applied Natural Language Processing with Python
+    short
 Bengfort - Applied Text Analysis with Python ER
 Goyal - Deep Learning for Natural Language Processing
+
 2017
 Goldberg - Neural Network Methods in Natural Language Processing
 http://u.cs.biu.ac.il/~yogo/nnlp.pdf

@@ -47,6 +47,7 @@ Joshi - Artificial Intelligence with Python
     https://vk.com/doc182314867_467597874
 Grus - Data Science from Scratch ru
 Pierson - Data Science For Dummies 2nd ed
+Geron - Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
 2015
 Marsland - Machine Learning - An Algorithmic Perspective 2nd ed

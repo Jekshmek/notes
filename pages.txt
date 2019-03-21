@@ -6,6 +6,8 @@ https://habr.com/ru/company/jugru/blog/444212/
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
 https://www.euclidea.xyz/ru/
 
+https://ru-bykov.livejournal.com/3795661.html
+    2
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
@@ -119,9 +121,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 502.2 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1031.0 (of 1388)
-Shalyto - motivation                                - 169   (of  873)
+Shalyto - motivation                                - 171   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 174..178 (of  375..418)
+The Little Typer - 3                                - 176..178 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

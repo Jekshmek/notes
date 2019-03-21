@@ -28,5 +28,8 @@ Stanley - Enumerative Combinatorics vol1 ru
 1977
 Reingold - Combinatorial Algorithms ru
 
+1975
+Kofman - Applied Combinatorics Introduction ru
+
 1970
 Hall - Combinatorucs ru

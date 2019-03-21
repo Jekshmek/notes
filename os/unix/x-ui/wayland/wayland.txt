@@ -9,5 +9,7 @@ https://levans.fr/blog/smithay-announce-en.html
 https://smithay.github.io/wayland-rs/book/
 
 whatsnew
+1.17
+http://www.opennet.ru/opennews/art.shtml?num=50361
 1.16
 http://www.opennet.ru/opennews/art.shtml?num=49182

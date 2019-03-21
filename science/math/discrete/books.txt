@@ -7,6 +7,9 @@ GlibichukRaygorodsky - Discrete Math Elements in Problems ru
     a lot of combinatory as well
     https://www.mccme.ru/circles/oim/discrbook.pdf
 
+2014
+WarrenJR - Hackers Delight 2nd ed ru
+
 2012
 VereschaginShen - Beginning Set Theory 4th ed ru
 VereschaginShen - Part 2 - Languages and Calculus 4th ed ru

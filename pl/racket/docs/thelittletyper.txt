@@ -911,3 +911,17 @@ Now it is a time to
     (\ (E)
         (\ (es)
             (vecnil))))
+
+(claim mot-drop-last
+    (-> U Nat
+        U))
+(define mot-drop-last
+    (\ (E k)
+        (-> (Vec E (add1 k))
+            (Vec E k))))
+
+(claim step-drop-last
+    (PI ((E U)
+         (l-1 Nat))
+        (-> (mot-drop-last E l-1)
+            (mot-drop-last E (add1 l-1)))))

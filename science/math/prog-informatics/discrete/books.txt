@@ -1,5 +1,7 @@
 2000
 Erusalimskiy - Discrete Math ru
     short
+Prokushev - Discrete Math - Graphs ru
+    short
 1987
 Kasatkin - Unusual Math Problems ru

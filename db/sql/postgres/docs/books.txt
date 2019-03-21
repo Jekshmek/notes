@@ -7,6 +7,7 @@ https://github.com/le0pard/postgresql_book
 https://habrahabr.ru/post/324334/
 
 2017
+Morgunov - SQL Basic Course ru
 Juba - Learning PostgreSQL 10 2nd ed
 Luzanov
     https://postgrespro.ru/media/2017/06/06/introbook_v3finalrelease1-text.pdf

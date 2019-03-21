@@ -1,0 +1,68 @@
+https://github.com/apache/logging-log4j2
+
+https://logging.apache.org/log4j/2.x/manual/index.html
+https://logging.apache.org/log4j/2.x/log4j-users-guide.pdf
+
+2018
+https://www.baeldung.com/tag/log4j2/
+https://www.baeldung.com/log4j2-appenders-layouts-filters
+https://www.baeldung.com/log4j2-programmatic-config
+2017
+https://stackify.com/log4j2-java/
+
+api
+https://logging.apache.org/log4j/2.x/manual/api.html
+https://logging.apache.org/log4j/2.x/log4j-api/apidocs/
+https://logging.apache.org/log4j/2.x/log4j-core/apidocs/org/apache/logging/log4j/core/LoggerContext.html
+https://logging.apache.org/log4j/2.x/log4j-core/apidocs/org/apache/logging/log4j/core/config/package-summary.html
+https://logging.apache.org/log4j/2.x/log4j-core/apidocs/org/apache/logging/log4j/core/config/ConfigurationFactory.html
+https://logging.apache.org/log4j/2.x/log4j-core/apidocs/org/apache/logging/log4j/core/config/Configurator.html
+https://logging.apache.org/log4j/2.x/log4j-core/apidocs/org/apache/logging/log4j/core/config/Configuration.html
+
+spi
+https://github.com/apache/logging-log4j2/blob/master/log4j-api/src/main/java/org/apache/logging/log4j/spi/LoggerContextFactory.java
+
+cfg
+https://logging.apache.org/log4j/2.x/manual/configuration.html
+https://logging.apache.org/log4j/2.x/manual/configuration.html#Properties
+https://logging.apache.org/log4j/2.x/manual/configuration.html#SystemProperties
+    log4j.configurationFile
+    // log4j2.configurationFile
+
+custom cfg
+https://logging.apache.org/log4j/2.0/manual/customconfig.html
+https://logging.apache.org/log4j/2.0/manual/extending.html#ConfigurationFactory
+
+custom cfg factory
+    https://github.com/eugenp/tutorials/tree/master/logging-modules/log4j2
+    -Dlog4j2.configurationFactory=com.baeldung.log4j2.CustomConfigFactory
+    @Plugin(name = "CustomConfigurationFactory", category = ConfigurationFactory.CATEGORY)
+    @Order(50)
+    public class CustomConfigFactory extends ConfigurationFactory {
+        // ... rest of implementation
+    }
+
+props
+-Dlog4j2.debug=true
+-Dlog4j.configurationFile=...
+
+integration with slf4j
+https://logging.apache.org/log4j/2.0/log4j-slf4j-impl/
+https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-slf4j-impl
+
+custom log levels
+https://logging.apache.org/log4j/2.x/manual/customloglevels.html
+
+samples
+    LoggerContext ctx = (LoggerContext) LogManager.getContext(false);
+    // LoggerContext ctx = LoggerContext.getContext();
+    Configuration cfg = ctx.getConfiguration();
+    ...
+    ctx.updateLoggers();
+
+    if (saveLog4j2Config == null) {
+        System.clearProperty(ConfigurationFactory.CONFIGURATION_FILE_PROPERTY);
+    } else {
+        System.setProperty(ConfigurationFactory.CONFIGURATION_FILE_PROPERTY, saveLog4j2Config);
+        ((LoggerContext) LogManager.getContext(false)).reconfigure();
+    }
