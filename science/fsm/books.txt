@@ -14,6 +14,8 @@ Levelt - An Introduction to the Theory of Formal Languages and Automata
 Gorbatov - Automaton Theory ru
 2007
 Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd ed
+2006
+Mozgovoy - Algorithms Automatas Languages Compilers ru
 2004
 Adamczyk - A Pattern Language for Implementing Finite State Machines 
     https://hillside.net/plop/2004/papers/padamczyk0/PLoP2004_padamczyk0_0.pdf

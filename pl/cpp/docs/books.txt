@@ -75,6 +75,7 @@ Marchenko - Cpp Velvet Way ru
     bad djvu quality
 Overland - Cpp Without Fear
 Krupnik - Cpp Tutorial ru
+Kultin - Cpp in Problems and Samples ru
 
 2004
 Podbelskiy - C Programming ru

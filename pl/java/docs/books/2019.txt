@@ -2,3 +2,4 @@
 Evans - Java in a Nutshell 7th ed
 Sarcar - Java Design Patterns 2nd ed
 Lecessi - Functional Interfaces in Java
+Urma - Modern Java in Action 2nd ed

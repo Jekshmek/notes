@@ -33,3 +33,7 @@ CNCF - List
 https://www.youtube.com/playlist?list=PLj6h78yzYM2PTPKqJROYgV3cTyHTH0_sV
 https://blog.alexellis.io/prometheus-monitoring/
     https://habr.com/company/otus/blog/358588/
+
+books
+2018
+Brazul - Prometheus up and Running
