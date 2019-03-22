@@ -925,3 +925,32 @@ Now it is a time to
          (l-1 Nat))
         (-> (mot-drop-last E l-1)
             (mot-drop-last E (add1 l-1)))))
+(define step-drop-last
+    (\ (E l-1)
+        (\ (drop-last_l-1)
+            (\ (es)
+                (vec:: (head es)
+                    (drop-last_l-1 (tail es)))))))
+
+This is the familiar pattern of induction:
+    step-drop-last
+transforms
+    drop-last
+that works for
+    (Vec E l-1)
+into a
+    drop-last
+that works for
+    (Vec E (add1 l-1))
+
+(define drop-last
+    (\ (E l)
+        (ind-Nat l
+            (mot-drop-last E)
+            (base-drop-last E)
+            (step-drop-last E))))
+
+
+## One piece at a time
+
+

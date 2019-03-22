@@ -16,6 +16,7 @@ Molina - Modern Python Standard Library Cookbook
 Beyder - Python Tricks
 Omondi - Python Fundamentals (too short and simple)
 Phillips - Python 3 OOP 3rd ed
+Bader - Python Tricks ru
 
 2017
 Rother - Pro Python Best Practices

@@ -4,6 +4,8 @@ https://msdn.microsoft.com/en-us/library/3bstk3k5(v=vs.140).aspx
 
 https://github.com/jeaye/stdman
 
+2016
+Zuev - Cpp Standard ru
 2015
 Olsson - Cpp14 Quick Syntax Reference 2nd ed
 2003

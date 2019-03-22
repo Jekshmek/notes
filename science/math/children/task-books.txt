@@ -43,7 +43,7 @@ Raihmist - Zadachnik po Matematike
 Gorbachev
     Combinatory - 183 - 475
         185 - 476
-        14.1-18
+        14.1-19
 
 Farkov
     5 class

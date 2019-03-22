@@ -52,6 +52,7 @@ Zlatopolsky
 2009
 Menshikov
     https://www.studmed.ru/menshikov-fv-olimpiadnye-zadachi-po-programmirovaniyu_f4c73bb8185.html
+    http://acmp.ru/article.asp?id_text=42627
 Haliulin - Informatics Olimpiads ru (too simple)
     https://www.studmed.ru/haliullin-rn-sopuev-a-olimpiady-po-informatike_1f1adeb0eaf.html
 Gustokashin - Olimpiad Informatics Lection Couse ru
