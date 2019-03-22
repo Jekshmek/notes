@@ -1,0 +1,5 @@
+https://github.com/hanickadot/compile-time-regular-expressions
+
+2018
+https://github.com/CppCon/CppCon2018/blob/master/Presentations/compile_time_regular_expressions/compile_time_regular_expressions__hana_dusikova__cppcon_2018.pdf
+    https://www.youtube.com/watch?v=QM3W36COnE4
