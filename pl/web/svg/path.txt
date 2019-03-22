@@ -1,5 +1,7 @@
 https://www.w3.org/TR/SVG11/paths.html
 
+2019
+https://www.smashingmagazine.com/2019/03/svg-circle-decomposition-paths/
 2018
 using svg path for motion/animation
     https://habr.com/post/432114/

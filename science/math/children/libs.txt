@@ -9,7 +9,7 @@ geom
 http://alleng.org/edu/math2.htm
     problems, ollymp
     http://alleng.org/d/math/math445.htm
-        shen, glefand
+        shen, gelfand
     http://alleng.org/d/math/math742.htm
         raihmist
     http://alleng.org/d/math/math1426.htm

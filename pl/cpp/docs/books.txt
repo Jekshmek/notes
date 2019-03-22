@@ -17,6 +17,7 @@ Spraul - Think Like a Programmer ru
 2017
 Rao - Teach Yourself Cpp 8th ed ru
 KonovaPollak - Cpp Algorithms 2nd ed ru
+Savitch - Problem Solving with Cpp 10th ed
 
 2016
 Meyers - Effective Modern Cpp ru
@@ -26,6 +27,8 @@ Vasiliev - Cpp Tutorial 4th ed ru
 2015
 Davis - Beginning Programming with Cpp for Dummies 2nd ed
 Prata - C Primer Plus 6th ed ru
+Klemens - 21st Century C ru
+    ! lots of technical stuff
 
 2014
 Lippman - Cpp Primer 5th ed ru
@@ -54,6 +57,11 @@ Kernighan - The C Programming Language 2nd ed ru
 
 2008
 Deitel - Cpp How to Program ru
+King - C Programming a Modern Approach 2nd ed
+    big, a lot of ex-s
+    b-ok 8DA872E974D71A3DA307F439DC269560
+    https://www.scribd.com/doc/39933932/C-Programming-a-Modern-Approach-2nd-Edition-K-N-King
+    https://cyber.rms.moe/books/01%20-%20Computer%20Science/C%20Programming%2C%20A%20Modern%20Approach%20-%20K.%20N.%20King.pdf
 
 2007
 BaturaBusko - Algorithmization and Programming Fundamentals C Language ru

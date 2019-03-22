@@ -5,5 +5,8 @@ Vandevoorde - Cpp Templates The Complete Guide 2nd ed
 VanVeert - Cpp Standard Library Quick Reference
 2010
 Musser - Cpp Programming with the STL 2nd ed ru
+2008
+Wilson - Extended STL vol1 Collections and Iterators ru
+    !
 2004
 Austern - Generic Programming and the STL ru

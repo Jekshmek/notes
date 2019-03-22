@@ -4,3 +4,6 @@ https://www.youtube.com/playlist?list=PLUfHxBkkFMScqPOn8J0aHvd48wykQNcWS
 2017
 Kleiner - Dynamic Programming
 https://www.youtube.com/playlist?list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ
+2008
+Kalinin - Dynamic Programming ru
+    https://acm.susu.ru/materials/05_dynprog.pdf

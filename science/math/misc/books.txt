@@ -21,3 +21,25 @@ Trigg - Mathematical Quickies ru
 Ostrovskiy - 75 Elementary Math Problems ru
 1962
 Rademaher - Numbers and Figures 3rd ed ru
+
+????
+Introduction to Calculus in EN
+    https://cyber.rms.moe/books/03%20-%20General%20Science/Introduction%20to%20Calculus.pdf
+Heinbockel - Introduction to Calculus
+    http://www.math.odu.edu/~jhh/Volume-1.PDF
+    http://www.math.odu.edu/~jhh/Volume-2.PDF
+Dawkins - Calculus 1
+    https://notendur.hi.is/adl2/CalcI_Complete.pdf
+2018
+Herman - Calculus vol1
+    https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf
+2012
+Bittlinger - Calculus and its Applications
+    https://www.sac.edu/FacultyStaff/HomePages/MajidKashi/PDF/MATH_150/Bus_Calculus.pdf
+    good typography and illustrations
+2008
+Crowell - Calculus with Analytic Geometry
+    https://math.dartmouth.edu/~doyle/docs/calc/calc.pdf
+1988
+    ThompsonGardner - Calculus Made Easy
+    https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/[Thompson,Gardner]Calculus%20Made%20Easy(1998).pdf

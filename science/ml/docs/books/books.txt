@@ -18,6 +18,7 @@ http://www.mmds.org/
 
 2019
 Porcu - Python for Data Mining (too short)
+Joshi - Artificial Intelligence with Python ru
 
 2018
 Albon - Machine Learning with Python Cookbook
@@ -60,6 +61,10 @@ https://vk.com/doc44301783_454908883
 2012
 Murphy - Machine Learning - A Probabilistic Perspective
     https://vk.com/doc182314867_482945784?hash=5efafc1730fe09e4c3
+
+2005
+Yasnitskiy - AI Intro 2nd ed ru
+    good review of classic approaches
 
 Statistics:
 Unpingco - Python for Probability, Statistics and Machine Learning

@@ -5,6 +5,9 @@ Omelchenko - Graph Theory ru
 Harary - Graph Tehory ru
 Kasyanov - Graphs in Programming ru
 
+2001
+Merris - Graph Theory
+
 2000
 Ore - Graphs and Their Uses ru
 

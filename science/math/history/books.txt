@@ -27,3 +27,6 @@ Depman - Tails about Problems Solving ru
 Depman - Tails about Mathematics ru
     https://www.studmed.ru/depman-iya-rasskazy-o-matematike_5613acf2538.html
 Depman - Measurements ru
+
+Spivak - enciklop
+http://www.kvant.info/panov/enciklop.pdf

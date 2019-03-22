@@ -1,0 +1,14 @@
+2014
+Cormen - Algorithms Unlocked ru
+    only 200 pages
+2013
+Cormen - Introduction to Algorithms 3rd ed ru
+    2nd
+    https://www.studmed.ru/tomas-k-charlz-l-algoritmy-postroenie-i-analiz_7b5e2180d66.html
+    https://www.studmed.ru/kormen-t-leyzerson-ch-rivest-r-shtayn-k-algoritmy_1e1c8e8ab4b.html
+    https://www.studmed.ru/kormen-th-leyzerson-chi-rivest-rl-shtayn-k-algoritmy-postroenie-i-analiz-2-e-izdanie_03f870120fa.html
+    1st
+    https://www.studmed.ru/kormen-t-leyzerson-ch-rivest-r-algoritmy-postroenie-i-analiz_ef7a66b3c55.html
+    https://www.studmed.ru/kormen-th-leyzerson-chi-rivest-rl-shtayn-k-algoritmy-postroenie-i-analiz-1-e-izdanie_d9925275af9.html
+1990
+Cormen - Algorithms ru
