@@ -27,6 +27,7 @@ Savitch - Problem Solving with Cpp 10th ed
 Meyers - Effective Modern Cpp ru
 McGrath - C Programming Easy Steps 4th ed ru
 Vasiliev - Cpp Tutorial 4th ed ru
+Stolyarov - Programming Intro vol2 Low-Level Programming ru
 
 2015
 Davis - Beginning Programming with Cpp for Dummies 2nd ed
@@ -42,6 +43,7 @@ Schildt - Cpp a Beginners Guide Step by Step ru
 Yurichev - Cpp Programming Language Notes ru
 Kalicharan - Advanced Topics in C
     ! mostly on data structures
+Rao - Teach Yourself Cpp in 21 Day 7th ed
 
 2012
 Dewhurst - Cpp Common Knowledge ru
