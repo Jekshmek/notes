@@ -49,6 +49,10 @@ Rao - Teach Yourself Cpp in 21 Day 7th ed
 Dewhurst - Cpp Common Knowledge ru
 Boswell - The Art of Readable Code ru
     tips
+Shaposhnikova - C Specifics ru
+    short
+Spraul - Think Like a Programmer
+    a lot of illustrations, covers both c and cpp
 
 2011
 Stroustrup - The Cpp Programming Language special ed ru

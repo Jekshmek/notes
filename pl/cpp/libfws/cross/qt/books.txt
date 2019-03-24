@@ -1,2 +1,3 @@
 2018
 Sherriff - Learn Qt 5
+Shlee - QT 5-10 Professional Cpp Programming ru

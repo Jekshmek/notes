@@ -1,6 +1,10 @@
 2018
 Omelchenko - Graph Theory ru
 
+2016
+Deo - Graph Theory with Applications to Engineering and Computer Science
+    lots of samples
+
 2003
 Harary - Graph Tehory ru
 Kasyanov - Graphs in Programming ru
