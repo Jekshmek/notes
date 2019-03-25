@@ -1,5 +1,6 @@
 2019
 Byars - Testing Microservices with Mountebank
-2018
 Richardson - Microservice Patterns
+Bruce - Microservices in Action
+2018
 Indrasiri - Microservices for the Enterprise

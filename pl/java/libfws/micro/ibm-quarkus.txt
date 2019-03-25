@@ -23,6 +23,8 @@ https://github.com/quarkusio/quarkus
 https://github.com/quarkusio/quarkus-quickstarts
 
 2019
+https://www.infoq.com/news/2019/03/redhat-release-quarkus
+https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/
 https://habr.com/ru/company/haulmont/blog/443242/
 Bien - Supersonic, Subatomic CDI and JAX-RS with quarkus.io
     https://www.youtube.com/watch?v=G0sQFy_5xQc

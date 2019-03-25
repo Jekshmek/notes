@@ -22,6 +22,8 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://overreacted.io/how-are-function-components-different-from-classes/
+    https://habr.com/ru/company/ruvds/blog/444348/
 https://parastudios.de/modern-and-clean-routing-with-hooks/
 https://www.sitepoint.com/react-hooks/
 https://upmostly.com/tutorials/form-validation-using-custom-react-hooks/

@@ -12,3 +12,6 @@ settings.json
   "rust": "if cd $dir && cargo run 2>/dev/null; then echo 'executed with cargo.'; else cd $dir && rustc $fileName && $dir$fileNameWithoutExt; fi",
 }
 Copy the user settings for "code-runner.executorMap" and update the "rust" attribute (other languages removed for clarity).
+
+2019
+https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/

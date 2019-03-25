@@ -19,6 +19,9 @@ Stanley - Enumerative Combinatorics vol2 ru
 Hu - Combinatorial Algorithms ru
 Sachkov - Discrete Math Combinatorial Methods Introduction ru
 
+2003
+Kohas - Castle Numbers and Polynoms ru
+
 2000
 Hohlov - Data Structures and Combinatorial Algorithms ru
 

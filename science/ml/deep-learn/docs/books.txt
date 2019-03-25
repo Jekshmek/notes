@@ -53,6 +53,7 @@ https://iamtrask.github.io/
 Sugomori - Deep Learning Essentials
 https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
 Chollet - Deep Learning with Python ru
+Michelucci - Applied Deep Learning
 
 2017
 Chollet - DeepLearning with Python

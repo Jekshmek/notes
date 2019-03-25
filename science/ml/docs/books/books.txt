@@ -52,6 +52,7 @@ Joshi - Artificial Intelligence with Python
 Grus - Data Science from Scratch ru
 Pierson - Data Science For Dummies 2nd ed
 Geron - Hands-On Machine Learning with Scikit-Learn and TensorFlow
+Bonaccorso - Machine Learning Algorithms
 
 2016
 Mueller - Machine Learning For Dummies

@@ -1,4 +1,5 @@
 2019
+https://www.telerik.com/blogs/vuex-the-deep-dive
 TraversyMedia - Vuex Crash Course | State Management
     https://www.youtube.com/watch?v=5lVQgZzLMHc
 https://medium.com/@KucherDev/vuex-%D1%8D%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-6807d9ad330d
