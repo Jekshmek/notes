@@ -14,10 +14,18 @@ AuthClient
 
 https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/client/package-summary.html
 
+    OAuth2RestTemplate
+    https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/client/OAuth2RestTemplate.html
+    https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/main/java/org/springframework/security/oauth2/client/OAuth2RestTemplate.java
+    https://stackoverflow.com/questions/27864295/how-to-use-oauth2resttemplate
+
 
 AuthProvider
 
 https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/provider/package-summary.html
+
+    CommonOAuth2Provider
+    https://github.com/spring-projects/spring-security/blob/master/config/src/main/java/org/springframework/security/config/oauth2/client/CommonOAuth2Provider.java
 
 config.annotation
 https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/security/oauth2/config/annotation/

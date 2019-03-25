@@ -7,7 +7,10 @@ https://www.baeldung.com/rest-api-spring-oauth2-angular
     AuthorizationServerConfigurerAdapter
     WebSecurityConfigurerAdapter
 2018
+https://www.baeldung.com/spring-security-oauth2-authentication-with-reddit
 https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
     https://github.com/adamzareba/company-structure-spring-security-oauth2-authorities
 https://www.infoq.com/presentations/oauth-2-spring-security-google
 https://blog.couchbase.com/spring-security-oauth2_authentication/
+2017
+http://www.littlebigextra.com/spring-boot-oauth2-tutorial-for-authorizing-through-facebook-google-linkedin-and-twitter/
