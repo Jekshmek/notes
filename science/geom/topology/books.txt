@@ -23,3 +23,5 @@ Engelking
 
 2016
 Skopenkov - Algebraic Topology from Geometry Point of View ru
+2010
+Edelsbrunner - Computational Topology an Introduction
