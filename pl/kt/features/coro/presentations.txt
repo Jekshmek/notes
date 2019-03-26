@@ -1,3 +1,6 @@
+2019
+Felix - Using Kotlin Coroutines for Asynchronous and Concurrent Programming
+    https://www.youtube.com/watch?v=zS5GLpgWNKQ
 2018
 Fresh Async with Kotlin
     https://files.gotocon.com/uploads/slides/conference_10/597/original/2018%20GOTOcph%20-%20Fresh%20Async%20with%20Kotlin.pdf

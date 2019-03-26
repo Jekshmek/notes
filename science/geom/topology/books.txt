@@ -1,5 +1,14 @@
 Ghrist - Elementary Applied Topology
-https://www.math.upenn.edu/~ghrist/notes.html
+    https://www.math.upenn.edu/~ghrist/notes.html
+
+Viro - Elementary Topology ru
+    http://www.pdmi.ras.ru/~olegviro/topoman/
+    http://www.pdmi.ras.ru/~olegviro/topoman/rus-book.pdf
+    https://dxdy.ru/topic24524.html
+
+????
+Podran - Elements of Topology ru
+    https://lanbook.com/catalog/matematika/elementy-topologii-33255706/
 
 Rohlin - nachalny curs topologii
     bary

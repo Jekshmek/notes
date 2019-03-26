@@ -1,3 +1,7 @@
+2018
+Klekovkin - Enumerable Combinatory Introduction 2nd ed ru
+    beginning of the book
+
 2016
 Stolyarov - Programming Intro vol1 ru
     p 108

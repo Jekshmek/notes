@@ -143,3 +143,14 @@ Marchenkov - 2016 - Konechnye Avtomaty
 Raizer - 1966 - Combinatory Math
 Riordan - Intro to Combinatory Analysis
 Anderson - Discrete Math and Combinatorics
+
+https://lanbook.com/catalog/matematika/sbornik-zadach-po-analiticheskoy-geometrii-9/
+https://lanbook.com/catalog/matematika/analiticheskaya-geometriya-51334606/
+https://lanbook.com/catalog/matematika/diskretnaya-matematika-grafy-matroidy-algoritmy-51332706/
+https://lanbook.com/catalog/matematika/uprazhneniya-po-teorii-grupp-48820506/
+https://lanbook.com/catalog/matematika/kurs-diskretnoj-matematiki-54493706/
+https://lanbook.com/catalog/matematika/vvedenie-v-algebru-gruppy-57581506/
+    9dd2e2322107d7964d0d8f3bbfb9d232
+https://lanbook.com/catalog/matematika/sbornik-zadach-po-diskretnoj-matematike-%28dlya-prakticheskih-zanyatij-v-gruppah%29-58760906/
+https://lanbook.com/catalog/matematika/osnovy-teorii-grupp-45731606/
+    3D602A72477FA1C5F54FAFA14A67C0F4

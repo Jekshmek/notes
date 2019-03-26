@@ -23,6 +23,7 @@ Rao - Teach Yourself Cpp 8th ed ru
 KonovaPollak - Cpp Algorithms 2nd ed ru
 Savitch - Problem Solving with Cpp 10th ed
 Koltsov - 100 C Samples ru
+Soldatenko - C Programming Fundamentals ru
 
 2016
 Meyers - Effective Modern Cpp ru
