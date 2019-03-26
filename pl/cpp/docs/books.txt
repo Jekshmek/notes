@@ -22,6 +22,7 @@ Spraul - Think Like a Programmer ru
 Rao - Teach Yourself Cpp 8th ed ru
 KonovaPollak - Cpp Algorithms 2nd ed ru
 Savitch - Problem Solving with Cpp 10th ed
+Koltsov - 100 C Samples ru
 
 2016
 Meyers - Effective Modern Cpp ru
@@ -64,6 +65,8 @@ Schildt - Cpp from the Ground Up 3rd ed ru
 
 2009
 Kernighan - The C Programming Language 2nd ed ru
+Kultin - Cpp in Problems and Samples 2nd ed ru
+    silly
 
 2008
 Deitel - Cpp How to Program ru

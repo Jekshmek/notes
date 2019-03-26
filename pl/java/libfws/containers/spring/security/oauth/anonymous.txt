@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/38104983/authentication-is-required-to-obtain-an-access-token-anonymous-not-allowed
+http://qaru.site/questions/5334259/spring-oauth2-login-anonymous-not-allowed

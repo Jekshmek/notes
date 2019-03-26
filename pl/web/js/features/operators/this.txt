@@ -1,4 +1,6 @@
 2018
+https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8
+    https://nuancesprog.ru/p/3291
 https://medium.com/webbdev/bind-18396622ddc4
 https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7
 https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/

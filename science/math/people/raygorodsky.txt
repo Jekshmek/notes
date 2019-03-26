@@ -10,5 +10,14 @@ GlibichukRaygorodsky - Discrete Math Elements in Problems ru
 Raygorodskiy - Probability Graph Models ru
     a lot of probability theory
 Raygorodskiy - Kneser Hypothesis and Topological Method in Combinatory ru
+2009
+Raygorodskiy - Common Representation Systems in Combinatorics and their Applications in Geometry ru
 2008
 Raygorodskiy - Probability and Algebra in Combinatorics ru
+2007
+Raygorodskiy - LinearAlgegraics Method in Combinatory ru
+2006
+Raygorodskiy - Borsuk Problem ru
+2003
+Raygorodskiy - Chromatic Numbers ru
+    for school

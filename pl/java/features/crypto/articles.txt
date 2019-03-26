@@ -1,5 +1,7 @@
 2019
 http://tutorials.jenkov.com/java-cryptography/index.html
+    https://habr.com/ru/post/445330/
+    https://habr.com/ru/post/445228/
     https://habr.com/ru/post/444974/
     https://habr.com/ru/post/444814/
     https://habr.com/ru/post/444764/
