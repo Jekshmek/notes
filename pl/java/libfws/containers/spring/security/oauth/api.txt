@@ -19,6 +19,9 @@ https://docs.spring.io/spring-security/oauth/apidocs/org/springframework/securit
     https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/main/java/org/springframework/security/oauth2/client/OAuth2RestTemplate.java
     https://stackoverflow.com/questions/27864295/how-to-use-oauth2resttemplate
 
+    grant types
+    org.springframework.security.oauth2.client.token.grant.code.AuthorizationCodeResourceDetails
+    org.springframework.security.oauth2.client.token.grant.client.ClientCredentialsResourceDetails;
 
 AuthProvider
 
