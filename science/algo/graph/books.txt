@@ -1,5 +1,6 @@
 2018
 Omelchenko - Graph Theory ru
+    ! SPbAU
 
 2016
 Deo - Graph Theory with Applications to Engineering and Computer Science
