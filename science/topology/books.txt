@@ -34,6 +34,8 @@ Engelking
 Skopenkov - Algebraic Topology from Geometry Point of View ru
 2015
 Radyno - Elements of Common Topology ru
+2014
+Prasolov - Elements of Combinatorial and Differential Topology 2nd ed ru
 2010
 Edelsbrunner - Computational Topology an Introduction
 1969

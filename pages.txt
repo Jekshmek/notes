@@ -1,13 +1,10 @@
 URLs
 https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
 http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
-https://habr.com/ru/company/jugru/blog/444212/
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
 https://www.euclidea.xyz/ru/
 
-https://ru-bykov.livejournal.com/3795661.html
-    3
 https://www.mccme.ru/free-books/pdf/alfutova.pdf
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
@@ -25,7 +22,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Mar 25
+    Mar 27
 
 track
 scoop extras - a
@@ -122,9 +119,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 523.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1049.0 (of 1388)
-Shalyto - motivation                                - 173   (of  873)
+Shalyto - motivation                                - 175   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 182..184 (of  375..418)
+The Little Typer - 3                                - 186..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
