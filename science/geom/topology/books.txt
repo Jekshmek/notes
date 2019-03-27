@@ -32,5 +32,11 @@ Engelking
 
 2016
 Skopenkov - Algebraic Topology from Geometry Point of View ru
+2015
+Radyno - Elements of Common Topology ru
 2010
 Edelsbrunner - Computational Topology an Introduction
+1969
+FuxFomenkoGutenmaher - Homotopy Topology ru
+    42F08F370CF8BAD88DC540B95C6D03B0
+    A6D94EE4EE29FFDF1BE7478459DEFB37

@@ -3,6 +3,9 @@ https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
 2019
+https://krasserm.github.io/2019/03/14/bayesian-neural-networks/
+    https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/bayesian_neural_networks.ipynb
+    https://github.com/krasserm/bayesian-machine-learning
 https://medium.com/neuralspace/bayesian-neural-network-series-post-2-background-knowledge-fdec6ac62d43
 https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2
 https://towardsdatascience.com/taming-false-discoveries-with-empirical-bayes-2ce81aa8f407

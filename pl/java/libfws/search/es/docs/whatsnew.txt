@@ -1,0 +1,4 @@
+2019
+https://www.elastic.co/blog/elastic-stack-6-7-0-released
+    https://www.elastic.co/blog/elasticsearch-6-7-0-released
+    https://www.elastic.co/blog/kibana-6-7-0-released

@@ -16,6 +16,10 @@ RasolkoKremen - Pascal Programming Practice ru
 2014
 Kruse - Data Structures and Program Design 3rd ed ru
 
+2013
+Zyuzkov - Programming ru
+    !
+
 2009
 zubkov
     https://books.ifmo.ru/file/pdf/603.pdf
