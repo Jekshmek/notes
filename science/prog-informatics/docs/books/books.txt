@@ -15,10 +15,10 @@ Laaksonen - Olympiad Programming
     https://oz.by/books/more10778997.html
     https://www.labirint.ru/books/649871/
     https://www.ozon.ru/context/detail/id/146462877/
-
-2014
-BigData Program
-http://elib.bsu.by/bitstream/123456789/210841/1/%d0%9f%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b0_%d0%b1%d0%b0%d0%b7_2014_%d0%a1%d0%be%d0%b2%d1%80.%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b%20%d1%80%d0%b0%d0%b7%d1%80.%d1%8d%d1%84.%d0%b0%d0%bb%d0%b3%20%d0%90%d0%a1%d0%9e%d0%91%d0%9e%d0%98.pdf
+Derevenets - Pesni o Pascale
+    http://oleg.derevenets.com/
+    http://oleg.derevenets.com/Page04.html
+    http://oleg.derevenets.com/Files/Songs/Pesni_o_Paskale_12-11_2018-02-09.pdf
 
 2017
 Kotov - Algorithms Theory Problems Book
@@ -27,11 +27,21 @@ http://elib.bsu.by/bitstream/123456789/181529/1/Kotov.pdf
     !!!
 Arlazarov - Sport Programming ru
 http://olymp.misis.ru/Portals/45/Documents/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%202017.pdf
+Menshikov - Java Olimpiad Programming
+    https://vk.com/ol_prog_0
+    https://www.youtube.com/channel/UCwZIfY8SZvct6_nYkjmODrg
+
+2014
+BigData Program
+http://elib.bsu.by/bitstream/123456789/210841/1/%d0%9f%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b0_%d0%b1%d0%b0%d0%b7_2014_%d0%a1%d0%be%d0%b2%d1%80.%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b%20%d1%80%d0%b0%d0%b7%d1%80.%d1%8d%d1%84.%d0%b0%d0%bb%d0%b3%20%d0%90%d0%a1%d0%9e%d0%91%d0%9e%d0%98.pdf
+Demidenko Kormyshov - Sport Programmer Reference ru
+    https://vk.com/topic-57951380_30084443
 
 2013
 Halim - Competitive Programming 3rd ed ru
     EABCCEC887295E5DA350302DECA61D7C
     F6F195012783A8B3C8BB7628882A51B7
+
 
 2012
 AlexeevTalanov - Graphs and Algorithms ru
@@ -69,6 +79,8 @@ Krasikov - Algorithms Simple as 2x2 ru
     https://www.studmed.ru/krasikov-iv-krasikova-ie-algoritmy-kak-22_1c4139d7d67.html
 
 2006
+Anany Levitin
+    https://www.ozon.ru/context/detail/id/2963462/
 Zlatopolsky - Recurrence Relations
 D032EAD3F8B8BB93C3A21F2A617411CF
 Melnikov - Olimpiad Programming Problems ru

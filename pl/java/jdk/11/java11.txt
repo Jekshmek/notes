@@ -18,6 +18,9 @@ https://medium.com/criciumadev/its-time-migrating-to-java-11-5eb3868354f9
 https://dzone.com/articles/getting-ready-for-java-11
 http://marxsoftware.blogspot.com/2018/07/new-jdk-11-string-methods.html
 
+var
+https://dzone.com/articles/var-and-language-design-in-java
+
 amber
 https://dzone.com/articles/what-is-project-amber-in-java
 

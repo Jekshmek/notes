@@ -1,2 +1,4 @@
 2019
+https://reflectoring.io/spring-boot-configuration-properties/
+    https://github.com/thombergs/code-examples/tree/master/spring-boot/configuration
 http://dolszewski.com/spring/spring-boot-application-properties-file/

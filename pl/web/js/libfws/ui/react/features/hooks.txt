@@ -28,6 +28,7 @@ https://parastudios.de/modern-and-clean-routing-with-hooks/
 https://www.sitepoint.com/react-hooks/
 https://upmostly.com/tutorials/form-validation-using-custom-react-hooks/
 https://overreacted.io/a-complete-guide-to-useeffect/
+    https://habr.com/ru/company/ruvds/blog/445276/
 https://habr.com/ru/post/443488/
 https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
     https://nuancesprog.ru/p/3205

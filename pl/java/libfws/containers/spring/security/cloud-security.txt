@@ -1,0 +1,2 @@
+https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-security
+https://github.com/spring-cloud/spring-cloud-security

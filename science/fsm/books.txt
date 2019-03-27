@@ -5,6 +5,8 @@ http://is.ifmo.ru/automata/
 Gale - Machines and Their Languages (short and good)
     https://www.dcs.warwick.ac.uk/michael_gale/publications/2013-01-14-machines-and-their-languages.html
 Ozhiganov - Automata Theory ru
+    https://books.ifmo.ru/file/pdf/1013.pdf
+        87 pages
 2011
 PolikarpovaShalyto - Automata Programming 2nd ed ru
 Shalyto - Automata Programs Verification ru

@@ -1,4 +1,6 @@
 2019
+https://blog.codefx.org/java/java-12-guide/
+https://blog.joda.org/2018/10/adopt-java-12-or-stick-on-11.html
 https://blogs.oracle.com/java-platform-group/the-arrival-of-java-12
     https://www.infoq.com/news/2019/03/java12-released
     http://www.opennet.ru/opennews/art.shtml?num=50356
