@@ -10,6 +10,7 @@ Bae - JavaScript Data Structures and Algorithms
 2018
 Morgan - Simplifying JavaScript
 Heverbeke - Eloquent JavaScript 3rd ed
+Aravinth - Beginning Functional JavaScript 2nd ed
 2017
 Kaskiaro - NodeJS Design Patterns 2nd ed ru
 DeSouzaOliveira - Mastering Reactive JavaScript

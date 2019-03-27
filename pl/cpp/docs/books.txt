@@ -24,6 +24,7 @@ KonovaPollak - Cpp Algorithms 2nd ed ru
 Savitch - Problem Solving with Cpp 10th ed
 Koltsov - 100 C Samples ru
 Soldatenko - C Programming Fundamentals ru
+Armstrong - Cpp for Financial Mathematics
 
 2016
 Meyers - Effective Modern Cpp ru
@@ -60,6 +61,8 @@ Spraul - Think Like a Programmer
 Stroustrup - The Cpp Programming Language special ed ru
 Prata - Cpp Primer Plus 6th ed
     ! good illustrations
+Thareja - Data Structures Using C 2nd ed
+    !
 
 2010
 Schildt - Cpp from the Ground Up 3rd ed ru
@@ -90,6 +93,7 @@ Dewhurst - Cpp Gotchas ru
 Dinman - Master Cpp by Examples ru
 Prinz - C in a Nutshel
     ?! good and fundamental
+Pavlovskaya - Cpp OOP Praktikum ru
 
 2005
 Sutter - Exceptional Cpp ru
@@ -109,6 +113,7 @@ Krupnik - Learn Cpp ru
 
 2003
 Averkin - Cpp Programming ru
+Carrano - Data Abstractions and Problems Solving with Cpp - Walls and Mirrors 3rd ed ru
 
 2002
 Sutter - Exceptional Cpp ru
