@@ -1,4 +1,7 @@
+2019
+https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
 2018
+https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/
 https://bartoszmilewski.com/2018/12/11/keep-it-simplex-stupid/
 https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/
 https://bartoszmilewski.com/2018/07/30/free-monoid-from-free-algebra-part-1/

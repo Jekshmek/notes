@@ -1,5 +1,8 @@
 https://kotlinlang.org/docs/reference/generics.html
 
+2019
+https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/
+
 2018
 https://typealias.com/guides/ins-and-outs-of-generic-variance/
 

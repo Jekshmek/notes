@@ -9,6 +9,10 @@ Mihailescu - Practical Concurrent Haskell
 2016
 Thomasson - Haskell High Performance Programming
 Hutton - Programming in Haskell 2nd ed
+Shevchenko - About Haskell for Humans ru
+    https://www.ohaskell.guide/
+    https://github.com/denisshevchenko/ohaskell.guide
+    https://www.ohaskell.guide/pdf/ohaskell.pdf
 2015
 Bird - Thinking Functionally with Haskell
 2013

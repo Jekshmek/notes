@@ -1,3 +1,0 @@
-Klock - 2016 - Subtyping in Rust
-http://pnkfx.org/presentations/rustfest-berlin-2016/slides.html
-https://www.youtube.com/watch?v=fI4RG_uq-WU

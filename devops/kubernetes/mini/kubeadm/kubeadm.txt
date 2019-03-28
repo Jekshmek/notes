@@ -4,6 +4,10 @@ https://kubernetes.io/docs/setup/independent/troubleshooting-kubeadm/
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/
 
+docs
+https://github.com/kubernetes/website/tree/master/content/en/docs/reference/setup-tools/kubeadm
+https://github.com/kubernetes/website/tree/master/content/en/docs/setup/independent
+
 2017
 https://kubernetes.io/blog/2017/01/stronger-foundation-for-creating-and-managing-kubernetes-clusters/
 
