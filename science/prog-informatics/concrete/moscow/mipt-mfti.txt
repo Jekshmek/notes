@@ -39,3 +39,9 @@ https://lectoriy.mipt.ru/course/?category=ComputerTechnology
     https://lectoriy.mipt.ru/course/Technotrack-Java_development
     Elements of Set Theory
     https://lectoriy.mipt.ru/course/AXSETTH#lectures
+
+
+https://mipt.ru/diht/students/courses.php
+https://mipt.ru/diht/students/courses/combinatorics_and_number_theory.pdf
+https://mipt.ru/diht/students/courses/group_theory.pdf
+https://mipt.ru/education/chairs/programmingtechnolgy/education/courses/

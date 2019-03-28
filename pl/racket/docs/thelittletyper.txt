@@ -954,3 +954,29 @@ that works for
 ## One piece at a time
 
 ### 8. Peak a Number, any Number
+
+(claim incr
+    (-> Nat
+        Nat))
+(define incr
+    (\ (n)
+        (iter-Nat n
+            1
+            (+ 1))))
+
+Note: both
+    (+ 1) and incr
+find the same answer,
+no matter what the argument is
+
+BTW, they are not the same because have distinct normal forms
+NF of (+ 1) is
+    (\ (n)
+        (add1 n))
+NF of incr is
+    (\ (n)
+        (iter-Nat n
+            1
+            (\ (j)
+                (add1 j))))
+

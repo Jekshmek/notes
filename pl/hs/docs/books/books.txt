@@ -19,3 +19,7 @@ Bird - Thinking Functionally with Haskell
 Marlow - Parallel and Concurrent Programming in Haskell
 1998
 Bird - Introduction To Functional Programming Using Haskell 2nd ed
+
+????
+Kubenskiy - Functional Programming ru
+https://books.ifmo.ru/file/pdf/702.pdf

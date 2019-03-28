@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=q_EB9U2yBss
 
 2016
 Ivanov - Geometry and Topology (38 lec + 40 lec)
-https://www.lektorium.tv/course/27206
-https://www.lektorium.tv/course/28797
-https://www.youtube.com/watch?v=lX-WNl3CioM
+    https://www.lektorium.tv/course/27206
+    https://www.lektorium.tv/course/28797
+    https://www.youtube.com/watch?v=lX-WNl3CioM
+MIPT - Shlykov
+    https://mipt.ru/diht/students/courses/topology.pdf
+    https://github.com/eshlykov/topology-notes
+
+2015
+http://lnmo.ru/wp-content/uploads/2015/02/novikov.project_file.pdf

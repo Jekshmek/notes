@@ -1,1 +1,6 @@
+https://direnv.net/
 https://github.com/direnv/direnv
+
+2019
+https://www.tweag.io/posts/2019-03-28-introducing-lorri.html
+    https://github.com/target/lorri#tutorial
