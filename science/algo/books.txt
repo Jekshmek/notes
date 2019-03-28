@@ -37,6 +37,10 @@ Polyakov - Algorithm Theory Fundamentals ru
 Skiena - The Algorithms Design Manual 2nd ed ru
     https://www.studmed.ru/skiena-s-algoritmy-rukovodstvo-po-razrabotke_9c6a9a5a6c1.html
 
+2010
+Gromkovich - Theoretical Informatics ru
+    https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teoriyu-avtomatov-teoriyu-vychislimosti-teoriyu-slozhnosti-teoriyu-algoritmov-randomizaciyu-teoriyu-svyazi-i-kriptografiyu_b1fc42304dc.html
+
 2008
 Kao - Encyclopedia of Algorithms
     https://www.studmed.ru/kao-m-y-ed-encyclopedia-of-algorithms_e3b605f59dc.html

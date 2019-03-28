@@ -63,7 +63,7 @@ Kukin - 1994                                        -   04:00 (of 2:12:31)
 Platoshkin - ?
 
 Lit
-Bykov - Tolstoy                                     -   52:00 (of 1:27:22)
+Bykov - Tolstoy                                     - 1:00:00 (of 1:27:22)
     https://www.youtube.com/watch?v=7RYt_Ckuw8c
 Mashevsky - I - 2                                   -   43:00 (of 1:56:42)
     https://www.youtube.com/watch?v=sget6unxXEI
@@ -81,7 +81,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 11                                      -   00:00 (of)
+Sorokin - I 12                                      -   00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -93,7 +93,8 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
 
 Tracking
 This week in rust                                   - 279
-Razbor Poletov                                      - 194 1:22:00 (of 2:26:53)
+Razbor Poletov                                      - 194 1:42:00 (of 2:26:53)
+    https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
     https://razborpoletov.com/2019/03/episode-201
     https://razborpoletov.com/2019/02/episode-200
@@ -136,11 +137,22 @@ clear at D:/Temp
     jna*.dll
     snappy*
 
-Kudryavtsev - 2017 - Teoriya Avtomatov
 Marchenkov - 2016 - Konechnye Avtomaty
 Raizer - 1966 - Combinatory Math
 Riordan - Intro to Combinatory Analysis
 Anderson - Discrete Math and Combinatorics
+
+Potopahin
+    https://avidreaders.ru/book/iskusstvo-poiska-resheniya-v-nestandartnoy-zadache.html
+    https://avidreaders.ru/book/yazyk-c-osvoy-na-primerah.html
+    https://avidreaders.ru/book/sovremennoe-programmirovanie-s-nulya-cd.html
+Misc
+    https://avidreaders.ru/book/programmirovanie-na-c-tryuki-i-effekty.html
+    https://avidreaders.ru/book/c-c-strukturnoe-i-obektno-orientirovannoe.html
+    https://avidreaders.ru/book/bystroe-programmirovanie-na-s.html
+    https://avidreaders.ru/book/vvedenie-v-nadezhnoe-i-bezopasnoe-raspredelennoe.html
+    https://avidreaders.ru/book/sozdanie-i-obrabotka-struktur-dannyh-v.html
+    https://avidreaders.ru/book/konec-holivara-pascal-vs-c.html
 
 https://lanbook.com/catalog/matematika/sbornik-zadach-po-analiticheskoy-geometrii-9/
 https://lanbook.com/catalog/matematika/analiticheskaya-geometriya-51334606/
@@ -152,8 +164,6 @@ https://lanbook.com/catalog/matematika/vvedenie-v-algebru-gruppy-57581506/
 https://lanbook.com/catalog/matematika/sbornik-zadach-po-diskretnoj-matematike-%28dlya-prakticheskih-zanyatij-v-gruppah%29-58760906/
 https://lanbook.com/catalog/matematika/osnovy-teorii-grupp-45731606/
     3D602A72477FA1C5F54FAFA14A67C0F4
-
-https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teoriyu-avtomatov-teoriyu-vychislimosti-teoriyu-slozhnosti-teoriyu-algoritmov-randomizaciyu-teoriyu-svyazi-i-kriptografiyu_b1fc42304dc.html
 
 SUNTS NGU (Novosibirsc) summer school?
 https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities

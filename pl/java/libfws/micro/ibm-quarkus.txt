@@ -28,3 +28,5 @@ https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes
 https://habr.com/ru/company/haulmont/blog/443242/
 Bien - Supersonic, Subatomic CDI and JAX-RS with quarkus.io
     https://www.youtube.com/watch?v=G0sQFy_5xQc
+Bien - Native JAX-RS / CDI Executables
+    https://www.youtube.com/watch?v=yv74VpKM7co
