@@ -155,3 +155,11 @@ https://www.studmed.ru/gromkovich-yu-teoreticheskaya-informatika-vvedenie-v-teor
 
 SUNTS NGU (Novosibirsc) summer school?
 https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
+
+http://algolist.manual.ru/ds/btree.php
+
+LF ds
+https://habr.com/ru/post/251267/
+https://habr.com/ru/post/250815/
+https://habr.com/ru/post/250523/
+https://habr.com/ru/post/250383/
