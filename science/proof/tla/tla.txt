@@ -1,5 +1,9 @@
+https://lamport.azurewebsites.net/tla/tla.html
 https://www.learntla.com
 https://github.com/hwayne/learntla
+
+wiki
+https://ru.wikipedia.org/wiki/TLA%E2%81%BA
 
 pluscal
 https://www.learntla.com/pluscal/
@@ -14,3 +18,13 @@ http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/
 books
 2018
 Wayne - Practical TLAPlus
+
+courses
+2019
+http://lamport.azurewebsites.net/video/videos.html
+    https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD
+
+presentations
+2014
+Leslie Lamport - Thinking Above the Code
+    https://www.youtube.com/watch?v=-4Yp3j_jk8Q

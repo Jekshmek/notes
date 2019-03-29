@@ -4,5 +4,7 @@ KolmogorovFomin - Elements of Functions Theory and Functional Analysis ru
 Spivak - Math Analysis on Manifolds ru
     https://lanbook.com/catalog/matematika/matematicheskij-analiz-na-mnogoobraziyah-5235206/
     4DF41F96511DF15C01636EC4EFA24758
+Besov - Math Analysis Lections Course ru
+    A1FA21AB30E0A3812A4ADD6592797099
 1957
 Hinchin - Short Math Analysis Course 3rd ed ru

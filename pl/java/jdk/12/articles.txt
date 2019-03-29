@@ -1,4 +1,5 @@
 2019
+https://proglib.io/p/java-12-new-features/
 https://blog.codefx.org/java/java-12-guide/
 https://blog.joda.org/2018/10/adopt-java-12-or-stick-on-11.html
 https://blogs.oracle.com/java-platform-group/the-arrival-of-java-12

@@ -12,6 +12,7 @@ Raygorodskiy - Probability Graph Models ru
 Raygorodskiy - Kneser Hypothesis and Topological Method in Combinatory ru
 2009
 Raygorodskiy - Common Representation Systems in Combinatorics and their Applications in Geometry ru
+Raygorodskiy - Dancer-Gryunbaum Triangles ru
 2008
 Raygorodskiy - Probability and Algebra in Combinatorics ru
 2007

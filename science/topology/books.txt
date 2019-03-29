@@ -38,6 +38,10 @@ Radyno - Elements of Common Topology ru
 Prasolov - Elements of Combinatorial and Differential Topology 2nd ed ru
 2010
 Edelsbrunner - Computational Topology an Introduction
+2005
+Vick - Homology Theory 2nd ed ru
+1997
+RohlinFux - Beginning Topology Course ru
 1969
 FuxFomenkoGutenmaher - Homotopy Topology ru
     42F08F370CF8BAD88DC540B95C6D03B0

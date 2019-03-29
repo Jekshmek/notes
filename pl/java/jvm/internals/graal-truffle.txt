@@ -52,6 +52,8 @@ https://github.com/graalvm/graal-core/blob/master/docs/Publications.md
 http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html
 
 articles
+2019
+https://habr.com/ru/post/445978/
 2018
 https://medium.com/graalvm/graalvm-ten-things-12d9111f307d
     https://habr.com/company/haulmont/blog/433432/

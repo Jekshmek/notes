@@ -1,3 +1,7 @@
+Tanenbaum
+https://www.amazon.com/exec/obidos/tg/detail/-/0130888931/qid=1124739041/sr=2-1/ref=pd_bbs_b_2_1/103-3108245-5978219
+https://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275/ref=pd_bbs_sr_2/105-3116104-4430016
+
 https://landing.google.com/sre/book/index.html
 Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed
 Fokkink - Distributed Algorithms - Intuitive Approach
