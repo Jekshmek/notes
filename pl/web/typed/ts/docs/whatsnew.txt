@@ -1,5 +1,9 @@
 https://github.com/Microsoft/TypeScript/wiki/Roadmap
 
+3.4
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/
+    https://www.infoq.com/news/2019/03/typescript-3-4-release
+
 3.3
 https://www.infoq.com/news/2019/02/typescript-3-3-release
 

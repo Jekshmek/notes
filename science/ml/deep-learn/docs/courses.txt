@@ -23,7 +23,7 @@ https://stanford.edu/~shervine/teaching/cs-229.html
 MyCS - Deep Learning Full Course
     https://www.youtube.com/playlist?list=PLqrmzsjOpq5jctokAY61zrLxlE6Ub4tW_
 Simon Kozlov - Deep Learning Course ru
-https://www.youtube.com/playlist?list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
+    https://www.youtube.com/playlist?list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
     https://habr.com/post/414165/
 CMU 11-785
 http://deeplearning.cs.cmu.edu/
@@ -38,17 +38,17 @@ MFTI - Deep Learning School
     https://github.com/DLSchool/dlschool
     https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ/videos
     https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A/playlists
-MFTI - Deep Learning School
-https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S
-https://selfdrivingcars.mit.edu/
-https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
+MIPT-MFTI - Deep Learning School
+    https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S
+    https://selfdrivingcars.mit.edu/
+    https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 Berkley - misc
-https://github.com/mlberkeley/Machine-Learning-Decal-Spring-2018
-https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg/playlists
+    https://github.com/mlberkeley/Machine-Learning-Decal-Spring-2018
+    https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg/playlists
 MIT 6.S191
-http://introtodeeplearning.com/
-https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-https://www.youtube.com/playlist?list=PLBAGcD3siRDhWZhNJvhhSVxm8Zppaq56G
+    http://introtodeeplearning.com/
+    https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+    https://www.youtube.com/playlist?list=PLBAGcD3siRDhWZhNJvhhSVxm8Zppaq56G
 
 2017
 Jay - Deep Learning Concepts
@@ -101,8 +101,8 @@ https://github.com/aamini/introtodeeplearning_labs
 
 2016
 Sozykin - Deep Neural Networks in Python
-http://www.asozykin.ru/courses/nnpython
-https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_
+    http://www.asozykin.ru/courses/nnpython
+    https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_
 ???
 https://compsciclub.ru/courses/deep-learning/2016-summer/classes/
 

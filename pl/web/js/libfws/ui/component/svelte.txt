@@ -11,6 +11,9 @@ https://github.com/sveltejs/svelte-loader
 rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
+2019
+https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
+    https://habr.com/ru/post/446026/
 2018
 https://habr.com/post/418679/
 https://habr.com/post/417747/
