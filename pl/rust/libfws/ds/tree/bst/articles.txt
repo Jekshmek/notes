@@ -1,0 +1,4 @@
+https://github.com/AbrarNitk/algorithmica/blob/master/src/tree/bst.rs
+
+2019
+https://medium.com/@abrar.nitk/rust-binary-search-tree-149969b87f72

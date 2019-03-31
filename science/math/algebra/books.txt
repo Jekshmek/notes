@@ -4,3 +4,9 @@ https://web.stanford.edu/~boyd/vmls/
 https://web.stanford.edu/~boyd/vmls/vmls.pdf
 https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf
 http://stanford.edu/class/ee103/103exercises.pdf
+
+2009
+Chulkov - Arithmetical Problems ru
+
+2002
+BoltyanskiyVilenkin - Simmetry in Algebra 2nd ed ru

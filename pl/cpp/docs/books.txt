@@ -2,6 +2,7 @@ Cpp Notes for Professionals
     http://goalkicker.com/CPlusPlusBook/
 
 2018
+Stroustrup - A Tour of Cpp 2nd ed
 Stolyarov - Cpp Intorudction 4th ed ru
     ! unusual author's position
     http://www.stolyarov.info/books/cppintro
