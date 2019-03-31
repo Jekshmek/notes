@@ -2,4 +2,6 @@ https://scalaz.github.io/scalaz-zio/
 https://github.com/scalaz/scalaz-zio
 
 2019
+John A. De Goes at #ScalaUA - Thinking Functionally
+    https://www.youtube.com/watch?v=-KA3BSdqYug
 http://degoes.net/articles/zio-environment

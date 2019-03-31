@@ -9,6 +9,9 @@ https://github.com/dotty-staging/dotty/blob/add-transparent/docs/docs/typelevel.
 https://habrahabr.ru/post/330112/
 
 presentations
+2019
+Yuriy Vishnevskyi at #ScalaUA - Deriving a Functor in Dotty
+    https://www.youtube.com/watch?v=kyWg70EyL_c
 2017
 Petrashko - Dotty is coming
-https://www.youtube.com/watch?v=APUmcQM1IpU
+    https://www.youtube.com/watch?v=APUmcQM1IpU

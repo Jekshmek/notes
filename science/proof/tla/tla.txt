@@ -1,9 +1,19 @@
 https://lamport.azurewebsites.net/tla/tla.html
+
+http://lamport.azurewebsites.net/tla/tlc.html
+https://github.com/tlaplus/tlaplus
+
 https://www.learntla.com
 https://github.com/hwayne/learntla
 
 wiki
+https://en.wikipedia.org/wiki/TLA%2B
 https://ru.wikipedia.org/wiki/TLA%E2%81%BA
+
+tools
+http://lamport.azurewebsites.net/tla/tools.html
+TLA toolbox
+http://lamport.azurewebsites.net/tla/toolbox.html
 
 pluscal
 https://www.learntla.com/pluscal/
@@ -16,6 +26,8 @@ samples
 http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/
 
 books
+http://lamport.azurewebsites.net/tla/book.html
+http://lamport.azurewebsites.net/tla/book-02-08-08.pdf
 2018
 Wayne - Practical TLAPlus
 
@@ -25,6 +37,11 @@ http://lamport.azurewebsites.net/video/videos.html
     https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD
 
 presentations
+2019
+Pawel Szulc - Formal verification applied (with TLA+)
+    https://www.youtube.com/watch?v=l9XZYI3jta0
+Paweł Szulc at #ScalaUA - Formal specification applied (with TLA+) (remote session)
+    https://www.youtube.com/watch?v=g3J5EGugdKE
 2014
 Leslie Lamport - Thinking Above the Code
     https://www.youtube.com/watch?v=-4Yp3j_jk8Q
