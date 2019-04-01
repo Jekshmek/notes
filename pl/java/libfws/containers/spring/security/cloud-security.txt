@@ -1,2 +1,5 @@
 https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-security
 https://github.com/spring-cloud/spring-cloud-security
+
+src
+https://github.com/spring-cloud/spring-cloud-security/blob/master/spring-cloud-security/src/main/java/org/springframework/cloud/security/oauth2/client/feign/OAuth2FeignRequestInterceptor.java
