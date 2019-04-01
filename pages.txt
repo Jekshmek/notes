@@ -22,7 +22,7 @@ https://vk.com/mccme
     2014-Feb-6
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Mar 31
+    Apr 1
 
 track
 scoop extras - a
@@ -119,10 +119,10 @@ OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 523.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1049.0 (of 1388)
-Shalyto - motivation                                - 177   (of  873)
+Kantor - Medlennye Chelyusti Demokratii             - 1056.0 (of 1388)
+Shalyto - motivation                                - 179   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 188..210 (of  375..418)
+The Little Typer - 3                                - 190..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -165,3 +165,15 @@ https://habr.com/ru/post/251267/
 https://habr.com/ru/post/250815/
 https://habr.com/ru/post/250523/
 https://habr.com/ru/post/250383/
+
+Math Olimp Need
+https://uchitel.by/catalog/book/1220086
+Geom Need
+https://uchitel.by/catalog/uchebniki-osnovnye-16449
+Pogorelov
+https://uchitel.by/catalog/book/288737
+Atanasyan
+https://uchitel.by/catalog/book/365997
+    A233EEDB4C6E756AFA0EA4F680552C66
+Sharygin
+https://uchitel.by/catalog/book/233809

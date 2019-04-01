@@ -1,0 +1,6 @@
+https://crates.io/crates/mockito
+https://docs.rs/mockito
+https://github.com/lipanski/mockito
+
+2019
+https://klausi.github.io/rustnish/2019/03/31/mocking-in-rust-with-conditional-compilation.html

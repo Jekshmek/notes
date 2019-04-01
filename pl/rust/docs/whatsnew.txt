@@ -1,3 +1,6 @@
+2019
+http://antoyo.ml/future-of-rust
+
 https://blog.rust-lang.org/2019/02/28/Rust-1.33.0.html
     https://habr.com/ru/post/442244/
     http://www.opennet.ru/opennews/art.shtml?num=50235

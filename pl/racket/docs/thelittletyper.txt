@@ -980,3 +980,13 @@ NF of incr is
             (\ (j)
                 (add1 j))))
 
+! The Law of =
+An expression
+    (= X from to)
+is a type if X is a type, [from] is an X, and [to] is an X.
+
+! Reading from and to as Nouns
+Because [from] and [to] are convenient names, the corresponding parts of an =-expression
+are referred to as the FROM and the TWO.
+
+

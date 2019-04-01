@@ -1,3 +1,7 @@
+http://codeforces.com/blog/entry/59129
+Lecomte - 2018 - Handbook of Geometry for Competitive Programmers
+    https://vlecomte.github.io/cp-geo.pdf
+
 2002
 AndreevaEgorov - Computational Geometry ru
     https://www.studmed.ru/andreeva-ev-egorov-yue-vychislitelnaya-geometriya-na-ploskosti_ae86dffd59e.html

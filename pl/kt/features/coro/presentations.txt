@@ -1,4 +1,6 @@
 2019
+Marcin Moskała - Understanding Kotlin Coroutines
+    https://www.youtube.com/watch?v=DOoJnJJnAG4
 Felix - Using Kotlin Coroutines for Asynchronous and Concurrent Programming
     https://www.youtube.com/watch?v=zS5GLpgWNKQ
 2018
