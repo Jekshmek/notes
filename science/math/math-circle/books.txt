@@ -10,6 +10,7 @@ Blinkov - Inscribed Angles ru
 Blinkov - Geometry Construction Problems ru
 Blinkov - Geometry in Nongeometric Problems ru
 Blinkov - Classic Means in Arithmetics And Geomertry ru
+Knop - Weightnings And Algorithms 5th ed ru
 
 2015
 KorobitsynZhukov - Math Circle 5class ru
@@ -22,6 +23,9 @@ Spivak - Math Circles 6-7 class ru
 
 2009
 Chulkov - Arithmetical Problems ru
+
+2004
+Gurovits - Graphs 4th ed ru
 
 2001
 Spivak - Math Circle 7class ru

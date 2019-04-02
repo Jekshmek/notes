@@ -1,4 +1,6 @@
 URLs
+https://ru-bykov.livejournal.com/3809289.html
+    2
 https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
 http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
@@ -120,7 +122,7 @@ Zhitinsky                                           - 523.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1056.0 (of 1388)
 Shalyto - motivation                                - 179   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 190..210 (of  375..418)
+The Little Typer - 3                                - 192..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

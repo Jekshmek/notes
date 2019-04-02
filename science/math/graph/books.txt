@@ -4,6 +4,9 @@ Melnikov - Graph Theory in Entertaining Problems 3rd ed ru
 2007
 Melnikov - Neznayka in the Graph Land 3rd ed ru
 
+2004
+Gurovits - Graphs 4th ed ru
+
 1974
 Papi - Children and Graphs ru
     ! for children

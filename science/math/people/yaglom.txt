@@ -1,2 +1,5 @@
 2004
 Yaglom - Complex Numbers and Geometry Examples 2nd ed ru
+
+1974
+Yaglom - Geometric Estimations and Combinatorial Geometry Problems ru

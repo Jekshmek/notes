@@ -1,5 +1,9 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
+8x
+https://blog.angular.io/a-plan-for-version-8-0-and-ivy-b3318dfc19f7
+    https://habr.com/ru/post/446476/
+
 7x
 https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c
     https://nuancesprog.ru/p/2492/

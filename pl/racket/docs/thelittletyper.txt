@@ -989,4 +989,6 @@ is a type if X is a type, [from] is an X, and [to] is an X.
 Because [from] and [to] are convenient names, the corresponding parts of an =-expression
 are referred to as the FROM and the TWO.
 
+Note: types can be read as statements (sometimes called propositions)
 
+A PI-expression can be read as "for every"
