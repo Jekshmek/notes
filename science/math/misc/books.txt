@@ -1,5 +1,3 @@
-Krivonogov - Nonstandard Mathematical Problems ru
-
 2017
 Savvateev - Matematics for Humanitarians ru
     !!!
@@ -12,6 +10,8 @@ Ufnarovskiy - Math Aquarium ru
 Litltlewood - Mathematicians Miscellany ru
 Rutersvard - Impossible Figures ru
 SergeevOlehnikGashkov - Use Mathematics ru
+1981
+Shteingauz - Math Caleidoscope ru
 1977
 Freydental - Math in Science and Around Us ru
 1974

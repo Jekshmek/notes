@@ -1,0 +1,3 @@
+https://crates.io/crates/bstr
+https://docs.rs/bstr
+https://github.com/BurntSushi/bstr

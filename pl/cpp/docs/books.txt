@@ -1,6 +1,9 @@
 Cpp Notes for Professionals
     http://goalkicker.com/CPlusPlusBook/
 
+2019
+Cukic - Funcational Programming in Cpp
+
 2018
 Stroustrup - A Tour of Cpp 2nd ed
 Stolyarov - Cpp Intorudction 4th ed ru

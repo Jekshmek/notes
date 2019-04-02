@@ -1,0 +1,7 @@
+https://wasi.dev/
+https://github.com/CraneStation/wasi
+
+2019
+https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
+https://hermanradtke.com/2019/04/01/wasi-example-using-rust-and-lucet.html
+https://hermanradtke.com/2019/03/31/lucet-in-five-minutes.html

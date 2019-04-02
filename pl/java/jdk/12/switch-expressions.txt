@@ -1,4 +1,5 @@
 2019
+https://www.javacodegeeks.com/2019/03/java-12-mapping-with-switch-expressions.html
 https://www.infoq.com/articles/java-12-switch-expression
 
 2018

@@ -24,3 +24,4 @@ vboxguest
 vboxsf
 vboxvideo
 
+group/xorg-apps
