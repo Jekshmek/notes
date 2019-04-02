@@ -3,6 +3,8 @@ https://aturon.github.io/apr/
 
 https://rust-lang.github.io/async-book/
 
+2019
+https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2
 2018
 https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html
 Fey - Rust Async Programming in 2018
