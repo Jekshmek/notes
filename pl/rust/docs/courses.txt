@@ -1,4 +1,7 @@
 2019
+KladovBogdanov - Programming in Rust
+    https://compscicenter.ru/courses/rustprogramming/2019-spring/
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e
 https://newpavlov.github.io/rust-isp-2019/
 https://github.com/newpavlov/rust-isp-2019/
 
