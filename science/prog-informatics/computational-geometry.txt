@@ -5,3 +5,5 @@ Lecomte - 2018 - Handbook of Geometry for Competitive Programmers
 2002
 AndreevaEgorov - Computational Geometry ru
     https://www.studmed.ru/andreeva-ev-egorov-yue-vychislitelnaya-geometriya-na-ploskosti_ae86dffd59e.html
+Durov - Lines in Space ru
+    http://acm.math.spbu.ru/geom/geom.pdf

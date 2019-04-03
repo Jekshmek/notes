@@ -77,6 +77,10 @@ Regeda - Algorithmization and Programming Fundamentals ru
 Krasikov - Algorithms Simple as 2x2 ru
     misc - cpp
     https://www.studmed.ru/krasikov-iv-krasikova-ie-algoritmy-kak-22_1c4139d7d67.html
+PorublevStavrovskiy - Algorithms and Programs ru
+    1B5999E7920DB098AF891EEB9E7503F3
+    B10B02B41AC7C8AA9F6EDB6A377CE815
+    ! pas-based
 
 2006
 Anany Levitin

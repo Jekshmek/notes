@@ -1,6 +1,20 @@
+2018
+KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
+    https://tuxdoc.com/download/learning-algorithms-through-programming-and-puzzle-solving_pdf
+    E16AA1A11CD1A9BC74D95B85D2722550
 2016
 BabenkoLevin - Algorithms and Data Structures Theory Introduction ru
     https://www.labirint.ru/books/623061/
     304EA82C00692AB8E7A59C90A91C7888
     4F0D5D4CFA08E13287629674A2730C7F
     8091CD6FE120FCFBD86CF2D3E5880387
+
+????
+Dasgupta - translation
+    https://alexanderskulikov.github.io/
+    https://alexanderskulikov.github.io/files/algorithms_href.pdf
+    https://alexanderskulikov.github.io/files/algorithms_printable.pdf
+    https://biblio.mccme.ru/node/5066/shop
+    https://cloud.mail.ru/public/d6d859f40503/algo-draft.pdf
+    https://habr.com/en/company/compscicenter/blog/222427/
+

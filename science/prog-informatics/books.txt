@@ -8,8 +8,13 @@ http://elib.bsu.by/browse?type=author&value=%D0%9A%D0%BE%D1%82%D0%BE%D0%B2%2C+%D
 
 2013
 Kotov - Algorithms Theory ru
-http://elib.bsu.by/bitstream/123456789/91612/1/book_final.pdf
-http://elib.bsu.by/handle/123456789/91612
+    http://elib.bsu.by/bitstream/123456789/91612/1/book_final.pdf
+    http://elib.bsu.by/handle/123456789/91612
+Halim - Competitive Programming 3rd ed
+    EABCCEC887295E5DA350302DECA61D7C
+    F6F195012783A8B3C8BB7628882A51B7
+    https://cpbook.net/
+    https://cpbook.net/methodstosolve
 
 2012
 Perl - Ukladka Dereviev
