@@ -18,6 +18,13 @@ Asanov - Combinatorial Algorithms ru !
 2009
 Stanley - Enumerative Combinatorics vol2 ru
 
+2006
+Vilenkin - Combinatorics ru
+    https://chitatel.by/catalog/book/263533
+    2CFD47A2EE039C05204324D61CB0AAF4
+    A9D4D10FE1C46FE6DECCAB5D467CCDDC
+    400 pages
+
 2004
 Hu - Combinatorial Algorithms ru
 Sachkov - Discrete Math Combinatorial Methods Introduction ru
@@ -33,6 +40,10 @@ Stanley - Enumerative Combinatorics vol1 ru
 
 1977
 Reingold - Combinatorial Algorithms ru
+
+1976
+Vilenkin - Induction and Combinatorics ru
+    DC8D4E35405D9E29D16B057BD4517C66
 
 1975
 Kofman - Applied Combinatorics Introduction ru

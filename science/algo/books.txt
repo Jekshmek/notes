@@ -18,6 +18,9 @@ Kleinberg - Algorithms Design ru
 2015
 Bhasin - Algorithms - Design and Analysis
     ! good and big
+KorteVigen - Combinatorial Optimization Theory and Algorithms ru
+    https://uchitel.by/catalog/book/367513
+    649DCC49F1BD6DC2996C67BA571D287D
 
 2014
 Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms

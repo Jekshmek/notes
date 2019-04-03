@@ -1,9 +1,12 @@
 2017
 Shen - Geometry in Problems 3rd ed ru
+    https://uchitel.by/catalog/book/273199
 Blinkov - Inscribed Angles ru
 2016
 Volchkevich - Geometry Lessons in Problems 7-8 class ru
 Blinkov - Geometry in Nongeometric Problems ru
+Smirnow - Cell Pater Geometry ru
+    https://chitatel.by/catalog/book/42897
 2015
 Sharygin - Math - Naglyadnaya Geometriya 5-6 cl ru
 2014
@@ -18,6 +21,13 @@ Akopyan - Geometry in Pictures ru
     https://www.mccme.ru/~akopyan/papers/RuGeoFigures.pdf
 2008
 Zelenskiy - Geometry in Problems ru
+2007
+PrasolovTihomirov - Geometry 2nd ed ru
+    https://chitatel.by/catalog/book/301212
+    719DB1B93168E9CD781FA28D6E42DE62
+    468DC1CE21ADCF3B5E2AAA229FE5FAB6
+    C3860CF6115C9B4B6E19FEF63B04A380
+    super cool and complex
 2006
 Prasolov - Planimetry Problems ru
     http://ilib.mccme.ru/pdf/planim5.pdf

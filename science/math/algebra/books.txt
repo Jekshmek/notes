@@ -5,8 +5,22 @@ https://web.stanford.edu/~boyd/vmls/vmls.pdf
 https://web.stanford.edu/~boyd/vmls/vmls-slides.pdf
 http://stanford.edu/class/ee103/103exercises.pdf
 
+2014
+Chulkov - Arithmetic Problems 4th ed ru
+    https://uchitel.by/catalog/book/231144
+    72778F280C8329355ED052CF2244DFCD
+
 2009
-Chulkov - Arithmetical Problems ru
+GelfandShen - Algebra 2nd ed ru
+    https://chitatel.by/catalog/book/480942
+    7EA6D8A20B2C884220C03AB5C3F4448D
+    B1D9221E3C49DD56519B235D70867E3D
+
+2006
+Gashkov - Modern Elementary Algebra ru
+    https://uchitel.by/catalog/book/12266
+    20C5D84489341D6E4B9480BB076A488C
+    ! a lot of stuff including combinatorics !
 
 2002
 BoltyanskiyVilenkin - Simmetry in Algebra 2nd ed ru

@@ -992,3 +992,29 @@ are referred to as the FROM and the TWO.
 Note: types can be read as statements (sometimes called propositions)
 
 A PI-expression can be read as "for every"
+    (PI ((n Nat))
+        (= Nat (+ 1 n) (add1 n)))
+
+Q: What is the point of reading types as statements?
+A: If a type can be read as statement, then judging
+        the statement to be true
+    means that
+        there is an expression with that type
+
+Sample: So, saying "(+ n 0) and n   are equal Nats"
+    means that there is an expression of type
+        (= Nat (+ n 0) n)
+        
+Another way to think about statements is an expectation of a proof,
+or as a problem to be solved
+    - having seen a claim, it makes sense to expect a definition
+
+There is only one c-tor for (=) and it is called "same" (with 2 arguments)
+
+! The Law of same
+The expression (same e) is an (= X e e) if e is an X.
+
+The expression
+    (same 21)
+is an
+    (= Nat (+ 17 4) (+ 11 10))

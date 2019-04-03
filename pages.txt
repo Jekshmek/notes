@@ -120,9 +120,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 523.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1056.0 (of 1388)
-Shalyto - motivation                                - 179   (of  873)
+Shalyto - motivation                                - 182   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 192..210 (of  375..418)
+The Little Typer - 3                                - 194..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

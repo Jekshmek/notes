@@ -1,14 +1,3 @@
-awesome
-https://github.com/keon/awesome-nlp
-https://github.com/ChristosChristofidis/awesome-deep-learning
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/bulutyazilim/awesome-datascience
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials
-https://github.com/owainlewis/awesome-artificial-intelligence
-https://rushter.com/dsreader/
-    https://github.com/rushter/data-science-blogs
-https://github.com/EthicalML/awesome-machine-learning-operations
-
 https://proglib.io/p/jupyter-notebook-best/
 
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
@@ -16,19 +5,6 @@ https://unsupervisedmethods.com/
 https://proglib.io/p/learning-ml/
 
 https://habrahabr.ru/company/spbifmo/blog/326894/
-
-homemade
-https://github.com/trekhleb/homemade-machine-learning
-    https://habr.com/post/433886/
-
-google stuff
-https://distill.pub/about/
-https://github.com/distillpub
-https://github.com/distillpub/template
-https://distill.pub/guide/
-
-JetBrains seminars
-https://www.youtube.com/channel/UCdeSxuESqLOxuuwXNnqqbrA/
 
 misc
 https://paperswithcode.com/sota

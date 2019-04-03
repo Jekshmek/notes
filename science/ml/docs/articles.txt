@@ -8,10 +8,13 @@ https://postnauka.ru/faq/35960
 https://towardsdatascience.com/fundamentals-of-machine-learning-part-3-b305933f00cd
 2018
 https://towardsdatascience.com/so-is-your-algorithm-not-working-aa8e4ebd2066
+https://jalammar.github.io/feedforward-neural-networks-visual-interactive/
 2017
 https://habrahabr.ru/company/oleg-bunin/blog/334530/
 https://habrahabr.ru/post/340792/
 https://proglib.io/p/neural-nets-guide/
+2016
+https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 
 
 https://hackernoon.com/tagged/machine-learning

@@ -26,7 +26,7 @@ https://www.youtube.com/playlist?list=PLDrmKwRSNx7L3YYWrWp9gnXG0rH05mOw8
 Gurovits
 https://www.youtube.com/playlist?list=PLDrmKwRSNx7LxRVAufeIVFFLk4jwlJBT5
 Babenko - Algorithms and Data Structures for Search
-https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX
+    https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX
 
 2013
 Stankevich - Algo for School

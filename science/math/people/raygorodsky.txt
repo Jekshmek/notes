@@ -8,7 +8,10 @@ LitvakRaygorodsky - 2017 - Who Needs Math ru
 2016
 GlibichukRaygorodsky - Discrete Math Elements in Problems ru
     a lot of high combinatory, graphs
+    https://uchitel.by/catalog/book/443697
     https://www.mccme.ru/circles/oim/discrbook.pdf
+    99312FD3A791A12FE7BD69ABFC257D65
+    008084957E5990C81D99C20D061FB8C2
 2011
 Raygorodskiy - Probability Graph Models ru
     a lot of probability theory

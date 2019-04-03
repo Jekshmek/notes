@@ -1,0 +1,3 @@
+2018
+Eckhardt - SCALA: Don't use exceptions
+    https://www.youtube.com/watch?v=vLvCWyiotwo

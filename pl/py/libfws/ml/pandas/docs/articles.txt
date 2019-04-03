@@ -2,6 +2,7 @@
 https://www.dataquest.io/blog/pandas-big-data
     https://habr.com/ru/company/ruvds/blog/442516/
 2018
+https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
 https://rushter.com/blog/pandas-data-type-inference/
 2017
 https://habrahabr.ru/company/ods/blog/322626/

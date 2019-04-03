@@ -30,12 +30,20 @@ Kelly
 Engelking
     Obschaya Topologiya
 
+2017
+Verbitskiy - Beginning Topology Course in Leaflets Problems and Theorems ru
+    https://uchitel.by/catalog/book/518519
+    5CC197109A0ADD63E09F49AFED0097D5
 2016
 Skopenkov - Algebraic Topology from Geometry Point of View ru
 2015
 Radyno - Elements of Common Topology ru
 2014
 Prasolov - Elements of Combinatorial and Differential Topology 2nd ed ru
+2012
+Viro - Elementary Topology 2nd ed ru
+    https://uchitel.by/catalog/book/222691
+    C45F7825C6FBFB490EBA7041FE8A5FAB
 2010
 Edelsbrunner - Computational Topology an Introduction
 2005
