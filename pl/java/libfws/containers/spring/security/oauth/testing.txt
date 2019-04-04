@@ -1,0 +1,4 @@
+https://github.com/spring-projects/spring-security-oauth/tree/master/tests
+
+2019
+https://medium.com/@mark.hoogenboom/testing-a-spring-boot-application-secured-by-oauth-e40d1e9a6f60

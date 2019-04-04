@@ -1,2 +1,4 @@
+2019
+https://ponyfoo.com/articles/disguise-driven-testing-jest-mocks-in-depth
 2018
 https://medium.freecodecamp.org/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5
