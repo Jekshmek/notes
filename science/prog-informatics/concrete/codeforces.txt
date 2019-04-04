@@ -1,2 +1,4 @@
 http://codeforces.com
+https://polygon.codeforces.com/
+
 https://codeforces.com/blog/entry/512?locale=ru

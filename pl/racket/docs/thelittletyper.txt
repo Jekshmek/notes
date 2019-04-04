@@ -1018,3 +1018,19 @@ The expression
     (same 21)
 is an
     (= Nat (+ 17 4) (+ 11 10))
+
+The
+    (same (incr 3))
+is a proof of
+    (= Nat (+ 2 2) 4).
+
+(=) - is a type c-tor, (same) - its c-tor
+
+(claim +1=add1
+    (PI ((n Nat))
+        (= Nat (+ 1 n) (+1 n))))
+(define +1=add1
+    (\ (n)
+        (same (add1 n))))
+
+Here "+1=add1" is a statement and we show the appropriate proof

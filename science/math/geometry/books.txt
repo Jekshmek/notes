@@ -44,6 +44,8 @@ Venninger- Polyhedral Models
 1976
 Shteyngauz - 100 Problems 2nd ed ru
     ! good explanations
+1964
+BoltyanskiyYaglom - Geometry 9 class ru
 1963
 Chistyakov - 3 Famouse Ancient Problems ru
 1923

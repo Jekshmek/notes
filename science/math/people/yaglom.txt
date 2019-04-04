@@ -1,3 +1,15 @@
+selected
+    ShklyarskiyYaglom - 2015 - Selected Math Problems Problems - Stereometry 3rd ed ru
+        D40AB4A278A05650C8511DA416D515DF
+    ShklyarskiyYaglom - 2015 - Selected Math Problems Problems - Planimetry 4th ed ru
+        BE351F9FEBC820E341CEA5BAD51D3CB7
+    ShklyarskiyYaglom - 2001 - Selected Math Problems Problems - Arithmetics and Algebra 6th ed ru
+        980B8A6F770388D0AC453E19E0A92621
+
+2007
+Yaglom - Nonelementary Problems in Elementary Presentation 3rd ed ru
+    85E8365D5F88B524D6E255CF6ED70506
+
 2004
 Yaglom - Complex Numbers and Geometry Examples 2nd ed ru
 

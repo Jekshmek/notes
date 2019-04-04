@@ -11,12 +11,16 @@ Peregozhin - Discrete Math 2nd ed ru
 2016
 Costyukova - Combinatory Algorithms 2nd ed ru
 
+2009
+Stanley - Enumerative Combinatorics vol2 ru
+
 2008
 Asanov - Combinatorial Algorithms ru !
     https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
 
-2009
-Stanley - Enumerative Combinatorics vol2 ru
+2007
+Yaglom - Nonelementary Problems in Elementary Presentation 3rd ed ru
+    85E8365D5F88B524D6E255CF6ED70506
 
 2006
 Vilenkin - Combinatorics ru
