@@ -2,6 +2,8 @@ https://github.com/w3c/css-houdini-drafts/wiki
 http://houdini.glitch.me/
 
 articles
+2019
+https://www.smashingmagazine.com/2019/03/css-alignment/
 2018
 https://developers.google.com/web/updates/2018/10/animation-worklet
 https://css-tricks.com/simple-interactive-pie-chart-with-css-variables-and-houdini-magic/

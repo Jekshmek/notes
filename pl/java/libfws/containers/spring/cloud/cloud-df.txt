@@ -17,15 +17,20 @@ https://www.youtube.com/watch?v=uyN8ttlTvUM
 Fisher - Data Microservices with Spring Cloud Data Flow
 https://www.youtube.com/watch?v=Z6_ttC33N0U
 
+k8s
+https://docs.spring.io/spring-cloud-dataflow/docs/2.0.0.RELEASE/reference/htmlsingle/#getting-started-kubernetes
+https://github.com/spring-cloud/spring-cloud-deployer-kubernetes
+
 samples
 https://github.com/spring-cloud/spring-cloud-dataflow-samples
 https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/html/
 https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
 
 reference
-https://docs.spring.io/spring-cloud-dataflow-server-kubernetes/docs/1.7.0.RC1/reference/htmlsingle/
+https://docs.spring.io/spring-cloud-dataflow/docs/2.0.0.RELEASE/reference/htmlsingle
 
 whatsnew
+https://spring.io/blog/2019/03/06/spring-cloud-data-flow-and-skipper-2-0-ga-released
 https://spring.io/blog/2018/10/19/spring-cloud-data-flow-1-7-rc1-released
 https://spring.io/blog/2018/09/18/spring-cloud-data-flow-1-7-m1-released
 https://www.infoq.com/news/2018/09/pivotal-releases-data-flow-1.6
