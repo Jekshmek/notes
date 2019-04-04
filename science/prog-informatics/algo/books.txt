@@ -8,6 +8,13 @@ BabenkoLevin - Algorithms and Data Structures Theory Introduction ru
     304EA82C00692AB8E7A59C90A91C7888
     4F0D5D4CFA08E13287629674A2730C7F
     8091CD6FE120FCFBD86CF2D3E5880387
+2009
+Pyshkin - Algorithms and Data Structures ru
+    http://kspt.icc.spbstu.ru/media/files/course/algstr/algstr_2009.pdf
+2004
+Klyucharev - Data Processing Structures and Algorithms ru
+    http://window.edu.ru/resource/820/44820/files/KluchMatjash1.pdf
+    ! pas, short
 
 ????
 Dasgupta - translation

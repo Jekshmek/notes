@@ -23,8 +23,13 @@ http://elib.bsu.by/bitstream/123456789/41398/1/KotovVM_SabaleuskayaEP_PackTree_2
 
 2011
 Algorithms and Data Structures
-B1A2F3C131D893DF300AB1EDD08CCEC5
-D1040BB80E0F0795953683499D8C98D2
+    B1A2F3C131D893DF300AB1EDD08CCEC5
+    D1040BB80E0F0795953683499D8C98D2
+
+2010
+Volchenkov - Yaroslavl Informatics Olympiads ru
+    97A3C6489267747920D6BBBAACB36E97
+    6CC41171A2A4F3AE3DB7EA6DB18B2D29
 
 2009
 Razrabotka i Analiz Algoritmov
@@ -37,6 +42,8 @@ Sbornik zadach po teorii algoritmov
     9bc34d0bcdca5d8211caaff81c5b93a1
 Asanov - Combinatorial Algorithms ru
     https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
+AlexeevBelyaev - Preparing for Schoolboys to Informatics Olympiad ru
+    35FA69AF136992A1D72A1201BB3244ED
 
 2002
 Aproximate Algorithms

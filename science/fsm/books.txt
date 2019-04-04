@@ -36,6 +36,8 @@ Vyhovanec - Automata Theory ru
     https://www.studmed.ru/vyhovanec-vs-teoriya-avtomatov_9a1626eb6a7.html
 2000
 Lupal - Automata Theory ru
+    691D698F0D2ADC73AAF6E8AB0265C84E
+    FA498C044968715F6D4045EF21A5F2D3
 1998
 Shalyto - SWITCH Technology ru
 ????
