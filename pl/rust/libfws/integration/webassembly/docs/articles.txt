@@ -1,4 +1,6 @@
 2019
+https://gist.github.com/ilyakmet/34c15e1c2c43b77f9e5dce902706a6a8
+    ! real short sample
 https://prestonrichey.com/blog/react-rust-wasm/
 http://troubles.md/posts/microwasm/
 https://medium.com/@jain.sm/webassembly-and-rust-f6a968463d58

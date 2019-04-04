@@ -5,12 +5,19 @@ Blinkov - Sequences ru
 
 2017
 Blinkov - Inscribed Angles ru
+ZaslavskiyShapovalov - Problems about Tournaments 2nd ed ru 
+    B48A6617F95AB44D24460A497D2278E9
+    A17296AB148BF89BCC320981104A6C0C
 
 2016
 Blinkov - Geometry Construction Problems ru
 Blinkov - Geometry in Nongeometric Problems ru
 Blinkov - Classic Means in Arithmetics And Geomertry ru
 Knop - Weightnings And Algorithms 5th ed ru
+Shapovalov - How to Build a Sample ru
+    https://www.labirint.ru/books/623103/
+    A3B4BDAF64F391895BF5EC560A51087C
+    55432FEE17F2CED775BC48DBC0782665
 
 2015
 KorobitsynZhukov - Math Circle 5class ru
