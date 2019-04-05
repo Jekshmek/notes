@@ -1,5 +1,7 @@
 https://github.com/sulco/angular-developer-roadmap
 
+blogs
+https://toddmotto.com/
 https://blog.angularindepth.com/
 
 2018

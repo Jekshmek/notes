@@ -6,6 +6,9 @@ https://github.com/markerikson/react-redux-links
 https://github.com/markerikson/react-redux-links/blob/master/react-redux-architecture.md
 https://proglib.io/p/react-digest/
 
+blogs
+https://www.robinwieruch.de/
+
 React Kyiv
 https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg
 
