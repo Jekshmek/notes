@@ -146,17 +146,22 @@ https://www.youtube.com/playlist?list=PLrCZzMib1e9pXgyJ8Y9Io4AocGy66pj1X
 
 2014
 MSU-Technosphere !!!
-https://www.slideshare.net/Technosphere1/presentations
+    https://www.slideshare.net/Technosphere1/presentations
 MailRu2014 - DataMining
-https://www.youtube.com/playlist?list=PLrCZzMib1e9pyyrqknouMZbIPf4l3CwUP
+    https://www.youtube.com/playlist?list=PLrCZzMib1e9pyyrqknouMZbIPf4l3CwUP
 Shad2014 - Vorontsov
-https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
+    https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
 Shad2012 - Vorontsov
-https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
+    https://www.youtube.com/playlist?list=PLJOzdkh8T5kpGiIQttuMwo3jLciewjd7R
+
+2013
+Kuralenok - ML
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fiW5DSoT1dwmj8-waqe-DMX
 
 2012
 Kuralenok - Lectorium - ML
-https://www.youtube.com/playlist?list=PL-_cKNuVAYAV8HV5N2sbZ72KFoOaMXhxc
+    https://www.youtube.com/playlist?list=PL-_cKNuVAYAV8HV5N2sbZ72KFoOaMXhxc
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fj4uw9fKjU8AaDtCgBcPs23
 
 2010
 MIT - Windton - 6.034 Artificial Intelligence !!!

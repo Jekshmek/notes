@@ -2,7 +2,12 @@ collection of playlists
 https://www.youtube.com/channel/UCVYl_1Ax5JotGfDCnjNTHUg/playlists
 winter school
 https://www.youtube.com/channel/UCBLUcL8gSd5LbCECHp23aTA/playlists
+misc
+https://acm.khpnets.info/w/index.php?title=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D1%83%D1%80%D1%81%D1%8B
 
+CSC
+https://compscicenter.ru/online/
+https://compscicenter.ru/videos/
 https://open.compscicenter.ru/
 https://open.compscicenter.ru/archive/
 https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw/playlists
@@ -25,6 +30,16 @@ Shved - Cormen - Algorithms - Construction and Analysis
 KnopPastor - Discrete Math Fundamentals
     https://www.youtube.com/playlist?list=PLC-Umin_a5bOayjGp180YxMRPltjPknJD
     https://compscicenter.ru/courses/discrete-math/2015-autumn/
+Bjarki - Competitive Programming Course ru
+    https://algo.is/competitive-programming-course/
+    https://open.kattis.com/
+    https://github.com/SuprDewd/T-414-AFLV
+2014
+Kopelievich - Lectorium - Additional Chapters ...
+    https://www.lektorium.tv/course/24388
+    https://compscicenter.ru/courses/advanced-algo/2014-autumn/classes/
+Kopelievich - Algorithms and Data Structures
+    https://compscicenter.ru/courses/algorithms-1/2014-autumn/classes/
 2013
 DavydovSatyukov
     https://www.intuit.ru/studies/courses/975/311/info

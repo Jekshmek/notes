@@ -33,6 +33,8 @@ scoop extras - a
     ? draft, mill, win-portacle, oh-my-posh, terminus
 
 Video
+Meijer - ML
+    https://www.youtube.com/watch?v=Rs0uRQJdIcg
 Stroustrup - Concepts
     https://www.youtube.com/watch?v=HddFGPTAmtU
 Meijer

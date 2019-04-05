@@ -1,3 +1,5 @@
+????
+
 2018
 KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
     https://tuxdoc.com/download/learning-algorithms-through-programming-and-puzzle-solving_pdf
@@ -17,6 +19,10 @@ Klyucharev - Data Processing Structures and Algorithms ru
     ! pas, short
 
 ????
+Kopelievich - Algo Conspects ru
+    https://au.cdkrot.me/get/spbau-2020-va/algorithms
+    https://au.cdkrot.me/get/spbau-2018/term2-algorithms-lectures
+    https://au.cdkrot.me/get/spbau-2018/term5-algorithms-lectures
 Dasgupta - translation
     https://alexanderskulikov.github.io/
     https://alexanderskulikov.github.io/files/algorithms_href.pdf

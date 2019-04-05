@@ -6,5 +6,26 @@ http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_i
 http://www.ece.uvic.ca/~frodo/cppbook/downloads/lecture_slides_for_programming_in_c++-2018-02-15.pdf
 
 https://www.youtube.com/user/iamcanadian1867
+
+2019
+Lesin - Cpp programming ru
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fgfHzqqGsh_7JkE84U-EwhT
+2018
+TrempoltsevSmirnov - Deep Cpp Programming ru
+    https://www.youtube.com/playlist?list=PLrCZzMib1e9qjGLjg83bCksf3N7FIy7jg
+        https://sphere.mail.ru/curriculum/program/discipline/632/
+StenenkoGatilov - Algorithms and Data Science parts 1,2
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRp0_fj1OkEqaC-ml0t0PHf
+        https://compscicenter.ru/courses/algorithms-2/nsk/2018-spring/
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
+        https://compscicenter.ru/courses/algorithms-1/nsk/2017-autumn/
 2017
 https://www.youtube.com/playlist?list=PLbHYdvrWBMxY9onUxT2l7-ZyuFEEI8Qpv
+Petrov - Deep Cpp
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fjbYgJCBLSwwH9ygUrTSmKM
+2016
+Smal - Cpp Programming
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fhPSYHNMjW6OzLwrPP9jNbP
+2015
+Linskiy - Basic Cpp
+    https://www.youtube.com/playlist?list=PLwwk4BHih4fiQ8m9-4gAieWWdUaiNcleQ
