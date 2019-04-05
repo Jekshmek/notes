@@ -1,2 +1,5 @@
 2015
 Gashkov - Square Polynom in Problems ru
+1981
+Quant - Euler Polynoms ru
+    http://kvant.mccme.ru/1981/08/o_raskrytii_skobok_ob_ejlere_g.htm

@@ -1,13 +1,10 @@
 URLs
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
-    mednyi
-https://ru-bykov.livejournal.com/3809289.html
-    2
+    cross as a sign
 https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
 http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
-https://www.euclidea.xyz/ru/
 
 https://www.mccme.ru/free-books/pdf/alfutova.pdf
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
@@ -24,9 +21,11 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mccme
     2014-Feb-6
+NMO
+    20017-05-02
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 1
+    Apr 5
 
 track
 scoop extras - a

@@ -2,6 +2,10 @@
 Shen - Mathematical Induction 4th ed ru
 1964
 Sominskiy - Math Induction Method ru
+1961
+GolovinaYaglom - Induction in Geometry 2nd ed ru
+    8B8EAC0934A07722E5340F79059EB091
+    BF15DD7D6CBB3CE2C3B17A5E5C18F436
 
 ????
 Shapovalov - Induction
