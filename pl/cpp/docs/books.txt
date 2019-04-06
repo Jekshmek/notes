@@ -3,6 +3,7 @@ Cpp Notes for Professionals
 
 2019
 Cukic - Funcational Programming in Cpp
+OrlenkoEvdokimov - Cpp by Example
 
 2018
 Stroustrup - A Tour of Cpp 2nd ed
