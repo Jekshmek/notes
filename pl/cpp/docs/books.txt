@@ -126,6 +126,8 @@ Carrano - Data Abstractions and Problems Solving with Cpp - Walls and Mirrors 3r
 
 2002
 Sutter - Exceptional Cpp ru
+Polyakov - C Programming ru
+    90EA10ADFACD3949C77A7DFDF9B75412
 
 2001
 Holub - Enough Rope to Shoot Your Foot ru

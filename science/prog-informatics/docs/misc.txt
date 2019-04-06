@@ -1,3 +1,6 @@
+http://lbz.ru/metodist/content/videocourse/info.php
+http://lbz.ru/metodist/content/videocourse/mat.php
+
 2014
 Moskvitina - Programming Problems ru
 Data Structures and Program Design 3rd ed ru
