@@ -1,3 +1,7 @@
+list
+https://www.marktechpost.com/2019/03/29/14-great-articles-to-read-about-tensorflow/
+
+????
 https://habrahabr.ru/post/326650/
 https://habrahabr.ru/company/ods/blog/324898/
 
