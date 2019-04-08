@@ -1,4 +1,5 @@
 2019
+https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
 https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14
 https://habr.com/ru/company/mailru/blog/438562/
 https://habr.com/ru/company/mailru/blog/438560/

@@ -1,6 +1,8 @@
 https://vue-test-utils.vuejs.org/
 https://github.com/vuejs/vue-test-utils/
 
+2019
+https://vuejsdevelopers.com/2019/04/01/vue-testing-unit-vs-e2e/
 2018
 https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-1-3be791dafa2b
 https://frontstuff.io/unit-test-your-first-vuejs-component

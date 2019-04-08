@@ -9,6 +9,8 @@ selected
 2007
 Yaglom - Nonelementary Problems in Elementary Presentation 3rd ed ru
     85E8365D5F88B524D6E255CF6ED70506
+Yaglom - Probability and Information 5th ed ru
+    7367F56008908C26801BB73DE905E555
 
 2004
 Yaglom - Complex Numbers and Geometry Examples 2nd ed ru
@@ -20,6 +22,14 @@ Yaglom - Geometric Estimations and Combinatorial Geometry Problems ru
 Yaglom - Elementary Geometry Before and Now ru
     E4D376A0EA2C52943949F4534D8A4CDF
     F2FDC5A1D8D6D8B3AA097DEE2B6617D5
+
+1971
+Yaglom - About Combinatorial Geometry ru
+    A8469B6E86CB6765CADC77CF9814CE4E
+
+1962
+Yaglom - Ideas and Methods of Affine and Projective Geometry part 1 ru
+    FA43441A6786E5D0C9F6D8FA7FB25321
 
 1961
 GolovinaYaglom - Induction in Geometry 2nd ed ru

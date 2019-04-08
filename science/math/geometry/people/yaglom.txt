@@ -2,10 +2,16 @@
 Yaglom - Elementary Geometry Before and Now ru
     E4D376A0EA2C52943949F4534D8A4CDF
     F2FDC5A1D8D6D8B3AA097DEE2B6617D5
+1971
+Yaglom - About Combinatorial Geometry ru
+    A8469B6E86CB6765CADC77CF9814CE4E
 1964
 BoltyanskiyYaglom - Transformations Vectors ru
     F59BC056431060890B8FE89E73326C84
     70574EE0490955DB18C68FE07F67342E
+1962
+Yaglom - Ideas and Methods of Affine and Projective Geometry part 1 ru
+    FA43441A6786E5D0C9F6D8FA7FB25321
 1961
 GolovinaYaglom - Induction in Geometry 2nd ed ru
     8B8EAC0934A07722E5340F79059EB091

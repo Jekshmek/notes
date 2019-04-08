@@ -1,3 +1,7 @@
+2019
+https://dev.to/evilmartians/faster-webgl-three-js-3d-graphics-with-offscreencanvas-and-web-workers-43he
+    https://habr.com/en/post/446682/
+    https://developer.mozilla.org/en-US/docs/Web/API/OffscreenCanvas
 2018
 https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/
 https://alligator.io/js/service-workers/

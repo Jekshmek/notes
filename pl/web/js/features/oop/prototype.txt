@@ -1,5 +1,7 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
+2019
+https://tproger.ru/blogs/js-classes/
 2018
 https://levelup.gitconnected.com/the-javascript-object-paradigm-and-prototypes-explained-simply-e9cb9eaa49aa
 https://tylermcginnis.com/beginners-guide-to-javascript-prototype/

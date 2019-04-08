@@ -1,0 +1,2 @@
+7x
+https://devblogs.microsoft.com/powershell/the-next-release-of-powershell-powershell-7/

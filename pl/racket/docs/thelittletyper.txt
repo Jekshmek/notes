@@ -1034,3 +1034,15 @@ is a proof of
         (same (add1 n))))
 
 Here "+1=add1" is a statement and we show the appropriate proof
+
+
+(claim incr=add1
+    (PI ((n Nat))
+        (= Nat (incr n) (add1 n))))
+
+! Neutral Expressions
+Variables that are not defined are neutral.
+If the target of an eliminator expression is neutral,
+then the eliminator expression is neutral
+
+
