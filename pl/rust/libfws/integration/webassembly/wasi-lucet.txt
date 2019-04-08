@@ -3,6 +3,8 @@ https://github.com/CraneStation/wasi
 
 https://github.com/fastly/lucet
 
+https://github.com/kubkon/rust-wasi-tutorial
+
 2019
 https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
 https://hermanradtke.com/2019/04/01/wasi-example-using-rust-and-lucet.html
