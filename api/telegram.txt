@@ -3,6 +3,8 @@ https://netology.ru/blog/prg-tg
 ollimp-prog
 UniLecs
     small programming problems
+cme_channel
+    MCCME
 
 music
 retroma

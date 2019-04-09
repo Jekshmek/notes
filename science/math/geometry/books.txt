@@ -33,6 +33,9 @@ Prasolov - Planimetry Problems ru
     http://ilib.mccme.ru/pdf/planim5.pdf
 VasilievGutenmaher - Straight and Curved Lines 6th ed ru
     set of problems
+2005
+Zavich - Geometry in Tables 7-11 class 10th ed ru
+    49326E6EF30BB14AAF8E362EE4BF9321
 1994
 Arutyunyan - Math Tales ru
 1993
