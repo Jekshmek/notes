@@ -19,3 +19,10 @@ GolovinaYaglom - Induction in Geometry 2nd ed ru
 1959
 Yagolom - Isoperimeters 3rd ed ru
     3301B343A2F355133A7A6021694876E4
+1956
+Yaglom - Geometric Transformations 2 ru
+    BA91D62922C4DAFC52EFACF40668F5BF
+    39C09C4D6A0C793D716ED09D5950E595
+1955
+Yaglom - Geometric Transformations 1 ru
+    4DD64E5AC0D906DDB70855C1B4321B8F

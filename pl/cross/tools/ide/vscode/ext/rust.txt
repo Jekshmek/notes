@@ -14,4 +14,5 @@ settings.json
 Copy the user settings for "code-runner.executorMap" and update the "rust" attribute (other languages removed for clarity).
 
 2019
+https://medium.com/@adityapadhi36/debugging-rust-applications-in-vscode-4d17ac0e2711
 https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/
