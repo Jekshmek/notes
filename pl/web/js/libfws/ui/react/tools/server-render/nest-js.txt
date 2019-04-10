@@ -3,3 +3,4 @@ https://docs.nestjs.com/
 
 2019
 https://medium.com/@kammysliwiec/announcing-nestjs-6-whats-new-38959d94221f
+    https://habr.com/ru/post/447554/
