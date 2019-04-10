@@ -1046,3 +1046,12 @@ If the target of an eliminator expression is neutral,
 then the eliminator expression is neutral
 
 Neutral expressions do not have a c-tor at the top
+
+! "If" and "Then" as Types
+The expression
+    (-> X
+        Y)
+can be read as the statement,
+    "if X then Y."
+
+

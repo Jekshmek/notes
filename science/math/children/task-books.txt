@@ -11,6 +11,13 @@ Shabunin - Mathematics Tutorial for Abiturients 7th ed ru
 https://drive.google.com/file/d/1Ug3crAdMARfw_Zg8_LuGjhBx0IJOB3CY/view
     ..50
 
+2013
+Skanavi - Problemsbook 6th ed ru
+    9D380602EBEE5C0AD5DFCBF53D5075DF
+Solutions
+    2C7101A6DA946C50B9F6240C55D2F85C
+    1EDD8BF371B76A79ED9219E2AFC11D6E
+
 2007
 VavilovMelnikov - Math Problems - Algebra 2nd ed ru
 MelnikovVavilov - Math Problems - Equations and Inequalities 2nd ed ru
@@ -25,6 +32,10 @@ DorofeevPotapovRozov - Math for Abiturients ru
 
 1993
 Merzlyak - Unexpected Step ru
+
+1992
+Skanavi - Problemsbook Algebra 6th ed ru
+Skanavi - Problemsbook Geometry 6th ed ru
 
 1964
 PotapovRozovDorofeev - MSU Short Math Abiturients Manual ru

@@ -27,6 +27,12 @@ Yaglom - Elementary Geometry Before and Now ru
 Yaglom - About Combinatorial Geometry ru
     A8469B6E86CB6765CADC77CF9814CE4E
 
+1968
+Yaglom - Geometry of Points and Lines ru
+    3EAE186A4F0372E531CCBA9BA7B45228
+    618CD7A097C43D216D64B5D54131866F
+    D23B0FB1BE32459D57E7D3FBFBFF6B2B
+
 1962
 Yaglom - Ideas and Methods of Affine and Projective Geometry part 1 ru
     FA43441A6786E5D0C9F6D8FA7FB25321

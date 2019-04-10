@@ -22,10 +22,10 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    20017-05-02
+    2017-06-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 5
+    Apr 10
 
 track
 scoop extras - a
@@ -122,10 +122,10 @@ OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 550.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1095.8 (of 1388)
-Shalyto - motivation                                - 188   (of  873)
+Kantor - Medlennye Chelyusti Demokratii             - 1111.0 (of 1388)
+Shalyto - motivation                                - 190   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 200..210 (of  375..418)
+The Little Typer - 3                                - 202..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

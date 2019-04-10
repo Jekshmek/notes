@@ -3,21 +3,23 @@ JoshStarmer - ML (42 videos)
 
 2018
 Kite - Python - Data Analysis and ML
-https://www.youtube.com/playlist?list=PLO_jkkJQGPa78IgBgZhgkQ0e0qmImAe-y
+    https://www.youtube.com/playlist?list=PLO_jkkJQGPa78IgBgZhgkQ0e0qmImAe-y
 Simplelearn - Machine Learning Tutorial Videos
-https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
+    https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
 
 2017
 Podpolyaka - ML 101 ru
-https://www.youtube.com/watch?v=RtgpPMZu_TY
+    https://www.youtube.com/watch?v=RtgpPMZu_TY
 Nvidia - How to become a Data Scientist
-https://www.youtube.com/watch?v=IkAX8fb7vYQ
-https://www.asozykin.ru/assets/presentations/nvidia_pavt.pdf
+    https://www.youtube.com/watch?v=IkAX8fb7vYQ
+    https://www.asozykin.ru/assets/presentations/nvidia_pavt.pdf
+Bunina - ML and Math
+    https://www.youtube.com/watch?v=3xMU1PaO2yo
 
 2016
 Bylygin - Fold NNs
-https://www.youtube.com/watch?v=4HSfxFHLTKY
+    https://www.youtube.com/watch?v=4HSfxFHLTKY
 Sapunov - NN architecture intro
-https://www.slideshare.net/grigorysapunov/presentations
-https://www.slideshare.net/grigorysapunov/highload-2016
-https://www.slideshare.net/profyclub_ru/intento-69013506
+    https://www.slideshare.net/grigorysapunov/presentations
+    https://www.slideshare.net/grigorysapunov/highload-2016
+    https://www.slideshare.net/profyclub_ru/intento-69013506
