@@ -1,0 +1,10 @@
+https://en.wikipedia.org/wiki/Scapegoat_tree
+
+https://www.geeksforgeeks.org/scapegoat-tree-set-1-introduction-insertion/
+
+http://opendatastructures.org/ods-cpp/8_Scapegoat_Trees.html
+
+2014
+https://habr.com/ru/company/infopulse/blog/246759/
+1993
+http://akira.ruc.dk/~keld/teaching/algoritmedesign_f08/Artikler/03/Galperin93.pdf

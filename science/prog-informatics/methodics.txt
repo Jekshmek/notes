@@ -1,10 +1,21 @@
 Kiryuhin
+http://vserosolymp.rudn.ru/lecture/inf.php
+    http://infolymp.ru/ 
+
 http://lbz.ru/metodist/lections/6/
     https://www.youtube.com/watch?v=xSrf2u3qXfA
 
+2017
+Kiryuhin - Informatics 5-11 classes. Programma vneurochnoy deyatelnosti po podgotovke k Vserossiyskoy ollimpiade
+https://www.labirint.ru/books/588911/
+http://lbz.ru/books/224/7392/
+    fufel
+
 2014
 KiruhinTsvetkova - Programs for Schoolboys Preparation to Rus Informatics Olimpiad 5-11 class ru
+    http://lbz.ru/books/755/8747/
     http://lbz.ru/metodist/iumk/files/kiruhin-tsvetkova.pdf
+    https://docplayer.ru/45214647-Programmy-vneurochnoy-deyatelnosti-uchashchihsya-po-podgotovke-k-vserossiyskoy-olimpiade-shkolnikov.html
 
 ????
 TsvetkovaKiryuhin - Olimpiad Preparation System ru

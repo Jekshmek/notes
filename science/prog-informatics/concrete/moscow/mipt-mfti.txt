@@ -3,6 +3,11 @@ http://mipt.ru/
 https://vk.com/miptschool
 https://vk.com/docs-96783705
 
+!!!
+http://acm.mipt.ru/
+http://acm.mipt.ru/twiki/bin/view/Cintro/WebHome
+http://acm.mipt.ru/twiki/bin/view/Algorithms/WebHome
+
 Computer Systems
 http://cs.mipt.ru/
     Teachbooks
