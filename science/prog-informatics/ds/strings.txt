@@ -1,1 +1,5 @@
 https://informatics.mccme.ru/moodle/mod/book/view.php?id=435
+
+2003
+Gusfield - Algorithms on Strings Trees and Sequences ru
+    B386B30191FDFD96ABCF91D984ECC579

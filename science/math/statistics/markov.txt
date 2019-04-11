@@ -8,3 +8,7 @@ https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab
 2018
 https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d
     https://proglib.io/p/markov-chain/
+2017
+https://www.mccme.ru/dubna/2017/courses/bufetov.html
+    https://www.mccme.ru/dubna/2017/notes/bufetov-naprienko-ex1.pdf
+    http://www.mathnet.ru/php/presentation.phtml?option_lang=rus&presentid=17737

@@ -1,5 +1,16 @@
+2018
+Alexeev - Abel Theorem in Problems and Solutions ru
+    https://biblio.mccme.ru/node/5984
+    DD08B2301FAE77A033D4BE39BE5390AE
+    ! solving polinomial equations of power 1,2,3,4
 2015
 Gashkov - Square Polynom in Problems ru
+    F641B91F9A406150306924277F26A80D
+2001
+OstrikTsfasman - Algebraic Geometry and Number Theory ru
+    https://www.mccme.ru/free-books/mmmf-lectures/book.8.pdf
+    5F4196A2FDA33E44755491E5D8CD7B47
+    8FEB29DC79511CF22BEDBC3AAADCECF1
 1981
 Quant - Euler Polynoms ru
     http://kvant.mccme.ru/1981/08/o_raskrytii_skobok_ob_ejlere_g.htm
