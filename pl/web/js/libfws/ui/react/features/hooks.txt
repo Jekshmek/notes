@@ -22,6 +22,7 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://dev.to/flexdinesh/react-hooks-test-custom-hooks-with-enzyme-40ib
 https://blog.logrocket.com/how-to-create-your-own-react-hooks-77b426ac0e26
 https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react/
 https://overreacted.io/how-are-function-components-different-from-classes/
