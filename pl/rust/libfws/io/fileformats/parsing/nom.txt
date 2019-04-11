@@ -4,6 +4,10 @@ http://rust.unhandledexpression.com/nom/home.html
 https://crates.io/crates/nom
 https://github.com/Geal/nom
 
+https://crates.io/crates/nom-peg
+https://docs.rs/nom-peg
+https://github.com/rust-bakery/nom-peg
+
 docs
 https://github.com/Geal/nom/blob/master/doc/choosing_a_combinator.md
 

@@ -15,6 +15,11 @@ Yaglom - Probability and Information 5th ed ru
 2004
 Yaglom - Complex Numbers and Geometry Examples 2nd ed ru
 
+1980
+Yaglom - Finite Algebra Geometry and Codes ru
+    70295CEAAD26A170EECFD39313C19083
+    440D3C8124486463976D528B96A9F809
+
 1974
 Yaglom - Geometric Estimations and Combinatorial Geometry Problems ru
 
@@ -22,6 +27,9 @@ Yaglom - Geometric Estimations and Combinatorial Geometry Problems ru
 Yaglom - Elementary Geometry Before and Now ru
     E4D376A0EA2C52943949F4534D8A4CDF
     F2FDC5A1D8D6D8B3AA097DEE2B6617D5
+Yaglom - New in School Mathematics ru
+    1A15F472CD0BF036A889428C077E3A31
+    AFEC514530638DCDEEB27D74DCF40AFD
 
 1971
 Yaglom - About Combinatorial Geometry ru
@@ -32,6 +40,10 @@ Yaglom - Geometry of Points and Lines ru
     3EAE186A4F0372E531CCBA9BA7B45228
     618CD7A097C43D216D64B5D54131866F
     D23B0FB1BE32459D57E7D3FBFBFF6B2B
+Yaglom - Unusual Algebra ru
+    BE77AE7E4F93ED91DE1A8A1FCA92872A
+    83E93AACCD062672378F41B3C7D2F3FB
+    4143CE0A4FE6DCB582EAA09DBA20D559
 
 1962
 Yaglom - Ideas and Methods of Affine and Projective Geometry part 1 ru

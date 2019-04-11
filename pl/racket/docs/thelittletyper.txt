@@ -1054,4 +1054,10 @@ The expression
 can be read as the statement,
     "if X then Y."
 
+! Observation about incr
+No matter which Nat n is,
+    (incr (add1 n))
+is the same Nat as
+    (add1 (incr n)).
+
 

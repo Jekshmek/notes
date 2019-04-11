@@ -22,10 +22,10 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2017-06-01
+    2017-08-15
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 10
+    Apr 11
 
 track
 scoop extras - a
@@ -39,8 +39,6 @@ Stroustrup - Concepts
     https://www.youtube.com/watch?v=HddFGPTAmtU
 Meijer
     https://portal.klewel.com/watch/webcast/epfl-ic-research-day-2018/talk/29/
-Eli Friedman
-    ERrWMBJ4
 Gorbushin - Kubernetes for Beginners
     nJL03VJ9
 Dud - Tabakov                                       -   12:00 (of 1:19:58)
@@ -95,7 +93,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 280
+This week in rust                                   - 281
 Razbor Poletov                                      - 196 48:00 (of 2:00:01)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
@@ -120,11 +118,11 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 550.0 (of 1150)
+Zhitinsky                                           - 571.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1111.0 (of 1388)
-Shalyto - motivation                                - 190   (of  873)
+Shalyto - motivation                                - 192   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 202..210 (of  375..418)
+The Little Typer - 3                                - 204..210 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469

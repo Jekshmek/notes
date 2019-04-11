@@ -1,9 +1,13 @@
+https://informatics.mccme.ru/moodle/course/view.php?id=9
+
 2019
 Kleiner - Dynamic Programming
 https://www.youtube.com/playlist?list=PLUfHxBkkFMScqPOn8J0aHvd48wykQNcWS
 2017
 Kleiner - Dynamic Programming
 https://www.youtube.com/playlist?list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ
+2011
+https://habr.com/en/post/113108/
 2008
 Kalinin - Dynamic Programming ru
     https://acm.susu.ru/materials/05_dynprog.pdf

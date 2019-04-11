@@ -6,6 +6,8 @@ https://github.com/fastly/lucet
 https://github.com/kubkon/rust-wasi-tutorial
 
 2019
+Levick - WebAssembly/WASI Deep Dive
+    https://www.youtube.com/watch?v=Evc3T9Zk2pk
 https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
 https://hermanradtke.com/2019/04/01/wasi-example-using-rust-and-lucet.html
 https://hermanradtke.com/2019/03/31/lucet-in-five-minutes.html
