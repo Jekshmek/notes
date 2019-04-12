@@ -1060,4 +1060,12 @@ No matter which Nat n is,
 is the same Nat as
     (add1 (incr n)).
 
+! The Law of cong
+If f is an
+    (-> X
+        Y)
+and "target" is an
+    (= X from to),
+then (cong target f) is and
+    (= Y (f from) (f to)).
 

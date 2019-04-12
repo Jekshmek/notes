@@ -22,6 +22,7 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://www.infoq.com/news/2019/04/react-hooks-pre-concurrent-mode
 https://blog.bitsrc.io/using-react-hooks-to-create-awesome-forms-6f846a4ce57
 https://staleclosures.dev/from-redux-to-hooks-case-study
 https://dev.to/flexdinesh/react-hooks-test-custom-hooks-with-enzyme-40ib

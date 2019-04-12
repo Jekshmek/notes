@@ -9,6 +9,9 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production
 https://micrometer.io/docs/ref/jvm
 https://micrometer.io/docs/ref/cache
 
+api
+https://static.javadoc.io/io.micrometer/micrometer-core/1.1.4/io/micrometer/core/instrument/Timer.html
+
 exposing endpoint
 management:
   server:
@@ -30,3 +33,6 @@ https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-met
 
 http://www.ryantenney.com/metrics-spring/
     https://github.com/ryantenney/metrics-spring
+
+annotations
+https://github.com/micrometer-metrics/micrometer/blob/master/micrometer-core/src/main/java/io/micrometer/core/annotation/Timed.java
