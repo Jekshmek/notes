@@ -6,4 +6,5 @@ https://docs.rs/stack-sizes
 https://github.com/japaric/stack-sizes
 
 2019
+https://blog.japaric.io/stack-analysis-2/
 https://blog.japaric.io/stack-analysis/
