@@ -6,6 +6,8 @@ http://postgresql.leopard.in.ua/html/
 https://github.com/le0pard/postgresql_book
 https://habrahabr.ru/post/324334/
 
+2018
+Morgunov - PostgreSQL Language Fundamentals ru
 2017
 Morgunov - SQL Basic Course ru
 Juba - Learning PostgreSQL 10 2nd ed

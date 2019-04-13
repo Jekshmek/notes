@@ -12,3 +12,6 @@ https://hackernoon.com/tagged/neural-networks
 https://hackernoon.com/neural-networks-without-a-phd-components-of-a-neural-network-9d98b056995b
 https://geektimes.ru/post/287696/
 https://habrahabr.ru/post/318970/
+
+2019
+https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
