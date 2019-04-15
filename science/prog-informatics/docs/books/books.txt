@@ -38,6 +38,10 @@ Shen - Programming Theorems and Problems 6th ed ru
     https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_f72ababc4b1.html
     https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_9d8f453b892.html
 
+2015
+Zlatopolskiy - Programming Typical Problems Algorithms and Methods 3rd ed ru
+    E53FF115018A21FF19DBBDE90DEF4AF3
+
 2014
 BigData Program
 http://elib.bsu.by/bitstream/123456789/210841/1/%d0%9f%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b0_%d0%b1%d0%b0%d0%b7_2014_%d0%a1%d0%be%d0%b2%d1%80.%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b%20%d1%80%d0%b0%d0%b7%d1%80.%d1%8d%d1%84.%d0%b0%d0%bb%d0%b3%20%d0%90%d0%a1%d0%9e%d0%91%d0%9e%d0%98.pdf

@@ -46,6 +46,9 @@ Zhakod, Shiryaev - Predelnye teoremy
     https://vk.com/doc126754362_437463873
     https://vk.com/doc126754362_437463884
 
+2018
+Saveliev - Statistics and Kittens ru
+
 2016
 Unpingco - Python for Probability, Statistics and Machine Learning
 Kormanik - Statistics Fundamentals Succinctly
