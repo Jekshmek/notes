@@ -11,6 +11,11 @@ Peregozhin - Discrete Math 2nd ed ru
 2016
 Costyukova - Combinatory Algorithms 2nd ed ru
 
+2012
+Shahmeister - Combinatorics Statistics Probability ru
+    AF40FA29FAD8EEA374FFCA3AE4032064
+    ! bad quality of scan
+
 2009
 Stanley - Enumerative Combinatorics vol2 ru
 

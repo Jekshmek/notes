@@ -69,6 +69,7 @@ Gomez - Rust Programming by Example (Gamedev)
 Chanda - Network Programming with Rust
 Milanesi - Beginning Rust
 Blandy - Programming Rust ru
+    http://downloadanybooks.com/?book=1491927283
 2017
 Kaihlarita - Mastering Rust
 Johnson - Learning Rust

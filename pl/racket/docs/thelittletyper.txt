@@ -1069,3 +1069,18 @@ and "target" is an
 then (cong target f) is and
     (= Y (f from) (f to)).
 
+(define step-incr=add1
+    (\ (n-1)
+        (\ (incr=add1_(n-1))
+            (cong incr=add1_(n-1) (+1)))))
+
+(define incr=add1
+    (\ (n)
+        (ind-Nat n
+            mot-incr=add1
+            base-incr=add1
+            step-incr=add1)))
+
+Neutral expressions are those that cannot yet be evaluated, but replacing their variables with values
+could allow evaluation
+

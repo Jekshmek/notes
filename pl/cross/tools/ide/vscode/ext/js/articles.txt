@@ -1,4 +1,6 @@
 2019
+https://scotch.io/tutorials/the-best-react-extension-for-vs-code
+    https://www.youtube.com/watch?v=OGOa414ePFE
 http://tilomitra.com/vs-code-settings-and-extensions-for-faster-javascript-development/
 https://habr.com/ru/post/440066/
 2018

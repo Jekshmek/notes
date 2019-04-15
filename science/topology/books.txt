@@ -36,6 +36,7 @@ Verbitskiy - Beginning Topology Course in Leaflets Problems and Theorems ru
     5CC197109A0ADD63E09F49AFED0097D5
 2016
 Skopenkov - Algebraic Topology from Geometry Point of View ru
+    https://www.mccme.ru/circles/oim/obstruct.pdf
 2015
 Radyno - Elements of Common Topology ru
 2014

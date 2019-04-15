@@ -24,6 +24,17 @@ Shahmeister - Fractions 4th ed ru
 2012
 Shahmeister - Combinatorics Statistics Probability ru
     AF40FA29FAD8EEA374FFCA3AE4032064
+    ! bad quality of scan
+2011
+Shahmeister - Equations 4th ed ru
+    6E5B2679DD40F38E736D0EC47C57FC5A
+Shahmeister - Roots 4th ed ru
+    D332FFCC0950D9F70450EC09296E2DCA
+2009
+Shahmeister - 2009 - Parametric Problems 3rd ed ru
+    FB320D6A25CDA493174EF1B1B9E16FDB
+    4E94275365CD72BAC98646E99B01DADB
+    A1CE33AAAA209BDE5D7D99DC821E02DC
 2008
 Shahmeister - Fractionally Rational Inequalities 3rd ed ru
     07C5E8F9388E1693827074FA4782BD87

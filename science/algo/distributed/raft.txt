@@ -1,4 +1,8 @@
-raft
+https://raft.github.io/
+https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf
+
+2019
+http://thesecretlivesofdata.com/raft/
 2017
 Implementing Raft in RabbitMQ
-https://www.youtube.com/watch?v=w-_1Wwymk58
+    https://www.youtube.com/watch?v=w-_1Wwymk58
