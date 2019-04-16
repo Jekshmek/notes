@@ -8,6 +8,7 @@ https://uchitel.by/search?query=%D0%BA%D0%B8%D1%80%D1%8E%D1%85%D0%B8%D0%BD
 http://lbz.ru/metodist/nio/apkippro/2-1.php
 http://lbz.ru/metodist/lections/6/
     https://www.youtube.com/watch?v=xSrf2u3qXfA
+http://www.lbz.ru/%20katalog/products/literatura-dlja-shkol/informatizacija-obrazovanija/modeli-nepreryvnogo-informacionnogo-obrazovanija
 
 books
 http://lbz.ru/books/697/
@@ -32,6 +33,9 @@ KiruhinTsvetkova - Programs for Schoolboys Preparation to Rus Informatics Olimpi
     http://lbz.ru/metodist/iumk/files/kiruhin-tsvetkova.pdf
     https://docplayer.ru/45214647-Programmy-vneurochnoy-deyatelnosti-uchashchihsya-po-podgotovke-k-vserossiyskoy-olimpiade-shkolnikov.html
     https://mephi.ru/entrant/Odarennost/F-127/2%20programmmy_olimpiadnaya_informatika_7-9_10-11.pdf
+
+2010
+    https://ioinformatics.org/journal/INFOL056.pdf
 
 ????
 TsvetkovaKiryuhin - Olimpiad Preparation System ru

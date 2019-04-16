@@ -6,7 +6,6 @@ http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
 
-https://www.mccme.ru/free-books/pdf/alfutova.pdf
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
@@ -104,13 +103,8 @@ Razbor Poletov                                      - 198 23:00 (of 2:05:00)
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
-Series
-Linux Networking 04                                 -   06:00 (of 1:04:40)
-Kuryachi - 2014 - Python 4                          -   14:00 (of 1:33:45)
-
 Books
 NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
-Baier - Getting Started with Kubernetes 2nd ed      - 60..80..276
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
@@ -162,8 +156,6 @@ https://lanbook.com/catalog/matematika/sbornik-zadach-po-diskretnoj-matematike-%
 https://lanbook.com/catalog/matematika/osnovy-teorii-grupp-45731606/
     3D602A72477FA1C5F54FAFA14A67C0F4
 
-SUNTS NGU (Novosibirsc) summer school?
-https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
 
 http://algolist.manual.ru/ds/btree.php
 
@@ -184,8 +176,6 @@ https://uchitel.by/catalog/book/365997
     A233EEDB4C6E756AFA0EA4F680552C66
 Sharygin
 https://uchitel.by/catalog/book/233809
-??? Petzold - Code
-https://www.ozon.ru/context/detail/id/125884/
 
 BlinkovSavvateev
 https://www.youtube.com/channel/UC3XSyhxuKYZzzqdECAkJLIw/playlists
@@ -193,10 +183,6 @@ https://www.youtube.com/channel/UC3XSyhxuKYZzzqdECAkJLIw/playlists
 Need
 KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
 
-https://u08.edu35.ru/images/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B.pdf
-
-KiryuhinTsvetkova
-https://ioinformatics.org/journal/INFOL056.pdf
 Lapo
 http://www.elib.bsu.by/bitstream/123456789/22628/1/%D0%9B%D0%B0%D0%BF%D0%BE%20%D0%90_%D0%98.pdf
 
@@ -204,3 +190,6 @@ NikitinFomichev - Math Analysis Deep Course 2nd ed ru
     0F7115619EA5EEE6BB049E274583BA3F
     9448AC24A09E322B0779758A910BAA4D
     B140C35EF09E7CE2231B954DB1C95C5E
+
+SUNTS NGU (Novosibirsc) summer school?
+https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities

@@ -1,5 +1,12 @@
 2011
 Shen - Mathematical Induction 4th ed ru
+2006
+Kirkinskiy - Linear Algebra and Analytic Geometry ru
+    CCE96940BB836AAE383BE9C191028F4F
+    39CBA008E88F3113812537AC010FDFE3
+    BD182CA931A6CA9F26176223195E11F6
+    ! p22
+
 1964
 Sominskiy - Math Induction Method ru
 1961

@@ -26,8 +26,6 @@ https://vk.com/doc202279185_454947042
 Triola - 2018 - Elementary Statistics
 https://vk.com/doc190970339_454236877
 
-Chung - Elementary Probability Theory 4th ed ru
-
 Uilan - - Naked Statistics
 http://flibusta.site/b/437394
 
@@ -55,6 +53,10 @@ Kormanik - Statistics Fundamentals Succinctly
 
 2014
 Chung - Elementary Probability Theory 4th ed ru !!!
+    11409CFAC8FE1AE273FDE6B7644F34DE
+    BEA1467CA95600D74CA542AC9D1ECD07
+    4F64AFE583D361DF49FA4C5B4BD629B3
+    60DCEDD2030C9C6273B5FDD5D7103C30
 
 2013
 Semenov - Probability Theory and Math Statistics ru !
@@ -63,6 +65,11 @@ Gorlach - Probability Theory and Math Statistics ru !
 
 2012
 Turchin - Probability Theory and Math Statistics ru
+
+2011
+Borodin - Probability Theory and Math Statistics Elementary Course 8th ed ru
+    2906691766C07E21BA4E6924B61D54EA
+    43E2F79703F7A859BD43198392B5D7B7
 
 2010
 Baldin - Probability Theory and Math Statistics ru !!!!!

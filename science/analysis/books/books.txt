@@ -1,5 +1,9 @@
 2009
 KolmogorovFomin - Elements of Functions Theory and Functional Analysis ru
+2006
+Kirkinskiy - Math Analysis ru
+    CDE1977D05ACAEF32D05F5FE6DCF0EC7
+    BA2D628DA61337187BC6A84F0979C21B
 2005
 Spivak - Math Analysis on Manifolds ru
     https://lanbook.com/catalog/matematika/matematicheskij-analiz-na-mnogoobraziyah-5235206/
