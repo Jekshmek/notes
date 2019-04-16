@@ -11,6 +11,8 @@ http://logback.qos.ch/manual/layouts.html#formatModifiers
 http://logback.qos.ch/manual/layouts.html#cwOptions
 http://logback.qos.ch/manual/layouts.html#Parentheses
 http://logback.qos.ch/manual/layouts.html#coloring
+https://stackoverflow.com/questions/1975939/read-environment-variables-from-logback-configuration-file
+https://www.cloudesire.com/configure-logback-log-level-via-environment-variables/
 
 profiles
 https://dzone.com/articles/configuring-logback-with-spring-boot
@@ -37,3 +39,6 @@ JSON
         <encoder class="net.logstash.logback.encoder.LoggingEventCompositeJsonEncoder">
             <jsonGeneratorDecorator class="net.logstash.logback.decorate.PrettyPrintingJsonGeneratorDecorator"/>
             <providers> ...
+
+2018
+https://www.baeldung.com/logback

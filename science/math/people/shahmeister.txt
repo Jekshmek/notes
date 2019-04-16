@@ -6,6 +6,10 @@ Shahmeister - Logarithms 5th ed ru
     0A27B153143BE08466B38A8E02D22AAB
 Shahmeister - Building and Transforming Graphics Part 2-3 ru
     84E6F6C03A1745581EDB5E42F9A69D82
+2015
+Shahmeister - Geometric Exam Problems part1 Planimetry ru
+    24103045518FBAB8BF94C91AE36BAB1A
+    3414CBCC46A6D1D7DFE1A9F1EF69B9EB
 2014
 Shahmeister - Trigonometry 4th ed ru
     https://uchitel.by/catalog/book/525859
@@ -25,11 +29,17 @@ Shahmeister - Fractions 4th ed ru
 Shahmeister - Combinatorics Statistics Probability ru
     AF40FA29FAD8EEA374FFCA3AE4032064
     ! bad quality of scan
+Shahmeister - Geometric Exam Problems part2 Stereometry and Vectors ru
+    FBBD4A6658DF6E85B9C64858C3513E7A
+    D02AE532C877B7D7B4D90C27C7164C8F
 2011
 Shahmeister - Equations 4th ed ru
     6E5B2679DD40F38E736D0EC47C57FC5A
 Shahmeister - Roots 4th ed ru
     D332FFCC0950D9F70450EC09296E2DCA
+Shahmeister - Irrational Equations and Inequalities ru
+    D469CD9395CC483887D4590A7FF2FE13
+    A33D2BA4C1AB62BE74CC66CB37B14E9D
 2009
 Shahmeister - 2009 - Parametric Problems 3rd ed ru
     FB320D6A25CDA493174EF1B1B9E16FDB

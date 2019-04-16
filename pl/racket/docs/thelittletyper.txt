@@ -1084,3 +1084,16 @@ then (cong target f) is and
 Neutral expressions are those that cannot yet be evaluated, but replacing their variables with values
 could allow evaluation
 
+! The Commandment of cong
+If x is an X, and f is an
+    (-> X
+        Y),
+then (cong (same x) f) is the same
+    (= Y (f x) (f x))
+as
+    (same (f x)).
+
+The interplay between judging sameness and stating equality
+is at the heart of working with dependent types.
+
+### 9. Double your Money, Get Twice as Much
