@@ -81,7 +81,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 22                                      -   00:00 (of)
+Sorokin - I 23                                      -   00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -93,7 +93,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
 
 Tracking
 This week in rust                                   - 281
-Razbor Poletov                                      - 198 23:00 (of 2:05:00)
+Razbor Poletov                                      - 198 58:00 (of 2:05:00)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
     https://razborpoletov.com/2019/03/episode-201
@@ -195,3 +195,7 @@ Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
     7078FB687A8C94713A36F7A7297B927A
     B8E359E83B9A75F45BE4F939788E0735
     3492AE15A2A9E781B6E975119C9B0D76
+
+Trusov
+https://oz.by/books/more10425138.html
+http://www.academia-moscow.ru/ftp_share/_books/fragments/fragment_18830.pdf
