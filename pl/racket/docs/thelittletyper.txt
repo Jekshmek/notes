@@ -1097,3 +1097,36 @@ The interplay between judging sameness and stating equality
 is at the heart of working with dependent types.
 
 ### 9. Double your Money, Get Twice as Much
+
+the general-case of cong-eliminator is "replace"
+
+In "replace" the motive explains what is true
+for both expressions in Leibnit'z Law. It is an
+    (-> X
+        U)
+
+The "base" is evidence that (mot from) is true.
+The "base" type is
+    (mot from)
+
+The whole replace-expression is evidence that (mot to) is true.
+In other words, its type is
+    (mot to)
+
+! The Law of replace
+If target is an
+    (= X from to),
+mot is an
+    (-> X
+        U),
+and base is a
+    (mot from)
+then
+    (replace target
+        mot
+        base)
+is a
+    (mot to).
+
+
+

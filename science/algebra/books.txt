@@ -11,3 +11,6 @@ Kirkinskiy - Linear Algebra and Analytic Geometry ru
     BD182CA931A6CA9F26176223195E11F6
 2004
 Kostrikin - Algebra Introduction part 3 Basic Structures 3rd ed ru
+1973
+Kaluzhin - Common Algebra Introduction ru
+    E829D43EC1D22D06B5B67F0FD24DA81A

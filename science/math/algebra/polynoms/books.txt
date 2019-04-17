@@ -11,6 +11,11 @@ OstrikTsfasman - Algebraic Geometry and Number Theory ru
     https://www.mccme.ru/free-books/mmmf-lectures/book.8.pdf
     5F4196A2FDA33E44755491E5D8CD7B47
     8FEB29DC79511CF22BEDBC3AAADCECF1
+2000
+Tabachnikov - Polynoms 2nd ed ru
+    800FC228FBABB594A93FDD79CD66D97B
+    F16E852F89D32146EB332C3BFBCA05D8
+    F36AA83D73A99CF51BE8412C446E7B48
 1981
 Quant - Euler Polynoms ru
     http://kvant.mccme.ru/1981/08/o_raskrytii_skobok_ob_ejlere_g.htm

@@ -112,9 +112,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 586.7 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1129.0 (of 1388)
-Shalyto - motivation                                - 198   (of  873)
+Shalyto - motivation                                - 200   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 212..232 (of  375..418)
+The Little Typer - 3                                - 214..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -193,3 +193,11 @@ NikitinFomichev - Math Analysis Deep Course 2nd ed ru
 
 SUNTS NGU (Novosibirsc) summer school?
 https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
+
+Think Twice
+https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos
+
+Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
+7078FB687A8C94713A36F7A7297B927A
+B8E359E83B9A75F45BE4F939788E0735
+3492AE15A2A9E781B6E975119C9B0D76

@@ -19,6 +19,8 @@ Sgibnev - Numbers Divisability and Simple Numbers 3rd ed ru
 
 2009
 Mednik - Parity ru
+Vinogradov - Number Theory Fundamentals 12th ed ru
+    4B6E3B0F888C1AB4D2137674E43F9382
 
 2003
 Ore - Invitations to Number Theory ru
@@ -29,6 +31,10 @@ KazachekVilenkin - Algebra and Numbers Theory 2nd ed ru
 1983
 Gelfond - Integer Numbers Equations Solving 4th ed ru
     A7AEDF7752F394C10CF3FB54A313F3C6
+
+1969
+Kaluzhin - Main Arifmetics Theorem ru
+    46D53636FDBB506D9612E328E7FA4321
 
 1957
 Depman - Math Induction ru

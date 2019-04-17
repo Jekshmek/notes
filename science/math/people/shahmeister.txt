@@ -6,6 +6,8 @@ Shahmeister - Logarithms 5th ed ru
     0A27B153143BE08466B38A8E02D22AAB
 Shahmeister - Building and Transforming Graphics Part 2-3 ru
     84E6F6C03A1745581EDB5E42F9A69D82
+    F46C86E6E2FFBC090B7AC1A715ADA90C
+    0A08D4E7628E6590D59887AB42259214
 2015
 Shahmeister - Geometric Exam Problems part1 Planimetry ru
     24103045518FBAB8BF94C91AE36BAB1A
@@ -21,6 +23,8 @@ Shahmeister - Complex Numbers 3rd ed ru
     ! about periodical fractions !
 Shahmeister - Building and Transforming Graphics Part 1 ru
     6A795AAF9D02E29E8148F11B2419AE88
+    7CDF63223E4EA8F620CF09580C73714D
+    30115D5D5D4A20DF5F59A3ADC742FFD2
 2013
 Shahmeister - Fractions 4th ed ru
     F5994343F725C8A11688DC18C22B1BE8
@@ -33,6 +37,9 @@ Shahmeister - Geometric Exam Problems part2 Stereometry and Vectors ru
     FBBD4A6658DF6E85B9C64858C3513E7A
     D02AE532C877B7D7B4D90C27C7164C8F
 2011
+Shahmeister - Building Functions Graphics via Elementary Methods ru
+    3A3E2E4876E3B211A61B3C4E5A98C824
+    0645BB3CA8FC956AE0F1BB13AE2A5FC4
 Shahmeister - Equations 4th ed ru
     6E5B2679DD40F38E736D0EC47C57FC5A
 Shahmeister - Roots 4th ed ru

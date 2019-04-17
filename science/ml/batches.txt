@@ -1,4 +1,5 @@
 2019
+https://blog.janestreet.com/l2-regularization-and-batch-norm/
 https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
 2018
 https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/

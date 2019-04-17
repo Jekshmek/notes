@@ -4,6 +4,10 @@ https://aturon.github.io/apr/
 https://rust-lang.github.io/async-book/
 
 2019
+https://blog.yoshuawuyts.com/runtime/
+    https://crates.io/crates/runtime
+    https://rustasync.github.io/runtime/runtime/index.html
+    https://github.com/rustasync/runtime
 https://boats.gitlab.io/blog/post/for-await-i/
 https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2
 2018
