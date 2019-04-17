@@ -1,4 +1,6 @@
 2019
+Polukhin - Cpp in Practice
+    https://www.youtube.com/watch?v=g2iyNH2Gh1k
 CSC - 2019 - Cpp part 1
     https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL
 CSC - 2019 - Cpp part 2

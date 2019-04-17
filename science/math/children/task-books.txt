@@ -33,13 +33,6 @@ PotapovRozovDorofeev - MSU Short Math Abiturients Manual ru
 1960
 Germanovich - Math TaskBook for Acumen ru
 
-2004
-Sergeev - Math Problems with Answers and Solutions ru
-    9478BA46D1520A6472EE32B150C502FE
-    2B8CFAE6FA5BED2484EFD6AE5A5D3FE3
-    8D0A49584B8AE0B591C9892D687DECEC
-    1EFA0A49E310C6FBD07584B0D2BC5889
-
 Gorbachev
     Combinatory - 183 - 475
         185 - 476

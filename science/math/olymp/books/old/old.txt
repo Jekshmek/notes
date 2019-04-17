@@ -1,5 +1,14 @@
 BoltyansyYaglom - Moscow Math Olimpiads
 
+1987
+Sergeev - Foreign Math Olympiads ru
+    85799AE6515A93B088619B6C8870733E
+    AB6E3381694F9918E2F3422EB9C2D269
+
+1984
+AnisimovGashkovSergeev - School Math Olympiad Problems ru
+    B520E7ED321B50BCC27EBD105FCBE640
+
 1976
 Morozova - International Math Olympiads ru
 
@@ -9,9 +18,9 @@ Strashevich - Poland Math Olympiads ru
 
 1970
 https://vk.com/doc515221370_481615226
-D08C31B75C8C023C76EB0EE08D79AA61
-98969CB54A79829D329DC8A7AEDC42AF
-D298A01EA988EFD72AE3F02C5ED1C4B0
+    D08C31B75C8C023C76EB0EE08D79AA61
+    98969CB54A79829D329DC8A7AEDC42AF
+    D298A01EA988EFD72AE3F02C5ED1C4B0
 
 1962
 BugulovTalasov - Problemsbook for Preparation to Math Olimpiad ru

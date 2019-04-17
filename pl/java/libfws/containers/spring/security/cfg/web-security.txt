@@ -60,6 +60,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
             .and()
                 .httpBasic()
         ;
+            //.authorizeRequests()
+            //    .anyRequest().permitAll()
     }
     @Autowired
     public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
