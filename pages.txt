@@ -24,7 +24,7 @@ NMO
     2018-01-11
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 15
+    Apr 18
 
 track
 scoop extras - a
@@ -92,7 +92,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 281
+This week in rust                                   - 282
 Razbor Poletov                                      - 198 58:00 (of 2:05:00)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
@@ -114,7 +114,7 @@ Zhitinsky                                           - 586.7 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1129.0 (of 1388)
 Shalyto - motivation                                - 200   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 214..232 (of  375..418)
+The Little Typer - 3                                - 216..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
