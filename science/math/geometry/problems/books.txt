@@ -5,6 +5,9 @@ BudakZolotorevaFedotov - Geometry Deep Course 3rd ed ru
 2009
 Smirnov - Geometry Planimetry EGE ru
     DE42FF508491428B2F848781AC4F28ED
+2007
+Genkin - Geometrical Solution of Nongeometrical Problems ru
+    A5F1D62D57405258136E92F7E96415E5
 2006
 Prasolov - Planimetry Problems 5th ed ru
     2B7E5A7D55B5F5049E6BB84C670AF5F2
@@ -15,3 +18,7 @@ Prasolov - Planimetry Problems 5th ed ru
 2001
 Edush - Geometry Everyday Tips 7 class ru
     9C01B23569754AADA522EF7DC20E5B52
+1992
+GusevLitvinenkoMordkovich - Elementary Math Praktikum - Geometry ru
+    55DBB1BAA28150C3F1A5BDEE2EBC7E7B
+    17DF587063B012900023F231CE09C682

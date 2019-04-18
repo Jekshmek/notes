@@ -51,13 +51,24 @@ Kozlova - Tales and Hints 2nd ed ru
 Spivak - Math Circle 7class ru
 
 1994
-Genkin - Leningrad Math Circles ru
+GenkinItenbergFomin - Leningrad Math Circles ru
+    https://math.ru/lib/434
+    9FF34584333FBA42B561E2D53FC71F90
+    13AC18D3A94731DD2B23D147C44B2752
+    B53E0319E79B4F70FC7456262721D068
+    0DC1768C11D3468A044F9E877F4E9009
+    11C3B1DCD7295D4A99748ADB47E9ED78
     !
 
 1993
 Ivanov - Math Circle Piter ru
     !
 
+1987
+Petrakov - Math Circles in 8-9 class ru
+    91ED7B6515984B8D7AAB012903010F59
+
 1972
 Dyshinskiy - Math Circle Igroteka Vol1 ru
 Dyshinskiy - Math Circle Igroteka Vol2 ru
+

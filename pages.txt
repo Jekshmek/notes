@@ -21,7 +21,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-01-01
+    2018-01-11
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Apr 15
@@ -214,3 +214,13 @@ https://www.youtube.com/watch?v=ZzuWwtxEWi8
 Rohlin
 http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=137&option_lang=rus
 http://www.mathnet.ru/links/d6d531165f6d93287bb4c8bca8ddcebc/mp137.pdf
+
+Petrakov - Math Olympiads
+    E3FFF3092A5DABBD4DFE604D4D5837E1
+    893EECB38E1006258140F91456283FED
+    E68044EAF5194F093CB61A6D4E7FBD2D
+Petrakov - International Math Olympiads
+    C1BB98FCB438FA1AD9D299C159B9C6E7
+
+Shen - Analysis
+https://www.youtube.com/watch?v=P-uhob86V7c
