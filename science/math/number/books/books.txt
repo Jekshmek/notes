@@ -39,6 +39,14 @@ Depman - Math Induction ru
 1956
 Serpinskiy - Solving Natural Numbers Equations ru
 
+1954
+Berman - Number and Science about it 2nd ed ru
+    9F48D8E0B408C9FD0E0EE754A5D740B6
+    FE5FC01D78B38364EA9D3CAAB65E5DA9
+    7AC8756BD5BB67985C8B18CFEA2F8941
+    B28B5E47DAC2047E745A3E6B41560392
+    48B91BBA9708E61827745867DCAC8D6F
+
 1952
 http://ilib.mccme.ru/djvu/vinogradov.htm
 

@@ -23,13 +23,6 @@ Akopyan - Geometry in Pictures ru
     https://www.mccme.ru/~akopyan/papers/RuGeoFigures.pdf
 2008
 Zelenskiy - Geometry in Problems ru
-2007
-PrasolovTihomirov - Geometry 2nd ed ru
-    https://chitatel.by/catalog/book/301212
-    719DB1B93168E9CD781FA28D6E42DE62
-    468DC1CE21ADCF3B5E2AAA229FE5FAB6
-    C3860CF6115C9B4B6E19FEF63B04A380
-    super cool and complex
 2006
 Prasolov - Planimetry Problems ru
     http://ilib.mccme.ru/pdf/planim5.pdf
