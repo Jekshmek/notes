@@ -21,7 +21,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-01-11
+    2018-03-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Apr 18
@@ -114,7 +114,7 @@ Zhitinsky                                           - 586.7 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1129.0 (of 1388)
 Shalyto - motivation                                - 204   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 216..232 (of  375..418)
+The Little Typer - 3                                - 218..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -227,3 +227,6 @@ https://www.youtube.com/watch?v=P-uhob86V7c
 
 Degtyariov - about phisics problems
 https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach
+
+Rohlin
+http://www.mathnet.ru/links/a9ab5b1a08d68cf6c1f60bda91624303/mp137.pdf
