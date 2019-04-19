@@ -196,24 +196,16 @@ Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
     B8E359E83B9A75F45BE4F939788E0735
     3492AE15A2A9E781B6E975119C9B0D76
 
-Trusov
-https://oz.by/books/more10425138.html
-http://www.academia-moscow.ru/ftp_share/_books/fragments/fragment_18830.pdf
-
 Yaschenko
-https://biblio.mccme.ru/node/2228/shop
-https://biblio.mccme.ru/node/2356/shop
+    https://biblio.mccme.ru/node/2228/shop
+    https://biblio.mccme.ru/node/2356/shop
 
 seminar
-https://www.mccme.ru/nir/seminar/
+    https://www.mccme.ru/nir/seminar/
 
 Merzon
-https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
-https://www.youtube.com/watch?v=ZzuWwtxEWi8
-
-Rohlin
-http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=137&option_lang=rus
-http://www.mathnet.ru/links/d6d531165f6d93287bb4c8bca8ddcebc/mp137.pdf
+    https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
+    https://www.youtube.com/watch?v=ZzuWwtxEWi8
 
 Petrakov - Math Olympiads
     E3FFF3092A5DABBD4DFE604D4D5837E1
@@ -223,10 +215,20 @@ Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
 
 Shen - Analysis
-https://www.youtube.com/watch?v=P-uhob86V7c
+    https://www.youtube.com/watch?v=P-uhob86V7c
 
 Degtyariov - about phisics problems
-https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach
+    https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach
 
-Rohlin
-http://www.mathnet.ru/links/a9ab5b1a08d68cf6c1f60bda91624303/mp137.pdf
+Sharygin - Nuzhna li shkole 21 veka geometriya
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=138&option_lang=rus
+    https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
+    http://www.shevkin.ru/stat-i-podrobnee/i-f-shary-gin-nuzhna-li-shkole-21-go-veka-geometriya/
+
+Tihomirov - Gelfand
+    https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
+
+1947
+Mushelishvili - Analytics Geometry Course 3rd ed ru
+    CA116975006350F35F9E84599CC1E9AF
+    DDCBC5831C7C2E0659D34E5B0D31B5A3
