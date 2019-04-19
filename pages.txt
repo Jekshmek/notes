@@ -112,7 +112,7 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 586.7 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1129.0 (of 1388)
-Shalyto - motivation                                - 200   (of  873)
+Shalyto - motivation                                - 204   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 The Little Typer - 3                                - 216..232 (of  375..418)
 
@@ -224,3 +224,6 @@ Petrakov - International Math Olympiads
 
 Shen - Analysis
 https://www.youtube.com/watch?v=P-uhob86V7c
+
+Degtyariov - about phisics problems
+https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach

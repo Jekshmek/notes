@@ -15,6 +15,10 @@ Svechnikov - Math History Travel ru
 Vilenkin - Behind the Pages of Math Teachbook ru
 1976
 Medvedev - French School of the Set and Functions Theory ru
+1974
+Rybnkikov - History of Math 2nd ed ru
+    FF6C99383F27B13C21780F36AFE7C119
+    B4742FBD94D1A77AF14F2633C2E32D87
 1972
 Azernikov - Nonaccidental Accidents ru
     just bio
@@ -23,6 +27,14 @@ Petrova - Math Evenings 2nd ed ru
 1967
 Depman - Tails about Old and New Algebra ru
     p 37 - Pifagor Theorem
+1963
+Rybnikov - History of Math vol2 ru
+    56769AE74FB213C4C26C682843E15DE3
+    A878E4F7BC7932B54428C59FFC0A0AA3
+1960
+Rybnikov - History of Math vol1 ru
+    37EB6583E3F4FE22A689505BD18AB641
+    02372136F724D893217AE8988F50A6F5
 1957
 Depman - Tails about Problems Solving ru
     https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_135fb419926.html (absent)
