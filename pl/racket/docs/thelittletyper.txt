@@ -1129,4 +1129,23 @@ is a
     (mot to).
 
 
+(claim mot-step-incr=add1
+    (-> Nat Nat
+        U))
+(define mot-step-incr=add1
+    (\ (n-1 k)
+        (= Nat
+            (add1
+                (incr n-1))
+            (add1
+                k))))
+
+dashed-def
+(define step-incr=add1
+    (\ (n-1)
+        (\ (incr=add1_n-1)
+            (replace incr=add1_n-1
+                (mot-step-incr=add1 n-1
+                (same (add1 (incr n-1))))))))
+
 
