@@ -26,6 +26,12 @@ DorofeevPotapovRozov - Math for Abiturients ru
 1993
 Merzlyak - Unexpected Step ru
 
+1972
+Mazanik - Solve Yourself part 3 ru
+    8E860F06157C2A092526854C1EEFB2D8
+    DCD87AA147BE37AA67DEC30EB917A3C4
+    E8DA89E90112E408A1D58D86CF063865
+
 1964
 PotapovRozovDorofeev - MSU Short Math Abiturients Manual ru
     ! with explanations !
