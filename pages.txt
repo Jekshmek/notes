@@ -199,9 +199,6 @@ Petrakov - Math Olympiads
 Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
 
-Degtyariov - about phisics problems
-    https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach
-
 Sharygin - Nuzhna li shkole 21 veka geometriya
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=138&option_lang=rus
     https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
@@ -209,8 +206,3 @@ Sharygin - Nuzhna li shkole 21 veka geometriya
 
 Tihomirov - Gelfand
     https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
-
-1947
-Mushelishvili - Analytics Geometry Course 3rd ed ru
-    CA116975006350F35F9E84599CC1E9AF
-    DDCBC5831C7C2E0659D34E5B0D31B5A3
