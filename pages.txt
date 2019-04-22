@@ -81,7 +81,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 23                                      -   07:30 (of)
+Sorokin - I 24                                      -   03:30 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -93,7 +93,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
 
 Tracking
 This week in rust                                   - 282
-Razbor Poletov                                      - 198 58:00 (of 2:05:00)
+Razbor Poletov                                      - 198 1:36:00 (of 2:05:00)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
     https://razborpoletov.com/2019/03/episode-201
@@ -167,15 +167,6 @@ https://habr.com/ru/post/250383/
 
 Math Olimp Need
 https://uchitel.by/catalog/book/1220086
-Geom Need
-https://uchitel.by/catalog/uchebniki-osnovnye-16449
-Pogorelov
-https://uchitel.by/catalog/book/288737
-Atanasyan
-https://uchitel.by/catalog/book/365997
-    A233EEDB4C6E756AFA0EA4F680552C66
-Sharygin
-https://uchitel.by/catalog/book/233809
 
 Need
 KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
@@ -188,9 +179,6 @@ NikitinFomichev - Math Analysis Deep Course 2nd ed ru
 SUNTS NGU (Novosibirsc) summer school?
 https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
 
-Think Twice
-https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg/videos
-
 Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
     7078FB687A8C94713A36F7A7297B927A
     B8E359E83B9A75F45BE4F939788E0735
@@ -199,9 +187,6 @@ Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
 Yaschenko
     https://biblio.mccme.ru/node/2228/shop
     https://biblio.mccme.ru/node/2356/shop
-
-seminar
-    https://www.mccme.ru/nir/seminar/
 
 Merzon
     https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
@@ -213,9 +198,6 @@ Petrakov - Math Olympiads
     E68044EAF5194F093CB61A6D4E7FBD2D
 Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
-
-Shen - Analysis
-    https://www.youtube.com/watch?v=P-uhob86V7c
 
 Degtyariov - about phisics problems
     https://cyberleninka.ru/article/v/kreativnye-metody-resheniya-slozhnyh-zadach
