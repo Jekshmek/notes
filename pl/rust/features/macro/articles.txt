@@ -3,6 +3,8 @@ https://www.reddit.com/r/rust/comments/5pxdpk/an_overview_of_macros_in_rust/
 
 https://users.rust-lang.org/t/procedural-macros-on-stable-rust-today-kind-of/7695
 
+2019
+https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5
 2018
 https://philbooth.me/blog/refactoring-with-rust-macros
 https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1

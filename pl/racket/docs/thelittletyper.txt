@@ -1149,3 +1149,28 @@ dashed-def
                 (same (add1 (incr n-1))))))))
 
 
+(claim double
+    (-> Nat
+        Nat))
+(define double
+    (\ (n)
+        (iter-Nat n
+            0
+            (+2))))
+
+another function for doing this is
+
+(claim twice
+    (-> Nat
+        Nat))
+(define twice
+    (\ (n)
+        (+ n n)))
+
+How can their equality be written as a type?
+
+(claim twice=double
+    (PI ((n Nat))
+        (= Nat (twice n) (double n))))
+
+The statement to be proved is...

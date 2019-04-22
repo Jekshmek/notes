@@ -22,6 +22,9 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70
+https://medium.com/@dai_shi/new-react-redux-coding-style-with-hooks-without-selectors-5055d59ab753
+https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/
 https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/
 https://www.infoq.com/news/2019/04/react-hooks-pre-concurrent-mode
 https://blog.bitsrc.io/using-react-hooks-to-create-awesome-forms-6f846a4ce57

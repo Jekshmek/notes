@@ -27,6 +27,12 @@ Petrova - Math Evenings 2nd ed ru
 1967
 Depman - Tails about Old and New Algebra ru
     p 37 - Pifagor Theorem
+1965
+Depman - History of Arithmetics 2nd ed ru
+    E5BA13ADDE58833A3AB810BF390056AF
+    97260ABE749A844ED0945E99B51C2E3C
+    B19DBF9786536FA2B2027F99B04A9EFD
+    B3E8BD20F3375055F86963E5FEDE4371
 1963
 Rybnikov - History of Math vol2 ru
     56769AE74FB213C4C26C682843E15DE3
@@ -47,3 +53,4 @@ Depman - Measurements ru
 
 Spivak - enciklop
 http://www.kvant.info/panov/enciklop.pdf
+

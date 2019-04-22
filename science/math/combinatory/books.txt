@@ -57,6 +57,10 @@ Hohlov - Data Structures and Combinatorial Algorithms ru
 1990
 Stanley - Enumerative Combinatorics vol1 ru
 
+1979
+Uspenskiy - Pascal Triangle ru
+    50C56305574DCB26038BB51B5F6C269D
+
 1977
 Reingold - Combinatorial Algorithms ru
 
