@@ -2,9 +2,6 @@
 BudakZolotorevaFedotov - Geometry Deep Course 3rd ed ru
     AF775145679208E787CBCD70ED057A2E
     D34CA55848FE43E24C72988AAF227DD5
-2009
-Smirnov - Geometry Planimetry EGE ru
-    DE42FF508491428B2F848781AC4F28ED
 2007
 Genkin - Geometrical Solution of Nongeometrical Problems ru
     A5F1D62D57405258136E92F7E96415E5
