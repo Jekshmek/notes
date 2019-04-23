@@ -1,6 +1,9 @@
 http://is.ifmo.ru/works/
 http://is.ifmo.ru/automata/
 
+2016
+Marchenkov - Konechnye Avtomaty ru
+    https://e.lanbook.com/book/59510
 2013
 Gale - Machines and Their Languages (short and good)
     https://www.dcs.warwick.ac.uk/michael_gale/publications/2013-01-14-machines-and-their-languages.html
@@ -44,6 +47,10 @@ Lupal - Automata Theory ru
     FA498C044968715F6D4045EF21A5F2D3
 1998
 Shalyto - SWITCH Technology ru
+1971
+Melihov - Oriented Graphs and Finite Automatas ru
+    E9A25C73AE4D8F8248BB41526599ABB1
+
 ????
 Adamczyk - INTRODUCTION Selected Patterns for Implementing Finite State Machines
     http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.94.2987

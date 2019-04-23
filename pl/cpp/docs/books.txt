@@ -54,6 +54,9 @@ Yurichev - Cpp Programming Language Notes ru
 Kalicharan - Advanced Topics in C
     ! mostly on data structures
 Rao - Teach Yourself Cpp in 21 Day 7th ed
+PodbelskiyFomin - C Programming Course ru
+    C36FA3423589D32F63BA477AF9CB7A29
+    9CCEF9518F62186ACE9F2305BE6565B0
 
 2012
 Dewhurst - Cpp Common Knowledge ru
@@ -115,7 +118,6 @@ Krupnik - Cpp Tutorial ru
 Kultin - Cpp in Problems and Samples ru
 
 2004
-Podbelskiy - C Programming ru
 Kubensky - Cpp Structures and Algorithms ru
 Krupnik - Learn Cpp ru
     short intro

@@ -114,9 +114,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 619.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1137.0 (of 1388)
-Shalyto - motivation                                - 206   (of  873)
+Shalyto - motivation                                - 208   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 220..232 (of  375..418)
+The Little Typer - 3                                - 222..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -130,7 +130,8 @@ clear at D:/Temp
     jna*.dll
     snappy*
 
-Marchenkov - 2016 - Konechnye Avtomaty
+Marchenkov - 2016 - Konechnye Avtomaty ru
+    https://e.lanbook.com/book/59510
 Raizer - 1966 - Combinatory Math
 Riordan - Intro to Combinatory Analysis
 Anderson - Discrete Math and Combinatorics
@@ -205,9 +206,6 @@ Sharygin - Nuzhna li shkole 21 veka geometriya
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=138&option_lang=rus
     https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
     http://www.shevkin.ru/stat-i-podrobnee/i-f-shary-gin-nuzhna-li-shkole-21-go-veka-geometriya/
-
-Tihomirov - Gelfand
-    https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
 
 Crypto and Modular Arithmetics
 2017

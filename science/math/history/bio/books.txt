@@ -14,6 +14,9 @@ Berezin
     http://staff.math.su.se/mleites/books/2009-vospominaniya.pdf
 2006
 Shiryaev - Kolmogorov ru
+2004
+Tihomirov - Math Prosveschenie 3 ru
+    https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
 2003
 Tihomirov - Great Old Mathematicians 2nd ed ru
     953AA92820FAC36D99822B6BBD5FF954
