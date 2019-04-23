@@ -14,9 +14,22 @@ Irzhavskiy
 https://www.bsu.by/ru/main.aspx?guid=88801
 http://fpmi.bsu.by/main.aspx?guid=30191
 
-http://www.uni.bsu.by/arrangements/abitur/index.html
-
 http://www.uni.bsu.by/arrangements/video/index.html
 
+Informatics Olympiad
+http://uni.bsu.by/arrangements/abitur/index.html
+http://www.uni.bsu.by/arrangements/abitur/index.html
+
+Number Theory Seminar
+http://uni.bsu.by/arrangements/seminar_t4/index.html
+Modern Math Intro Seminar
+http://uni.bsu.by/arrangements/inputinmath/index.html
 http://www.uni.bsu.by/arrangements/inputinmath/index.html
+    http://uni.bsu.by/arrangements/inputinmath/themes/theme1.pdf
+
+Research Seminar
+http://uni.bsu.by/arrangements/psem/index.html
 http://www.uni.bsu.by/arrangements/psem/index.html
+
+Research Concurs
+http://www.uni.bsu.by/arrangements/conf/index.html
