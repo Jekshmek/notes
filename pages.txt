@@ -195,13 +195,10 @@ Merzon
     https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
     https://www.youtube.com/watch?v=ZzuWwtxEWi8
 
-Petrakov - Math Olympiads
-    E3FFF3092A5DABBD4DFE604D4D5837E1
-    893EECB38E1006258140F91456283FED
-    E68044EAF5194F093CB61A6D4E7FBD2D
 Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
 
+2004
 Sharygin - Nuzhna li shkole 21 veka geometriya
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=138&option_lang=rus
     https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
@@ -213,3 +210,5 @@ https://habr.com/en/post/335906/
 
 bsu liceum
 https://www.kp.by/daily/26595/3611113/
+
+https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html

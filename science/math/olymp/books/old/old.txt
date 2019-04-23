@@ -9,6 +9,12 @@ Sergeev - Foreign Math Olympiads ru
 AnisimovGashkovSergeev - School Math Olympiad Problems ru
     B520E7ED321B50BCC27EBD105FCBE640
 
+1982
+Petrakov - School Math Olympiads ru
+    E3FFF3092A5DABBD4DFE604D4D5837E1
+    893EECB38E1006258140F91456283FED
+    E68044EAF5194F093CB61A6D4E7FBD2D
+
 1976
 Morozova - International Math Olympiads ru
 

@@ -3,6 +3,11 @@ Tkachuk - Math to Abiturient ru
     https://uchitel.by/catalog/book/481488
     8EFA7005FF6B3B1CC3D916E92F2FA65D
     ! super-huge !
+2003
+BudakSchedrin - Elementary Math 5th ed ru
+    B46E88961CE2089897C6EECD9C55E40B
+    C5A5973B42A2F64A360AA16810CEB905
+    A3CBDC5FD2E04572BFC849494FD2DBFB
 2001
 VoroninFedotov - Preparation to MSU Entrance Exam - Geometry ru
     E27BF02FCBB8B630AD55D81E49E3C65C

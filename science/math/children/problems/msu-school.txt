@@ -7,6 +7,11 @@ AlfutovaEgorov - 18x18 Entrance Exam FMSH MSU ru
     http://alleng.org/d/math/math2343.htm
 AlfutovaZagorskiy - Kolmogorov SUNTS Entrance Examination Problems ru
     4CDFBCE7D954CF827D85F8D38D06ECEC
+2015
+BudakZolotarevaPopovFedotov - Math Deep Course Problembook 3rd ed ru
+    55F381C2CB4D5D25EB59F362749900D2
+    4807C296B074E0B5EEE6D7875AB4CB03
+    AAD7D08E5D508E361063994C021A2A60
 2011
 ZolotorevaPopov - Algebra Deep Course ru
     73E1B21D8F10D4B995B774CDF37F660A
