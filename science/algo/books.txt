@@ -21,6 +21,9 @@ Bhasin - Algorithms - Design and Analysis
 KorteVigen - Combinatorial Optimization Theory and Algorithms ru
     https://uchitel.by/catalog/book/367513
     649DCC49F1BD6DC2996C67BA571D287D
+GoodrichTamassia - Algorithm Design and Applications
+    9D654A56F4C0EAB229E08DC4DFAB0A39
+    A8544B9BEA8F0F126813A12B4DA091DF
 
 2014
 Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms

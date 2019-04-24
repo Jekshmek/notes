@@ -10,6 +10,12 @@ BabenkoLevin - Algorithms and Data Structures Theory Introduction ru
     304EA82C00692AB8E7A59C90A91C7888
     4F0D5D4CFA08E13287629674A2730C7F
     8091CD6FE120FCFBD86CF2D3E5880387
+2014
+WarrenJr - Hackers Delight 2nd ed ru
+    5CA959ABFF14592F627F48CE44A4E453
+    9DC6064469F8E9D9EFF9C919AA8E6582
+    B8D924BE2EE21B13C5DC84DD45F9C72E
+    6F28C7CF747CD2E5F13428750221225E
 2009
 Pyshkin - Algorithms and Data Structures ru
     http://kspt.icc.spbstu.ru/media/files/course/algstr/algstr_2009.pdf
