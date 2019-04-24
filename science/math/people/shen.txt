@@ -5,6 +5,8 @@ Shen - What is Math Analysis ru
     https://www.youtube.com/watch?v=P-uhob86V7c
 Shen - Geometry in Problems ru
     https://uchitel.by/catalog/book/273199
+VyalyiPodolskiyRubtsovShvartsShen - 2017 - Discrete Math Lections ru
+    http://rubtsov.su/public/hse/2017/DM-HSE-Draft.pdf
 2016
 Shen - Simple and Compound Numbers ru
     https://chitatel.by/catalog/book/472282
@@ -35,4 +37,7 @@ Shen - About Math Strictness in School Math Course ru
 Shen - Prime and Compound Numbers ru
     6B9CE43529981A8386B2A6F082148C04
     DE4E4FADFCA8DEA8A8381C516F18184E
-
+2000
+Shen - Math Problems ru
+    https://www.mccme.ru/free-books/57/shen.pdf
+    https://www.studmed.ru/shen-a-red-zadachi-po-matematike-predlagavshiesya-uchenikam-matematicheskogo-klassa-57-shkoly-vypusk-2000-goda-klass-v_80a22deaab1.html

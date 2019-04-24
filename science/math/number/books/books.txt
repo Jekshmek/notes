@@ -29,6 +29,15 @@ KazachekVilenkin - Algebra and Numbers Theory 2nd ed ru
 Gelfond - Integer Numbers Equations Solving 4th ed ru
     A7AEDF7752F394C10CF3FB54A313F3C6
 
+1972
+Ozhigova - Development of Number Theory in Russia ru
+    123B91ACE13C51300ECA051B6B67F294
+
+1970
+Ozhigova - What is a Number Theory ru
+    1CDA8AF909318EC79B4B33C4B144F373
+    0925A45FBC84E3BED527F7EA5DC0319C
+
 1969
 Kaluzhin - Main Arifmetics Theorem ru
     46D53636FDBB506D9612E328E7FA4321

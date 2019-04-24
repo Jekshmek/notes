@@ -20,6 +20,8 @@ https://habrahabr.ru/post/326966/
 
 presentations
 2019
+Kozlov - DeepLearning on Fingers ru
+    https://www.youtube.com/watch?v=tlj-CMibdMI
 Eduonix - Machine Learning With Tensor Flow | Recurrent Neural Networks | Part 3
     https://www.youtube.com/watch?v=NyrmaSS9qqA
 2018

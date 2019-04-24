@@ -114,9 +114,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 619.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1137.0 (of 1388)
-Shalyto - motivation                                - 208   (of  873)
+Shalyto - motivation                                - 210   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 222..232 (of  375..418)
+The Little Typer - 3                                - 224..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -221,6 +221,13 @@ https://otr-online.ru/programmy/gamburgskii-schet/sergei-dorichenko-kak-31661.ht
 Uspenskiy
 https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
 
-2008
-Manin - Math as a Metaphor ru
-https://math.ru/lib/files/pdf/manin.pdf
+to search
+Kanel-Belov
+
+2009
+ZaslavskiyPermyakovSkopenkovShapovalov - Math in Problems ru
+    https://www.mccme.ru/free-books/olymp/matprob.pdf
+
+2017
+VyalyiPodolskiyRubtsovShvartsShen - 2017 - Discrete Math Lections ru
+    http://rubtsov.su/public/hse/2017/DM-HSE-Draft.pdf

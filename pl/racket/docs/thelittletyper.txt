@@ -1212,3 +1212,20 @@ The statement to be proved is...
             (same (add1 j)
             (step-add1+=+add1 j)))))
 
+
+(claim mot-twice=double
+    (-> Nat
+        U))
+(define mot-twice=double
+    (\ (k)
+        (= Nat
+            (twice k)
+            (double k))))
+
+(claim step-twice=double
+    (PI ((n-1 Nat))
+        (-> (mot-twice=double n-1)
+            (mot-twice=double (add1 n-1)))))
+
+
+

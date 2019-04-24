@@ -2,14 +2,6 @@
 Peregozhin - Discrete Math 2nd ed ru
     http://math.nsc.ru/~perezhogin/Perezhogin.pdf
 
-2016
-GlibichukRaygorodsky - Discrete Math Elements in Problems ru
-    a lot of high combinatory, graphs
-    https://uchitel.by/catalog/book/443697
-    https://www.mccme.ru/circles/oim/discrbook.pdf
-    99312FD3A791A12FE7BD69ABFC257D65
-    008084957E5990C81D99C20D061FB8C2
-
 2014
 WarrenJR - Hackers Delight 2nd ed ru
 Lando - Discrete Math Intro ru

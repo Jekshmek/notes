@@ -3,6 +3,10 @@ Vinogradov - Number Theory Fundamentals 12th ed ru
     4B6E3B0F888C1AB4D2137674E43F9382
     old-one
     http://ilib.mccme.ru/djvu/vinogradov.htm
+ManinPanchishkin - Intro to Modern Number Theory ru
+    24C0D077C80D9881F5CC6E766971F52D
+    56B75BF2AD13D8E00E24B88D4B4DFBE9
+    7C5066E857DFB1B68DB9B4AF86173D1E
 2003
 Ore - Invitations to Number Theory 2nd ed ru
     C273697B92D893DDC364B0F36B418726
