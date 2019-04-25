@@ -12,6 +12,9 @@ JetBrains
 https://www.youtube.com/channel/UCdeSxuESqLOxuuwXNnqqbrA/playlists
 
 2019
+MIPT - Dorofeev - Neural Net Technologies
+    https://www.youtube.com/playlist?list=PLHOMZXOczEYMXTOZRP4-pVzttVKs6MHSa
+    https://drive.google.com/drive/folders/188NNm7KPow6x7SzhzeRJpo3FXu1O2ib-
 MIPT - Vlasov - ML
     https://www.youtube.com/playlist?list=PLHOMZXOczEYPPyq_L7RcEwo4r0YQzEE4p
     https://github.com/ml-dafe/ml_mipt_dafe_minor
