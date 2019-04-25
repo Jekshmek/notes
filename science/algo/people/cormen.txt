@@ -10,6 +10,12 @@ Cormen - Introduction to Algorithms 3rd ed ru
     1st
     https://www.studmed.ru/kormen-t-leyzerson-ch-rivest-r-algoritmy-postroenie-i-analiz_ef7a66b3c55.html
     https://www.studmed.ru/kormen-th-leyzerson-chi-rivest-rl-shtayn-k-algoritmy-postroenie-i-analiz-1-e-izdanie_d9925275af9.html
+Cormen - Algorithms Unlocked
+    http://dahlan.unimal.ac.id/files/ebooks/2013%20Algorithms_Unlocked.pdf
+    DED655A8C87EDA65C81F064AADE1F901
+    FBA8FE039D323007A39F1FD3F48F5A5B
+    E37CDE00C1B0B39FE38E20BCB46C83C4
+    213 pages
 2009
 Cormen - Introduction to Algorithms 3rd ed
 1990
