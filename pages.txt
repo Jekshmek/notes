@@ -3,6 +3,7 @@ https://m.gazeta.ru/science/2018/06/10_a_11792839.shtml
 Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
+    https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
 Skopenkov
     https://www.mccme.ru/free-books/olymp/matprob.pdf
 Zavelskiy - EGE
@@ -97,7 +98,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 26                                      -   08:00 (of)
+Sorokin - I 27                                      -   02:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -131,13 +132,8 @@ Shalyto - motivation                                - 212   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
 The Little Typer - 3                                - 226..232 (of  375..418)
 
-nlp - word vectors
-    https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
-
-my share
-https://drive.google.com/open?id=0B9dLexguZDURdDFSeURTVjEtZTA
 
 clear at D:/Temp
     jna*.dll
@@ -151,6 +147,7 @@ Anderson - Discrete Math and Combinatorics
 
 Potopahin
     https://avidreaders.ru/book/iskusstvo-poiska-resheniya-v-nestandartnoy-zadache.html
+        https://b-ok.org/book/3490987/c7f90a
     https://avidreaders.ru/book/yazyk-c-osvoy-na-primerah.html
     https://avidreaders.ru/book/sovremennoe-programmirovanie-s-nulya-cd.html
 Misc
@@ -181,8 +178,6 @@ https://habr.com/ru/post/250815/
 https://habr.com/ru/post/250523/
 https://habr.com/ru/post/250383/
 
-Math Olimp Need
-https://uchitel.by/catalog/book/1220086
 
 Need
 KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
@@ -225,9 +220,6 @@ http://7iskusstv.com/2016/Nomer8/Demidovich1.php
 Dorichenko
 https://otr-online.ru/programmy/gamburgskii-schet/sergei-dorichenko-kak-31661.html
 
-Uspenskiy
-https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
-
 to search
 Kanel-Belov
 
@@ -243,7 +235,14 @@ https://vk.com/@postypashki-kak-podgotovitsya-k-olimpiadam-po-informatike
 
 http://math.mosolymp.ru/
 ZFTSH metodichki
-kurs matan (specmath) ot 57 school (elements of math in problems)
+kurs matan (specmath) of 57 school (elements of math in problems)
+    GolenischevaKutuzovaYaschenko - Elements of Math in Problems part 1 ru
+    https://www.mccme.ru/free-books/yaschenko/v08book-08.pdf
+    ... part2
+    https://www.mccme.ru/free-books/yaschenko/v08book-09.pdf
+    https://uchitel.by/catalog/book/71115
+    Galibchuk - ... discrete
+    https://uchitel.by/catalog/book/443697
 Gashkov - Modern Elementary Algebra
 Maly Mehmat - books list
 

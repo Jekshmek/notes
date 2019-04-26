@@ -1,3 +1,6 @@
+2019
+https://helm.sh/blog/helm-3-preview-pt2/
+https://helm.sh/blog/helm-3-preview-pt1/
 2018
 https://habr.com/company/southbridge/blog/429340/
 https://habr.com/company/flant/blog/423239/

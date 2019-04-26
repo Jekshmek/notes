@@ -6,12 +6,17 @@ https://svelte.technology/guide
 
 https://svelte.technology/repl
 
+https://ru.svelte.dev/tutorial/basics
+
 webpack-loader
 https://github.com/sveltejs/svelte-loader
 rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2019
+https://ru.svelte.dev/blog/write-less-code
+https://svelte.dev/blog/svelte-3-rethinking-reactivity
+    https://habr.com/ru/post/449450/
 https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
     https://habr.com/ru/post/446026/
 2018
