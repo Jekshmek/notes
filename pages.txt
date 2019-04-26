@@ -1,5 +1,10 @@
 URLs
 https://m.gazeta.ru/science/2018/06/10_a_11792839.shtml
+Uspenskiy
+    https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
+    https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
+Skopenkov
+    https://www.mccme.ru/free-books/olymp/matprob.pdf
 Zavelskiy - EGE
     http://www.1543.ru/teachers/zavelsky/inter2009.htm
     Boris Geidman
@@ -33,7 +38,7 @@ NMO
     2018-06-18
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 24
+    Apr 26
 
 track
 scoop extras - a
@@ -102,7 +107,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 282
+This week in rust                                   - 283
 Razbor Poletov                                      - 198 1:36:00 (of 2:05:00)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
@@ -122,9 +127,9 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 619.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1137.0 (of 1388)
-Shalyto - motivation                                - 210   (of  873)
+Shalyto - motivation                                - 212   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 224..232 (of  375..418)
+The Little Typer - 3                                - 226..232 (of  375..418)
 
 nlp - word vectors
     https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
@@ -205,12 +210,6 @@ Merzon
 
 Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
-
-2004
-Sharygin - Nuzhna li shkole 21 veka geometriya
-    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=138&option_lang=rus
-    https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf
-    http://www.shevkin.ru/stat-i-podrobnee/i-f-shary-gin-nuzhna-li-shkole-21-go-veka-geometriya/
 
 Crypto and Modular Arithmetics
 2017

@@ -43,6 +43,8 @@ Vilenkin - Combinatorics ru
     2CFD47A2EE039C05204324D61CB0AAF4
     A9D4D10FE1C46FE6DECCAB5D467CCDDC
     400 pages
+    old
+    http://kvant.mccme.ru/1971/01/kombinatorika.htm
 
 2004
 Hu - Combinatorial Algorithms ru
@@ -82,3 +84,6 @@ Vilenkin - Combinatorics ru
     1CFEFB9121630E6CCC181D71202FFBAF
     FBC84649174221C939683A61D6AF57BA
 
+????
+Skopenkov - OIM - DiscreteBook ru
+https://www.mccme.ru/circles/oim/discrbook.pdf

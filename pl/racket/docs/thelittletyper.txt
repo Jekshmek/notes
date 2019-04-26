@@ -1227,5 +1227,10 @@ The statement to be proved is...
         (-> (mot-twice=double n-1)
             (mot-twice=double (add1 n-1)))))
 
+! Observation about +
+No matter which Nats j and k are,
+    (+ (add1 j) k)
+is the same Nat as
+    (add1 (+j k))
 
 
