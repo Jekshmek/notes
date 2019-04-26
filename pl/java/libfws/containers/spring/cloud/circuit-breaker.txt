@@ -1,0 +1,4 @@
+https://spring.io/guides/gs/circuit-breaker/
+
+2019
+https://spring.io/blog/2019/04/16/introducing-spring-cloud-circuit-breaker

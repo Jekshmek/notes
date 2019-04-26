@@ -5,6 +5,9 @@ https://github.com/dmkz/competitive-programming/blob/master/documents/%D0%9A%D0%
 2019
 Kleiner - Dynamic Programming
 https://www.youtube.com/playlist?list=PLUfHxBkkFMScqPOn8J0aHvd48wykQNcWS
+2018
+https://habr.com/ru/post/418867/
+https://habr.com/ru/post/113108/
 2017
 Kleiner - Dynamic Programming
 https://www.youtube.com/playlist?list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ
