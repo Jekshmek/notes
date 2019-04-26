@@ -1,3 +1,6 @@
+2019
+https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36
+    https://habr.com/ru/post/448048/
 2018
 https://blog.nrwl.io/metaprogramming-higher-order-components-and-mixins-with-angular-ivy-75748fcbc310
 https://blog.ninja-squad.com/2018/05/04/what-is-new-angular-6/

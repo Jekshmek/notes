@@ -1,5 +1,7 @@
 2018
 Pozamentie - Math Problems Solving Strategies ru
+    FC99D6A645B4FA4BC7AAF2EFB2F2D848
+    EC299E6F85180DB493048C714216D76B
 2016
 Shapovalov - Math Constructions ru
     1B2619D56438E558AD20B38888BEFB65
@@ -12,8 +14,11 @@ ShapovalovYaschenko - Vertical Math ru
 Shapovalov - Bottleneck Principle 2nd ed ru
     https://www.mccme.ru/free-books/shapovalov/shapovalov-uzkoe.pdf
 1998
-Erdniev - From Problem to Similar One ru
 Fridman - How to Learn Problems Solving ru
+Erdniev - From Problem to Problem by Analogy ru
+    https://eek.diary.ru/p143540804.htm
+    6AAB05A87994771BBA8B8439B5A2B0C9
+    CD50DB5904DCB95CFF52EAE3EB39A7C9
 1995
 Mader - Math Methdology Introduction ru
 1961

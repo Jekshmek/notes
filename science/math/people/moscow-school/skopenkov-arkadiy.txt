@@ -12,6 +12,9 @@ Math in Problems
     https://www.mccme.ru/free-books/olymp/matprob.pdf
 Skopenkov - Number Theory Minicourse ru
     16FB95CF825EE93B4AE3B9D40356D995
+2008
+Skopenkov - Research Problems for Schoolkids ru
+    https://www.mccme.ru/circles/oim/issl.pdf
 2006
 Skopenkov - Olimpiads and Math ru
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=186&option_lang=rus
