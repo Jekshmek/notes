@@ -5,6 +5,9 @@ https://stackify.com/interface-segregation-principle/
 
 https://stackify.com/dependency-inversion-principle/
 
+2019
+SRP
+    https://habr.com/ru/post/449586/
 2018
 https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
     https://habr.com/company/ruvds/blog/426413/

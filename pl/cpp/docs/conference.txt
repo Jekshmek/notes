@@ -1,6 +1,10 @@
 https://meetingcpp.com/mcpp/slides/
 
 2019
+ACCU
+https://www.youtube.com/playlist?list=PL9hrFapz4dsMrrlvFMvuqy_cdpPadCyL8
+https://www.youtube.com/playlist?list=PL9hrFapz4dsMmDBjD_hiGaYKTXXLo7bAv
+https://www.youtube.com/playlist?list=PL9hrFapz4dsNGsb0DdTDbX6elBLng8lg-
 CppOnSea
     https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw/videos
 2018
