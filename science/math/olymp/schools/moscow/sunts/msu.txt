@@ -29,6 +29,7 @@ http://internat.msu.ru/structure/chairs/math/staff-math/
     http://internat.msu.ru/structure/chairs/math/staff-math/gashkov-sergej-borisovich/
     http://www.vipschool.ru/oneperson.php?personnumber=223
 http://internat.msu.ru/structure/chairs/math/materialy-dlya-shkolnikov/
+    http://internat.msu.ru/wp-content/uploads/2014/10/Matan_Lectures_2013.pdf
 http://internat.msu.ru/structure/chairs/math/ssylki_math/
 http://internat.msu.ru/structure/chairs/math/matpraktikum_math/
     http://internat.msu.ru/wp-content/uploads/2015/09/Geometriya-kvadratnogo-trehchlena-2015.pdf
@@ -77,3 +78,13 @@ https://kolmogorov.livejournal.com/24652.html
 https://www.m24.ru/articles/nauka/17052016/105266
     VVV - Valery Vasilievich Vavilov
 
+books
+2014
+VavilovDubrovskiyEgorov - SUNTS 50 part1 ru
+    7BD4A86C07B42A611665708C45BB4DD3
+VavilovDubrovskiyEgorov - SUNTS 50 part2 ru
+    8E3FEA9F6D91E32151EA7F538235AE71
+2005
+MCCME - Summer Math School ru
+    48E4ACBD6F569E3D07491E4700D88F99
+    107C70787B628E7EA9C19B86C3A1EFE5

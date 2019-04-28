@@ -1,5 +1,6 @@
 URLs
-https://m.gazeta.ru/science/2018/06/10_a_11792839.shtml
+Beilinson - Gelfand and his seminar
+    https://trv-science.ru/2015/12/08/i-m-gelfand-i-ego-seminar/
 Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
@@ -42,7 +43,7 @@ NMO
     2018-06-18
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 26
+    Apr 28
 
 track
 scoop extras - a
