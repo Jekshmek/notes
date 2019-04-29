@@ -1,4 +1,7 @@
 2019
+Sutter - ACCU - KEYNOTE: De-fragmenting C++: Making exceptions more affordable and usable
+    https://www.youtube.com/watch?v=os7cqJ5qlzo
+    http://eao197.blogspot.com/2019/04/progcflame-c.html
 https://mariusbancila.ro/blog/2019/03/13/little-known-cpp-function-try-block/
 2018
 Cohen - Ensuring Exception Safety Through Testing

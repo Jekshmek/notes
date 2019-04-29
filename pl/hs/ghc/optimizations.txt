@@ -1,15 +1,17 @@
 ToRead:
 Jones - A Transformation-based Optimizer for Haskell
 
-Articles:
+articles
+2019
+http://neilmitchell.blogspot.com/2019/04/foldr-under-hood.html
+????
 https://blog.pusher.com/top-tips-and-tools-for-optimising-haskell/
 -funfolding-use-threshold=16 -O2 -optc-O3
 
 https://www.stackbuilders.com/tutorials/haskell/ghc-optimization-and-fusion/
 
 
-Presentations:
-
+presentations
 Sergey - GHC Static Analysis and Code Optimization (slide 61 about polymorphism influence to strictness analysis)
 http://www.slideshare.net/ilyasergey/static-analyses-and-code-optimizations-in-glasgow-haskell-compiler
 
@@ -64,4 +66,3 @@ Mitchell - Losing Functions without Gaining Data
 
 Demand:
 http://hackage.haskell.org/trac/ghc/wiki/Commentary/Compiler/Demand
-
