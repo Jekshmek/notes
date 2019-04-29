@@ -1,5 +1,7 @@
 http://books.goalkicker.com/HaskellBook/
 
+2019
+Mena - Practical Haskell 2nd ed
 2018
 Putrady - Practical Web Development with Haskell
 Kurt - Get Programming with Haskell

@@ -38,10 +38,18 @@ http://lamport.azurewebsites.net/video/videos.html
 
 presentations
 2019
+Wayne - Designing Distributed Systems with TLA+
+    https://www.infoq.com/presentations/tla-plus
+    https://hillelwayne.com/talks/distributed-systems-tlaplus/
+    https://www.youtube.com/watch?v=tfnldxWlOhM
 Pawel Szulc - Formal verification applied (with TLA+)
     https://www.youtube.com/watch?v=l9XZYI3jta0
 Paweł Szulc at #ScalaUA - Formal specification applied (with TLA+) (remote session)
     https://www.youtube.com/watch?v=g3J5EGugdKE
+2017
+Wayne - Tackling Concurrency Bugs with TLA+
+    https://hillelwayne.com/talks/tackling-concurrency-tlaplus/
+    https://www.youtube.com/watch?v=_9B__0S21y8
 2014
 Leslie Lamport - Thinking Above the Code
     https://www.youtube.com/watch?v=-4Yp3j_jk8Q

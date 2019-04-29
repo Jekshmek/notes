@@ -6,14 +6,18 @@ http://old.kvantik.com/art/files/pdf/2018-01.18-21.pdf
 2017
 Vavilov - Lection in Sirius
     https://www.youtube.com/watch?v=jIm7cLSugI4
+Smirnov - Zamoscheniya
+    https://www.youtube.com/watch?v=gTMPU-Mw1-M
+    http://www.mathnet.ru/present18250
 
 2015
 Baranov Baranova - Extreme Problems of Discrete Math - Coloring Method ru
 http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf
 
-2006
-Vavilov - Mnogougolniki i Reshetki
-http://geometry.ru/books/vavilovustinov.pdf
+2007
+VavilovUstinov - Polygons on Grids ru
+    73338FAD47CDEA66DBEC59FF2200F717
+    http://geometry.ru/books/vavilovustinov.pdf
 
 1977
 Lindgren - Recreational Problems in Geometric Dissections ru

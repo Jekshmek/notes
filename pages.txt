@@ -40,10 +40,10 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-06-18
+    2018-08-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 28
+    Apr 29
 
 track
 scoop extras - a
@@ -130,11 +130,12 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 619.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1137.0 (of 1388)
-Shalyto - motivation                                - 212   (of  873)
+Zhitinsky                                           - 622.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 1145.0 (of 1388)
+Shalyto - motivation                                - 214   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-The Little Typer - 3                                - 226..232 (of  375..418)
+        ! p213 - Zilber and Stalin
+The Little Typer - 3                                - 228..232 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -259,7 +260,18 @@ FIVT - 2019 - Combinatorial Group Theory ru
     https://www.youtube.com/playlist?list=PL4_hYwCyhAvYqskPqrKUYnhbwtYGs3zoG
 Graph of Kalley
 
+2015
+Pak - Enumerativ Combinatorics
+    https://habr.com/en/company/yandex/blog/311480/
+    https://www.youtube.com/watch?v=nzkSZf5PY_4
+
 Shkolkovo - Geom
 https://vk.com/shkolkovo_ege
 https://vk.com/doc-118664176_463491285
 https://vk.com/doc-118664176_463981710
+
+Golod Evgeni Solomonovich
+http://7iskusstv.com/2016/Nomer12/Demidovich1.php
+
+VSHE
+https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/

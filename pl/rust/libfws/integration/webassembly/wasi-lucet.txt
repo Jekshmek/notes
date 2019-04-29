@@ -6,6 +6,8 @@ https://github.com/fastly/lucet
 https://github.com/kubkon/rust-wasi-tutorial
 
 2019
+https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/
+    https://habr.com/ru/post/449554/
 Levick - WebAssembly/WASI Deep Dive
     https://www.youtube.com/watch?v=Evc3T9Zk2pk
 https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/

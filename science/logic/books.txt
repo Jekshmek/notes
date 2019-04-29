@@ -1,6 +1,10 @@
 2018
 Chartrand - Mathematical Proofs 4th ed
     B67298CBE7B0B63977F4845D0258E92B
+2016
+Sundstrom - Mathematical Reasoning - Writing and Proof 2_1 ru
+    47AADB231E7B9CA4DF88A09446AF0360
+    3FF67FCB1CF0D5694DBEBBE0D193E6D4
 2013
 Alcock - How to Study as a Mathematics Major
     C2E81E8F456B8931AB2BBC4068F52BAA
