@@ -17,6 +17,8 @@ ZaslavskiyProtasovSharygin - Sharygin ru
     89D5436AE164156662EBCEA19967706A
 2006
 Shiryaev - Kolmogorov ru
+Arnold - Underestimated Poincare ru
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=1714&option_lang=rus
 2004
 Tihomirov - Math Prosveschenie 3 ru
     https://www.mccme.ru/free-books/matpros/pdf/mp-08.pdf

@@ -5,6 +5,7 @@ Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
     https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
+    https://postnauka.ru/longreads/79850
     about Petrovskiy
     https://www.youtube.com/watch?v=csR_APaxZuU
     https://www.youtube.com/watch?v=i3aA7uSo3Xw
@@ -40,7 +41,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-08-15
+    2018-09-09
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     Apr 30
@@ -277,3 +278,4 @@ Preparational Courses 8 class
     0FD2F48F1570C6607FFA4E8C469E5229
 Preparational Courses 9 class
     51D555F1455B2766B8E4920E60720A6E
+
