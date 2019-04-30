@@ -1267,3 +1267,33 @@ is the same Nat as
         (-> (Vec E l)
             (Vec E (twice l)))))
 
+(claim double-Vec
+    (PI ((E U)
+         (l Nat))
+        (-> (Vec E l)
+            (Vec E (double l)))))
+
+(claim base-double-Vec
+    (PI ((E U))
+        (-> (Vec E zero)
+            (Vec E (double zero)))))
+(define base-double-Vec
+    (\ (E)
+        (\ (es)
+            (vecnil))))
+
+(claim mot-double-Vec
+    (-> U Nat
+        U)) 
+(define mot-double-Vec
+    (\ (E k)
+        (-> (Vec E k)
+            (Vec E (double k)))))
+
+(claim step-double-Vec
+    (PI ((E U)
+         (l-1 Nat))
+        (-> (-> (Vec E l-1)
+                (Vec E (double l-1)))
+            (-> (Vec E (add1 l-1))
+                (Vec E (double (add1 l-1)))))))

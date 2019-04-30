@@ -117,12 +117,12 @@ SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 622.0 (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1145.0 (of 1388)
-Shalyto - motivation                                - 214   (of  873)
+Zhitinsky                                           - 625.0 (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 1154.0 (of 1388)
+Shalyto - motivation                                - 216   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 228..232 (of  375..418)
+The Little Typer - 3                                - 230..232 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
