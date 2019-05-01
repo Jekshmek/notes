@@ -1,3 +1,12 @@
+2018
+3Blue1Brown - Visualizing quaternions (4d numbers) with stereographic projection
+    https://eater.net/quaternions/
+    https://www.youtube.com/watch?v=d4EgbgTm0Bg
+    https://www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/
+https://www.3dgep.com/understanding-quaternions/
+    https://habr.com/post/426863/
+2013
+https://lenta.ru/articles/2013/11/13/quaternion/
 2009
 Conway - On Quaternions and Octanions ru
     3930E3FA2FD547C8155008E6B457F483

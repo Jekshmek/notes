@@ -1,5 +1,0 @@
-2018
-https://www.3dgep.com/understanding-quaternions/
-    https://habr.com/post/426863/
-2013
-https://lenta.ru/articles/2013/11/13/quaternion/
