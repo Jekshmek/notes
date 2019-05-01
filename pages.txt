@@ -41,10 +41,10 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-09-15
+    2018-10-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    Apr 30
+    May 1
 
 Video
 Meijer - ML
@@ -284,3 +284,5 @@ Moiseev
 http://www.itmathrepetitor.ru/n-n-moiseev-krizis-sovremennogo-obraz/
 Toom
 http://www.itmathrepetitor.ru/a-l-toom-nablyudeniya-matematika-nad-mat/
+Germany and Physics
+https://nplus1.ru/material/2018/09/18/german-physics-1930s

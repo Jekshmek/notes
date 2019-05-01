@@ -11,3 +11,8 @@ http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
 numpy
 linalg
 https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
+
+2001
+ButuzovKrutitskayaShishkin - Linear Algebra in Questions and Problems ru
+    673DE2DC7B3AD37CCB27EE33533BBE54
+    52506CE19E15A50480666EFD4F81F644
