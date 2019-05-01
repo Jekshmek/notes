@@ -5,6 +5,8 @@ wiki:
 https://en.wikipedia.org/wiki/OAuth
 
 articles
+2019
+https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9
 2017
 https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
 
