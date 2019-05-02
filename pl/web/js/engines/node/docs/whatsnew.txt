@@ -1,3 +1,7 @@
+12
+https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f
+    https://suvitruf.ru/2019/04/30/5583/whats-new-in-node-12/
+    https://habr.com/ru/post/450292/
 11
 https://nodejs.org/en/blog/release/v11.0.0/
     https://tproger.ru/news/node-js-11-0-release/
