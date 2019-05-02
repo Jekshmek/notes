@@ -1297,3 +1297,60 @@ is the same Nat as
                 (Vec E (double l-1)))
             (-> (Vec E (add1 l-1))
                 (Vec E (double (add1 l-1)))))))
+(define step-double-Vec
+    (\ (E l-1)
+        (\ (double-Vec_l-1)
+            (\ (es)
+                (vec:: (head es)
+                    (vec:: (head es)
+                        (double-Vec_l-1
+                            (tail es))))))))
+
+(define double-Vec
+    (\ (E l)
+        (ind-Nat l
+            (mot-double-Vec E)
+            (base-double-Vec E)
+            (step-double-Vec E))))
+
+! Solve Easy Problems First
+If two functions produce equal results, then use the easier
+one when defining a dependent function, and then use "replace"
+to give it the desired type
+
+Another special eliminator for "=" called "symm" (symmetry)
+
+If target is an
+    (= X from to)
+then
+    (symm target)
+is an
+    (= X to from)
+
+(define twice-Vec
+    (\ (E l)
+        (\ (es)
+            (replace (symm (twice=double l))
+                (\ (k)
+                    (Vec E k))
+                (double-Vec E l es)))))
+
+! The Law of symm
+If e is an
+    (= X from to)
+then
+    (symm e)
+is an
+    (= X to from)
+
+! The commandment of symm
+If x is an X, then
+    (symm (same x))
+is the same 
+    (= X x x)
+as
+    (same x)
+
+
+### 10. It Also Depends on the List
+

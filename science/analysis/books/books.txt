@@ -18,6 +18,9 @@ Butuzov - Math Analysis in Questions and Problems 5th ed ru
     E3CCB831C0AF81D594D10A5E256B1E55
     84F929042E966B580EFA27EEDBB231B9
     C3A881091BDEEF68E877D9043752063F
+1979
+Petrakov - Teaching Algebra and Beginning of Analysis 2nd ed ru
+    9DEF36C6B9FDFA20E905F4756EB8734B
 1957
 Hinchin - Short Math Analysis Course 3rd ed ru
 1935

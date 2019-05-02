@@ -8,6 +8,10 @@ GelfandLvovskiyToom - Trigonometry 3rd ed ru
     https://uchitel.by/catalog/book/8208
     2C45EDC740687BE6F3AFC41747A0AC73
     A8E053B7C60B1F097F256178807F47F4
+1983
+KramorMihailov - Trigonometric Functions 2nd ed ru
+    29272CF907CF08BFC2DA96B3A625C5A1
+    D143B3869AEF343B16C7642BD07C149D
 1962
 Beskin - Trigonometry Problemsbook 2nd ed ru
     5438A8C6AA3CD9C89BC065191DDCED6C

@@ -104,7 +104,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 283
+This week in rust                                   - 284
 Razbor Poletov                                      - 200 21:00 (of 41:42)
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
@@ -122,10 +122,10 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 625.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1154.0 (of 1388)
-Shalyto - motivation                                - 216   (of  873)
+Shalyto - motivation                                - 218   (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 230..232 (of  375..418)
+The Little Typer - 3                                - 234..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

@@ -16,7 +16,8 @@ Petrakov - School Math Olympiads ru
     E68044EAF5194F093CB61A6D4E7FBD2D
 
 1976
-Morozova - International Math Olympiads ru
+MorozovaPetrakovSkvortsov - International Math Olympiads ru
+    C1BB98FCB438FA1AD9D299C159B9C6E7
 
 1975
 Babinskaya - Math Olim Problems ru

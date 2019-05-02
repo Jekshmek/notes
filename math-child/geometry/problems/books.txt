@@ -2,6 +2,11 @@
 BudakZolotorevaFedotov - Geometry Deep Course 3rd ed ru
     AF775145679208E787CBCD70ED057A2E
     D34CA55848FE43E24C72988AAF227DD5
+2008
+Kramor - School Geometry Course Repeat and Systematization ru
+    23A0AB9194ACEA6163284BA775BE7AFD
+    4EEDC4CE3C8ACB1BFED8DC70A6236366
+    CDD46100CCF593DECE14A0739899521B
 2007
 Genkin - Geometrical Solution of Nongeometrical Problems ru
     A5F1D62D57405258136E92F7E96415E5
@@ -15,6 +20,9 @@ Prasolov - Planimetry Problems 5th ed ru
 2001
 Edush - Geometry Everyday Tips 7 class ru
     9C01B23569754AADA522EF7DC20E5B52
+1996
+Gotman - Planimetry Problems and Solution Methods ru
+    EC725F22B7CD6B6F6907EC573C3E299C
 1992
 GusevLitvinenkoMordkovich - Elementary Math Praktikum - Geometry ru
     55DBB1BAA28150C3F1A5BDEE2EBC7E7B
