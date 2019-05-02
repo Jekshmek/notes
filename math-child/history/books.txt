@@ -1,3 +1,10 @@
+2018
+Sinkevich - Math Peterburg ru
+    http://www.mathsoc.spb.ru/files/bookletMathSPb.pdf
+2016
+Sinkevich - History of the Notion of Number ru
+    9313D0BDB416BCF9BB4C5741933473FE
+    38A3C0D7A4FAC099AF52DAA5DB68C147
 2015
 Prasolov - History of Mathematics part 1 ru
     E0DDA04ED169B8A0B7B803DC96EF0046
@@ -53,4 +60,5 @@ Depman - Measurements ru
 
 Spivak - enciklop
 http://www.kvant.info/panov/enciklop.pdf
+
 
