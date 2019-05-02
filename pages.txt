@@ -239,7 +239,6 @@ kurs matan (specmath) of 57 school (elements of math in problems)
     Galibchuk - ... discrete
     https://uchitel.by/catalog/book/443697
 Gashkov - Modern Elementary Algebra
-Maly Mehmat - books list
 
 Combinatorial Group Theory
 https://www.twirpx.com/file/1121320/
