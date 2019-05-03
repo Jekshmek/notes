@@ -16,7 +16,6 @@ Berezin
 ZaslavskiyProtasovSharygin - Sharygin ru
     89D5436AE164156662EBCEA19967706A
 2006
-Shiryaev - Kolmogorov ru
 Arnold - Underestimated Poincare ru
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=1714&option_lang=rus
 2004
@@ -28,14 +27,6 @@ Tihomirov - Great Old Mathematicians 2nd ed ru
 2001
 Gindikin - Stories about Physisits and Mathematicians 3rd ed ru
     https://www.mccme.ru/free-books/gindikin/contes.pdf
-1988
-Kolmogorov - Math as a Science and Ocupation ru
-    54CCB3D11FCFB5A6D53483EFA4723CAC
-    359D87E2603AF8DE7AC929A85418D4C5
-    8F7284C6D8588131DB6DE031E31FBD9C
-    C87FFD2F312C3AA89D29B52BEDA8CF87
-    595AF0C46802FFFDF55A4087203F8B4D
-    B5FDDCC136B81B2AFCF3A8931A30903E
 1987
 Matvievskaya - Rene Decart ru
     2D09B54FBF1FB469DD4FD847FC695824

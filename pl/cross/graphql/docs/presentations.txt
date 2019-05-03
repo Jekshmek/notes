@@ -1,3 +1,7 @@
+2019
+Grover - Learn GraphQL
+    https://www.youtube.com/playlist?list=PLMV09mSPNaQlzySXg3vmau7S46jx7Qysd
+    https://github.com/wtjs/git-me-up
 2018
 House Goodbye REST APIs. Hello GraphQL!
     https://www.infoq.com/presentations/rest-graphql
