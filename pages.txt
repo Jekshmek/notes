@@ -6,9 +6,6 @@ Uspenskiy
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
     https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
     https://postnauka.ru/longreads/79850
-    about Petrovskiy
-    https://www.youtube.com/watch?v=csR_APaxZuU
-    https://www.youtube.com/watch?v=i3aA7uSo3Xw
 Skopenkov
     https://www.mccme.ru/free-books/olymp/matprob.pdf
 Zavelskiy - EGE
@@ -41,7 +38,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-10-15
+    2018-11-07
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     May 1
@@ -296,5 +293,19 @@ http://www.ug.ru/archive/6020
 https://vogazeta.ru/articles/2018/10/4/person/4842-vladimir_ovchinnikov_ya_nabirayu_horoshih_uchiteley_i_ne_meshayu_im_rabotat_
 Geidman - 1543
 http://www.1543.ru/teachers/inter/geidman/bp.htm
+Novikov - Math on the Threshold of 21st Century 
+    http://aspirant.rggu.ru/article.html?id=50768
+Arnold - About Teaching Math ru
+    http://www.ega-math.narod.ru/Arnold2.htm
+    https://www.mccme.ru/free-books/matpros/pdf/mp21_%D0%92_%D0%98_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4.pdf
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=4580&option_lang=rus
+Petrovskiy
+    http://www.math.msu.su/petr
+    http://oralhistory.ru/talks/orh-580/text
+    https://www.youtube.com/watch?v=csR_APaxZuU
+    https://www.youtube.com/watch?v=i3aA7uSo3Xw
+    http://www.pms.ru/petrovskiy_i/157.html
+Ilyashenko
+    https://www.pravmir.ru/v-rossii-nuzhno-soxranit-vse-zdorovye-samobytnye-formy-nauki-i-obrazovaniya/
 misc
 http://www.ng.ru/education/2015-12-01/8_maths.html

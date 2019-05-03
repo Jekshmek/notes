@@ -1,6 +1,9 @@
 http://xiper.net/learn/svg/svg-essentials/grouping-and-referencing-objects
 http://xiper.net/learn/svg/svg-essentials/the-translate-transformation
 
+2019
+https://www.smashingmagazine.com/2019/05/svg-design-tools-practical-guide/
+
 2018
 https://habrahabr.ru/post/350274/
 

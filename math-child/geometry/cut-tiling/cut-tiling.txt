@@ -2,6 +2,10 @@ https://www.mccme.ru/free-books/pdf/kukin.pdf
 
 2018
 http://old.kvantik.com/art/files/pdf/2018-01.18-21.pdf
+Nurligareev - Selfsimilar Tiling ru
+    https://elementy.ru/kartinka_dnya/731/Samopodobnye_zamoshcheniya
+Nurligareev - Robinson Mosaic
+    https://elementy.ru/kartinka_dnya/697/Mozaika_Robinsona
 
 2017
 Vavilov - Lection in Sirius
@@ -12,7 +16,12 @@ Smirnov - Zamoscheniya
 
 2015
 Baranov Baranova - Extreme Problems of Discrete Math - Coloring Method ru
-http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf
+    http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf
+
+2013
+Nurligareev  - About Multifoliate Reqular Parquets at Plane ru
+    18C1FAE8928A03F99D4B6A95AC569178
+    ! only 5 pages, good references
 
 2007
 VavilovUstinov - Polygons on Grids ru
