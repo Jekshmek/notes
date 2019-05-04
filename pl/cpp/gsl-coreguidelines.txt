@@ -6,6 +6,8 @@ https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 https://github.com/martinmoene/gsl-lite
 
 lifetime
+https://herbsutter.com/2019/05/03/eurollvm-lifetime-talk-by-gabor-horvath-and-matthias-gehre/
+    https://www.youtube.com/watch?v=VynWyOIb6Bk
 https://blogs.msdn.microsoft.com/vcblog/2019/01/24/lifetime-profile-update-in-visual-studio-2019-preview-2/
 https://quuxplusone.github.io/blog/2018/11/12/parameter-lifetime-and-trivial-abi/
 Gehre - Implementing the C++ Core Guidelines’ Lifetime Safety Profile in Clang

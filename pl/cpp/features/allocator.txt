@@ -5,6 +5,9 @@ https://blog.feabhas.com/2019/03/thanks-for-the-memory-allocator/
 https://medium.com/@vgasparyan1995/what-is-an-allocator-c8df15a93ed
 
 presentations
+2019
+Weis - Taming Dynamic Memory - An Introduction to Custom Allocators
+    https://www.youtube.com/watch?v=IGtKstxNe14
 2018
 https://github.com/boostcon/cppnow_presentations_2018/blob/master/05-07-2018_monday/an_allocator_is_a_handle_to_a_heap__arthur_o_dywer__cppnow_05072018.pdf
 https://www.youtube.com/watch?v=0MdSJsCTRkY
