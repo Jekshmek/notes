@@ -1,3 +1,11 @@
+http://www.mathbook.ru/
+    school math
+    http://www.mathbook.ru/page/396.html
+    info and prog
+    http://www.mathbook.ru/page/404.html
+    math for universities
+    http://www.mathbook.ru/page/399.html
+
 https://vk.com/wall-76552532_70643
 https://www.ozon.ru/series/5933716/
 
@@ -14,6 +22,8 @@ BudakZolotarevaPopovFedotov - Math Deep Course Problembook 3rd ed ru
     55F381C2CB4D5D25EB59F362749900D2
     4807C296B074E0B5EEE6D7875AB4CB03
     AAD7D08E5D508E361063994C021A2A60
+Shavgulidze - Correspondence SUNTS Algebra 9 class ru
+    https://docplayer.ru/42539696-Zaochnaya-shkola-sunc-mgu-9-klass-algebra.html
 2011
 ZolotorevaPopov - Algebra Deep Course ru
     73E1B21D8F10D4B995B774CDF37F660A
@@ -26,3 +36,10 @@ Zolotareva - Basic Geometry Course Problemsbook ru
     85012FE8428C0A5F29CE9C1483E91B7B
 Zolotareva - Basic Algebra Course Problemsbook ru
     17E9E9C691F6E1449F2C47B8D948BEDB
+
+need
+FEA0264CDA5B7AC70B60BBCC73653DD3
+048CB541ACA33CEDA04AA8212CE50438
+C204EAE8BD4412861FCB9C90D1409318
+8BE79FC34B88D1D98EC1A3675B7EDC27
+C286E6229BE3280F119BDCFC45D45EA7

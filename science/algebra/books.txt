@@ -8,6 +8,8 @@ Beklemishev - Analytic Geometry and Linear Algebra Course 13 ed ru
 Vinberg - Algebra Course 2nd ed ru
     A6E8243A99471D521C207E2A321B7D7D
     ! good and quite simple
+    old - 2001
+    https://vk.com/doc179188058_437867921?hash=bec5901824b2934d48
 2006
 Kirkinskiy - Linear Algebra and Analytic Geometry ru
     CCE96940BB836AAE383BE9C191028F4F

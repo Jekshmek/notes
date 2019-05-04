@@ -26,6 +26,10 @@ SmirnovYaschenko - Visual Geometry WorkBooks 5-6 class ru
 2011
 Akopyan - Geometry in Pictures ru
     https://www.mccme.ru/~akopyan/papers/RuGeoFigures.pdf
+2009
+Arnold - Real Algebraic Geometry ru
+    BCF969B4B26964EDB058A6BFAA71D8CB
+    9AC9B52BBBF307E11C255CF5AD98AA32
 2008
 Zelenskiy - Geometry in Problems ru
 2006
