@@ -314,6 +314,10 @@ Skopenkov - Research Problems for Schoolkids ru
     https://www.mccme.ru/circles/oim/issl.pdf
 DavidovichPushkar - Analysis in 57 School ru
     https://www.mccme.ru/free-books/57/davidovich.pdf
+Ponarin
+https://math.ru/lib/files/pdf/geometry/Ponarin-I.pdf
+https://math.ru/lib/files/pdf/geometry/Ponarin-II.pdf
+https://www.mccme.ru/free-books/ponarin/ponarin-complex.pdf
 
 misc
 http://www.ng.ru/education/2015-12-01/8_maths.html
