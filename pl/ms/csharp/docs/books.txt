@@ -1,3 +1,5 @@
+2019
+Skeet - CSharp in Depth 4th ed
 2018
 Price - CSharp 7_1 and DotNetCor 2_0 Modern Cross-Platform Development 3rd ed ru
 Solis - Illustrated CSharp7 5th ed

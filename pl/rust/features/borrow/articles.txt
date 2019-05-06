@@ -1,6 +1,7 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 2019
+https://medium.com/@zx77/reference-and-ownership-in-rust-by-example-8c6611aa96c8
 https://www.ralfj.de/blog/2019/04/30/stacked-borrows-2.html
 https://fullyfaithful.eu/bounds-check-elision-rust/
 

@@ -1,5 +1,7 @@
 https://lewissbaker.github.io/
 
+2019
+https://stoyannk.wordpress.com/2019/05/05/coroutines-concurrency-in-c/
 2018
 Reischuck - Coroutine TS a new way of thinking
     https://www.youtube.com/watch?v=RL5oYUl5548
@@ -10,3 +12,4 @@ https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type
 2017
 https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await
 https://lewissbaker.github.io/2017/09/25/coroutine-theory
+    https://github.com/lewissbaker/cppcoro
