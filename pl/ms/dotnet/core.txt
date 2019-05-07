@@ -18,6 +18,9 @@ https://hub.docker.com/r/microsoft/dotnet/
 https://github.com/dotnet/dotnet-docker
 
 whatsnew
+https://devblogs.microsoft.com/dotnet/introducing-net-5/
+    http://www.opennet.ru/opennews/art.shtml?num=50641
+https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0-preview-5/
 https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-net-core-2-2/
     https://habr.com/company/jugru/blog/433144/
 https://github.com/dotnet/core/tree/master/release-notes
