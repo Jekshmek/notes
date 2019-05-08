@@ -6,3 +6,11 @@ https://github.com/mixu/distsysbook
 
 Consistency without Consensus: CRDTs in Production at SoundCloud
 http://www.infoq.com/presentations/crdt-soundcloud
+
+2019
+https://medium.com/baseds/transparency-illusions-of-a-single-system-part-2-2b21c5047774
+    https://nuancesprog.ru/p/3590/
+https://medium.com/baseds/transparency-illusions-of-a-single-system-part-1-b01c25f7dddd
+    https://nuancesprog.ru/p/3368/
+https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4
+    https://nuancesprog.ru/p/3185/

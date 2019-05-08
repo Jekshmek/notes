@@ -14,6 +14,7 @@ rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2019
+https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris
 https://ru.svelte.dev/blog/write-less-code
 https://svelte.dev/blog/svelte-3-rethinking-reactivity
     https://habr.com/ru/post/449450/
