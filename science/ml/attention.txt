@@ -1,4 +1,8 @@
 2019
+Bogdanov - Attention ru
+    https://dev.by/news/dmitry-bogdanov
+    https://www.youtube.com/watch?v=qKL9hWQQQic
+    https://www.dropbox.com/s/1nk66rixz4ets03/Lecture%2012%20-%20Attention%20-%20annotated.pdf?dl=0
 Kurbanov - Attention, attention
     https://www.youtube.com/watch?v=q9svwVYduSo
     https://research.jetbrains.org/files/material/5c642f68c724e.pdf
