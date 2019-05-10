@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/451146/
 https://tproger.ru/translations/webpack-from-zero-to-hero/
 https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5
 2018

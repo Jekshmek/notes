@@ -25,6 +25,11 @@ Gashkov - Modern Elementary Algebra ru
 2002
 BoltyanskiyVilenkin - Simmetry in Algebra 2nd ed ru
 
+2001
+Kolosov - Introduction to Algebra Number Theory and Combinatorics ru
+    E775B8BF6214A30DE5BE4BCE52C9FCAE
+    CA690CACE05250F74291BCE75A0BEC78
+
 1973
 Kaluzhin - Common Algebra Introduction ru
     E829D43EC1D22D06B5B67F0FD24DA81A

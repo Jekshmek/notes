@@ -9,8 +9,11 @@ http://www.mathbook.ru/
 https://vk.com/wall-76552532_70643
 https://www.ozon.ru/series/5933716/
 
+bibliography
+http://internat.msu.ru/about/istoriya/stati/matematicheskaya-biobibliografiya-shkoly-im-a-n-kolmogorova/
+
 2017
-AlfutovaEgorov - 18x18 Entrance Exam FMSH MSU ru
+AlfutovaEgorovUstinov - 18x18 Entrance Exam FMSH MSU ru
     https://uchitel.by/catalog/book/501359
     http://alleng.org/d/math/math2343.htm
 AlfutovaZagorskiy - Kolmogorov SUNTS Entrance Examination Problems ru
@@ -36,6 +39,8 @@ Zolotareva - Basic Geometry Course Problemsbook ru
     85012FE8428C0A5F29CE9C1483E91B7B
 Zolotareva - Basic Algebra Course Problemsbook ru
     17E9E9C691F6E1449F2C47B8D948BEDB
+1971
+http://www.mathedu.ru/lib/books/kolmogorov_i_dr_kurs_matematiki_dlya_fizmatshkol_1971/
 
 need
 FEA0264CDA5B7AC70B60BBCC73653DD3

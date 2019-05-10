@@ -33,8 +33,6 @@ Arnold - Real Algebraic Geometry ru
 2008
 Zelenskiy - Geometry in Problems ru
 2006
-Prasolov - Planimetry Problems ru
-    http://ilib.mccme.ru/pdf/planim5.pdf
 VasilievGutenmaher - Straight and Curved Lines 6th ed ru
     set of problems
 AignerZiegler - Proofs from the Book 3rd ed ru

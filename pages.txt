@@ -1,6 +1,7 @@
 URLs
 Beilinson - Gelfand and his seminar
     https://trv-science.ru/2015/12/08/i-m-gelfand-i-ego-seminar/
+    http://kvant.mccme.ru/1989/01/akademik_izrail_moiseevich_gel.htm
 Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
@@ -41,7 +42,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2018-11-07
+    2019-01-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     May 1
@@ -321,6 +322,7 @@ https://math.ru/lib/files/pdf/geometry/Ponarin-I.pdf
 https://math.ru/lib/files/pdf/geometry/Ponarin-II.pdf
 https://www.mccme.ru/free-books/ponarin/ponarin-complex.pdf
 
+
 misc
 http://www.ng.ru/education/2015-12-01/8_maths.html
 https://aftershock.news/?q=node/744938&full
@@ -331,5 +333,10 @@ FEA0264CDA5B7AC70B60BBCC73653DD3
 C204EAE8BD4412861FCB9C90D1409318
 8BE79FC34B88D1D98EC1A3675B7EDC27
 C286E6229BE3280F119BDCFC45D45EA7
+
+AnanchenkoKoroleva - algebra teaches to think
+D76F4BE914C30374013952730F86C626
+FDE7DA0FAEB35D9451C0D219666BEC9E
+431A3B3B6EA14975A025EA9B28FB0E0A
 
 http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27

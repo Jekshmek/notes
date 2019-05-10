@@ -10,13 +10,6 @@ Kramor - School Geometry Course Repeat and Systematization ru
 2007
 Genkin - Geometrical Solution of Nongeometrical Problems ru
     A5F1D62D57405258136E92F7E96415E5
-2006
-Prasolov - Planimetry Problems 5th ed ru
-    2B7E5A7D55B5F5049E6BB84C670AF5F2
-    95E81057A9A4FDEC1F8DA3724717701D
-    9652B0A72401F39D8158ADA3CC627D7A
-    59C754C6536F57B5FDDDCB4128D59D2C
-    ! a lot of olympiad problems
 2001
 Edush - Geometry Everyday Tips 7 class ru
     9C01B23569754AADA522EF7DC20E5B52
