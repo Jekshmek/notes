@@ -39,10 +39,12 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
+NMO
+    2019-04-01
+https://vk.com/helloworldbooks
+    2018-09-15
 https://vk.com/mccme
     2014-Feb-6
-NMO
-    2019-03-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     May 11
@@ -52,6 +54,9 @@ Prasolov - New Serie of Problemsbooks
     https://www.youtube.com/watch?v=vMn4VotFQ4k
 Skopenkov - Teaching Derivative using Olympiad Problems
     https://www.youtube.com/watch?v=0yed6ju3YIE
+Merzon - Summing Series
+    https://www.youtube.com/watch?v=ZzuWwtxEWi8
+    https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
 Prokopenko - Geom in Moscow fmsh 2007
     https://www.youtube.com/watch?v=y1B-vy9WM34
     http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
@@ -205,9 +210,6 @@ Yaschenko
     https://biblio.mccme.ru/node/2228/shop
     https://biblio.mccme.ru/node/2356/shop
 
-Merzon
-    https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
-    https://www.youtube.com/watch?v=ZzuWwtxEWi8
 
 Petrakov - International Math Olympiads
     C1BB98FCB438FA1AD9D299C159B9C6E7
@@ -289,7 +291,6 @@ Preparational Courses 8 class
 Preparational Courses 9 class
     51D555F1455B2766B8E4920E60720A6E
 
-
 Moiseev
 http://www.itmathrepetitor.ru/n-n-moiseev-krizis-sovremennogo-obraz/
 Toom
@@ -333,7 +334,6 @@ https://www.mccme.ru/free-books/ponarin/ponarin-complex.pdf
 Kirillov
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
-
 
 misc
 http://www.ng.ru/education/2015-12-01/8_maths.html

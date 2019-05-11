@@ -45,6 +45,13 @@ DynkinUspenskiy - Math Talks 2nd ed ru
     21D42C6ADB060685CD799719679891B3
     0816EA346417F504270745D28B0C9BFB
 
+1985
+Boro - Alive Numbers ru
+    https://vk.com/doc486938650_474534405?hash=f673cda22e376e562b
+    C247EBB95EB1F6B47B775F79A3B73F51
+    BF2A7924C47510055C86992EC8364DFB
+    07E9A97D5C2113DBB526E19B877BFAE6
+
 1984
 KazachekVilenkin - Algebra and Numbers Theory 2nd ed ru
 
@@ -64,6 +71,11 @@ Ozhigova - What is a Number Theory ru
 1969
 Kaluzhin - Main Arifmetics Theorem ru
     46D53636FDBB506D9612E328E7FA4321
+
+1963
+Serpinskiy - What do we Know and dont Know about Prime Numbers ru
+    https://vk.com/doc486938650_472702173?hash=e132dcdcbdae08ccf0
+    ! need to download
 
 1957
 Depman - Math Induction ru

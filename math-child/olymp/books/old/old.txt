@@ -9,6 +9,12 @@ Sergeev - Foreign Math Olympiads ru
 AnisimovGashkovSergeev - School Math Olympiad Problems ru
     B520E7ED321B50BCC27EBD105FCBE640
 
+1983
+Ryabuhin - Kishinev Math Olympiads ru
+    https://vk.com/doc486938650_474165726?hash=1f7d73433afac44f71
+    AB7498ADCC4316712DB172BAF58A5576
+    BA29F188C185E8572B468FAB4C0290EE
+
 1982
 Petrakov - School Math Olympiads ru
     E3FFF3092A5DABBD4DFE604D4D5837E1
@@ -18,6 +24,9 @@ Petrakov - School Math Olympiads ru
 1976
 MorozovaPetrakovSkvortsov - International Math Olympiads ru
     C1BB98FCB438FA1AD9D299C159B9C6E7
+Kyurshak - Hungary Math Olympiads ru
+    http://ilib.mccme.ru/djvu/olimp/hungary.htm
+    182483034B3B923EB25C1ED8C20FEDAD
 
 1975
 Babinskaya - Math Olim Problems ru
