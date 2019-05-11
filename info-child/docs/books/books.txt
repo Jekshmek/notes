@@ -30,13 +30,6 @@ http://olymp.misis.ru/Portals/45/Documents/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%
 Menshikov - Java Olimpiad Programming
     https://vk.com/ol_prog_0
     https://www.youtube.com/channel/UCwZIfY8SZvct6_nYkjmODrg
-Shen - Programming Theorems and Problems 6th ed ru
-    7BC43125549E25ACA332348383F92BD4
-    C9D00D0120421AEDF249053546E93987
-    D63219D3207A91CF08BAE4F03DED6159
-    290D50D1C8D60541567B524A965A38D0
-    https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_f72ababc4b1.html
-    https://www.studmed.ru/shen-a-programmirovanie-teoremy-i-zadachi_9d8f453b892.html
 
 2015
 Zlatopolskiy - Programming Typical Problems Algorithms and Methods 3rd ed ru

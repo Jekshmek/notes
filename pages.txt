@@ -42,12 +42,14 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2019-01-01
+    2019-02-12
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    May 1
+    May 11
 
 Video
+Prasolov - New Serie of Problemsbooks
+    https://www.youtube.com/watch?v=vMn4VotFQ4k
 Meijer - ML
     https://www.youtube.com/watch?v=Rs0uRQJdIcg
 Stroustrup - Concepts
@@ -124,10 +126,10 @@ Vertgeiter                                          - 30 (of 190)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 625.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1154.0 (of 1388)
-Shalyto - motivation                                - 218   (of  873)
+Shalyto - motivation                                - 220    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 234..258 (of  375..418)
+The Little Typer - 3                                - 236..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -321,6 +323,9 @@ Ponarin
 https://math.ru/lib/files/pdf/geometry/Ponarin-I.pdf
 https://math.ru/lib/files/pdf/geometry/Ponarin-II.pdf
 https://www.mccme.ru/free-books/ponarin/ponarin-complex.pdf
+Kirillov
+http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
+http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
 
 
 misc
@@ -335,7 +340,6 @@ C204EAE8BD4412861FCB9C90D1409318
 C286E6229BE3280F119BDCFC45D45EA7
 
 AnanchenkoKoroleva - algebra teaches to think
-D76F4BE914C30374013952730F86C626
 FDE7DA0FAEB35D9451C0D219666BEC9E
 431A3B3B6EA14975A025EA9B28FB0E0A
 

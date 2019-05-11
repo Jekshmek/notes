@@ -4,6 +4,7 @@ https://aturon.github.io/apr/
 https://rust-lang.github.io/async-book/
 
 2019
+https://whitfin.io/some-thoughts-on-rusts-async-await-proposals/
 https://boats.gitlab.io/blog/post/await-decision/
     https://www.reddit.com/r/rust/comments/bld06g/a_final_proposal_for_await_syntax/
 https://blog.yoshuawuyts.com/runtime/

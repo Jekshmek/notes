@@ -10,6 +10,10 @@ Kramor - School Geometry Course Repeat and Systematization ru
 2007
 Genkin - Geometrical Solution of Nongeometrical Problems ru
     A5F1D62D57405258136E92F7E96415E5
+2003
+EremenkoSohetUshakov - Elements of Geometry in Problems ru
+    BEEF3F2CAF6B05ECE788EC5DD2B6426A
+    83CB96E9A9EE3D2FE6B7EE7D7300A610
 2001
 Edush - Geometry Everyday Tips 7 class ru
     9C01B23569754AADA522EF7DC20E5B52

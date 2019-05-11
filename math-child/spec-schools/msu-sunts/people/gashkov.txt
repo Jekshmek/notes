@@ -7,6 +7,7 @@ GashkovFrolov - Discrete Math 2nd ed ru
     https://uchitel.by/catalog/book/535421
 2012
 Gashkov - Entertaining Computer Arifmetics ru
+    https://oz.by/books/more10417047.html
     F14F01E4E7C93C70DB476708AB86AA5A
 2006
 Gashkov - Modern Elementary Algebra ru
@@ -16,3 +17,6 @@ Gashkov - Modern Elementary Algebra ru
 2005
 GashkovChubarikov - Arithmetics Algorithms and Computation Complexity 3rd ed ru
     3CE796157CAED0D2A20A5731C1BE6E8B
+????
+Gashkov - Geometric Inequalities ru
+    https://oz.by/books/more10380448.html

@@ -24,6 +24,7 @@ https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/
     https://www.reddit.com/r/cpp/comments/9hmoqb/herb_sutter_blog_lifetime_profile_v10_posted/
 clang support for lifetime
 https://github.com/CppCon/CppCon2018/blob/master/Presentations/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang/implementing_the_cpp_core_guidelines_lifetime_safety_profile_in_clang__matthias_gehre_gabor_horvath__cppcon_2018.pdf
+http://cpptruths.blogspot.com/2018/10/chained-functions-break-reference.html
 
 2019
 https://www.reddit.com/r/cpp/comments/acspkq/guideline_support_library_what_a_mess/

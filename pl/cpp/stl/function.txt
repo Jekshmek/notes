@@ -1,0 +1,3 @@
+2019
+https://quuxplusone.github.io/blog/2019/05/10/function-ref-vs-string-view/
+    https://www.reddit.com/r/cpp/comments/bn4qfe/on_function_ref_and_string_view/

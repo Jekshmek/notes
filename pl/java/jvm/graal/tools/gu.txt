@@ -1,0 +1,5 @@
+graal updater
+
+gu
+    install
+        native-image

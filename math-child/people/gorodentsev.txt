@@ -21,3 +21,5 @@ VSE - About Teachers
 2011
 Gorodentsev - Algebra ru
     http://vyshka.math.ru/pspdf/textbooks/gorodentsev/algebra-1.pdf
+2009
+Gorodentsev - Formal Power Series ru
