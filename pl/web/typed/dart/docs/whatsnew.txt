@@ -1,3 +1,7 @@
+2019
+https://medium.com/dartlang/announcing-dart-2-3-optimized-for-building-user-interfaces-e84919ca1dff
+    https://habr.com/ru/post/451318/
+2018
 https://medium.com/dartlang/announcing-dart-2-1-improved-performance-usability-9f55fca6f31a
 https://www.infoq.com/news/2018/11/dart-2-1
 https://www.dartlang.org/dart-2

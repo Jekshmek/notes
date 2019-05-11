@@ -42,7 +42,7 @@ http://www.limonow.de/myfavorites/DB_NOBEL.html
 https://vk.com/mccme
     2014-Feb-6
 NMO
-    2019-02-12
+    2019-03-01
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     May 11
@@ -50,6 +50,13 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 Video
 Prasolov - New Serie of Problemsbooks
     https://www.youtube.com/watch?v=vMn4VotFQ4k
+Skopenkov - Teaching Derivative using Olympiad Problems
+    https://www.youtube.com/watch?v=0yed6ju3YIE
+Prokopenko - Geom in Moscow fmsh 2007
+    https://www.youtube.com/watch?v=y1B-vy9WM34
+    http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
+Truschin - Math Circle
+    https://www.youtube.com/watch?v=NacmB5WccqU
 Meijer - ML
     https://www.youtube.com/watch?v=Rs0uRQJdIcg
 Stroustrup - Concepts

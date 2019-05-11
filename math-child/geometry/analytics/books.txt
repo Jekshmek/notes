@@ -1,5 +1,11 @@
 1968
 Alexandrov - Analytic Geometry Lections with Algebraic Extensions ru
+1952
+Dubnov - Vector Calculus Fundamentals part 2 ru
+    4E71694B47AEACE9C8E021E66EFDC518
+1950
+Dubnov - Vector Calculus Fundamentals part 1 4th ed ru
+    5DD4152C4F873E1DFE264A86FAE7A613
 1947
 Mushelishvili - Analytics Geometry Course 3rd ed ru
     CA116975006350F35F9E84599CC1E9AF
