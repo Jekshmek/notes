@@ -1,5 +1,6 @@
 URLs
 Beilinson - Gelfand and his seminar
+    https://trv-science.ru/2016/01/12/zaochnaya-matematicheskaya-shkola/
     https://trv-science.ru/2015/12/08/i-m-gelfand-i-ego-seminar/
     http://kvant.mccme.ru/1989/01/akademik_izrail_moiseevich_gel.htm
 Uspenskiy
@@ -17,6 +18,8 @@ Zavelskiy - EGE
 Bykov - Kapler
     https://ru-bykov.livejournal.com/3855027.html
     https://ru-bykov.livejournal.com/3855104.html
+Kubatyanskiy
+    https://kot.sh/statya/3805/progulki-s-matematikoy
 
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
     mednyi zmiy
@@ -39,8 +42,6 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
-NMO
-    2019-04-01
 https://vk.com/helloworldbooks
     2018-09-15
 https://vk.com/mccme
@@ -62,6 +63,8 @@ Prokopenko - Geom in Moscow fmsh 2007
     http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
 Truschin - Math Circle
     https://www.youtube.com/watch?v=NacmB5WccqU
+Antropov - Distance Olymp Teaching
+    https://www.youtube.com/watch?v=aEdASKaH__4
 Meijer - ML
     https://www.youtube.com/watch?v=Rs0uRQJdIcg
 Stroustrup - Concepts
@@ -301,6 +304,7 @@ Gelfand
 https://www.nkj.ru/archive/articles/23475/
 Kovaldzhi
 http://www.itmathrepetitor.ru/a-kovaldzhi-novye-standarty-prevrati/
+https://trv-science.ru/2016/05/31/bolshe-zadach-khoroshikh-i-raznykh/
 Virt
 http://www.itmathrepetitor.ru/virt-n-prepodavanie-informatiki-pote/
 Ovchinnikov
@@ -336,6 +340,19 @@ http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
 
 misc
+https://trv-science.ru/2017/06/06/nulevoi-uroven/
+https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
+https://trv-science.ru/2017/09/12/shirkov-ideya-shkoly-prosta/
+https://trv-science.ru/2015/10/20/shkolnikov-v-universitety/
+https://trv-science.ru/2016/08/23/shkola-moej-mechty/
+https://trv-science.ru/2016/12/06/globalnyj-krizis-v-intellektualnoj-sfere/
+https://trv-science.ru/2016/09/06/a-ne-ischeznut-li-shkoly-v-buduschem/
+https://trv-science.ru/2015/02/10/nuzhna-li-uchitelyu-svoboda/
+https://trv-science.ru/2016/09/06/uchitel-biznesmen/
+https://trv-science.ru/2018/05/24/skoltech_open/
+https://trv-science.ru/2015/08/25/kak-stroit-grazhdanskoe-obshchestvo-po-nauke/
+https://trv-science.ru/2019/03/26/mozg-lyubit-trudnye-zadachi/
+https://trv-science.ru/2015/09/22/goditsya-li-rossiya-dlya-kapitalizma/
 http://www.ng.ru/education/2015-12-01/8_maths.html
 https://aftershock.news/?q=node/744938&full
 https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matematike
@@ -351,3 +368,18 @@ FDE7DA0FAEB35D9451C0D219666BEC9E
 431A3B3B6EA14975A025EA9B28FB0E0A
 
 http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27
+
+Vadim Knizhnik
+https://trv-science.ru/2017/04/03/vadim/
+meeting 2015
+https://trv-science.ru/2015/06/09/v-zashhitu-nauki-i-obrazovaniya/
+Georgiev
+http://trv-science.ru/2015/11/17/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-1/
+https://trv-science.ru/2015/12/22/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-2/
+Arutyunov
+https://trv-science.ru/2015/12/08/mipt-voprosy-bez-otvetov/
+mipt
+https://trv-science.ru/2017/04/04/razmyshleniya-o-problemakh-vo/
+https://trv-science.ru/2016/03/08/innovacionnyj-engineering/
+iraq
+https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
