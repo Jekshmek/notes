@@ -1354,3 +1354,17 @@ as
 
 ### 10. It Also Depends on the List
 
+! The Law of SIGma
+The expression
+    (SIG ((x A))
+        D)
+is a type when A is a type, and D is a type if x is an A
+
+! The commandment of cons
+If p is a
+    (SIH ((x A))
+        D),
+then p is the same as
+    (cons (car p) (cdr p)).
+
+
