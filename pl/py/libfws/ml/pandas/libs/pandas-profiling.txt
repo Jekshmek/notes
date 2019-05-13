@@ -1,2 +1,6 @@
 https://github.com/pandas-profiling/pandas-profiling
 http://nbviewer.jupyter.org/github/JosPolfliet/pandas-profiling/blob/master/examples/meteorites.ipynb
+
+2019
+https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625
+    https://habr.com/ru/company/ruvds/blog/451478/

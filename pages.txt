@@ -51,18 +51,24 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
     May 11
 
 Video
-Prasolov - New Serie of Problemsbooks
+Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
     https://www.youtube.com/watch?v=vMn4VotFQ4k
-Skopenkov - Teaching Derivative using Olympiad Problems
+    resheniya zadach povyshennoy slozhnosti po geometrii 7-9
+        de-facto - ne ochen slozhnye zadachi
+    zadachnik po planimetrii
+        de-facto - ochen slozhnye
+Skopenkov - Teaching Derivative using Olympiad Problems 11:00 (of 1:13:38)
     https://www.youtube.com/watch?v=0yed6ju3YIE
-Merzon - Summing Series
-    https://www.youtube.com/watch?v=ZzuWwtxEWi8
-    https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
+    Zeldovich - Vysshaya Matematika dlya Nachinayuschih
+        luchshaya neformalnaya kniga po mat-analisu
+Truschin - Math Circle                                  13:00 (of 1:24:34)
+    https://www.youtube.com/watch?v=NacmB5WccqU
 Prokopenko - Geom in Moscow fmsh 2007
     https://www.youtube.com/watch?v=y1B-vy9WM34
     http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
-Truschin - Math Circle
-    https://www.youtube.com/watch?v=NacmB5WccqU
+Merzon - Summing Series
+    https://www.youtube.com/watch?v=ZzuWwtxEWi8
+    https://mccme.ru/~merzon/pscache/bernoulli-howto-pre.pdf
 Antropov - Distance Olymp Teaching
     https://www.youtube.com/watch?v=aEdASKaH__4
 Meijer - ML
@@ -111,7 +117,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 29                                      -   25:00 (of)
+Sorokin - I 30                                      -   00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
