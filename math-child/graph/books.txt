@@ -7,6 +7,10 @@ Melnikov - Neznayka in the Graph Land 3rd ed ru
 2004
 Gurovits - Graphs 4th ed ru
 
+2000
+Ore - Graphs and Their Uses ru
+    https://vk.com/doc486938650_475332968?hash=e7781e2a924cf6a38d
+
 1974
 Papi - Children and Graphs ru
     ! for children

@@ -90,6 +90,11 @@ Vilenkin - Combinatorics ru
     1CFEFB9121630E6CCC181D71202FFBAF
     FBC84649174221C939683A61D6AF57BA
 
+1935
+Okunev - Combinatory Problems on Chess Board ru
+    https://vk.com/doc486938650_477458496?hash=2ff7c39f3c75ee3a9d
+    !!! 2-parametric recuurent problems
+
 ????
 Skopenkov - OIM - DiscreteBook ru
 https://www.mccme.ru/circles/oim/discrbook.pdf
