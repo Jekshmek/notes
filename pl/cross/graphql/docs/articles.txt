@@ -3,6 +3,7 @@ https://facebook.github.io/relay/docs/thinking-in-graphql.html
 https://www.howtographql.com/
 
 2019
+https://habr.com/ru/post/451466/
 https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how
     https://habr.com/en/company/ruvds/blog/445268/
 https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec

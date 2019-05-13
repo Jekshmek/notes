@@ -1,4 +1,0 @@
-https://github.com/sharkdp/fd
-
-???
-https://crates.io/crates/fd
