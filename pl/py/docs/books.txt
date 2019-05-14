@@ -7,6 +7,7 @@ https://habr.com/company/raiffeisenbank/blog/425843/
 
 2019
 Danjou - Serious Python
+Fedorov - Python Programming ru
 
 2018
 Ceder - The Quick Python Book 3rd ed

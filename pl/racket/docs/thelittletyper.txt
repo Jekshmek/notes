@@ -1367,4 +1367,12 @@ If p is a
 then p is the same as
     (cons (car p) (cdr p)).
 
+Note:
+    (Pair A D)
+is the short way of writing
+    (SIG ((x A))
+        D)
+where x is not used in D
 
+Note: a Sigma-expression can be read as
+    there exists!

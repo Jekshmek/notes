@@ -19,3 +19,6 @@ cheatsheet
 http://jussi.hallila.com/Kollections/
 https://github.com/Xantier/Kollections
 https://github.com/Xantier/Kollections/raw/master/docs/xantier_kotlin_collection-extensions.pdf
+
+2019
+https://medium.com/techshots/kotlin-collection-function-12fc3c16f579

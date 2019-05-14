@@ -1,3 +1,9 @@
+2011
+Akopyan - Geometry in Pictures ru
+    https://www.mccme.ru/~akopyan/papers/RuGeoFigures.pdf
+    4414F29F90FC8603AAE903A70835CED2
+    69EB0C3013228148941740DF7BA29DF4
+    557D353E1DE121B9C7006A32EC713123
 2008
 Amelkin - School Geometry in Drawings and Formulas ru
     https://vk.com/doc501194371_487752399?hash=770d3adf0d26030ee0
@@ -6,3 +12,6 @@ Yuzbashev - Geometry Reference ru
     8EC5E6C79D6DE89EC178C0495D862C51
     0BBE013F1F3C21B44DEFB03C0D1A4A23
     4499D7F7F0B77A69CA7C3CC3B6AEAE91
+1992
+GolubevGoldmanPyaterikova - Triangle ru
+    https://nashol.com/2017092596633/v-mire-konkursnoi-matematiki-treugolnik-golubev-v-i-goldman-a-m-pyaterikova-a-b-1992.html

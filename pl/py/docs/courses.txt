@@ -1,3 +1,6 @@
 2018
+Grozin - Python in Scientific Computations ru
+    https://www.youtube.com/playlist?list=PLPFUq1zn8x34Bx6CWXJyTAZVCGrJLQxlf
+    http://www.inp.nsk.su/~grozin/python/
 ComputerScienceCenter - Python Programming ru
     https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku
