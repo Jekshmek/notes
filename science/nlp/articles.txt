@@ -3,7 +3,9 @@ https://www.kaggle.com/shujian/arxiv-nlp-papers-with-github-link
 2019
 https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
     https://habr.com/ru/company/Voximplant/blog/446738/
-https://habr.com/ru/company/abbyy/blog/437008/
+Nlp Fundamentals
+    https://habr.com/ru/company/abbyy/blog/449514/
+    https://habr.com/ru/company/abbyy/blog/437008/
 2018
 https://habr.com/company/mailru/blog/417767/
 http://veredshwartz.blogspot.com/2018/08/deep-learning-in-nlp.html

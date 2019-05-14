@@ -1,3 +1,6 @@
+WARN  Scoop configuration has been migrated from '~/.scoop'
+WARN  to 'C:\Users\Ihar_Hancharenka\.config\scoop\config.json'
+
 ~/.scoop
 {
     "lastupdate":  "\/Date(1521274194904)\/",
