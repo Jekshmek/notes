@@ -8,6 +8,10 @@ Sergeev - Foreign Math Olympiads ru
 1984
 AnisimovGashkovSergeev - School Math Olympiad Problems ru
     B520E7ED321B50BCC27EBD105FCBE640
+VyshenskiyKaratashev - Kiev Math Olympiad Problemsbook ru
+    F828BFDC7F1513A0A0B9CCCE05352C5D
+    B5450CA5C5BF19774BAB75655E872E43
+    FD376DB807F3FCFC6FB44EFB30859838
 
 1983
 Ryabuhin - Kishinev Math Olympiads ru

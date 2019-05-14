@@ -1,4 +1,5 @@
 URLs
+https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
 Beilinson - Gelfand and his seminar
@@ -341,6 +342,7 @@ Ilyashenko
 2008
 Skopenkov - Research Problems for Schoolkids ru
     https://www.mccme.ru/circles/oim/issl.pdf
+    !!! need to read !!!
 DavidovichPushkar - Analysis in 57 School ru
     https://www.mccme.ru/free-books/57/davidovich.pdf
 Ponarin
