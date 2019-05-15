@@ -17,6 +17,9 @@ Stanford - Leskovec - Mining of Massive DataSets
 http://www.mmds.org/
 
 2019
+Joshi - AI with Python ru
+    https://vk.com/doc7608079_502574559?hash=d2f2b794e11861dd35
+    ! good and informative !
 Porcu - Python for Data Mining (too short)
 Joshi - Artificial Intelligence with Python ru
 
