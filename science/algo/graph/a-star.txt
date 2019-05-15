@@ -1,6 +1,9 @@
 http://qiao.github.io/PathFinding.js/visual/
 https://github.com/qiao/PathFinding.js
 
+2019
+https://redblobgames.github.io/circular-obstacle-pathfinding/
+    https://habr.com/ru/post/451642/
 2018
 https://habr.com/post/416737/
 2017
