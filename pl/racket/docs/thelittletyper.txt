@@ -1375,4 +1375,5 @@ is the short way of writing
 where x is not used in D
 
 Note: a Sigma-expression can be read as
-    there exists!
+    "there exists!"
+

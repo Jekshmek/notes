@@ -1,5 +1,11 @@
 Farin - Practical Linear Algebra - A Geometry Toolbox 3rd ed
 
+2017
+Gorodentsev - Geometry ru
+    191C40067877CFE54C98B4E8B47C3881
+    old 2012
+    3204DA146FF1966192A03773CB6E63E3
+    ! about euclid/anaytic approaches
 2007
 PrasolovTihomirov - Geometry 2nd ed ru
     https://chitatel.by/catalog/book/301212

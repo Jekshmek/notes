@@ -1,3 +1,5 @@
+2019
+https://frehberg.com/2019/05/rust-handling-executables-and-their-debug-symbols/
 2018
 http://smallcultfollowing.com/babysteps/blog/2018/09/21/office-hours-0-debugging-with-gdb/
     > cargo +nightly test -v

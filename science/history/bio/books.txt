@@ -24,6 +24,9 @@ Tihomirov - Math Prosveschenie 3 ru
 2003
 Tihomirov - Great Old Mathematicians 2nd ed ru
     953AA92820FAC36D99822B6BBD5FF954
+Nikolski - Memories
+    http://www.mi-ras.ru/books/pdf/nikolski.pdf
+    7A7B5461ACFA33D6EE9FD0C4CC3B5D05
 2001
 Gindikin - Stories about Physisits and Mathematicians 3rd ed ru
     https://www.mccme.ru/free-books/gindikin/contes.pdf
