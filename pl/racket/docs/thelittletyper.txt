@@ -1377,3 +1377,13 @@ where x is not used in D
 Note: a Sigma-expression can be read as
     "there exists!"
 
+If p is a
+    (SIG ((x A))
+        D),
+then
+    (car p)
+is an A,
+    (cdr p)
+is D, where every x has been consistently replaced with (car p)
+
+

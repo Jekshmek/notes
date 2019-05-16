@@ -1,4 +1,6 @@
 2019
+https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/
+    https://habr.com/ru/company/skillbox/blog/452190/
 https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e
 https://gist.github.com/ilyakmet/34c15e1c2c43b77f9e5dce902706a6a8
     ! real short sample

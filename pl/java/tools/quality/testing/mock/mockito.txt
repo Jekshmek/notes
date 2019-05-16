@@ -7,6 +7,8 @@ http://www.vogella.com/tutorials/Mockito/article.html
 articles
 2019
 https://habr.com/ru/post/444982/
+2017
+https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit
 
 presentations
 2017
