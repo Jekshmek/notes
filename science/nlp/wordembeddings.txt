@@ -1,3 +1,6 @@
+2019
+https://www.infoq.com/presentations/nlp-word-embedding
+
 2018
 https://habr.com/company/singularis/blog/358664/
 L9 -  Embeddings and data representation

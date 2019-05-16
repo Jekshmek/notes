@@ -31,5 +31,11 @@ VavilovUstinov - Polygons on Grids ru
 1977
 Lindgren - Recreational Problems in Geometric Dissections ru
 
+1975
+Golomb - Polyominoes ru
+    C6680576C9AE6CF4F9E85A75544CDD5D
+    30E35A1B8572F5A636E673BE3CCDE32A
+    8D757B4666A61ABED31F0ED1ECF31EB1
+
 misc
 https://studbooks.net/2558220/matematika_himiya_fizika/invarianty_raskraski

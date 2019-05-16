@@ -1,3 +1,7 @@
+2019
+Yung - Understanding Deep Learning
+    https://www.infoq.com/presentations/understanding-deep-learning
+    ! 242 p
 2018
 Simon - Deep Learning for Developers
     https://www.youtube.com/watch?v=BG0XDx2LllY

@@ -2,28 +2,11 @@ URLs
 https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
-!
-    https://dxdy.ru/topic91971-75.html
-? Shafarevich
-misc27
-    https://www.facebook.com/groups/436519399842648/permalink/483040388523882/
-    https://blogs.korrespondent.net/blog/users/3337521-matematycheskaia-shkola-s-humanytarnym-uklonom?fbclid=IwAR3lWVtdpnErQ4Q5tbH7nDS1fW6ZPhuGFC_RX_5PgSzZQQn953J_MdxProE
-    https://www.facebook.com/groups/436519399842648/permalink/483038151857439/
-Lifshits
-    https://www.facebook.com/groups/436519399842648/permalink/483035868524334/
-Lifits Sergey
-    http://mathematics.in.ua/index.php/uk/articles/item/32-kak-v-kharkove-gotovyat-luchshikh-yunykh-matematikov-mira-ukraina-regulyarno-okazyvaetsya-v-liderakh-shkolnykh-olimpiad?fbclid=IwAR0CKuLxZ0qp8_UJM-q73Xq4ULMpQfrUQzafpchzrgsACCmJql3Fbuj_-Tg
-Bulba
-    https://www.facebook.com/groups/436519399842648/permalink/473606822800572/
-Stolin
-    https://www.facebook.com/groups/436519399842648/permalink/473634606131127/
-Gandel
-    https://www.facebook.com/petr.kabalyants/posts/1337598606286567
-    https://www.facebook.com/groups/436519399842648/permalink/472466666247921/
-Ahizer
-    https://www.facebook.com/groups/436519399842648/permalink/542441932583727/
-    https://www.facebook.com/groups/436519399842648/permalink/473599689467952/
-    http://7iskusstv.com/2011/Nomer8/Tyrnov1.php?fbclid=IwAR2kaakBZc47B3JLYfCueUA9YDgZB44Bqj1pUqgf4ck84Yh7p1htK4reCgQ
+need
+048CB541ACA33CEDA04AA8212CE50438
+C204EAE8BD4412861FCB9C90D1409318
+8BE79FC34B88D1D98EC1A3675B7EDC27
+C286E6229BE3280F119BDCFC45D45EA7
 Beilinson - Gelfand and his seminar
     https://trv-science.ru/2016/01/12/zaochnaya-matematicheskaya-shkola/
     https://trv-science.ru/2015/12/08/i-m-gelfand-i-ego-seminar/
@@ -73,7 +56,7 @@ https://vk.com/mccme
     2015-01-05
 https://vk.com/mathforchildren
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    May 11
+    2019-05-16
 
 Video
 Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
@@ -155,7 +138,7 @@ Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
     https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
-This week in rust                                   - 285
+This week in rust                                   - 286
 Razbor Poletov                                      - 200 33:00 (of 41:42)
     https://razborpoletov.com/2019/05/episode-204
     https://razborpoletov.com/2019/03/episode-203
@@ -392,15 +375,6 @@ https://trv-science.ru/2015/09/22/goditsya-li-rossiya-dlya-kapitalizma/
 http://www.ng.ru/education/2015-12-01/8_maths.html
 https://aftershock.news/?q=node/744938&full
 https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matematike
-need
-FEA0264CDA5B7AC70B60BBCC73653DD3
-048CB541ACA33CEDA04AA8212CE50438
-C204EAE8BD4412861FCB9C90D1409318
-8BE79FC34B88D1D98EC1A3675B7EDC27
-C286E6229BE3280F119BDCFC45D45EA7
-
-AnanchenkoKoroleva - algebra teaches to reason
-431A3B3B6EA14975A025EA9B28FB0E0A
 
 http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27
 
@@ -420,3 +394,24 @@ iraq
 https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
 Savvateev
 https://www.youtube.com/watch?v=hcf_E38xyiM
+
+
+misc27
+    https://www.facebook.com/groups/436519399842648/permalink/483040388523882/
+    https://blogs.korrespondent.net/blog/users/3337521-matematycheskaia-shkola-s-humanytarnym-uklonom?fbclid=IwAR3lWVtdpnErQ4Q5tbH7nDS1fW6ZPhuGFC_RX_5PgSzZQQn953J_MdxProE
+    https://www.facebook.com/groups/436519399842648/permalink/483038151857439/
+Lifshits
+    https://www.facebook.com/groups/436519399842648/permalink/483035868524334/
+Lifits Sergey
+    http://mathematics.in.ua/index.php/uk/articles/item/32-kak-v-kharkove-gotovyat-luchshikh-yunykh-matematikov-mira-ukraina-regulyarno-okazyvaetsya-v-liderakh-shkolnykh-olimpiad?fbclid=IwAR0CKuLxZ0qp8_UJM-q73Xq4ULMpQfrUQzafpchzrgsACCmJql3Fbuj_-Tg
+Bulba
+    https://www.facebook.com/groups/436519399842648/permalink/473606822800572/
+Stolin
+    https://www.facebook.com/groups/436519399842648/permalink/473634606131127/
+Gandel
+    https://www.facebook.com/petr.kabalyants/posts/1337598606286567
+    https://www.facebook.com/groups/436519399842648/permalink/472466666247921/
+Ahizer
+    https://www.facebook.com/groups/436519399842648/permalink/542441932583727/
+    https://www.facebook.com/groups/436519399842648/permalink/473599689467952/
+    http://7iskusstv.com/2011/Nomer8/Tyrnov1.php?fbclid=IwAR2kaakBZc47B3JLYfCueUA9YDgZB44Bqj1pUqgf4ck84Yh7p1htK4reCgQ

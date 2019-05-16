@@ -10,3 +10,9 @@ _JAVA_LAUNCHER_DEBUG
 
 javac options:
 javac -Xpring classname
+
+memory
+-XX:CompressedClassSpaceSize=160m
+    by default is 1GB.
+-XX:MaxRAMPercentage"
+    for java 10, but we still need to know this percentage
