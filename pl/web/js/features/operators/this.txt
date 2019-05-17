@@ -1,5 +1,6 @@
 2019
 https://medium.com/javascript-scene/what-is-this-the-inner-workings-of-javascript-objects-d397bfa0708a
+    https://habr.com/ru/post/452192/
 2018
 https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8
     https://nuancesprog.ru/p/3291
