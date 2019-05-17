@@ -4,3 +4,6 @@ https://github.com/sdispater/poetry
 https://poetry.eustace.io/docs/
 https://poetry.eustace.io/blog/
 https://poetry.eustace.io/history/
+
+2018
+https://khashtamov.com/ru/python-poetry-dependency-management/

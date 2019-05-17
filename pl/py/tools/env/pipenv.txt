@@ -18,12 +18,13 @@ https://habr.com/post/413009/
 2016
 https://www.kennethreitz.org/essays/a-better-pip-workflow
 
-presentations
 2018
 TraversyMedia - Pipenv Crash Course
     https://www.youtube.com/watch?v=6Qmnh5C4Pmo
 Reitz - Pipenv: The Future of Python Dependency Management
     https://www.youtube.com/watch?v=GBQAKldqgZs
+2015
+https://khashtamov.com/ru/pyenv-python/
 
 whatsnew
 https://github.com/pypa/pipenv/blob/master/HISTORY.txt
