@@ -1,3 +1,5 @@
+2019
+http://blog.ezyang.com/2019/05/pytorch-internals/
 2018
 https://www.kdnuggets.com/2018/05/pytorch-tensor-basics.html
 http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/

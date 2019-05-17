@@ -39,8 +39,12 @@ Zavich - Geometry in Tables 7-11 class 10th ed ru
     49326E6EF30BB14AAF8E362EE4BF9321
 1994
 Arutyunyan - Math Tales ru
-1993
-Ryzhik - 25000 Math Lessons ru
+1991
+WellsSharp - The Penguin Dictionary of Curious and Iteresting Geometry
+    C623246CF12734BB145AB15E70E5406A
+    510E0ECF6E5A0B1ED90CBD6C3A493E73
+    0A68AF89A39121D2865E027B8DB93E2F
+    64AC2A760B292D8F3340294BA3E847F0
 1988
 Gotman - One Problem and Multiple Solutions ru
 1976

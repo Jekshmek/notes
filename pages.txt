@@ -133,9 +133,6 @@ Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
 Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
-Chernyak - 1 of 10                                 -    06:00 (of 1:38:33)
-    https://www.youtube.com/watch?v=r-NZBbvuvM0
-    https://www.youtube.com/playlist?list=PLtdfRiq2eAVcOeLQU_aqFArdhXgjJWNIa
 
 Tracking
 This week in rust                                   - 286
@@ -154,13 +151,14 @@ Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
+Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
 Shalyto - motivation                                - 228    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 244..258 (of  375..418)
+The Little Typer - 3                                - 246..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

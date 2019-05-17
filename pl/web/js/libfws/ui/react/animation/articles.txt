@@ -1,4 +1,5 @@
 2019
+https://cssanimation.rocks/ui-animation-react/
 https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf
 
 2018

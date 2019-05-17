@@ -1387,3 +1387,7 @@ is an A,
 is D, where every x has been consistently replaced with (car p)
 
 
+! Use a Specific Type for Correctness
+Specific types can rule out foolish definitions.
+
+
