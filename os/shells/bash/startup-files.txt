@@ -1,3 +1,7 @@
+2019
+https://zwischenzugs.com/2019/02/27/bash-startup-explained/
+    https://habr.com/ru/post/452410/
+
 https://www.gnu.org/software/bash/manual/bash.html#Bash-Startup-Files
 
 https://askubuntu.com/questions/29239/where-is-bash-profile
