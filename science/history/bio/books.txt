@@ -45,6 +45,10 @@ Yaglom - Felix Clein and Sophus Lee ru
 1967
 Yaglom - German Veil ru
     0DB351A96D19D6545DBD1F9E64B180F2
+1965
+RozenfeldYushkevich - OmarHayam ru
+    http://www.mathedu.ru/lib/books/rozenfeld_yushkevich_omar_hayam_1965/
+    81A603285F07FBCA5D1F14F73366413A
 1961
 Ore - Nils Abel ru
     C9C4C4059D897C80DF5A1C38F4B59C04

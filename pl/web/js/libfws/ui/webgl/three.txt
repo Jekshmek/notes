@@ -15,6 +15,9 @@ https://github.com/toxicFork/react-three-renderer-fiber
 shaders
 https://habr.com/ru/post/436482/
 
+2019
+TraversyMedia - Getting Started With ThreeJS
+    https://www.youtube.com/watch?v=8jP4xpga6yY
 2018
 https://habr.com/post/433876/
     https://github.com/sfi0zy/christmas-tree
