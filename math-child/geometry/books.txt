@@ -37,6 +37,9 @@ AignerZiegler - Proofs from the Book 3rd ed ru
 2005
 Zavich - Geometry in Tables 7-11 class 10th ed ru
     49326E6EF30BB14AAF8E362EE4BF9321
+1998
+Sharipov - Fundamentals of Geometry for Schoolboys and Students ru
+    6661C5BCC7B5A0799D9AB00877CDDEC1
 1994
 Arutyunyan - Math Tales ru
 1991

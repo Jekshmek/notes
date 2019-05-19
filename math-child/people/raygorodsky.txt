@@ -6,7 +6,8 @@ Raygorodskiy - Pearls of Modern Combinatorics ru
 Lectorium - Random Graphs
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAUwJcixk424jd6v5cSj_Byy
 2017
-LitvakRaygorodsky - 2017 - Who Needs Math ru
+LitvakRaygorodsky - Who Needs Math ru
+    9E3282161DD59F827D6AB631B3E416F5
 2016
 GlibichukRaygorodsky - Discrete Math Elements in Problems ru
     a lot of high combinatory, graphs

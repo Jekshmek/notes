@@ -15,6 +15,9 @@ Orir - Physics Full Course ru
 2009
 Zeldovuch - High Math for Beginners and Application to Physics 6th ed ru
     0F910A39658143679D38EE8DE499E17E
+2006
+Anosov - From Newton to Kepler ru
+    https://math.ru/lib/files/pdf/Anosov-Kepler.pdf
 1999
 Mayorov - Physics for Curious ru
     EE83B661C333C07119D049A5F99FFF6E

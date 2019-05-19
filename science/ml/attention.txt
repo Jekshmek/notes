@@ -40,3 +40,10 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 LSTMs
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+bert-tf2
+https://github.com/u10000129/bert_tf2
+
+fast-bert
+https://github.com/kaushaltrivedi/fast-bert
+https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384
