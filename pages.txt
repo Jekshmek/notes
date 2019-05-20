@@ -10,6 +10,14 @@ Alexandrov
     http://oralhistory.ru/talks/orh-178-179/text
 Demidovich-Mehmat
     https://math.ru/lib/files/pdf/mehmat/KNIGA_1-3(2014).pdf
+GolenischevaKutuzova part 1
+    9F0E7FFBB25034FB1B3BE66664E24435
+    A1AEC774B9D29CC00B0761E569C2BF8B
+    6119857AE5DB42B7D7E2202F2831B57C
+GolenischevaKutuzova part 2
+    536564BFBA3E0F3C8AF0A9CC2395A74C
+    206AC806AA43CA12F151875BD69D092B
+    3150EA39B59AB0E82053D53C3785B705
 need
 048CB541ACA33CEDA04AA8212CE50438
 C204EAE8BD4412861FCB9C90D1409318
@@ -55,7 +63,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/helloworldbooks
-    2019-01-06
+    2019-02-03
 https://vk.com/mccme
     2015-01-05
 https://vk.com/mathforchildren
