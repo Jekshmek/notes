@@ -153,7 +153,7 @@ Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
     http://predanie.ru/arhimandrit-iannuarij-ivliev://predanie.ru/arhimandrit-iannuarij-ivliev/evangelskaya-etika/slushat/
-Sorokin - I 32                                      -   13:00 (of)
+Sorokin - I 33                                      -   00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Horuzhiy - 2                                        -   00:00 (of)
     https://predanie.ru/horuzhiy-sergey-sergeevich/duhovnaya-i-kulutrnaya-tradiciya-v-rossii-sovremennyy-etap/slushat/
@@ -162,12 +162,11 @@ Osipov - 2                                          -   00:00 (of)
 
 Tracking
 This week in rust                                   - 286
-Razbor Poletov                                      - 200 33:00 (of 41:42)
+Razbor Poletov                                      - 201 02:00 (of 1:02:51)
     https://razborpoletov.com/2019/05/episode-204
     https://razborpoletov.com/2019/03/episode-203
     https://razborpoletov.com/2019/03/episode-202
     https://razborpoletov.com/2019/03/episode-201
-    https://razborpoletov.com/2019/02/episode-200
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
