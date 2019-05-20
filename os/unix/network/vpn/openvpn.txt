@@ -24,14 +24,12 @@ aur
 
 To complete the installation, please add this script to your OpenVPN
 settings for each of the VPNs you wish it to manage the DNS for:
-
-script-security 2
-dhcp-option DNS <ip1>
-dhcp-option DNS <ip2>
-setenv PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-up /etc/openvpn/scripts/update-systemd-resolved
-down /etc/openvpn/scripts/update-systemd-resolved
-down-pre
+    script-security 2
+    setenv PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    up /etc/openvpn/scripts/update-systemd-resolved
+    up-restart
+    down /etc/openvpn/scripts/update-systemd-resolved
+    down-pre
 
 issues
 https://www.mail-archive.com/ubuntu-bugs@lists.ubuntu.com/msg5175752.html

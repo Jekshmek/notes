@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
+2019
+https://www.infoq.com/presentations/sequential-concurrent-crdt
 2018
 https://www.infoq.com/presentations/crdt-production
 https://habr.com/company/jugru/blog/424763/

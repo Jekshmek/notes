@@ -1,4 +1,6 @@
 2019
+TraversyMedia - TypeScript Setup With Node & Express
+    https://www.youtube.com/watch?v=zRo2tvQpus8
 TraversyMedia - Express JS Crash Course
     https://www.youtube.com/watch?v=L72fhGm1tfE
 2018

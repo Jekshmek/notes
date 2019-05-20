@@ -26,6 +26,9 @@ Spraul - Think Like a Programmer ru
     intro for children
 BabichevS - Imformatics Seminars 1course ru
     88 pages
+Gustedt - Modern C
+    http://icube-icps.unistra.fr/index.php/File:ModernC.pdf
+    ! note downloaded
 
 2017
 Stroustrup - Cpp Programming Language 2nd ed ru
