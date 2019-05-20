@@ -2,28 +2,6 @@ URLs
 https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
-Gelfand
-    https://trv-science.ru/2017/05/23/gindikin-ya-ne-istorik-matematiki/
-    https://trv-science.ru/2015/12/08/i-m-gelfand-i-ego-seminar/
-    https://trv-science.ru/2016/01/12/zaochnaya-matematicheskaya-shkola/
-    https://trv-science.ru/2013/07/30/ostavatsya-samim-sobojj/
-    https://trv-science.ru/2010/01/19/matematik-tot-kto-ponimaet/
-    https://elementy.ru/nauchno-populyarnaya_biblioteka/430945/Matematik_tot_kto_ponimaet_Pamyati_I_M_Gelfanda
-    http://avzel.blogspot.com/2009/10/blog-post_05.html
-    https://trv-science.ru/2009/10/13/matematik-s-bolshojj-bukvy/
-    https://polit.ru/article/2009/10/20/absossinsky_about_imgelfand/
-    http://garriabelev.narod.ru/gelfand.html
-    http://math.vzms.org/document/11.html
-    http://www.kolmogorovschool.ru/item/2489.html
-    http://kvant.mccme.ru/1989/01/akademik_izrail_moiseevich_gel.htm
-    http://mat.1sep.ru/view_article.php?ID=201001103
-    http://www.p220.ru/en/home/projects/item/992-margolis
-    Tihomirov - Walks with Gelfand
-    http://www.unn.ru/math/no/11/_nom11_020_tikhomirov.pdf
-    http://7iskusstv.com/2010/Nomer11/Tikhomirov1.php
-    http://www.israelmgelfand.com/ru/bio_work/abelev_bio_seminar.pdf
-    https://a-shen.livejournal.com/9614.html
-    https://a-shen.livejournal.com/9614.html?page=2
 Constantinov
     https://trv-science.ru/2017/04/25/mnogoobrazie-konstantinova/
 Novikov
@@ -341,8 +319,6 @@ Toom
 http://www.itmathrepetitor.ru/a-l-toom-nablyudeniya-matematika-nad-mat/
 Germany and Physics
 https://nplus1.ru/material/2018/09/18/german-physics-1930s
-Gelfand
-https://www.nkj.ru/archive/articles/23475/
 Kovaldzhi
 http://www.itmathrepetitor.ru/a-kovaldzhi-novye-standarty-prevrati/
 https://trv-science.ru/2016/05/31/bolshe-zadach-khoroshikh-i-raznykh/
