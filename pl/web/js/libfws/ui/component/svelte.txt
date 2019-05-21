@@ -21,6 +21,9 @@ https://svelte.dev/blog/svelte-3-rethinking-reactivity
 https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
     https://habr.com/ru/post/446026/
 2018
+Malyshev - Svelte
+    https://habr.com/ru/company/oleg-bunin/blog/450822/
+    https://www.youtube.com/watch?v=NvNe4nKmZT0
 https://habr.com/post/418679/
 https://habr.com/post/417747/
 https://habr.com/post/353896/

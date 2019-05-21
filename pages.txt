@@ -1,3 +1,10 @@
+1971
+Shilov - Math Analysis in the Area of Rational Funcations ru
+    543F624ADCC762ED4917411216788045
+    58E695585C3EE85194CCC2AE9E6C33A5
+    2935356E5CACEDFF706BD7D273AA8B75
+    84B07C34162EC3A1AEFC19034E5F4319
+
 URLs
 https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
@@ -10,19 +17,10 @@ Alexandrov
     http://oralhistory.ru/talks/orh-178-179/text
 Demidovich-Mehmat
     https://math.ru/lib/files/pdf/mehmat/KNIGA_1-3(2014).pdf
-GolenischevaKutuzova part 1
-    9F0E7FFBB25034FB1B3BE66664E24435
-    A1AEC774B9D29CC00B0761E569C2BF8B
-    6119857AE5DB42B7D7E2202F2831B57C
-GolenischevaKutuzova part 2
-    536564BFBA3E0F3C8AF0A9CC2395A74C
-    206AC806AA43CA12F151875BD69D092B
-    3150EA39B59AB0E82053D53C3785B705
 need
-048CB541ACA33CEDA04AA8212CE50438
-C204EAE8BD4412861FCB9C90D1409318
-8BE79FC34B88D1D98EC1A3675B7EDC27
-C286E6229BE3280F119BDCFC45D45EA7
+    C204EAE8BD4412861FCB9C90D1409318
+    8BE79FC34B88D1D98EC1A3675B7EDC27
+    C286E6229BE3280F119BDCFC45D45EA7
 Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
@@ -63,7 +61,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/helloworldbooks
-    2019-02-03
+    2019-03-21
 https://vk.com/mccme
     2015-01-05
 https://vk.com/mathforchildren
@@ -73,10 +71,6 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 Video
 Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
     https://www.youtube.com/watch?v=vMn4VotFQ4k
-    resheniya zadach povyshennoy slozhnosti po geometrii 7-9
-        de-facto - ne ochen slozhnye zadachi
-    zadachnik po planimetrii
-        de-facto - ochen slozhnye
 Skopenkov - Teaching Derivative using Olympiad Problems 18:00 (of 1:13:38)
     https://www.youtube.com/watch?v=0yed6ju3YIE
     Zeldovich - Vysshaya Matematika dlya Nachinayuschih
@@ -166,10 +160,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 230    (of  873)
+Shalyto - motivation                                - 232    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 248..258 (of  375..418)
+The Little Typer - 3                                - 250..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -214,8 +208,6 @@ https://lanbook.com/catalog/matematika/osnovy-teorii-grupp-45731606/
     3D602A72477FA1C5F54FAFA14A67C0F4
 
 
-http://algolist.manual.ru/ds/btree.php
-
 LF ds
 https://habr.com/ru/post/251267/
 https://habr.com/ru/post/250815/
@@ -241,8 +233,6 @@ Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
 Yaschenko
     https://biblio.mccme.ru/node/2228/shop
     https://biblio.mccme.ru/node/2356/shop
-Petrakov - International Math Olympiads
-    C1BB98FCB438FA1AD9D299C159B9C6E7
 
 Crypto and Modular Arithmetics
 2017
@@ -293,7 +283,7 @@ FIVT - 2019 - Combinatorial Group Theory ru
 Graph of Kalley
 
 2015
-Pak - Enumerativ Combinatorics
+Pak - Enumerative Combinatorics
     https://habr.com/en/company/yandex/blog/311480/
     https://www.youtube.com/watch?v=nzkSZf5PY_4
 
@@ -310,10 +300,10 @@ https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
 
 SUNTS
 Schepin - Ryady
-C668BD4084CCA463EEC788315CA11C10
+    C668BD4084CCA463EEC788315CA11C10
 Schepin - Integrals
-35CAB7901E30F1D466AAC1021424EE56
-87A539BC4228C50100183EE3E7EA6AAC
+    35CAB7901E30F1D466AAC1021424EE56
+    87A539BC4228C50100183EE3E7EA6AAC
 
 SUNTS NSU
 Preparational Courses 8 class
@@ -384,21 +374,22 @@ https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matemat
 http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27
 
 Vadim Knizhnik
-https://trv-science.ru/2017/04/03/vadim/
+    https://trv-science.ru/2017/04/03/vadim/
 meeting 2015
-https://trv-science.ru/2015/06/09/v-zashhitu-nauki-i-obrazovaniya/
+    https://trv-science.ru/2015/06/09/v-zashhitu-nauki-i-obrazovaniya/
 Georgiev
-http://trv-science.ru/2015/11/17/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-1/
-https://trv-science.ru/2015/12/22/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-2/
+    http://trv-science.ru/2015/11/17/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-1/
+    https://trv-science.ru/2015/12/22/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-2/
 Arutyunov
-https://trv-science.ru/2015/12/08/mipt-voprosy-bez-otvetov/
+    https://trv-science.ru/2015/12/08/mipt-voprosy-bez-otvetov/
 mipt
-https://trv-science.ru/2017/04/04/razmyshleniya-o-problemakh-vo/
-https://trv-science.ru/2016/03/08/innovacionnyj-engineering/
+    https://trv-science.ru/2017/04/04/razmyshleniya-o-problemakh-vo/
+    https://trv-science.ru/2016/03/08/innovacionnyj-engineering/
 iraq
-https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
+    https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
 Savvateev
-https://www.youtube.com/watch?v=hcf_E38xyiM
+    https://www.youtube.com/watch?v=hcf_E38xyiM
+    ! need to look at comments
 
 
 misc27

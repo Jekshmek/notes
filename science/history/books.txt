@@ -49,6 +49,7 @@ Azernikov - Nonaccidental Accidents ru
 Petrova - Math Evenings 2nd ed ru
 1967
 Depman - Tails about Old and New Algebra ru
+    03CC60941BC73820492F2CD2CB286586
     p 37 - Pifagor Theorem
 1965
 Depman - History of Arithmetics 2nd ed ru
@@ -56,6 +57,16 @@ Depman - History of Arithmetics 2nd ed ru
     97260ABE749A844ED0945E99B51C2E3C
     B19DBF9786536FA2B2027F99B04A9EFD
     B3E8BD20F3375055F86963E5FEDE4371
+1964
+Depman - Tails about Problems Solving 2nd ed ru
+    https://vk.com/doc515221370_493641966?hash=2b05a6e309fd155cf7
+    BBE8186E0E966D1E1719E84AADABB7B2
+    51C8F36E916F9B4EC50C15C45FE8CB81
+    !!!
+    old - 1957
+    https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_135fb419926.html (absent)
+    https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_44e42ac738c.html
+    985693984D58F01F28B67C3B3520B7C5
 1963
 Rybnikov - History of Math vol2 ru
     56769AE74FB213C4C26C682843E15DE3
@@ -64,11 +75,6 @@ Rybnikov - History of Math vol2 ru
 Rybnikov - History of Math vol1 ru
     37EB6583E3F4FE22A689505BD18AB641
     02372136F724D893217AE8988F50A6F5
-1957
-Depman - Tails about Problems Solving ru
-    https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_135fb419926.html (absent)
-    https://www.studmed.ru/depman-iya-rasskazy-o-reshenii-zadach_44e42ac738c.html
-    !!!
 1956
 Depman - Tails about Mathematics ru
     https://www.studmed.ru/depman-iya-rasskazy-o-matematike_5613acf2538.html

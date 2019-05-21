@@ -1415,3 +1415,17 @@ Specific types can rule out foolish definitions.
             (vec:: e step-replicate_l-1))))
 
 (define replicate
+    (\ (E l)
+        (\ (e)
+            (ind-Nat l
+                (mot-replicate E)
+                vecnil
+                (step-replicate E e)))))
+
+because of currying, mot-replicate and step-replicate here are applied to smaller number of arguments
+
+More specific typer of list->vec is
+(claim list->vec
+    (PI ((E U)
+         (es (List E)))
+        (Vec E (length E es))))
