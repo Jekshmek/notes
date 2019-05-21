@@ -1,0 +1,3 @@
+2017
+https://segment.com/blog/5-advanced-testing-techniques-in-go/
+    https://habr.com/ru/company/otus/blog/452772/
