@@ -2,6 +2,11 @@ http://www.israelmgelfand.com/ru/
 https://mccme.ru/gelfand/notes/
 http://poivs.tsput.ru/ru/Math/NumberTheory/Events/XX/GelfandIM
 http://pomnipro.ru/memorypage20423/biography
+http://people-archive.ru/character/izrail-moiseevich-gelfand
+    ! family
+
+JessyRusselRonaldCohn - Gelfand
+    https://chitatel.by/catalog/book/710228
 
 2017
 Skulachev - Gelfand
@@ -39,6 +44,8 @@ Alexeevskiy - Mathematician - Those Who Understands
     https://elementy.ru/nauchno-populyarnaya_biblioteka/430945/Matematik_tot_kto_ponimaet_Pamyati_I_M_Gelfanda
 Tihomirov - Walks with Gelfand
     http://7iskusstv.com/2010/Nomer11/Tikhomirov1.php
+LebedevForum - Gelfand
+    http://forum.lebedev.ru/viewtopic.php?t=906
 2009
 Sosinskiy - About Gelfand
     https://polit.ru/article/2009/10/20/absossinsky_about_imgelfand/

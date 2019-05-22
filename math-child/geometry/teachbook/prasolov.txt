@@ -11,8 +11,8 @@ ButuzovKadomtsevPrasolov - Geometry 9 class Teachbook ru
     8B3FF7B1CD5FE0E6E5EF37326C684CA8
     18ED2B6BB2C15E0661CD6375B73A8B92
 ButuzovKadomtsevPrasolov - Geometry 9 class Didactic Materials ru
-C4DBE3BEEE79FC0C16101DBBC7D15454
-B1293D0F750FC7AD9D0CB46474541693
+    C4DBE3BEEE79FC0C16101DBBC7D15454
+    B1293D0F750FC7AD9D0CB46474541693
 
 2011
 ButuzovKadomtsevPrasolov - Geometry 8 class Teachbook ru
@@ -32,8 +32,8 @@ BubuzovPrasolov - Geometry 7 class Didactic Materials ru
 
 2005
 ButuzovKadomtsevPoznyakShestakovYudina - Planimetry for Deep Learning Math ru
-    !!! super cool
+    https://uchitel.by/catalog/book/5068
     B646DA11D2CCE83D953749F68BC1F18B
     45E5838E0642C959F325E503EFE8011E
     AEE0419C9148ADA22C142E1B7CCA2CCF
-    https://uchitel.by/catalog/book/5068
+    !!! super cool

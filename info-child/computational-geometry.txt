@@ -2,6 +2,9 @@ http://codeforces.com/blog/entry/59129
 2018
 Lecomte - Handbook of Geometry for Competitive Programmers
     https://vlecomte.github.io/cp-geo.pdf
+2014
+MaslenkovVorobievShuykova - Vectors and Coordinate Method ru
+    EF1880F4B0F74B255D03EE8C509D1E8B
 2013
 Feskov - Projective Geometry ru
     https://www.youtube.com/playlist?list=PLDrmKwRSNx7KT02ctJY70hzHCpmf2xV1w

@@ -1,10 +1,3 @@
-1971
-Shilov - Math Analysis in the Area of Rational Funcations ru
-    543F624ADCC762ED4917411216788045
-    58E695585C3EE85194CCC2AE9E6C33A5
-    2935356E5CACEDFF706BD7D273AA8B75
-    84B07C34162EC3A1AEFC19034E5F4319
-
 URLs
 https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
@@ -18,7 +11,6 @@ Alexandrov
 Demidovich-Mehmat
     https://math.ru/lib/files/pdf/mehmat/KNIGA_1-3(2014).pdf
 need
-    C204EAE8BD4412861FCB9C90D1409318
     8BE79FC34B88D1D98EC1A3675B7EDC27
     C286E6229BE3280F119BDCFC45D45EA7
 Uspenskiy

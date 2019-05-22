@@ -3,6 +3,11 @@ https://frontarm.com/toolbox/promises-async-await-cheatsheet/
 https://github.com/frontarm/async-javascript-cheatsheet
 
 2019
+https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea
+    https://proglib.io/p/js-async-await/
+https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+    https://nuancesprog.ru/p/2583/
+    https://habr.com/ru/post/439620/
 https://medium.com/webbdev/%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9-javascript-d5487d1f5e36
 https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad
     https://habr.com/ru/company/plarium/blog/438318/
@@ -11,9 +16,6 @@ https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-a
 2018
 https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd
     https://medium.com/@stasonmars/%D0%B2%D1%81%D0%B5%CC%88-%D1%87%D1%82%D0%BE-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE%D0%B1-async-await-%D1%86%D0%B8%D0%BA%D0%BB%D1%8B-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-76dde2cb6949
-https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-    https://nuancesprog.ru/p/2583/
-    https://habr.com/ru/post/439620/
 https://blog.logrocket.com/promise-chaining-is-dead-long-live-async-await-445897870abc
 https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/
 http://telegra.ph/Konstrukciya-asyncawait-v-JavaScript-08-02
