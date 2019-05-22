@@ -16,3 +16,6 @@ memory
     by default is 1GB.
 -XX:MaxRAMPercentage"
     for java 10, but we still need to know this percentage
+ -XX:UseCGroupMemoryLimitForHeap
+    It'll tell JVM to calculate how much memory it could use for heap based on memory available to Docker container,
+    so you don't need to guess heap size.
