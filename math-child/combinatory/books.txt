@@ -1,8 +1,17 @@
 Gorodentsev - problems (2 pages)
     http://gorod.bogomolov-lab.ru/ps/stud/algebra-1/1314/prb-01.pdf
 
+2019
+Vilenkin
+    https://chitatel.by/catalog/book/263533
+    ! most probably - reprint of 1969
+
 2018
+Ivanov - Introduction to Combinatory ru
+    https://uchitel.by/catalog/book/897090
+    !!! need to order
 Klekovkin - Enumerable Combinatory Introduction 2nd ed ru
+    0BB0F3852AF54A9B148255AFA87B7584
 
 2017
 Yakovlev - Combinotory for Olimpiadnik ru
@@ -23,6 +32,12 @@ GlibichukRaygorodsky - Discrete Math Elements in Problems ru
     99312FD3A791A12FE7BD69ABFC257D65
     008084957E5990C81D99C20D061FB8C2
 
+2015
+Raygorodskiy - Probability and Algebra in Combinatory ru
+    https://chitatel.by/catalog/book/62337
+    B6034D157BE6C1FF6EE291C8889A1792
+    52200237517D5564403821E20A9646C4
+
 2014
 Chung - Elementary Probability Theory 4th ed ru !!!
     https://vk.com/doc515221370_480987646?hash=940febe25ed0ea4da3
@@ -33,6 +48,7 @@ Chung - Elementary Probability Theory 4th ed ru !!!
 
 2012
 Shahmeister - Combinatorics Statistics Probability ru
+    https://chitatel.by/catalog/book/227011
     AF40FA29FAD8EEA374FFCA3AE4032064
     ! bad quality of scan
 
@@ -45,6 +61,7 @@ Asanov - Combinatorial Algorithms ru !
 
 2007
 Yaglom - Nonelementary Problems in Elementary Presentation 3rd ed ru
+    https://chitatel.by/catalog/book/229565
     85E8365D5F88B524D6E255CF6ED70506
 
 2006
@@ -62,6 +79,8 @@ Sachkov - Discrete Math Combinatorial Methods Introduction ru
 
 2003
 Kohas - Castle Numbers and Polynoms ru
+Pestunova - Intro to Combinatorics ru
+    B71F4AD8A51BA358A24BE811732BB531
 
 2000
 Hohlov - Data Structures and Combinatorial Algorithms ru
@@ -84,9 +103,14 @@ Reingold - Combinatorial Algorithms ru
 
 1976
 Vilenkin - Induction and Combinatorics ru
+    https://chitatel.by/catalog/book/289379
     DC8D4E35405D9E29D16B057BD4517C66
 
 1975
+Vilenkin - Popular Combinatorics ru
+    https://chitatel.by/catalog/book/229074
+    4C8EE3AD7404398D0DF4375C5A5DD6FD
+    D62C1C80F5A58691623473CE60F533C8
 Kofman - Applied Combinatorics Introduction ru
 
 1970
@@ -94,6 +118,7 @@ Hall - Combinatorucs ru
 
 1969
 Vilenkin - Combinatorics ru
+    https://chitatel.by/catalog/book/221654
     F2A9A4566DB0C2D18D2463291821452C
     793C9DC445CA0266F30D1AB4AD2623B7
     8239F7B4D3A4D7AE41B0647AD8C05A7E

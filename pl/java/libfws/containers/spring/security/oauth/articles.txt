@@ -1,4 +1,5 @@
 2019
+https://dzone.com/articles/build-secure-microservices-in-your-spring-rest-api
 https://www.baeldung.com/spring-security-method-security
     https://github.com/eugenp/tutorials/tree/master/spring-security-core
 https://www.baeldung.com/spring-security-oauth2-enable-resource-server-vs-enable-oauth2-sso

@@ -1,0 +1,6 @@
+https://github.com/rancher/k3d
+
+https://github.com/rancher/k3d/blob/master/docs
+https://github.com/rancher/k3d/blob/master/docs/documentation.md
+https://github.com/rancher/k3d/blob/master/docs/examples.md
+https://github.com/rancher/k3d/blob/master/docs/faq.md

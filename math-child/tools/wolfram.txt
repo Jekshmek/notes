@@ -2,6 +2,11 @@ https://www.wolfram.com/
 
 https://www.wolfram.com/engine/
 https://www.wolfram.com/language/
+https://www.wolfram.com/mathematica/
 
 2019
 https://blog.stephenwolfram.com/2019/05/launching-today-free-wolfram-engine-for-developers/
+    https://habr.com/ru/post/453074/
+2017
+Wolfram - An Elementary Introduction to the Wolfram Language 2nd ed
+    https://www.wolfram.com/books/profile.cgi?id=9560

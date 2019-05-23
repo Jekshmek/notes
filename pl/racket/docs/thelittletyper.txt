@@ -1429,3 +1429,23 @@ More specific typer of list->vec is
     (PI ((E U)
          (es (List E)))
         (Vec E (length E es))))
+
+
+
+
+...
+(ind-List target
+    mot
+    base
+    step)
+
+mot is an
+    (-> (List E)
+        U)
+base is a (mot nil)
+
+! The Law of ind-List
+...
+
+
+adding and entry (e) to (es) with (::) is like adding one with add1 in ind-Nat.

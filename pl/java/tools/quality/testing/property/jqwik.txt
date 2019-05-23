@@ -2,11 +2,15 @@ http://jqwik.net/
 
 https://github.com/jlink/jqwik
 
+ug
 http://jqwik.net/user-guide.html
 
 api
 http://jqwik.net/javadoc/index.html
 
+2019
+https://blog.johanneslink.net/2019/05/11/property-based-driven-development/
 2018
+https://blog.johanneslink.net/2018/09/06/stateful-testing/
 http://blog.johanneslink.net/2018/03/26/from-examples-to-properties/
 http://blog.johanneslink.net/2018/03/29/jqwik-on-junit5/

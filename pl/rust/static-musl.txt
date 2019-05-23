@@ -30,5 +30,7 @@ https://clap.rs/2018/01/09/new-years-weight-loss/
 
 rustc hello.rs -C opt-level=s
 
+2019
+https://medium.com/csis-techblog/cross-compiling-and-statically-linking-against-rust-libraries-2c02ee2c01af
 2015
 http://mainisusuallyafunction.blogspot.com/2015/01/151-byte-static-linux-binary-in-rust.html
