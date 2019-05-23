@@ -1,6 +1,9 @@
 2018
 Galowicz - Cpp17 stl Cookbook ru
 Vandevoorde - Cpp Templates The Complete Guide 2nd ed
+2017
+ODwyer - Mastering the Cpp17 STL
+    3CC74F1869CBE375D71D8BCA644FBB25
 2016
 VanVeert - Cpp Standard Library Quick Reference
 2010

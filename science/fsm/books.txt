@@ -21,8 +21,6 @@ Gromkovich - Theoretical Informatics ru
 Korotkova - Mathematical Theory of Automatas ru
 Levelt - An Introduction to the Theory of Formal Languages and Automata
 Gorbatov - Automaton Theory ru
-2007
-Hopcroft, Ulman - Introduction to Automata Theory Languages and Computation 3rd ed
 2006
 Mozgovoy - Algorithms Automatas Languages Compilers ru
 2004

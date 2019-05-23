@@ -19,11 +19,14 @@ GolenischevaKutuzova part 1
     6119857AE5DB42B7D7E2202F2831B57C
 GolenischevaKutuzova part 2
     https://www.mccme.ru/free-books/yaschenko/v08book-09.pdf
+    https://uchitel.by/catalog/book/71115
     536564BFBA3E0F3C8AF0A9CC2395A74C
     206AC806AA43CA12F151875BD69D092B
     3150EA39B59AB0E82053D53C3785B705
 2008
-https://www.mccme.ru/free-books/57/davidovich.pdf
+DavidovichPushkarChekanov - Math Analysis in School 57 ru
+    https://www.mccme.ru/free-books/57/davidovich.pdf
+    83EC3FC94A415290A1CFF159A2324174
     https://dxdy.ru/topic134225.html
     ! critique of Davidovich
 Sergeev - Math in SpecClasses of 57 School ru
@@ -36,3 +39,10 @@ Dubna - 2000 - Math and Society Conference ru
     1FF734268C94304A2605F07CB175CEE5
     https://www.twirpx.com/file/352482/
     p121 - Davidovich Boris Mihailovich - Matematicheskie klassy v moskovskoy gosudarstvennoy pyatdesyat sedmoy shkole
+1998
+DavidovichPushkarChekanov - Math Analysis in 57 school ru
+    C9FF63FF5D5B39625825785B43AA276F
+
+????
+Gorodentsev - Leaflets
+    http://gorod.bogomolov-lab.ru/ps/scho/ca_9-11/list.html
