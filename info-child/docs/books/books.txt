@@ -93,6 +93,7 @@ Zlatopolsky - Recurrence Relations
 D032EAD3F8B8BB93C3A21F2A617411CF
 Melnikov - Olimpiad Programming Problems ru
 Andreeva - Moscow Informatics Olimpiads ru
+    https://fvova.ru/cup/book/mosinformatolymp.pdf
     https://www.olympiads.ru/books/mskolymp/mosinformatolymp.pdf
     https://www.studmed.ru/andreeva-ev-antonov-vyu-i-dr-moskovskie-olimpiady-po-informatike_0b4575a4ffa.html
 Dolinskiy

@@ -1,3 +1,6 @@
+2019
+https://lowlevelbits.org/bottom-up-cmake-introduction/
+
 2018
 https://codingnest.com/basic-cmake/
 http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/

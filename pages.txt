@@ -30,6 +30,8 @@ Bykov - Kapler
     https://ru-bykov.livejournal.com/3855104.html
 Kubatyanskiy
     https://kot.sh/statya/3805/progulki-s-matematikoy
+Sunts
+    https://archive.li/hEnG9
 
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
     mednyi zmiy
@@ -53,7 +55,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/helloworldbooks
-    2019-03-21
+    2019-05-03
 https://vk.com/mccme
     2015-01-05
 https://vk.com/mathforchildren
@@ -152,10 +154,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 234    (of  873)
+Shalyto - motivation                                - 236    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 250..258 (of  375..418)
+The Little Typer - 3                                - 254..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -242,6 +244,7 @@ https://otr-online.ru/programmy/gamburgskii-schet/sergei-dorichenko-kak-31661.ht
 
 to search
 Kanel-Belov
+Sevryukov Smolyakov
 
 2009
 ZaslavskiyPermyakovSkopenkovShapovalov - Math in Problems ru
@@ -382,6 +385,12 @@ iraq
 Savvateev
     https://www.youtube.com/watch?v=hcf_E38xyiM
     ! need to look at comments
+Kasselman - Entertaining Math ru
+    https://vk.com/doc515221370_493693482?hash=9976d17740d82609c3
+Shlykov - 2003 - Geometry Planimetry ru
+    https://vk.com/doc515221370_493612075?hash=68e858c92805e5e126
+Zhukov - About Number Pi ru
+    https://vk.com/doc48883461_497526838?hash=60d492767f269c6559
 
 
 misc27
