@@ -30,6 +30,9 @@ conda
     update
         --all --yes
 
+environments
+https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533
+
 win:
 activate py35
 
