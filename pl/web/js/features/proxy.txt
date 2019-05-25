@@ -1,6 +1,11 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy
 
 2019
+https://blog.bitsrc.io/a-practical-guide-to-es6-proxy-229079c3c2f0
 https://itnext.io/meta-programming-in-javascript-with-proxies-64fa4898070e
 2018
 https://blog.logrocket.com/terrible-use-cases-for-javascript-proxies-2b585705da01
+????
+https://www.sitepoint.com/es6-proxies/
+https://www.atyantik.com/proxy-javascript-es6-feature/
+    https://habr.com/company/ruvds/blog/359060/

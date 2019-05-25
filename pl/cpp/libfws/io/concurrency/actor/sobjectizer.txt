@@ -29,3 +29,4 @@ http://eao197.blogspot.com/2018/12/progc-unit-sobjectizer.html
 
 whatsnew
 https://www.reddit.com/r/cpp/comments/brmi9c/sobjectizer560_a_major_release_of_an_actor/
+    https://habr.com/ru/post/453256/
