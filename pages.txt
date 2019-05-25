@@ -21,6 +21,13 @@ Uspenskiy
     https://www.mccme.ru/free-books/mmmf-lectures/book.34-2.pdf
 Skopenkov
     https://www.mccme.ru/free-books/olymp/matprob.pdf
+Duzhin
+    https://polit.ru/article/2015/03/11/duzhin_memory/
+    https://polit.ru/article/2015/03/11/duzhin_lecture/
+Sosinskiy
+    https://polit.ru/article/2012/10/07/abs_75/
+Demidovich - 2013 - MSU History Book
+    https://math.ru/lib/559
 Zavelskiy - EGE
     http://www.1543.ru/teachers/zavelsky/inter2009.htm
     Boris Geidman
@@ -54,11 +61,10 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
-https://vk.com/helloworldbooks
-    2019-05-03
 https://vk.com/mccme
-    2015-01-05
+    2016-01-06
 https://vk.com/mathforchildren
+https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     2019-05-20
 
@@ -69,6 +75,8 @@ Skopenkov - Teaching Derivative using Olympiad Problems 18:00 (of 1:13:38)
     https://www.youtube.com/watch?v=0yed6ju3YIE
     Zeldovich - Vysshaya Matematika dlya Nachinayuschih
         luchshaya neformalnaya kniga po mat-analisu
+    Colorings
+        https://www.youtube.com/watch?v=9olfTXdkYzo
 Truschin - Math Circle                                  33:00 (of 1:24:34)
     https://www.youtube.com/watch?v=NacmB5WccqU
 Prokopenko - Geom in Moscow fmsh 2007

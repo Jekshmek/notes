@@ -9,3 +9,5 @@ math dpt
 https://www.hse.ru/org/hse/269069/about
 math learning program
 http://verbit.ru/Job/HSE/Curriculum/all.txt
+colloquium
+https://cs.hse.ru/colloquium
