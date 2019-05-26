@@ -14,6 +14,8 @@ rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2019
+https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969
+    https://habr.com/ru/post/453458/
 https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris
 https://ru.svelte.dev/blog/write-less-code
 https://svelte.dev/blog/svelte-3-rethinking-reactivity

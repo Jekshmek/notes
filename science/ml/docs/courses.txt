@@ -24,6 +24,8 @@ FIVT - Neichev - ML Course 3
     https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt
 Berkeley
     https://inst.eecs.berkeley.edu/~cs188/fa18/
+Kazan - Raznikov - ML Lections
+    https://www.youtube.com/playlist?list=PL6-BrcpR2C5RYoCAmC8VQp_rxSh0i_6C6
 2018
 MFTI - Vlasov
     https://www.youtube.com/playlist?list=PLHOMZXOczEYMJ2AOakOdqwZ1Y-RXCs0U5

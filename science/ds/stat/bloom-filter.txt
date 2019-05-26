@@ -1,6 +1,8 @@
 https://www.jasondavies.com/bloomfilter/
 https://en.wikipedia.org/wiki/Bloom_filter
 
+2019
+https://daankolthof.com/2019/05/06/implementing-a-simple-high-performance-bloom-filter-in-c/
 2018
 https://www.baeldung.com/guava-bloom-filter
     https://habr.com/company/otus/blog/433700/

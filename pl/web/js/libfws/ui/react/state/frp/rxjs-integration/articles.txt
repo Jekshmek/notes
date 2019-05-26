@@ -1,3 +1,6 @@
+2019
+https://blog.bitsrc.io/sharing-data-between-react-components-using-rxjs-922a46c13dbf
+    https://habr.com/ru/company/plarium/blog/453310/
 2018
 https://habr.com/post/420351/
 https://habr.com/post/419893/
