@@ -1473,3 +1473,24 @@ is the same (mot (:: e es)) as
             base
             step)).
 
+
+(claim mot-list->vec
+    (PI ((E U))
+        (-> (List E)
+            U)))
+(define mot-list->vec
+    (\ (E)
+        (\ (es)
+            (Vec E (length E es)))))
+
+(claim step-list->vec
+    (PI ((E U)
+         (e E)
+         (es (List E)))
+        (-> (mot-list->vec E es)
+            (mot-list->vec E (:: e es)))))
+(define step-list->vec
+    (\ (E e es)
+        (\ (list->vec_es)
+            (vec:: e list->vec_es))))
+

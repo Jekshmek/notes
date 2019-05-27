@@ -10,6 +10,12 @@ ShavgulidzeTrosfimov - Limits ru
 1986
 PanchishkinShavgulidze - Trigonometric Functions in Problems ru
     622723F4DB5DAE67972752C53E0BC554
+1982
+Shavgulidze - Similarity Method ru
+    8BE79FC34B88D1D98EC1A3675B7EDC27
+1981
+Shavgulidze - Triangles and Polygons ru
+    C286E6229BE3280F119BDCFC45D45EA7
 1979
 Shavgulidze - Little Mehmat Methodical Indication to Problem 2 ru
     FEA0264CDA5B7AC70B60BBCC73653DD3

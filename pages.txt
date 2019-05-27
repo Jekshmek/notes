@@ -10,9 +10,6 @@ Alexandrov
     http://oralhistory.ru/talks/orh-178-179/text
 Demidovich-Mehmat
     https://math.ru/lib/files/pdf/mehmat/KNIGA_1-3(2014).pdf
-need
-    8BE79FC34B88D1D98EC1A3675B7EDC27
-    C286E6229BE3280F119BDCFC45D45EA7
 Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
@@ -66,7 +63,7 @@ https://vk.com/mccme
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    2019-05-20
+    2019-05-27
 
 Video
 Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
@@ -162,10 +159,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 236    (of  873)
+Shalyto - motivation                                - 238    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 254..258 (of  375..418)
+The Little Typer - 3                                - 256..258 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
