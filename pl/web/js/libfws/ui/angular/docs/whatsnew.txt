@@ -1,6 +1,8 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 8x
+https://blog.angularindepth.com/embrace-yourself-angular-8-is-coming-1bf187c8f0bf
+    https://habr.com/ru/company/ruvds/blog/453584/
 https://blog.angular.io/a-plan-for-version-8-0-and-ivy-b3318dfc19f7
     https://habr.com/ru/post/446476/
 
