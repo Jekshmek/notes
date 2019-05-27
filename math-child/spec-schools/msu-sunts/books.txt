@@ -42,6 +42,11 @@ Zolotareva - Basic Geometry Course Problemsbook ru
     85012FE8428C0A5F29CE9C1483E91B7B
 Zolotareva - Basic Algebra Course Problemsbook ru
     17E9E9C691F6E1449F2C47B8D948BEDB
+2006
+Gashkov - Modern Elementary Algebra ru
+    https://uchitel.by/catalog/book/12266
+    20C5D84489341D6E4B9480BB076A488C
+    ! a lot of stuff including combinatorics !
 1971
 http://www.mathedu.ru/lib/books/kolmogorov_i_dr_kurs_matematiki_dlya_fizmatshkol_1971/
 

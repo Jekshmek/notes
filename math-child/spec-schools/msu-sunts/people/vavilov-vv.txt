@@ -1,6 +1,8 @@
 http://internat.msu.ru/structure/chairs/math/staff-math/vvvavilov/
 https://istina.msu.ru/profile/vvvavilov/
 
+http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=116941
+
 ????
 https://shkolazhizni.ru/biographies/articles/78189/
 https://www.m24.ru/articles/nauka/17052016/105266
@@ -10,6 +12,10 @@ Vavilov - Mat Praktikum
 Vavilov - Kolokviums
     https://studylib.ru/doc/412313/matematicheskie-kollokviumy--vavilov-v.v
 
+2018
+VVV
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=vmumm&paperid=14&option_lang=rus
+    ! TBD: read 1 march 2020
 2016
 http://internat.msu.ru/structure/chairs/kaf_math_zagr/vvvv/
 http://internat.msu.ru/wp-content/uploads/2016/09/V.V.-Vavilov.-Kak-professor-MGU-stal-zasluzhennym-uchitelem-Rossii_-_-Biografii-_-SHkolaZHizni.pdf
@@ -18,6 +24,9 @@ VavilovDubrovskiyEgorov - SUNTS 50 part1 ru
     7BD4A86C07B42A611665708C45BB4DD3
 VavilovDubrovskiyEgorov - SUNTS 50 part2 ru
     8E3FEA9F6D91E32151EA7F538235AE71
+2013
+Vavilov - Math Practicum Yesterday Today Tomorrow ru
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mo&paperid=52&option_lang=rus
 2008
 VavilovMelnikovOlehnik - Math Problems - Sequences Functions and Graphics ru
     https://uchitel.by/catalog/book/32721
@@ -40,6 +49,9 @@ VavilovMelnikov - Math Problems - Equations and Inequations 2nd ed ru
 VavilovUstinov - Polygons on Grids ru
     73338FAD47CDEA66DBEC59FF2200F717
     http://geometry.ru/books/vavilovustinov.pdf
+2005
+Vavilov - School of Math and Special Sciences ru
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mo&paperid=420&option_lang=rus
 2000
 Vavilov - Radicals Iterations 2nd ed ru
     2574FAE32978FDE3B99097A6F9CE5E7F
