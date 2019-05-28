@@ -1494,3 +1494,14 @@ is the same (mot (:: e es)) as
         (\ (list->vec_es)
             (vec:: e list->vec_es))))
 
+(define list->vec
+    (\ (E es)
+        (ind-List es
+            (mot-list->vec E)
+            vecnil
+            (step-list->vec E))))
+
+
+### 11. All Lists are Created Equal
+
+
