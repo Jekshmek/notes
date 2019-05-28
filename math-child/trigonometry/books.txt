@@ -9,8 +9,10 @@ GelfandLvovskiyToom - Trigonometry 3rd ed ru
     2C45EDC740687BE6F3AFC41747A0AC73
     A8E053B7C60B1F097F256178807F47F4
 1986
-PanchishkinShavgulidze - Trigonometric Functions in Problems ru
+PanchishkinShavgulidze - Trigonometry Functions in Problems ru
+    http://alleng.org/d/math/math488.htm
     622723F4DB5DAE67972752C53E0BC554
+    https://www.studmed.ru/panchishkin-aa-shavgulidze-et-trigonometricheskie-funkcii-v-zadachah_2115b92989f.html
 1983
 KramorMihailov - Trigonometric Functions 2nd ed ru
     29272CF907CF08BFC2DA96B3A625C5A1
