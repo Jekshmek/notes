@@ -20,7 +20,3 @@ Edush - Geometry Everyday Tips 7 class ru
 1996
 Gotman - Planimetry Problems and Solution Methods ru
     EC725F22B7CD6B6F6907EC573C3E299C
-1992
-GusevLitvinenkoMordkovich - Elementary Math Praktikum - Geometry ru
-    55DBB1BAA28150C3F1A5BDEE2EBC7E7B
-    17DF587063B012900023F231CE09C682
