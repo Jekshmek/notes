@@ -1,5 +1,4 @@
 URLs
-https://zvezdaweekly.ru/news/t/20195211144-NS5Ia.html
 https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
@@ -145,7 +144,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 286
+This week in rust                                   - 288
 Razbor Poletov                                      - 202 18:00 (of 2:16:03)
     https://razborpoletov.com/2019/05/episode-204
     https://razborpoletov.com/2019/03/episode-203
