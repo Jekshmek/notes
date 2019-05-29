@@ -39,13 +39,15 @@ http://is.ifmo.ru/belletristic/2011/Shalyto-IT-kadry.pdf
 
 2008
 Polikarpova - Automat Programming
-http://is.ifmo.ru/books/_book.pdf
+    http://is.ifmo.ru/books/_book.pdf
 Automat programming vodka and letter-yo
-http://is.ifmo.ru/download/2008-03-17_automata.pdf
+    http://is.ifmo.ru/download/2008-03-17_automata.pdf
+Shalyto - Why do we Need Champions
+    https://old.computerra.ru/2008/730/354603/
 
 2007
 Polikarpova Shalyto - posobie
-http://is.ifmo.ru/books/_umk.pdf
+    http://is.ifmo.ru/books/_umk.pdf
 
 2004
 http://is.ifmo.ru/belletristic/first_steps/?print=yes
@@ -58,6 +60,3 @@ https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D1%8B%D1%82%D0%BE,_%D0%90%D0%BD
 https://www.youtube.com/watch?v=1PBTVAv2P_0
 
 http://lurkmore.to/%D0%98%D0%A2%D0%9C%D0%9E
-
-Vasiliev Parfenov - Success Technologies
-http://is.ifmo.ru/belletristic/2017/book-jpg-2.pdf

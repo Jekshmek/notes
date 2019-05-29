@@ -1,4 +1,5 @@
 2019
+https://www.reddit.com/r/rust/comments/bu2fmn/how_print_a_generic_type_debugt/
 https://frehberg.com/2019/05/rust-handling-executables-and-their-debug-symbols/
 2018
 http://smallcultfollowing.com/babysteps/blog/2018/09/21/office-hours-0-debugging-with-gdb/

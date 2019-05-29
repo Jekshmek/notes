@@ -1,4 +1,5 @@
 book
+https://rust-lang.github.io/unsafe-code-guidelines/
 https://doc.rust-lang.org/nomicon/working-with-unsafe.html
     unsafe does more than pollute a whole function: it pollutes a whole module.
     Generally, the only bullet-proof way to limit the scope of unsafe code is at the module boundary with privacy.

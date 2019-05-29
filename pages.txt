@@ -32,13 +32,11 @@ Zavelskiy - EGE
     http://www.1543.ru/teachers/zavelsky/inter2009.htm
     Boris Geidman
     http://www.1543.ru/teachers/zavelsky/inter2003.htm
-Bykov - Vladimirov
-    https://ru-bykov.livejournal.com/3894930.html
-    https://ru-bykov.livejournal.com/3895419.html
 Kubatyanskiy
     https://kot.sh/statya/3805/progulki-s-matematikoy
-Sunts
+Vavilov - School of University
     https://archive.li/hEnG9
+    http://internat.msu.ru/about/istoriya/stati/45-let-shkole/
 
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
     mednyi zmiy
@@ -68,6 +66,8 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
     2019-05-27
 
 Video
+Reinhold - Java, Today and Tomorrow
+    https://www.youtube.com/watch?v=kpio9jFhpD8
 Psoy                                                -   25:00 (of 1:37:03)
     https://www.youtube.com/watch?v=9zaoD5bdFl4
 Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
@@ -162,10 +162,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 240    (of  873)
+Shalyto - motivation                                - 242    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 260..278 (of  375..418)
+The Little Typer - 3                                - 262..278 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

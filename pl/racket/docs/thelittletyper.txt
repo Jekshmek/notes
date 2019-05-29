@@ -1504,4 +1504,18 @@ is the same (mot (:: e es)) as
 
 ### 11. All Lists are Created Equal
 
+(claim vec-append
+    (PI ((E U)
+         (l Nat)
+         (j Nat))
+        (-> (Vec E l) (Vec E j)
+            (Vec E (+ l j)))))
 
+ind-Vec is much like an ind-List:
+
+(ind-Vec n es
+    mot
+    base
+    step)
+
+n - is the number of elements in es
