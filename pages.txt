@@ -1,6 +1,4 @@
 URLs
-KalininTereshin - Geometry 10-11
-https://lyudmilanik.com.ua/reforma-shkolnoj-matematiki-1970-1978gg/
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
 Trepakova - Experience of Teaching by Kiselev
@@ -55,11 +53,12 @@ http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
 
+Pavlenko
+    http://www.iarex.ru/articles/64768.html
 http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
 http://www.iarex.ru/articles/61581.html
-http://www.iarex.ru/articles/64768.html
 ls
     https://habr.com/ru/post/450806/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
