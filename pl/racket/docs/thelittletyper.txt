@@ -1519,3 +1519,31 @@ ind-Vec is much like an ind-List:
     step)
 
 n - is the number of elements in es
+
+mot's tytpe is
+    (PI ((k Nat))
+        (-> (Vec E k)
+            U))
+
+! The Law of ind-Vec
+If n is a Nat, target is a (Vec E n), mot is a
+    (PI ((k Nat))
+        (-> (Vec E k)
+            U)),
+base is a
+    (mot zero vecnil),
+and step is a
+    (PI ((k Nat)
+         (h E)
+         (t (Vec E k)))
+        (-> (mot k t)
+            (mot (add1 k) (vec:: h t))))
+then
+    (ind-Vec n target
+        mot
+        base
+        step)
+is a
+    (mot n target)
+
+
