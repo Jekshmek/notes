@@ -22,6 +22,8 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
+    https://habr.com/ru/company/vk/blog/454348/
 https://habr.com/ru/post/453866/
 https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext/
 Reardon - Deep sea fishing with React Hooks

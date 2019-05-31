@@ -1,9 +1,10 @@
 URLs
 http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
 http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
-Trepakova - Experience of Teaching by Kiselev
-    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mo&paperid=455&option_lang=eng
-    p 3
+Morozova
+    http://7iskusstv.com/2016/Nomer8/Demidovich1.php
+Dorichenko
+    https://otr-online.ru/programmy/gamburgskii-schet/sergei-dorichenko-kak-31661.html
 Sharygin
     http://www.itmathrepetitor.ru/i-f-sharygin-celi-obucheniya-v-koncepcii/
 Tihomirov - Luzin
@@ -45,6 +46,50 @@ Kubatyanskiy
 Vavilov - School of University
     https://archive.li/hEnG9
     http://internat.msu.ru/about/istoriya/stati/45-let-shkole/
+Moiseev
+    http://www.itmathrepetitor.ru/n-n-moiseev-krizis-sovremennogo-obraz/
+Toom
+    http://www.itmathrepetitor.ru/a-l-toom-nablyudeniya-matematika-nad-mat/
+Germany and Physics
+    https://nplus1.ru/material/2018/09/18/german-physics-1930s
+Kovaldzhi
+    http://www.itmathrepetitor.ru/a-kovaldzhi-novye-standarty-prevrati/
+    https://trv-science.ru/2016/05/31/bolshe-zadach-khoroshikh-i-raznykh/
+Virt
+    http://www.itmathrepetitor.ru/virt-n-prepodavanie-informatiki-pote/
+Ovchinnikov
+    http://www.ug.ru/archive/6020
+    https://vogazeta.ru/articles/2018/10/4/person/4842-vladimir_ovchinnikov_ya_nabirayu_horoshih_uchiteley_i_ne_meshayu_im_rabotat_
+Geidman - 1543
+    http://www.1543.ru/teachers/inter/geidman/bp.htm
+Novikov - Math on the Threshold of 21st Century 
+    http://aspirant.rggu.ru/article.html?id=50768
+Arnold - About Teaching Math ru
+    http://www.ega-math.narod.ru/Arnold2.htm
+    https://www.mccme.ru/free-books/matpros/pdf/mp21_%D0%92_%D0%98_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4.pdf
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=4580&option_lang=rus
+Petrovskiy
+    http://www.math.msu.su/petr
+    http://oralhistory.ru/talks/orh-580/text
+    https://www.youtube.com/watch?v=csR_APaxZuU
+    https://www.youtube.com/watch?v=i3aA7uSo3Xw
+    http://www.pms.ru/petrovskiy_i/157.html
+Ilyashenko
+    https://www.pravmir.ru/v-rossii-nuzhno-soxranit-vse-zdorovye-samobytnye-formy-nauki-i-obrazovaniya/
+Vadim Knizhnik
+    https://trv-science.ru/2017/04/03/vadim/
+meeting 2015
+    https://trv-science.ru/2015/06/09/v-zashhitu-nauki-i-obrazovaniya/
+Georgiev
+    http://trv-science.ru/2015/11/17/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-1/
+    https://trv-science.ru/2015/12/22/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-2/
+Arutyunov
+    https://trv-science.ru/2015/12/08/mipt-voprosy-bez-otvetov/
+mipt
+    https://trv-science.ru/2017/04/04/razmyshleniya-o-problemakh-vo/
+    https://trv-science.ru/2016/03/08/innovacionnyj-engineering/
+iraq
+    https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
 
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
     mednyi zmiy
@@ -53,12 +98,13 @@ http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
 
-Pavlenko
-    http://www.iarex.ru/articles/64768.html
-http://www.ict.edu.ru/ft/004778/acm2005.pdf
+Bogatyrev - 2005 - Nas ne Dogonyat
+    http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
-http://www.iarex.ru/articles/61581.html
+2008
+11.18
+    http://www.iarex.ru/articles/61784.html
 ls
     https://habr.com/ru/post/450806/
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
@@ -183,8 +229,6 @@ clear at D:/Temp
     jna*.dll
     snappy*
 
-Marchenkov - 2016 - Konechnye Avtomaty ru
-    https://e.lanbook.com/book/59510
 Raizer - 1966 - Combinatory Math
 Riordan - Intro to Combinatory Analysis
 Anderson - Discrete Math and Combinatorics
@@ -219,24 +263,13 @@ https://lanbook.com/catalog/matematika/osnovy-teorii-grupp-45731606/
     3D602A72477FA1C5F54FAFA14A67C0F4
 
 
-LF ds
-https://habr.com/ru/post/251267/
-https://habr.com/ru/post/250815/
-https://habr.com/ru/post/250523/
-https://habr.com/ru/post/250383/
-
-
-Need
-KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
+SUNTS NGU (Novosibirsc) summer school?
+https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
 
 NikitinFomichev - Math Analysis Deep Course 2nd ed ru
     0F7115619EA5EEE6BB049E274583BA3F
     9448AC24A09E322B0779758A910BAA4D
     B140C35EF09E7CE2231B954DB1C95C5E
-
-SUNTS NGU (Novosibirsc) summer school?
-https://vk.com/search?c[q]=%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%BD&c[section]=communities
-
 Prasolov - 2011 - Algebra Arifmetics and Analysis Problems 2nd ed ru
     7078FB687A8C94713A36F7A7297B927A
     B8E359E83B9A75F45BE4F939788E0735
@@ -251,13 +284,6 @@ https://habr.com/en/post/335906/
 
 bsu liceum
 https://www.kp.by/daily/26595/3611113/
-
-https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html
-
-Morozova
-http://7iskusstv.com/2016/Nomer8/Demidovich1.php
-Dorichenko
-https://otr-online.ru/programmy/gamburgskii-schet/sergei-dorichenko-kak-31661.html
 
 to search
 Kanel-Belov
@@ -284,7 +310,6 @@ kurs matan (specmath) of 57 school (elements of math in problems)
     https://uchitel.by/catalog/book/71115
     Galibchuk - ... discrete
     https://uchitel.by/catalog/book/443697
-Gashkov - Modern Elementary Algebra
 
 Combinatorial Group Theory
 https://www.twirpx.com/file/1121320/
@@ -309,7 +334,7 @@ Golod Evgeni Solomonovich
 http://7iskusstv.com/2016/Nomer12/Demidovich1.php
 
 VSHE
-https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
+    https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
 
 SUNTS
 Schepin - Ryady
@@ -324,36 +349,6 @@ Preparational Courses 8 class
 Preparational Courses 9 class
     51D555F1455B2766B8E4920E60720A6E
 
-Moiseev
-http://www.itmathrepetitor.ru/n-n-moiseev-krizis-sovremennogo-obraz/
-Toom
-http://www.itmathrepetitor.ru/a-l-toom-nablyudeniya-matematika-nad-mat/
-Germany and Physics
-https://nplus1.ru/material/2018/09/18/german-physics-1930s
-Kovaldzhi
-http://www.itmathrepetitor.ru/a-kovaldzhi-novye-standarty-prevrati/
-https://trv-science.ru/2016/05/31/bolshe-zadach-khoroshikh-i-raznykh/
-Virt
-http://www.itmathrepetitor.ru/virt-n-prepodavanie-informatiki-pote/
-Ovchinnikov
-http://www.ug.ru/archive/6020
-https://vogazeta.ru/articles/2018/10/4/person/4842-vladimir_ovchinnikov_ya_nabirayu_horoshih_uchiteley_i_ne_meshayu_im_rabotat_
-Geidman - 1543
-http://www.1543.ru/teachers/inter/geidman/bp.htm
-Novikov - Math on the Threshold of 21st Century 
-    http://aspirant.rggu.ru/article.html?id=50768
-Arnold - About Teaching Math ru
-    http://www.ega-math.narod.ru/Arnold2.htm
-    https://www.mccme.ru/free-books/matpros/pdf/mp21_%D0%92_%D0%98_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4.pdf
-    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=4580&option_lang=rus
-Petrovskiy
-    http://www.math.msu.su/petr
-    http://oralhistory.ru/talks/orh-580/text
-    https://www.youtube.com/watch?v=csR_APaxZuU
-    https://www.youtube.com/watch?v=i3aA7uSo3Xw
-    http://www.pms.ru/petrovskiy_i/157.html
-Ilyashenko
-    https://www.pravmir.ru/v-rossii-nuzhno-soxranit-vse-zdorovye-samobytnye-formy-nauki-i-obrazovaniya/
 2008
 Skopenkov - Research Problems for Schoolkids ru
     https://www.mccme.ru/circles/oim/issl.pdf
@@ -381,25 +376,9 @@ https://trv-science.ru/2015/08/25/kak-stroit-grazhdanskoe-obshchestvo-po-nauke/
 https://trv-science.ru/2019/03/26/mozg-lyubit-trudnye-zadachi/
 https://trv-science.ru/2015/09/22/goditsya-li-rossiya-dlya-kapitalizma/
 http://www.ng.ru/education/2015-12-01/8_maths.html
-https://aftershock.news/?q=node/744938&full
 https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matematike
 
-http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27
 
-Vadim Knizhnik
-    https://trv-science.ru/2017/04/03/vadim/
-meeting 2015
-    https://trv-science.ru/2015/06/09/v-zashhitu-nauki-i-obrazovaniya/
-Georgiev
-    http://trv-science.ru/2015/11/17/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-1/
-    https://trv-science.ru/2015/12/22/chto-gubit-rossijskuyu-nauku-i-kak-s-etim-borotsya-2/
-Arutyunov
-    https://trv-science.ru/2015/12/08/mipt-voprosy-bez-otvetov/
-mipt
-    https://trv-science.ru/2017/04/04/razmyshleniya-o-problemakh-vo/
-    https://trv-science.ru/2016/03/08/innovacionnyj-engineering/
-iraq
-    https://trv-science.ru/2016/08/09/obrazovanie-v-irake/
 Savvateev
     https://www.youtube.com/watch?v=hcf_E38xyiM
     ! need to look at comments
@@ -409,7 +388,6 @@ Shlykov - 2003 - Geometry Planimetry ru
     https://vk.com/doc515221370_493612075?hash=68e858c92805e5e126
 Zhukov - About Number Pi ru
     https://vk.com/doc48883461_497526838?hash=60d492767f269c6559
-
 
 misc27
     https://www.facebook.com/groups/436519399842648/permalink/483040388523882/
@@ -430,3 +408,14 @@ Ahizer
     https://www.facebook.com/groups/436519399842648/permalink/542441932583727/
     https://www.facebook.com/groups/436519399842648/permalink/473599689467952/
     http://7iskusstv.com/2011/Nomer8/Tyrnov1.php?fbclid=IwAR2kaakBZc47B3JLYfCueUA9YDgZB44Bqj1pUqgf4ck84Yh7p1htK4reCgQ
+
+math for universities
+http://www.mathbook.ru/page/399.html?SCContentListOzon_page=27
+
+need to search from time to time
+Marchenkov - 2016 - Konechnye Avtomaty ru
+    https://e.lanbook.com/book/59510
+KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
+KonnovaDremov
+    https://www.labirint.ru/books/661336/
+    https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html
