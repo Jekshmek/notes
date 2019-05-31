@@ -6,6 +6,9 @@ Kiselev - Geometry Planimetry Stereometry ru
     https://uchitel.by/catalog/book/41788
     https://vk.com/doc501194371_493590869?hash=89ece0494739423a10
     86DD15EA793B04E617003D3F01050362
+2006
+Trepakova - From the Experience of Teaching Planimetry with the Kiselev Schoolbook
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mo&paperid=455&option_lang=rus
 2004
 Kiselev - Geometry Planimetry Stereometry ru
     738D6E7CE71A7FB0387AA85E5B5DAD78
@@ -22,3 +25,4 @@ Kiselev - Geometry Problemsbook ru
 1914
 Kiselev - Elementary Geometry 23 ed ru
     F378881EAB646F4C83385D9B5BB3D706
+

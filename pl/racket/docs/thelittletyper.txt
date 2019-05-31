@@ -1546,4 +1546,29 @@ then
 is a
     (mot n target)
 
+! The First Commandment of ind-Vec
+The ind-Vec expression
+    (ind-Vec zero vecnil
+        mot
+        base
+        step)
+is the same
+    (mot zero vecnil)
+as
+    base
+
+! The Second Commandment of ind-Vec
+The ind-Vec expression
+    (ind-Vec (add1 n) (vec:: e es)
+        mot
+        base
+        step)
+is the same
+    (mot (add1 n) (vec:: e es))
+as
+    (step n e es
+        (ind-Vec n es
+            mot
+            base
+            step))
 
