@@ -5,9 +5,11 @@ Masood - Cognitive Computing Recipes
 2018
 BeysolowII - Applied Natural Language Processing with Python
     short
-Bengfort - Applied Text Analysis with Python ER
+Bengfort - Applied Text Analysis with Python
+    E0EFDDAA7B373E509D189655BA3189B0
+    36DE5E7D4CB7F658E76CA4A921F4655B
+    A68A8ED831173C5DAA3AFB3A2BADA18D
 Goyal - Deep Learning for Natural Language Processing
-
 2017
 Jurafsky - Speech and Language Processing
     https://web.stanford.edu/~jurafsky/slp3/

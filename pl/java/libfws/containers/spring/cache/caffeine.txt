@@ -8,6 +8,9 @@ https://github.com/ben-manes/caffeine/wiki/Guava
 https://github.com/ben-manes/caffeine/wiki/Eviction
 https://github.com/ben-manes/caffeine/wiki/Statistics
 
+scala-stuff
+https://github.com/jcouyang/jujiu
+
 2018
 https://www.baeldung.com/java-caching-caffeine
 
