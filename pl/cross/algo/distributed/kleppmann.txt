@@ -1,5 +1,0 @@
-M.Kleppmann: Designing Data-Intensive Applications
-http://martin.kleppmann.com/2014/09/18/turning-database-inside-out-at-strange-loop.html
-https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ
-https://www.youtube.com/playlist?list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx
-https://speakerdeck.com/ept
