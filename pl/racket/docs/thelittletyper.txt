@@ -1572,3 +1572,38 @@ as
             base
             step))
 
+
+(claim mot-vec-append
+    (PI ((E U)
+         (j Nat)
+         (k Nat))
+        (-> (Vec E k)
+            U)))
+(define mot-vec-append
+    (\ (E j k)
+        (\ (es)
+            (Vec E (+ k j)))))
+
+(claim step-vec-append
+    (PI ((E U)
+         (j Nat)
+         (k Nat)
+         (e E)
+         (es (Vec E k)))
+        (-> (mot-vec-append E j
+                k es)
+            (mot-vec-append E j
+                (add1 k) (vec:: e es)))))
+(define step-vec-append
+    (\ (E j l-1 e es)
+        (\ (vec-append_es)
+            (vec:: e vec-append_es))))
+
+(defien vec-append
+    (\ (E l j)
+        (\ (es end)
+            (ind-Vec l es
+                (mot-vec-append E j)
+                end
+                (step-vec-append E j)))))
+

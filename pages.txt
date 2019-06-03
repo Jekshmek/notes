@@ -102,9 +102,6 @@ Bogatyrev - 2005 - Nas ne Dogonyat
     http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
-2019
-05.22 - Why Russia Tolerate West NKO
-    http://www.iarex.ru/articles/66648.html
 2018
 Moskvitin
     http://www.iarex.ru/articles/57102.html
@@ -121,7 +118,7 @@ https://vk.com/mccme
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    2019-05-27
+    2019-06-03
 
 Video
 Reinhold - Java, Today and Tomorrow
@@ -220,10 +217,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 246    (of  873)
+Shalyto - motivation                                - 248    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 266..278 (of  375..418)
+The Little Typer - 3                                - 268..278 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

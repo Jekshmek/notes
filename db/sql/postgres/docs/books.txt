@@ -6,6 +6,10 @@ http://postgresql.leopard.in.ua/html/
 https://github.com/le0pard/postgresql_book
 https://habrahabr.ru/post/324334/
 
+2019
+NovikovGorshkova - DB Technology Fundamentals ru
+    0ED608AEB6925486245260D6E5B12C9A
+    64363673B984D9E189A9A33FBBBAFE3E
 2018
 Morgunov - PostgreSQL Language Fundamentals ru
 2017

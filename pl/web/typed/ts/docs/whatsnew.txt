@@ -1,22 +1,23 @@
 https://github.com/Microsoft/TypeScript/wiki/Roadmap
 
+npm
+    typescript@rc
+
+3.5
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/
 3.4
 https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/
     https://www.infoq.com/news/2019/03/typescript-3-4-release
-
 3.3
 https://www.infoq.com/news/2019/02/typescript-3-3-release
-
 3.2
 https://tproger.ru/news/microsoft-release-typescript32/
 https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/
 https://www.infoq.com/news/2018/11/typescript-3-2-release-bigint
-
 3.1
 https://blogs.msdn.microsoft.com/typescript/announcing-typescript-3-1/
 https://blogs.msdn.microsoft.com/typescript/2018/09/13/announcing-typescript-3-1-rc/
 https://www.infoq.com/news/2018/10/typescript-mappable-tuple-array
-
 3.0
 https://medium.com/webbdev/typescript-3-0-d25109306e40
 https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/
@@ -34,6 +35,3 @@ https://blogs.msdn.microsoft.com/typescript/2017/06/27/announcing-typescript-2-4
 2017
 https://www.slideshare.net/moscowjs/typescript-2-in-action-72453488
 https://channel9.msdn.com/Events/Build/2017/B8088/
-
-npm
-    typescript@rc

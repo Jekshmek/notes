@@ -28,6 +28,8 @@ books
 https://legacy.gitbook.com/book/charleslbryant/hello-react-and-typescript/details
 
 articles
+2019
+https://charlee.li/typeing-react-1-basic/
 2018
 https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript
 https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935
