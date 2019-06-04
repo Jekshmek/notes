@@ -1,12 +1,34 @@
 URLs
 https://trv-science.ru/category/history/page/9/
 
-Kirillov
-    http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
+misc
+https://trv-science.ru/2017/06/06/nulevoi-uroven/
+https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
+https://trv-science.ru/2017/09/12/shirkov-ideya-shkoly-prosta/
+https://trv-science.ru/2015/10/20/shkolnikov-v-universitety/
+https://trv-science.ru/2016/08/23/shkola-moej-mechty/
+https://trv-science.ru/2016/12/06/globalnyj-krizis-v-intellektualnoj-sfere/
+https://trv-science.ru/2016/09/06/a-ne-ischeznut-li-shkoly-v-buduschem/
+https://trv-science.ru/2015/02/10/nuzhna-li-uchitelyu-svoboda/
+https://trv-science.ru/2016/09/06/uchitel-biznesmen/
+https://trv-science.ru/2018/05/24/skoltech_open/
+https://trv-science.ru/2015/08/25/kak-stroit-grazhdanskoe-obshchestvo-po-nauke/
+https://trv-science.ru/2019/03/26/mozg-lyubit-trudnye-zadachi/
+https://trv-science.ru/2015/09/22/goditsya-li-rossiya-dlya-kapitalizma/
+http://www.ng.ru/education/2015-12-01/8_maths.html
+https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matematike
+https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
+http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
+https://vk.com/@postypashki-kak-podgotovitsya-k-olimpiadam-po-informatike
+
 https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
     v tsarstve smekalki
     zeldovich myshkis - vysshaya matematika dlya nachinayuschih
     lakatos - proofs and disproofs
+VSHE
+    https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
+ium
+    https://trv-science.ru/2017/03/14/mikhail-shifman-books/
 Dubna
     https://trv-science.ru/2012/09/25/matematika-na-beregu-dubny/
 Morozova
@@ -101,8 +123,6 @@ iraq
 
 https://blog.predanie.ru/article/krest-kak-sud-i-spasenie/
     mednyi zmiy
-https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informatike
-http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-semi-dazhe-samye-krajnie-radikaly-vozmushhayutsya-etim-gnusnym-namereniem-kommunistov/
     istoriya esteticheskih ucheniy
 
@@ -309,7 +329,6 @@ ZaslavskiyPermyakovSkopenkovShapovalov - Math in Problems ru
 VyalyiPodolskiyRubtsovShvartsShen - 2017 - Discrete Math Lections ru
     http://rubtsov.su/public/hse/2017/DM-HSE-Draft.pdf
 
-https://vk.com/@postypashki-kak-podgotovitsya-k-olimpiadam-po-informatike
 
 http://math.mosolymp.ru/
 ZFTSH metodichki
@@ -344,9 +363,6 @@ https://vk.com/doc-118664176_463981710
 Golod Evgeni Solomonovich
 http://7iskusstv.com/2016/Nomer12/Demidovich1.php
 
-VSHE
-    https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
-
 SUNTS
 Schepin - Ryady
     C668BD4084CCA463EEC788315CA11C10
@@ -368,26 +384,7 @@ Ponarin
 https://math.ru/lib/files/pdf/geometry/Ponarin-I.pdf
 https://math.ru/lib/files/pdf/geometry/Ponarin-II.pdf
 https://www.mccme.ru/free-books/ponarin/ponarin-complex.pdf
-Kirillov
-http://trv-science.ru/2013/05/21/kak-ya-ne-stal-letchikom-a-stal-matematikom/
-http://trv-science.ru/2013/06/04/ya-nadeyus-chto-eshhe-napishu-khoroshie-raboty/
 
-misc
-https://trv-science.ru/2017/06/06/nulevoi-uroven/
-https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
-https://trv-science.ru/2017/09/12/shirkov-ideya-shkoly-prosta/
-https://trv-science.ru/2015/10/20/shkolnikov-v-universitety/
-https://trv-science.ru/2016/08/23/shkola-moej-mechty/
-https://trv-science.ru/2016/12/06/globalnyj-krizis-v-intellektualnoj-sfere/
-https://trv-science.ru/2016/09/06/a-ne-ischeznut-li-shkoly-v-buduschem/
-https://trv-science.ru/2015/02/10/nuzhna-li-uchitelyu-svoboda/
-https://trv-science.ru/2016/09/06/uchitel-biznesmen/
-https://trv-science.ru/2018/05/24/skoltech_open/
-https://trv-science.ru/2015/08/25/kak-stroit-grazhdanskoe-obshchestvo-po-nauke/
-https://trv-science.ru/2019/03/26/mozg-lyubit-trudnye-zadachi/
-https://trv-science.ru/2015/09/22/goditsya-li-rossiya-dlya-kapitalizma/
-http://www.ng.ru/education/2015-12-01/8_maths.html
-https://nsportal.ru/shkola/raznoe/library/2015/11/13/internet-resursy-po-matematike
 
 
 Savvateev
