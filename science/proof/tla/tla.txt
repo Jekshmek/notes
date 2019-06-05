@@ -36,8 +36,8 @@ courses
 http://lamport.azurewebsites.net/video/videos.html
     https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD
 
-presentations
 2019
+https://habr.com/ru/company/jugru/blog/454898/
 Wayne - Designing Distributed Systems with TLA+
     https://www.infoq.com/presentations/tla-plus
     https://hillelwayne.com/talks/distributed-systems-tlaplus/

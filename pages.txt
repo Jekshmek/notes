@@ -1,5 +1,5 @@
 URLs
-https://trv-science.ru/category/history/page/9/
+https://trv-science.ru/category/history/page/10/
 
 misc
 https://trv-science.ru/2017/06/06/nulevoi-uroven/
@@ -58,6 +58,8 @@ Uspenskiy
     https://postnauka.ru/longreads/79850
     https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
     https://www.mccme.ru/free-books/mmmf-lectures/book.34-2.pdf
+Gindikin
+    https://trv-science.ru/2017/05/23/gindikin-ya-ne-istorik-matematiki/
 Skopenkov
     https://www.mccme.ru/free-books/olymp/matprob.pdf
 Duzhin
@@ -95,6 +97,8 @@ Geidman - 1543
 Novikov - Math on the Threshold of 21st Century 
     http://aspirant.rggu.ru/article.html?id=50768
 Arnold - About Teaching Math ru
+    https://trv-science.ru/2018/01/16/novye-knigi-k-yubileyu-arnolda/
+    https://trv-science.ru/2010/06/08/o-vladimire-igoreviche-arnolde/
     http://www.ega-math.narod.ru/Arnold2.htm
     https://www.mccme.ru/free-books/matpros/pdf/mp21_%D0%92_%D0%98_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4.pdf
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=4580&option_lang=rus

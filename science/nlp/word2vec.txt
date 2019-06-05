@@ -2,6 +2,8 @@ https://code.google.com/archive/p/word2vec/
 https://groups.google.com/forum/#!forum/word2vec-toolkit
 
 2019
+https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong
+    https://habr.com/ru/post/454926/
 https://jalammar.github.io/illustrated-word2vec/
     https://habr.com/ru/post/446530/
 2017
