@@ -1645,3 +1645,32 @@ as
                 nil
                 (step-vec->list E))))))
 
+
+(claim list->vec->list=
+    (PI ((E U)
+         (es (List E)))
+        (= (List E)
+            es
+            (vec->list E
+                (length es)
+                (list->vec E es)))))
+(claim mot->list->vec->list=
+    (PI ((E U))
+        (-> (List E)
+            U)))
+(define mot->list->vec->list=
+    (\ (E es)
+        (= (List E)
+            es
+            (vec->list E
+                (length E es)
+                (list->vec E es)))))
+(claim step->list->vec->list
+    (PI ((E U)
+         (e E)
+         (es (List E)))
+        (-> (mot->list->vec->list= E
+                es)
+            (mot->list->vec->list= E
+                (:: e es)))))
+

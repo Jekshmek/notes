@@ -1,3 +1,7 @@
+2019
+https://spring.io/blog/2019/05/16/reactive-transactions-with-spring
+https://paluch.biz/blog/179-reactive-relational-database-transactions.html
+    https://www.youtube.com/watch?v=9henAE6VUbk
 2016
 https://dzone.com/articles/spring-transaction-management
     https://habr.com/company/otus/blog/431508/
