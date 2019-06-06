@@ -23,6 +23,10 @@ https://github.com/dlang/dub/wiki/Version-management
 https://github.com/dlang/dub/wiki/Cookbook
 https://github.com/dlang/dub/wiki/DEP1
 
+2019
+https://dconf.org/2019/talks/lunesu.pdf
+
+
 sdl
 https://code.dlang.org/package-format?lang=sdl
 
