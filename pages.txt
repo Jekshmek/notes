@@ -2,11 +2,10 @@ URLs
 https://trv-science.ru/category/history/page/10/
 
 misc
-https://trv-science.ru/2017/06/06/nulevoi-uroven/
+https://trv-science.ru/2016/08/23/shkola-moej-mechty/
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
 https://trv-science.ru/2017/09/12/shirkov-ideya-shkoly-prosta/
 https://trv-science.ru/2015/10/20/shkolnikov-v-universitety/
-https://trv-science.ru/2016/08/23/shkola-moej-mechty/
 https://trv-science.ru/2016/12/06/globalnyj-krizis-v-intellektualnoj-sfere/
 https://trv-science.ru/2016/09/06/a-ne-ischeznut-li-shkoly-v-buduschem/
 https://trv-science.ru/2015/02/10/nuzhna-li-uchitelyu-svoboda/
@@ -234,7 +233,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 288
+This week in rust                                   - 289
 Razbor Poletov                                      - 202 1:16:00 (of 2:16:03)
     https://razborpoletov.com/2019/05/episode-204
     https://razborpoletov.com/2019/03/episode-203
@@ -252,10 +251,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 252    (of  873)
+Shalyto - motivation                                - 254    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 272..278 (of  375..418)
+The Little Typer - 3                                - 274..278 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

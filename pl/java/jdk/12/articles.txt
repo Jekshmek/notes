@@ -1,4 +1,6 @@
 2019
+https://twitter.com/zhekakozlov/status/1135506701438857217?s=12
+    good demo
 https://dzone.com/articles/39-new-features-and-apis-in-jdk-12
     https://habr.com/ru/post/446590/
 https://proglib.io/p/java-12-new-features/

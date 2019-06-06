@@ -1,4 +1,5 @@
 2019
+http://oneeyedmen.com/kotlin-hacks-printed.html
 Keks - Kotlin Puzzlers 2
     https://habr.com/ru/company/jugru/blog/440974/
 2018

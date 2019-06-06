@@ -1,3 +1,11 @@
+gu
+    install native-image
+
 http://www.graalvm.org/docs/reference-manual/aot-compilation/
 https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692
 --no-server
+
+https://github.com/oracle/graal/blob/master/substratevm/LIMITATIONS.md
+
+2019
+https://habr.com/ru/post/454790/
