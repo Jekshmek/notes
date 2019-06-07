@@ -20,6 +20,7 @@ VasilievEgorov - Vsesoyuz Math Olymp Problems part 1 ru
     DA1C8678648D628419B7DB6A90916B5B
     304F8412A7BCB84E86EA1A84B233DA52
     4B6BD7EC074C079E280260720C8A0D06
+    ! p13,14 - list of people
 2007
 VasilievSavinEgorov - Selected Olympiad Problems ru
     7CA6E6BF7688F7DBE79C4B0255657C3C
