@@ -1674,3 +1674,38 @@ as
             (mot->list->vec->list= E
                 (:: e es)))))
 
+(claim length-treats=
+    (PI ((some-treats (List Atom))
+         (more-threats (List Atom)))
+        (-> (= (List Atom)
+                some-treats
+                more-treats)
+            (= Nat
+                (length Atom some-treats)
+                (length Atom more-treats)))))
+(define length-treats=
+    (\ (some-treats more-treats)
+        (\ (treats)
+            (cong treats= (length Atom)))))
+
+! When in Doubt, Evaluate
+Gain insight by finding the values of expressions in types
+and working out examples in "same-as" charts
+
+(claim ::-fun
+    (PI ((E U))
+        (-> E (List E)
+            (List E))))
+(define ::-fun
+    (\ (E)
+        (\ (e es)
+            (:: e es))))
+
+Now we can write
+
+(define step-list->vec->list=
+    (\ (E e es)
+        (\ (list->vec->list=_es)
+            (cong list->vec->list=_es
+                (::-fun E e)))))
+ 

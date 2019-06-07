@@ -1,3 +1,5 @@
+https://developer.apple.com/videos/play/wwdc2019/409/
+
 8.x
 http://releases.llvm.org/8.0.0/docs/ReleaseNotes.html
     http://www.opennet.ru/opennews/art.shtml?num=50360
