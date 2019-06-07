@@ -19,3 +19,5 @@ Spiewak - May Your Data Ever Be Coherent
 
 http://www.scalakoans.org/
 
+Evolution
+https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f
