@@ -21,8 +21,6 @@ https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
     v tsarstve smekalki
     zeldovich myshkis - vysshaya matematika dlya nachinayuschih
     lakatos - proofs and disproofs
-Zvonkin
-    https://newtonew.com/book/kiddies-maths-moral
 VSHE
     https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
 ium
@@ -134,6 +132,8 @@ http://www.iarex.ru/articles/64430.html
 2018
 Moskvitin
     http://www.iarex.ru/articles/57102.html
+Haldey
+    http://www.iarex.ru/articles/63502.html
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
