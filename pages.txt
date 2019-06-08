@@ -132,8 +132,6 @@ http://www.iarex.ru/articles/64430.html
 2018
 Moskvitin
     http://www.iarex.ru/articles/57102.html
-Haldey
-    http://www.iarex.ru/articles/63502.html
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
