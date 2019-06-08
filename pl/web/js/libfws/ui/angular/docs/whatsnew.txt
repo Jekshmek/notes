@@ -1,6 +1,7 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 8x
+https://medium.com/webbdev/angular-4c42d86eaa62
 https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27
 https://blog.angularindepth.com/embrace-yourself-angular-8-is-coming-1bf187c8f0bf
     https://habr.com/ru/company/ruvds/blog/453584/
