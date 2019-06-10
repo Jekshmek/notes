@@ -1,0 +1,5 @@
+https://www.typescriptlang.org/docs/handbook/generics.html
+
+2019
+https://medium.com/better-programming/typescript-generics-90be93d8c292
+    https://habr.com/ru/post/455473/

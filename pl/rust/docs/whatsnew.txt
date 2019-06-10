@@ -9,10 +9,12 @@ https://blog.rust-lang.org/2019/04/11/Rust-1.34.0.html
     http://www.opennet.ru/opennews/art.shtml?num=50513
     https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1340-2019-04-11
     https://habr.com/ru/post/448366/
+    https://rustycrate.ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/2019/04/12/rust-1.34.0.html
 
 https://blog.rust-lang.org/2019/02/28/Rust-1.33.0.html
     https://habr.com/ru/post/442244/
     http://www.opennet.ru/opennews/art.shtml?num=50235
+    https://rustycrate.ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/2019/02/28/rust-1.33.0.html
 
 https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html
     https://www.reddit.com/r/rust/comments/ah1mzu/announcing_rust_1320/

@@ -1709,3 +1709,13 @@ Now we can write
             (cong list->vec->list=_es
                 (::-fun E e)))))
  
+(define list->vec->list=
+    (\ (E es)
+        (ind-List es
+            (mot-list->vec->list= E)
+            (same nil)
+            (step-list->vec->list= E))))
+
+
+### 12. Even Numbers can be Odd
+

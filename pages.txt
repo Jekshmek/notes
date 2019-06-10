@@ -1,5 +1,6 @@
 URLs
 https://trv-science.ru/category/history/page/10/
+https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
 
 misc
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
@@ -129,9 +130,6 @@ Bogatyrev - 2005 - Nas ne Dogonyat
     http://www.ict.edu.ru/ft/004778/acm2005.pdf
 http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
-2018
-Moskvitin
-    http://www.iarex.ru/articles/57102.html
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
@@ -269,10 +267,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 256    (of  873)
+Shalyto - motivation                                - 258    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 274..278 (of  375..418)
+The Little Typer - 3                                - 280..292 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -448,3 +446,5 @@ KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
 KonnovaDremov
     https://www.labirint.ru/books/661336/
     https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html
+
+tl - 1929
