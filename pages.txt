@@ -1,6 +1,5 @@
 URLs
 https://trv-science.ru/category/history/page/10/
-https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
 
 misc
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
@@ -128,8 +127,12 @@ https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-sem
 
 Bogatyrev - 2005 - Nas ne Dogonyat
     http://www.ict.edu.ru/ft/004778/acm2005.pdf
-http://www.iarex.ru/articles/64719.html
 http://www.iarex.ru/articles/64430.html
+Haldey
+2019
+02.24 - What are Russian Patriots Mistaken In
+    http://www.iarex.ru/articles/64719.html
+    ! Dugin don't understand the mission of Putin
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
@@ -239,6 +242,8 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
 Ortho
 Sorokin - I 38                                      -    00:00 (of)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
+Sorokin - Presentation                              -    44:00 (of 3:01:43)
+    https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
 Paschenko - Game 2 - 23a                             - 1:43:00 (of)
     http://solovki-monastyr.ru/abba-page/narcomania/#16
 Ivliev - 02                                         -   00:00 (of)
