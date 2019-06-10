@@ -1,5 +1,5 @@
 URLs
-https://trv-science.ru/category/history/page/10/
+https://trv-science.ru/category/history/page/11/
 
 misc
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
@@ -21,6 +21,8 @@ https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
     v tsarstve smekalki
     zeldovich myshkis - vysshaya matematika dlya nachinayuschih
     lakatos - proofs and disproofs
+John Milnor
+    https://trv-science.ru/2011/03/29/john-milnor/
 VSHE
     https://trv-science.ru/2018/07/31/kak-obresti-garmoniyu-rosta/
 ium
@@ -79,6 +81,7 @@ Germany and Physics
 Kovaldzhi
     http://www.itmathrepetitor.ru/a-kovaldzhi-novye-standarty-prevrati/
     https://trv-science.ru/2016/05/31/bolshe-zadach-khoroshikh-i-raznykh/
+    https://www.mccme.ru/free-books/matpros/pdf/mp-19-kk.pdf
 Virt
     http://www.itmathrepetitor.ru/virt-n-prepodavanie-informatiki-pote/
 Ovchinnikov
@@ -127,12 +130,6 @@ https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-2-unichtozhenie-sem
 
 Bogatyrev - 2005 - Nas ne Dogonyat
     http://www.ict.edu.ru/ft/004778/acm2005.pdf
-http://www.iarex.ru/articles/64430.html
-Haldey
-2019
-02.24 - What are Russian Patriots Mistaken In
-    http://www.iarex.ru/articles/64719.html
-    ! Dugin don't understand the mission of Putin
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
 https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
@@ -145,7 +142,9 @@ https://vk.com/mccme
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    2019-06-07
+    2019-06-10
+iarex
+    2019-06-10
 
 Video
 Reinhold - Java, Today and Tomorrow
