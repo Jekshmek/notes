@@ -1,0 +1,3 @@
+2019
+https://www.baeldung.com/spring-boot-testcontainers-integration-test
+    https://habr.com/ru/company/haulmont/blog/454970/

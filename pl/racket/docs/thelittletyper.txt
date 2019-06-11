@@ -1719,3 +1719,17 @@ Now we can write
 
 ### 12. Even Numbers can be Odd
 
+(claim even
+    (-> Nat
+        U))
+(define even
+    (\ (n)
+        (SIG ((half Nat))
+            (= Nat n (double half)))))
+
+(claim zero-is-even
+    (Even 0))
+(define zero-is-even
+    (cons 0
+        (same 0)))
+
