@@ -3,6 +3,8 @@ CMU Neural Nets for NLP
 http://phontron.com/class/
 http://phontron.com/class/nn4nlp2019/
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs
+Stanford - CS224n
+http://web.stanford.edu/class/cs224n/
 
 2018
 MSU - Math Methods of Text Analysis
@@ -17,11 +19,21 @@ http://phontron.com/class/nn4nlp2018/
 https://github.com/neubig/nn4nlp-code
 https://github.com/neubig/nn4nlp-code/tree/master/data
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE
+Mooney - Texas - cs388
+https://www.cs.utexas.edu/~mooney/cs388/
+Jurafsky - Stanford
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+https://web.stanford.edu/~jurafsky/slp3/
 
 2017
 CMU - Neural Nets for NLP
 http://phontron.com/class/nn4nlp2017/
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT
+Smith - Washington - CSEP517
+https://courses.cs.washington.edu/courses/csep517/17sp/
+Blumson - Oxford
+http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/
+https://github.com/oxford-cs-deepnlp-2017/lectures
 
 Oxford - Deep Learning for NLP with DeepMind
 https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
@@ -29,3 +41,6 @@ https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 2014
 Jurafsky, Manning - Natural Language Processing
 https://www.youtube.com/playlist?list=PL6397E4B26D00A269
+
+????
+http://demo.clab.cs.cmu.edu/NLP/
