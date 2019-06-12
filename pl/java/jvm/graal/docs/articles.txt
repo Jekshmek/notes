@@ -1,4 +1,5 @@
 2019
+https://medium.com/graalvm/getting-started-with-graalvm-for-scala-d0a006dec1d1
 https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8
 https://www.infoq.com/presentations/graal-jit-c2
 https://habr.com/ru/post/445978/
