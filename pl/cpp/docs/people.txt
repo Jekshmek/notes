@@ -2,6 +2,9 @@ Semenchenko
 https://comaqa.by/2019/02/11/comaqa-na-corehard-meet-up-htp-1/
 
 Pusz
+2019
+Beyond C++17 Part 2 of N
+https://www.youtube.com/watch?v=XjUmU3q1XsA
 2018
 Beyond C++17
 https://www.youtube.com/watch?v=y7PBciQp0B8

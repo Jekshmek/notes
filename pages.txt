@@ -95,6 +95,7 @@ Zavelskiy - EGE
 Novikov - Math on the Threshold of 21st Century 
     http://aspirant.rggu.ru/article.html?id=50768
 Arnold - About Teaching Math ru
+    https://mccme.ru/arnold/books/odu-12.pdf
     https://trv-science.ru/2018/01/16/novye-knigi-k-yubileyu-arnolda/
     https://trv-science.ru/2010/06/08/o-vladimire-igoreviche-arnolde/
     http://www.ega-math.narod.ru/Arnold2.htm
@@ -274,7 +275,7 @@ Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
 Shalyto - motivation                                - 260    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 282..292 (of  375..418)
+The Little Typer - 3                                - 284..292 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

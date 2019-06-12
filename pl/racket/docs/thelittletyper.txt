@@ -1733,3 +1733,23 @@ Now we can write
     (cons 0
         (same 0)))
 
+For every natural number n, if
+    n is even,
+then
+    (2 + n) is also even
+
+"Every" sounds like PI
+
+(claim +two-even
+    (PI ((n Nat))
+        (-> (Even n)
+            (Even (+ 2 n)))))
+
+Remember:
+If p is a
+    (SIG ((x A))
+        D),
+then (car p) is an
+    A
+and (cdr p)'s type is found by consistently replacing each "x" in "D" with (car p)
+
