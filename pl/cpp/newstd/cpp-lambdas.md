@@ -3,7 +3,9 @@
 ## Articles
 
 * [Flipek - Lambdas: from C++11 to C++20, part 2] (https://www.bfilipek.com/2019/03/lambdas-story-part2.html)
+* [-//- ru translation, part 2] (https://habr.com/ru/company/otus/blog/455978/)
 * [Flipek - Lambdas: from C++11 to C++20, part 1] (https://www.bfilipek.com/2019/02/lambdas-story-part1.html)
+* [-//- ru translation, part 1] (https://habr.com/ru/company/otus/blog/444524/)
 * [Winward - C++ Lambdas aren’t magic, part 1] (https://medium.com/@winwardo/c-lambdas-arent-magic-part-1-b56df2d92ad2)
 * [Winward - C++ Lambdas aren’t magic, part 2] (https://medium.com/@winwardo/c-lambdas-arent-magic-part-2-ce0b48934809)
 * [Allain - C++11 - Lambda Closures, the Definitive Guide] (http://www.cprogramming.com/c++11/c++11-lambda-closures.html)

@@ -5,6 +5,8 @@ https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Curiously_Recurring_Template_P
 http://eao197.blogspot.com/2019/04/progc-9-sfinae-crtp.html
     https://habr.com/ru/post/447816/
 2018
+Otus - CRTP
+    https://www.youtube.com/watch?v=f07FYiJCv8I
 https://mklimenko.github.io/english/2018/07/02/platform-dependent-crtp/
 https://www.fluentcpp.com/2018/07/03/how-to-reduce-the-code-bloat-of-a-variadic-crtp/
 https://www.fluentcpp.com/2018/06/26/variadic-crtp-packs-from-opt-in-skills-to-opt-in-skillsets/
