@@ -273,7 +273,9 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Shalyto - motivation                                - 260    (of  873)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  30    (of  338)
+Myshkis - Soviet Mathematicians ru                  -   9    (of  302)
+Shalyto - motivation                                - 262    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
 The Little Typer - 3                                - 284..292 (of  375..418)

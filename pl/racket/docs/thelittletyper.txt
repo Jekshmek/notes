@@ -1753,3 +1753,22 @@ then (car p) is an
     A
 and (cdr p)'s type is found by consistently replacing each "x" in "D" with (car p)
 
+! Carefully Choose Definitions
+... they can greately simplify later proofs
+
+Note: the expression
+    (cong (cdr e_n) (+ 2)
+has a type
+    (= Nat
+        (+ 2 n)
+        (add1 (add1 (double (car e_n)))))
+because
+    (+ 2 n)
+is the same Nat as
+    (add1 (add1 n))
+
+(define +two-even
+    (\ (n e_n)
+        (cons (add1 (car e_n))
+            (cong (cdr e_n) (+ 2)))))
+

@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/456050/
 https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 2018
 https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/

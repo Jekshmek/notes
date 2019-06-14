@@ -29,6 +29,8 @@ https://legacy.gitbook.com/book/charleslbryant/hello-react-and-typescript/detail
 
 articles
 2019
+https://dev.to/bmcmahen/a-beginners-guide-to-using-typescript-with-react-7m6
+    https://habr.com/ru/company/otus/blog/456124/
 https://charlee.li/typeing-react-1-basic/
 2018
 https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript
