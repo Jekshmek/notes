@@ -1,5 +1,5 @@
 URLs
-https://trv-science.ru/category/history/page/11/
+https://trv-science.ru/category/edu/
 
 misc
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
@@ -56,6 +56,8 @@ Uspenskiy
     https://postnauka.ru/longreads/79850
     https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
     https://www.mccme.ru/free-books/mmmf-lectures/book.34-2.pdf
+Manin
+    https://trv-science.ru/2008/09/30/yu-i-manin-ne-my-vybiraem-matematiku-svoejj-professiejj-a-ona-nas-vybiraet/
 Gindikin
     https://trv-science.ru/2017/05/23/gindikin-ya-ne-istorik-matematiki/
 Skopenkov
