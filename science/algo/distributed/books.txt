@@ -5,10 +5,12 @@ https://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/013239227
 https://landing.google.com/sre/book/index.html
 Fokkink - Distributed Algorithms - Intuitive Approach
 https://www.piter.com/product/raspredelennye-algoritmy-intuitivnyy-podhod
+
+2019
 Burns - Designing Distributed Systems
-https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/
-https://github.com/brendandburns/designing-distributed-systems
-https://azure.microsoft.com/mediahandler/files/resourcefiles/baf44271-3870-454f-868c-23d48e7672cb/Designing_Distributed_Systems.pdf
+    https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/
+    https://github.com/brendandburns/designing-distributed-systems
+    https://azure.microsoft.com/mediahandler/files/resourcefiles/baf44271-3870-454f-868c-23d48e7672cb/Designing_Distributed_Systems.pdf
 
 2011
 Cachin - Introduction To Reliable and Secure Distributed Programming 2nd ed

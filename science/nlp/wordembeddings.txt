@@ -1,4 +1,5 @@
 2019
+https://pair-code.github.io/interpretability/bert-tree/
 https://www.infoq.com/presentations/nlp-word-embedding
 
 2018

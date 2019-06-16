@@ -59,6 +59,10 @@ Bonaccorso - Machine Learning Algorithms
 Kubat - An Introduction to Machine Learning 2nd ed
 
 2016
+Domingos - The Master Algorithm
+    https://vk.com/doc7608079_506331045?hash=32adde44d1960971a2
+    3B1AFBEFB6C7E840DA83003A67C661B2
+    4C14AA3EBE9B31677F0B3D861AB89362
 Mueller - Machine Learning For Dummies
 
 2015
