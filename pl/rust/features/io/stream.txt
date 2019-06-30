@@ -1,5 +1,7 @@
 https://docs.rs/futures/0.1.17/futures/stream/trait.Stream.html
 
+2019
+https://blog.yoshuawuyts.com/rust-streams/
 2018
 https://www.fpcomplete.com/blog/2018/07/streaming-utf8-haskell-rust
 http://xion.io/post/code/rust-unfold-pagination.html

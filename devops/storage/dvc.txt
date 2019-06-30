@@ -3,3 +3,10 @@ https://github.com/iterative/dvc
 
 aur
     dvc
+
+pip install
+    dvcgs
+    google.cloud.storage
+
+issues
+https://dvc.org/doc/user-guide/update-tracked-file

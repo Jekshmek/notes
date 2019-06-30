@@ -1,3 +1,6 @@
+2019
+CodingTech - Everything’s a Plugin: Understanding Webpack From the Inside Out
+    https://www.youtube.com/watch?v=xse6JKcfbzs
 2018
 Larking - Building a Platform : Webpack and the Future
 https://docs.google.com/presentation/d/1nE-9fE5Cfe5X0IJUtx4Qt6is06j5v-3b8JB9A37OKcA

@@ -2,5 +2,7 @@ https://nestjs.com/
 https://docs.nestjs.com/
 
 2019
+Academind - Learn Nest.js from Scratch by building an API
+    https://www.youtube.com/watch?v=F_oOtaxb0L8
 https://medium.com/@kammysliwiec/announcing-nestjs-6-whats-new-38959d94221f
     https://habr.com/ru/post/447554/

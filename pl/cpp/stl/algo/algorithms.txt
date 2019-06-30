@@ -6,6 +6,8 @@ https://github.com/srcmake/cpp-stl-algorithms
     https://www.youtube.com/watch?v=9XGqSDjaW24
 
 2019
+Hoekstra - Algorithm Intuition
+    https://www.youtube.com/watch?v=M1lNNFwxUVI
 https://awfulcode.io/2019/02/07/inside-the-stl-the-implementation-of-rotate/
     rotate
 CodeReport - stl algorithms

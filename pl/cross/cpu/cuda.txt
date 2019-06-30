@@ -1,3 +1,8 @@
+presentations
+2019
+CodingTech - CUDA In Your Python: Effective Parallel Programming on the GPU
+    https://www.youtube.com/watch?v=CO4ifMknS84
+
 books
 2016
 Storti - CUDA for Engineers
