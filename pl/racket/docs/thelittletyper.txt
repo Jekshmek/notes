@@ -1772,3 +1772,10 @@ is the same Nat as
         (cons (add1 (car e_n))
             (cong (cdr e_n) (+ 2)))))
 
+(claim Odd
+    (-> Nat
+        U))
+(define Odd
+    (\ (n)
+        (SIG ((haf Nat))
+            (= Nat n (add1 (double haf))))))

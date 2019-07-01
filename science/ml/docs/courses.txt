@@ -30,6 +30,8 @@ Berkeley
     https://inst.eecs.berkeley.edu/~cs188/fa18/
 Kazan - Raznikov - ML Lections
     https://www.youtube.com/playlist?list=PL6-BrcpR2C5RYoCAmC8VQp_rxSh0i_6C6
+Intel - TF
+    https://software.intel.com/en-us/ai/courses/tensorflow
 2018
 MFTI - Vlasov
     https://www.youtube.com/playlist?list=PLHOMZXOczEYMJ2AOakOdqwZ1Y-RXCs0U5

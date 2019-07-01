@@ -1,4 +1,7 @@
+
 2019
+https://docs.microsoft.com/en-us/windows/wsl/wsl2-ux-changes
+https://www.infoq.com/news/2019/06/wsl-2-linux/
 https://devblogs.microsoft.com/commandline/announcing-wsl-2/
     https://habr.com/ru/post/451782/
 https://devblogs.microsoft.com/commandline/shipping-a-linux-kernel-with-windows/

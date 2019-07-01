@@ -1,5 +1,6 @@
-graal updater
+https://www.graalvm.org/docs/reference-manual/graal-updater/
 
 gu
     install
         native-image
+        python

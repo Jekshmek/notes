@@ -280,7 +280,7 @@ Myshkis - Soviet Mathematicians ru                  -   9    (of  302)
 Shalyto - motivation                                - 262    (of  873)
     http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
         ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 284..292 (of  375..418)
+The Little Typer - 3                                - 286..292 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

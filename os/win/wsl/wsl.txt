@@ -1,5 +1,7 @@
+https://docs.microsoft.com/en-us/windows/wsl/about
+
 WSL
-https://github.com/Microsoft/WSL
+https://github.com/microsoft/WSL
     https://github.com/Microsoft/Console
 https://aka.ms/learnwsl
 https://aka.ms/wsldocs
