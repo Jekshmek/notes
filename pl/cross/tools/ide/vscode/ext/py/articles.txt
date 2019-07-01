@@ -1,2 +1,3 @@
 2019
+https://habr.com/ru/company/microsoft/blog/457186/
 https://proglib.io/p/python-vscode/
