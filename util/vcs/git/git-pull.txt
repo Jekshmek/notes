@@ -8,5 +8,5 @@ git log ... --all
 git merge <other-branch-name>
     merthe the other branch to the current one
 
-git pull --rebase=preserve
+git pull --rebase=merge
     better than a plain --rebase ???

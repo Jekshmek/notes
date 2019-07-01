@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/company/ruvds/blog/458324/
 https://habr.com/ru/company/constanta/blog/435700/
 https://medium.com/vuetify/productivity-in-vue-part-2-1dc209062cae
     https://habr.com/ru/post/442344/

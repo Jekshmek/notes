@@ -1,5 +1,7 @@
 https://cmake.org/cmake/help/latest/module/FetchContent.html
 
+2019
+https://jfreeman.dev/blog/2019/06/27/trying-conan-with-modern-cmake:-packaging/
 2018
 https://www.reddit.com/r/cpp/comments/9284h5/dependency_management_with_cmake_and_git/
 2016
