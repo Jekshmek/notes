@@ -8,7 +8,13 @@ books
 2018
 Korites - Python Graphics
 
-articles
+articles and presentations
+2019
+Ushenin - Python for Research !!!
+    https://github.com/KonstantinUshenin/python-for-research
+    https://www.youtube.com/playlist?list=PLcDyHIlEYxAQxaGKmRVMD-Tbgi8jqP7r2
+        https://www.youtube.com/watch?v=eeKS2CZ0jDI
+        https://github.com/KonstantinUshenin/python-for-research/blob/master/lesson_1.2.2.ipynb
 2018
 https://realpython.com/python-matplotlib-guide/
     https://python-scripts.com/matplotlib

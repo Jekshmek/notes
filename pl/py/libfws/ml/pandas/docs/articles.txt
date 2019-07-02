@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/457302/
 https://www.dataquest.io/blog/pandas-big-data
     https://habr.com/ru/company/ruvds/blog/442516/
 2018

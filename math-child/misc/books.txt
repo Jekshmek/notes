@@ -31,6 +31,9 @@ GrahamKnuthPatashnik - Concrete Mathematics 2nd ed ru
     FF76AF275370AAC473E33925B9912F4D
     E96AF67314F25FE045A962D1AEF36018
     41A128B9F5D2C5B9A5F31EAC4247DB43
+1994
+Perli - Pages of Russian History - Nontraditional Math Problemsbook 5-6 class ru
+    3656C98D916B6141479C942C6269C66B
 1990
 Litltlewood - Mathematicians Miscellany ru
 Rutersvard - Impossible Figures ru

@@ -7,13 +7,15 @@ https://www.swtestacademy.com/junit5-parallel-test-execution/
 
 src/test/resources/junit-platform.properties
 
+junit.jupiter.extensions.autodetection.enabled = true
 junit.jupiter.execution.parallel.enabled=true
-// dynamic
-junit.jupiter.execution.parallel.enabled=true
+junit.jupiter.execution.parallel.mode.default=threaded
+#concurrent
 junit.jupiter.execution.parallel.config.strategy=fixed
+#dynamic
 junit.jupiter.execution.parallel.config.fixed.parallelism=4
-junit.jupiter.execution.parallel.mode.default = concurrent
-junit.jupiter.execution.parallel.mode.classes.default = concurrent
+junit.jupiter.execution.parallel.mode.classes.default=threaded
+#concurrent
 
 https://junit.org/junit5/docs/current/api/org/junit/platform/engine/support/hierarchical/ParallelExecutionConfigurationStrategy.html
 
@@ -30,7 +32,7 @@ public class LoginTest extends BaseTest {
     void testTagged() throws Exception {
         System.out.println("one more! " + Thread.currentThread().getName());
         assertThat(true).isTrue();
-	Thread.sleep(1000);
+        Thread.sleep(1000);
     }
 
 }

@@ -2,5 +2,8 @@ https://clickhouse.yandex/
 https://clickhouse.yandex/docs/en/
 https://github.com/yandex/ClickHouse/
 
+compression
+https://habr.com/en/company/yandex/blog/457612/
+
 2018
 https://habrahabr.ru/company/yandex/blog/347696/

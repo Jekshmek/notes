@@ -1,4 +1,5 @@
 2019
+https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/
 https://habr.com/ru/post/452356/
 
 2018

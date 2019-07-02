@@ -26,6 +26,9 @@ translate ru
 https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
     https://vk.com/maxpfrontend
 
+2019
+Freeman - Pro React 16
+    E9AF27AD16A3297AF405DF554342B7F6
 2018
 ? Thomas - React in Action
 Chinnathambi - Learning React 2nd ed (readen)

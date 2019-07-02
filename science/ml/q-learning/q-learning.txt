@@ -1,4 +1,6 @@
 2019
+Edureka - Q Learning Explained | Reinforcement Learning Using Python | Q Learning in AI
+    https://www.youtube.com/watch?v=DhdUlDIAG7Y
 https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding-recurrency-and-reward-shaping-b9e0ee095c8b
     https://habr.com/ru/post/436628/
 2018

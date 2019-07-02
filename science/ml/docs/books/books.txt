@@ -13,8 +13,11 @@ https://habrahabr.ru/company/neurodatalab/blog/336218/
 https://habrahabr.ru/company/mailru/blog/333862/
 
 ????
+Cornell - Foundations of Data Science
+    https://www.cs.cornell.edu/jeh/book.pdf
+    https://www.youtube.com/watch?v=DqBUALT6dnM
 Stanford - Leskovec - Mining of Massive DataSets
-http://www.mmds.org/
+    http://www.mmds.org/
 
 2019
 Joshi - AI with Python ru
