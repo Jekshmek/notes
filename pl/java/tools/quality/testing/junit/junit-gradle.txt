@@ -1,5 +1,7 @@
-https://junit.org/junit5/docs/snapshot/user-guide/index.html#running-tests-build-gradle
-http://junit.org/junit5/docs/current/user-guide/#running-tests-build-gradle
+https://junit.org/junit5/docs/current/user-guide/#running-tests-build-gradle
+https://stackoverflow.com/questions/40891867/junit5-tag-specific-gradle-task
+
+https://docs.gradle.org/current/userguide/java_testing.html
 
 dependencies {
     testCompile('org.junit.jupiter:junit-jupiter-api:5.3.1')
@@ -8,7 +10,10 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform()
+    useJUnitPlatform {
+        // includeTags 'aaa', 'bbb'
+        excludeTags 'stress' // , 'ci'
+    }
     testLogging {
         showStandardStreams true
         events 'PASSED', 'FAILED', 'SKIPPED'
