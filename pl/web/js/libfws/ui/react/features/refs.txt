@@ -1,3 +1,6 @@
+2019
+https://moduscreate.com/blog/everything-you-need-to-know-about-refs-in-react/
+    https://rafaelquintanilha.com/the-complete-guide-to-react-refs/
 2018
 https://css-tricks.com/working-with-refs-in-react/
 https://proglib.io/p/react-js-interview/

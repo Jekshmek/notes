@@ -1,6 +1,7 @@
 https://medium.com/web-standards/regarding-broken-promise-of-web-components-385d63de4959
 
 2019
+https://www.robinwieruch.de/web-components-tutorial/
 https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework
 https://css-tricks.com/an-introduction-to-web-components/
 https://tproger.ru/translations/web-components/

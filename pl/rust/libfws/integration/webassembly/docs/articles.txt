@@ -1,4 +1,6 @@
 2019
+https://www.webassemblyman.com/rust_webassembly_hello_world.html
+    https://medium.com/@ConnectCode/rust-webassembly-hello-world-deep-dive-with-wasm-bindgen-and-wasm2wat-a52270009034
 https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/
     https://habr.com/ru/company/skillbox/blog/452190/
 https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e

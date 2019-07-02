@@ -16,6 +16,7 @@ Styled Components For Your React Apps
 https://www.youtube.com/watch?v=pHHsSkkjQns
 
 whatsnew
+https://medium.com/styled-components/announcing-styled-components-v5-beast-mode-389747abd987
 https://medium.com/styled-components/styled-components-v4-new-final-finalest-for-real-final-final-psd-fa4d83398a77
 https://medium.com/@david.gilbertson/styled-components-v4-the-good-the-bad-and-something-completely-different-e891139e0138
 https://www.styled-components.com/docs/faqs#what-do-i-need-to-do-to-migrate-to-v4

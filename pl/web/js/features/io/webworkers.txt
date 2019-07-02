@@ -1,4 +1,5 @@
 2019
+https://dassur.ma/things/when-workers/
 https://dev.to/evilmartians/faster-webgl-three-js-3d-graphics-with-offscreencanvas-and-web-workers-43he
     https://habr.com/en/post/446682/
     https://developer.mozilla.org/en-US/docs/Web/API/OffscreenCanvas

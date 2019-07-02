@@ -1,4 +1,6 @@
 2019
+Edureka - Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost
+    https://www.youtube.com/watch?v=kho6oANGu_A
 https://compscicenter.ru/courses/machine-learning-2/2018-spring/classes/3778/
     https://www.youtube.com/watch?v=UYDwhuyWYSo
 https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d

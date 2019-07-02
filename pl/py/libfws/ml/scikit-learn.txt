@@ -1,6 +1,8 @@
 2019
 https://www.infoq.com/presentations/scikit-tensorflow/
 2018
+https://blog.contactsunny.com/data-science/label-encoder-vs-one-hot-encoder-in-machine-learning
+    https://habr.com/ru/post/456294/
 https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 https://habr.com/post/430280/
 https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/

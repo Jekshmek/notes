@@ -1,8 +1,13 @@
+https://testing-library.com/docs/react-testing-library/intro
 https://www.npmjs.com/package/react-testing-library
+
+https://github.com/testing-library/react-testing-library
 https://github.com/kentcdodds/react-testing-library
 
 replacement of enzyme
 
+2019
+https://blog.kewah.com/2019/testing-react-using-testing-library/
 2018
 https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a
 LevelUpTuts - What Is React Testing Library?

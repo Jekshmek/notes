@@ -1,3 +1,6 @@
+2019
+https://habr.com/ru/post/452356/
+
 2018
 https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
 

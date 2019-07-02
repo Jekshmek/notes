@@ -6,3 +6,6 @@ https://github.com/microsoft/WSL
 https://aka.ms/learnwsl
 https://aka.ms/wsldocs
 https://aka.ms/winbashuv
+
+modified kernel
+https://github.com/microsoft/WSL2-Linux-Kernel
