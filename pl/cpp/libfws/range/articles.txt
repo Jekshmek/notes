@@ -1,4 +1,6 @@
 2019
+https://mariusbancila.ro/blog/2019/01/20/cpp-code-samples-before-and-after-ranges/
+    https://habr.com/ru/company/otus/blog/456452/
 https://ezoeryou.github.io/blog/article/2019-01-22-ranges-projection.html
     https://github.com/EzoeRyou/blog/blob/master/article/2019-01-22-ranges-projection.html
 2018

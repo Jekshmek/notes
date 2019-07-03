@@ -1,0 +1,3 @@
+2019
+Lobov - Why TS is so Complex
+    https://2017.holyjs-moscow.ru/talks/6jek48yvww8emsqamakmia/

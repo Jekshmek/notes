@@ -1,4 +1,6 @@
 2019
+https://geoffreymetais.github.io/code/coroutines/
+    https://habr.com/ru/company/piter/blog/457224/
 https://itnext.io/moving-from-rxjava-to-coroutines-4e1c34419111
 https://medium.com/@elizarov/kotlin-flows-and-coroutines-256260fb3bdb
 https://habr.com/ru/company/e-Legion/blog/442920/

@@ -34,6 +34,7 @@ BERT - Pre-training of Deep Bidirectional Transformers for Language Understandin
 What Does BERT Look At? An Analysis of BERT's Attention
     https://arxiv.org/abs/1906.04341
     https://github.com/clarkkev/attention-analysis
+https://blog.einstein.ai/leveraging-language-models-for-commonsense/
 
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
 

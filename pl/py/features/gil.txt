@@ -1,1 +1,5 @@
 https://realpython.com/python-gil/
+
+2019
+https://hackernoon.com/has-the-python-gil-been-slain-9440d28fa93d
+    https://habr.com/ru/company/otus/blog/458694/
