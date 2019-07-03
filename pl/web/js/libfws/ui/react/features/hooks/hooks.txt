@@ -84,23 +84,3 @@ https://daveceddia.com/intro-to-hooks
 https://dev.to/kayis/react-hooks-demystified-2af6
 
 https://www.npmjs.com/package/eslint-plugin-react-hooks
-
-samples
-useState
-useContext
-useReducer
-useCallback
-useMemo
-useRef
-useEffect
-useMutationEffect
-useLayoutEffect
-
-https://github.com/getify/TNG-Hooks
-2019
-https://www.infoq.com/news/2019/02/tng-hooks
-
-????
-https://github.com/kesne/with-react-hooks
-
-https://github.com/Swizec/useDimensions

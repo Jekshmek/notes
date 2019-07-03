@@ -1,2 +1,4 @@
+2019
+https://jlongster.com/secret-of-good-electron-apps
 2017
 https://hackernoon.com/electron-the-bad-parts-2b710c491547

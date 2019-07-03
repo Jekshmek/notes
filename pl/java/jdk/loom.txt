@@ -1,3 +1,10 @@
+https://openjdk.java.net/projects/loom/
+https://wiki.openjdk.java.net/display/loom/Main
+
+2019
+https://www.infoq.com/presentations/continuations-java/
+https://www.baeldung.com/openjdk-project-loom
 2018
+https://habr.com/ru/company/jugru/blog/422519/
 Bateman - Project Loom - Fibers and Continuations for Java
     https://www.youtube.com/watch?v=vbGbXUjlRyQ
