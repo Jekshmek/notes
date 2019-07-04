@@ -1,6 +1,7 @@
 https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 8x
+https://www.infoq.com/news/2019/07/angular-8-release/
 https://jaxenter.com/whats-new-angular-8-159020.html
     https://habr.com/ru/post/455493/
 https://medium.com/webbdev/angular-4c42d86eaa62

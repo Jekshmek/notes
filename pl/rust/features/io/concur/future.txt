@@ -1,3 +1,5 @@
+https://doc.rust-lang.org/std/future/trait.Future.html
+
 2019
 https://dev.to/gruberb/explained-rust-futures-for-web-development-a10
 https://www.viget.com/articles/understanding-futures-in-rust-part-1/

@@ -9,6 +9,8 @@ useMutationEffect
 useLayoutEffect
 
 2019
+React Hooks Tutorial (Custom Hooks) | Form Validation made easy
+    https://www.youtube.com/watch?v=SXIfnNvYrZE
 https://habr.com/ru/post/458614/
     https://github.com/trekhleb/use-position
     https://www.npmjs.com/package/use-position
