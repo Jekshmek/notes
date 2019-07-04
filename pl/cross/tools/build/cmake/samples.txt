@@ -5,6 +5,8 @@ https://github.com/pr0g/cmake-examples
 
 https://github.com/reyreaud-l/simple-cpp-setup
 
+2019
+http://dominikberner.ch/cmake-interface-lib/
 2018
 https://joshpeterson.github.io/a-cpp-template-project
 https://github.com/joshpeterson/cpp-template

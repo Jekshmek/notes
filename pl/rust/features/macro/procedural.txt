@@ -2,8 +2,10 @@ https://doc.rust-lang.org/stable/book/first-edition/procedural-macros.html
 
 https://github.com/rust-lang/rfcs/blob/master/text/1566-proc-macros.md
 
-articles
 2019
+Procedural Macros in Rust
+    https://github.com/dtolnay/proc-macro-workshop
+    https://www.youtube.com/watch?v=KVWHT1TAirU
 https://naftuli.wtf/2019/01/02/rust-derive-macros/
 2018
 https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html
