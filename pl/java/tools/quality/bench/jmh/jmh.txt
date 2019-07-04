@@ -11,10 +11,6 @@ presentations
 https://www.infoq.com/presentations/java-performance-testing
 https://www.youtube.com/watch?v=W-8ztoH7Ku4
 
-samples
-https://habr.com/ru/company/otus/blog/455122/
-http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-samples/src/main/java/org/openjdk/jmh/samples/
-
 plugins
 https://github.com/melix/jmh-gradle-plugin
 https://github.com/ktoso/sbt-jmh
