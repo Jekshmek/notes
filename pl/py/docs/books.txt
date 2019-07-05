@@ -8,6 +8,8 @@ https://habr.com/company/raiffeisenbank/blog/425843/
 2019
 Danjou - Serious Python
 Fedorov - Python Programming ru
+Kapil - Clean Python
+    B3FE71F8C3E248D927B19A6628E3BD62
 
 2018
 Ceder - The Quick Python Book 3rd ed

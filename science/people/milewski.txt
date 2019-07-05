@@ -1,4 +1,6 @@
 2019
+https://bartoszmilewski.com/2019/07/04/filtered-colimits/
+https://bartoszmilewski.com/2019/07/03/programming-with-universal-constructions/
 https://bartoszmilewski.com/2019/03/27/promonads-arrows-and-einstein-notation-for-profunctors/
 2018
 https://bartoszmilewski.com/2018/12/20/open-season-on-hylomorphisms/

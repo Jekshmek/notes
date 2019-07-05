@@ -1,5 +1,8 @@
 https://nodejs.org/api/debugger.html
 
+2019
+Watson - Post-Mortem NodeJS Debugging
+    https://www.youtube.com/watch?v=r1WsosD1ZsU
 2018
 Ohrimenko - NodeJS fatal drawback
-https://www.youtube.com/watch?v=Lrs6puJ4G2Q
+    https://www.youtube.com/watch?v=Lrs6puJ4G2Q

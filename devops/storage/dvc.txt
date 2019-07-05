@@ -10,3 +10,6 @@ pip install
 
 issues
 https://dvc.org/doc/user-guide/update-tracked-file
+
+2019
+https://blog.codecentric.de/en/2019/03/walkthrough-dvc/

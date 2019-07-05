@@ -1,4 +1,11 @@
 https://github.com/ajoberstar/semver-vcs
 https://github.com/ajoberstar/reckon
 
+https://github.com/ajoberstar/reckon/blob/master/docs/index.md
+
 https://github.com/ajoberstar/reckon/blob/master/reckon-core/src/main/groovy/org/ajoberstar/reckon/core/Reckoner.java
+
+reckonTagPush
+    -Preckon.stage=beta|rc|final
+    -Preckon.scope=minor|patch
+        minor is the default

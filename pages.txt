@@ -1,6 +1,5 @@
 URLs
-http://www.iarex.ru/articles/67266.html
-
+https://ru-bykov.livejournal.com/3928394.html
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3934892.html
@@ -8,10 +7,7 @@ https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3934538.html
 https://ru-bykov.livejournal.com/3932749.html
 https://ru-bykov.livejournal.com/3938381.html
-https://ru-bykov.livejournal.com/3936107.html
     2
-https://ru-bykov.livejournal.com/3937980.html
-    3
 https://trv-science.ru/category/edu/
 
 misc
@@ -159,7 +155,7 @@ https://vk.com/mccme
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    2019-07-02
+    2019-07-05
 iarex
     2019-06-10
 

@@ -1,4 +1,6 @@
 2019
+https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/
+    https://habr.com/ru/company/mailru/blog/458896/
 https://nuancesprog.ru/p/3601
 2018
 https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69

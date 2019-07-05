@@ -1,4 +1,6 @@
 2019
+https://habr.com/ru/company/microsoft/blog/458248/
+    https://habr.com/ru/company/microsoft/blog/458242/
 https://devblogs.microsoft.com/cppblog/simplify-your-code-with-rocket-science-c20s-spaceship-operator/
 2018
 https://brevzin.github.io/c++/2018/12/21/spaceship-for-vector/

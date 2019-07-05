@@ -5,6 +5,7 @@ https://github.com/frontarm/async-javascript-cheatsheet
 2019
 https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea
     https://proglib.io/p/js-async-await/
+    https://habr.com/ru/company/skillbox/blog/458950/
 https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
     https://nuancesprog.ru/p/2583/
     https://habr.com/ru/post/439620/
