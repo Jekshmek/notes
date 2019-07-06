@@ -1,2 +1,3 @@
 2019
+https://habr.com/ru/company/microsoft/blog/457978/
 https://sudolabs.io/blog/tips-to-use-VSCode-more-efficiently/

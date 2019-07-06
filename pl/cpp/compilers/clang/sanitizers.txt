@@ -28,3 +28,7 @@ https://genbattle.bitbucket.io/blog/2018/01/05/Dev-Santa-Claus-Part-1/
 issues
 https://github.com/google/sanitizers/issues/796
     so-link problems
+
+2019
+https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
+    https://github.com/trailofbits/llvm-sanitizer-tutorial

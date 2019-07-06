@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/458992/
 https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62
 Bogdanov - Attention ru
     https://dev.by/news/dmitry-bogdanov
