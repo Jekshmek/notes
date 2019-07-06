@@ -10,3 +10,6 @@ https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-
 https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
 https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/
     https://habr.com/company/ruvds/blog/414079/
+
+http://tsed.io/
+https://github.com/TypedProject/ts-express-decorators

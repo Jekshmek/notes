@@ -1,4 +1,6 @@
 2019
+Matelis - Debuggable Deep Learning
+    https://www.infoq.com/presentations/debug-dl/
 Yung - Understanding Deep Learning
     https://www.infoq.com/presentations/understanding-deep-learning
     ! 242 p

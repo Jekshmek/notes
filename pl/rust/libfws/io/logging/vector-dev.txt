@@ -1,0 +1,6 @@
+https://vector.dev/
+
+https://github.com/timberio/vector
+
+https://docs.vector.dev/
+https://docs.vector.dev/setup/getting-started
