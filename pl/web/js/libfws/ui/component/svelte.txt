@@ -5,8 +5,10 @@ https://github.com/sveltejs/svelte
 https://svelte.technology/guide
 
 https://svelte.technology/repl
+    https://svelte.dev/repl/hello-world?version=3.6.4
 
-https://ru.svelte.dev/tutorial/basics
+https://svelte.dev/tutorial/basics
+    https://ru.svelte.dev/tutorial/basics
 
 webpack-loader
 https://github.com/sveltejs/svelte-loader
@@ -14,6 +16,9 @@ rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2019
+First time using Svelte, let's play Tic Tac Toe!
+    https://www.youtube.com/watch?v=S_6ApOagzzM
+    https://github.com/jesseskinner/svelte-tic-tac-toe/
 https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969
     https://habr.com/ru/post/453458/
 https://www.infoq.com/news/2019/05/svelte-3-interview-rich-harris
