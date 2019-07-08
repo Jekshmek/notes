@@ -8,6 +8,9 @@ https://eriksvjansson.net/papers/cppcpdac.pdf
 https://eriksvjansson.net/papers/cppcpdacd.pdf
 
 2019
+Saar - Clang Concepts
+    https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf
+    https://www.youtube.com/watch?v=Nuiwb4Dbefw
 https://brevzin.github.io/c++/2019/01/09/concept-templates/
 2018
 https://blog.feabhas.com/2018/12/a-brief-introduction-to-concepts-part-2/

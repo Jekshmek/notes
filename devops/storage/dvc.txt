@@ -8,6 +8,9 @@ pip install
     dvcgs
     google.cloud.storage
 
+cache
+https://dvc.org/doc/commands-reference/cache
+
 issues
 https://dvc.org/doc/user-guide/update-tracked-file
 
