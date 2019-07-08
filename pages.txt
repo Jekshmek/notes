@@ -1,5 +1,5 @@
 URLs
-http://www.iarex.ru/news/page7.html
+http://www.iarex.ru/news/page11.html
 http://www.iarex.ru/articles/67544.html
 http://www.iarex.ru/articles/67533.html
 http://www.iarex.ru/articles/67422.html
@@ -280,7 +280,6 @@ ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
 Books
-NikolenkoKadurin - DeepLearning ru                  - 128..137..177..232..278..331..373..410..451
 Veller - Friends                                    - 54
 SVM                                                 - 13..15..21..29
 OpenSSL Cookbook                                    - 29 (of 58)
@@ -291,10 +290,8 @@ Zhitinsky                                           - 644.5 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  30    (of  338)
 Myshkis - Soviet Mathematicians ru                  -   9    (of  302)
-Shalyto - motivation                                - 262    (of  873)
-    http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
-        ! p213 - Zilber and Stalin
-The Little Typer - 3                                - 286..292 (of  375..418)
+Shalyto - motivation                                - 264    (of  873)
+The Little Typer - 3                                - 288..292 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -472,3 +469,6 @@ KonnovaDremov
     https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html
 
 tl - 1929
+
+Toffler - 3rd Wave
+    http://www.iarex.ru/articles/52773.html

@@ -1779,3 +1779,24 @@ is the same Nat as
     (\ (n)
         (SIG ((haf Nat))
             (= Nat n (add1 (double haf))))))
+
+(claim one-is-odd
+    (Odd 1))
+(define one-is-odd
+    (cons 0
+        (same 1)))
+because
+    (same 1)
+is an
+    (= Nat 1 (add1 (double 0)))
+
+(claim thirteen-is-odd
+    (Odd 13))
+(define thirteen-is-odd
+    (cons 6
+        (same 13)))
+
+(claim add1-even->odd
+    (PI ((n Nat))
+        (-> (Even n)
+            (Odd (add1 n)))))
