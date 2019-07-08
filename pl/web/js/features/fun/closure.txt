@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/459166/
 https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e
     https://habr.com/ru/company/plarium/blog/450988/
 2018
