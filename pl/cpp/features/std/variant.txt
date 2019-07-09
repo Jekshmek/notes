@@ -1,4 +1,6 @@
 2019
+https://speakerdeck.com/rollbear/stockholmcpp23-variant-visitation-variations
+    https://www.youtube.com/watch?v=ERHYJy5KxQo
 Nevin - The many variants of std::variant
     https://www.youtube.com/watch?v=JUxhwf7gYLg
 https://mpark.github.io/programming/2019/01/22/variant-visitation-v2/

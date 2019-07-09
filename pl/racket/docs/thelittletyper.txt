@@ -1800,3 +1800,16 @@ is an
     (PI ((n Nat))
         (-> (Even n)
             (Odd (add1 n)))))
+(define add1-even->odd
+    (\ (n e_n)
+        (cons (car e_n)
+            (cong (cdr e_n) (+1)))))
+
+(claim add1-odd->even
+    (PI ((n Nat))
+        (-> (Odd n)
+            (Even (add1 n)))))
+(define add1-odd->even
+    (\ (n o_n)
+        (cons (add1 (car o_n))
+

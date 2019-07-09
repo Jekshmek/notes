@@ -1,5 +1,7 @@
 https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f
 
+2019
+https://www.infoq.com/presentations/reinforcement-learning/
 2018
 https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
     https://proglib.io/p/reinforcement-learning/

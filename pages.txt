@@ -288,13 +288,13 @@ OpenSSL Cookbook                                    - 29 (of 58)
 Vertgeiter                                          - 30 (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
-Zhitinsky                                           - 644.5 (of 1150)
+Zhitinsky                                           - 648.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  30    (of  338)
-Myshkis - Soviet Mathematicians ru                  -  13    (of  302)
-Rybnikov - Math Education USSR and Bolonian Process - 114
-Shalyto - motivation                                - 264    (of  873)
-The Little Typer - 3                                - 288..292 (of  375..418)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  32    (of  338)
+Myshkis - Soviet Mathematicians ru                  -  16    (of  302)
+Rybnikov - Math Education USSR and Bolonian Process - 122
+Shalyto - motivation                                - 266    (of  873)
+The Little Typer - 3                                - 290..292 (of  375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

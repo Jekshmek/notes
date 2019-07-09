@@ -12,3 +12,7 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
 books
 2018
 Saleh - 2018 - Machine Learning Fundamentals
+
+features
+https://scikit-learn.org//stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+    https://habr.com/ru/post/456294/

@@ -1,0 +1,3 @@
+2019
+https://medium.com/@bretcameron/13-npm-tricks-for-faster-javascript-development-4fe2a83f87a2
+    https://habr.com/ru/company/ruvds/blog/458504/
