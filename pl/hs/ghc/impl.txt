@@ -1,4 +1,10 @@
-Implementation:
+https://gitlab.haskell.org/ghc/ghc/
+https://github.com/alpmestan/ghc.nix
+
+2019
+https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/index.html
+2018
+https://mgsloan.com/posts/ghcinception/
 
 https://github.com/takenobu-hs/haskell-ghc-illustrated
 
