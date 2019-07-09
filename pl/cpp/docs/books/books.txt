@@ -4,6 +4,7 @@ Cpp Notes for Professionals
 2019
 Cukic - Funcational Programming in Cpp
 OrlenkoEvdokimov - Cpp by Example
+Koltsov - C by Examples ru
 
 2018
 Stroustrup - A Tour of Cpp 2nd ed

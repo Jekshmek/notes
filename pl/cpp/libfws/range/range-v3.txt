@@ -1,6 +1,8 @@
 https://github.com/ericniebler/range-v3
 
 2019
+https://mariusbancila.ro/blog/2019/01/20/cpp-code-samples-before-and-after-ranges/
+    https://habr.com/ru/company/otus/blog/456452/
 Garland - The C++20 Standard Library: Beyond Ranges
     https://www.youtube.com/watch?v=NGWhjmfGyNw
     https://www.youtube.com/watch?v=hXCP8Qb-NNE

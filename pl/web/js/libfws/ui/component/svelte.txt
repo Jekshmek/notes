@@ -16,6 +16,7 @@ rollup-plugin
 https://github.com/rollup/rollup-plugin-svelte
 
 2019
+https://habr.com/ru/post/456474/
 First time using Svelte, let's play Tic Tac Toe!
     https://www.youtube.com/watch?v=S_6ApOagzzM
     https://github.com/jesseskinner/svelte-tic-tac-toe/

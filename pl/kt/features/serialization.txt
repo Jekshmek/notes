@@ -1,1 +1,4 @@
 https://github.com/Kotlin/kotlinx.serialization
+
+2019
+https://ahsensaeed.com/sealed-classes-kotlinx-serialization-deserialization/
