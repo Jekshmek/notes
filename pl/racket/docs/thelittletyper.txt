@@ -1812,4 +1812,6 @@ is an
 (define add1-odd->even
     (\ (n o_n)
         (cons (add1 (car o_n))
+            (cong (cdr o_n) (+1)))))
 
+### 13. Even Half a Baker's Dozen

@@ -1,0 +1,4 @@
+https://github.com/FreeYourSoul/FSeam
+
+2019
+http://freeyoursoul.online/fseam-a-mocking-framework-that-requires-no-change-in-code-part-1/
