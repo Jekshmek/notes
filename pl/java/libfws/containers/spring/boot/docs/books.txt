@@ -1,5 +1,7 @@
 2019
 Gutierrez - Pro Spring Boot 2 2nd ed 
+Christudas - Practical Microservices Architectural Patterns
+    21789BD994C002154C85362DB64CAA14
 
 2018
 Deinum - Spring Boot 2 Recipes
