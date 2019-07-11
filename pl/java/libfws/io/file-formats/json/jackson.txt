@@ -7,7 +7,8 @@ http://www.studytrails.com/java/json/java-jackson-introduction/
 http://www.studytrails.com/java/json/jackson-create-json/
 
 api
-http://www.javadoc.io/doc/com.fasterxml.jackson.core/jackson-core/2.9.8
+http://www.javadoc.io/doc/com.fasterxml.jackson.core/jackson-core/2.9.9
+https://www.javadoc.io/doc/com.fasterxml.jackson.core/jackson-databind/2.9.9.1
 
 parse
 http://www.studytrails.com/java/json/java-jackson-json-streaming/
@@ -21,6 +22,12 @@ http://tutorials.jenkov.com/java-json/jackson-jsongenerator.html
 
 thread safety
 https://stackoverflow.com/questions/3907929/should-i-declare-jacksons-objectmapper-as-a-static-field
+
+2019
+https://www.baeldung.com/jackson-object-mapper-tutorial
+2018
+https://www.baeldung.com/jackson-map
+https://www.baeldung.com/jackson-custom-serialization
 
 samples
 Map<String, Object> map = objectMapper.readValue(jsonString, new TypeReference<Map<String,Object>>(){});

@@ -1,0 +1,5 @@
+https://www.ember-cli-mirage.com/
+https://github.com/samselikoff/ember-cli-mirage
+
+2019
+https://emberigniter.com/mock-json-api-backend-with-mirage/

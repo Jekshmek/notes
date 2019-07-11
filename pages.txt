@@ -1,6 +1,5 @@
 URLs
 Ignatiev - In the Kingdom of Savvy
-http://www.iarex.ru/news/page11.html
 http://www.iarex.ru/articles/67544.html
 http://www.iarex.ru/articles/67533.html
 http://www.iarex.ru/articles/67422.html
@@ -276,6 +275,7 @@ Osipov - 2                                          -   00:00 (of)
 Tracking
 This week in rust                                   - 294
 Razbor Poletov                                      - 203 42:00 (of 1:05:13)
+    https://razborpoletov.com/2019/07/episode-206
     https://razborpoletov.com/2019/06/episode-205
     https://razborpoletov.com/2019/05/episode-204
     https://razborpoletov.com/2019/03/episode-203
@@ -292,10 +292,10 @@ Gnedenko                                            - 23..74
 Zhitinsky                                           - 648.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  33    (of  338)
-Myshkis - Soviet Mathematicians ru                  -  16    (of  302)
-Rybnikov - Math Education USSR and Bolonian Process - 134    (of  154
-Shalyto - motivation                                - 268    (of  873)
-The Little Typer - 3                                - 294..307 (of 375..418)
+Myshkis - Soviet Mathematicians ru                  -  18    (of  302)
+Rybnikov - Math Education USSR and Bolonian Process - 144    (of  154
+Shalyto - motivation                                - 270    (of  873)
+The Little Typer - 3                                - 296..307 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

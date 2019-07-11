@@ -1815,3 +1815,12 @@ is an
             (cong (cdr o_n) (+1)))))
 
 ### 13. Even Half a Baker's Dozen
+
+! The Law of Either
+(Either L R) is a type if L is a type and R is a type
+
+! The Law of left
+(left lt) is an (Either L R) if lt is an L
+
+! The Law of right
+(right lt) is an (Either L R) if lt is an R
