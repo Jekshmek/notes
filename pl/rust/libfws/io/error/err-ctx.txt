@@ -1,0 +1,3 @@
+https://crates.io/crates/err-ctx
+https://docs.rs/err-ctx
+https://github.com/Ralith/err-ctx

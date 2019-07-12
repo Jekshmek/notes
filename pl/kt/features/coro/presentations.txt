@@ -1,6 +1,7 @@
 2019
 Elizarov - Server-side Kotlin with Coroutines
     https://www.youtube.com/watch?v=hQrFfwT1IMo
+    https://www.youtube.com/watch?v=FBjMJmknQ2Q
 Kaminski - Asynchronous Programming with Kotlin Coroutines in Spring
     https://www.infoq.com/presentations/asynchronous-spring-kotlin-coroutines
 Marcin Moskała - Understanding Kotlin Coroutines
