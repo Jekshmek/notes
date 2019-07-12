@@ -16,6 +16,7 @@ https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
 misc
+https://zanauku.mipt.ru/2018/08/27/vremya-pervyh/
 https://trv-science.ru/2009/03/03/nuzhna-li-shkolnikam-vysshaya-matematika-2/
 https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
 https://trv-science.ru/2014/10/07/obrazovanie-eto-pro-interes/
@@ -291,10 +292,10 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 648.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  33    (of  338)
-Myshkis - Soviet Mathematicians ru                  -  18    (of  302)
-Rybnikov - Math Education USSR and Bolonian Process - 144    (of  154
-Shalyto - motivation                                - 270    (of  873)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  36    (of  338)
+Myshkis - Soviet Mathematicians ru                  -  20    (of  302)
+Rybnikov - Math Education USSR and Bolonian Process - 152    (of  154
+Shalyto - motivation                                - 272    (of  873)
 The Little Typer - 3                                - 296..307 (of 375..418)
 
 cpp - iterator category/tag-dispatching

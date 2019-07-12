@@ -25,6 +25,12 @@ Edush - Geometry Everyday Tips 7 class ru
 1996
 Gotman - Planimetry Problems and Solution Methods ru
     EC725F22B7CD6B6F6907EC573C3E299C
+1977
+Fetisov - Geometry in Problems ru
+    https://vk.com/doc550044983_508005856?hash=f0a7564ff331be7763
+    0DF8BB507EF9099825E84BAC08834F08
+    CD5863118A9602AB156AF001C6FB6A61
+    B6707509DFAA851D83408D7175ED9B8B
 1949
 DeloneZhitomirskiy - Geometry Problemsbook 4th ed ru
     982B0C9FD782FA5E693E542BE73CBEF1
