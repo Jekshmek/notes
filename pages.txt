@@ -1,8 +1,10 @@
 URLs
 Ignatiev - In the Kingdom of Savvy
+http://www.iarex.ru/articles/67687.html
 http://www.iarex.ru/articles/67544.html
 http://www.iarex.ru/articles/67533.html
 http://www.iarex.ru/articles/67422.html
+http://www.iarex.ru/articles/67661.html
 
 https://ru-bykov.livejournal.com/3928394.html
 https://ru-bykov.livejournal.com/3939500.html
@@ -10,8 +12,6 @@ https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3934892.html
 https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3934538.html
-https://ru-bykov.livejournal.com/3932749.html
-    5
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -275,11 +275,9 @@ Osipov - 2                                          -   00:00 (of)
 
 Tracking
 This week in rust                                   - 294
-Razbor Poletov                                      - 203 42:00 (of 1:05:13)
+Razbor Poletov                                      - 205 00:00 (of )
     https://razborpoletov.com/2019/07/episode-206
     https://razborpoletov.com/2019/06/episode-205
-    https://razborpoletov.com/2019/05/episode-204
-    https://razborpoletov.com/2019/03/episode-203
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
 
