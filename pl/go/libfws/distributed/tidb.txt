@@ -8,5 +8,6 @@ https://github.com/pingcap/tidb
 
 https://pingcap.github.io/blog/
 
-whats new:
+whats new
+http://www.opennet.ru/opennews/art.shtml?num=51060
 http://www.opennet.ru/opennews/art.shtml?num=47427
