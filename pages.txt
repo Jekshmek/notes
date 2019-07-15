@@ -213,8 +213,8 @@ Dubrovskiy                                          -   10:00 (of 1:33:19)
 Seminar 9
     https://www.youtube.com/playlist?list=PLVdkoATzj9WR-VAo4B-xBaXEY3bh10TN7
     Savvateev
-        https://www.youtube.com/watch?v=GfXJCKp26_s -   37:00 (of 1:32:51)
-    Shtern - Calculus or Math Analysis          -   25:00 (of 1:08:56)
+        https://www.youtube.com/watch?v=GfXJCKp26_s -   47:00 (of 1:32:51)
+    Shtern - Calculus or Math Analysis              -   25:00 (of 1:08:56)
         https://www.youtube.com/watch?v=i0sSMlvcCVA
         http://cmcagu.ru/docs/Seminar/Materials/Shtern.pdf
     Ryzhik - About Teaching Geometry by Alexandrov AD
@@ -259,7 +259,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - I 41                                      -   33:00 (of)
+Sorokin - I 43                                      -   02:20 (of   1:26:45)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
@@ -274,7 +274,7 @@ Osipov - 2                                          -   00:00 (of)
 
 Tracking
 This week in rust                                   - 294
-Razbor Poletov                                      - 205 00:00 (of )
+Razbor Poletov                                      - 205 55:00 (of 2:09:20)
     https://razborpoletov.com/2019/07/episode-206
     https://razborpoletov.com/2019/06/episode-205
 ACCU Overload                                       - 146
