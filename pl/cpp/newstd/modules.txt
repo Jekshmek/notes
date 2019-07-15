@@ -1,4 +1,6 @@
 2019
+Adelstein - Modules are Coming
+    https://www.youtube.com/watch?v=bDTm6y6fNSU
 http://eao197.blogspot.com/2019/03/progc-cmodules-there-is-no-place-for.html
 https://vector-of-bool.github.io/2019/03/10/modules-1.html
 https://vector-of-bool.github.io/2019/01/27/modules-doa.html

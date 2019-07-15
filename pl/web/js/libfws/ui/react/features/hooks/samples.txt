@@ -9,6 +9,8 @@ useMutationEffect
 useLayoutEffect
 
 2019
+https://dev.to/ramsay/build-a-redux-like-global-store-using-react-hooks-4a7n
+    https://habr.com/ru/post/460083/
 React Hooks Router
     https://habr.com/ru/post/459434/
 React Hooks Tutorial (Custom Hooks) | Form Validation made easy
