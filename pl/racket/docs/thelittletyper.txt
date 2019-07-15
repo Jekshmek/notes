@@ -1870,3 +1870,24 @@ Now we know how to write "Every natural number is even or odd"
 (claim even-or-odd
     (PI ((n Nat))
         (Either (Even n) (Odd n))))
+
+(claim mot-even-or-odd
+    (-> Nat
+        U))
+(define mot-even-or-odd
+    (\ (k)
+        (Either (Even k) (Odd k))))
+
+the base is (Either (Even zero) (Odd zero))
+the base is (left (zero-is-even)
+
+(claim step-even-or-odd
+    (PI ((n-1 Nat))
+        (-> (mot-even-or-odd n-1)
+            (mot-even-or-odd (add1 n-1)))))
+(define step-even-or-odd
+    (\ (n-1)
+        (\ (e-or-o_n-1)
+            (ind-Either e-or-o_n-1
+                (\ (e-or-o)
+                    (mot-even-or-odd (add1 n-1)))

@@ -50,6 +50,18 @@ Vilenkin - Behind the Pages of Math Teachbook ru
 Svechnikov - Math History Travel ru
 1989
 Vilenkin - Behind the Pages of Math Teachbook ru
+1983
+Froydental - Math as Pedagogical Problem part 2 ru
+    A12A89EC64CD78C658C5350A5CB1568F
+    DAD004F5EE27063890DD11DB498B325D
+    24416A579237C461A12297D7DEB3313D
+1982
+Froydental - Math as Pedagogical Problem part 1 ru
+    D7EF5393C8F91DEB90C4512F6E743B43
+    F825FD3BE7F324E6627747FD30DC8760
+    DC02B960895499A6513634B82430199C
+    EC9E0BDC2C60B3319B9457F4CA37D3D0
+    C2F5212EAF69D64210172229C0FA04D2
 1976
 Medvedev - French School of the Set and Functions Theory ru
 1974
