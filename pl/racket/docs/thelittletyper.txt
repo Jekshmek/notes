@@ -1889,5 +1889,22 @@ the base is (left (zero-is-even)
     (\ (n-1)
         (\ (e-or-o_n-1)
             (ind-Either e-or-o_n-1
-                (\ (e-or-o)
-                    (mot-even-or-odd (add1 n-1)))
+                (\ (e-or-o_n-1)
+                    (mot-even-or-odd
+                        (add1 n-1)))
+                (\ (e_n-1)
+                    (right
+                        (add1-even->odd
+                            n-1 e_n-1)))
+                (\ (o_n-1)
+                    (left
+                        (add1-odd->even
+                            n-1 o_n-1)))))))
+
+(define even-or-odd
+    (\ (n)
+        (ind-Nat n
+            mot-even-or-odd
+            (left zero-is-even)
+            step-even-or-odd)))
+

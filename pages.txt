@@ -289,11 +289,11 @@ Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Zhitinsky                                           - 648.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1166.0 (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  38    (of  338)
-Myshkis - Soviet Mathematicians ru                  -  24    (of  302)
-Froydental - Math as Pedagogical Problem part 1 ru  -
-Shalyto - motivation                                - 274    (of  873)
-The Little Typer - 3                                - 300..307 (of 375..418)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  40    (of  338)
+Myshkis - Soviet Mathematicians ru                  -  26    (of  302)
+Froydental - Math as Pedagogical Problem part 1 ru  -  09    (of  208)
+Shalyto - motivation                                - 276    (of  873)
+The Little Typer - 3                                - 302..307 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

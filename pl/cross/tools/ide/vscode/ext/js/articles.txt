@@ -1,4 +1,5 @@
 2019
+https://proglib.io/p/vscode-javascript-plugins/
 https://scotch.io/tutorials/the-best-react-extension-for-vs-code
     https://www.youtube.com/watch?v=OGOa414ePFE
 http://tilomitra.com/vs-code-settings-and-extensions-for-faster-javascript-development/
