@@ -57,6 +57,7 @@ data = {'apples': 10, 'lemons': 5, 'limes': 20, 'oranges': 15}
 names = list(data.keys())
 values = list(data.values())
 
+%mathplotlib inline
 plt.plot(names, values)
 
 subplots
