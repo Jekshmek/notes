@@ -2,5 +2,18 @@ https://www.sympy.org
 https://github.com/sympy
 https://github.com/sympy/sympy
 
+https://ipython-books.github.io/151-diving-into-symbolic-computing-with-sympy/
+https://ipython-books.github.io/152-solving-equations-and-inequalities/
+https://ipython-books.github.io/153-analyzing-real-valued-functions/
+https://ipython-books.github.io/154-computing-exact-probabilities-and-manipulating-random-variables/
+https://ipython-books.github.io/155-a-bit-of-number-theory-with-sympy/
+https://ipython-books.github.io/156-finding-a-boolean-propositional-formula-from-a-truth-table/
+https://ipython-books.github.io/157-analyzing-a-nonlinear-differential-system-lotka-volterra-predator-prey-equations/
+
+https://docs.sympy.org/latest/modules/index.html
+https://docs.sympy.org/latest/modules/matrices/matrices.html
+https://docs.sympy.org/latest/modules/ntheory.html
+https://docs.sympy.org/latest/modules/stats.html
+
 2018
 https://habr.com/post/423731/
