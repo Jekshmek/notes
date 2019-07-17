@@ -3,6 +3,8 @@ https://en.cppreference.com/w/
 http://www.cplusplus.com/
 http://www.cplusplus.com/reference/
 
+http://eel.is/c++draft/
+
 http://www.icce.rug.nl/documents/cplusplus/
 
 https://msdn.microsoft.com/en-us/library/3bstk3k5(v=vs.140).aspx

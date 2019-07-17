@@ -7,6 +7,8 @@ articles
 https://www.nsa.gov/What-We-Do/Research/SELinux/FAQs/
     https://habr.com/ru/company/otus/blog/459598/
 2018
+https://linuxtechlab.com/beginners-guide-to-selinux/
+    https://habr.com/ru/company/otus/blog/460387/
 https://habr.com/company/wargaming/blog/354598/
 2017
 https://habrahabr.ru/post/332886/

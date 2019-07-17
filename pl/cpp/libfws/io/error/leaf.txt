@@ -1,2 +1,8 @@
 https://zajo.github.io/leaf/
 https://github.com/zajo/leaf
+
+https://travis-ci.org/zajo/leaf
+https://ci.appveyor.com/project/zajo/leaf
+
+2019
+https://www.reddit.com/r/cpp/comments/cdzy8w/leaf_a_lightweight_errorhandling_library_seeking/

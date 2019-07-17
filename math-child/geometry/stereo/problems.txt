@@ -7,4 +7,6 @@ SmirnovaSmirnov - EGE Geometry Sections of Polygons ru
 SmirnovaSmirnov - EGE Geometry Turns ru
 1996
 Litvinenko - Stereometry Problemsbook
-
+1950
+Lopovok - Stereometry Construction Problemsbook ru
+    AFA1728936A11EC6BE6685D750C14267
