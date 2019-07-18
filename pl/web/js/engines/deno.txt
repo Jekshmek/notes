@@ -6,6 +6,8 @@ https://deno.land/typedoc/index.html
 https://github.com/denoland/deno_std
 
 2019
+https://blog.logrocket.com/what-is-deno/
+    https://habr.com/ru/company/ruvds/blog/460020/
 Dahl - Deno, a new way to JavaScript. JS Fest 2019 Spring
     https://www.youtube.com/watch?v=z6JRlx5NC9E
 2018

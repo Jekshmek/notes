@@ -1,3 +1,8 @@
-http://habrahabr.ru/company/yandex/blog/250753/
-http://www.slideshare.net/yandex/linux-44775898
+2019
+https://techoverflow.net/2017/02/18/advantages-and-disadvantages-of-hugepages/
+    https://habr.com/ru/company/otus/blog/460403/
+2017
 https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/
+2015
+https://habr.com/en/company/yandex/blog/250753/
+https://www.slideshare.net/yandex/linux-44775898
