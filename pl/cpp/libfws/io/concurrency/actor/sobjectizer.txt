@@ -16,6 +16,7 @@ https://www.slideshare.net/YauheniAkhotnikau/c-st-petersburg-c-user-group-meetup
 
 articles
 2019
+https://habr.com/en/post/460123/
 https://habr.com/en/post/458202/
 2018
 https://habr.com/post/429046/
