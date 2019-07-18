@@ -291,8 +291,8 @@ Zhitinskiy - Lost House ru                          -  670.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1185.4 (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  42    (of  338)
 Myshkis - Soviet Mathematicians ru                  -  28    (of  302)
-Shalyto - motivation                                - 278    (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  12..23  (of 208)
+Shalyto - motivation                                - 280    (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  15..23  (of 208)
 The Little Typer - 3                                - 306..307 (of 375..418)
 
 cpp - iterator category/tag-dispatching
@@ -474,3 +474,8 @@ tl - 1929
 
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
+
+The DefaultSourceDirectorySet constructor has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the ObjectFactory service to create instances of SourceDirectorySet instead.
+The IvyArtifactRepository.layout(String, Closure) method has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the IvyArtifactRepository.patternLayout(Action) method instead.
+        at repositories_7bfwrws3snk0tuv4lu6b2aoa4$_run_closure1$_closure2.doCall(/data/wrk/clb/fx/gradle/repositories.gradle:5)
+        (Run with --stacktrace to get the full stack trace of this deprecation warning.)

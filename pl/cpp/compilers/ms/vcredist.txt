@@ -32,5 +32,8 @@ all-in-one
 https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
 https://chocolatey.org/packages/vcredist-all
 
+chef cookbooks
+https://supermarket.chef.io/cookbooks/vcruntime/
+
 issues
 https://www.khronos.org/bugzilla/show_bug.cgi?id=1216
