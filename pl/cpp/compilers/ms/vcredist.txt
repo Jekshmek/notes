@@ -28,5 +28,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 2017
 https://aka.ms/vs/15/release/vc_redist.x64.exe
 
+all-in-one
+https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+https://chocolatey.org/packages/vcredist-all
+
 issues
 https://www.khronos.org/bugzilla/show_bug.cgi?id=1216
