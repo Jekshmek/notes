@@ -289,11 +289,11 @@ Gnedenko                                            - 23..74
 Platov - Secret Farvater ru                         -   47.6 (of  888)
 Zhitinskiy - Lost House ru                          -  670.0 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1185.4 (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  42    (of  338)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  45    (of  338)
 Myshkis - Soviet Mathematicians ru                  -  28    (of  302)
-Shalyto - motivation                                - 280    (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  15..23  (of 208)
-The Little Typer - 3                                - 306..307 (of 375..418)
+Shalyto - motivation                                - 282    (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  18..23  (of 208)
+The Little Typer - 3                                - 310..330 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

@@ -1,3 +1,4 @@
+https://github.com/gradle/gradle/tree/master/subprojects/platform-native/src/main/java/org/gradle/nativeplatform/toolchain/internal/msvcpp
 https://github.com/gradle/native-samples/blob/master/cpp/operating-system-specific-dependencies/
 library {
     targetMachines = [
