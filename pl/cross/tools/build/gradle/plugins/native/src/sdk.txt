@@ -1,3 +1,11 @@
+https://discuss.gradle.org/t/how-do-i-override-the-toolchain-for-32bit-vs-64bit-cpp-builds/
+https://discuss.gradle.org/t/how-can-i-configure-the-default-search-path-for-the-visualcpp-tool-chain/
+http://qaru.site/questions/13142136/buld-dll-with-gradle-cpp-plugin
+2013
+https://discuss.gradle.org/t/multi-version-multi-platform-building-for-visual-studio-c-native-chains/
+2018
+https://github.com/gradle/gradle-native/issues/832
+
 // windows.h problem
 // https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/bc189417-2dc3-4da4-ac65-a43fe547e4a1/driverspecsh-error?forum=windowssdk
 // SDK ... specstrings.h
@@ -345,6 +353,8 @@ public class DefaultWindowsSdkLocator implements WindowsSdkLocator {
         this.windowsRegistry = windowsRegistry;
     }
 
+    /* ??? usages ???
+    */
     @Override
     public SearchResult locateWindowsSdks(File candidate) {
         if (!initialised) {

@@ -1,6 +1,12 @@
+https://github.com/gradle/gradle/tree/master/subprojects/platform-native/src/main/java/org/gradle/nativeplatform/toolchain
+    https://docs.gradle.org/current/dsl/org.gradle.nativeplatform.toolchain.VisualCpp.html
+    windowsSdkDir
+
+
 language-native
 native-platform
 
+https://github.com/gradle/gradle/blob/master/subprojects/platform-native/src/main/java/org/gradle/nativeplatform/toolchain/VisualCpp.java
 @Incubating
 public interface VisualCpp extends NativeToolChain {
     /**
@@ -22,6 +28,7 @@ public interface VisualCpp extends NativeToolChain {
      * The directory where Windows SDK is installed.
      */
     void setWindowsSdkDir(Object installDir);
+        // ??? usages
 
     /**
      * Adds an action that can fine-tune the tool configuration for each platform supported by this tool chain.
