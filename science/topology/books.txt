@@ -49,6 +49,11 @@ Edelsbrunner - Computational Topology an Introduction
 2005
 Vick - Homology Theory 2nd ed ru
 1997
+Vasiliev - Intro to Topology ru
+    https://math.hse.ru/courses/91962254.html
+    6EA9E6EC9FA468FC5A25F91223834E56
+    4FADBA1FEFAA6DD19762F6D56D65E2F5
+    D7D0E769CA11C1CFBAD621047CBBE638
 RohlinFux - Beginning Topology Course ru
 1972
 MilnorWallace - Differential Topology ru

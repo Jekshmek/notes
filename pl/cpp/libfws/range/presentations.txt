@@ -1,0 +1,3 @@
+2019
+Cukic - Ranges for distributed and asynchronous systems
+    https://www.youtube.com/watch?v=eelpmWo2fuU
