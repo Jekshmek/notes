@@ -30,6 +30,13 @@ Kolosov - Introduction to Algebra Number Theory and Combinatorics ru
     E775B8BF6214A30DE5BE4BCE52C9FCAE
     CA690CACE05250F74291BCE75A0BEC78
 
+1990
+Pichurin - Behind the Pages of Algebra Teachbook ru
+    19E489C87E0F06137A10FAB1672CD623
+    230446A0317C2BA62B26527C808B04C5
+    1221E5F3EFF8CE25003A504D14DFDFCF
+    ! recommended by Nikolskiy
+
 1973
 Kaluzhin - Common Algebra Introduction ru
     E829D43EC1D22D06B5B67F0FD24DA81A

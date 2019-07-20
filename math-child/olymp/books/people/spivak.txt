@@ -1,6 +1,7 @@
 2016
 Spivak - 1001 Math Problems 5-7 class 6th ed ru
     1A35ABDDC451302009FEC1C40B934ECA
+    !!! recommended by Nikolskiy
     old
     F235EF55E146C8C8E3F97E875EA5C281
     D5CF9BA5AC5ADBAD5DE8331F3586F517
@@ -9,6 +10,7 @@ Spivak - 1001 Math Problems 5-7 class 6th ed ru
 Spivak - Math Holiday ru
 2011
 Spivak - Math Circles 6-7 class ru
+    https://uchitel.by/catalog/book/303277
     F1333B6CDC82F5ABE59E39F8C2868DEB
     old
     0951F8CDBDFE5D0568DA229CB80E909A

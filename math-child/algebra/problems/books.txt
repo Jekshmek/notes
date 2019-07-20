@@ -16,3 +16,4 @@ Kolosov - Theorems and Problems of Algebra Nuber Theory and Combinatorics
 1991
 Kostrikina - High Complexity Algebra Problems 7-9 class ru
     63A78BB5DCBB27A8DF13ECA70048B375
+    !!! super, good expl
