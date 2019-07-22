@@ -287,7 +287,7 @@ Vertgeiter                                          - 30 (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               - 0 (of first 50)
 Gnedenko                                            - 23..74
 Platov - Secret Farvater ru                         -   47.6 (of  888)
-Zhitinskiy - Lost House ru                          -  670.0 (of 1150)
+Zhitinskiy - Lost House ru                          -  677.2 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1196.0 (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  47    (of  338)
 Myshkis - Soviet Mathematicians ru                  -  30    (of  302)
