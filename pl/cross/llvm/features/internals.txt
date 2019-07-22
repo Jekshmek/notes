@@ -5,6 +5,9 @@ https://habrahabr.ru/post/343344/
 https://github.com/llvm-mirror/llvm/blob/release_39/docs/LangRef.rst
 https://raw.githubusercontent.com/llvm-mirror/llvm/release_39/docs/LangRef.rst
 
-articles:
+2018
+https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/
+    https://habr.com/ru/post/459704/
+????
 https://habrahabr.ru/post/277717/
 https://habrahabr.ru/post/267239/

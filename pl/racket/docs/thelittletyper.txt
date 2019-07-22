@@ -1909,3 +1909,46 @@ the base is (left (zero-is-even)
             step-even-or-odd)))
 
 ### 14. There's Safety in Numbers
+
+! The Law of Trivial
+Trivial is a type
+
+! The Law of sole
+sole is a Trivial
+
+! The Commandment of sole
+If e is a
+    Trivial
+, then e is the same as
+    sole
+
+(claim Maybe
+    (-> U
+        U))
+(define Maybe
+    (\ (X)
+        (Either X Trivial)))
+
+(claim nothing
+    (PI ((E U))
+        (Maybe E)))
+(define nothing
+    (\ (E)
+        (right sole)))
+
+(claim just
+    (PI ((E U))
+        (-> E
+            (Maybe E))))
+(define just
+    (\ (E e)
+        (left e)))
+
+(claim maybe-head
+    (PI ((E U))
+        (-> (List E)
+            (Maybe E))))
+(define maybe-head
+    (\ (E es)
+        ...))
+

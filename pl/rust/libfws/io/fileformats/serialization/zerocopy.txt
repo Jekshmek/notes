@@ -1,0 +1,10 @@
+https://crates.io/crates/zerocopy
+https://docs.rs/zerocopy/
+https://fuchsia.googlesource.com/fuchsia/+/master/garnet/public/rust/zerocopy
+
+https://crates.io/crates/zerocopy-derive
+https://docs.rs/zerocopy-derive
+https://fuchsia.googlesource.com/fuchsia/+/master/garnet/public/rust/zerocopy/zerocopy-derive
+
+2019
+https://www.reddit.com/r/rust/comments/cfh8la/thinking_of_using_unsafe_try_this_instead/

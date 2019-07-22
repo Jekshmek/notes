@@ -33,7 +33,7 @@ VavilovBahtina - Math Special Courses ru
     EBB39E952B2F046CE0A88CCF50D411A5
 
 1995
-LitvinenkoMordkovich - Elementary Math Prakticum - Algebra and Trigonometry ru
+LitvinenkoMordkovich - Elementary Math Prakticum - Algebra and Trigonometry 3rd ed ru
     1E7C43A20D1C12077330599455BB9051
 Proizvolov - Problems for Growth ru
     CBA3459C4146C2452F0C6D1F4689CEB8
