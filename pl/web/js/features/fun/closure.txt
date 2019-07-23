@@ -1,4 +1,6 @@
 2019
+https://medium.com/@jakepintu/javascript-environment-lexical-scope-and-closures-9c8dfaeff73d
+    https://habr.com/ru/company/nix/blog/460861/
 https://habr.com/ru/post/459166/
 https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e
     https://habr.com/ru/company/plarium/blog/450988/

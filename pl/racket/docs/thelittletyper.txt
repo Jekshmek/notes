@@ -1950,5 +1950,23 @@ If e is a
             (Maybe E))))
 (define maybe-head
     (\ (E es)
-        ...))
+        (rec-List es
+            (nothing E)
+            (\ (hd tl head_tl)
+                (just E hd)))))
 
+(claim maybe-tail
+    (PI ((E U))
+        (-> (List E)
+            (Maybe E))))
+(define maybe-tail
+    (\ (E es)
+        (rec-List es
+            (nothing E)
+            (\ (hd tl head_tl)
+                (just (List E) tl)))))
+
+(claim list-ref
+    (PI ((E U))
+        (-> Nat (List E)
+            (Maybe E))))

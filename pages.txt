@@ -2,7 +2,6 @@ URLs
 Ignatiev - In the Kingdom of Savvy
 http://www.iarex.ru/articles/67544.html
 http://www.iarex.ru/articles/67533.html
-http://www.iarex.ru/articles/67422.html
 
 https://ru-bykov.livejournal.com/3928394.html
 https://ru-bykov.livejournal.com/3939500.html
@@ -289,11 +288,11 @@ Gnedenko                                            - 23..74
 Platov - Secret Farvater ru                         -   47.6 (of  888)
 Zhitinskiy - Lost House ru                          -  677.2 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1196.0 (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  47    (of  338)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  48    (of  338)
 Myshkis - Soviet Mathematicians ru                  -  30    (of  302)
-Shalyto - motivation                                - 284    (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  20..23  (of 208)
-The Little Typer - 3                                - 312..330 (of 375..418)
+Shalyto - motivation                                - 286    (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  22..23  (of 208)
+The Little Typer - 3                                - 314..330 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
