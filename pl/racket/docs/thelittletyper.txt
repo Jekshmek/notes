@@ -1970,3 +1970,29 @@ If e is a
     (PI ((E U))
         (-> Nat (List E)
             (Maybe E))))
+
+(claim step-list-ref
+    (PI ((E U))
+        (-> Nat
+            (-> (List E)
+                (Maybe E))
+            (-> (List E)
+                (Maybe E)))))
+(define step-list-ref
+    (\ (E)
+        (\ (n-1 list-ref_n-1)
+            (\ (es)
+                (ind-Either (maybe-tail E es)
+                    (\ (maybe_tl)
+                        (Maybe E))
+                    (\ (tl)
+                        (list-ref_n-1 tl))
+                    (\ (empty)
+                        (nothing E)))))))
+
+(define list-ref
+    (\ (E n)
+        (rec-Nat n
+            (maybe-Head E)
+            (step-list-ref E))))
+

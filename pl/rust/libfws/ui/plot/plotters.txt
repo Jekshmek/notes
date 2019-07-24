@@ -1,0 +1,3 @@
+https://crates.io/crates/plotters
+https://docs.rs/plotters
+https://github.com/38/plotters

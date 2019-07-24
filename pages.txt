@@ -9,7 +9,7 @@ https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3934892.html
 https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3934538.html
-    great friendship
+    Cultural revoolution
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -290,9 +290,9 @@ Zhitinskiy - Lost House ru                          -  677.2 (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1196.0 (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  48    (of  338)
 Myshkis - Soviet Mathematicians ru                  -  30    (of  302)
-Shalyto - motivation                                - 286    (of  873)
+Shalyto - motivation                                - 288    (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  22..23  (of 208)
-The Little Typer - 3                                - 314..330 (of 375..418)
+The Little Typer - 3                                - 316..330 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
@@ -478,3 +478,5 @@ The DefaultSourceDirectorySet constructor has been deprecated. This is scheduled
 The IvyArtifactRepository.layout(String, Closure) method has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the IvyArtifactRepository.patternLayout(Action) method instead.
         at repositories_7bfwrws3snk0tuv4lu6b2aoa4$_run_closure1$_closure2.doCall(/data/wrk/clb/fx/gradle/repositories.gradle:5)
         (Run with --stacktrace to get the full stack trace of this deprecation warning.)
+
+chuchela plushmassa medved
