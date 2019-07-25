@@ -24,4 +24,4 @@ Raihmist - Zadachnik po Matematike
         ...
         181,82
 
-2       001
+2       001,02

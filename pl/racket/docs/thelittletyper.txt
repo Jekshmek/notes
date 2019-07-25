@@ -1996,3 +1996,16 @@ If e is a
             (maybe-Head E)
             (step-list-ref E))))
 
+To define a vec-ref, a new type is needed:
+    one, that represents only numbers, smaller than the lenght of the Vec
+    (Fin l)
+
+! The Law of Absurd (sometimes called an empty type)
+Absurd is a type
+
+(claim similarly-absurd
+    (-> Absurd
+        Absurd))
+(define similarly-absurd
+    (\ (x)
+        x))

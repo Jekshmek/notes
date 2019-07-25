@@ -1,0 +1,6 @@
+http://jdk.java.net/valhalla/
+
+2019
+https://www.infoq.com/news/2019/07/valhalla-openjdk-lw2-released/
+2018
+http://marxsoftware.blogspot.com/2018/08/valhalla-lworld-valuetypes-ea-build-0.html
