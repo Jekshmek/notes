@@ -1,0 +1,4 @@
+https://www.framer.com/motion/
+
+2019
+https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22
