@@ -1,4 +1,5 @@
 2019
+https://dzone.com/articles/5-spring-annotations-every-java-developer-should-k
 https://habr.com/ru/post/439594/
 https://dzone.com/refcardz/spring-annotations
 

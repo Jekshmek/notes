@@ -25,6 +25,7 @@ management:
         include: info,health,prometheus
 
 2019
+https://dzone.com/articles/spring-boot-where-do-the-default-metrics-come-from
 https://www.infoq.com/presentations/metrics-apache-geode-micrometer
 https://www.baeldung.com/micrometer
 2018
