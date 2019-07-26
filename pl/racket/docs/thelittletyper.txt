@@ -2009,3 +2009,34 @@ Absurd is a type
 (define similarly-absurd
     (\ (x)
         x))
+
+! The Commandment of Absurdities
+Every expression of type Absurd is neutral, and all of them are the same
+
+Even though there are no c-tors for Absurd, there is an eliminator
+ind-Absurd has neigher base, nor step, because there are no Absurd values
+
+! The Law of ind-Absurd
+The expression
+    (ind-Absurd target
+        mot)
+is a mot if target is an Absurd and mot is a U.
+
+Note: it is used to express that some expressions can never be evaluated,
+or in other words, that the expression is permanently neutral
+
+Any neutral expressions cannot yet be evaluated because the values
+of their variables are not yet known.
+
+For each Nat n, (Fin n) should be a type with n values
+
+(claim Fin
+    (-> Nat
+        U))
+
+(Fin zero) should have zero values, so Absurd is appropriate
+
+(define Fin
+    (\ (n)
+        (iter-Nat n
+            Absurd

@@ -9,14 +9,20 @@ http://ashap.info/Nauka/index.html
     http://ashap.info/Nauka/pedagog.html
         http://ashap.info/Nauka/Induk.doc
         http://ashap.info/Nauka/Posled.pdf
+            ! good samples
         http://ashap.info/Nauka/Geoperebor.pdf
         http://ashap.info/Nauka/Urkadr.pdf
+            ! need to read
         http://ashap.info/Nauka/Dostover.pdf
+            ! need to read
     http://ashap.info/Nauka/popular.html
         http://ashap.info/Nauka/svgraf.pdf
         http://ashap.info/Nauka/splet.pdf
         http://ashap.info/Nauka/Nedodan.pdf
 http://ashap.info/Turniry/index.html
+http://sasja.shap.homedns.org/indexrus.htm
+
+!!! Kpz.doc - kak pridumyvat i reshat zadachi
 
 2017
 MednikowShapovalov - Tows Turnir - Math World in Problems 2nd ed ru
@@ -27,14 +33,18 @@ ZaslavskiyShapovalov - Problems about Tournaments 2nd ed ru
 2016
 Shapovalov - Math Constructions ru
     1B2619D56438E558AD20B38888BEFB65
+    !!! need to review - 177p
 Shapovalov - How to Build a Sample ru
     https://www.labirint.ru/books/623103/
     A3B4BDAF64F391895BF5EC560A51087C
     55432FEE17F2CED775BC48DBC0782665
+    ! need to read (at least - beginning) total - 81p
 2014
 ShapovalovYaschenko - Vertical Math ru
     C4B9FBB64C39CA62F0CBFE976E740ECE
+    ! just samples
 
 2008
 Shapovalov - Bottleneck Principle 2nd ed ru
     https://www.mccme.ru/free-books/shapovalov/shapovalov-uzkoe.pdf
+    ! need to read - 17 pages only

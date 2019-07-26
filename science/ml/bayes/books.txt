@@ -3,6 +3,10 @@ http://greenteapress.com/wp/think-bayes/
 http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 
 
+2019
+Davidson-Pylon - Python Probabilistics Programming ru
+    27CFB3870C73C44D951250E924C19743
+    ! bad big scan
 2012
 Barber - Bayesian Reasoning and Machine Learning
     math and big
