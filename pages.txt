@@ -1,17 +1,15 @@
 URLs
 Ignatiev - In the Kingdom of Savvy
-http://www.iarex.ru/articles/67533.html
+Dvorkin
+    https://videoportal.epam.com/video/9o3wGAol
 
 https://ru-bykov.livejournal.com/3966102.html
 https://ru-bykov.livejournal.com/3928394.html
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
-https://ru-bykov.livejournal.com/3934892.html
 https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3965619.html
-    tormozhenie
-https://ru-bykov.livejournal.com/3934538.html
-    Cultural revoolution
+    apogey
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -290,12 +288,12 @@ Gnedenko                                            -  25..28  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
 Zhitinskiy - Lost House ru                          -  707.0   (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1230.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  54..80  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  40..47  (of  302)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  56..80  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  42..47  (of  302)
 Solynin - Exodus ru                                 -  28..31  (of  223)
-Shalyto - motivation                                - 292      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  32..50  (of 208)
-The Little Typer - 3                                - 320..330 (of 375..418)
+Shalyto - motivation                                - 295      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  34..50  (of 208)
+The Little Typer - 3                                - 322..330 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

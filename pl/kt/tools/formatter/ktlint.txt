@@ -1,0 +1,7 @@
+https://ktlint.github.io/
+https://github.com/pinterest/ktlint
+
+https://github.com/JLLeitschuh/ktlint-gradle
+
+2019
+https://goobar.io/2019/07/25/adding-ktlint-to-your-kotlin-project/

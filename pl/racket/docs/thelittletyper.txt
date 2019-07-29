@@ -2040,3 +2040,15 @@ For each Nat n, (Fin n) should be a type with n values
     (\ (n)
         (iter-Nat n
             Absurd
+            Maybe)))
+
+Note: if a type X has n values, then (Maybe X) has (add1 n) values
+
+(claim fzero
+    (PI ((n Nat))
+        (Fin (add1 n))))
+
+Note: it is the same as
+(claim fzero
+    (PI ((n Nat))
+        (Maybe (Fin n))))
