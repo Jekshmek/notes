@@ -2052,3 +2052,35 @@ Note: it is the same as
 (claim fzero
     (PI ((n Nat))
         (Maybe (Fin n))))
+
+(define fzero
+    (\ (n)
+        (nothing (Fin n))))
+
+(claim fadd1
+    (PI ((n Nat))
+        (-> (Fin n)
+            (Fin (add1 n)))))
+(define fadd1
+    (\ (n)
+        (\ (i-1)
+            (just (Fin n) i-1))))
+
+(claim vec-ref
+    (PI ((E U)
+         (l Nat))
+        (-> (Fin l) (Vec E l)
+            E)))
+
+(claim base-vec-rev
+    (PI ((E U))
+        (-> (Fin zero) (Vec E zero)
+            E)))
+
+(define vec-ref
+    (\ (E l)
+        (ind-Nat l
+            (\ (k)
+                (-> (Fin k) (Vec E k)
+                    E))
+)))
