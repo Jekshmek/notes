@@ -8,6 +8,12 @@ pip install
     dvcgs
     google.cloud.storage
 
+some-file.dvc:
+deps:
+    ...
+outs:
+    ...
+
 cache
 https://dvc.org/doc/commands-reference/cache
 
@@ -15,4 +21,5 @@ issues
 https://dvc.org/doc/user-guide/update-tracked-file
 
 2019
+https://habr.com/ru/company/raiffeisenbank/blog/461803/
 https://blog.codecentric.de/en/2019/03/walkthrough-dvc/
