@@ -1,4 +1,6 @@
 2019
+Saund - Concurrency doesn't have to be hard
+    https://www.youtube.com/watch?v=3WGM-_MnPQA
 Elizarov - Server-side Kotlin with Coroutines
     https://www.youtube.com/watch?v=hQrFfwT1IMo
     https://www.youtube.com/watch?v=FBjMJmknQ2Q
