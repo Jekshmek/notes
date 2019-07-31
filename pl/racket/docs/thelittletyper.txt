@@ -2077,10 +2077,44 @@ Note: it is the same as
         (-> (Fin zero) (Vec E zero)
             E)))
 
+Note: The value of (Fin zero) is Absurd
+Because there are no Absurd values, the base can never be applied to
+it's second argument's value
+
+(define base-vec-rev
+    (\ (E)
+        (\ (no-value-ever es)
+            (ind-Absurd no-value-ever
+                E))))
+
+(claim step-vec-rev
+    (PI ((E U)
+         (l-1 Nat))
+        (-> (-> (Fin l-1) 
+                (Vec E l-1)
+                E)
+            (-> (Fin (add1 l-1))
+                (Vec E (add1 l-1))
+                E))))
+(define step-vec-rev
+    (\ (E l-1)
+        (\ (vec-ref_l-1)
+            (\ i es)
+                (ind-Either i
+                    (\ (i)
+                        E)
+                    (\ (i-1)
+                        (vec-ref_l-1
+                            i-1 (tail es)))
+                    (\ (triv)
+                        (head es))))))
+
 (define vec-ref
     (\ (E l)
         (ind-Nat l
             (\ (k)
                 (-> (Fin k) (Vec E k)
                     E))
-)))
+            (base-vec-ref E)
+            (step-vec-ref E))))
+
