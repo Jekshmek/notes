@@ -1,7 +1,11 @@
 https://crates.io/crates/quick-error
 https://crates.rs/crates/quick-error
+
 http://tailhook.github.io/quick-error/quick_error/index.html
 https://github.com/tailhook/quick-error
+
+https://crates.io/crates/quick-error2
+https://github.com/rossmacarthur/quick-error2
 
 articles
 https://medium.com/@paulcolomiets/whats-new-in-quick-error-1-2-0-d647606d47e6

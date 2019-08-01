@@ -1,4 +1,12 @@
 2019
 https://www.reddit.com/r/rust/comments/bubtu8/which_error_crate_are_going_to_use_in_2019/
+    https://github.com/rust-lang/rfcs/blob/master/text/2504-fix-error.md
 2018
 https://www.reddit.com/r/rust/comments/8lt8k6/do_i_really_need_failureerrorchain/
+
+error-chain deprecation - replacement stuff
+https://crates.io/crates/quick-error
+https://gitlab.com/torkleyy/err-derive
+https://crates.io/crates/snafu
+    burntsushi eperimented with it
+https://crates.io/crates/custom_error

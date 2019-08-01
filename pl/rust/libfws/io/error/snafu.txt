@@ -1,3 +1,5 @@
 https://docs.rs/snafu
 https://github.com/shepmaster/snafu
-https://docs.rs/snafu/0.4.1/snafu/guide/index.html
+
+https://docs.rs/snafu/*/snafu/guide/index.html
+https://docs.rs/snafu/*/snafu/guide/philosophy/index.html
