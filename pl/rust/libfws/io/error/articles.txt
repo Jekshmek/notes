@@ -5,8 +5,13 @@ https://www.reddit.com/r/rust/comments/bubtu8/which_error_crate_are_going_to_use
 https://www.reddit.com/r/rust/comments/8lt8k6/do_i_really_need_failureerrorchain/
 
 error-chain deprecation - replacement stuff
+https://crates.io/crates/failure
+    ! 1740 usages, but looks like experimental
 https://crates.io/crates/quick-error
-https://gitlab.com/torkleyy/err-derive
+    ! 237 usages, but looks like not actively maintained
 https://crates.io/crates/snafu
-    burntsushi eperimented with it
+    ! 32 usages, burntsushi eperimented with it
+https://crates.io/crates/err-derive
+    ! 31 usage
 https://crates.io/crates/custom_error
+    ! 13 usages

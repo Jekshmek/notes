@@ -7,6 +7,8 @@ http://ashap.info/Zadachi/KonfTG.html
 http://ashap.info/Igry/index.html
 http://ashap.info/Nauka/index.html
     http://ashap.info/Nauka/pedagog.html
+        http://ashap.info/Nauka/Kpz.doc
+            !!! Kak pridumyvat i reshat zadachi
         http://ashap.info/Nauka/Induk.doc
         http://ashap.info/Nauka/Posled.pdf
             ! good samples
@@ -21,8 +23,6 @@ http://ashap.info/Nauka/index.html
         http://ashap.info/Nauka/Nedodan.pdf
 http://ashap.info/Turniry/index.html
 http://sasja.shap.homedns.org/indexrus.htm
-
-!!! Kpz.doc - kak pridumyvat i reshat zadachi
 
 2017
 MednikowShapovalov - Tows Turnir - Math World in Problems 2nd ed ru

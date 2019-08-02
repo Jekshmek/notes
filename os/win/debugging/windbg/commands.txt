@@ -12,7 +12,8 @@ SYMBOLS
 .sympath - get the current symbol path
 .sympath SRV*D:\dev\MsSymbols*http://msdl.microsoft.com/download/symbols - set path
 
-.sympath+ SRV*D:\dev\MsSymbols*http://msdl.microsoft.com/download/symbols - add path
+--- add path
+.sympath+ SRV*D:\dev\MsSymbols*http://msdl.microsoft.com/download/symbols
 .sympath+ D:\Knova\Geneva\7.22\inst\Platform\Server
 
 http://msdn.microsoft.com/en-us/library/cc266473.aspx:
