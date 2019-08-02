@@ -1,4 +1,81 @@
 URLs
+Simple Math for Programmers
+    https://chitatel.by/catalog/book/1189935
+Shihanovich - Algo Theory for Math
+    https://chitatel.by/catalog/book/63678
+Gonik - Matan !!!
+    https://chitatel.by/authors/larri-gonik
+    https://chitatel.by/catalog/book/513239
+Bogdanov - Geometric Puzzles
+    https://chitatel.by/catalog/book/1275533
+    !!! need to look
+Sgibnev - 2015 - Divisibility and Prime Numbers 3rd ed ru
+    https://chitatel.by/catalog/book/903861
+    DA5A1E66AE46FA024E746B521F1A3C33
+    20582465EA996AF70CA2DC1B2451171E
+LevitinLevitina - 2018 - Algorithmic Puzzles ru
+    https://chitatel.by/catalog/book/1249996
+    58AA4E4B5C0B04676A31260486C5D949
+Mlodinov - 2014 - Window of Euclid ru
+    https://chitatel.by/catalog/book/1257710
+    E96D5B5DC5A26B8ABC99F94A03378E4A
+Elementary Geometry
+    https://chitatel.by/catalog/book/484630
+Complex Numbers
+    https://chitatel.by/catalog/book/1246296
+Perelman - Algebra
+    https://chitatel.by/catalog/book/488730
+Perelman - Geometry
+    https://chitatel.by/catalog/book/496941
+    https://chitatel.by/catalog/book/1257302
+Perelman - Math
+    https://chitatel.by/catalog/book/1272428
+Arnold - Experimental Math
+    https://chitatel.by/catalog/book/562770
+Arnold - Quaternions
+    https://chitatel.by/catalog/book/562768
+Arnold - Memo
+    https://chitatel.by/catalog/book/562769
+Sharygin - Memo
+    https://chitatel.by/catalog/book/470266
+Perelman - Powers
+    https://chitatel.by/catalog/book/478749
+Zhitinskiy - dnevnik
+    https://chitatel.by/catalog/book/486508
+Zhizhilkin - 2009 - Inversion ru
+    https://chitatel.by/catalog/book/47391
+    96358C9E04C55ACF4EAB299EA89432CF
+    EFC327FF06421181B5F721CD37431562
+Adamar
+    https://chitatel.by/catalog/book/472297
+Erusalimskiy - Pascal Triangle ru
+    https://chitatel.by/catalog/book/1265876
+LitvakKechedzhan - for Humanitarians ru
+    https://chitatel.by/catalog/book/1251650
+Games Theory
+    https://chitatel.by/catalog/book/549108
+Puzzles
+    Gusev
+    4DEE77F7894DA8DA375E5345A7C5BE13
+    hess
+    https://chitatel.by/catalog/book/1251960
+    Gik - 2010 - Intellectual Puzzles ru
+    5C49599BDE31430BBF60FDCED24CFD94
+    394BB9CDECD7D67DDA32DB59F794D895
+    4D8C74900458C8705923D4B7B16DEDEF
+Enciclopedia
+    Gusev - 2018 - Math 100 Genious Ideas ru
+    https://chitatel.by/catalog/book/1221595
+    CEB8A16869878B83772E7E926F69DE91
+Numbers
+    https://chitatel.by/catalog/book/1211603
+    https://chitatel.by/catalog/book/535103
+    https://chitatel.by/catalog/book/1242735
+    https://chitatel.by/catalog/book/1285283
+????
+    https://chitatel.by/catalog/book/525083
+    https://chitatel.by/catalog/book/464516
+    https://chitatel.by/catalog/book/497337
 Ignatiev - In the Kingdom of Savvy
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
