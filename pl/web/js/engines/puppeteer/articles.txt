@@ -1,4 +1,5 @@
 2019
+http://thecodebarbarian.com/control-chrome-from-node-js-with-puppeteer.html
 https://www.codemate.com/en/awesome-things-to-do-with-puppeteer/
 https://ericbidelman.com/posts/2019/02/pptrstagingserver
 2018

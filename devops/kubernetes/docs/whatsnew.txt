@@ -1,5 +1,6 @@
 1.15
 https://kubernetes.io/blog/2019/06/19/kubernetes-1-15-release-announcement/
+    https://www.infoq.com/news/2019/08/kubernetes-release-1-15/
 
 1.13
 https://kubernetes.io/blog/2018/12/03/kubernetes-1-13-release-announcement/

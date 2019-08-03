@@ -4,6 +4,9 @@ https://github.com/coreybutler/nvm-windows
 https://www.powershellgallery.com/packages/nvm
 https://www.powershellgallery.com/packages/nvm/2.1.1
 
+2019
+https://alligator.io/nodejs/node-version-manager/
+
 aur
     nvm
     https://aur.archlinux.org/packages/nvm/
