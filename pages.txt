@@ -334,7 +334,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - I 51                                      -   01:00 (of 1:11:02)
+Sorokin - I 52                                      -   00:00 (of 1:08:09)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
@@ -349,7 +349,7 @@ Osipov - 2                                          -   00:00 (of)
 
 Tracking
 This week in rust                                   - 297
-Razbor Poletov                                      - 206 1:16:00 (of 2:09:19)
+Razbor Poletov                                      - 206 1:52:00 (of 2:09:19)
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
