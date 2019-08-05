@@ -2120,3 +2120,6 @@ it's second argument's value
 
 ### 15. Imagine That ...
 
+(claim =consequence
+    (-> Nat Nat
+        U))

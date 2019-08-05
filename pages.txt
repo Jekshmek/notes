@@ -9,10 +9,6 @@ Gonik - Matan !!!
 Bogdanov - Geometric Puzzles
     https://chitatel.by/catalog/book/1275533
     !!! need to look
-Sgibnev - 2015 - Divisibility and Prime Numbers 3rd ed ru
-    https://chitatel.by/catalog/book/903861
-    DA5A1E66AE46FA024E746B521F1A3C33
-    20582465EA996AF70CA2DC1B2451171E
 LevitinLevitina - 2018 - Algorithmic Puzzles ru
     https://chitatel.by/catalog/book/1249996
     58AA4E4B5C0B04676A31260486C5D949
@@ -42,10 +38,6 @@ Perelman - Powers
     https://chitatel.by/catalog/book/478749
 Zhitinskiy - dnevnik
     https://chitatel.by/catalog/book/486508
-Zhizhilkin - 2009 - Inversion ru
-    https://chitatel.by/catalog/book/47391
-    96358C9E04C55ACF4EAB299EA89432CF
-    EFC327FF06421181B5F721CD37431562
 Adamar
     https://chitatel.by/catalog/book/472297
 Erusalimskiy - Pascal Triangle ru
@@ -80,6 +72,9 @@ Ignatiev - In the Kingdom of Savvy
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
 
+https://ru-bykov.livejournal.com/3982153.html
+https://ru-bykov.livejournal.com/3981994.html
+https://ru-bykov.livejournal.com/3981588.html
 https://ru-bykov.livejournal.com/3980843.html
 https://ru-bykov.livejournal.com/3980757.html
 https://ru-bykov.livejournal.com/3981080.html
@@ -374,7 +369,7 @@ Myshkis - Soviet Mathematicians ru                  -  50..60  (of  302)
 Solynin - Exodus ru                                 -  48..53  (of  223)
 Shalyto - motivation                                - 302      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  92..100 (of 208)
-The Little Typer - 15                               - 332..355 (of 375..418)
+The Little Typer - 15                               - 334..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
