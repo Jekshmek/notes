@@ -71,7 +71,16 @@ Gotman - One Problem and Multiple Solutions ru
 1976
 Shteyngauz - 100 Problems 2nd ed ru
     ! good explanations
+AbbottBurger - Flatland Bolland ru
+    D3B3FBA566E45FA7AD96B46FBE5F7E84
+    4579EA14855D3C40F670FDB79BFA230D
+    33E8ACD65C147AF10BB6E34F62C15DF6
+    FF17E4DF848CFEFDC274166D27334676
+    7FC835AD13297A012A477B8975195863
+    169029CA17616C3694EA6B45B6296081
+    2AB64DABEFC3D8E1E513250B2190581D
 1964
 BoltyanskiyYaglom - Geometry 9 class ru
 1963
 Chistyakov - 3 Famouse Ancient Problems ru
+
