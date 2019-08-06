@@ -3,6 +3,8 @@ https://facebook.github.io/relay/docs/thinking-in-graphql.html
 https://www.howtographql.com/
 
 2019
+https://blog.bitsrc.io/migrating-existing-rest-apis-to-graphql-2c5de3db647d
+    https://nuancesprog.ru/p/4417
 https://habr.com/ru/post/451466/
 https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how
     https://habr.com/en/company/ruvds/blog/445268/

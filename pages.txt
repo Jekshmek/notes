@@ -1,4 +1,8 @@
 URLs
+http://www.iarex.ru/articles/68504.html
+http://www.iarex.ru/articles/68503.html
+http://www.iarex.ru/articles/68502.html
+
 Simple Math for Programmers
     https://chitatel.by/catalog/book/1189935
 Shihanovich - Algo Theory for Math
@@ -6,20 +10,10 @@ Shihanovich - Algo Theory for Math
 Bogdanov - Geometric Puzzles
     https://chitatel.by/catalog/book/1275533
     !!! need to look
-LevitinLevitina - 2018 - Algorithmic Puzzles ru
-    https://chitatel.by/catalog/book/1249996
-    58AA4E4B5C0B04676A31260486C5D949
 Elementary Geometry
     https://chitatel.by/catalog/book/484630
 Complex Numbers
     https://chitatel.by/catalog/book/1246296
-Perelman - Geometry
-    https://chitatel.by/catalog/book/496941
-    https://chitatel.by/catalog/book/1257302
-Perelman - Math
-    https://chitatel.by/catalog/book/1272428
-Perelman - Powers
-    https://chitatel.by/catalog/book/478749
 Arnold - Experimental Math
     https://chitatel.by/catalog/book/562770
 Arnold - Quaternions
@@ -40,10 +34,6 @@ Games Theory
     https://chitatel.by/catalog/book/549108
 Hess - Puzzles
     https://chitatel.by/catalog/book/1251960
-Enciclopedia
-    Gusev - 2018 - Math 100 Genious Ideas ru
-    https://chitatel.by/catalog/book/1221595
-    CEB8A16869878B83772E7E926F69DE91
 Numbers
     https://chitatel.by/catalog/book/1211603
     https://chitatel.by/catalog/book/535103
@@ -57,8 +47,6 @@ Ignatiev - In the Kingdom of Savvy
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
 
-https://ru-bykov.livejournal.com/3982153.html
-https://ru-bykov.livejournal.com/3981994.html
 https://ru-bykov.livejournal.com/3981588.html
 https://ru-bykov.livejournal.com/3980843.html
 https://ru-bykov.livejournal.com/3980757.html
@@ -71,6 +59,9 @@ https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3970377.html
     2
+https://ru-bykov.livejournal.com/3982153.html
+https://ru-bykov.livejournal.com/3981994.html
+    1
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -345,16 +336,16 @@ SVM                                                 -  13..15..21..29
 OpenSSL Cookbook                                    -  29      (of 58)
 Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
-Gnedenko                                            -  30..34  (of 74)
+Gnedenko                                            -  31..34  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
 Zhitinskiy - Lost House ru                          -  859.0   (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1302.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  64..80  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  52..60  (of  302)
+Kantor - Medlennye Chelyusti Demokratii             - 1309.0   (of 1388)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  66..80  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  54..60  (of  302)
 Solynin - Exodus ru                                 - 106..113 (of  223)
-Shalyto - motivation                                - 304      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  44..50  (of 208)
-The Little Typer - 15                               - 334..355 (of 375..418)
+Shalyto - motivation                                - 306      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  46..50  (of 208)
+The Little Typer - 15                               - 336..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

@@ -2123,3 +2123,33 @@ it's second argument's value
 (claim =consequence
     (-> Nat Nat
         U))
+
+There is only one Trivial value
+every expression with type Trivial is the same as sole
+
+(define =consequence
+    (\ (n j)
+        (which-Nat n
+            (which-Nat j
+                Trivial
+                (\ (j-1)
+                    Absurd))
+            (\ (n-1)
+                (which-Nat j
+                    Absurd
+                    (\ (j-1)
+                        (= Nat n-1 j-1)))))))
+
+(claim =consequence-same
+    (PI ((n Nat))
+        (=consequence n n)))
+
+(define =consequence-same
+    (\ (n)
+        (ind-Nat n
+            (\ (k)
+                (=consequence k k))
+            sole
+            (\ (n-1 =consequence_n-1)
+               (same n-1)))))
+
