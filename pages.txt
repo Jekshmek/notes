@@ -55,6 +55,7 @@ https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3970377.html
     2
+https://ru-bykov.livejournal.com/3982924.html
 https://ru-bykov.livejournal.com/3982153.html
 https://ru-bykov.livejournal.com/3981994.html
     1
@@ -257,6 +258,9 @@ Dud - Mihalkov
 Dubrovskiy                                          -   10:00 (of 1:33:19)
     https://www.youtube.com/watch?v=ofIbozuiv9U
     https://www.youtube.com/watch?v=uK_EDGYh2wI
+Soprunova - Raznourovnevoe Obuchenie                -   27:00 (of   50:49)
+    https://www.youtube.com/watch?v=cb3ETFvFZYk
+    ! Skanavi - ne vyhod dlya detey 6-go classa
 Seminar 9
     https://www.youtube.com/playlist?list=PLVdkoATzj9WR-VAo4B-xBaXEY3bh10TN7
     Savvateev
@@ -279,9 +283,6 @@ Seminar 9
             ! in Greece - theorem, theory - from word theatre
             vse vystupayuschie - soperniki, nichego ne prinimalos na veru
             math looks like ugolovnoe sudoproizvodstvo
-Soprunova - Raznourovnevoe Obuchenie                -   27:00 (of   50:49)
-    https://www.youtube.com/watch?v=cb3ETFvFZYk
-    ! Skanavi - ne vyhod dlya detey 6-go classa
 Dorichenko - About Cows, Linear Algebra
     https://www.youtube.com/watch?v=zQw-5Le9ZNU
 Ivanov - EGE                                        -   16:00 (of 1:11:29)
@@ -306,7 +307,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - I 52                                      -   00:00 (of 1:08:09)
+Sorokin - I 53                                      -   00:00 (of 1:45:58)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
@@ -321,7 +322,7 @@ Osipov - 2                                          -   00:00 (of)
 
 Tracking
 This week in rust                                   - 297
-Razbor Poletov                                      - 206 1:52:00 (of 2:09:19)
+Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 146
     https://accu.org/index.php/journals/c389/
