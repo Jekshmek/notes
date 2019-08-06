@@ -1,8 +1,4 @@
 URLs
-http://www.iarex.ru/articles/68504.html
-http://www.iarex.ru/articles/68503.html
-http://www.iarex.ru/articles/68502.html
-
 Simple Math for Programmers
     https://chitatel.by/catalog/book/1189935
 Shihanovich - Algo Theory for Math
@@ -338,7 +334,7 @@ Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  31..34  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
-Zhitinskiy - Lost House ru                          -  859.0   (of 1150)
+Zhitinskiy - Lost House ru                          -  874.0   (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1309.0   (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  66..80  (of  338)
 Myshkis - Soviet Mathematicians ru                  -  54..60  (of  302)
