@@ -12,6 +12,10 @@ The important point here is that the on-heap (JVM) memory and off-heap (ND4J/Jav
 -Dorg.bytedeco.javacpp.logger.debug 
 -Dorg.bytedeco.javacpp.logger=slf4j
 
+...
+     systemProperty 'org.bytedeco.javacpp.logger.debug', 'true' 
+...
+
 platform
 -Dplatform.root=/usr/local/opt/android-ndk
 -Dplatform.compiler=/usr/local/opt/android-ndk/toolchains/x86-4.6/prebuilt/darwin-x86_64/bin/i686-linux-android-g++
