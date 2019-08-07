@@ -2153,3 +2153,15 @@ every expression with type Trivial is the same as sole
             (\ (n-1 =consequence_n-1)
                (same n-1)))))
 
+! Imagine That
+Using types, it is possible to assume things that may or may not be true,
+and then see what can be concluded from these assumptions
+
+Sameness is not a type, it is a judgement
+
+! Sameness versus Equality
+Either two expressions are the same, or they are not.
+It is impossible to prove that they are the same because
+sameness is a judgement, not a type, and a proof
+is an expression with a specific type
+

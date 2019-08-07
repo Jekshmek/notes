@@ -59,6 +59,8 @@ https://ru-bykov.livejournal.com/3982924.html
 https://ru-bykov.livejournal.com/3982153.html
 https://ru-bykov.livejournal.com/3981994.html
     1
+https://ru-bykov.livejournal.com/3983961.html
+    1
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -333,16 +335,16 @@ SVM                                                 -  13..15..21..29
 OpenSSL Cookbook                                    -  29      (of 58)
 Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
-Gnedenko                                            -  31..34  (of 74)
+Gnedenko                                            -  32..34  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
-Zhitinskiy - Lost House ru                          -  874.0   (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1309.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  66..80  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  54..60  (of  302)
-Solynin - Exodus ru                                 - 120..127 (of  223)
-Shalyto - motivation                                - 306      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  46..50  (of 208)
-The Little Typer - 15                               - 336..355 (of 375..418)
+Zhitinskiy - Lost House ru                          -  881.0   (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 1315.0   (of 1388)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  68..80  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  56..60  (of  302)
+Solynin - Exodus ru                                 - 127..133 (of  223)
+Shalyto - motivation                                - 308      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  48..50  (of 208)
+The Little Typer - 15                               - 338..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
