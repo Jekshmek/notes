@@ -61,6 +61,8 @@ https://ru-bykov.livejournal.com/3981994.html
     1
 https://ru-bykov.livejournal.com/3983961.html
     1
+https://ru-bykov.livejournal.com/3986342.html
+    1
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -323,7 +325,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 297
+This week in rust                                   - 298
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 146

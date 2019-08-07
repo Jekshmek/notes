@@ -1,4 +1,5 @@
 2019
+https://nuancesprog.ru/p/4452
 https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36
     https://habr.com/ru/post/448048/
 2018

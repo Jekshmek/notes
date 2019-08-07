@@ -1,3 +1,5 @@
+2019
+https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/master/CSSModules/v1Explainer.md
 2016
 https://css-tricks.com/css-modules-part-1-need/
 https://css-tricks.com/css-modules-part-2-getting-started/
