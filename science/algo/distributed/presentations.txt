@@ -1,3 +1,6 @@
+2019
+https://www.infoq.com/presentations/panel-perils-distributed-coordination/
+    !!
 2018
 Inside Azure Service Fabric
 https://www.youtube.com/playlist?list=PLlrxD0HtieHh73JryJJ-GWcUtrqpcg2Pb
