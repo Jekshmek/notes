@@ -2165,3 +2165,26 @@ It is impossible to prove that they are the same because
 sameness is a judgement, not a type, and a proof
 is an expression with a specific type
 
+Here is a statement as a type that explains
+how a proof that n and j are equal
+can be used
+
+(claim use-Nat=
+    (PI ((n Nat)
+         (j Nat))
+        (-> (= Nat n j)
+            (=consequence n j))))
+
+(define use-Nat=
+    (\ (n j)
+        (\ (n=j)
+            (replace n=j
+                (\ (k)
+                    (=consequence n k))
+                (=consequence-same n)))))
+
+Remember that:
+    (=consequence-same n)
+is an
+    (=consequence n n)
+

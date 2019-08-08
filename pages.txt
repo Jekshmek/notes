@@ -18,8 +18,6 @@ Arnold - Memo
     https://chitatel.by/catalog/book/562769
 Sharygin - Memo
     https://chitatel.by/catalog/book/470266
-Zhitinskiy - dnevnik
-    https://chitatel.by/catalog/book/486508
 Adamar
     https://chitatel.by/catalog/book/472297
 Erusalimskiy - Pascal Triangle ru
@@ -35,14 +33,11 @@ Numbers
     https://chitatel.by/catalog/book/535103
     https://chitatel.by/catalog/book/1242735
     https://chitatel.by/catalog/book/1285283
-????
-    https://chitatel.by/catalog/book/525083
-    https://chitatel.by/catalog/book/464516
-    https://chitatel.by/catalog/book/497337
 Ignatiev - In the Kingdom of Savvy
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
 
+https://ru-bykov.livejournal.com/3988555.html
 https://ru-bykov.livejournal.com/3981588.html
 https://ru-bykov.livejournal.com/3980843.html
 https://ru-bykov.livejournal.com/3980757.html
@@ -59,10 +54,10 @@ https://ru-bykov.livejournal.com/3982924.html
 https://ru-bykov.livejournal.com/3982153.html
 https://ru-bykov.livejournal.com/3981994.html
     1
-https://ru-bykov.livejournal.com/3983961.html
+https://ru-bykov.livejournal.com/3985806.html
     1
-https://ru-bykov.livejournal.com/3986342.html
-    1
+https://ru-bykov.livejournal.com/3985464.html
+    2
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -214,9 +209,7 @@ https://vk.com/mccme
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mashinnoe_obuchenie_ai_big_data
-    2019-07-05
-iarex
-    2019-06-10
+    2019-08-08
 
 Video
 Reinhold - Java, Today and Tomorrow
@@ -339,14 +332,14 @@ Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  32..34  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
-Zhitinskiy - Lost House ru                          -  881.0   (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1315.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  68..80  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  56..60  (of  302)
-Solynin - Exodus ru                                 - 127..133 (of  223)
-Shalyto - motivation                                - 308      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  48..50  (of 208)
-The Little Typer - 15                               - 338..355 (of 375..418)
+Zhitinskiy - Lost House ru                          -  920.0   (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 1324.0   (of 1388)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  70..80  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  58..60  (of  302)
+Solynin - Exodus ru                                 - 140..147 (of  223)
+Shalyto - motivation                                - 310      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  51..55  (of 208)
+The Little Typer - 15                               - 340..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
