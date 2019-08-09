@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/463041/
 https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8
     https://habr.com/ru/company/plarium/blog/446902/
 https://medium.com/@alex.permyakov/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f

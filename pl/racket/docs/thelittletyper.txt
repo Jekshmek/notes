@@ -2188,3 +2188,20 @@ Remember that:
 is an
     (=consequence n n)
 
+(claim zero-not-add1
+    (PI ((n Nat))
+        (-> (= Nat zero (add1 a))
+            Absurd)))
+(claim zero-not-add1
+    (\ (n)
+        (use-Nat= zero (add1 n))))
+
+(claim donub-absurdity
+    (-> (= Nat 0 6)
+        (= Atom 'powdered 'glazed)))
+(define donub-absurdity
+    (\ (zero=six)
+        (ind-Absurd
+            (zero-not-add1 5 zero=six)
+            (= Atom 'powdered 'glazed))))
+
