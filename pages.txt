@@ -16,8 +16,6 @@ Arnold - Quaternions
     https://chitatel.by/catalog/book/562768
 Arnold - Memo
     https://chitatel.by/catalog/book/562769
-Sharygin - Memo
-    https://chitatel.by/catalog/book/470266
 Adamar
     https://chitatel.by/catalog/book/472297
 Erusalimskiy - Pascal Triangle ru
@@ -51,13 +49,7 @@ https://ru-bykov.livejournal.com/3936805.html
 https://ru-bykov.livejournal.com/3970377.html
     2
 https://ru-bykov.livejournal.com/3982924.html
-https://ru-bykov.livejournal.com/3982153.html
-https://ru-bykov.livejournal.com/3981994.html
     1
-https://ru-bykov.livejournal.com/3985806.html
-    1
-https://ru-bykov.livejournal.com/3985464.html
-    2
 https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/14/
 
@@ -336,7 +328,7 @@ Zhitinskiy - Lost House ru                          -  938.0   (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1334.0   (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  72..80  (of  338)
 Myshkis - Soviet Mathematicians ru                  -  60..65  (of  302)
-Solynin - Exodus ru                                 - 140..147 (of  223)
+Solynin - Exodus ru                                 - 147..154 (of  223)
 Shalyto - motivation                                - 312      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  54..55  (of 208)
 The Little Typer - 15                               - 342..355 (of 375..418)

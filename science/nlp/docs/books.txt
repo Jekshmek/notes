@@ -1,3 +1,8 @@
 2019
 Bengort - Applied Text Analysis with Python ru
     https://vk.com/doc7608079_508121564?hash=843db453e9fa4ef0b4
+2018
+Aggarwal - Machine Learning for Text
+    https://vk.com/doc4004138_510792630?hash=490042553c44f68d43
+    15E3ECAFF01709B5F3FD0E1B447AF061
+    222116F757C7E878A21F1E20D0863AA2

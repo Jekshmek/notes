@@ -2,6 +2,8 @@
 http://elijahmanor.com/talks/react-to-the-future/dist/#/slide/4/0
 
 2019
+16.9
+https://reactjs.org/blog/2019/08/08/react-v16.9.0.html
 16.8
 https://reactjs.org/blog/2019/02/06/react-v16.8.0.html
 

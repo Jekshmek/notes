@@ -1,3 +1,7 @@
+2019
+https://www.alexedwards.net/blog/interfaces-explained
+    https://habr.com/ru/company/mailru/blog/463063/
+
 2018
 https://medium.com/@_jesus_rafael/composing-interfaces-in-go-58980969e897
     https://habrahabr.ru/post/350856/
