@@ -14,3 +14,7 @@ https://github.com/RustDT/rustdt-json_rpc
 https://crates.io/crates/tokio-jsonrpc
 https://docs.rs/tokio-jsonrpc
 https://github.com/vorner/tokio-jsonrpc
+
+https://crates.io/crates/jsonrpc_v2
+https://docs.rs/jsonrpc-v2
+https://github.com/kardeiz/jsonrpc-v2
