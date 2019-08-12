@@ -52,6 +52,7 @@ https://vk.com/doc4004138_453721152
 
 Nielsen - Neural Networks and Deep Learing (? intro ?)
 http://neuralnetworksanddeeplearning.com/
+    https://habr.com/ru/post/463171/
     https://habr.com/ru/post/458724/
     https://habr.com/ru/post/457980/
     https://habr.com/ru/post/456738/

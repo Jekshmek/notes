@@ -1,4 +1,5 @@
 2019
+https://nuancesprog.ru/p/4519
 https://medium.com/better-programming/26-miraculous-vscode-tools-for-javascript-developers-in-2019-e184131d75af
     https://habr.com/ru/company/ruvds/blog/460801/
 https://proglib.io/p/vscode-javascript-plugins/

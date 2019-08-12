@@ -329,9 +329,9 @@ Kantor - Medlennye Chelyusti Demokratii             - 1334.0   (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  72..80  (of  338)
 Myshkis - Soviet Mathematicians ru                  -  60..65  (of  302)
 Solynin - Exodus ru                                 - 147..154 (of  223)
-Shalyto - motivation                                - 312      (of  873)
+Shalyto - motivation                                - 314      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  54..55  (of 208)
-The Little Typer - 15                               - 342..355 (of 375..418)
+The Little Typer - 15                               - 344..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

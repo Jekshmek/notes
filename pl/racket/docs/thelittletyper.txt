@@ -2205,3 +2205,33 @@ is an
             (zero-not-add1 5 zero=six)
             (= Atom 'powdered 'glazed))))
 
+(claim sub1=
+    (PI ((n Nat)
+         (j Nat))
+        (-> (= Nat (add1 n) (add1 j))
+            (= Nat n j))))
+(define sub1=
+    (\ (n j)
+        (use-Nat= (add1 n) (add1 j))))
+
+(claim one-not-six
+    (-> (= Nat 1 6)
+        Absurd))
+(define one-not-six
+    (\ (one=six)
+        (zero-not-add1 4)
+            (sub1= 0 5 one=six)))
+
+(claim front
+    (PI ((E U)
+         (n Nat))
+        (-> (Vec E (add1 n)
+            E))))
+(define front
+    (\ (E l ls)
+        (ind-Vec (add1 l) es
+            (\ (k xs)
+                E)
+            ...
+            (\ (k h t front_ys)
+                h))))
