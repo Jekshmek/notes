@@ -16,6 +16,8 @@ https://www.ehcache.org/documentation/3.8/xml.html
 https://www.ehcache.org/documentation/3.8/cache-event-listeners.html
 https://www.ehcache.org/documentation/3.8/107.html
 https://www.ehcache.org/blog/2016/05/18/ehcache3_jsr107_spring.html
+https://stackoverflow.com/questions/45338520/springboot-and-ehcache-multicacheexception
+http://qaru.site/questions/16713786/error-creating-bean-with-name-cachemanager-defined-in-class-path-resource
 
 samples
 https://github.com/ehcache/ehcache3-samples/tree/master/jsr107
