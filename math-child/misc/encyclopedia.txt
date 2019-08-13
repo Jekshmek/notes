@@ -14,6 +14,11 @@ Worderman - How to Explain a Math to a Child 4th ed ru
 2005
 Spivak - New School Encyclopedia - Numbers and Figures ru
     http://www.kvant.info/panov/enciklop.pdf
+1998
+Aksenov - Avanta Math ru
+    B52B77F60985CCD4570A1078EE0BCD7F
+    4288667F883BDF6EC7DEEDCDAD589474
+    ! not loaded, huge size
 1989
 Savin - Enciclopedic Dictionary of Young Mathematician 2nd ed ru
     74775AF2C3A903C54FF0E2E3D4A82D55

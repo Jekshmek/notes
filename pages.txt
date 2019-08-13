@@ -1,8 +1,4 @@
 URLs
-Simple Math for Programmers
-    https://chitatel.by/catalog/book/1189935
-Shihanovich - Algo Theory for Math
-    https://chitatel.by/catalog/book/63678
 Bogdanov - Geometric Puzzles
     https://chitatel.by/catalog/book/1275533
     !!! need to look
@@ -18,8 +14,6 @@ Arnold - Memo
     https://chitatel.by/catalog/book/562769
 Adamar
     https://chitatel.by/catalog/book/472297
-Erusalimskiy - Pascal Triangle ru
-    https://chitatel.by/catalog/book/1265876
 LitvakKechedzhan - for Humanitarians ru
     https://chitatel.by/catalog/book/1251650
 Games Theory
@@ -332,7 +326,7 @@ Solynin - Exodus ru                                 - 155..162 (of  223)
 Shalyto - motivation                                - 314      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  56..75  (of 208)
 Bardin                                              -   5..    (of 146)
-The Little Typer - 15                               - 344..355 (of 375..418)
+The Little Typer - 15                               - 346..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

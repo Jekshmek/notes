@@ -2235,3 +2235,36 @@ is an
             ...
             (\ (k h t front_ys)
                 h))))
+
+(claim mot-front
+    (PI ((E U)
+         (k Nat))
+        (-> (Vec E k)
+            U)))
+(define mot-front
+    (\ (E)
+        (\ (k es)
+            (PI ((j Nat))
+                (-> (= Nat k (add1 j))
+                    E)))))
+
+Note: The argument k is a target of ind-Vec.
+    Both the base and the step now have two extra arguments:
+    a Nat called j and a proof that k is (add1 j).
+
+    In the base, k is zero, thus there is no such j
+    If there where such a j, then zero would equal (add1 j).
+    But zero-not-add1 proves that this is impossible.
+
+(claim step-front
+    (PI ((E U)
+         (l Nat)
+         (e Nat)
+         (es (Vec E l)))
+        (-> (mot-front E
+                l
+                es)
+            (mot-front E
+                (add1 l)
+                (vec:: e es)))))
+
