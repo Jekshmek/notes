@@ -2227,14 +2227,6 @@ is an
          (n Nat))
         (-> (Vec E (add1 n)
             E))))
-(define front
-    (\ (E l ls)
-        (ind-Vec (add1 l) es
-            (\ (k xs)
-                E)
-            ...
-            (\ (k h t front_ys)
-                h))))
 
 (claim mot-front
     (PI ((E U)
@@ -2267,4 +2259,20 @@ Note: The argument k is a target of ind-Vec.
             (mot-front E
                 (add1 l)
                 (vec:: e es)))))
+(define step-front
+    (\ (E l e es)
+        (\ (front_es)
+            (\ (j eq)
+                e))))
+
+(define front
+    (\ (E l ls)
+        ((ind-Vec (add1 l) es
+            (mot-front E)
+            (\ (j eq)
+                (ind-Absurd
+                    (zero-not-add1 j eq)
+                        E))
+            (step-front E))
+        l (same (add1 l)))))
 

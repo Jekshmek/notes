@@ -5,6 +5,9 @@ https://crates.io/crates/tokio
 https://docs.rs/tokio
 https://docs.rs/tokio-io-pool
 
+async-stream
+https://github.com/tokio-rs/async-stream
+
 tokio-process
 https://github.com/alexcrichton/tokio-process/pull/1
 
