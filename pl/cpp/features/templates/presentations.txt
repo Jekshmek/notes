@@ -1,3 +1,9 @@
+2019
+Sergey Fedorov - Cpp Templates and DBs ru
+    https://corehard.by/2019/08/01/sergei-fedorov-corehard-spring-2019/
+    https://www.slideshare.net/corehard_by/c-corehard-spring-2019
+    !
+    https://www.youtube.com/watch?v=l6FhWHmJ6L4
 2018
 OConnor - Alices's Adventures in Template Land
     https://github.com/ninkibah/talks/blob/master/alice/Alices%20Adventures%20in%20Template%20Land.pdf

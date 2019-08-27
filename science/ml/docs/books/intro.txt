@@ -1,6 +1,12 @@
 2015
 Kirk - Thoughtful Machine Learning with Python (ruby samples)
 
+2013
+Vyugin - Math Fundamentals of ML and Prognosing ru
+    BBCFAE89B036DB079BC45689839A1977
+    01C05C8A9FD2D374557DB3A589E5B962
+    775A87613042F8BABA4F69317741BA88
+
 ?
 Kubat - An Introduction to Machine Learning (short)
 Alpadyn - Machine Learning (mostly textual)

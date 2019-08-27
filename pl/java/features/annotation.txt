@@ -1,3 +1,5 @@
+https://docs.oracle.com/javase/tutorial/java/annotations/predefined.html
+
 2019
 https://dzone.com/articles/creating-custom-annotations-in-java
 
@@ -17,3 +19,6 @@ https://speakerdeck.com/search?q=droidcon+2014+nyc
 
 Erni - The Hacker's Guide to Javac
 http://scg.unibe.ch/archive/projects/Erni08b.pdf
+
+@SuppressWarnings("unchecked")
+https://docs.oracle.com/javase/8/docs/api/java/lang/SuppressWarnings.html
