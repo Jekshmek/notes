@@ -20,6 +20,7 @@ https://github.com/cilium/cilium
 https://www.infoq.com/presentations/linux-cilium-ebpf
 
 2019
+http://www.opennet.ru/opennews/art.shtml?num=51287
 https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html
     https://habr.com/ru/company/itsumma/blog/441258/
 https://habr.com/ru/company/otus/blog/436528/
@@ -30,3 +31,5 @@ http://www.opennet.ru/opennews/art.shtml?num=49414
 http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html
 2017
 http://www.brendangregg.com/blog/2017-01-31/golang-bcc-bpf-function-tracing.html
+2016
+https://www.opennet.ru/opennews/art.shtml?num=45391

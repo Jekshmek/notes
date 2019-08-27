@@ -1,6 +1,8 @@
 2019
 http://antoyo.ml/future-of-rust
 
+    http://www.opennet.ru/opennews/art.shtml?num=51302
+
 https://blog.rust-lang.org/2019/07/04/Rust-1.36.0.html
     http://www.opennet.ru/opennews/art.shtml?num=51034
     https://www.infoq.com/news/2019/07/rust-1-36-futures/
