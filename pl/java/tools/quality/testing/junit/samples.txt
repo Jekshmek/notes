@@ -13,3 +13,6 @@ JUNIT_RUNNER=org.junit.runner.JUnitCore
 TEST_CLASS=some.package.SomeTest
 
 java $JAVA_OPTS $JUNIT_RUNNER $TEST_CLASS
+
+2019
+https://habr.com/ru/post/464881/

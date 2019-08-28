@@ -6,6 +6,7 @@ https://en.cppreference.com/w/cpp/language/structured_binding
 
 articles
 2019
+https://habr.com/ru/company/playrix/blog/465181/
 https://www.bfilipek.com/2019/08/17smallercpp17features.html
 2018
 https://mariusbancila.ro/blog/2018/07/05/c17-removed-and-deprecated-features/

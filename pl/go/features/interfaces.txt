@@ -1,4 +1,6 @@
 2019
+https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea
+    https://nuancesprog.ru/p/4671
 https://www.alexedwards.net/blog/interfaces-explained
     https://habr.com/ru/company/mailru/blog/463063/
 

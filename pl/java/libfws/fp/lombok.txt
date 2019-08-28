@@ -42,5 +42,8 @@ https://projectlombok.org/features/val.html
 @Builder and fluent
 https://dzone.com/articles/making-java-fluent-api-more-flexible
 
+@Nullable/@NonNull
+https://habr.com/ru/post/464939/
+
 whatsnew
 https://projectlombok.org/changelog

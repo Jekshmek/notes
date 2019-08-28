@@ -10,6 +10,9 @@ https://habrahabr.ru/post/330112/
 
 presentations
 2019
+Travis Brown - Library Design for Dotty
+    https://meta.plasm.us/slides/circe/dotty-preview/#1
+    https://vimeo.com/353579169
 Yuriy Vishnevskyi at #ScalaUA - Deriving a Functor in Dotty
     https://www.youtube.com/watch?v=kyWg70EyL_c
 2017
