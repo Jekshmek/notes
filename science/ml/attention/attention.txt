@@ -21,6 +21,7 @@ https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-yo
 https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
 
 BERT
+http://www.nlp.town/blog/distilling-bert/
 https://towardsdatascience.com/deconstructing-bert-distilling-6-patterns-from-100-million-parameters-b49113672f77
 https://jalammar.github.io/illustrated-bert/
 https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f

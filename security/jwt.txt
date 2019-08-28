@@ -1,5 +1,7 @@
 https://jwt.io/
 
+2019
+https://proglib.io/p/jwt-for-dummies/
 2018
 https://proglib.io/p/json-tokens/
 https://dzone.com/articles/stop-using-jwts-as-session-tokens

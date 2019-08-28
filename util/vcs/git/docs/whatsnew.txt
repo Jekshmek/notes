@@ -1,5 +1,6 @@
 2.23
 http://www.opennet.ru/opennews/art.shtml?num=51300
+    https://www.infoq.com/news/2019/08/git-2-23-switch-restore/
 2.22
 http://www.opennet.ru/opennews/art.shtml?num=50831
     https://www.infoq.com/news/2019/07/git-2-22-rebase-merges/
