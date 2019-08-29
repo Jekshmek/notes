@@ -1,4 +1,6 @@
 2019
+https://habr.com/ru/company/oleg-bunin/blog/462665/
+    ! security
 https://medium.com/devopslinks/helm-basics-using-tillerless-dac28508151f
 https://helm.sh/blog/helm-3-preview-pt2/
 https://helm.sh/blog/helm-3-preview-pt1/

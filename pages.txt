@@ -207,6 +207,11 @@ https://vk.com/helloworldbooks
     2019-08-14
 https://vk.com/mashinnoe_obuchenie_ai_big_data
     2019-08-23
+iarex
+    2019-08-19
+Toffler - 3rd Wave
+    http://www.iarex.ru/articles/52773.html
+
 
 Video
 Reinhold - Java, Today and Tomorrow
@@ -516,8 +521,6 @@ KonnovaDremov
 
 tl - 1929
 
-Toffler - 3rd Wave
-    http://www.iarex.ru/articles/52773.html
 
 The DefaultSourceDirectorySet constructor has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the ObjectFactory service to create instances of SourceDirectorySet instead.
 The IvyArtifactRepository.layout(String, Closure) method has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the IvyArtifactRepository.patternLayout(Action) method instead.

@@ -3,7 +3,10 @@ http://exploringjs.com/impatient-js/toc.html
 
 https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks
-http://learn.javascript.ru/es-modern
+
+Ilya Kantor
+https://learn.javascript.ru/
+https://learn.javascript.ru/es-modern
 
 2019
 Bae - JavaScript Data Structures and Algorithms

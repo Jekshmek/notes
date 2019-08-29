@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/company/oleg-bunin/blog/455652/
 https://towardsdatascience.com/machine-learning-sentiment-analysis-and-word-embeddings-python-keras-example-4dfb93c5a6cf
 https://pair-code.github.io/interpretability/bert-tree/
 https://www.infoq.com/presentations/nlp-word-embedding

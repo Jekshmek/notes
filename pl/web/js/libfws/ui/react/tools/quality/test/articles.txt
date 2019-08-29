@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/company/yandex/blog/459924/
 https://circleci.com/blog/continuously-testing-react-applications-with-jest-and-enzyme/
 https://habr.com/ru/company/sberbank/blog/443316/
 https://css-tricks.com/writing-tests-for-react-applications-using-jest-and-enzyme/
