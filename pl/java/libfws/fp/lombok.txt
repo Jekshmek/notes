@@ -47,3 +47,10 @@ https://habr.com/ru/post/464939/
 
 whatsnew
 https://projectlombok.org/changelog
+
+2019
+http://gregorriegler.com/2019/08/10/who-needs-lombok-anyhow.html
+    https://www.joda.org/joda-beans/
+    http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/builder/EqualsBuilder.html
+    http://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/builder/HashCodeBuilder.html
+    https://github.com/skinny85/jilt
