@@ -22,11 +22,14 @@ Stanford - Leskovec - Mining of Massive DataSets
 2019
 Joshi - AI with Python ru
     https://vk.com/doc7608079_502574559?hash=d2f2b794e11861dd35
+    https://vk.com/doc7608079_513765512?hash=016d77fc1080fab20d
     ! good and informative !
 Porcu - Python for Data Mining (too short)
 Joshi - Artificial Intelligence with Python ru
 
 2018
+Bobkov - Pattern Recognition System ru
+    https://vk.com/doc7608079_513130976?hash=6c3995f1a644bde542
 Albon - Machine Learning with Python Cookbook
     good, a lot of samples
 Mathematics for ML

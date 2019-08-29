@@ -7,3 +7,6 @@ https://github.com/owainlewis/awesome-artificial-intelligence
 https://rushter.com/dsreader/
     https://github.com/rushter/data-science-blogs
 https://github.com/EthicalML/awesome-machine-learning-operations
+
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md

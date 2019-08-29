@@ -5,5 +5,8 @@ https://github.com/yandex/ClickHouse/
 compression
 https://habr.com/en/company/yandex/blog/457612/
 
+2019
+https://tech.marksblogg.com/billion-nyc-taxi-rides-clickhouse-cluster.html
+    https://habr.com/ru/company/otus/blog/463665/
 2018
 https://habrahabr.ru/company/yandex/blog/347696/

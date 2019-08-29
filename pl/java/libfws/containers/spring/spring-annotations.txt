@@ -8,3 +8,6 @@ https://readlearncode.com/2016/02/13/insights-from-stackoverflow-most-voted-for-
 
     <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
     <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+
+@Order
+https://www.baeldung.com/spring-order

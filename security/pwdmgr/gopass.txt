@@ -4,3 +4,6 @@ https://www.gopass.pw/docs/
 https://github.com/gopasspw/gopass/tree/master/docs
 https://github.com/gopasspw/gopass/blob/master/docs/features.md
 https://github.com/gopasspw/gopass/blob/master/docs/jsonapi.md
+
+https://github.com/gopasspw/gopassbridge
+https://github.com/codecentric/gopass-ui

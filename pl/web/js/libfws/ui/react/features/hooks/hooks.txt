@@ -22,10 +22,13 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://howchoo.com/g/njy1njc2yzk/introduction-to-react-hooks
+https://dev.to/prototyp/building-custom-react-hooks-11h2
+https://www.telerik.com/kendo-react-ui/react-hooks-guide/
+https://kentcdodds.com/blog/react-hooks-pitfalls
 http://www.petecorey.com/blog/2019/08/19/animating-a-canvas-with-react-hooks/
 https://tylermcginnis.com/why-react-hooks/
 https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58
-https://tylermcginnis.com/why-react-hooks/
 https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672
 https://www.infoq.com/presentations/react-redux-state-management/
 https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/

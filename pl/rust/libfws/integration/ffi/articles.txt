@@ -1,4 +1,5 @@
 2019
+https://medium.com/dwelo-r-d/wrapping-unsafe-c-libraries-in-rust-d75aeb283c65
 https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/
 https://rushsteve1.us/wp/getting-started-with-rust-ffi/
 2018

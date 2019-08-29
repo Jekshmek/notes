@@ -10,6 +10,7 @@ Zhang - Dive into Deep Learning
 2019
 Mueller - Deep Learning For Dummies
 Trask - Grokking Deep Learning
+    https://habr.com/ru/company/piter/blog/464509/
 Molnar - Interpretable Machine Learning
     https://christophm.github.io/interpretable-ml-book/
 

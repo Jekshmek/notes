@@ -1,0 +1,7 @@
+https://clap.rs/
+https://crates.io/crates/clap
+https://docs.rs/clap
+https://github.com/clap-rs/clap
+
+2019
+https://tech.fpcomplete.com/rust/command-line-parsing-clap
