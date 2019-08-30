@@ -1,0 +1,3 @@
+2019
+https://www.sohamkamani.com/blog/golang/arrays-vs-slices/
+    https://habr.com/ru/company/otus/blog/465613/
