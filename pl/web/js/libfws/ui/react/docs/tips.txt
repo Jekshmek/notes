@@ -1,3 +1,5 @@
+2019
+https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf
 2018
 https://tylermcginnis.com/react-interview-questions/
 https://habr.com/post/416511/
