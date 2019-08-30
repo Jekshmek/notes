@@ -71,6 +71,10 @@ Domingos - The Master Algorithm
     4C14AA3EBE9B31677F0B3D861AB89362
 Mueller - Machine Learning For Dummies
 
+2016
+Rashid - Make your own Neural Network
+    https://vk.com/doc7608079_513910850?hash=a150bbcb838986a529
+
 2015
 Marsland - Machine Learning - An Algorithmic Perspective 2nd ed
     interesting and balanced
@@ -101,8 +105,6 @@ Grus - Data Science from Scrutch ru
 Coelho - Building Machine Learning Systems with Python ru
 https://vk.com/doc190970339_437111950
 
-? !!!
-Rashid - Make your own Neural Network
 
 Haykin - 2006 - NNs A Comprehensive Foundation 2nd ed ru:
     https://vk.com/doc4004138_437978172

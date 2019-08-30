@@ -3,6 +3,8 @@ http://exploringjs.com/es2018-es2019/ch_asynchronous-iteration.html
 https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e
 
 2019
+CodingTech - Understanding Iterators and Iterables in JavaScript
+    https://www.youtube.com/watch?v=uhuGhfjqBk4
 https://loige.co/javascript-iterator-patterns/
 2018
 https://itnext.io/iterators-and-generators-do-have-a-place-in-modern-javascript-d4cb589b491
