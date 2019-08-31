@@ -1,2 +1,5 @@
 scala-lsp
 https://marketplace.visualstudio.com/items?itemName=dragos.scala-lsp
+
+scala metals
+https://www.youtube.com/watch?v=kc2jrTEs5ug
