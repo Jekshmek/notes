@@ -1,3 +1,8 @@
+https://stiffstream.com/en/products/sobjectizer.html
+
+https://github.com/Stiffstream/sobjectizer
+https://github.com/Stiffstream/sobjectizer/wiki
+
 features
 
 distribution
