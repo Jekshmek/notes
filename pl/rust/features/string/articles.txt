@@ -1,4 +1,5 @@
 2019
+https://wduquette.github.io/parsing-strings-into-slices/
 https://medium.com/@rizwanakram07/strings-in-rust-ecdc7d7ac79b
 2018
 https://www.reddit.com/r/rust/comments/9govr2/what_is_the_difference_with_str_and_string/

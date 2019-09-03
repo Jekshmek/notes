@@ -12,6 +12,8 @@ tokio-process
 https://github.com/alexcrichton/tokio-process/pull/1
 
 articles
+2019
+https://tokio.rs/blog/2019-08-tracing/
 2018
 https://tokio.rs/blog/2018-12-recap-2018/
 https://tokio.rs/blog/2018-03-tokio-runtime/

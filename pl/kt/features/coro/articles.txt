@@ -1,4 +1,5 @@
 2019
+https://medium.com/@marcogomiero/a-journey-from-async-task-to-kotlin-coroutines-735c273d76cb
 https://geoffreymetais.github.io/code/coroutines/
     https://habr.com/ru/company/piter/blog/457224/
 https://itnext.io/moving-from-rxjava-to-coroutines-4e1c34419111

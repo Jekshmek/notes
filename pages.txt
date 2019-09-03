@@ -207,7 +207,7 @@ https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
     2019-08-31
 iarex
-    2019-08-28
+    2019-08-30
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -319,7 +319,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 298
+This week in rust                                   - 299
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 146
