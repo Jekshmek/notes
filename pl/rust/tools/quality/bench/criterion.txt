@@ -8,6 +8,7 @@ https://japaric.github.io/criterion.rs/book/getting_started.html
 https://github.com/japaric/criterion.rs
 
 2019
+https://bheisler.github.io/post/criterion-rs-0-3/
 https://medium.com/@yamafaktory/rust-benchmarking-with-criterion-on-travis-ci-%EF%B8%8F-8b54d321e05
 2018
 https://bheisler.github.io/post/criterion-rs-0-2/
