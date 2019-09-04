@@ -4,6 +4,7 @@ https://aturon.github.io/apr/
 https://rust-lang.github.io/async-book/
 
 2019
+https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
 http://smallcultfollowing.com/babysteps/blog/2019/07/08/async-await-status-report-2/
 https://habr.com/ru/post/455010/
 https://whitfin.io/some-thoughts-on-rusts-async-await-proposals/

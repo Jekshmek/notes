@@ -34,3 +34,14 @@ def hasChanges() {
     }
     return false
 }
+
+def getNlpModulesVersion() {
+    getVersionFrom('modules/build.properties', 'nlp.modules.version')
+}
+
+def getVersionFrom(fileName, propName) {
+    def propsString = readFile(fileName)
+    def props = new Properties()
+    props.load(new StringReader(propsString))
+    props.get(propName)
+}

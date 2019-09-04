@@ -1,3 +1,7 @@
+2019
+https://www.baeldung.com/groovy-closures
+
+
 c.resolveStrategy = CLOSURE.OWNER_FIRST
 // DELEGATE_FIRST, DELEGATE_ONLY, OWNER_ONLY
 

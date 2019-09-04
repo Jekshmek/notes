@@ -1,3 +1,8 @@
+2019
+Cokic - New C++ features for writing DSLs
+    https://www.slideshare.net/corehard_by/new-c-features-for-writing-dsls-ivan-uki-corehard-spring-2019
+    https://www.youtube.com/watch?v=Vv3cz28Un3Y
+    https://github.com/whamcloud/integrated-manager-for-lustre/
 2018
 Alexandrescu - expect the expected
     https://cppeurope.com/wp-content/uploads/2018/02/Andrei_Alexandrescu_Expect_the_expected_slides.pdf
