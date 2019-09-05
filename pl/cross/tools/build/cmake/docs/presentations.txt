@@ -1,4 +1,6 @@
 2018
+Hafner — Building C++
+    https://www.youtube.com/watch?v=n_f-2p5eDBo
 Bahadir - More Modern CMake
     https://meetingcpp.com/mcpp/slides/2018/MoreModernCMake.pdf
     https://www.youtube.com/watch?v=TsddSCzYiRs

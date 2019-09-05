@@ -14,6 +14,12 @@ Omelchenko - Graph Theory ru
 Deo - Graph Theory with Applications to Engineering and Computer Science
     lots of samples
 
+2011
+Kepner - Graph Algorithms in the Language of Linear Algebra
+    747871F9B2D5A4432228FD5BF6FFEF58
+    9574252B71E234B7DA671F2DA0468961
+    3C1F291A34B977A4602EDFEC5071F3A3
+
 2003
 Harary - Graph Tehory ru
 Kasyanov - Graphs in Programming ru
