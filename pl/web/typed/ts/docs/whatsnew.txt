@@ -4,6 +4,8 @@ npm
     typescript@rc
 
 3.6
+https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/
+    https://www.infoq.com/news/2019/09/typescript-3-6-release/
 https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-beta/
 3.5
 https://devblogs.microsoft.com/typescript/announcing-typescript-3-5/

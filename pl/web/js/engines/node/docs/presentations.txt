@@ -1,3 +1,6 @@
+2019
+Twena-Stern - A Journey into Node.js Internals
+    https://www.youtube.com/watch?v=LbwUETu7Rgc
 2018
 Academind - Node.js Tutorial for Beginners - Getting Started with NodeJS Basics
     https://www.youtube.com/watch?v=C7TFgfY7JdE
