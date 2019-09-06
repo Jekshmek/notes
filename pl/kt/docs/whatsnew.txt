@@ -1,4 +1,7 @@
+https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md
+
 1.3
+https://blog.jetbrains.com/kotlin/2019/08/kotlin-1-3-50-released/
 https://blog.jetbrains.com/kotlin/2019/06/kotlin-1-3-40-released/
 https://blog.jetbrains.com/kotlin/2019/04/kotlin-1-3-30-released/
     https://www.infoq.com/news/2019/04/kotlin-1.3.30
