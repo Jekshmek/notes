@@ -1,2 +1,5 @@
+https://beginners.re/
+https://beginners.re/RE4B-RU.pdf
+
 2018
 Kusswurm - Modern x86 Assembly Language Programming 2nd ed

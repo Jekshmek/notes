@@ -1,4 +1,7 @@
 2019
+Wang - Secrets of Deep Learning
+    https://www.youtube.com/watch?v=cIEUR2ONFlI
+    https://www.issp.u-tokyo.ac.jp/public/caqmp2019/slides/731L_Wang.pdf
 Matelis - Debuggable Deep Learning
     https://www.infoq.com/presentations/debug-dl/
 Yung - Understanding Deep Learning

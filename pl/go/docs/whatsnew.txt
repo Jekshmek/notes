@@ -13,6 +13,7 @@ https://go.googlesource.com/proposal/+/master/design/go2draft-contracts.md
 1.13
 https://blog.golang.org/go1.13
     http://www.opennet.ru/opennews/art.shtml?num=51417
+    https://www.infoq.com/news/2019/09/go-1-13-module-mirror-checksumdb/
 1.12
 https://blog.golang.org/go1.12
 https://golang.org/doc/go1.12

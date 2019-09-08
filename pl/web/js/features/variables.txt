@@ -1,4 +1,6 @@
 2019
+https://www.jsmonday.dev/articles/17/let-is-the-new-var
+    https://habr.com/ru/post/466559/
 https://tylermcginnis.com/var-let-const/
 2018
 https://jamie.build/const
