@@ -1,11 +1,5 @@
 URLs
-http://www.iarex.ru/articles/69729.html
-NSU Director - 20:00 (of 52:55)
-    https://www.youtube.com/watch?v=l6noZAtbYJE
-Shargunov
-    https://www.youtube.com/watch?v=AEHeEBU6FWo
 https://zen.yandex.ru/id/5d2af8e495aa9f00b1bec6ba
-https://blog.predanie.ru/article/uspenie-bozhiej-materi-skazka-stavshaya-bogosloviem/
 https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
 https://blog.predanie.ru/article/top-10-za-10-let-audioknigi/
 https://blog.predanie.ru/article/edinstvennyj-dostojnyj-sozertsaniya/
@@ -210,9 +204,9 @@ https://vk.com/mccme
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
-    2019-09-08
+    2019-09-09
 iarex
-    2019-09-07
+    2019-09-08
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -340,13 +334,13 @@ Gnedenko                                            -  34..38  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
 Zhitinskiy - Lost House ru                          -  958.0   (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1345.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  74..80  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  62..65  (of  302)
-Solynin - Exodus ru                                 - 155..162 (of  223)
-Shalyto - motivation                                - 318      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  56..75  (of 208)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  76..80  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  64..65  (of  302)
+Solynin - Exodus ru                                 - 162..171 (of  223)
+Shalyto - motivation                                - 320      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  58..75  (of 208)
 Bardin                                              -   7..    (of 146)
-The Little Typer - 15                               - 348..355 (of 375..418)
+The Little Typer - 15                               - 350..355 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

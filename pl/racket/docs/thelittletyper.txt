@@ -2276,3 +2276,16 @@ Note: The argument k is a target of ind-Vec.
             (step-front E))
         l (same (add1 l)))))
 
+Notes: "X is false" is written
+    (-> X
+        Absurd)
+
+(claim pem
+    (PI ((X U))
+        (Either X
+            (-> X
+                Absurd))))
+
+Evidence for pem would be a function, that determines the truth
+or falsify of every statement that can be written as a type
+

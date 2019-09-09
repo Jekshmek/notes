@@ -16,11 +16,13 @@ https://stenciljs.com/resources/
 
 https://stenciljs.com/demos/
 
-presentations
+2019
+https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf
+????
 https://ionic-team.github.io/stencil-present/
 2017
 Using Web Components in Ionic 
-https://www.youtube.com/watch?v=UfD-k7aHkQE
+    https://www.youtube.com/watch?v=UfD-k7aHkQE
 Academind - Stencil - Getting Started
-https://www.youtube.com/playlist?list=PL55RiY5tL51pIQNcOLDjnaQJYuj_GjVSz
-https://www.youtube.com/watch?v=MqMYaT1GlWY
+    https://www.youtube.com/playlist?list=PL55RiY5tL51pIQNcOLDjnaQJYuj_GjVSz
+    https://www.youtube.com/watch?v=MqMYaT1GlWY
