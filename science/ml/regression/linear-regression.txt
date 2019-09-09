@@ -3,6 +3,7 @@ https://habrahabr.ru/post/324890/
 https://habrahabr.ru/company/ods/blog/322076/
 
 2019
+https://habr.com/ru/post/465743/
 https://towardsdatascience.com/linear-regression-from-scratch-977cd3a1db16
 https://towardsdatascience.com/interpreting-the-coefficients-of-linear-regression-cc31d4c6f235
 
