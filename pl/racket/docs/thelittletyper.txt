@@ -2280,12 +2280,28 @@ Notes: "X is false" is written
     (-> X
         Absurd)
 
+??????
 (claim pem
     (PI ((X U))
         (Either X
             (-> X
                 Absurd))))
+??????
 
 Evidence for pem would be a function, that determines the truth
 or falsify of every statement that can be written as a type
+! This would mean that there are no unsolved problems !
+
+(claim pem-not-false
+    (PI ((X U))
+        (-> (-> (Either X
+            (-> X
+                Absurd))
+            Absurd)
+        Absurd)))
+
+(define pem-not-false
+    (\ (X)
+        (\ (pem-false)
+            (pem-false
 
