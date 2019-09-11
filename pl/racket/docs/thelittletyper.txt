@@ -2304,4 +2304,34 @@ or falsify of every statement that can be written as a type
     (\ (X)
         (\ (pem-false)
             (pem-false
+                (right
+                    (\ (x)
+                        (pem-false
+                            (left x))))))))
 
+Note: There are, however, some statements
+that are eighter true or false.
+These statements are called decideable
+because there is a function that decides
+whether they are true or false
+
+(claim Dec
+    (-> U
+        U))
+(define Dec
+    (\ (X)
+        (Either X
+            (-> X
+                Absurd))))
+
+Note: this looks like a pem.
+Another way of to phrase pem is
+    "All statements are decideable"
+
+?????
+(claim Pem
+    (PI ((X U))
+        (Dec X)))
+
+
+### 16. If It's All the Same to You

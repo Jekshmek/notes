@@ -36,6 +36,10 @@ Shen - Dasgupta, Papadimitriu, Vazirani - Algoritms
 2013
 Stephens - Essential Algorithms ru
 Lafore - Data Structures and Algorithms in Java 2nd ed ru
+KrupskiyPlisko - Math Logic and Algorithms Theory ru
+    2162121A5F549490DED1C58E8DFC1C82
+    0C517F7371AA7B380FB658507953AFED
+    C2CF86D10F0F435A6105F0028F3D1656
 
 2012
 Polyakov - Algorithm Theory Fundamentals ru
