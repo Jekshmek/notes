@@ -2,6 +2,7 @@ esm
 https://nodejs.org/api/esm.html
 
 2019
+https://habr.com/ru/company/ruvds/blog/466537/
 https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module
 2018
 http://2ality.com/2018/12/nodejs-esm-phases.html

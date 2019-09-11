@@ -4,6 +4,10 @@ https://realpython.com/python37-new-features/
     https://proglib.io/p/new-python/
 https://proglib.io/p/python-3-7-optimization/
 https://github.com/arogozhnikov/python3_with_pleasure
+
+2->3
+2019
+https://www.infoq.com/news/2019/09/python-2-end-of-life-approaching/
 2018
 Webinar - Translating 2 to 3
-https://www.youtube.com/watch?v=gcwsSZggAsc
+    https://www.youtube.com/watch?v=gcwsSZggAsc

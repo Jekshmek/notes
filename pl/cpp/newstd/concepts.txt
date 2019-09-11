@@ -8,6 +8,7 @@ https://eriksvjansson.net/papers/cppcpdac.pdf
 https://eriksvjansson.net/papers/cppcpdacd.pdf
 
 2019
+https://devblogs.microsoft.com/cppblog/c20-concepts-are-here-in-visual-studio-2019-version-16-3/
 Saar - Clang Concepts
     https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf
     https://www.youtube.com/watch?v=Nuiwb4Dbefw
