@@ -309,7 +309,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 301
+This week in rust                                   - 303
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 152
@@ -510,10 +510,11 @@ KonnovaDremov
 
 tl - 1929
 
-
-The DefaultSourceDirectorySet constructor has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the ObjectFactory service to create instances of SourceDirectorySet instead.
-The IvyArtifactRepository.layout(String, Closure) method has been deprecated. This is scheduled to be removed in Gradle 6.0. Please use the IvyArtifactRepository.patternLayout(Action) method instead.
-        at repositories_7bfwrws3snk0tuv4lu6b2aoa4$_run_closure1$_closure2.doCall(/data/wrk/clb/fx/gradle/repositories.gradle:5)
-        (Run with --stacktrace to get the full stack trace of this deprecation warning.)
-
-chuchela plushmassa medved
+123456789+1111111111
+1234567900
+1234567900+11111111111
+12345679011
+12345679011+111111111111
+123456790122
+123456790122+1111111111111
+1234567901233

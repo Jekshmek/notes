@@ -3,3 +3,6 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 https://docs.microsoft.com/en-us/windows/wsl/install-manual
 
 https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#check-your-build-number
+
+2019
+https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/

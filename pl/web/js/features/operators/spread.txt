@@ -1,6 +1,7 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 
 2019
+https://dmitripavlutin.com/javascript-spread-operator-performance-optimization/
 https://dailycoding.io/article/XIColYT1u7EWx3KUHGHz
 
 2018
