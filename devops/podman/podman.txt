@@ -4,6 +4,7 @@ https://github.com/containers/libpod
 https://podman.io/blogs/
 
 2019
+https://habr.com/ru/company/redhatrussia/blog/467105/
 Replacing Docker With Podman
     https://www.youtube.com/watch?v=N0hSn5EwW8w
 2018

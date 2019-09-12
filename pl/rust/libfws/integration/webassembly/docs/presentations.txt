@@ -1,4 +1,6 @@
 2019
+Cristofaro - Introduction to WebAssembly in Rust
+    https://www.youtube.com/watch?v=WONGc1zUxtc
 Rust, WebAssembly, and Javascript Make Three: An FFI Story
     https://www.infoq.com/presentations/rust-webassembly-javascript/
     ! good details

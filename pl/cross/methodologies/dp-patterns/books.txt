@@ -1,2 +1,4 @@
 2018
 Shvets - Diving into Projecting Patterns ru
+2017
+Shvets - Diving into Java Refactoring ru

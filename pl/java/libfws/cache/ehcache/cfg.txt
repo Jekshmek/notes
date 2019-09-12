@@ -1,0 +1,33 @@
+cfg
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-caching.html
+https://www.ehcache.org/documentation/3.8/xml.html
+https://www.ehcache.org/documentation/3.8/cache-event-listeners.html
+https://www.ehcache.org/documentation/3.8/107.html
+https://stackoverflow.com/questions/45338520/springboot-and-ehcache-multicacheexception
+http://qaru.site/questions/16713786/error-creating-bean-with-name-cachemanager-defined-in-class-path-resource
+
+jsr107
+https://www.ehcache.org/documentation/3.1/107.html
+    ! setStoreByValue(false) for non-serializable stuff
+https://www.ehcache.org/blog/2016/05/18/ehcache3_jsr107_spring.html
+
+cfg-api
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/package-frame.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/Configuration.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/CacheConfiguration.html
+    ! resource pools, eviction advisor, expiry policy, 
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/CacheRuntimeConfiguration.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/FluentCacheConfigurationBuilder.html
+cfg-builders
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/builders/package-frame.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/builders/UserManagedCacheBuilder.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/builders/ResourcePoolsBuilder.html
+    ! with ...
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/ResourcePool.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/SizedResourcePool.html
+    https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/ResourceUnit.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/ResourceType.html
+
+cfg-units
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/units/MemoryUnit.html
+https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/units/EntryUnit.html

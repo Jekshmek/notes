@@ -1,5 +1,10 @@
-https://habrahabr.ru/post/215577/
 https://github.com/stencila/images/tree/master/.shrink
 
 aur
     strace, strace-analyzer
+
+2018
+https://wizardzines.com/zines/strace/
+    https://habr.com/ru/company/first/blog/467093/
+????
+https://habrahabr.ru/post/215577/

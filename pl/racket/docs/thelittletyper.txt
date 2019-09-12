@@ -2335,3 +2335,21 @@ Another way of to phrase pem is
 
 
 ### 16. If It's All the Same to You
+
+(claim zero?
+    (PI ((j Nat))
+        (Dec
+            (= Nat zero j))))
+
+Note: For every Nat j it is decideable whether j is zero
+    (Dec
+        (= Nat zero j))
+and
+    (Either
+        (= Nat zero n)
+        (-> (= Nat zero n)
+            Absurd))
+are the same types
+
+(define zero?
+    (\ (j)
