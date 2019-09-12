@@ -22,6 +22,8 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb
+https://leewarrick.com/blog/react-use-effect-explained/
 Dodds - React Hook Pitfalls
     https://www.youtube.com/watch?v=VIRcX2X7EUk
 https://dev.to/chrisachard/react-hooks-mini-crash-course-4gcb

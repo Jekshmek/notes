@@ -1,1 +1,8 @@
 https://github.com/ehcache/sizeof
+
+https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/spi/store/heap/SizeOfEngineProvider.java
+DefaultSizeOfEngine
+https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/sizeof/DefaultSizeOfEngineTest.java
+https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/sizeof/DefaultSizeOfEngineProviderFactoryTest.java
+
+StoreConfigurationImpl
