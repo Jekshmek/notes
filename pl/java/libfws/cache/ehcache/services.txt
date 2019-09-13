@@ -1,0 +1,30 @@
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/resources/META-INF/services/org.ehcache.core.spi.service.ServiceFactory
+
+https://github.com/ehcache/ehcache3/tree/master/core/src/main/java/org/ehcache/core/spi
+https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/spi/ServiceLocator.java
+    getService
+    getServicesOfType
+
+https://github.com/ehcache/ehcache3/blob/master/core/src/test/java/org/ehcache/core/spi/ServiceLocatorTest.java
+
+
+https://github.com/ehcache/ehcache3/tree/master/core/src/main/java/org/ehcache/core/spi/service
+https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/spi/service/ServiceFactory.java
+    i-face
+
+
+
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/config/builders/UserManagedCacheBuilder.java
+    ...
+    public UserManagedCacheBuilder<K, V, T> using(Service service) {
+        UserManagedCacheBuilder<K, V, T> otherBuilder = new UserManagedCacheBuilder<>(this);
+        if (service instanceof SizeOfEngineProvider) {
+            removeAnySizeOfEngine(otherBuilder);
+        }
+        otherBuilder.services.add(service);
+        return otherBuilder;
+    }
+
+????
+https://github.com/ehcache/ehcache3/blob/master/api/src/main/java/org/ehcache/config/FluentConfigurationBuilder.java
+    ? withService

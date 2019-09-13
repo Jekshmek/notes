@@ -29,6 +29,44 @@ https://codespot.net/2012/01/04/measuring-java-object-sizes/
 https://github.com/ehcache/ehcache3/tree/master/core/src/main/java/org/ehcache/core/spi/store/heap
 https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/spi/store/heap/SizeOfEngineProvider.java
 https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/spi/store/heap/SizeOfEngine.java
+
+https://github.com/ehcache/ehcache3/tree/master/impl/src/main/java/org/ehcache/impl/internal/store/heap
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/store/heap/OnHeapStoreProviderFactory.java
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/store/heap/OnHeapStore.java
+    ... BaseStore ...
+    ...
+    @Override
+    public void start(ServiceProvider<Service> serviceProvider) {
+        this.serviceProvider = serviceProvider;
+    }
+        called by ServiceLocator
+            public void startAllServices() {
+                ...
+                s.start(this);
+                ...
+            }
+        https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/EhcacheManager.java
+            init() ... startAllServices
+
+    ...
+    public <K, V> OnHeapStore<K, V> createStoreInternal(Configuration<K, V> storeConfig, StoreEventDispatcher<K, V> eventDispatcher,
+                                                        ServiceConfiguration<?, ?>... serviceConfigs) {
+        ...
+        SizeOfEngineProvider sizeOfEngineProvider = getServiceProvider().getService(SizeOfEngineProvider.class);
+        ...
+    }
+    ...
+    private OnHeapValueHolder<V> makeValue(K key, V value, long creationTime, long expirationTime, Copier<V> valueCopier, boolean size) throws LimitExceededException {
+    ...
+    private OnHeapValueHolder<V> cloneValueHolder(K key, ValueHolder<V> valueHolder, long now, Duration expiration, boolean sizingEnabled) throws LimitExceededException {
+    ...
+    private OnHeapValueHolder<V> newUpdateValueHolder(K key, OnHeapValueHolder<V> oldValue, V newValue, long now, StoreEventSink<K, V> eventSink) { ... makeValue(...) ... }
+    private OnHeapValueHolder<V> newCreateValueHolder(K key, V value, long now, StoreEventSink<K, V> eventSink) { ... makeValue(...) ... }
+    ...
+
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/store/heap/OnHeapStrategy.java
+https://github.com/ehcache/ehcache3/tree/master/impl/src/main/java/org/ehcache/impl/internal/store/heap/holders
+
 https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/store/heap/bytesized/ByteSizedOnHeapStoreByValueTest.java
 https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/store/heap/bytesized/ByteSizedOnHeapStoreByRefTest.java
 https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/store/heap/bytesized/OnHeapStoreCachingTierByRefSPITest.java
@@ -37,12 +75,21 @@ https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/i
     ! creating custom newStore
       static class OnHeapStoreForTests<K, V> extends OnHeapStore<K, V> { ... }
 
+https://github.com/ehcache/ehcache3/blob/master/impl/src/test/java/org/ehcache/impl/internal/store/heap/OnHeapStoreEvictionTest.java
+
+
 https://github.com/ehcache/ehcache3/tree/master/impl/src/main/java/org/ehcache/impl/internal/sizeof
 https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/sizeof/DefaultSizeOfEngineProviderFactory.java
+    @Component
+    public class DefaultSizeOfEngineProviderFactory implements ServiceFactory<SizeOfEngineProvider> {
+        ...
+    }
+    ...
     https://github.com/ehcache/ehcache3/blob/master/impl/src/main/resources/META-INF/services/org.ehcache.core.spi.service.ServiceFactory
-    ...
+        org.ehcache.impl.internal.store.heap.OnHeapStoreProviderFactory
+        ...
         org.ehcache.impl.internal.sizeof.DefaultSizeOfEngineProviderFactory
-    ...
+        ...
 https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/sizeof/DefaultSizeOfEngineProvider.java
 https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/impl/internal/sizeof/DefaultSizeOfEngine.java
 
@@ -103,3 +150,9 @@ http://forums.terracotta.org/forums/posts/list/6244.page
     -Dnet.sf.ehcache.sizeofengine.default.[CACHE NAME]=com.org.VBT2SizeOfEngine 
 https://stackoverflow.com/questions/52787621/ehcache-3-size-in-memory
     https://github.com/ehcache/ehcache3/issues/2500
+
+issues
+https://github.com/ehcache/ehcache3/issues/616
+    https://github.com/ehcache/sizeof/issues/28
+https://github.com/ehcache/ehcache3/issues/820
+    https://github.com/ljacomet/ehcache3/commit/5ed129183a624a92ba3d75cbb0168367a14fcafd
