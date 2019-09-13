@@ -11,3 +11,15 @@ sample
     userManagedCache.init(); 
     userManagedCache.put(1L, "da one!"); 
     userManagedCache.close(); 
+
+
+https://github.com/ehcache/ehcache3/blob/master/impl/src/main/java/org/ehcache/config/builders/UserManagedCacheBuilder.java
+    ...
+    public UserManagedCacheBuilder<K, V, T> using(Service service) {
+        UserManagedCacheBuilder<K, V, T> otherBuilder = new UserManagedCacheBuilder<>(this);
+        if (service instanceof SizeOfEngineProvider) {
+            removeAnySizeOfEngine(otherBuilder);
+        }
+        otherBuilder.services.add(service);
+        return otherBuilder;
+    }

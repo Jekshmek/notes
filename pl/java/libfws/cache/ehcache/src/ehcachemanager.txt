@@ -49,3 +49,14 @@ public class EhcacheManager implements PersistentCacheManager, InternalCacheMana
         return builder.build();
     }
 
+    // ??? configuration.getServiceCreationConfigurations
+    https://github.com/ehcache/ehcache3/blob/master/api/src/main/java/org/ehcache/config/Configuration.java
+        ...
+        Collection<ServiceCreationConfiguration<?, ?>> getServiceCreationConfigurations();
+    https://github.com/ehcache/ehcache3/blob/master/core/src/main/java/org/ehcache/core/config/DefaultConfiguration.java
+        ...
+        public DefaultConfiguration(Map<String, CacheConfiguration<?, ?>> caches, ClassLoader classLoader, ServiceCreationConfiguration<?, ?>... services) {
+            this.services = unmodifiableCollection(Arrays.asList(services)); // !!!
+            this.caches = new ConcurrentHashMap<>(caches);
+            this.classLoader = classLoader == null ? ClassLoading.getDefaultClassLoader() : classLoader;
+        }
