@@ -6,11 +6,6 @@ https://www.ehcache.org/documentation/3.8/107.html
 https://stackoverflow.com/questions/45338520/springboot-and-ehcache-multicacheexception
 http://qaru.site/questions/16713786/error-creating-bean-with-name-cachemanager-defined-in-class-path-resource
 
-jsr107
-https://www.ehcache.org/documentation/3.1/107.html
-    ! setStoreByValue(false) for non-serializable stuff
-https://www.ehcache.org/blog/2016/05/18/ehcache3_jsr107_spring.html
-
 cfg-api
 https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/package-frame.html
 https://www.ehcache.org/apidocs/3.8.0/org/ehcache/config/Configuration.html

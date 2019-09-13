@@ -60,9 +60,11 @@ Chung - Elementary Probability Theory 4th ed ru !!!
     60DCEDD2030C9C6273B5FDD5D7103C30
 
 2013
+Gorlach - 2013 - Probability Theory and Math Statistics ru
+    1CF076618A572322654E1D7272A5D309
+    !
 Semenov - Probability Theory and Math Statistics ru !
 Hastie - The Elements of Statistical Learning 2nd ed
-Gorlach - Probability Theory and Math Statistics ru !
 
 2012
 Turchin - Probability Theory and Math Statistics ru

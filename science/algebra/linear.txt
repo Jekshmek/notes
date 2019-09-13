@@ -19,6 +19,13 @@ Karchevskiy - Linear Algebra and Analytic Geometry Lections ru
     9D699AA66B8156339DB3DD4D1743BAEA
     2011
     22C2F42CC98A48EC361BA84BC67FA35B
+2017
+Gorlach - Linear Algebra and Analytical Geometry ru
+    2EC59ECE3C3E42B26AF5C3817225BD63
+    ! blury scan
+2012
+Gorlach - Linear Algebra ru
+    D1E6535216A2B81110974FDC9CD86D3B
 
 2001
 ButuzovKrutitskayaShishkin - Linear Algebra in Questions and Problems ru

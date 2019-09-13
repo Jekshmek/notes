@@ -3,6 +3,9 @@ https://github.com/http4k/http4k/
 
 https://github.com/http4k/http4k-bootstrap
 
-articles:
+docs
+https://www.http4k.org/tutorials/documenting_apis_with_openapi/
+
+articles
 https://www.http4k.org/blog/meet_http4k/
 https://www.http4k.org/blog/typesafe_websockets/

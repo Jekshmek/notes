@@ -2353,3 +2353,13 @@ are the same types
 
 (define zero?
     (\ (j)
+        (ind-Nat j
+            (\ (k)
+                (Dec
+                    (= Nat zero k)))
+            (left
+                (same zero))
+            (\ (j-1 zero?_n-1)
+                (right
+                    (zero-not-add1 j-1))))))
+
