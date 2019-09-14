@@ -1,4 +1,6 @@
 2019
+DosReis - CPPP 2019 - C++ Modules: What You Should Know
+    https://www.youtube.com/watch?v=MP6SJEBt6Ss
 Adelstein - Modules are Coming
     https://www.youtube.com/watch?v=bDTm6y6fNSU
 http://eao197.blogspot.com/2019/03/progc-cmodules-there-is-no-place-for.html
