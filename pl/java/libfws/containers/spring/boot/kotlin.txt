@@ -1,5 +1,8 @@
 https://blog.pusher.com/getting-started-rest-kotlin-using-spring-boot/
 
+2019
+Frankel - From Spring Boot Apps to Functional Kotlin
+    https://www.youtube.com/watch?v=f6a78mCrSeE
 2018
 Spring, the Kotlin and Functional Way
     https://www.youtube.com/watch?v=MUGS0i-JXZU

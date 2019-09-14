@@ -15,3 +15,6 @@ Stopford - Designing Event-Driven Systems
 2017
 NarkhedeShapiraPalino - Kafka the Definitive Guide
     C3C39B1040E074DCA83A61D833ACF667
+https://www.oreilly.com/library/view/understanding-message-brokers/9781492049296/
+    https://habr.com/ru/post/466585/
+    https://habr.com/ru/post/466385/
