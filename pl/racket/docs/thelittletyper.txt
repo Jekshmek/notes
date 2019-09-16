@@ -2363,3 +2363,24 @@ are the same types
                 (right
                     (zero-not-add1 j-1))))))
 
+In fact, for every 2 natural numbers n and j,
+it is decidable whether n equal j
+
+(claim nat=?
+    (PI ((n Nat)
+         (j Nat))
+        (Dec
+            (= Nat n j))))
+
+(claim mot-nat=?
+    (-> Nat
+        U))
+(define mot-nat=?
+    (\ (k)
+        (PI ((j Nat))
+            (Dec
+                (= Nat k j)))))
+
+(define nat=?
+    (\ (n j)
+        ((ind-Nat n

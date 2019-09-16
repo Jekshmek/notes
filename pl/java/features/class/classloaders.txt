@@ -3,3 +3,6 @@ Extension ($JAVA_HOME/jre/lib/ext/*.jar)
 System    ($CLASSPAT)
 
 User-based classloaders inherit the System-one
+
+2019
+https://www.baeldung.com/java-classloaders

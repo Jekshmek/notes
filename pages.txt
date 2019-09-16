@@ -10,11 +10,9 @@ https://ru-bykov.livejournal.com/3928394.html
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
 https://ru-bykov.livejournal.com/3936805.html
-https://ru-bykov.livejournal.com/3970377.html
-    2
+    1
 https://zen.yandex.ru/id/5d2af8e495aa9f00b1bec6ba
 https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
-https://blog.predanie.ru/article/pro-nasilnoe-kreshhenie-rebenka/
 https://blog.predanie.ru/article/post-dlya-zapushhennyh-hristian/
 Bogdanov - Geometric Puzzles
     https://chitatel.by/catalog/book/1275533
@@ -331,10 +329,10 @@ Kantor - Medlennye Chelyusti Demokratii             - 1363.0   (of 1388)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  84..90  (of  338)
 Myshkis - Soviet Mathematicians ru                  -  72..74  (of  302)
 Solynin - Exodus ru                                 - 190..197 (of  223)
-Shalyto - motivation                                - 328      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  66..75  (of 208)
+Shalyto - motivation                                - 330      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  68..75  (of 208)
 Bardin                                              -  16..    (of 146)
-The Little Typer - 15                               - 360..370 (of 375..418)
+The Little Typer - 15                               - 362..370 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

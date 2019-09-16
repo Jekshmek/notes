@@ -1,0 +1,11 @@
+http://bytebuddy.net/javadoc/1.10.1/net/bytebuddy/asm/Advice
+https://www.programcreek.com/java-api-examples/?api=net.bytebuddy.asm.Advice
+
+qa
+https://stackoverflow.com/questions/44747219/byte-buddy-advice-onmethodexit-constructor-retransformation
+issues
+https://github.com/raphw/byte-buddy/issues/143
+https://github.com/raphw/byte-buddy/issues/459
+
+2017
+https://www.javacodegeeks.com/2017/07/instrumenting-java-web-applications-without-modifying-source-code.html

@@ -1,4 +1,8 @@
-2017:
+2019
+https://reflectoring.io/spring-boot-starter/
+    https://github.com/thombergs/code-examples/tree/master/spring-boot/starter
+
+2017
 JavaJam - Tolkachev, Gorelikov - Why write a custom starter
 https://www.youtube.com/watch?v=CNVlhnO4UzE
 

@@ -9,6 +9,8 @@ Mauerer - Professional Linux Kernel Architecture
 
 whatsnew
 5.x
+https://lkml.org/lkml/2019/9/15/241
+    http://www.opennet.ru/opennews/art.shtml?num=51447
 https://lkml.org/lkml/2019/7/7/281
     http://www.opennet.ru/opennews/art.shtml?num=51051
 https://lkml.org/lkml/2019/5/5/278

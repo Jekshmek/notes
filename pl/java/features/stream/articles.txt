@@ -1,4 +1,5 @@
 2019
+https://www.baeldung.com/java-collection-stream-foreach
 https://4comprehension.com/a-new-jdk12-stream-api-collector-collectorsteeing/
 2018
 https://dzone.com/articles/the-ultimate-guide-to-the-java-stream-api-grouping

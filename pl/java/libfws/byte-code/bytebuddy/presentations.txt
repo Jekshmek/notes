@@ -1,0 +1,6 @@
+2018
+https://www.slideshare.net/jyukutyo/bytecode-manipulation-with-a-java-agent-and-byte-buddy
+2014
+https://www.slideshare.net/RafaelWinterhalter/runtime-code-generation-for-the-jvm
+https://www.slideshare.net/RafaelWinterhalter/java-byte-code-in-practice
+https://www.slideshare.net/RafaelWinterhalter/understanding-java-byte-code-and-the-class-file-format
