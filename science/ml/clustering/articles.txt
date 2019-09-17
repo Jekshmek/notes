@@ -1,4 +1,6 @@
 2019
+https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6
+    https://habr.com/ru/company/jetinfosystems/blog/467745/
 https://habr.com/ru/post/461721/
 2018
 https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
