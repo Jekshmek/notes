@@ -1,0 +1,4 @@
+https://github.com/microsoft/STL
+
+2019
+https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/

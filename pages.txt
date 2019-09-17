@@ -1,4 +1,6 @@
 URLs
+https://ru-bykov.livejournal.com/4092614.html
+...
 https://ru-bykov.livejournal.com/3988555.html
 https://ru-bykov.livejournal.com/3981588.html
 https://ru-bykov.livejournal.com/3980843.html
@@ -201,11 +203,11 @@ Toffler - 3rd Wave
 
 
 Video
+Truschin - Math Circle                                  41:00 (of 1:24:34)
+    https://www.youtube.com/watch?v=NacmB5WccqU
 Reinhold - Java, Today and Tomorrow
     https://www.youtube.com/watch?v=kpio9jFhpD8
-Psoy                                                -   22:00 (of 1:38:15)
-                                                    -   19:00
-    https://www.youtube.com/watch?v=XqS3kVQULSI
+Psoy                                                -   01:00 ()
     https://www.youtube.com/watch?v=ixq7IbgFOSA
     https://www.youtube.com/watch?v=TQCLLM0Hp5c
 Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
@@ -216,8 +218,6 @@ Skopenkov - Teaching Derivative using Olympiad Problems 18:00 (of 1:13:38)
         luchshaya neformalnaya kniga po mat-analisu
     Colorings
         https://www.youtube.com/watch?v=9olfTXdkYzo
-Truschin - Math Circle                                  33:00 (of 1:24:34)
-    https://www.youtube.com/watch?v=NacmB5WccqU
 Prokopenko - Geom in Moscow fmsh 2007
     https://www.youtube.com/watch?v=y1B-vy9WM34
     http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
@@ -296,7 +296,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - I 62                                      -   01:00 (of 1:05:24)
+Sorokin - I 63                                      -   01:00 (of 1:05:15)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
