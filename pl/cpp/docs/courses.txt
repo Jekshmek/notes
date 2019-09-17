@@ -10,6 +10,8 @@ https://www.youtube.com/user/iamcanadian1867
 2019
 Lesin - Cpp programming ru
     https://www.youtube.com/playlist?list=PLwwk4BHih4fgfHzqqGsh_7JkE84U-EwhT
+Lesin - CSC - Cpp Programming Part 2
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN
 2018
 TrempoltsevSmirnov - Deep Cpp Programming ru
     https://www.youtube.com/playlist?list=PLrCZzMib1e9qjGLjg83bCksf3N7FIy7jg
@@ -19,6 +21,8 @@ StenenkoGatilov - Algorithms and Data Science parts 1,2
         https://compscicenter.ru/courses/algorithms-2/nsk/2018-spring/
     https://www.youtube.com/playlist?list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
         https://compscicenter.ru/courses/algorithms-1/nsk/2017-autumn/
+Lesin - CSC - Cpp Programming Part 1
+    https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL
 2017
 https://www.youtube.com/playlist?list=PLbHYdvrWBMxY9onUxT2l7-ZyuFEEI8Qpv
 Petrov - Deep Cpp
