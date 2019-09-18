@@ -1,3 +1,7 @@
+2019
+RustConf
+https://www.youtube.com/playlist?list=PL85XCvVPmGQhDOUIZBe6u388GydeACbTt
+
 2018
 https://video.fosdem.org/2018/H.2214/
 RustFest Paris

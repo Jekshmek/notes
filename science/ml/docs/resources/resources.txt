@@ -6,6 +6,9 @@ https://proglib.io/p/learning-ml/
 
 https://habrahabr.ru/company/spbifmo/blog/326894/
 
+Rohrer - Talks
+    https://www.youtube.com/playlist?list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa
+
 misc
 https://paperswithcode.com/sota
 
