@@ -1,7 +1,9 @@
 tasks:
-dep[endencies] [--configuration compile|test|...]
-    list transitive dependencies
-        org.slf4j:slf4j-api:1.7.7 -> 1.7.12 (conflict resolution)
+    dep[endencies] [--configuration compile|test|...]
+        list transitive dependencies
+            org.slf4j:slf4j-api:1.7.7 -> 1.7.12 (conflict resolution)
+    dependencyInsight
+        ???
 
 list lGroovy = ["...grovy-all:2.3.10@jar", ...]
 
