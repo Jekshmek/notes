@@ -14,6 +14,9 @@ Astryab - Visual Geometry Problemsbook ru
 Astryab - Visual Geometry 6th ed ru
     0888EA5C50148EB6AE8DE43D425B25D3
     F9CA9A9EB3E11AF746BBF51606A6C642
+Kavun - Geometry Beginning Course ru
+    E72A30A1F46B927D25B1674329DD48F7
+    178C8C0DD34595DCE990CE2E290AD6A1
 1902
 Efremov - New Geometry of Triangle ru
     http://zadachi.mccme.ru/ngt/index.html

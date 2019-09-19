@@ -12,6 +12,14 @@ KolmogorovFomin - Elements of Functions Theory and Functional Analysis ru
 Kirkinskiy - Math Analysis ru
     CDE1977D05ACAEF32D05F5FE6DCF0EC7
     BA2D628DA61337187BC6A84F0979C21B
+GurovaKarolinskayaOsipova - Mathematical Analysis Beginning Course with Samples and Problems 2nd ed ru
+    E26E7839D417360CD80CC3D7D4AF6F0A
+    1-st ed 2002
+    09E76CFC462D00068086B5D1B6758018
+    C29C8A6C71ECFE63AD00C9BDFFDECD25
+    001D649B57C17266E82F4F87ABB5FF75
+    1BE70F60BF5463CA51FE78C50AF42914
+    C8DBF4AF4A9C717FB12736A248604214
 2005
 Spivak - Math Analysis on Manifolds ru
     https://lanbook.com/catalog/matematika/matematicheskij-analiz-na-mnogoobraziyah-5235206/

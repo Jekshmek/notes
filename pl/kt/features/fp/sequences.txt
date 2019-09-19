@@ -1,6 +1,7 @@
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.sequences/-sequence/index.html
 
 2019
+https://typealias.com/guides/when-to-use-sequences/
 https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca
     https://nuancesprog.ru/p/4603
 https://typealias.com/guides/inside-kotlin-sequences/

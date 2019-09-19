@@ -308,7 +308,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 303
+This week in rust                                   - 304
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 152
@@ -322,15 +322,15 @@ Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  36..38  (of 74)
 Platov - Secret Farvater ru                         -   47.6   (of  888)
-Zhitinskiy - Lost House ru                          -  997.0   (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1363.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  84..90  (of  338)
-Myshkis - Soviet Mathematicians ru                  -  72..74  (of  302)
-Solynin - Exodus ru                                 - 190..197 (of  223)
-Shalyto - motivation                                - 330      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  68..75  (of 208)
-Bardin                                              -  16..    (of 146)
-The Little Typer - 15                               - 362..370 (of 375..418)
+Zhitinskiy - Lost House ru                          - 1022.0   (of 1150)
+Kantor - Medlennye Chelyusti Demokratii             - 1367.0   (of 1388)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  86..90  (of  338)
+Myshkis - Soviet Mathematicians ru                  -  74..96  (of  302)
+Solynin - Exodus ru                                 - 198..204 (of  223)
+Shalyto - motivation                                - 332      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  70..75  (of 208)
+Bardin                                              -  18..35  (of 146)
+The Little Typer - 15                               - 364..370 (of 375..418)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

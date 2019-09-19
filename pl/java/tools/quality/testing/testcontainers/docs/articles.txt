@@ -1,10 +1,12 @@
-2017:
+2019
+https://solidstudio.io/blog/api-testing.html
+2017
 https://habrahabr.ru/company/jugru/blog/343298/
 https://zeroturnaround.com/rebellabs/java-integration-testing-with-testcontainers/
     https://github.com/bsideup/javaagent-boilerplate
 https://medium.com/@bsideup/testing-your-docker-containers-with-testcontainers-and-groovy-3b9ef97ad1c2
 https://github.com/bsideup/testing-docker-images-with-testcontainers
-2016:
+2016
 https://rnorth.org/better-junit-selenium-testing-with-docker-and-testcontainers
 https://rnorth.org/fun-with-disque-java-and-spinach
 https://rnorth.org/junit-integration-testing-with-docker-and-testcontainers

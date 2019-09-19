@@ -3,3 +3,8 @@ https://clang.llvm.org/extra/clang-tidy/checks/list.html
 
 samples
 CXX=clang++ CXXFLAGS="-Xclang -add-plugin -Xclang clang-tidy -Xclang -plugin-arg-clang-tidy -Xclang -checks='-*, clang-analyzer-core.*'" juci [project-path]
+
+2019
+Demeule - Adding a New clang-tidy Check by the Practice
+    https://www.youtube.com/watch?v=K-WhaEUEZWc
+    https://github.com/cppp-france/CPPP-19/tree/master/adding_a_new_clang-tidy_check-Jeremy_Demeule
