@@ -9,6 +9,7 @@ Practical Deep Learning for Coders v3
     https://course.fast.ai/
     https://www.fast.ai/2019/01/24/course-v3/
     https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn
+    http://course18.fast.ai/
 DataScientists - Deep Learning
     https://www.youtube.com/playlist?list=PLnp9m9snUe9JR5FwYGivBVw9FEFStVUOA
 DataScientists - Express Deep Learning Course
