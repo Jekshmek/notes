@@ -6,3 +6,5 @@ User-based classloaders inherit the System-one
 
 2019
 https://www.baeldung.com/java-classloaders
+https://medium.com/javarevisited/java-virtual-machine-internals-class-loader-eea706eb37d9
+    https://habr.com/ru/company/otus/blog/468193/
