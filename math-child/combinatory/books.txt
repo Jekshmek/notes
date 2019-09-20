@@ -76,6 +76,9 @@ Vilenkin - Combinatorics ru
 2004
 Hu - Combinatorial Algorithms ru
 Sachkov - Discrete Math Combinatorial Methods Introduction ru
+Ostanina - Secrets of Great Combinator ru
+    https://vk.com/doc93277543_466782123?hash=23bf9c047d7ae78017
+    ! for children
 
 2003
 Kohas - Castle Numbers and Polynoms ru

@@ -1,6 +1,9 @@
 Coding Tech - WebAssembly
 https://www.youtube.com/playlist?list=PLFjq8z-aGyQ78CQu1G3C5CT9ieiNpsnbJ
+
 2019
+Smith - Applied WebAssembly Compiling and Running C++ in Your Web Browser
+    https://www.youtube.com/watch?v=ge_2pK2ORNs
 Phelps - WebAssembly. Neither Web Nor Assembly, All Revolutionary
     https://www.infoq.com/presentations/webassembly-intro
 Nagih - WebAssembly real samples
