@@ -1,7 +1,12 @@
 # C++ 11 Lambdas
 
+## Reference
+
+* [cppreference] (https://en.cppreference.com/w/cpp/language/lambda)
+
 ## Articles
 
+* [Learn Lambda function in C++ with example] (http://www.vishalchovatiya.com/learn-lambda-function-in-cpp-with-example)
 * [Flipek - Lambdas: from C++11 to C++20, part 2] (https://www.bfilipek.com/2019/03/lambdas-story-part2.html)
 * [-//- ru translation, part 2] (https://habr.com/ru/company/otus/blog/455978/)
 * [Flipek - Lambdas: from C++11 to C++20, part 1] (https://www.bfilipek.com/2019/02/lambdas-story-part1.html)
