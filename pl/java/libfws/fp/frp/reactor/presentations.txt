@@ -1,3 +1,9 @@
+2019
+Egorov - Don't be a Gomer Simpson
+    https://www.youtube.com/watch?v=MU4wjB5CE-c
+BorisovTolkachev - Reactive or not Reactive
+    https://www.youtube.com/watch?v=mX19FWX2_Hs
+    https://assets.ctfassets.net/oxjq45e8ilak/XWDluqycUS99kzXnwc3dW/0a33d09661635498c8b2acae7a4282cd/Kirill_Tolkachev_Evgeny_Borisov_Spring__Reactive_or_not_Reactive.pdf
 2018
 Maldini - What's New in Reactor "Californium"
     https://www.infoq.com/presentations/reactor-californium

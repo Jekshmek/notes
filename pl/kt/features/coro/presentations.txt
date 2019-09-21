@@ -1,4 +1,6 @@
 2019
+Koval - How we implemented channel algo
+    https://www.youtube.com/watch?v=cdpQMDgQP8Y
 Saund - Concurrency doesn't have to be hard
     https://www.youtube.com/watch?v=3WGM-_MnPQA
 Elizarov - Server-side Kotlin with Coroutines

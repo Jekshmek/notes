@@ -1,6 +1,8 @@
 https://flaviocopes.com/console-api/
 
 2019
+https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a
+    https://habr.com/ru/company/plarium/blog/468189/
 https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b
 https://areknawo.com/getting-creative-with-the-console-api/
 2018

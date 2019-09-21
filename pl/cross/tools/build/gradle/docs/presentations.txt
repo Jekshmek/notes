@@ -1,0 +1,6 @@
+2019
+Groschke — Improve Java build performance with Gradle 5
+    https://www.youtube.com/watch?v=0YeZVUoNJck
+Plizga - Moving Spring Boot Microservices from Java 8 to Java 11
+    https://www.youtube.com/watch?v=fmLW7VkSuN8
+    https://assets.ctfassets.net/oxjq45e8ilak/4YJwPsTIYjaBYsfZjZdsu6/77167737917f94faa9e2ed370f421063/Vladimir_Plizga_Perevod_Spring_Boot-mikroservisov_s_Java_8_na_11_chto_mozhet_poyti_ne_tak.pdf

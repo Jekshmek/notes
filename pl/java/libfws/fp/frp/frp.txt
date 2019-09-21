@@ -2,6 +2,9 @@ articles
 https://habrahabr.ru/post/327460/
 
 presentations
+2019
+Nurkiewicz — Reactive programming lessons learned
+    https://www.youtube.com/watch?v=z0a0N9OgaAA
 2018
 Davis - Get Reactive! Programming, Systems, and Microservices
     https://www.youtube.com/watch?v=78YTqGpXnUE
