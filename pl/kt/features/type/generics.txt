@@ -1,6 +1,7 @@
 https://kotlinlang.org/docs/reference/generics.html
 
 2019
+https://www.raywenderlich.com/3634394-kotlin-generics-tutorial-getting-started
 https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/
 
 2018
