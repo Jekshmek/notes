@@ -2395,7 +2395,22 @@ The type of base is
         (use-Nat= (add1 n) zero)))
 
 (claim dec-add1=
-    (
+    (PI ((n-1 Nat)
+         (j-1 Nat))
+        (-> (Dec
+                (= Nat n-1 j-1))
+            (Dec
+                (= Nat (add1 n-1) (add1 j-1))))))
+(define dec-add1=
+    (\ (n-1 j-1 eq-or-not)
+        (ind-Either
+            (\ (target)
+                (Dec
+                    (= Nat
+                        (add1 n-1)
+                        (add1 j-1))))
+            ...
+            ...)))
 
 (claim step-nat=?
     (PI ((n-1 Nat))
