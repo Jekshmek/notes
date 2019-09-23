@@ -208,9 +208,9 @@ Toffler - 3rd Wave
 Video
 Alisa                                               -   15:00
     https://www.youtube.com/watch?v=DjoZ-IORiL8
-Truschin - Math Circle                                  41:00 (of 1:24:34)
+Truschin - Math Circle                                  49:00 (of 1:24:34)
     https://www.youtube.com/watch?v=NacmB5WccqU
-Reinhold - Java, Today and Tomorrow
+Reinhold - Java, Today and Tomorrow                 -   11:00 (of   50:37)
     https://www.youtube.com/watch?v=kpio9jFhpD8
 Psoy                                                -   03:00 (of   28:08)
     https://www.youtube.com/watch?v=TQCLLM0Hp5c
@@ -222,6 +222,18 @@ Skopenkov - Teaching Derivative using Olympiad Problems 18:00 (of 1:13:38)
         luchshaya neformalnaya kniga po mat-analisu
     Colorings
         https://www.youtube.com/watch?v=9olfTXdkYzo
+Ponomorev - 2015 - CPM                              - 17:24   (of   50:45)
+    https://www.youtube.com/watch?v=IId7Dddp7mY
+    https://vk.com/cpm77
+    http://hamovniki.olimpiada.ru/
+    https://cpm.dogm.mos.ru/
+    http://math.mosolymp.ru/
+    http://math.mosolymp.ru/archive
+    http://math.mosolymp.ru/2018_khamovniki
+    http://math.mosolymp.ru/archive_training
+    http://math.mosolymp.ru/upload/files/training/2018-11/Integral[source-link]-linearized.pdf
+Pukas !!!
+    https://www.youtube.com/watch?v=DSsJkgHbTPs
 Prokopenko - Geom in Moscow fmsh 2007
     https://www.youtube.com/watch?v=y1B-vy9WM34
     http://www.fmsh2007.ru/fileadmin/user_upload/matematika/ResursCenter/Vertical_2018-19/sb_23_full.pdf
@@ -300,7 +312,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - I 64                                      -   01:00 (of 1:32:50)
+Sorokin - I 65                                      -   01:00 (of 1:21:20)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-ishod/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
