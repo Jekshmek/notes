@@ -13,6 +13,8 @@ Trask - Grokking Deep Learning
     https://habr.com/ru/company/piter/blog/464509/
 Molnar - Interpretable Machine Learning
     https://christophm.github.io/interpretable-ml-book/
+Foster - Generative Deep Learning
+    E6D06564013B3B6742F48C5B770F5A47
 
 2018
 NikolenkoKadurin - Deep Learning ru

@@ -2406,11 +2406,16 @@ The type of base is
         (ind-Either
             (\ (target)
                 (Dec
-                    (= Nat
-                        (add1 n-1)
-                        (add1 j-1))))
-            ...
-            ...)))
+                    (= Nat (add1 n-1) (add1 j-1))))
+            (\ (yes)
+                (left
+                    (cong yes (+1))))
+            (\ (no)
+                (right
+                    (\ (n=j)
+                        (no
+                            (sub1= n-1 j-1
+                                n=j))))))))
 
 (claim step-nat=?
     (PI ((n-1 Nat))
@@ -2425,13 +2430,17 @@ The type of base is
             (right
                 (add1-not-zero n-1))
             (\ (j-1 nat=?_n-1)
-                ...))))
+                (dec-add1= n-1 j-1
+                    (nat=?_n-1 j-1))))))
 
 (define nat=?
     (\ (n j)
         ((ind-Nat n
             mot-nat=?
             zero?
-            ...)
+            step-nat=?)
         j)))
+
+
+### The Way Forward ###
 

@@ -6,6 +6,16 @@ Nurligareev - Selfsimilar Tiling ru
     https://elementy.ru/kartinka_dnya/731/Samopodobnye_zamoshcheniya
 Nurligareev - Robinson Mosaic
     https://elementy.ru/kartinka_dnya/697/Mozaika_Robinsona
+Savvateev - Chess Bozrd, tiling
+    https://www.youtube.com/watch?v=KMv05sC7cIQ
+Savvateev - Plane Filling
+    https://www.youtube.com/watch?v=FR02aPYcHQw
+    https://www.youtube.com/watch?v=dEeGiWs0lt8
+    !!!
+    https://nplus1.ru/material/2015/08/21/angles-and-corners
+    https://perso.ens-lyon.fr/michael.rao/publi/penta.pdf
+Shen - Zamoscheniya
+    https://www.youtube.com/playlist?list=PLFAUjUzyuqi8ioUSuikWncOiXQLCigkH7
 
 2017
 Vavilov - Lection in Sirius
@@ -13,12 +23,28 @@ Vavilov - Lection in Sirius
 Smirnov - Zamoscheniya
     https://www.youtube.com/watch?v=gTMPU-Mw1-M
     http://www.mathnet.ru/present18250
+Pronina - Zamoscheniya
+    https://www.youtube.com/watch?v=3Lvw8LXioyQ
 
 2015
 Baranov Baranova - Extreme Problems of Discrete Math - Coloring Method ru
     http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf
 
+2014
+Kozhahmetova - Zamoscheniya, pokrytiya
+    https://www.youtube.com/watch?v=Wwj-inxLx3g
+Feldman - Kvantik - Domino Tiling
+    https://www.youtube.com/watch?v=RusRKslCjJM
+Feldman - Kvantik - Parkets
+    https://www.youtube.com/watch?v=59-LzbUS8ZU
+
 2013
+Vavilov - Domino Tiling
+    https://www.lektorium.tv/course/22900
+    https://www.youtube.com/watch?v=N60aB6nLVP8
+    https://www.youtube.com/watch?v=hSnSAPDwHG4
+    https://www.youtube.com/watch?v=lgPN45eEvfw
+    !!!
 Nurligareev  - About Multifoliate Reqular Parquets at Plane ru
     18C1FAE8928A03F99D4B6A95AC569178
     ! only 5 pages, good references

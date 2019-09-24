@@ -2,8 +2,7 @@ https://www.21vek.by/toasters/hd258100_philips.html
 https://blog.predanie.ru/article/post-dlya-zapushhennyh-hristian/
 URLs
 https://ru-bykov.livejournal.com/3988555.html
-https://ru-bykov.livejournal.com/3981588.html
-    3
+    2
 https://ru-bykov.livejournal.com/3980843.html
 https://ru-bykov.livejournal.com/3980757.html
 https://ru-bykov.livejournal.com/3981080.html
@@ -339,16 +338,15 @@ OpenSSL Cookbook                                    -  29      (of 58)
 Vertgeiter                                          -  30      (of 190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  36..38  (of 74)
-Platov - Secret Farvater ru                         -   47.6   (of  888)
-Zhitinskiy - Lost House ru                          - 1083.0   (of 1150)
+Zhitinskiy - Lost House ru                          - 1108.0   (of 1150)
 Kantor - Medlennye Chelyusti Demokratii             - 1370.0   (of 1388)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  90..101 (of  338)
-Myshkis - Soviet Mathematicians ru                  -  78..96  (of  302)
-Solynin - Exodus ru                                 - 217..223 (of  223)
-Shalyto - motivation                                - 336      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  74..75  (of 208)
-Bardin                                              -  22..35  (of 146)
-The Little Typer - 15                               - 368..370 (of 375..418)
+Mordkovich - Talks with Math Teachers 2nd ed ru     -  92..101 (of  338)
+Myshkis - Soviet Mathematicians ru                  -  80..96  (of  302)
+Platov - Secret Farvater ru                         -  76.0    (of  888)
+Shalyto - motivation                                - 338      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  76..82  (of 208)
+Bardin                                              -  24..35  (of 146)
+The Little Typer - 15                               - 372..375 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
