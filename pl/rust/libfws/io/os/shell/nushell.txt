@@ -1,7 +1,14 @@
 https://www.nushell.sh/
 https://crates.io/crates/nu
-https://book.nushell.sh/
 https://github.com/nushell/nushell
 
+https://book.nushell.sh/
+https://book.nushell.sh/en
+
+https://github.com/nushell/nushell/tree/master/docs
+https://github.com/nushell/nushell/blob/master/docs/philosophy.md
+https://github.com/nushell/nushell/blob/master/docs/docker.md
+
 2019
+http://www.jonathanturner.org/2019/09/nushell_0_3_0.html
 http://www.opennet.ru/opennews/art.shtml?num=51375

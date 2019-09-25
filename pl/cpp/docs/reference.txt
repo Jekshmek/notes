@@ -11,6 +11,9 @@ https://msdn.microsoft.com/en-us/library/3bstk3k5(v=vs.140).aspx
 
 https://github.com/jeaye/stdman
 
+2019
+Lospinoso - Cpp Crash Course
+    53A92F3935165F72AA4C8CD092D82B3A
 2016
 Zuev - Cpp Standard ru
 2015
