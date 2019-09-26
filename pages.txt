@@ -328,15 +328,14 @@ ACCU Overload                                       - 152
 Books
 Veller - Friends                                    -  54
 SVM                                                 -  13..15..21..29
-OpenSSL Cookbook                                    -  29      (of 58)
-Vertgeiter                                          -  30      (of 190)
+OpenSSL Cookbook                                    -  29      (of   58)
+Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
-Gnedenko                                            -  36..38  (of 74)
-Zhitinskiy - Lost House ru                          - 1131.0   (of 1150)
-Kantor - Medlennye Chelyusti Demokratii             - 1380.0   (of 1388)
+Gnedenko                                            -  36..38  (of   74)
+Zhitinskiy - Plyvun ru                              -  26      (of  588)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  94..101 (of  338)
 Myshkis - Soviet Mathematicians ru                  -  84..96  (of  302)
-Platov - Secret Farvater ru                         -  96.0    (of  888)
+Platov - Secret Farvater ru                         - 108.0    (of  888)
 Shalyto - motivation                                - 342      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  80..82  (of 208)
 Bardin                                              -  30..35  (of 146)

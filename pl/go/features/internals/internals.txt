@@ -1,0 +1,5 @@
+2019
+https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
+    https://habr.com/ru/company/badoo/blog/468863/
+https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-2/
+https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/

@@ -1,4 +1,5 @@
 2019
+http://www.zakariaamine.com/2018-03-01/using-oauth2-in-spring-scopes
 https://dzone.com/articles/build-secure-microservices-in-your-spring-rest-api
 https://www.baeldung.com/spring-security-method-security
     https://github.com/eugenp/tutorials/tree/master/spring-security-core
