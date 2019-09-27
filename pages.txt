@@ -1,12 +1,10 @@
 https://www.21vek.by/toasters/hd258100_philips.html
 https://blog.predanie.ru/article/post-dlya-zapushhennyh-hristian/
+https://blog.predanie.ru/article/dva-izmereniya-vozdvizheniya-chto-polezno-pochitat-o-prazdnike-obzor-mediateki/
 URLs
-https://ru-bykov.livejournal.com/4112929.html
-    saharov - Bonner
 https://ru-bykov.livejournal.com/3980843.html
 https://ru-bykov.livejournal.com/3980757.html
-https://ru-bykov.livejournal.com/3981080.html
-    Slutskiy - Manera
+    1 obraznaya systema pesen
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
 zen
@@ -336,10 +334,10 @@ Zhitinskiy - Plyvun ru                              -  26      (of  588)
 Mordkovich - Talks with Math Teachers 2nd ed ru     -  94..101 (of  338)
 Myshkis - Soviet Mathematicians ru                  -  84..96  (of  302)
 Platov - Secret Farvater ru                         - 108.0    (of  888)
-Shalyto - motivation                                - 342      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  80..82  (of 208)
+Shalyto - motivation                                - 344      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  82..86  (of 208)
 Bardin                                              -  30..35  (of 146)
-The Little Typer - 15                               - 374..375 (of 375..409)
+The Little Typer - 15                               - 375..375 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

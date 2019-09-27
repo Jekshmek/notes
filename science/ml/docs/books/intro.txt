@@ -1,3 +1,5 @@
+https://fairmlbook.org/
+
 2015
 Kirk - Thoughtful Machine Learning with Python (ruby samples)
 

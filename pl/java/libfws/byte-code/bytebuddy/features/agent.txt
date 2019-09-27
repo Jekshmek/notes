@@ -7,3 +7,7 @@ https://www.codota.com/code/java/classes/net.bytebuddy.agent.ByteBuddyAgent
 2015
 https://www.infoq.com/articles/Easily-Create-Java-Agents-with-ByteBuddy/
 http://mydailyjava.blogspot.com/2015/01/make-agents-not-frameworks.html
+
+errors
+https://github.com/raphw/byte-buddy/issues/295
+    ! self-attach, -Djdk.attach.allowAttachSelf=true

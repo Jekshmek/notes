@@ -9,3 +9,7 @@ https://assets.contentful.com/oxjq45e8ilak/4jwCmjcYjC4SEScMqE6KKQ/e9e496f45525ed
 
 AppCDS
 https://blog.codefx.org/java/application-class-data-sharing/
+
+Var
+https://habr.com/ru/post/469111/
+    http://wouter.coekaerts.be/2018/java-type-system-broken

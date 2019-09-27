@@ -1,11 +1,18 @@
+2019
+Gashkov - Discrete Math
+    https://uchitel.by/catalog/book/1276289
+    ! need
+
 2017
 Peregozhin - Discrete Math 2nd ed ru
     http://math.nsc.ru/~perezhogin/Perezhogin.pdf
+    ! small
 
 2016
 Shevelev - Discrete Math ru
     C3F8A1F4D5D9B05FF9E9E96E0ED8D587
     FF750B129D8017D70FD0459AFB153394
+    ! 592 p, too low level ex last 100 pages
 
 2014
 WarrenJR - Hackers Delight 2nd ed ru
@@ -25,8 +32,21 @@ VereschaginShen - Part 3 - Calculatable Functions 4th ed ru
     5345343CAC9AFA12D83BFCDD15A79BDB
 Haggarti - Discrete Math for Programmers 2nd ed ru
 
+2010
+AsanovBaranskyRasin - Discrete Math 2nd ed ru
+    04C277D417CC1A4C8B5EBF7B24D0B301
+    AEBAB6AFC4FB467015F43911B3C7840E
+    3A1954A7DA8171FACCF985C71B654A86
+    99EBFA16CA9EFC53396407950EC1CB31
+    130EF3AAC8BB9D9274EEC75E1F1A5FC9
+    ! good and quite concise
+
 2004
 Anderson - Discrete Mathematics with Combinatorics ru
+    014318BF864B4C4E1689B55F3539FA8A
+    7F68140B148CA73A7FC9BCB1BD568D35
+    6A2AA43A98A858EFF454B94EFAB79E38
+    ! huge num of pages
 Shaporev - Discrete Math ru
 
 2003
