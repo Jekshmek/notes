@@ -1,4 +1,5 @@
 2019
+https://tproger.ru/blogs/effective-code-in-js-with-event-loop/
 https://habr.com/ru/post/461401/
 2017
 https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
