@@ -17,3 +17,6 @@ rpm
     what is not installed in this <package> yet
   -qpR <package>
     what dependencies are in this package name ???
+
+whatsnew
+https://www.opennet.ru/opennews/art.shtml?num=51582

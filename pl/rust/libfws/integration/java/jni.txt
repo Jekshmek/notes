@@ -9,3 +9,6 @@ https://github.com/sfackler/rust-jni-sys
 https://crates.io/crates/rucaja
 https://docs.rs/crate/rucaja
 https://github.com/kud1ing/rucaja
+
+2019
+https://medium.com/@diego_pacheco/rust-and-java-interoperability-614e4494d00f
