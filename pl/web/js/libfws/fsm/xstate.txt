@@ -3,6 +3,7 @@ https://xstate.js.org/docs/
 https://github.com/davidkpiano/xstate
 
 2019
+https://www.telerik.com/blogs/finite-state-machines-in-react
 https://css-tricks.com/using-react-and-xstate-to-build-a-sign-in-form/
 2018
 https://medium.com/@carloslfu/tackling-ui-complexity-with-state-machines-b3f1eb6d1a97
