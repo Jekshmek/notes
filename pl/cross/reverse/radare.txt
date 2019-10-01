@@ -18,7 +18,3 @@ https://habrahabr.ru/post/252905/
 
 online
 http://cloud.rada.re/enyo/
-
-?
-https://github.com/radareorg/cutter
-scoop install cutter
