@@ -10,3 +10,6 @@ http://superuser.com/questions/180545/setting-differing-acls-on-directories-and-
 http://stackoverflow.com/questions/580584/setting-default-permissions-for-newly-created-files-and-sub-directories-under-a
 
 http://www.unixmen.com/introduction-access-control-lists-acl/
+
+2019
+https://habr.com/ru/post/469667/

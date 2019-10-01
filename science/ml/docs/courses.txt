@@ -26,7 +26,9 @@ MIPT - Vlasov - ML
     https://github.com/ml-dafe/ml_mipt_dafe_minor
 VSHE - ML
     https://www.youtube.com/playlist?list=PLEqoHzpnmTfDwuwrFHWVHdr1-qJsfqCUX
-FIVT - Neichev - ML Course 3
+MIPT - FIVT - Applied ML Course 4
+    https://www.youtube.com/playlist?list=PL4_hYwCyhAvYvuHz_PKlEV-kOsK2bwUBg
+MIPT - FIVT - Neichev - ML Course 3
     https://www.youtube.com/playlist?list=PL4_hYwCyhAvasRqzz4w562ce0esEwS0Mt
 Berkeley
     https://inst.eecs.berkeley.edu/~cs188/fa18/
