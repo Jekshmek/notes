@@ -5,6 +5,7 @@ https://github.com/xd009642/tarpaulin
 https://github.com/xd009642/tarpaulin/wiki/Developers
 
 2019
+https://xd009642.github.io/2019/10/02/Tarpaulin-and-the-futures.html
 https://blog.knoldus.com/bid-adieu-to-tarpaulin-html-reports-are-here-for-rust/
 2018
 https://xd009642.github.io/2018/06/11/Tarpaulin-past-present-future.html

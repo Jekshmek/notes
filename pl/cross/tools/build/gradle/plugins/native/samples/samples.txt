@@ -1,2 +1,84 @@
-https://github.com/gradle/native-samples
 https://github.com/gradle/gradle/tree/master/subprojects/docs/src/samples/native-binaries
+
+https://docs.gradle.org/current/dsl/org.gradle.language.cpp.tasks.CppCompile.html
+https://docs.gradle.org/current/javadoc/org/gradle/api/file/ConfigurableFileCollection.html
+
+https://github.com/gradle/native-samples
+https://github.com/gradle/native-samples/tree/master/cpp
+
+https://github.com/gradle/native-samples/tree/master/cpp/simple-library
+    > Task :compileDebugCpp
+    > Task :linkDebug
+    > Task :assemble
+    > Task :compileTestCpp
+    > Task :linkTest
+    > Task :installTest
+
+    > Task :runTest
+    [==========] Running 4 tests from 1 test case.
+    [----------] Global test environment set-up.
+    [----------] 4 tests from LinkedListTests
+    [ RUN      ] LinkedListTests.test_constructor
+    [       OK ] LinkedListTests.test_constructor (0 ms)
+    [ RUN      ] LinkedListTests.test_add
+    [       OK ] LinkedListTests.test_add (0 ms)
+    [ RUN      ] LinkedListTests.test_remove
+    [       OK ] LinkedListTests.test_remove (0 ms)
+    [ RUN      ] LinkedListTests.test_remove_missing
+    [       OK ] LinkedListTests.test_remove_missing (0 ms)
+    [----------] 4 tests from LinkedListTests (0 ms total)
+
+    [----------] Global test environment tear-down
+    [==========] 4 tests from 1 test case ran. (0 ms total)
+    [  PASSED  ] 4 tests.
+
+    > Task :test
+    > Task :check
+    > Task :build
+
+https://github.com/gradle/native-samples/blob/master/swift/source-generation/build.gradle
+
+https://github.com/gradle/native-samples/blob/master/cpp/transitive-dependencies/
+
+library {
+    dependencies {
+        api project(':list')
+    }
+}
+
+application {
+    dependencies {
+        implementation project(':utilities')
+    }
+}
+
+https://github.com/gradle/native-samples/blob/master/cpp/prebuilt-binaries/build.gradle
+components.main.binaries.whenElementFinalized { binary ->
+    project.dependencies {
+        if (binary.optimized) {
+            add(binary.includePathConfiguration.name, files(libIncludePath))
+            add(binary.linkLibraries.name, files(libReleaseLinkLib))
+            add(binary.runtimeLibraries.name, files(libReleaseLib))
+        } else {
+            add(binary.includePathConfiguration.name, files(libIncludePath))
+            add(binary.linkLibraries.name, files(libDebugLinkLib))
+            add(binary.runtimeLibraries.name, files(libDebugLib))
+        }
+    }
+}
+
+...
+application {
+    targetMachines = [
+        machines.linux.x86_64,
+        machines.windows.x86, machines.windows.x86_64,
+        machines.macOS.x86_64
+    ]
+}
+
+library {
+    tasks.withType(CppCompile).configureEach {
+        // compilerArgs.add '-O3'
+        includes.from(javaInclude)
+    }
+}

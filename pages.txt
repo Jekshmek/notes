@@ -3,8 +3,7 @@ https://blog.predanie.ru/article/post-dlya-zapushhennyh-hristian/
 https://blog.predanie.ru/article/dva-izmereniya-vozdvizheniya-chto-polezno-pochitat-o-prazdnike-obzor-mediateki/
 URLs
 https://ru-bykov.livejournal.com/3980843.html
-https://ru-bykov.livejournal.com/3980757.html
-    1 obraznaya systema pesen
+    2 - negation of format
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
 zen
@@ -197,6 +196,9 @@ Toffler - 3rd Wave
 
 
 Video
+Vavilov - Domino Tilings 1
+    https://www.youtube.com/watch?v=hSnSAPDwHG4         25:00 (of 1:25:33)
+    https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
 Truschin - Math Circle                                  49:00 (of 1:24:34)
     https://www.youtube.com/watch?v=NacmB5WccqU
     ! problems of Ford-Falkerson algo
@@ -328,15 +330,15 @@ SVM                                                 -  13..15..21..29
 OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
-Gnedenko                                            -  36..38  (of   74)
-Zhitinskiy - Plyvun ru                              -  38      (of  588)
-Mordkovich - Talks with Math Teachers 2nd ed ru     -  98..101 (of  338)
-Myshkis - Soviet Mathematicians ru                  -  86..96  (of  302)
-Platov - Secret Farvater ru                         - 125.0    (of  888)
-Shalyto - motivation                                - 346      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  84..86  (of 208)
-Bardin                                              -  32..35  (of 146)
-The Little Typer - 15                               - 378..406 (of 375..409)
+Gnedenko                                            -  38..41  (of   74)
+Zhitinskiy - Plyvun ru                              -  50      (of  588)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 100..101 (of  338)
+Myshkis - Soviet Mathematicians ru                  -  88..96  (of  302)
+Platov - Secret Farvater ru                         - 137.0    (of  888)
+Shalyto - motivation                                - 348      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  86..89  (of 208)
+Bardin                                              -  34..35  (of 146)
+The Little Typer - 15                               - 379..406 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

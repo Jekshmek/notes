@@ -65,6 +65,7 @@ Froydental - Math as Pedagogical Problem part 1 ru
     DC02B960895499A6513634B82430199C
     EC9E0BDC2C60B3319B9457F4CA37D3D0
     C2F5212EAF69D64210172229C0FA04D2
+    ! p85. Matematicu primenyayut sozdavaya ee zanovo
 1976
 Medvedev - French School of the Set and Functions Theory ru
 1974

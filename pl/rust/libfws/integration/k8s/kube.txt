@@ -1,0 +1,7 @@
+https://crates.io/crates/kube
+https://docs.rs/kube
+https://github.com/clux/kube-rs
+https://github.com/clux/kube-rs/tree/master/examples
+
+2019
+http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html
