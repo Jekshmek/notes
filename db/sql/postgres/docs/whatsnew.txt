@@ -1,3 +1,7 @@
+12
+https://www.postgresql.org/about/news/1976/
+    https://www.opennet.ru/opennews/art.shtml?num=51604
+
 11
 https://www.postgresql.org/about/news/1894/
     http://www.opennet.ru/opennews/art.shtml?num=49462
