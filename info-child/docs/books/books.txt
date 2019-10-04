@@ -1,15 +1,4 @@
-lists
-https://www.twirpx.com/files/informatics/languages/olympics/
-
-series
-Razvitie Intellekta Shkolnikov
-    https://www.livelib.ru/pubseries/717491-razvitie-intellekta-shkolnikov
-    https://www.labirint.ru/series/39321/
-    https://oz.by/producer/series1408342.html?f=1
-    https://www.litres.ru/serii-knig/razvitie-intellekta-shkolnikov/
-
 2018
-KotovLapo - Informatics ru
 Laaksonen - Olympiad Programming
     https://cses.fi/book/book.pdf
     https://oz.by/books/more10778997.html
@@ -19,6 +8,7 @@ Derevenets - Pesni o Pascale
     http://oleg.derevenets.com/
     http://oleg.derevenets.com/Page04.html
     http://oleg.derevenets.com/Files/Songs/Pesni_o_Paskale_12-11_2018-02-09.pdf
+KotovLapo - Informatics ru
 
 2017
 Kotov - Algorithms Theory Problems Book
@@ -45,16 +35,29 @@ Demidenko Kormyshov - Sport Programmer Reference ru
 Halim - Competitive Programming 3rd ed ru
     EABCCEC887295E5DA350302DECA61D7C
     F6F195012783A8B3C8BB7628882A51B7
-
+Kotov - Algorithms Theory ru
+    http://elib.bsu.by/bitstream/123456789/91612/1/book_final.pdf
+    http://elib.bsu.by/handle/123456789/91612
+Halim - Competitive Programming 3rd ed
+    EABCCEC887295E5DA350302DECA61D7C
+    F6F195012783A8B3C8BB7628882A51B7
+    https://cpbook.net/
+    https://cpbook.net/methodstosolve
 
 2012
 AlexeevTalanov - Graphs and Algorithms ru
 Simonenko - Sport Programming ru
     cpp tips
+Pearl - Ukladka Dereviev
+    http://elib.bsu.by/handle/123456789/41398
+    http://elib.bsu.by/bitstream/123456789/41398/1/KotovVM_SabaleuskayaEP_PackTree_2012.pdf
 
 2011
 Halim - Competitive Programming 2nd ed
     6F1574A682A5F05C748E142FA791A429
+Algorithms and Data Structures
+    B1A2F3C131D893DF300AB1EDD08CCEC5
+    D1040BB80E0F0795953683499D8C98D2
 
 2010
 KotovVolkovLapo - Advanced Informatics - Algorithmization ru
@@ -62,6 +65,9 @@ KotovVolkovLapo - Advanced Informatics - Algorithmization ru
     !!!
 Zlatopolsky
     https://www.studmed.ru/zlatopolskiy-dm-didakticheskie-materialy-po-programmirovaniyucelochislennaya-arifmetika-logicheskie-velichiny-usloviya_1929c3d2585.html
+Volchenkov - Yaroslavl Informatics Olympiads ru
+    97A3C6489267747920D6BBBAACB36E97
+    6CC41171A2A4F3AE3DB7EA6DB18B2D29
 
 2009
 Menshikov
@@ -72,10 +78,20 @@ Haliulin - Informatics Olimpiads ru (too simple)
 Gustokashin - Olimpiad Informatics Lection Couse ru
     cpp-based
     3E0824538C74189D3A88DE8597D2D0A3
+Razrabotka i Analiz Algoritmov
+https://fpmi.bsu.by/ImgFpmi/Cache/35503.pdf
+    need
 
 2008
 Regeda - Algorithmization and Programming Fundamentals ru
     https://www.studmed.ru/regeda-vv-regeda-on-osnovy-algoritmizacii_6865a37aaa4.html
+Sbornik zadach po teorii algoritmov
+    9bc34d0bcdca5d8211caaff81c5b93a1
+    9bc34d0bcdca5d8211caaff81c5b93a1
+Asanov - Combinatorial Algorithms ru
+    https://www.studmed.ru/asanov-mo-rasin-vv-kombinatornye-algoritmy_fd508acd7ea.html
+AlexeevBelyaev - Preparing for Schoolboys to Informatics Olympiad ru
+    35FA69AF136992A1D72A1201BB3244ED
 
 2007
 Krasikov - Algorithms Simple as 2x2 ru
@@ -127,10 +143,22 @@ UskovaGorbenko - Best Olimp Programming Problems Solutions ru
 Belov - Algorithmization and Programming Fundamentals ru
     https://www.studmed.ru/belov-mp-osnovy-algoritmizacii-i-programmirovaniya_f70fe838165.html
 
+2002
+Aproximate Algorithms
+http://elib.bsu.by/handle/123456789/27561
+http://elib.bsu.by/bitstream/123456789/27561/1/%d0%9a%d0%be%d1%82%d0%be%d0%b2%d0%9a%d0%be%d0%b2%d0%b0%d0%bb%d0%b5%d0%b2%d0%bb%d0%b5%d0%bf%d0%b8%d0%bd.pdf
+
 2000
+KovovVolkovLapo - Lagorithmization Methods ru
+    288097E2F6CA8C2E4698784EEC53103C
+    https://www.studmed.ru/kotov-vm-volkov-ia-lapo-ai-informatika-metody-algoritmizacii_0a3f151d02b.html
 Berov - National Informatics Olimpiad Problems Specifics ru
     CB708B557495EB144CC45A086D18CE0C
     !!!
+
+1994
+ftp://u168.ru/%C4%F0%F3%E3%EE%E5/%C4%EE%EA%F3%EC%E5%ED%F2%E0%F6%E8%FF/%CF%F0%EE%E3%F0%E0%EC%E8%F0%EE%E2%E0%ED%E8%E5/%C7%E0%E4%E0%F7%E8%20%E8%20%EE%EB%E8%EC%EF%E8%E0%E4%FB%20%EF%EE%20%EF%F0%EE%E3%F0%E0%EC%EC%E8%F0%EE%E2%E0%ED%E8%FE/Volkov%20&%20Kotov/ALL.txt
+    win-1251
 
 1990
 BrudnoCaplan - Moscow Programming Olimpiads ru

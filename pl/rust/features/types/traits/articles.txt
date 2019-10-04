@@ -1,2 +1,4 @@
+2019
+https://blog.knoldus.com/get-your-hands-wet-with-traits-object-of-rust/
 2018
 https://guiand.xyz/blog-posts/unboxed-trait-objects.html

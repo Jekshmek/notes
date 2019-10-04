@@ -82,6 +82,7 @@ Ostanina - Secrets of Great Combinator ru
 
 2003
 Kohas - Castle Numbers and Polynoms ru
+    FE241E57532E74336CDD96E2788984F5
 Pestunova - Intro to Combinatorics ru
     B71F4AD8A51BA358A24BE811732BB531
 
