@@ -1,3 +1,6 @@
+2015
+KatzLindell - Introduction to Modern Cryptography 2nd ed
+    E59B838EB90F79A638831BEDCEAA5179
 2012
 Romankov - Cryptography Intro 2nd ed ru
     B181D38EF2952287A0AE784A1CBF3D4A

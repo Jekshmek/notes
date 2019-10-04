@@ -1,4 +1,6 @@
 2019
+Brown - Reducing Template Compilation Overhead, Using C++11, 14, 17, and 20
+    https://www.youtube.com/watch?v=TyiiNVA1syk
 Sergey Fedorov - Cpp Templates and DBs ru
     https://corehard.by/2019/08/01/sergei-fedorov-corehard-spring-2019/
     https://www.slideshare.net/corehard_by/c-corehard-spring-2019

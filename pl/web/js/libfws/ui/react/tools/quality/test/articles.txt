@@ -1,4 +1,5 @@
 2019
+https://developerhandbook.com/react/introduction-test-driven-development-react-jest/
 https://habr.com/ru/company/yandex/blog/459924/
 https://circleci.com/blog/continuously-testing-react-applications-with-jest-and-enzyme/
 https://habr.com/ru/company/sberbank/blog/443316/

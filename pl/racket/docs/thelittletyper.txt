@@ -23,6 +23,13 @@ https://www.reddit.com/r/haskell/comments/9igdgx/the_little_typer_by_daniel_p_fr
 David Christiansen - A Little Taste of Types
     https://www.youtube.com/watch?v=3z9nISI4ppw
 
+! The Law of Tick Marks
+A tick mark, directly followed by one or more letters and hyphens
+is an Atom.
+
+! The Commandment of Tick Marks
+
+
 notes
 expressions, that describe other expressions, such as Atom, are called types
 
