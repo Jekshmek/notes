@@ -22,8 +22,6 @@ Shen - Zamoscheniya
     https://www.youtube.com/playlist?list=PLFAUjUzyuqi8ioUSuikWncOiXQLCigkH7
 
 2017
-Vavilov - Lection in Sirius
-    https://www.youtube.com/watch?v=jIm7cLSugI4
 Smirnov - Zamoscheniya
     https://www.youtube.com/watch?v=gTMPU-Mw1-M
     http://www.mathnet.ru/present18250
@@ -43,32 +41,6 @@ Feldman - Kvantik - Parkets
     https://www.youtube.com/watch?v=59-LzbUS8ZU
 
 2013
-Vavilov - Domino Tiling
-    https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
-    https://www.lektorium.tv/course/22900
-    https://www.youtube.com/watch?v=dFWRegmE6cQ
-    https://www.youtube.com/watch?v=N60aB6nLVP8
-    https://www.youtube.com/watch?v=lgPN45eEvfw
-
-    5,6
-    https://www.youtube.com/watch?v=dwxP7kCL3xE
-    https://www.youtube.com/watch?v=R8x5q1B8KMU
-
-    https://www.youtube.com/watch?v=hFLkxxyRtJk
-    https://www.youtube.com/watch?v=hSnSAPDwHG4
-    !!! tiling, packing, covering
-    ! abelian combinatory - coloring principle
-    ! skewed tetramino
-    ! theorem of Igor Pak (prooved that there is no coloring ...)
-    ! any coloring is a function to Abelian group
-    ! perimeters and fundamental groups (not necessary Abelian)
-    ! theorem of John Conway (kniga chisel, atlas of finite groups)
-    ! Conway solves Rubix Cube in 29 sec
-    ! Combinatorial Groups Theory
-    ! Gryobner Basis (ideals of polynoms)
-    ! Constantin Petrovich Kohas
-    ! A2, B2, G2 - on plane
-
 Nurligareev  - About Multifoliate Reqular Parquets at Plane ru
     18C1FAE8928A03F99D4B6A95AC569178
     ! only 5 pages, good references

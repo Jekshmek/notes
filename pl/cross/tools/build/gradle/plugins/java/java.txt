@@ -1,3 +1,8 @@
+https://docs.gradle.org/current/userguide/java_plugin.html
+https://docs.gradle.org/current/userguide/building_java_projects.html
+
+https://hub.packtpub.com/gradle-java-plugin/
+
 apply plugin 'java'
     this just calls a POGO method (apply) to some obj...
 

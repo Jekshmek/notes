@@ -3,6 +3,8 @@ https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:executio
 https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:project_jar_dependencies
 https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:depending_on_output_of_another_project
 
+http://qaru.site/questions/20469/multi-project-test-dependencies-with-gradle
+
 2015
 https://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-multi-project-build/
 
