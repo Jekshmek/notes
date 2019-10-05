@@ -51,6 +51,10 @@ Grotendik - Harvests and Saws ru
 Vilenkin - Behind the Pages of Math Teachbook ru
 1995
 Svechnikov - Math History Travel ru
+1990
+Stroyk - Short Essay on Math History 5th ed ru
+    00E9549D99612A47FF0827F529C872C7
+    702AB440E1D9CF5851B17475253B4B40
 1989
 Vilenkin - Behind the Pages of Math Teachbook ru
 1983
