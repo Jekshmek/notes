@@ -28,16 +28,23 @@ A tick mark, directly followed by one or more letters and hyphens
 is an Atom.
 
 ! The Commandment of Tick Marks
-
+Two expressions are the same Atom if their values are tick marks
+followed by identical letters and hyphens
 
 notes
 expressions, that describe other expressions, such as Atom, are called types
 
+! The Law of Atom
+Atom is a type
+
 A form of judgement is an observation with blank spaces in it:
+
+! The Four Forms of Judgement
 1. ___ is a ___
 2. ___ is the same ___ as ___
 3. ___ is a type
 4. ___ and ___ are the same types
+
 
 Judgements are acts of knowing, and
 believing is part of knowing
@@ -46,6 +53,9 @@ Some forms of judgement only make sense after an earlier judgement (pre-supposit
 
 The normal [form] of an expression is the most direct way of writing it
     Sameness is always according to a type
+
+
+
 
 Sameness is always according to a type, so normal forms are also determined by a type
 

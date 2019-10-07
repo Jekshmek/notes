@@ -1,6 +1,7 @@
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md
 
 2019
+https://tech.fpcomplete.com/rust/ownership-and-impl-trait
 http://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/
 https://medium.com/@zx77/reference-and-ownership-in-rust-by-example-8c6611aa96c8
 https://www.ralfj.de/blog/2019/04/30/stacked-borrows-2.html

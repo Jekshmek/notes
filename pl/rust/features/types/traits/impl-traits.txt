@@ -1,3 +1,5 @@
+2019
+https://tech.fpcomplete.com/rust/ownership-and-impl-trait
 2018
 https://medium.com/@iopguy/impl-trait-in-rust-explanation-efde0d94946a
 https://blog.rust-lang.org/2018/05/10/Rust-1.26.html
