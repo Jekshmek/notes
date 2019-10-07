@@ -1,4 +1,5 @@
 2019
+https://vector-of-bool.github.io/2019/10/07/modules-3.html
 DosReis - Programming with C++ Modules: Guide for the Working
     https://www.youtube.com/watch?v=tjSuKOz5HK4
 DosReis - CPPP 2019 - C++ Modules: What You Should Know
