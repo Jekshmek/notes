@@ -54,12 +54,31 @@ Some forms of judgement only make sense after an earlier judgement (pre-supposit
 The normal [form] of an expression is the most direct way of writing it
     Sameness is always according to a type
 
-
-
-
 Sameness is always according to a type, so normal forms are also determined by a type
 
-Normal forms of types:
+!Normal Forms
+Given a type, every expression described by that type has
+    a normal form,
+which is the most direct way of writing it.
+If two expressions are the same, then they have
+    identical normal forms,
+and if they have identical normal forms, then
+    they are the same
+
+! Normal Forms and types:
+Sameness is always
+    according to a type,
+so normal forms are also
+    determined by a type
+
+! The first commandment of cons
+Two cons-expressions are the same (Pair A D) if their cars
+are the same A and their cdrs are the same D.
+Here, A and D stand for any type.
+
+Note: types themselves also have a normal form ...
+
+! Normal Forms of Types
 Every expression that is a type has a normal form,
 which is the most direct way of writing that type.
 If two expressions are the same type,
@@ -67,6 +86,8 @@ then they have identical normal forms,
 and if two types have identical normal forms,
 then they are the same types
     - expr is a ___  (expr has a type of ___)
+
+
 
 (claim one Nat)
 (define one (add1 zero))

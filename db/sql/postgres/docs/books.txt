@@ -7,6 +7,8 @@ https://github.com/le0pard/postgresql_book
 https://habrahabr.ru/post/324334/
 
 2019
+Schonig - Mastering  PostgreSQL 11 2nd ed ru
+    18E9A9934257CC24323973035B4A4FAA
 NovikovGorshkova - DB Technology Fundamentals ru
     0ED608AEB6925486245260D6E5B12C9A
     64363673B984D9E189A9A33FBBBAFE3E
