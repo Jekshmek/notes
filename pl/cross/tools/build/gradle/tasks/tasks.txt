@@ -2,8 +2,13 @@ https://docs.gradle.org/current/userguide/more_about_tasks.html
 https://docs.gradle.org/current/dsl/org.gradle.api.tasks.TaskContainer.html
     getByName(...)
 
-gradle tasks --all
-gradle model
+gradle
+    projects
+    tasks
+        --all
+    properties
+        print gradle properties
+    model
 
 Tasks:
 -x <task-name>
@@ -14,7 +19,7 @@ tasks
     list all the tasks
 dependencies
     list all the dependencies for all the configs
-compileJava - instance:w
+compileJava - instance
 of JavaCompile class
     https://docs.gradle.org/current/dsl/org.gradle.api.tasks.compile.JavaCompile.html
         javaCompile.destinationDir
@@ -42,9 +47,6 @@ build
 
 distTar
 distZip
-
-properties
-    print gradle properties
 
 
 Task props:

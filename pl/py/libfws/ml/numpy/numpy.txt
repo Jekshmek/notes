@@ -24,3 +24,6 @@ https://docs.scipy.org/doc/numpy/reference/routines.linalg.html
 
 statistics
 https://docs.scipy.org/doc/numpy/reference/routines.statistics.html
+
+2019
+https://habr.com/ru/post/469355/
