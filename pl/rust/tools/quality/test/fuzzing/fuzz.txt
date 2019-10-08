@@ -4,6 +4,8 @@ books
 https://fuzz.rs/book/
 
 articles
+2019
+https://fuzzit.dev/2019/10/08/how-to-fuzz-rust-code-with-cargo-fuzz-continuously/
 2018
 https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30
 2017
