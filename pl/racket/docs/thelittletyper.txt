@@ -88,9 +88,21 @@ then they are the same types
     - expr is a ___  (expr has a type of ___)
 
 
+(claim one
+    Nat)
+(define one
+    (add1 zero))
 
-(claim one Nat)
-(define one (add1 zero))
+(claim two
+    Nat)
+(define two
+    (add1 one))
+
+! Claims Before Definitions
+Using define to associate a name with an expression requires
+that the expression's type has previously been associated with
+the name using claim
+
 
 An expression with a constructor at the top is called a value
     - a value is not always normal

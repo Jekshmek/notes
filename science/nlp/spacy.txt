@@ -7,6 +7,7 @@ https://github.com/explosion/spaCy
 https://prodi.gy/
 
 2019
+https://explosion.ai/blog/spacy-transformers
 https://realpython.com/natural-language-processing-spacy-python/
 https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d
 2018

@@ -1,10 +1,7 @@
-https://blog.predanie.ru/article/obida-i-proshhenie-mozhno-li-prostit-v-rassrochku/
-https://blog.predanie.ru/article/post-dlya-zapushhennyh-hristian/
 URLs
-https://ru-bykov.livejournal.com/3980843.html
-    2 - banka
 https://ru-bykov.livejournal.com/3939500.html
 https://ru-bykov.livejournal.com/3939300.html
+    2
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -64,6 +61,8 @@ https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
     v tsarstve smekalki
     zeldovich myshkis - vysshaya matematika dlya nachinayuschih
     lakatos - proofs and disproofs
+Minlos
+    http://trv-science.ru/2017/01/31/robert-minlos-mathwalks/
 John Milnor
     https://trv-science.ru/2011/03/29/john-milnor/
 VSHE
@@ -185,11 +184,11 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mccme
-    2017-02-23
+    2017-05-07
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
-    2019-10-08
+    2019-10-09
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -338,7 +337,7 @@ Myshkis - Soviet Mathematicians ru                  -  94..96  (of  302)
 Shalyto - motivation                                - 354      (of  873)
 Froydental - Math as Pedagogical Problem part 1 ru  -  92..94  (of 208)
 Bardin                                              -  40..43  (of 146)
-The Little Typer - 15                               -  32..46  (of 375..409)
+The Little Typer - 15                               -  36..46  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
