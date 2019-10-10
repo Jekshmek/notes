@@ -1,0 +1,6 @@
+https://crates.io/crates/thiserror
+https://docs.rs/thiserror
+https://github.com/dtolnay/thiserror
+
+2019
+https://www.reddit.com/r/rust/comments/dfkwfo/announcing_thiserror_a_convenient_modern/

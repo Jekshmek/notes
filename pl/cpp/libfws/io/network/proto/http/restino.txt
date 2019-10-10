@@ -2,6 +2,7 @@ https://bitbucket.org/sobjectizerteam/restinio/src/default/
 https://github.com/Stiffstream/restinio
 
 2019
+http://eao197.blogspot.com/2019/10/progc-http-restinio.html
 https://habr.com/ru/post/462349/
 https://habr.com/ru/post/456632/
 https://habr.com/ru/post/451728/
