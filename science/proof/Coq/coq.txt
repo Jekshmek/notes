@@ -1,3 +1,6 @@
+scoop
+    coq
+
 Vocab
 
 ltac - for defining custom tactics.
