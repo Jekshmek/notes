@@ -87,7 +87,6 @@ and if two types have identical normal forms,
 then they are the same types
     - expr is a ___  (expr has a type of ___)
 
-
 (claim one
     Nat)
 (define one
@@ -103,8 +102,7 @@ Using define to associate a name with an expression requires
 that the expression's type has previously been associated with
 the name using claim
 
-
-An expression with a constructor at the top is called a value
+! An expression with a constructor at the top is called a value
     - a value is not always normal
 
 The c-tors of
@@ -113,7 +111,12 @@ The c-tors of
 
 In a value, the top constructor's arguments need not be normal
     - each expression has only one normal form
+but if they are, then the entiere c-tor expression is in normal form
 
+! Values and Normal Forms
+Not every value is in normal form. This is because the arguments to a c-tor
+need not be normal. Each expression has only one normal form, but it is sometimes
+possible to write it as a value in more than one way ???
 
 Evaluation is - finding a value that is the same as some staring exression
 
