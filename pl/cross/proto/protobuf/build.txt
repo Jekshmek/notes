@@ -1,4 +1,12 @@
+look at README
+
+for the case of cmake:
 mkdir build && cd build
 cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX11_ABI=0 ../cmake 
 cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX11_ABI=1 ../cmake 
 cmake --build . -- VERBOSE=1 > cmake-bld.txt
+
+use by cmake:
+set the following env variables:
+CMAKE_INCLUDE_PATH = [YOUR_PATH]\protobuf\src\google\protobuf # which points at the bottom of your include path.
+CMAKE_LIBRARY_PATH = [YOUR_PATH]\protobuf\src.libs #which should contain "libprotobuf" "libprotobuf-lite" "liteprotoc" .lib files.

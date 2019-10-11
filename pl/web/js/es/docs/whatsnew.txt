@@ -1,4 +1,6 @@
 2019
+https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3
+    https://habr.com/ru/company/plarium/blog/471142/
 https://itnext.io/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412
     https://habr.com/ru/company/ruvds/blog/464131/
 https://all-markup-news.com/all-the-new-es2019-tips-and-tricks/
