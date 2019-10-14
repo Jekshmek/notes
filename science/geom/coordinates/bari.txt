@@ -59,6 +59,9 @@ http://graphics.wikia.com/wiki/Affine_transformation
 lit
 http://gorod.bogomolov-lab.ru/ps/stud/geom_ru/1617/list.html
 
+2019
+https://habr.com/ru/post/471194/
+
 samples
 https://speakerdeck.com/rollbear/the-curiously-recurring-pattern-of-coupled-types?slide=56
     https://www.youtube.com/watch?v=EhlYsKnAmjs
