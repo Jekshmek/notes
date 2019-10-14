@@ -1,1 +1,4 @@
 https://github.com/iraycd/React-Redux-Styleguide
+
+2019
+https://habr.com/ru/company/ruvds/blog/471040/

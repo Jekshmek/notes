@@ -1,4 +1,6 @@
-http://www.iarex.ru/articles/71132.html?utm_source=smm-tg
+http://www.iarex.ru/articles/71132.html
+https://blog.predanie.ru/article/hristianskie-motivy-v-otechestvennom-kino/
+    zori
 URLs
 https://7x7-journal.ru/posts/2019/07/17/--1563351935
 https://ru-bykov.livejournal.com/3939500.html
@@ -186,11 +188,11 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mccme
-    2017-05-07
+    2017-10-02
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
-    2019-10-12
+    2019-10-13
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -332,7 +334,7 @@ Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  38..41  (of   74)
 Kantor - Red Color                                  -  20      (of 1436)
-Zhitinskiy - Plyvun ru                              -  75      (of  588)
+Zhitinskiy - Plyvun ru                              -  89      (of  588)
 Platov - Secret Farvater ru                         - 158.0    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 108..114 (of  338)
 Myshkis - Soviet Mathematicians ru                  -  96..102 (of  302)

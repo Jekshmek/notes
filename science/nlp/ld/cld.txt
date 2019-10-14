@@ -1,3 +1,10 @@
 https://github.com/google/cld3
 
-https://chromium.googlesource.com/chromium/src/+/master/tools/gn/docs/quick_start.md
+PROTOBUF_BASE=/data/wrk/repo/protobuf-2.5.0/src
+PROTOBUF_LIB=$PROTOBUF_BASE/.libs
+cmake \
+    -DProtobuf_INCLUDE_DIR=$PROTOBUF_BASE \
+    -DProtobuf_PROTOC_EXECUTABLE=$PROTOBUF_LIB/protoc \
+    -DProtobuf_PROTOC_LIBRARY=$PROTOBUF_LIB/libprotoc.a \
+    -DProtobuf_LIBRARY=$PROTOBUF_LIB/libprotobuf.a \
+    -DProtobuf_LITE_LIBRARY=$PROTOBUF_LIB/libprotobuf-lite.a \

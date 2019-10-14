@@ -1,0 +1,2 @@
+-DCMAKE_CXX_COMPILER=arm-linux-gnueabihf-g++
+-DCMAKE_BUILD_TYPE=Release
