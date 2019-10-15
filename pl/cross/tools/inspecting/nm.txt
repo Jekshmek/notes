@@ -1,4 +1,5 @@
 used mainly for .o files
+    and static .a libraries
 
 nm
     -l

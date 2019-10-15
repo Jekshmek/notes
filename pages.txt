@@ -1,11 +1,6 @@
-http://www.iarex.ru/articles/71132.html
-https://blog.predanie.ru/article/hristianskie-motivy-v-otechestvennom-kino/
-    ternii
 URLs
-https://7x7-journal.ru/posts/2019/07/17/--1563351935
 https://ru-bykov.livejournal.com/3939500.html
-https://ru-bykov.livejournal.com/3939300.html
-    2
+    3
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -332,16 +327,16 @@ SVM                                                 -  13..15..21..29
 OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
-Gnedenko                                            -  38..41  (of   74)
+Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  -  20      (of 1436)
 Zhitinskiy - Plyvun ru                              -  89      (of  588)
-Platov - Secret Farvater ru                         - 158.0    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 108..114 (of  338)
-Myshkis - Soviet Mathematicians ru                  -  96..102 (of  302)
-Shalyto - motivation                                - 358      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  94..96  (of 208)
-Bardin                                              -  42..43  (of 146)
-The Little Typer - 15                               -  39..46  (of 375..409)
+Platov - Secret Farvater ru                         - 174.9    (of  755)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 110..114 (of  338)
+Myshkis - Soviet Mathematicians ru                  -  98..102 (of  302)
+Shalyto - motivation                                - 360      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  -  98..100 (of 208)
+Bardin                                              -  44..47  (of 146)
+The Little Typer - 15                               -  41..46  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

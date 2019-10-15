@@ -6,9 +6,16 @@ cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX1
 cmake -DCMAKE_POSITION_INDEPENDENT_CODE=ON -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX11_ABI=1 ../cmake 
 cmake --build . -- VERBOSE=1 > cmake-bld.txt
 
+add_compile_definitions(-D_GLIBCXX_USE_CXX11_ABI=0)
+# -DCMAKE_POSITION_INDEPENDENT_CODE=ON \
+# -DCMAKE_CXX_FLAGS=-D_GLIBCXX_USE_CXX11_ABI=1 \
+# -DCMAKE_INCLUDE_PATH=$PROTOBUF_BASE \
+
+
 use by cmake:
 https://cmake.org/cmake/help/latest/module/FindProtobuf.html
 /usr/share/cmake-3.15/Modules/FindProtobuf.cmake
+
 
 # at CMakeLists.txt:
 include_directories(${Protobuf_INCLUDE_DIRS})
@@ -17,8 +24,17 @@ set the following env variables:
 CMAKE_INCLUDE_PATH = [YOUR_PATH]\protobuf\src\google\protobuf # which points at the bottom of your include path.
 CMAKE_LIBRARY_PATH = [YOUR_PATH]\protobuf\src.libs #which should contain "libprotobuf" "libprotobuf-lite" "liteprotoc" .lib files.
 
+
 issues
 # https://github.com/google/cld3/issues/23
 # https://github.com/google/cld3/pull/22
 include_directories(${CMAKE_CURRENT_BINARY_DIR}
 ${Protobuf_INCLUDE_DIRS}) # needed to include generated pb headers
+
+http://www.kaizou.org/2015/01/linux-libraries/
+    --no-undefined
+
+
+old-way
+./configure --disable-shared --with-pic CXXFLAGS='-D_GLIBCXX_USE_CXX11_ABI=0'
+    CFLAGS='-g -O2 -w' 

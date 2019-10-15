@@ -118,9 +118,24 @@ Not every value is in normal form. This is because the arguments to a c-tor
 need not be normal. Each expression has only one normal form, but it is sometimes
 possible to write it as a value in more than one way ???
 
-Evaluation is - finding a value that is the same as some staring exression
+! Everyting is an expression
+In Pie, values are also expressions.
+Evaluation in Pie finds an expression, not some other kind of thing
 
-In Pie, everyting is an expression (even values)
+!!!
+Note: normal expressions has no remaining opportunities for evaluation
+
+! The Commandment of zero
+zero is the same Nat as zero.
+
+! The Commandment of add1
+If
+    n is the same Nat as k
+, then
+    (add1 n)
+is the same Nat as
+    (add1 k).
+
 
 ! Definitions are forever !
 
