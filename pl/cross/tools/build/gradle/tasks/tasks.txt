@@ -2,6 +2,23 @@ https://docs.gradle.org/current/userguide/more_about_tasks.html
 https://docs.gradle.org/current/dsl/org.gradle.api.tasks.TaskContainer.html
     getByName(...)
 
+input-output
+https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/TaskInputs.html
+https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/TaskOutputs.html
+    inputs.files(fileTree(...))
+    outputs.file(...)
+    outputs.dir(...)
+
+dependencies
+https://docs.gradle.org/current/userguide/more_about_tasks.html#sec:adding_dependencies_to_tasks
+    enabled = true/false
+    onlyIf
+
+up-to-date check
+https://docs.gradle.org/current/userguide/more_about_tasks.html#sec:up_to_date_checks
+https://stackoverflow.com/questions/27993814/only-run-task-if-another-isnt-up-to-date-in-gradle
+    upToDateWhen(...)
+
 gradle
     projects
     tasks

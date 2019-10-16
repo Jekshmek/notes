@@ -138,6 +138,11 @@ is the same Nat as
 
 
 ! Definitions are forever !
+Once a name has been claimed, it cannot be reclaimed, and
+once a name has been defined, it cannot be redefined
+
+Note! zero - is a c-tor
+
 
 ! atoms are constructors (construct themselves),
     atoms are also values (of type Atom)

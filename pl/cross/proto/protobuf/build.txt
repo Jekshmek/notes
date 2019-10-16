@@ -38,3 +38,6 @@ http://www.kaizou.org/2015/01/linux-libraries/
 old-way
 ./configure --disable-shared --with-pic CXXFLAGS='-D_GLIBCXX_USE_CXX11_ABI=0'
     CFLAGS='-g -O2 -w' 
+
+=== configuring in gtest ...
+configure: running /bin/sh ./configure --disable-option-checking '--prefix=/usr/local'  '--disable-shared' '--with-pic' 'CXXFLAGS=-D_GLIBCXX_USE_CXX11_ABI=0' --cache-file=/dev/null --srcdir=.

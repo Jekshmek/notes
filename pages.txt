@@ -1,6 +1,6 @@
 URLs
 https://ru-bykov.livejournal.com/3939500.html
-    3
+    4
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -328,15 +328,15 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  -  20      (of 1436)
-Zhitinskiy - Plyvun ru                              -  89      (of  588)
+Kantor - Red Color                                  -  15.3    (of 1204)
+Zhitinskiy - Plyvun ru                              - 100.1    (of  588)
 Platov - Secret Farvater ru                         - 174.9    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 110..114 (of  338)
-Myshkis - Soviet Mathematicians ru                  -  98..102 (of  302)
-Shalyto - motivation                                - 360      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  -  98..100 (of 208)
-Bardin                                              -  44..47  (of 146)
-The Little Typer - 15                               -  41..46  (of 375..409)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 112..114 (of  338)
+Myshkis - Soviet Mathematicians ru                  - 100..102 (of  302)
+Shalyto - motivation                                - 362      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  - 100..150 (of 208)
+Bardin                                              -  46..47  (of 146)
+The Little Typer - 15                               -  44..46  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

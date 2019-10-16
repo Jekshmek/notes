@@ -32,6 +32,9 @@ Spivak - Arithmetics 2 ru
     7AFCD4FE4A15B44BB7307CC53292E0A8
 Falin - Linear Diophant Equations ru
     310E7692576822AC8AC6AC04401522EC
+Nesterenko - Numbers Theory ru
+    E7A36A6884A41EACE8C78E88A52AABCE
+    ! good and clear
 
 2007
 Spivak - Arithmetics ru
