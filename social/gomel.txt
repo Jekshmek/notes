@@ -70,3 +70,6 @@ kapital-aktiv 161
 http://gim56.by/odno-okno
 Gerasimenko
 Lopuhova
+
+ground
+http://gomeloblzem.by/aukcijny/
