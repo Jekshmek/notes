@@ -141,18 +141,21 @@ is the same Nat as
 Once a name has been claimed, it cannot be reclaimed, and
 once a name has been defined, it cannot be redefined
 
-Note! zero - is a c-tor
-
-
-! atoms are constructors (construct themselves),
+Note! zero - is a c-tor, but it has no arguments
+Note! atoms are constructors (construct themselves),
     atoms are also values (of type Atom)
 
-Pair, Nat and Atom - are type constructors (not a [value] constructors)
+Note! Pair, Nat and Atom - are type constructors (not a [value] constructors)
 
-! car, however, is neigher a c-tor, nor a type c-tor
-! car (and cdr) are eliminators
+Note! car, however, is neigher a c-tor, nor a type c-tor
+    ! car (and cdr) are eliminators
 
+
+### 2: Doin' What Comes Naturally
+
+! Constructors and Eliminators
 Constructors build values, and eliminators take apart values built by constructors
+
 
 every lambda-expression is a value
 

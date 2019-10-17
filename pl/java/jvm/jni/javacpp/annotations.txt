@@ -17,7 +17,12 @@ https://github.com/bytedeco/javacpp/blob/master/src/main/java/org/bytedeco/javac
     preloadpath = {"/lib64/", "/lib/", "/usr/lib64/", "/usr/lib/", "/opt/intel/lib/intel64/", "/opt/intel/mkl/lib/intel64/"},
 
     framework frameworkpath
+
 )
+
+    @Platform(include="subfolder/simpleproviderimpl.h"),
+    @Platform(value = "windows-x86_64", preload = { "icudt49", "icuuc49", "icuin49", "icuio49" }),
+    @Platform(value = "linux-x86_64", preload = { "icudata", "icuuc", "icui18n", "icuio" })
 
 @Adapter
 http://bytedeco.org/javacpp/apidocs/org/bytedeco/javacpp/annotation/Adapter.html

@@ -1,3 +1,6 @@
 https://crates.io/crates/plotters
+
 https://docs.rs/plotters
+https://plotters-rs.github.io/book/
+
 https://github.com/38/plotters
