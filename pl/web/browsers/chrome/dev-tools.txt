@@ -39,6 +39,8 @@ https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4
 https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8
 
 presentations
+Kozyatinsky - Chrome DevTools Protocol
+    https://www.youtube.com/watch?v=z0TP-9QSdHI
 2018
 Kozyatinsky - Debugging JS using Chrome DevTools
     https://www.youtube.com/watch?v=kBHUEFYawTk

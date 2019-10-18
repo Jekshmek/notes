@@ -1,0 +1,2 @@
+https://www.rabbitmq.com/getstarted.html
+https://github.com/rabbitmq/rabbitmq-tutorials
