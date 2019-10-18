@@ -5,6 +5,7 @@ https://rust-lang.github.io/async-book/
 https://cfsamson.github.io/book-exploring-async-basics/
 
 2019
+https://boats.gitlab.io/blog/post/poll-drop/
 https://www.infoq.com/presentations/rust-2019/
 https://blog.rust-lang.org/inside-rust/2019/10/07/AsyncAwait-WG-Focus-Issues.html
 https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html

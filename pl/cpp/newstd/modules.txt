@@ -1,4 +1,6 @@
 2019
+Kolpackov - Practical C++ Modules
+    https://www.youtube.com/watch?v=szHV6RdQdg8
 https://vector-of-bool.github.io/2019/10/07/modules-3.html
 DosReis - Programming with C++ Modules: Guide for the Working
     https://www.youtube.com/watch?v=tjSuKOz5HK4
