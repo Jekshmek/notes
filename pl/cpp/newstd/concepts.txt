@@ -8,6 +8,10 @@ https://eriksvjansson.net/papers/cppcpdac.pdf
 https://eriksvjansson.net/papers/cppcpdacd.pdf
 
 2019
+Raz - C++20 Concepts: A Day in the Life
+    https://www.youtube.com/watch?v=qawSiMIXtE4
+    https://github.com/saarraz/slides/blob/master/concepts_a_day_in_the_life.pdf
+
 https://devblogs.microsoft.com/cppblog/c20-concepts-are-here-in-visual-studio-2019-version-16-3/
 Saar - Clang Concepts
     https://corecppil.github.io/CoreCpp2019/Presentations/Saar_clang_concepts.pdf

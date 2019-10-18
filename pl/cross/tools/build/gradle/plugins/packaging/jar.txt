@@ -16,13 +16,13 @@ doFirst {
 }
 
 jar {
-  manifest { 
-    attributes "Main-Class": "$mainClassName"
-  }  
+    manifest { 
+        attributes "Main-Class": "$mainClassName"
+    }  
 
-  from {
-    configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
-  }
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
 
     eachFile { details ->
         println "!!! add details.path = $details.path"

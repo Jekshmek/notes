@@ -1,6 +1,8 @@
 http://jdk.java.net/valhalla/
 
 2019
+Evans - A First Look at Java Inline Classes
+    https://www.infoq.com/articles/inline-classes-java/
 Verhas - Java Value Types: what is it and why are they important
     https://www.youtube.com/watch?v=vA4ZJpFNLhM
 https://www.infoq.com/news/2019/07/valhalla-openjdk-lw2-released/
