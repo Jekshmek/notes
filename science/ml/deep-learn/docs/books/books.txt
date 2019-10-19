@@ -31,7 +31,11 @@ NikolenkoKadurin - Deep Learning ru
 Vieira - Introduction to Deep Learning Business Applications for Developers (too shallow)
 Skansi - Introduction to Deep Learning
 Krohn - Deep Learning Illustrated (small, without math)
-Shhollet - Deep Learning with Python ru
+Chollet - Deep Learning with Python ru
+    https://vk.com/doc44301783_456810592
+    https://vk.com/doc7608079_460118633
+    C3AD2D7E6EE41CF2818EEF891A984FDD
+    900D739E4B0305A0422F4DC23E0CC76C
 Patterson - Deep Learning - A Practitioner Approach ru
     5582E21670AEE2895F5E907A53D61EDE
     https://vk.com/doc74080069_516268202?hash=74d3f98815ec1c25e0
@@ -51,13 +55,9 @@ Manning - Trask - Grokking Deep Learning
 https://iamtrask.github.io/
 Sugomori - Deep Learning Essentials
 https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
-Chollet - Deep Learning with Python ru
 Michelucci - Applied Deep Learning
 
 2017
-Chollet - DeepLearning with Python
-https://vk.com/doc44301783_456810592
-https://vk.com/doc7608079_460118633
 Buduma - Fundamentals of Deep Learning (tf)
     https://vk.com/doc2036633_464888587
 Paterson - Deep Learning (dl4j)
