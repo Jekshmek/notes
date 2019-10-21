@@ -1,6 +1,7 @@
 https://github.com/gradle/gradle/releases
 
 5.x
+https://docs.gradle.org/5.6.3/release-notes.html
 https://docs.gradle.org/5.2/release-notes.html
 https://habr.com/company/haulmont/blog/432024/
 https://gradle.org/whats-new/gradle-5/
