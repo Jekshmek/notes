@@ -27,3 +27,8 @@ Bader - Python Tricks ru
 2017
 Rother - Pro Python Best Practices
 Briggs - Python for Kids ru
+
+2013
+Goodrich - Data Structures and Algorithms in Python
+    https://vk.com/doc148909974_470539057?hash=2b73e185a21a437eeb
+    ! not loaded

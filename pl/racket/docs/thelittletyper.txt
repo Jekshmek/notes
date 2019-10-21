@@ -156,10 +156,13 @@ Note! car, however, is neigher a c-tor, nor a type c-tor
 ! Constructors and Eliminators
 Constructors build values, and eliminators take apart values built by constructors
 
+Note! every lambda-expression is a value
 
-every lambda-expression is a value
+! Eliminating Functions
+Applying a [lambda] function to arguments is the eliminator for functions
 
-! Applying a [lambda] function to arguments is the eliminator for functions
+
+
 
 Alpha-conversion is renaming lambda-variables in a consistent way (per Alonzo Church) 
 

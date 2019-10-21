@@ -1,3 +1,4 @@
+http://www.iarex.ru/articles/71549.html
 http://www.iarex.ru/articles/71543.html
 URLs
 https://ru-bykov.livejournal.com/3939500.html
@@ -332,12 +333,12 @@ Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  -  15.3    (of 1204)
 Zhitinskiy - Plyvun ru                              - 100.1    (of  588)
 Platov - Secret Farvater ru                         - 194.0    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 114..138 (of  338)
-Myshkis - Soviet Mathematicians ru                  - 102..114 (of  302)
-Shalyto - motivation                                - 364      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  - 102..150 (of 208)
-Bardin                                              -  48..52  (of 146)
-The Little Typer - 15                               -  48..75  (of 375..409)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 116..138 (of  338)
+Myshkis - Soviet Mathematicians ru                  - 104..114 (of  302)
+Shalyto - motivation                                - 366      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  - 104..150 (of 208)
+Bardin                                              -  50..52  (of 146)
+The Little Typer - 15                               -  50..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

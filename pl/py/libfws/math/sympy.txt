@@ -17,3 +17,7 @@ https://docs.sympy.org/latest/modules/stats.html
 
 2018
 https://habr.com/post/423731/
+2013
+Lamy - Instant SymPy Starter
+    387F0DD8CD0B7B3087EF478B20123BE5
+    ! really small

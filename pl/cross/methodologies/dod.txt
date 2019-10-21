@@ -6,6 +6,9 @@ Fabian - 2018 - Data Oriented Design
     http://dataorienteddesign.com/site.php?postid=138
     http://www.dataorienteddesign.com/dodbook/
 
+2019
+http://gamesfromwithin.com/data-oriented-design
+    https://habr.com/ru/post/472052/
 2018
 Prackevicius - ECS and DOD
     http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf
