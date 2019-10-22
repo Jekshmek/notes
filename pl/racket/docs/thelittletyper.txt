@@ -161,10 +161,10 @@ Note! every lambda-expression is a value
 ! Eliminating Functions
 Applying a [lambda] function to arguments is the eliminator for functions
 
+Note! Alpha-conversion is renaming lambda-variables in a consistent way (per Alonzo Church) 
 
 
 
-Alpha-conversion is renaming lambda-variables in a consistent way (per Alonzo Church) 
 
 ! The initial law of application:
 if f is an

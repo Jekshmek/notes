@@ -1,3 +1,6 @@
+2019
+Raj - What's New in Visual Studio Code
+    https://www.youtube.com/watch?v=TC10i_U4qCo
 2018
 Lu - C++ Development with Visual Studio Code (8:00 of)
     https://www.youtube.com/watch?v=UHS-aenkPPg
