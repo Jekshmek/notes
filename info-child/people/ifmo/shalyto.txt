@@ -14,7 +14,8 @@ http://is.ifmo.ru/belletristic/_zametki_o_motivacii.pdf
     112 - !!! Anatoly Tarasov
     170 - education: academic Novikov, ...
     213 - Zilber and Stalin
-    p321 (2840) Dolinsky about Korotkevich
+    321 (2840) Dolinsky about Korotkevich
+    370 - L. Faddeev about knowledge vs competency
 
 2018
 My Happy Years

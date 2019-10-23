@@ -2,6 +2,7 @@ https://vue-test-utils.vuejs.org/
 https://github.com/vuejs/vue-test-utils/
 
 2019
+https://www.vuemastery.com/blog/Unit-Testing-in-Vue-Your-First-Test/
 https://webdevblog.ru/testirovanie-vue-s-jest/
 https://vuejsdevelopers.com/2019/04/01/vue-testing-unit-vs-e2e/
 2018

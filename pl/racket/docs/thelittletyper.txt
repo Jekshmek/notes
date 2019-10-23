@@ -164,8 +164,6 @@ Applying a [lambda] function to arguments is the eliminator for functions
 Note! Alpha-conversion is renaming lambda-variables in a consistent way (per Alonzo Church) 
 
 
-
-
 ! The initial law of application:
 if f is an
     (-> Y  X)
@@ -188,6 +186,9 @@ as long as y does not occur in f.
 
 ! The law of renaming variables
 Consistently renaming variables can't change the meaning of anything.
+
+
+
 
 ! Neutral expressions - are not values and can not yet be evaluated due to a variable
     - (cdr x)  where x is a (Pair Nat Atom) is a neutral expression, because cdr is not a c-tor, but an elim
