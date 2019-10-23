@@ -1,9 +1,7 @@
-https://blog.predanie.ru/article/ne-tserkovnoslavyanskim-edinym/
-http://www.iarex.ru/articles/71549.html
-http://www.iarex.ru/articles/71543.html
 URLs
-https://ru-bykov.livejournal.com/3939500.html
-    4
+    https://blog.predanie.ru/article/ne-tserkovnoslavyanskim-edinym/
+    http://www.iarex.ru/articles/71549.html
+    http://www.iarex.ru/articles/71543.html
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -197,7 +195,7 @@ Toffler - 3rd Wave
 
 Video
 Vavilov - Domino Tilings 1
-    https://www.youtube.com/watch?v=hSnSAPDwHG4       1:10:00 (of 1:25:33)
+    https://www.youtube.com/watch?v=hFLkxxyRtJk         02:00 (of 1:37:09)
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
 Truschin - Math Circle                                  49:00 (of 1:24:34)
     https://www.youtube.com/watch?v=NacmB5WccqU
@@ -304,7 +302,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - L 09                                      -   00:00 (of 1:16:04)
+Sorokin - L 10                                      -   00:00 (of 1:37:22)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-levit/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
@@ -497,17 +495,6 @@ KulikovPevzner - Learning Algorithms Through Programming and Puzzle Solving
 KonnovaDremov
     https://www.labirint.ru/books/661336/
     https://www.alib.ru/5_konnova_e_g_dremov_v_a_ivamatematika_podgotovka_k_olimpiadam_osnovnye_idei_temy_tipy_zadach_w1t117270e537338395dfaec99cd545328677b6.html
-
-tl - 1929
-
-123456789+1111111111
-1234567900
-1234567900+11111111111
-12345679011
-12345679011+111111111111
-123456790122
-123456790122+1111111111111
-1234567901233
 
 http://math.mosolymp.ru/
 ZFTSH metodichki

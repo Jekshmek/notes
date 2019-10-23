@@ -14,7 +14,8 @@ Vavilov - Domino Tiling
     https://www.youtube.com/watch?v=R8x5q1B8KMU
 
     https://www.youtube.com/watch?v=hFLkxxyRtJk
-    https://www.youtube.com/watch?v=hSnSAPDwHG4
+
+    1 - https://www.youtube.com/watch?v=hSnSAPDwHG4
     !!! tiling, packing, covering
     ! abelian combinatory - coloring principle
     ! skewed tetramino
@@ -39,3 +40,4 @@ Vavilov - Domino Tiling
     ! ... black cells -> OD_n (odd diamond)
     ! theorem of Elkis, Kuperberg, Larsen and Propp (number of pokrytiy)
     ! beautifool proof of domino-shuffling !!!
+    ! !!! obzor Stanley !
