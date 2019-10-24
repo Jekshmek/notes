@@ -1,0 +1,2 @@
+2019
+https://devblogs.microsoft.com/cppblog/addresssanitizer-asan-for-windows-with-msvc/
