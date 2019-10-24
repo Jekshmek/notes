@@ -1,5 +1,4 @@
 URLs
-http://www.iarex.ru/articles/71549.html
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -10,12 +9,6 @@ Elementary Geometry
     https://chitatel.by/catalog/book/484630
 Complex Numbers
     https://chitatel.by/catalog/book/1246296
-Arnold - Experimental Math
-    https://chitatel.by/catalog/book/562770
-Arnold - Quaternions
-    https://chitatel.by/catalog/book/562768
-Arnold - Memo
-    https://chitatel.by/catalog/book/562769
 Adamar
     https://chitatel.by/catalog/book/472297
 LitvakKechedzhan - for Humanitarians ru
@@ -56,7 +49,6 @@ http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://vk.com/@postypashki-kak-podgotovitsya-k-olimpiadam-po-informatike
 
 https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
-    v tsarstve smekalki
     zeldovich myshkis - vysshaya matematika dlya nachinayuschih
     lakatos - proofs and disproofs
 Minlos

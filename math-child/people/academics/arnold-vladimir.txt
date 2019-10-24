@@ -3,12 +3,16 @@ https://biblio.mccme.ru/node/6081
 
 2018
 To the 80 years of Arnold
+    https://chitatel.by/catalog/book/562769
     https://biblio.mccme.ru/node/6081/shop
+    https://www.litres.ru/raznoe/v-i-arnold-k-vosmidesyatiletiu-40304607/
     https://vk.com/doc245465488_505307602?hash=716433a5ab6888d69b
     https://vk.com/doc245465488_505307635?hash=bb9e9700ecfe95f51a
 https://trv-science.ru/2018/01/16/novye-knigi-k-yubileyu-arnolda/
 Arnold - Experimental Math
+    https://chitatel.by/catalog/book/562770
     https://biblio.mccme.ru/node/6076/
+    64E542312C1A5B6BF27110D74559524A
 Erover - Memorial to Arnold
     http://world.lib.ru/j/jarower_e_p/matematikomatematikeimatematikah.shtml
 Alive Math
@@ -37,16 +41,34 @@ SevryukFilippov - Problems of Arnold ru
     ! not downloaded
 Iliyashenko - About Arnold ru
     https://vk.com/doc1417536_443796198?hash=b497f1a0069350e947
+2006
+Arnold - Underestimated Puankare ru
+    804CBBF3F28AC583B5BC61E61BB5BE57
+    ! not loaded
+2002
+Arnold - Math Duel around Burbaki ru
+    ABD5C8C7D0AE710BAD7D3F369E7C4E59
+    ! not loaded
 2000
 Arnold - Nuzhna li shkole mathematika
     https://www.mccme.ru/free-books/arnold/VIA-schoolmath.pdf
+ArnoldGivental - Simplex Geometry 2nd ed ru
+    EDD4C6555A5E47C501CAEE66C8332A3D
+    1531C69A4DB01D02D90F8841AFD655DA
+    136EF86EAF3A02E8BBEE9D3081D6326C
+    ! not loaded
 1998
 Sevryuk - My Scientivic Advisor Arnold ru
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mp&paperid=19&option_lang=rus
 Arnold - About Teaching Math ru
     http://www.ega-math.narod.ru/Arnold2.htm
+1997
+Arnold - Selected 60 ru
+    55D83B5D123AE69224AC5C11DC0BFEDC
+    ! bad scan
 1988
 Arnold - Math with a Human Face ru
     https://dxdy.ru/topic117451.html
     priroda.ras.ru/djvu/1988-03.djvu
     ! p 119-120
+

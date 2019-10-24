@@ -14,6 +14,12 @@ https://lenta.ru/articles/2013/11/13/quaternion/
 Conway - On Quaternions and Octanions ru
     3930E3FA2FD547C8155008E6B457F483
     1D03DE2931F391616F22E282CD4C5482
+2002
+Arnold - Geometry of Quaternions
+    https://chitatel.by/catalog/book/562768
+    https://www.mccme.ru/free-books/izdano/2002/VIA-kvatern.pdf
+    http://www.vixri.com/d2/Arnold%20V.I.%20_%20Geometrija%20kompleksnyx%20chisel,%20kvaternionov%20i%20spinov.pdf
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=1040&option_lang=rus
 1999
 Kuipers - Quaternions and Rotation Sequences
     0F392DA56D7A7A51E68644F88B9BB274
