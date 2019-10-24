@@ -1,7 +1,6 @@
+http://www.iarex.ru/articles/71549.html
+http://www.iarex.ru/articles/71543.html
 URLs
-    https://blog.predanie.ru/article/ne-tserkovnoslavyanskim-edinym/
-    http://www.iarex.ru/articles/71549.html
-    http://www.iarex.ru/articles/71543.html
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
@@ -316,7 +315,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 308
+This week in rust                                   - 309
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 152
