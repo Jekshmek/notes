@@ -2,9 +2,11 @@
 Lysenko - Math Olymp 6-11 class
     https://uchitel.by/catalog/book/1220086
     need to look first
-2017
 ZaslavskiySkopenkov - Math Elements in Problems ru
+    https://www.mccme.ru/circles/oim/materials/sturm.pdf
+    https://arxiv.org/pdf/1905.10210.pdf
     8E2E038905F7ECCC47EFCFD20D2103B3
+    ! 2017
 2012
     https://www.isinj.com/mt-usamo/Math%20Olympiad%20Dark%20Arts%20-%20Goucher%20(2012).pdf
 2010

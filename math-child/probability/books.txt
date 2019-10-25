@@ -1,3 +1,6 @@
+2017
+VysotskiyYaschenko - Probability Olympiad Problems ru
+    https://biblio.mccme.ru/node/5797/shop
 2015
 Kolmogorov - Probability Theory Intro ru
 MostellerRurkeThomas - Probability ru
@@ -7,6 +10,11 @@ MostellerRurkeThomas - Probability ru
 Shen - Probability Samples and Problems 2nd ed ru
     20FDB99FBD508D81B5B9CF08B0C4D055
     3B9F539D4DF0D4241F51663D4A8E3E05
+2003
+GuseinZade - Picky Bride ru
+    https://www.mccme.ru/free-books/mmmf-lectures/book.25.pdf
+    ! Sabir Medzhidovich
+    http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=tvp&paperid=652&option_lang=rus
 1990
 Lyuticas - Faculty Math Course - Probability Theory 9-11 class 3rd ed ru
     99F98B76A991BED1F55813801CCB2C2F

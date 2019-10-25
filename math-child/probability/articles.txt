@@ -1,2 +1,4 @@
+http://ptlab.mccme.ru/node/252
+
 2019
 https://machinelearningmastery.com/what-is-probability/
