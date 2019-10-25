@@ -22,6 +22,7 @@ ts-integration
 https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
 
 2019
+https://habr.com/ru/post/473070/
 https://kentcdodds.com/blog/dont-sync-state-derive-it
 https://blog.logrocket.com/animations-react-hooks-greensock/
 https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb
