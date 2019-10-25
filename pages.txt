@@ -129,13 +129,11 @@ Zavelskiy - EGE
 Novikov - Math on the Threshold of 21st Century 
     http://aspirant.rggu.ru/article.html?id=50768
 Arnold - About Teaching Math ru
-    https://vk.com/doc245465488_505307635?hash=bb9e9700ecfe95f51a
-    https://mccme.ru/arnold/books/odu-12.pdf
-    https://trv-science.ru/2018/01/16/novye-knigi-k-yubileyu-arnolda/
-    https://trv-science.ru/2010/06/08/o-vladimire-igoreviche-arnolde/
     http://www.ega-math.narod.ru/Arnold2.htm
     https://www.mccme.ru/free-books/matpros/pdf/mp21_%D0%92_%D0%98_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4.pdf
     http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=rm&paperid=4580&option_lang=rus
+    https://trv-science.ru/2018/01/16/novye-knigi-k-yubileyu-arnolda/
+    https://trv-science.ru/2010/06/08/o-vladimire-igoreviche-arnolde/
 Petrovskiy
     http://www.math.msu.su/petr
     http://oralhistory.ru/talks/orh-580/text
@@ -319,15 +317,15 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  -  30.3    (of 1204)
+Kantor - Red Color                                  -  49.6    (of 1204)
 Zhitinskiy - Plyvun ru                              - 118.9    (of  588)
-Platov - Secret Farvater ru                         - 229.6    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 122..138 (of  338)
-Myshkis - Soviet Mathematicians ru                  - 110..114 (of  302)
-Shalyto - motivation                                - 372      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  - 110..150 (of 208)
-Bardin                                              -  56..74  (of 146)
-The Little Typer - 15                               -  56..75  (of 375..409)
+Platov - Secret Farvater ru                         - 240.8    (of  755)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 124..138 (of  338)
+Myshkis - Soviet Mathematicians ru                  - 112..114 (of  302)
+Shalyto - motivation                                - 374      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  - 112..150 (of 208)
+Bardin                                              -  58..74  (of 146)
+The Little Typer - 15                               -  58..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-

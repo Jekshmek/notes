@@ -194,11 +194,9 @@ but
 ???
     maybe they are just like a lambda-expressions wihtout arguments part ???
 
-
-
-
-! If two expressions have identical eliminators at the top and all arguments to the eliminators are the same,
-then the expressions are the same
+Note! If two expressions have identical eliminators at the top
+    and all arguments to the eliminators are the same,
+    then the expressions are the same
 
 ! The Commandment of Neutral Expressions
 Neutral expressions that are written identically are the same, no matter their type
@@ -212,6 +210,9 @@ then
     name is an X [has type of X]
 and
     name is the same X as expr.
+
+
+
 
 ! The seconce Commandment of cons
 If p is a (Pair A D), then it is the same (Pair A D) as
