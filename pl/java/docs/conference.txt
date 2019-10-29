@@ -2,6 +2,10 @@
 JPoint
     https://habr.com/ru/company/jugru/blog/468135/
     https://www.youtube.com/playlist?list=PLVe-2wcL84b_fBL9xJTxkEBtvCKfRGEV1
+jug.msk.ru
+    https://habr.com/ru/company/jugru/blog/473332/
+    https://speakerdeck.com/jugmsk
+    https://www.youtube.com/playlist?list=PLojTLDAO4jjIRjDPIQjc4iG7CfR6m8pfc
 2018
 JPoint
     https://habr.com/company/jugru/blog/433858/

@@ -3,6 +3,7 @@ https://habrahabr.ru/company/yandex/blog/321434/
 http://bayesiandeeplearning.org/
 
 2019
+https://habr.com/ru/company/otus/blog/473468/
 https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 https://machinelearningmastery.com/what-is-bayesian-optimization/
 https://machinelearningmastery.com/bayes-theorem-for-machine-learning/
