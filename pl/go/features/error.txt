@@ -2,6 +2,8 @@ https://blog.golang.org/defer-panic-and-recover
 https://hackernoon.com/correct-error-handling-is-hard-307ea72759c7
 
 2019
+https://blog.golang.org/go1.13-errors
+    https://habr.com/ru/company/mailru/blog/473658/
 https://medium.com/gett-engineering/error-handling-in-go-53b8a7112d04
     https://habr.com/ru/company/otus/blog/453806/
 2018

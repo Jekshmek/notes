@@ -211,12 +211,12 @@ then
 and
     name is the same X as expr.
 
-
-
-
 ! The seconce Commandment of cons
 If p is a (Pair A D), then it is the same (Pair A D) as
     (cons (car p) (cdr p))
+
+
+
 
 ! Names in definitions
 In Pie, only names that are not already used, whether for constructors, eliminators,
