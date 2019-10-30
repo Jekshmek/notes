@@ -1,11 +1,13 @@
 URLs
+Dvorkin
+    https://videoportal.epam.com/video/9o3wGAol
+https://trv-science.ru/category/edu/
+    https://trv-science.ru/category/edu/page/15/
 zen
     https://vertical.sch-int.ru/kak-rabotat-v-proekte/seminary/
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/chto-takoe-matematicheskaia-vertikal-5d3c5eedddfef600ad135a84
     https://www.youtube.com/user/natnetint/videos
     https://zen.yandex.ru/media/id/5d2af8e495aa9f00b1bec6ba/issleduem-deliteli-5d46703a23371c00af40975d
-Complex Numbers
-    https://chitatel.by/catalog/book/1246296
 Adamar
     https://chitatel.by/catalog/book/472297
 LitvakKechedzhan - for Humanitarians ru
@@ -19,12 +21,6 @@ Numbers
     https://chitatel.by/catalog/book/535103
     https://chitatel.by/catalog/book/1242735
     https://chitatel.by/catalog/book/1285283
-Ignatiev - In the Kingdom of Savvy
-Dvorkin
-    https://videoportal.epam.com/video/9o3wGAol
-
-https://trv-science.ru/category/edu/
-    https://trv-science.ru/category/edu/page/15/
 
 misc
 https://zanauku.mipt.ru/2018/08/27/vremya-pervyh/
@@ -169,7 +165,6 @@ Bogatyrev - 2005 - Nas ne Dogonyat
     http://www.ict.edu.ru/ft/004778/acm2005.pdf
 
 https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb
-https://wiki.archlinux.org/index.php/Disk_encryption#How_the_encryption_works
 https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
