@@ -33,6 +33,9 @@ SmirnovYaschenko - Visual Geometry ru
     01B22239B534BF5493048CD5E07736AD
 2012
 SmirnovYaschenko - Visual Geometry WorkBooks 5-6 class ru
+2010
+Arutyunyan - Elementary Geometry ru
+    https://chitatel.by/catalog/book/484630
 2009
 Arnold - Real Algebraic Geometry ru
     BCF969B4B26964EDB058A6BFAA71D8CB

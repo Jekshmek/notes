@@ -6,6 +6,9 @@ Kolmogorov - Probability Theory Intro ru
 MostellerRurkeThomas - Probability ru
     66155F3B66CD55A54BAE67617F40AAEB
     D930DF1C93C0A8BEFF63AD1374ED885A
+2009
+Uspenskiy - Four Algorithmic Faces of Probability 2nd ed ru
+    https://www.mccme.ru/free-books/dubna/vau-random-2ed.pdf
 2008
 Shen - Probability Samples and Problems 2nd ed ru
     20FDB99FBD508D81B5B9CF08B0C4D055
@@ -29,6 +32,11 @@ Lyuticas - To Schoolboy About Probability Problems 2nd ed ru
     7AA2B18DB4933C22B3219650DD661E2D
     C22B8EB6BCB3373BBC181A4FD72EFA97
     ! not loaded
+1977
+Shor - In World of Accidentals ru
+    0437A359E91E381FB449391B328B95F7
+    078866B7F9B0317E123DEDE3073AC95C
+    7CC0F00FF1B445E79D76C2D5DE215357
 1975
 Mosteller - 50 Probability Problems ru
     https://vk.com/doc501194371_506445618?hash=9abc1df0a445f3e591

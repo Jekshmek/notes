@@ -215,9 +215,6 @@ and
 If p is a (Pair A D), then it is the same (Pair A D) as
     (cons (car p) (cdr p))
 
-
-
-
 ! Names in definitions
 In Pie, only names that are not already used, whether for constructors, eliminators,
 or previous definitions, can be used with claim or define.
@@ -229,6 +226,10 @@ Nat-eliminator:
 
 ! Dim names
 Unused names are written dimly, but they do need to be there
+
+
+
+
 
 ! The law or which-Nat
 If target is a Nat, base is an X, and step is an

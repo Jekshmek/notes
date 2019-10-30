@@ -4,7 +4,12 @@ http://lamport.azurewebsites.net/tla/tlc.html
 https://github.com/tlaplus/tlaplus
 
 https://www.learntla.com
+    https://learntla.com/tla/sets/
 https://github.com/hwayne/learntla
+
+blogs
+https://www.hillelwayne.com/
+https://pron.github.io/
 
 wiki
 https://en.wikipedia.org/wiki/TLA%2B
@@ -23,6 +28,7 @@ tutorials
 http://lamport.azurewebsites.net/video/videos.html
 
 samples
+https://jack-vanlightly.com/blog/2019/1/27/building-a-simple-distributed-system-formal-verification
 http://roscidus.com/blog/blog/2019/01/01/using-tla-plus-to-understand-xen-vchan/
 
 books
@@ -33,7 +39,7 @@ Wayne - Practical TLAPlus
 
 courses
 2019
-http://lamport.azurewebsites.net/video/videos.html
+https://lamport.azurewebsites.net/video/videos.html
     https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD
 
 2019
@@ -51,6 +57,7 @@ Paweł Szulc at #ScalaUA - Formal specification applied (with TLA+) (remote sess
 Wayne - Tackling Concurrency Bugs with TLA+
     https://hillelwayne.com/talks/tackling-concurrency-tlaplus/
     https://www.youtube.com/watch?v=_9B__0S21y8
+https://sookocheff.com/post/tlaplus/getting-started-with-tlaplus/
 2014
 Leslie Lamport - Thinking Above the Code
     https://www.youtube.com/watch?v=-4Yp3j_jk8Q

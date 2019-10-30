@@ -1,3 +1,8 @@
+https://en.cppreference.com/w/cpp/string/basic_string_view
+https://isocpp.org/files/papers/N3762.html
+
+2019
+https://www.nextptr.com/tutorial/ta1217154594/cplusplus-stdstring_view-for-better-performance-an-example-use-case
 2018
 https://www.bfilipek.com/2018/12/fromchars.html
 https://blogs.msdn.microsoft.com/vcblog/2018/08/21/stdstring_view-the-duct-tape-of-string-types/
