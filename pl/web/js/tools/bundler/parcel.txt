@@ -1,7 +1,9 @@
 https://parceljs.org/
 https://github.com/parcel-bundler/parcel
 
-articles
+2019
+https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/
+    https://habr.com/ru/company/ruvds/blog/473764/
 https://medium.com/@ibrahimbutt/if-youve-ever-configured-webpack-parcel-will-blow-your-mind-b615468cee78
 https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082
 https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95
