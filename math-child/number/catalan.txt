@@ -4,6 +4,9 @@ https://neerc.ifmo.ru/wiki/index.php?title=%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%9A
 http://mathworld.wolfram.com/CatalanNumber.html
 http://e-maxx.ru/algo/catalan_numbers
 
+2019
+Spivak - Catalan Numbers ru
+    https://www.youtube.com/watch?v=sEEp-Asb04U
 2013
 Stanley - Catalan Addendum
     http://www-math.mit.edu/~rstan/ec/catadd.pdf
