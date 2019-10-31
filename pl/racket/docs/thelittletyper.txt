@@ -227,10 +227,6 @@ Nat-eliminator:
 ! Dim names
 Unused names are written dimly, but they do need to be there
 
-
-
-
-
 ! The law or which-Nat
 If target is a Nat, base is an X, and step is an
     (-> Nat
@@ -252,6 +248,10 @@ If (which-Nat (add1 n)
     base
     step)
 is an X, then it is the same X as (step n).
+
+
+
+
 
 ! Type Values
 An expression that is described by a type is a value when it has a "c-tor" at its top.
