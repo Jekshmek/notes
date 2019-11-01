@@ -1,3 +1,5 @@
+2019
+https://www.infoq.com/articles/java-local-variable-type-inference/
 2018
 https://habr.com/ru/company/otus/blog/456010/
 https://dzone.com/articles/var-work-in-progress
