@@ -249,6 +249,26 @@ If (which-Nat (add1 n)
     step)
 is an X, then it is the same X as (step n).
 
+sample 1:
+    (which-Nat 5
+        (\ (n)
+            (+ 6 n)))
+is 10 because
+    ((\ (n)
+        (+ 6 n))
+        4)
+is 10
+
+sample 2:
+    (claim gauss
+        (-> Nat
+            Nat))
+    (define gauss
+        (\ (n)
+            (which-Nat n
+                0
+                (\ (n-1)
+                    (+ (add1 n-1) (gauss n-1))))))
 
 
 

@@ -320,9 +320,9 @@ Platov - Secret Farvater ru                         - 261.9    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 130..138 (of  338)
 Myshkis - Soviet Mathematicians ru                  - 118..132 (of  302)
 Shalyto - motivation                                - 380      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  - 118..150 (of 208)
-Bardin                                              -  64..74  (of 146)
-The Little Typer - 15                               -  64..75  (of 375..409)
+Froydental - Math as Pedagogical Problem part 1 ru  - 120..150 (of 208)
+Bardin                                              -  66..74  (of 146)
+The Little Typer - 15                               -  66..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 zis 110 need: 66, 71-73, 81-82, 93, 95-
