@@ -10,3 +10,7 @@ C+S+R
     Run Debug
 C+S+X
     Extensions
+
+2019
+TraversyMedia - VSCode Keyboard Shortcuts For Productivity
+    https://www.youtube.com/watch?v=Xa5EU-qAv-I
