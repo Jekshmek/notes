@@ -17,6 +17,9 @@ Dubnov - Segment Measurement ru
 Beskin - Segment Splitting in Given Proportion ru
     B5987764565F6CCAA838BF16981CA94A
     07E6171C799931F77C9B863D8557C089
+1954
+Strazhevskiy - GMT Problems ru
+    http://www.mathedu.ru/lib/books/strazhevskiy_zadachi_na_gmt_1954/
 1940
 Adler - Geometric Building Theory 3rd ed ru
     09D5D00E97F61DE76DF26A33BA28BC5A
