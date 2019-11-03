@@ -1,4 +1,3 @@
-https://www.mccme.ru/free-books/pdf/kukin.pdf
 https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B8%D0%BD%D0%BE
 https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%BE
 https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%BE_(%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%B8%D0%BD%D0%BE)
@@ -38,6 +37,10 @@ Smirnov - Zamoscheniya
 Pronina - Zamoscheniya
     https://www.youtube.com/watch?v=3Lvw8LXioyQ
 
+2014
+EkimovaKukin - Cut Problems ru
+    https://chitatel.by/catalog/book/324619
+    https://www.mccme.ru/free-books/pdf/kukin.pdf
 2015
 Baranov Baranova - Extreme Problems of Discrete Math - Coloring Method ru
     http://elibrary.udsu.ru/xmlui/bitstream/handle/123456789/13199/2015130.pdf

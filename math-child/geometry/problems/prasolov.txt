@@ -18,6 +18,7 @@ Prasolov - Geometry Advanced Problems 7 class ru
 Prasolov - Planimetry Problems 5th ed ru
     http://ilib.mccme.ru/pdf/planim5.pdf
     ftp://ftp.mccme.ru/users/prasolov/planim/5ed/planim5.pdf
+    https://docviewer.yandex.ru/view/0/?page=10&*=NdUvhd%2FnDp%2FZ43UoZq8B5ugU3N17InVybCI6InlhLWRpc2stcHVibGljOi8va09mU2U4MjNXNEZlb2F6eWhKczgySjIwOTRSK0hXRGVKK0xNMGZIcGV2QT0iLCJ0aXRsZSI6InBsYW5pbTUucGRmIiwidWlkIjoiMCIsInl1IjoiMzEyODM2MzE4MTUwNjc2Nzc0MyIsIm5vaWZyYW1lIjpmYWxzZSwidHMiOjE1NTAwNDg3OTQwMzJ9
     2B7E5A7D55B5F5049E6BB84C670AF5F2
     95E81057A9A4FDEC1F8DA3724717701D
     9652B0A72401F39D8158ADA3CC627D7A

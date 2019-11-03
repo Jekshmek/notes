@@ -39,6 +39,11 @@ https://cyberleninka.ru/article/v/podgotovka-uchenikov-k-olimpiadam-po-informati
 http://informatiki.tgl.net.ru/konkursy-i-olimpiady/olimp-programmir.html
 https://vk.com/@postypashki-kak-podgotovitsya-k-olimpiadam-po-informatike
 
+Geidman - Teacher
+    http://www.1543.ru/teachers/inter/geidman/bp.htm
+    2003
+    6F3AAD6D70C678C68FBE880913598F66
+    7C2FA8BA9BEB382BD866DBE206127F7C
 Zvonkin
     https://polit.ru/article/2006/06/30/frum/
 https://trv-science.ru/2009/02/17/nuzhna-li-shkolnikam-vysshaya-matematika/
@@ -79,8 +84,6 @@ Uspenskiy
     https://elementy.ru/nauchno-populyarnaya_biblioteka/432214
     https://daily.afisha.ru/archive/gorod/archive/vladimir-uspenskiy-matematik-lingvist/
     https://postnauka.ru/longreads/79850
-    https://www.mccme.ru/free-books/uspenskii/math-hum-2ed.pdf
-    https://www.mccme.ru/free-books/mmmf-lectures/book.34-2.pdf
     https://nplus1.ru/material/2018/06/28/after-vladimir-uspensky
 Panin
     http://old.journal.spbu.ru/2003/26/9.shtml
@@ -168,7 +171,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mccme
-    2019-01-05
+    2019-03-08
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
@@ -221,6 +224,10 @@ Antropov - Distance Olymp Teaching
 Shnol - Short Multi Formulas
     https://www.youtube.com/watch?v=Hm4yf7B3tTA
     https://www.youtube.com/watch?v=BJWEbMzcg8w
+Sgibnev - 2019 - Math and Life
+    https://www.youtube.com/watch?v=ScAGWh_ApCQ
+Kanunnikov - 2019 - Geometry Transforms Algebra
+    https://www.youtube.com/watch?v=0zEYtz6LXs4
 Meijer - ML
     https://www.youtube.com/watch?v=Rs0uRQJdIcg
 Stroustrup - Concepts
@@ -502,6 +509,7 @@ http://triple.by/activities/stroitelstvo
 http://triple.by/activities/stroitelstvo/zhiloy-kompleks-marmelad
 
 https://a-100development.by/proekty/zhilaya-nedvizhimost/
+https://citydog.by/post/novaya-baravaya/
 
 sushiteli
 https://ksk.by/cantexnika/polotencecushiteli/vodyanie-polotencecushiteli/polotencecushitel-bravo-50x80-c-polkoi-bokovoe-podklyuchenie-cleva-50-158265.html
