@@ -5,8 +5,6 @@ https://trv-science.ru/category/edu/
     https://trv-science.ru/category/edu/page/15/
 Adamar
     https://chitatel.by/catalog/book/472297
-Games Theory
-    https://chitatel.by/catalog/book/549108
 Hess - Puzzles
     https://chitatel.by/catalog/book/1251960
 Numbers
@@ -14,6 +12,12 @@ Numbers
     https://chitatel.by/catalog/book/535103
     https://chitatel.by/catalog/book/1242735
     https://chitatel.by/catalog/book/1285283
+Raizer - 1966 - Combinatory Math
+Riordan - Intro to Combinatory Analysis
+Anderson - Discrete Math and Combinatorics
+2009
+ZaslavskiyPermyakovSkopenkovShapovalov - Math in Problems ru
+    https://www.mccme.ru/free-books/olymp/matprob.pdf
 
 misc
 https://zanauku.mipt.ru/2018/08/27/vremya-pervyh/
@@ -269,8 +273,6 @@ Ivanov - EGE                                        -   16:00 (of 1:11:29)
     https://www.youtube.com/watch?v=0GNfJut-dyo
     https://www.youtube.com/channel/UCt0t1Oy6OeYE6nVkqE9LqDQ/videos
 
-https://blog.predanie.ru/article/hristianstvo-i-fallokratiya-1-po-bukve-slova-pisaniya-inogda-ne-soobrazny-s-istinoj-dazhe-bessmyslenny-i-nevozmozhny/
-    2
 Kukin - 1994                                        -   04:00 (of 2:12:31)
     https://www.youtube.com/watch?v=0IbpQqzzGxc
 Lit
@@ -313,7 +315,7 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  -  77.5    (of 1204)
+Kantor - Red Color                                  - 180.6    (of 1204)
 Zhitinskiy - Plyvun ru                              - 224.0    (of  588)
 Platov - Secret Farvater ru                         - 287.5    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 134..138 (of  338)
@@ -324,15 +326,10 @@ Bardin                                              -  68..74  (of 146)
 The Little Typer - 15                               -  68..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
-zis 110 need: 66, 71-73, 81-82, 93, 95-
 
 clear at D:/Temp
     jna*.dll
     snappy*
-
-Raizer - 1966 - Combinatory Math
-Riordan - Intro to Combinatory Analysis
-Anderson - Discrete Math and Combinatorics
 
 Bufetov - Probability Theory History
     https://polit.ru/article/2014/03/30/lecture_bufetov/
@@ -386,14 +383,6 @@ https://habr.com/en/post/335906/
 bsu liceum
 https://www.kp.by/daily/26595/3611113/
 
-to search
-Kanel-Belov
-Sevryukov Smolyakov
-    Halmosh, Poya, Arnold
-
-2009
-ZaslavskiyPermyakovSkopenkovShapovalov - Math in Problems ru
-    https://www.mccme.ru/free-books/olymp/matprob.pdf
 
 2017
 VyalyiPodolskiyRubtsovShvartsShen - 2017 - Discrete Math Lections ru
@@ -505,7 +494,4 @@ https://citydog.by/post/novaya-baravaya/
 
 sushiteli
 https://ksk.by/cantexnika/polotencecushiteli/vodyanie-polotencecushiteli/polotencecushitel-bravo-50x80-c-polkoi-bokovoe-podklyuchenie-cleva-50-158265.html
-https://ksk.by/cantexnika/polotencecushiteli/vodyanie-polotencecushiteli/polotencecushitel-trapeciya-50x100-6-perekl-c-polkoi-bokovoe-podklyuchenie-cleva-50-158300.html
-
 https://www.21vek.by/towel_rails/50x80_granula_03.html
-https://www.21vek.by/towel_rails/tfw11100501_dvin.html
