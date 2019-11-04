@@ -3,6 +3,8 @@ https://github.com/Microsoft/TypeScript/wiki/Roadmap
 npm
     typescript@rc
 
+3.7
+https://morioh.com/p/4f7ac56ebe8f
 3.6
 https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/
     https://www.infoq.com/news/2019/09/typescript-3-6-release/

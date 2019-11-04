@@ -270,12 +270,16 @@ sample 2:
                 (\ (n-1)
                     (+ (add1 n-1) (gauss n-1))))))
 
-
-
+Note! recurstion is not an option (at least now, infinite recursion)
+    so, a different eliminator is needed here (not a which-Nat)
 
 ! Type Values
 An expression that is described by a type is a value when it has a "c-tor" at its top.
 Similarly, an expression that is a type is a value when it has a "type c-tor" at its top.
+
+
+
+
 
 Note: Type c-tors:
     Nat, Atom, Pair, ->, U

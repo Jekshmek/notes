@@ -1,5 +1,7 @@
 https://kotlinlang.org/docs/reference/operator-overloading.html
 
+2019
+https://blog.frankel.ch/kotlin-operators/
 2018
 http://thetechstack.net/blog/2018/12/15/kotlin-operators
 

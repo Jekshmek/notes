@@ -12,6 +12,7 @@
 * [Semenov - Move Semantics and Perfect Forwarding in C++11] (http://www.codeproject.com/Articles/397492/Move-Semantics-and-Perfect-Forwarding-in-Cplusplus)
 * [Alexandrescu - Rvalues redefined] (https://akrzemi1.wordpress.com/2018/05/16/rvalues-redefined/)
 * [C++ rvalue references and move semantics for beginners] (https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners)
+* [Value Categories] (https://blog.panicsoftware.com/value-categories-gl-l-x-r-prvalues/)
 
 ### Capture by Move and related
 
