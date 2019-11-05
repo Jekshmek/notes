@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/472994/
 https://www.toptal.com/spring/top-10-most-common-spring-framework-mistakes
     https://habr.com/ru/company/otus/blog/465063/
     https://habr.com/ru/company/otus/blog/464429/
