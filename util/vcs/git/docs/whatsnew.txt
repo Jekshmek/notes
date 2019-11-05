@@ -1,3 +1,8 @@
+2.24
+http://lkml.iu.edu/hypermail/linux/kernel/1911.0/01413.html
+    https://www.opennet.ru/opennews/art.shtml?num=51810
+    config macros
+        git config feature.manyFiles true
 2.23
 http://www.opennet.ru/opennews/art.shtml?num=51300
     https://www.infoq.com/news/2019/08/git-2-23-switch-restore/

@@ -1,4 +1,5 @@
 URLs
+https://habr.com/ru/company/edison/blog/474622/
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
 https://trv-science.ru/category/edu/
@@ -495,3 +496,7 @@ https://citydog.by/post/novaya-baravaya/
 sushiteli
 https://ksk.by/cantexnika/polotencecushiteli/vodyanie-polotencecushiteli/polotencecushitel-bravo-50x80-c-polkoi-bokovoe-podklyuchenie-cleva-50-158265.html
 https://www.21vek.by/towel_rails/50x80_granula_03.html
+
+tt
+https://www.studmed.ru/ivanov-v-nastolnyy-tennis_f67bf203d3a.html
+http://tabletennis.hobby.ru/history/ivanov.shtml
