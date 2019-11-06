@@ -1,4 +1,5 @@
 2019
+https://medium.com/@polyglot_factotum/rust-concurrency-patterns-condvars-and-locks-e278f18db74f
 https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56
 https://stjepang.github.io/2019/03/02/new-channels.html
 2015
