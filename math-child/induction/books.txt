@@ -11,6 +11,7 @@ Kirkinskiy - Linear Algebra and Analytic Geometry ru
 Sominskiy - Math Induction Method ru
 1961
 GolovinaYaglom - Induction in Geometry 2nd ed ru
+    https://math.ru/lib/book/plm/v21.djvu
     8B8EAC0934A07722E5340F79059EB091
     BF15DD7D6CBB3CE2C3B17A5E5C18F436
 1957

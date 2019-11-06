@@ -3,6 +3,7 @@ https://frontarm.com/toolbox/promises-async-await-cheatsheet/
 https://github.com/frontarm/async-javascript-cheatsheet
 
 2019
+https://habr.com/ru/post/474726/
 http://thecodebarbarian.com/async-generator-functions-in-javascript.html
 https://itnext.io/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc
 https://css-tricks.com/finally-a-post-on-finally-in-promises/
