@@ -3,4 +3,3 @@ TP-LINK WR741ND(841)
 
 IPoE
 http://garant-tv.by/index.php?option=com_content&view=article&id=503&Itemid=1
-

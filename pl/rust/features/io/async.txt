@@ -2,12 +2,18 @@ https://areweasyncyet.rs/
 https://aturon.github.io/apr/
 
 https://rust-lang.github.io/async-book/
+https://rust-lang.github.io/async-book/index.html
+    https://github.com/rust-lang/async-book
+    https://rust-lang.github.io/async-book/02_execution/04_executor.html
+
 https://cfsamson.github.io/book-exploring-async-basics/
 
 2019
+https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
 http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/
 https://boats.gitlab.io/blog/post/poll-drop/
 https://www.infoq.com/presentations/rust-2019/
+https://blog.rust-lang.org/inside-rust/2019/10/11/AsyncAwait-Not-Send-Error-Improvements.html
 https://blog.rust-lang.org/inside-rust/2019/10/07/AsyncAwait-WG-Focus-Issues.html
 https://blog.rust-lang.org/2019/09/30/Async-await-hits-beta.html
 https://tmandry.gitlab.io/blog/posts/optimizing-await-1/
@@ -22,7 +28,10 @@ https://blog.yoshuawuyts.com/runtime/
     https://github.com/rustasync/runtime
 https://boats.gitlab.io/blog/post/for-await-i/
 https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2
+RustLatam 2019 - Without Boats: Zero-Cost Async IO
+    https://www.youtube.com/watch?v=skos4B5x7qE
 2018
+http://aturon.github.io/tech/2018/04/24/async-borrowing/
 https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html
 Fey - Rust Async Programming in 2018
     https://www.youtube.com/watch?v=j0SIcN-Y-LA

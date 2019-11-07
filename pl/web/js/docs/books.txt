@@ -24,3 +24,8 @@ Morgan - JavaScript for Kids ru
 Belyaev - JavaScript Game Development ru
 2015
 Kantor - JavaScript Programming Language part1 ru
+
+for children
+Witney - Programming for Children ru
+    https://www.piter.com/collection/new/product/programmirovanie-dlya-detey-pyat-samyh-krutyh-igr-na-html-i-javascript
+    https://habr.com/ru/company/piter/blog/474892/
