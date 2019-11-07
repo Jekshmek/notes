@@ -54,8 +54,9 @@ http://neuralnetworksanddeeplearning.com/
 Manning - Trask - Grokking Deep Learning
 https://iamtrask.github.io/
 Sugomori - Deep Learning Essentials
-https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
+    https://vk.com/doc4004138_453604538?hash=bc45396af5fb16e314
 Michelucci - Applied Deep Learning
+    https://vk.com/doc4004138_522102307?hash=8324f5e6927c59dc9a
 
 2017
 Buduma - Fundamentals of Deep Learning (tf)
