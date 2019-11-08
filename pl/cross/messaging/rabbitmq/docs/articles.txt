@@ -3,6 +3,7 @@
     https://habr.com/ru/company/itsumma/blog/418389/
 https://jack-vanlightly.com/blog/2018/9/10/how-to-lose-messages-on-a-rabbitmq-cluster
 https://jack-vanlightly.com/blog/2018/9/2/rabbitmq-vs-kafka-part-6-fault-tolerance-and-high-availability-with-kafka
+    https://habr.com/ru/company/itsumma/blog/474984/
 https://jack-vanlightly.com/blog/2018/8/31/rabbitmq-vs-kafka-part-5-fault-tolerance-and-high-availability-with-rabbitmq
     https://habr.com/ru/company/itsumma/blog/471858/
 https://jack-vanlightly.com/blog/2017/12/15/rabbitmq-vs-kafka-part-4-message-delivery-semantics-and-guarantees
