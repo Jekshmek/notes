@@ -1,4 +1,4 @@
-https://github.com/KDE/heaptrack
+https://github.com/KDE/heaptrack/
 
 https://userbase.kde.org/Heaptrack
 https://userbase.kde.org/Heaptrack/Build/Ubuntu_16.04
@@ -21,3 +21,8 @@ community/heaptrack
     libheaptrack_preload.so
 /usr/share/applications/
     org.kde.heaptrack.desktop
+
+2019
+Zemlin - Keynote: Welcome and Opening Remarks
+    https://www.youtube.com/watch?v=jOxJmsPG3Ow
+    https://elinux.org/images/3/30/Tooling.pdf
