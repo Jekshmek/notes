@@ -177,7 +177,7 @@ https://vk.com/mccme
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
-    2019-11-07
+    2019-11-09
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -502,19 +502,48 @@ sushiteli
 https://ksk.by/cantexnika/polotencecushiteli/vodyanie-polotencecushiteli/polotencecushitel-bravo-50x80-c-polkoi-bokovoe-podklyuchenie-cleva-50-158265.html
 https://www.21vek.by/towel_rails/50x80_granula_03.html
 
-marmelad
+??? marmelad
+    http://metr.by/minsk/novostroyki/zhiloi-kompleks-marmelad-1228.html
     http://marmelad.by/kvartiryi/kvartira48.html
-narochanski
-    http://metr.by/minsk/novostroyki/zhk-narochanskii-1534.html
-    https://dom1.b-house.by/
-        muraveynik
-levada
-    http://metr.by/minsk/novostroyki/zhiloi-kompleks-levada-1642.html
-        zhdany, Svisloch, Dreamland
+        ! uruchie, s drugoy storony ot novoy borovoy
+        tolko 3-ka
+
 petrovschina
     http://metr.by/minsk/novostroyki/zhiloi-kompleks-petrovschina-1017.html
     https://b-house.by/property/zhiloj-kompleks-petrovshhina/
-        ??? doroga ryadom
+        ??? doroga ryadom, kladbische
+petrovskie verfi
+    http://metr.by/minsk/novostroyki/zhk-petrovskie-verfi-1604.html
+        ??? doroga ryadom, kladbische
+
+malaya rodina, mapid, baba yulya
+    http://metr.by/minsk/novostroyki/zhk-malaja-rodina-1482.html
+    http://mapid.by/uslugi/proektirovanie/m464-m.html
+        ! ryadom s M Avtozavodskaya
+        ? zavodskoy rayon, promzona
+uyutnyi kvartal, ul koltsova
+    http://metr.by/minsk/novostroyki/zhk-uyutnyi-kvartal-95.html
+        ??? logoyskiy trakt, net planirovok i tsen
+        ! daleko do metro
+levada
+    http://metr.by/minsk/novostroyki/zhiloi-kompleks-levada-1642.html
+        zhdany, Svisloch, Dreamland
+narochanski
+    http://metr.by/minsk/novostroyki/zhk-narochanskii-1534.html
+    https://dom1.b-house.by/
+        ! muraveynik, ryadom trassa
+
+
+promenad
+    http://metr.by/minsk/novostroyki/zhk-promenad-491.html
+    ! metro v perspective
+    https://yandex.by/maps/157/minsk/?from=api-maps&l=mrc&ll=27.455494%2C53.927638&mode=search&ol=geo&origin=jsapi_2.1.74&ouri=ymapsbm1%3A%2F%2Fgeo%3Fll%3D27.472095%252C53.934643%26spn%3D0.005365%252C0.004196%26text%3D%25D0%2591%25D0%25B5%25D0%25BB%25D0%25B0%25D1%2580%25D1%2583%25D1%2581%25D1%258C%252C%2520%25D0%259C%25D0%25B8%25D0%25BD%25D1%2581%25D0%25BA%252C%2520%25D0%25A6%25D0%25B5%25D0%25BD%25D1%2582%25D1%2580%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B9%2520%25D1%2580%25D0%25B0%25D0%25B9%25D0%25BE%25D0%25BD%252C%2520%25D0%25B6%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25B9%2520%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%2520%25D0%259F%25D1%2580%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BD%25D0%25B0%25D0%25B4%2520&z=15
+
+pr-t pobediteley 133
+    http://metr.by/minsk/novostroyki/zhiloi-dom-po-pr-tu-pobeditelei-133-1038.html
+
 megapolis
     http://metr.by/minsk/novostroyki/zhk-megapolis-18.html
         ??? MKAD
+suharevskiy kvartal
+    http://metr.by/minsk/novostroyki/zhk-suharevskii-kvartal-80.html
