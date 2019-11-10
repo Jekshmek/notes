@@ -4,6 +4,7 @@ http://antoyo.ml/future-of-rust
 https://blog.rust-lang.org/2019/11/07/Rust-1.39.0.html
     https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
     https://habr.com/ru/post/474808/
+    https://www.infoq.com/news/2019/11/rust-async-await/
     https://www.opennet.ru/opennews/art.shtml?num=51835
 
 https://blog.rust-lang.org/2019/09/26/Rust-1.38.0.html
