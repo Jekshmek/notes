@@ -1,5 +1,9 @@
 https://github.com/gradle/gradle/releases
 
+6.x
+https://docs.gradle.org/6.0/release-notes.html
+https://github.com/gradle/gradle/releases/tag/v6.0.0
+
 5.x
 https://docs.gradle.org/5.6.3/release-notes.html
 https://docs.gradle.org/5.2/release-notes.html

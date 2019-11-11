@@ -52,3 +52,9 @@ cnoremap sudow w !sudo tee % >/dev/null
 
 gx
     Open URL/Link under the cursor in browser...
+
+https://vim.fandom.com/wiki/Switching_case_of_characters
+gUw
+    uppercase word
+guw
+    lowercase word

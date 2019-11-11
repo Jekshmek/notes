@@ -183,19 +183,27 @@ Toffler - 3rd Wave
 
 
 Video
-Vavilov - Domino Tilings 1
-    https://www.youtube.com/watch?v=hFLkxxyRtJk         20:00 (of 1:37:09)
+Vavilov - Domino Tilings 2                          - 1:10:00 (of 1:37:09)
+    https://www.youtube.com/watch?v=hFLkxxyRtJk     
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
-Truschin - Math Circle                                  49:00 (of 1:24:34)
-    https://www.youtube.com/watch?v=NacmB5WccqU
-    ! problems of Ford-Falkerson algo
-    ! uluchshenie Karpa
 Reinhold - Java, Today and Tomorrow                 -   11:00 (of   50:37)
     https://www.youtube.com/watch?v=kpio9jFhpD8
+Prasolov - New Serie of Problemsbooks               -   05:30 (of   51:44)
+    https://www.youtube.com/watch?v=vMn4VotFQ4k
+Kozerenko - History of the Notion of Infinity       -   02:00 (of   50:26)
+    https://www.youtube.com/watch?v=tZuSc5yQln0
+Volkova - Math motivation for future Engeneers      -   22:00 (of   54:28)
+    https://www.youtube.com/watch?v=PzKQcHeREnI
+Begunts - Popularizing Math Knowledge at Olympiads  -   00:00
+    https://www.youtube.com/watch?v=LKq5ySJryY4
+other
+    https://www.youtube.com/watch?v=Xgdaq3pe_R8
+    https://www.youtube.com/watch?v=-IVHWBljWNI
+    https://www.youtube.com/watch?v=DiIZL7JbDZQ
+    https://www.youtube.com/watch?v=lzgc-wovOdY
+    https://www.youtube.com/watch?v=cR3WoDBt9H4
 Psoy                                                -   03:00 (of   28:08)
     https://www.youtube.com/watch?v=TQCLLM0Hp5c
-Prasolov - New Serie of Problemsbooks               -   12:30 (of   51:44)
-    https://www.youtube.com/watch?v=vMn4VotFQ4k
 Skopenkov - Teaching Derivative using Olympiad Problems 18:00 (of 1:13:38)
     https://www.youtube.com/watch?v=0yed6ju3YIE
     Zeldovich - Vysshaya Matematika dlya Nachinayuschih
@@ -294,7 +302,7 @@ Malishevsky - Bunin - Mitya Love                    -   12:00 (of 2:23:48)
     https://www.youtube.com/playlist?list=PLxvSgGmU-eklhJsn-FpUrYNTy2d-42td0
 
 Ortho
-Sorokin - L 11                                      -   01:00 (of 1:40:10)
+Sorokin - L 12                                      -   02:00 (of 1:39:57)
     https://predanie.ru/sorokin-vladimir-vladimirovich/seminary-po-knige-levit/slushat/
 Sorokin - Presentation                              -   44:00 (of 3:01:43)
     https://predanie.ru/sorokin-vladimir-vladimirovich/prezentaciya-knigi-v-sorokina-zapovedi-put-zhizni/slushat/
