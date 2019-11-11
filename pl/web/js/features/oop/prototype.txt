@@ -1,6 +1,7 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 
 2019
+https://webdevblog.ru/chem-prototipnoe-nasledovanie-otlichaetsya-ot-klassicheskogo/
 https://habr.com/ru/post/468157/
 https://tproger.ru/blogs/js-classes/
 2018
