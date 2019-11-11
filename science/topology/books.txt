@@ -31,6 +31,10 @@ Kelly
 Engelking
     Obschaya Topologiya
 
+2019
+Hatcher - Topology of Numbers
+    https://pi.math.cornell.edu/~hatcher/TN/TNpage.html
+    https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf
 2017
 Verbitskiy - Beginning Topology Course in Leaflets Problems and Theorems ru
     https://uchitel.by/catalog/book/518519

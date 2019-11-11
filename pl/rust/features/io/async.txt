@@ -8,6 +8,9 @@ https://rust-lang.github.io/async-book/index.html
 
 https://cfsamson.github.io/book-exploring-async-basics/
 
+https://teh-cmc.github.io/rust-async/html/
+    https://github.com/teh-cmc/rust-async/blob/master/README.md
+
 2019
 https://habr.com/ru/post/475272/
 https://blog.rust-lang.org/2019/11/07/Async-await-stable.html
