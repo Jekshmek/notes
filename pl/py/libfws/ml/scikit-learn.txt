@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/475552/
 https://www.infoq.com/presentations/scikit-tensorflow/
 2018
 https://blog.contactsunny.com/data-science/label-encoder-vs-one-hot-encoder-in-machine-learning
