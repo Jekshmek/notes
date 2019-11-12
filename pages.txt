@@ -174,7 +174,7 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
 https://vk.com/mccme
-    2019-07-17
+    2019-08-20
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
@@ -332,13 +332,13 @@ Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  - 180.6    (of 1204)
 Zhitinskiy - Plyvun ru                              - 224.0    (of  588)
-Platov - Secret Farvater ru                         - 287.5    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 136..138 (of  338)
-Myshkis - Soviet Mathematicians ru                  - 124..132 (of  302)
-Shalyto - motivation                                - 386      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  - 124..150 (of 208)
-Bardin                                              -  70..74  (of 146)
-The Little Typer - 15                               -  70..75  (of 375..409)
+Platov - Secret Farvater ru                         - 307.7    (of  755)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 139..146 (of  338)
+Myshkis - Soviet Mathematicians ru                  - 126..132 (of  302)
+Shalyto - motivation                                - 388      (of  873)
+Froydental - Math as Pedagogical Problem part 1 ru  - 126..150 (of 208)
+Bardin                                              -  72..74  (of 146)
+The Little Typer - 15                               -  72..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 
