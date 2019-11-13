@@ -298,14 +298,11 @@ Sample:
 (define Pear
     (Pair Nat Nat))
 
-
-
-
-
 Pear is not a value (names, defined with "define", are nither c-tor, nor type-c-tors)
 
 ! Definitions are unnecessary
 Everything can be done without definitions, but they do improve understanding
+
 
 
 ### Recess: A Forkful of Pie
