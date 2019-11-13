@@ -2,6 +2,7 @@ https://github.com/MostlyAdequate/mostly-adequate-guide
 https://github.com/MostlyAdequate/mostly-adequate-guide-ru
 
 2019
+https://nuancesprog.ru/p/3539
 https://habr.com/ru/post/438404/
 2018
 https://habr.com/company/mailru/blog/327522/

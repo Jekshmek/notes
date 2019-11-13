@@ -5,8 +5,11 @@ https://machinelearningmastery.com/linear-algebra-cheat-sheet-for-machine-learni
 books
 Solomon - Numerical Algorithms
 Savov - No Bullshit Guide to Linear Algebra
-https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
+    https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
+    http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf
+Hefferon - Linear Algebra 3rd ed
+    http://joshua.smcvt.edu/linearalgebra/#current_version
+    http://joshua.smcvt.edu/linearalgebra/book.pdf
 
 numpy
 linalg
