@@ -1,5 +1,8 @@
 http://books.goalkicker.com/KotlinBook/
 
+2020
+SkeenGreenhalgh - Kotlin Programming ru
+    07CAC78ECEDB7B044372EC1A8CBCBE72
 2018
 Arias - Functional Kotlin
 Adelekan - Kotling Programming by Example

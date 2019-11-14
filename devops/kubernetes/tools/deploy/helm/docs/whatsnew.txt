@@ -1,2 +1,5 @@
 https://github.com/helm/helm/milestones
+
+2019
+https://helm.sh/blog/helm-3-released/
 https://sweetcode.io/a-first-look-at-the-helm-3-plan/

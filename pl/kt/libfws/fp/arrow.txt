@@ -5,6 +5,7 @@ course
 https://caster.io/courses/functional-programming-in-kotlin-with-arrow
 
 https://github.com/arrow-kt/arrow
+https://github.com/arrow-kt/arrow-meta
 
 http://arrow-kt.io/docs/
 http://arrow-kt.io/docs/patterns/glossary/
@@ -18,6 +19,7 @@ http://arrow-kt.io/docs/quickstart/projects/
 http://arrow-kt.io/docs/quickstart/blogs/
 
 2019
+https://www.47deg.com/blog/arrow-v0-10-3-release/
 https://blog.frankel.ch/imperative-functional-programming/3/
 https://blog.frankel.ch/imperative-functional-programming/2/
 https://blog.frankel.ch/imperative-functional-programming/1/
