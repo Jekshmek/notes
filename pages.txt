@@ -331,12 +331,12 @@ Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  - 201.7    (of 1204)
 Zhitinskiy - Plyvun ru                              - 231.3    (of  588)
 Platov - Secret Farvater ru                         - 319.0    (of  755)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 144..146 (of  338)
-Myshkis - Soviet Mathematicians ru                  - 130..132 (of  302)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 146..153 (of  338)
+Myshkis - Soviet Mathematicians ru                  - 132..147 (of  302)
 Shalyto - motivation                                - 392      (of  873)
-Froydental - Math as Pedagogical Problem part 1 ru  - 130..150 (of 208)
-Bardin                                              -  76..83  (of 146)
-The Little Typer - 15                               -  78..75  (of 375..409)
+Froydental - Math as Pedagogical Problem part 1 ru  - 132..150 (of 208)
+Bardin                                              -  78..83  (of 146)
+The Little Typer - 15                               -  80..75  (of 375..409)
 
 cpp - iterator category/tag-dispatching
 

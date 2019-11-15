@@ -314,6 +314,9 @@ If X is a type and e is an X, then
     (the X e)
 is an X.
 
+
+
+
 ! The Commandment of "the"
 If X is a type and e is an X, then
     (the X e)
