@@ -1,4 +1,6 @@
 2019
+ChristopherDoerfert - Introduction to LLVM
+    https://www.youtube.com/watch?v=J5xExRGaIIY
 https://developer.apple.com/videos/play/wwdc2019/409/
 2016
 https://llvm.org/devmtg/2016-11/Slides/Nemet-Compiler-assistedPerformanceAnalysis.pdf
