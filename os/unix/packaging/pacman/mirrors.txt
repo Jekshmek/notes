@@ -1,7 +1,7 @@
 pacman -Ss pacman-mirrorlist
 
-pacman-mirrors -g -b stable
-pacman-mirrors -g -b testing
+pacman-mirrors -g
+    [-B stable|testing]
 
 sudo pacman-mirrors -f 3
 
