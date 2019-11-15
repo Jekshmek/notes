@@ -1,7 +1,7 @@
 URLs
 Dubrovskiy - Teacher
     https://internat.msu.ru/math/staff-math/dubrovskij-vladimir-natanovich/vladimir-natanovich-dubrovskij-50-let-raboty-v-fmsh/
-    ! nachalo prepodavaniya
+    ! start v nauku
 https://histrf.ru/biblioteka/reviews/b/koghda-dierzhava-viernulas-rietro-rietsienziia-na-khudozhiestviennyi-film-bieloie-solntsie-pustyni
 https://habr.com/ru/company/edison/blog/474622/
 Dvorkin
@@ -171,11 +171,10 @@ https://blog.predanie.ru/article/novoe-srednevekov-e/
     nastupaet srednevekovie
 http://www.limonow.de/myfavorites/DB_NOBEL.html
     bob dilan
-https://vk.com/mccme
-    2019-11-01
 https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
+https://vk.com/mccme
     2019-11-15
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
@@ -330,7 +329,7 @@ Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  - 201.7    (of 1204)
 Zhitinskiy - Plyvun ru                              - 238.9    (of  588)
-Platov - Secret Farvater ru                         - 319.0    (of  755)
+Platov - Secret Farvater ru                         - 340.3    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 146..153 (of  338)
 Myshkis - Soviet Mathematicians ru                  - 132..147 (of  302)
 Shalyto - motivation                                - 394      (of  873)

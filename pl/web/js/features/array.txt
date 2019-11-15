@@ -1,4 +1,6 @@
 2019
+https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo
+    https://habr.com/ru/post/476042/
 https://habr.com/ru/post/463041/
 https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8
     https://habr.com/ru/company/plarium/blog/446902/
