@@ -1,5 +1,4 @@
 URLs
-http://www.iarex.ru/articles/72470.html
 Dubrovskiy - Teacher
     https://internat.msu.ru/math/staff-math/dubrovskij-vladimir-natanovich/vladimir-natanovich-dubrovskij-50-let-raboty-v-fmsh/
     ! start v nauku
@@ -328,7 +327,7 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  - 201.7    (of 1204)
+Kantor - Red Color                                  - 239.6    (of 1204)
 Zhitinskiy - Plyvun ru                              - 238.9    (of  588)
 Platov - Secret Farvater ru                         - 340.3    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 146..153 (of  338)

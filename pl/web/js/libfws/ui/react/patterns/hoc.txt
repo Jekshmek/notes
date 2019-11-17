@@ -4,6 +4,9 @@ critice
 http://andrew-r.ru/notes/react-hocs
 
 articles
+2019
+https://blog.bitsrc.io/understanding-higher-order-components-in-react-12de3ab2cca5
+    https://nuancesprog.ru/p/3992
 2018
 https://medium.com/@evedes/how-to-develop-your-react-superpowers-with-the-hoc-pattern-61293651d59
 https://tylermcginnis.com/react-higher-order-components/
