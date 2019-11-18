@@ -6,3 +6,5 @@ https://xuu.github.io/wasm-tetris/
 https://github.com/xuu/wasm-tetris
 https://joshleeb.com/posts/rust-wasm-snowhash/
 https://github.com/viftodi/wasm_val
+https://github.com/KlotzAndrew/tetris-rust-wasm
+    http://klotzandrew.com/blog/rust-wasm-tetris

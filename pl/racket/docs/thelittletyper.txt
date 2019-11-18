@@ -314,9 +314,6 @@ If X is a type and e is an X, then
     (the X e)
 is an X.
 
-
-
-
 ! The Commandment of "the"
 If X is a type and e is an X, then
     (the X e)
@@ -327,6 +324,7 @@ Note: U is a type, but it does not have a type
     Pie replies with just its normal form
 Other such samples ar:
     (Pair U U), (Pair Atom U), (-> U U)
+
 
 
 ### 3: Eliminate all Natural Numbers
