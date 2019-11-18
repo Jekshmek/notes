@@ -4,11 +4,13 @@ http://exploringjs.com/impatient-js/toc.html
 https://jsbooks.revolunet.com/
 https://github.com/revolunet/JSbooks
 
-Ilya Kantor
-https://learn.javascript.ru/
-https://learn.javascript.ru/es-modern
-
 2019
+Ilya Kantor
+    https://learn.javascript.ru/
+    https://learn.javascript.ru/es-modern
+    AC084576E7D2D419241092CBF1F4973A
+    957480B3759214DC4AA22C653C424343
+    FC1D63DA5AE3BD2DD40D6382DF97A2B6
 Bae - JavaScript Data Structures and Algorithms
 Morits - Code for Teens ru
     64D3E534A419817FE45E9208D148FCC6

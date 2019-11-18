@@ -327,7 +327,7 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  - 239.6    (of 1204)
+Kantor - Red Color                                  - 251.9    (of 1204)
 Zhitinskiy - Plyvun ru                              - 253.3    (of  588)
 Platov - Secret Farvater ru                         - 356.6    (of  755)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 148..153 (of  338)
@@ -491,4 +491,3 @@ kurs matan (specmath) of 57 school (elements of math in problems)
     https://uchitel.by/catalog/book/71115
     Galibchuk - ... discrete
     https://uchitel.by/catalog/book/443697
-
