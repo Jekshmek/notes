@@ -334,10 +334,16 @@ If a "same as" chart could show that two expressions are the same,
 then this fact can be used anywhere without further justification.
 "Same as" charts are only to help build understanding.
 
+Remember: value is the stuff that has a c-tor at the top
+
+
+
+
 ! Total function
 A function that always assigns a value to every possible argument
 is called a total function
 
+Note: both + and "gaus" are total
 Note: in Pie all functions are total. That's why the order of subexpressions evaluation is not important
 
 Nat-eliminators
