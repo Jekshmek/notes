@@ -2,6 +2,7 @@ git submodule
   sync   - update .git/config based on .gitmodules
   init
   update
+    --remote
   add <url> [folder]
 
 git clone --recursive <url>

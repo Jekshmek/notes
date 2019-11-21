@@ -336,9 +336,6 @@ then this fact can be used anywhere without further justification.
 
 Remember: value is the stuff that has a c-tor at the top
 
-
-
-
 ! Total function
 A function that always assigns a value to every possible argument
 is called a total function
@@ -376,7 +373,6 @@ is an X, then it is the same X as
             base
             step)).
 
-
 Sample:
     (iter-Nat 5
         3
@@ -384,6 +380,9 @@ Sample:
             (add1 smaller)))
     is 8 because it is the same as
         (add1 (add1 (add1 (add1 (add1 3)))))
+
+
+
 
 (claim step-+
     (-> Nat

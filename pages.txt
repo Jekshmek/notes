@@ -1,7 +1,4 @@
 URLs
-Dubrovskiy - Teacher
-    https://internat.msu.ru/math/staff-math/dubrovskij-vladimir-natanovich/vladimir-natanovich-dubrovskij-50-let-raboty-v-fmsh/
-    ! students
 https://histrf.ru/biblioteka/reviews/b/koghda-dierzhava-viernulas-rietro-rietsienziia-na-khudozhiestviennyi-film-bieloie-solntsie-pustyni
 Dvorkin
     https://videoportal.epam.com/video/9o3wGAol
@@ -180,6 +177,8 @@ Toffler - 3rd Wave
 
 
 Video
+Smirnov - Why do Programmers need Math
+    https://www.youtube.com/watch?v=fVzvl9jJEv8
 Miheev - UA
     https://www.youtube.com/watch?v=8xHetUjg7YY
 Vavilov - Domino Tilings 3                          -   24:00 (of 1:36:57)
@@ -313,7 +312,7 @@ Osipov - 2                                          -   00:00 (of)
     https://predanie.ru/osipov-aleksey-ilich/apologetika-2018-g-novye-lekcii/slushat/
 
 Tracking
-This week in rust                                   - 312
+This week in rust                                   - 313
 Razbor Poletov                                      - 206
     https://razborpoletov.com/2019/07/episode-206
 ACCU Overload                                       - 152
@@ -326,15 +325,15 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  - 251.9    (of 1204)
-Zhitinskiy - Plyvun ru                              - 253.3    (of  588)
-Platov - Secret Farvater ru                         - 371.2    (of  755)
-Shalyto - motivation                                - 398      (of  873)
-Myshkis - Soviet Mathematicians ru                  - 136..147 (of  302)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 150..153 (of  338)
-Froydental - Math as Pedagogical Problem part 1 ru  - 136..150 (of 208)
-Bardin                                              -  82..85  (of 146)
-The Little Typer - 15                               -  86..106 (of 375..409)
+Kantor - Red Color                                  - 268.5    (of 1204)
+Zhitinskiy - Plyvun ru                              - 264.7    (of  588)
+Platov - Secret Farvater ru                         - 384.7    (of  755)
+Shalyto - motivation                                - 402      (of  873)
+Myshkis - Soviet Mathematicians ru                  - 140..147 (of  302)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 152..153 (of  338)
+Froydental - Math as Pedagogical Problem part 1 ru  - 154..169 (of 208)
+Bardin                                              -  86..85  (of 146)
+The Little Typer - 15                               -  90..106 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 

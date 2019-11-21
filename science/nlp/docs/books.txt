@@ -1,8 +1,30 @@
+https://proglib.io/p/how-to-start-nlp/
+
 2019
-Bengort - Applied Text Analysis with Python ru
+BengfortBilbroOjeda - Applied Text Analysis using Python ru
     https://vk.com/doc7608079_508121564?hash=843db453e9fa4ef0b4
+Masood - Cognitive Computing Recipes
 2018
+BeysolowII - Applied Natural Language Processing with Python
+    https://vk.com/doc4004138_523230533?hash=99919de02a418d8c8f
+    BEE40F1F6CC96AD601B71AA4C2999063
+    5BAA54D2D27FECA6AB4E10644A14599C
+    8F1E9D4C2F531A37F8E4C75CD4A89DC7
+    181A44A7E730F2D921747DB162049B89
+    ! short
+Bengfort - Applied Text Analysis with Python
+    E0EFDDAA7B373E509D189655BA3189B0
+    36DE5E7D4CB7F658E76CA4A921F4655B
+    A68A8ED831173C5DAA3AFB3A2BADA18D
+Goyal - Deep Learning for Natural Language Processing
 Aggarwal - Machine Learning for Text
     https://vk.com/doc4004138_510792630?hash=490042553c44f68d43
     15E3ECAFF01709B5F3FD0E1B447AF061
     222116F757C7E878A21F1E20D0863AA2
+2017
+Jurafsky - Speech and Language Processing
+    https://web.stanford.edu/~jurafsky/slp3/
+    http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2_%28%D0%92%D0%9C%D0%B8%D0%9A_%D0%9C%D0%93%D0%A3%29_/_2017
+Goldberg - Neural Network Methods in Natural Language Processing
+    http://u.cs.biu.ac.il/~yogo/nnlp.pdf
+    https://www.amazon.com/gp/product/1627052984
