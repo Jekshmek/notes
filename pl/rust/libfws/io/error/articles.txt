@@ -1,4 +1,6 @@
 2019
+https://blog.yoshuawuyts.com/error-handling-survey/
+    https://www.reddit.com/r/rust/comments/dzq42h/error_handling_survey/
 https://www.reddit.com/r/rust/comments/bubtu8/which_error_crate_are_going_to_use_in_2019/
     https://github.com/rust-lang/rfcs/blob/master/text/2504-fix-error.md
 2018

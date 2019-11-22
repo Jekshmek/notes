@@ -171,7 +171,7 @@ https://vk.com/mashinnoe_obuchenie_ai_big_data
 https://vk.com/mathforchildren
 https://vk.com/helloworldbooks
 https://vk.com/mccme
-    2019-11-15
+    2019-11-21
 Toffler - 3rd Wave
     http://www.iarex.ru/articles/52773.html
 
@@ -184,6 +184,8 @@ Miheev - UA
 Vavilov - Domino Tilings 3                          -   24:00 (of 1:36:57)
     https://www.youtube.com/watch?v=ST8zfx5vKvM
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAXneWrX3yuKyuvw3-teNg65
+Arzhantsev - Grobner Basis                          -   07:30 (of 1:22:36)
+    https://www.youtube.com/watch?v=MEnak_neRo0
 Reinhold - Java, Today and Tomorrow                 -   11:00 (of   50:37)
     https://www.youtube.com/watch?v=kpio9jFhpD8
 Prasolov - New Serie of Problemsbooks               -   05:30 (of   51:44)
@@ -325,15 +327,15 @@ OpenSSL Cookbook                                    -  29      (of   58)
 Vertgeiter                                          -  30      (of  190)
 Ryzhik - 1993 - 25000 Math Lessons ru               -  0       (of first 50)
 Gnedenko                                            -  39..41  (of   74)
-Kantor - Red Color                                  - 268.5    (of 1204)
-Zhitinskiy - Plyvun ru                              - 264.7    (of  588)
-Platov - Secret Farvater ru                         - 384.7    (of  755)
-Shalyto - motivation                                - 402      (of  873)
-Myshkis - Soviet Mathematicians ru                  - 140..147 (of  302)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 152..153 (of  338)
-Froydental - Math as Pedagogical Problem part 1 ru  - 154..169 (of 208)
-Bardin                                              -  86..85  (of 146)
-The Little Typer - 15                               -  90..106 (of 375..409)
+Kantor - Red Color                                  - 276.3    (of 1204)
+Zhitinskiy - Plyvun ru                              - 275.9    (of  588)
+Platov - Secret Farvater ru                         - 394.2    (of  755)
+Shalyto - motivation                                - 404      (of  873)
+Myshkis - Soviet Mathematicians ru                  - 142..147 (of  302)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 156..153 (of  338)
+Froydental - Math as Pedagogical Problem part 1 ru  - 142..169 (of 208)
+Bardin                                              -  88..91  (of 146)
+The Little Typer - 15                               -  92..106 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 

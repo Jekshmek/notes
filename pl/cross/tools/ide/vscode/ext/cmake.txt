@@ -1,2 +1,0 @@
-https://vector-of-bool.github.io/2018/07/20/cmt-1.1.0.html
-https://vector-of-bool.github.io/docs/vscode-cmake-tools/kits.html

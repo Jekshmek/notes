@@ -4,8 +4,12 @@ https://github.com/CraneStation/wasi
 https://github.com/fastly/lucet
 
 https://github.com/kubkon/rust-wasi-tutorial
+https://github.com/bytecodealliance/wasmtime/blob/master/docs/WASI-tutorial.md
 
 2019
+https://medium.com/swlh/how-to-build-zxing-c-to-wasm-using-wasi-sdk-in-linux-c1c618ac83f4
+    https://nuancesprog.ru/p/5635
+    https://github.com/yushulx/wasi-zxing-wasm
 https://www.theregister.co.uk/2019/03/29/mozilla_wasi_spec/
     https://habr.com/ru/post/449554/
 Levick - WebAssembly/WASI Deep Dive

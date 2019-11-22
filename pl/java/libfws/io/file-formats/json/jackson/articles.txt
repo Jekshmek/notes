@@ -1,0 +1,5 @@
+2019
+https://www.baeldung.com/jackson-object-mapper-tutorial
+2018
+https://www.baeldung.com/jackson-map
+https://www.baeldung.com/jackson-custom-serialization
