@@ -1,4 +1,6 @@
 2019
+https://dev.to/perborgen/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-29h
+    https://habr.com/ru/post/477144/
 https://css-tricks.com/responsive-designs-and-css-custom-properties-building-a-flexible-grid-system/
 https://vgpena.github.io/using-css-grid-the-right-way/
 https://dev.to/kenbellows/why-we-need-css-subgrid-53mh

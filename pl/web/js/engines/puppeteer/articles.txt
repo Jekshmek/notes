@@ -1,4 +1,5 @@
 2019
+https://habr.com/ru/post/466551/
 https://www.sitepoint.com/getting-started-with-puppeteer/
 https://blog.maddevs.io/acceptance-testing-on-cucumber-js-and-puppeteer-b3660401fdf0
 https://blog.maddevs.io/cucumber-js-puppeteer-testing-in-pair-31d559b7b8bf-31d559b7b8bf

@@ -1,3 +1,6 @@
+2019
+Nash - The Dawn of a New Error
+    https://www.youtube.com/watch?v=T9aSGB9Lfzc
 2018
 http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0709r0.pdf
 http://eao197.blogspot.com.by/2018/05/progcflame-zero-overhead-deterministic.html
