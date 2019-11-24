@@ -1,0 +1,6 @@
+https://skaffold.dev/
+https://github.com/GoogleContainerTools/skaffold
+
+2019
+https://www.infoq.com/news/2019/11/kubernetes-skaffold/
+https://cloud.google.com/blog/products/application-development/kubernetes-development-simplified-skaffold-is-now-ga
