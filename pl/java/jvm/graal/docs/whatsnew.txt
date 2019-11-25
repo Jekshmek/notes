@@ -2,6 +2,7 @@ https://www.graalvm.org/docs/release-notes/
 https://github.com/graalvm/graalpython/blob/master/CHANGELOG.md
 
 2019
+https://www.infoq.com/news/2019/11/graalvm-19-3-jdk-11/
 https://www.graalvm.org/docs/release-notes/19_3/
     https://www.opennet.ru/opennews/art.shtml?num=51906
 https://www.infoq.com/news/2019/06/oracle-releases-graalvm-19.0

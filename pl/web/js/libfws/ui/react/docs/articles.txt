@@ -1,4 +1,5 @@
 2019
+https://pomb.us/build-your-own-react/
 https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc
 https://habr.com/ru/post/448122/
 https://overreacted.io/how-are-function-components-different-from-classes/
