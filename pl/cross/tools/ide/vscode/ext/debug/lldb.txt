@@ -25,3 +25,7 @@ https://github.com/vadimcn/vscode-lldb/blob/master/MANUAL.md
                 "process launch"
             ]
 }
+
+issues
+can't attach
+    https://github.com/Microsoft/vscode-cpptools/issues/115

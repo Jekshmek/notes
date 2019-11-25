@@ -1,5 +1,8 @@
 https://github.com/ahmetb/kubernetes-network-policy-recipes
 
+2019
+https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/
+    https://habr.com/ru/company/itsumma/blog/477390/
 2018
 https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb
     https://habr.com/company/flant/blog/420813/
