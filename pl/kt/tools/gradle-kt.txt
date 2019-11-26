@@ -23,6 +23,7 @@ https://blog.gradle.org/gradle-kotlin-dsl-release-candidate
 https://blog.simon-wirtz.de/the-power-of-gradle-kotlin-dsl/
 
 fat-jar:
+https://blog.shrikantjagtap.com/2019/11/build-application-with-gradle-single.html
 
 dependencies {
     compile 'org.mine:mylib:1.0'

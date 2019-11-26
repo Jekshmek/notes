@@ -1,0 +1,5 @@
+2019
+Gallant - WebAssembly in Action
+Hoffman - Programming WebAssembly with Rust
+    89293A79AC728CB4DA41EAA1B1460E2A
+    80E67317E680DB2B03AD359C471AF84B

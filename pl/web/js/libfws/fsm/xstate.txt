@@ -1,8 +1,17 @@
 https://xstate.js.org/
 https://xstate.js.org/docs/
+https://www.npmjs.com/package/xstate
 https://github.com/davidkpiano/xstate
 
+https://xstate.js.org/viz/
+
+https://spectrum.chat/statecharts
+
 2019
+CodingTech - Mind Reading with Intelligent & Adaptive UIs
+    https://www.youtube.com/watch?v=L05AdGJfWO4
+Bellah - Introduction to XState
+    https://www.youtube.com/watch?v=73Ch_EL4YVc
 https://www.telerik.com/blogs/finite-state-machines-in-react
 https://css-tricks.com/using-react-and-xstate-to-build-a-sign-in-form/
 2018
