@@ -335,8 +335,8 @@ Shalyto - motivation                                - 406      (of  873)
 Myshkis - Soviet Mathematicians ru                  - 144..147 (of  302)
 Mordkovich - Talks with Math Teachers 2nd ed ru     - 158..169 (of  338)
 Froydental - Math as Pedagogical Problem part 1 ru  - 144..169 (of 208)
-Bardin                                              -  90..91  (of 146)
-The Little Typer - 15                               -  94..106 (of 375..409)
+Bardin                                              -  92..97  (of 146)
+The Little Typer - 15                               -  96..106 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 

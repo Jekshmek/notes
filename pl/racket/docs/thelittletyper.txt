@@ -409,6 +409,15 @@ this eliminator is called rec-Nat.
             (\ (n-1 gaus_(n-1))
                 (+ (add1 n-1) gaus_(n-1))))))
 
+Note! Like which-Nat, rec-Nat's step accepts the smaller Nat
+tucked under the target's add1. Like iter-Nat, it also accepts
+the recursive almost-answer.
+
+Note! which-Nat is easy to explain, but rec-Nat can do anything
+that which-Nat (ant iter-Nat) can do.
+
+Note! in book - sample with zerop (using a lot of dim vars)
+
 
 
 
