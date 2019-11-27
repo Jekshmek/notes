@@ -3,6 +3,8 @@ Sutter - Atomic Weapons ...
 The compiler (by default) does not about our shared memory locations.
 
 2019
+Arvid Norberg - The C++ memory model: an intuition
+    https://www.youtube.com/watch?v=OyNG4qiWnmU
 Yossi Moalem - C/C++ Memory Model
     https://www.youtube.com/watch?v=p3557aUkDbs
 2018

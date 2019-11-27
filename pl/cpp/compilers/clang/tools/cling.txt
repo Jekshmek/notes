@@ -18,6 +18,11 @@ https://cdn.rawgit.com/root-project/cling/master/www/use.html
 https://cdn.rawgit.com/root-project/cling/master/www/jupyter.html
 
 presentations
+2019
+Horlock - Interactive C++: Meet Jupyter / Cling
+    https://www.youtube.com/watch?v=UzfYG8GdB3I
+    https://github.com/nhorlock/XeusClingTalk
+????
 https://code-ballads.net/generated-notebooks/cpp/repl_cling/notebooks/2_Functional_REPL.slides.html
 https://code-ballads.net/generated-notebooks/cpp/repl_cling/markdown/
 https://github.com/root-project/cling/tree/master/www/docs/talks
