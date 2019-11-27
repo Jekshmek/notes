@@ -1,0 +1,4 @@
+https://openjdk.java.net/jeps/305
+
+2019
+https://habr.com/ru/post/477654/
