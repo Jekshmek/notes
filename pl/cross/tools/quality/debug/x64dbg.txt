@@ -1,0 +1,4 @@
+https://x64dbg.com/
+https://x64dbg.com/blog/
+
+scoop/extras/x64dbg

@@ -1,6 +1,3 @@
-zgc
-https://wiki.openjdk.java.net/display/zgc/Main
-
 books
 http://gchandbook.org/
 https://www.cs.kent.ac.uk/people/staff/rej/gcbib/gcbib.pdf

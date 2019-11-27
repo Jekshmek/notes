@@ -41,3 +41,21 @@ Vavilov - Domino Tiling
     ! theorem of Elkis, Kuperberg, Larsen and Propp (number of pokrytiy)
     ! beautifool proof of domino-shuffling !!!
     ! !!! obzor Stanley !
+
+    3.
+    https://www.youtube.com/watch?v=ST8zfx5vKvM
+        Opredeliteli i permanenty byvayut tolko u kvadr matrits
+        A pfafiany i hovniany - u simmetricheskih (chetnoy stepeni)
+        permanent
+            https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D1%82
+            http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mo&paperid=79&option_lang=rus
+            vychislenie permanenta - ne yavlyaetsya prostoy zadachey (kak vychislenie opredelitelya)
+                n! * n (eto - mnogo po sravneniyu s n^3 dlya opredeliteley)
+        pfafiany
+            byvayut u antisimmetricheskih matrits
+            https://ru.wikipedia.org/wiki/%D0%9F%D1%84%D0%B0%D1%84%D1%84%D0%B8%D0%B0%D0%BD
+            https://math.wikia.org/ru/wiki/%D0%9F%D1%84%D0%B0%D1%84%D1%84%D0%B8%D0%B0%D0%BD
+            opredelitel antisimmetricheskoy matritsy nechetkogo poryadka raven 0
+
+        hovniany
+            opredeleny fizikom v fizicheskom zhurnale v 1953 godu
