@@ -1,7 +1,7 @@
 Query a SYNC package DB:
 pacman -S --help
 
-pacman -S <package
+pacman -S <package>
     install package (docky)
 
 pacman -Ss <search-str>
@@ -10,10 +10,10 @@ pacman -Ss <search-str>
 pacman -Sg <grp-str>
     list all the package groups, or packages which belong to <grp-str>
 
-pacman -Syu
+pacman -Syu [package]
     y --refresh    - download and refresh sync database
     u --sysupgrade - upgrade all the outdated
-
+    i.e: pacman -Syu fontconfig
 
 Query local package DB:
 pacman -Q --help

@@ -1,5 +1,6 @@
 3.x
-https://habr.com/ru/company/funcorp/blog/475968/
+https://vueschool.io/articles/vuejs-tutorials/exciting-new-features-in-vue-3/
+    https://habr.com/ru/company/funcorp/blog/475968/
 https://www.infoq.com/news/2019/07/vue3-function-based-api-rfc/
 https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138
     https://nuancesprog.ru/p/3199

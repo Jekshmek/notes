@@ -1,0 +1,2 @@
+https://keda.sh/
+https://github.com/kedacore/keda

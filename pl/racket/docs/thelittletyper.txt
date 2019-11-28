@@ -418,9 +418,6 @@ that which-Nat (ant iter-Nat) can do.
 
 Note! in book - sample with zerop (using a lot of dim vars)
 
-
-
-
 (claim step-gaus
     (-> Nat Nat
         Nat))
@@ -434,6 +431,9 @@ Note! in book - sample with zerop (using a lot of dim vars)
         (rec-Nat n
             0
             step-gaus)))
+
+
+
 
 
 (claim *

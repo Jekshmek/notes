@@ -1,0 +1,5 @@
+https://spring.io/projects/spring-cloud-aws
+
+https://cloud.spring.io/spring-cloud-aws/reference/html/
+
+https://cloud.spring.io/spring-cloud-aws/reference/html/#resource-handling
