@@ -1,4 +1,5 @@
 2019
+http://www.zsoltnagy.eu/whats-new-in-es2019/
 https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3
     https://habr.com/ru/company/plarium/blog/471142/
 https://itnext.io/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412
