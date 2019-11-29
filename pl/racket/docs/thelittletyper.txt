@@ -432,10 +432,6 @@ Note! in book - sample with zerop (using a lot of dim vars)
             0
             step-gaus)))
 
-
-
-
-
 (claim *
     (-> Nat Nat
         Nat))
@@ -454,6 +450,10 @@ Note! in book - sample with zerop (using a lot of dim vars)
     (\ (j)
         (\ (n-1 *_(n-1))
             (+ j *_(n-1)))))
+
+
+
+
 
 The shorter way would be
 
