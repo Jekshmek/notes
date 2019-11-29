@@ -5,3 +5,5 @@ git commit
         open the $EDITOR and fix the latest commit message of the previous commit
     --amend --no-edit
         the same but without editing the latest commont message
+    --allow-empty
+        allow commit with empty changes

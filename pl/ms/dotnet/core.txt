@@ -5,6 +5,7 @@ extra
 
 books
 2019
+https://www.infoq.com/minibooks/net-core-3/
 https://www.infoq.com/minibooks/emag-net-core
 2018
 Metzgar - DotNET Core in Action
