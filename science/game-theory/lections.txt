@@ -1,6 +1,9 @@
 2019
 Vyalyi - Algorithmic Game Theory
     https://www.youtube.com/playlist?list=PL-_cKNuVAYAW0wtGRZUyQDW5iG2OJ9Tco
+2018
+Savvateev - Game Theory
+    https://www.youtube.com/playlist?list=PLlx2izuC9gjj4crXUkw2luo8JfNCfmbkn
 ????
 MIPT - Savvateev
 https://lectoriy.mipt.ru/course/Maths-GameTheory-15L

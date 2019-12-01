@@ -1,0 +1,4 @@
+https://kotlinlang.org/docs/reference/extensions.html
+
+2019
+https://blog.frankel.ch/write-extension-functions-own-classes-kotlin/
