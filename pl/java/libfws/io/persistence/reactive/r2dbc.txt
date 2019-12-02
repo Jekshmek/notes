@@ -1,9 +1,12 @@
+https://r2dbc.io/
+
 https://github.com/r2dbc
 https://github.com/r2dbc/r2dbc-postgresql
 
 http://rsocket.io/
 
 2019
+https://habr.com/ru/company/jugru/blog/478384/
 https://speakerdeck.com/maciejwalkowiak/the-state-of-java-relational-persistence
     https://www.youtube.com/watch?v=WSjj-IhBiSY
 2018

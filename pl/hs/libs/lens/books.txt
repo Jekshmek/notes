@@ -1,5 +1,6 @@
 https://opticsbyexample.com/
 
 2019
+https://chrispenner.ca/posts/advent-of-optics-02
 https://chrispenner.ca/posts/advent-of-optics-01
 https://chrispenner.ca/posts/lens-regex-pcre

@@ -1,4 +1,6 @@
 2019
+https://medium.com/better-programming/understanding-golang-and-goroutines-72ac3c9a014d
+    https://nuancesprog.ru/p/5746
 https://nuancesprog.ru/p/5518
 https://medium.com/better-programming/understanding-goroutine-go-channels-in-detail-9c5a28f08e0d
     https://nuancesprog.ru/p/5381
