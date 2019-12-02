@@ -1,0 +1,10 @@
+https://assemblyscript.org/
+
+https://github.com/AssemblyScript
+https://github.com/AssemblyScript/assemblyscript
+
+https://docs.assemblyscript.org/
+
+2019
+https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/
+    https://habr.com/ru/company/ruvds/blog/477272/

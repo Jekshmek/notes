@@ -1,7 +1,8 @@
 2019
 https://habr.com/ru/post/470786/
 2018
-http://www.baeldung.com/security-spring
+https://www.baeldung.com/security-spring
+https://www.baeldung.com/role-and-privilege-for-spring-security-registration
 https://octoperf.com/blog/2018/03/08/securing-rest-api-spring-security/
     !!!
 https://habr.com/ru/post/346628/

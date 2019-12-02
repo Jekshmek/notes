@@ -451,11 +451,15 @@ Note! in book - sample with zerop (using a lot of dim vars)
         (\ (n-1 *_(n-1))
             (+ j *_(n-1)))))
 
+Note! No matter what j is, make-step-* constructs an appropriate step
 
+(define *
+    (\ (n j)
+        (rec-Nat n
+            0
+            (make-step-* j))))
 
-
-
-The shorter way would be
+Note! The shorter way would be
 
 (claim step-*
     (-> Nat Nat Nat
@@ -465,6 +469,11 @@ The shorter way would be
     (\ (j n-1 *_(n-1))
         (+ j *_(n-1))))
 
+
+
+
+
+kkkkkk
 (define *
     (\ (n j)
         (rec-Nat n
