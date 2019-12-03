@@ -469,11 +469,6 @@ Note! The shorter way would be
     (\ (j n-1 *_(n-1))
         (+ j *_(n-1))))
 
-
-
-
-
-kkkkkk
 (define *
     (\ (n j)
         (rec-Nat n
@@ -507,6 +502,12 @@ is an X, then it is the same X as
         (rec-Nat n
             base
             step)).
+
+
+
+
+
+
 
 
 ### 4: Easy a Pie

@@ -1,4 +1,3 @@
-https://www.21vek.by/washbasins/frejal7234040x33_kolo.html
 URLs
 https://predanie.ru/dyagilev-aleksandr-protoierey/semya-dorevolyucionnyy-patriarhat-sovetskiy-matriarhat-detocentrizm-chto-dalshe/slushat/
 Dvorkin
@@ -327,12 +326,12 @@ Gnedenko                                            -  39..41  (of   74)
 Kantor - Red Color                                  - 284.7    (of 1204)
 Zhitinskiy - Plyvun ru                              - 295.7    (of  401..588)
 Platov - Secret Farvater ru                         - 426.3    (of  755)
-Shalyto - motivation                                - 414      (of  873)
-Myshkis - Soviet Mathematicians ru                  - 152..286 (of  302)
-Mordkovich - Talks with Math Teachers 2nd ed ru     - 166..169 (of  338)
-Froydental - Math as Pedagogical Problem part 1 ru  - 152..170 (of 208)
-Bardin                                              -  96..97  (of 146)
-The Little Typer - 15                               - 102..106 (of 375..409)
+Shalyto - motivation                                - 416      (of  873)
+Myshkis - Soviet Mathematicians ru                  - 154..286 (of  302)
+Mordkovich - Talks with Math Teachers 2nd ed ru     - 168..169 (of  338)
+Froydental - Math as Pedagogical Problem part 1 ru  - 154..170 (of 208)
+Bardin                                              - 100..105 (of 146)
+The Little Typer - 15                               - 104..106 (of 375..409)
 
 cpp - iterator category/tag-dispatching
 
