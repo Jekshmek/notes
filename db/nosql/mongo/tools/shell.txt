@@ -1,4 +1,4 @@
-aur/mongo
+aur/mongodb-shell-bin
 
 https://docs.mongodb.com/manual/mongo/#the-mongo-shell
 
