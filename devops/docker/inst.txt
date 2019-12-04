@@ -1,5 +1,7 @@
 install:
 https://blog.docker.com/2015/07/new-apt-and-yum-repos/
+!!!
+https://docs.docker.com/install/linux/linux-postinstall/
 
 wget -qO- https://get.docker.com/ | sh
 curl -l https://get.docker.com/builds/Windows/x86_64/docker-1.6.0.exe > /usr/bin/docker-1.6.0

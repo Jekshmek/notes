@@ -6,6 +6,10 @@ Mena - Practical Haskell 2nd ed
 Putrady - Practical Web Development with Haskell
 Kurt - Get Programming with Haskell
 http://reasonablypolymorphic.com/blog/book-of-types/index.html
+    A1CDA9B193E33BAA528CFBFCE37669C1
+    9B59CB8C668782D7A592B36CA94E7E3F
+    249E69B99B5FF04E4E68E3FEA7DCCAA9
+    89FCEDB57AABA5F0FCEDB63A2D64BDC6
 2017
 Mihailescu - Practical Concurrent Haskell
 AllenMoronuki - Haskell Programming from First Principles
