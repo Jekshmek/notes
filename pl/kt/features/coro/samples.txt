@@ -1,2 +1,5 @@
+2019
+https://hmkcode.com/android/android-network-connection-httpurlconnection-coroutine/
+    https://github.com/hmkcode/Android/tree/master/android-http/http-coroutine
 2018
 https://medium.com/@OhadShai/just-a-small-example-of-how-kotlin-coroutines-are-great-c9774fe8434

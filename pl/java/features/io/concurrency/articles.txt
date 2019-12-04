@@ -1,2 +1,4 @@
+2019
+https://habr.com/ru/company/yandex/blog/477074/
 2018
 https://dzone.com/articles/java-patterns-for-concurrency
