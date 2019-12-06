@@ -5,6 +5,7 @@ http://www.greenteapress.com/thinkbayes/thinkbayes.pdf
 
 2019
 Davidson-Pylon - Python Probabilistics Programming ru
+    https://vk.com/doc120109_525540873?hash=816bba99f556a9a319
     27CFB3870C73C44D951250E924C19743
     ! bad big scan
 2012

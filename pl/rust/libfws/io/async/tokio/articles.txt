@@ -1,4 +1,5 @@
 2019
+https://www.snoyman.com/blog/2019/12/rust-crash-course-09-tokio-0-2
 https://tokio.rs/blog/2019-08-tracing/
 2018
 https://tokio.rs/blog/2018-12-recap-2018/

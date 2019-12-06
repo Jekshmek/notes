@@ -63,3 +63,6 @@ cargo
                 disable output capture behaviour (it's also usefull to set --test-threads to 1)
             --ignored
                 test only ignored
+    vendor
+        https://github.com/alexcrichton/cargo-vendor
+        https://benjamincongdon.me/blog/2019/12/04/Fast-Rust-Docker-Builds-with-cargo-vendor/
