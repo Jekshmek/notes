@@ -1,4 +1,5 @@
 https://www.framer.com/motion/
 
 2019
+https://react.christmas/2019/3
 https://levelup.gitconnected.com/animate-react-with-framer-motion-c761a7ad1c22
