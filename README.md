@@ -1,5 +1,5 @@
 # Notes
-My [mostly textual] notes.
+iharh/notes [mostly textual] notes.
 
 notes/pl/rust/
 	
